@@ -1,0 +1,420 @@
+Actualités des Cahiers du Genre
+Intersectionnalité, langage antisexiste et science ouverte
+Isabelle Clair , Pascale Molinier
+Dans Cahiers du Genre 2021/1 n° 70 , pages 5 à 19
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782343241180
+DOI 10.3917/cdge.070.0005
+Date de mise en ligne : 04/11/2021
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2021-1-page-5?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+ 
+Actualités des Cahiers du Genre 
+Intersectionnalité, langage antisex iste 
+et science ouverte 
+Isabelle Clair et Pascale Molinier 
+Les Cahiers du genre ont été créés en 1999 : ils émanaient 
+d’une revue de laboratoire, les Cahiers du GEDISST1, fondée 
+huit ans plus tôt. L’instauration d’un comité de lecture et le 
+choix de se faire éditer par L’Ha rmattan ont alors permis leur 
+transformation en revue académique, selon les critères de l’époque. 
+Depuis, la revue a suivi l’évolution des attendus d’une 
+publication scientifique : son comité de lecture s’est progressivement élargi au-delà de ses membres fondatrices et de 
+leur laboratoire ; ses articles ont fait l’objet d’une double 
+évaluation, désormais réalisée systématiquement en double aveugle ; et, de plus en plus, e lle a eu recours à des appels à 
+contributions qui sont devenus la principale modalité selon 
+laquelle se constituent ses dossiers thématiques. 
+ 
+1 Le GEDISST, ou Groupe d’étude sur la division sociale et sexuelle du 
+travail, était un laboratoire du CNRS, créé en 1983, par un petit groupe de 
+chercheuses autour de Danièle Kergoat, qui comptait Helena Hirata, Ghislaine 
+Shaw, Anni Borzeix, Danielle Chabaud, Odile Chenal, Dominique 
+Fougeyrollas, Annette La ngevin, Marie Victoire-L ouis et Helen Chenut. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair et Pascale Molinier 6 
+Ceci dit, tout au long de le ur transformation progressive, les 
+Cahiers ont maintenu des pratiques et une ligne éditoriale 
+ancrées dans leur matrice intellectuelle et politique : le 
+féminisme. Le genre, conçu dans une perspective critique, et les 
+divers concepts qui lui étaient antérieurs ou qui sont apparus dans son sillage (le rapport social de sexe, la division sexuelle du travail, le patriarcat, l’hétéronormativité, etc.) sont des 
+catégories centrales des analyses proposées dans ses pages et le refus que ses articles soient écrits au masculin érigé en « grand Référent » (pour reprendre l’ expression de Colette Guillaumin
+2) 
+fait l’objet d’un consensus parmi les membres du comité, attentives et attentifs aux effets liés du fond et de la forme. 
+L’ancrage féministe de la revue est également visible dans ses 
+pratiques éditoriales, depuis la composition de son comité (les objets, les engagements, et la répartition sexuée de ses membres) au maintien en réunion plénière des discussions sur les articles ; par ailleurs, la formulation des avis tient le plus possible compte des conditions de réalisation des textes 
+soumis : sans lever l’anonymat, le statut d’emploi et la position 
+dans la carrière sont pris en compte dans l’évaluation et l’accompagnement de leur reprise. Enfin, une attention au double public des études féministes – des chercheur·e·s en sciences humaines et sociales d’une part, des personnes 
+engagées pour les causes féministes en dehors du seul monde 
+académique d’autre part – est présente dans les débats éditoriaux et la réflexion concernant l’accès aux articles, une fois publiés. 
+Aujourd’hui, les Cahiers du genre amorcent une nouvelle 
+étape, en faisant le choix de passer à une diffusion exclusivement numérique à partir de 2022. Une partie des textes 
+demeurera en accès payant pendant 12 mois après leur parution, en raison du modèle économique actuellement imposé à la production des revues scientifiques, en France. Mais certains de 
+ses contenus, notamment les plus susceptibles de trouver de 
+l’écho au-delà du monde académique, seront accessibles 
+gratuitement à tou·te·s. 
+ 
+2 Voir Guillaumin 2016 [1978], p. 66. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Editorial 7 
+Nous profitons de la présentation de ce numéro, sans dossier 
+(une première dans l’histoire de la revue), pour faire le point sur 
+ce sujet et d’autres qui concernent la période actuelle, traversée 
+de backlash en tous genres dont la recherche féministe est une 
+cible privilégiée et qui nous affectent directement. 
+Pour la première fois, un numéro Varia 
+Comme d’autres publications, les Cahiers du genre 
+participent au débat intellectuel en rassemblant, au sein de 
+dossiers thématiques, des contributions aux statuts divers, 
+participant à rendre intelligible l’actualité (foisonnante) des recherches sur le genre. L’identification de théories et de thèmes marquants, à un moment donné, est d’une grande importance pour la discussion, la transmission et l’archive des 
+idées. Ces dossiers ont la particularité, comme tous les textes 
+publiés dans la revue, d’être pluridisciplinaires, comme le sont les études de genre qui tout à la fois revendiquent des corpus bibliographiques identifiés et des méthodologies rigoureuses, et interrogent les frontières disciplinaires quand celles-ci servent à édifier des tabous, des dogmes épistémologiques, des 
+hégémonies théoriques contre les interpellations minoritaires. 
+Les Cahiers du genre amplifient encore cette diversité en 
+échappant à la spécialité thématique, pour s’intéresser à tout – le travail, les sexualités, l’art, l’éducation, les mouvements sociaux et politiques, la santé, l’histoire intellectuelle… du 
+moment qu’il s’agit de révéler la réalité sociale du genre, à 
+l’œuvre partout. 
+Ce numéro Varia reflète cela en réunissant des contributions 
+venues de la sociologie, de l’économie, de l’anthropologie, du droit, de la littérature, selon des méthodologies variées. Mais il 
+sort de la logique du dossier th ématique en raison d’une année 
+2020 très chamboulée – par le contexte sanitaire qui a perturbé 
+les collectifs de travail et par les effets de la mobilisation des « revues en lutte » contre la dernière réforme en date de l’enseignement supérieur et la recherche, dont les Cahiers du 
+genre ont été partie prenante ; p our cause de grève, celle-ci a 
+donné lieu à une prise en charge intermittente des articles soumis de manière spontanée à la revue, en dehors des dossiers 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair et Pascale Molinier 8 
+thématiques. Leur publication, aujourd’hui, dans un numéro 
+dédié, répare de manière différée les difficultés inévitablement 
+engendrées par la contestation collective, tout en portant la trace, dans la forme même de la revue, du caractère exceptionnel du passé proche – et à de nombreux égards, toujours actuel... 
+La forme Varia permet de rendre visible une autre marque de 
+fabrique des Cahiers du genre , au-delà de leur pluralisme : la 
+mise en valeur de recherches originales ainsi que la circulation des idées et des classiques, entr e les pays, les langues et les 
+divers courants de la pensée féministe. 
+Ainsi la majorité des articles de ce numéro présentent des 
+résultats d’enquête inédits qui ont tous en commun de s’inscrire dans la durée, parce qu’ils sont issus de présences longues sur le terrain ou parce qu’ils renouvellent, grâce à de nouveaux matériaux, des objets classiques de la recherche féministe (les conflits entre syndicalisme et mouvement féministe, 
+l’articulation des temps professionnels et des temps 
+domestiques, la pratique contraceptive). Certains mobilisent les 
+méthodes qualitatives (entretiens, observation ethnographique, analyse de contenus, archives) comme l’article de Christine Salomon qui, s’appuyant sur son travail de longue durée en Nouvelle Calédonie ainsi que le dépouillement de la presse 
+locale à propos de féminicides récents, retrace l’histoire des 
+réponses politiques faites aux violences domestiques touchant les femmes kanakes ; ce sont ég alement ces méthodes qui sont 
+mobilisées dans l’article de Lucie Cros analysant les effets d’une double conscience, de genre et de classe, sur des 
+trajectoires de femmes mobilisées en tant que femmes dans la 
+lutte des Lip, au milieu des années 1970. Les méthodes quantitatives, quant à elles, sont au cœur de deux textes : celui 
+de Thomas Coutrot qui propose une exploitation des dernières 
+données recueillies par l’enquête Conditions de travail et risques psychosociaux (CT-RPS 2016), dont le questionnaire 
+comporte désormais un chiffrage du temps consacré, par les 
+hommes et par les femmes salarié·e·s, aux « tâches domestiques » ; et celui de Mireille Le Guen, Mylène Rouzaud-Cornabas et Cécile Ventola qui, en combinant les données de plusieurs enquêtes françaises sur la fécondité, la santé et la 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Editorial 9 
+sexualité, analysent les pratiques contraceptives du point de vue 
+des hommes – que ces pratiques impliquent les seules femmes, 
+comme la pilule ou le stérilet, les deux sexes, comme le préservatif, ou les seuls hommes, comme la vasectomie. 
+Le numéro compte également un article épistémologique, 
+d’Emmanuel Beaubatie, qui propo se de mobiliser le concept 
+(bourdieusien) « d’espace social », en tant qu’espace 
+multidimensionnel de positions et de situations, pour envisager 
+« les transformations contemporaines de l’ordre sexué », comme une alternative aux manières existantes de « complexifier le modèle femme/homme » dans les travaux de sciences sociales mobilisant central ement le concept de genre. 
+Aux côtés de ces textes totalement inédits, la publication 
+d’une nouvelle traduction d’un article de Kimberlé W. Crenshaw n’est pas due au hasard : elle s’inscrit dans un travail de longue haleine de la revue qui s’efforce de régulièrement 
+mettre à disposition de publics francophones des textes étrangers emblématiques, et elle constitue une réponse de fond 
+aux nombreuses attaques dont nous faisons de plus en plus l’objet, au sein de l’Université et hors d’elle, en raison de nos 
+objets, de nos concepts, de nos résultats – qui dérangent. 
+Le genre, l’intersectionnalité et les savoirs critiques 
+Cette publication a une histoire au sein de la revue. Elle fait 
+écho à la parution d’une précédente traduction de Kimberlé W. 
+Crenshaw, en 2005, dans un dossier intitulé « Féminismes : 
+penser la pluralité », introduit par Dominique Fougeyrollas-Schwebel, Eleni Varikas et Eléonore Lépinard. Intitulé « Cartographies des marges : intersectionnalité, politique de l'identité et violences contre les femmes de couleur », cet article 
+initialement paru en 1991, a été traduit par Oristelle Bonis, une 
+collaboratrice de longue date de la revue
+3. 
+ 
+3 Pour un retour sur cette traduction, lire l’entretien réalisé avec Oristelle 
+Bonis, ainsi qu’avec Cynthia Kraus (à propos de la traduction de Gender 
+trouble ) et Gail Pheterson (à propos de son travail avec Nicole-Claude 
+Mathieu et des traductions de Gayle Rubin), « Translations du genre », paru 
+dans le dossier « Rétrospectives » ( Cahiers du genre , n° 54, vol. 2, 2013). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair et Pascale Molinier 10 
+Une telle publication non seule ment a rendu disponible en 
+français un texte de la recherche féministe entre-temps devenu 
+incontournable outre-Atlanti que, mais elle a favorisé 
+l’introduction, dans le lexique national, d’un mot, l’intersectionnalité, qui tout à la fois réunit une bibliographie 
+polyglotte de plusieurs décennies et participe à formuler une critique majeure au sein de la théorie féministe – à propos de sa 
+difficulté à reconnaître et à penser les différences, les conflits et 
+les inégalités entre femmes et, dès lors, la multiplicité des oppressions croisées que la prise en compte du genre, de manière hégémonique, séparée des autres rapports de pouvoir systémiques ou s’ajoutant à eux comme autant de handicaps 
+sociaux, empêche de saisir. 
+Cette première traduction a eu des conséquences tangibles. 
+En premier lieu, à l’échelle de la revue : la consultation des 
+statistiques de fréquentation des Cahiers du genre sur Cairn 
+indique que, depuis 2015 (date de la mise en ligne de la revue sur cette plateforme), « Cartographie des marges » est l’article 
+qui est, chaque année, le plus consulté. En écho à cela, cette fois 
+à une échelle plus vaste, une ét ude de l’économie de la citation 
+au sein de l’espace éditorial féministe montre qu’il y a, en France, un avant et un après 2005, dans les usages de ce terme 
+et de cette perspective
+4. Et lorsqu’on interroge la base de 
+données bibliographiques Scopus, il apparaît que l’intersectionnalité commence de puis peu à poindre en dehors 
+de ce seul espace, presque systématiquement sous la plume d’auteur·trice·s spécialistes du genre. 
+La poursuite de la diffusion du travail de K. W. Crenshaw 
+tient ainsi de l’évidence pour nous. Or le texte de 1991, traduit en 2005, allait initialement de pair (dans les débats outre-Atlantique notamment) avec un précédent, publié deux ans plus tôt, sous le titre « Demarginalizing the intersection of race and sex ». Très connu lui aussi, mais encore indisponible en français, il complète « Cartographie des marges » à deux 
+égards. D’une part, c’est en réalité ce texte qui, le premier, en 
+anglais, a introduit le terme intersectionality . D’autre part, il 
+s’adresse plus explicitement à la communauté (de pensée et 
+ 
+4 Voir Isabelle Clair, Elsa Dorlin et Baptiste Coulmont (à paraître, 2022). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Editorial 11
+d’action) féministe pour mettre au jour ses impensés à propos 
+des femmes racisées, ainsi que l’indique son sous-titre : « Une 
+critique féministe Noire de la doctrine antidiscriminatoire, de la théorie féministe et de la lutte antiraciste ». C’est cette fois 
+Séverine Sofio qui en a assuré la traduction – comme de nombreuses autres avant celle-ci, pour les Cahiers du genre . Ce 
+texte fait écho à un entretien réalisé par Fanny Gallot, Hourya 
+Bentouhami et Théophile Coppet avec Gerty Dambury, une 
+autrice, metteure en scène et comédienne, également militante depuis les années 1970 pour la reconnaissance des spécificités de l’expérience vécue des femmes noires en France. L’entretien 
+tisse un récit entre les années 1970 (alors que Gerty Dambury 
+militait au sein de la Coordination des femmes noires) et 
+aujourd’hui, entre la Fran ce et les États-Unis, entre 
+l’intersectionnalité théorique et sa pratique – une pratique de 
+longue date parmi les femmes noi res luttant, partout, pour leurs 
+droits. 
+Aujourd’hui, le concept d’inte rsectionnalité est sous le feu 
+d’attaques d’une violence extrême. Il fait partie des mots-clés de la dénonciation de « l’isla mogauchisme » – ce courant 
+théorique fantasmatique qui serait devenu majoritaire au sein de l’Université française (sous l’empire des campus états-uniens) et servirait de bras idéologique à la violence terroriste –, 
+proférée par des éditorialistes d’extrême-droite, par divers·e·s 
+membres du gouvernement actuel (dont notre ministre de tutelle), mais aussi par certain·e·s collègues bradant la controverse scientifique dans un militantisme de tribunes qui fragilise les sciences humaines et sociales dans leur ensemble. 
+Au sein même de la recherche critique de l’ordre social, la 
+reconnaissance des objets qui comptent et des concepts utiles est sujette à polémique, selon des méthodes qui échappent à la discussion scientifique (l’essayisme, l’invective, le blog) – le genre et la race peinent (décidément) à se voir reconnaître le statut de rapport social aussi f ondamental que la classe so ciale, 
+et cette absence de reconnaissan ce se passe de preuve : elle 
+s’opère dans une ignorance savamment entretenue
+5. 
+ 
+5 Voir sur ce sujet et, plus spécifique ment, sur les ressorts et les effets de 
+l’ignorance, l’article d’Eléonore Lépinard et Sarah Mazouz (récemment 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair et Pascale Molinier 12 
+La publication de cette deuxième traduction des recherches 
+de K. W. Crenshaw est une réponse de fond à ces attaques qui 
+oublient les règles élémentaires de la controverse scientifique. Nous l’affirmons avec force : l’intersectionnalité est une catégorie d’analyse fondamentale, dont la conceptualisation évolue au fil des recherches, que nous mettons au travail, selon les modalités de la délibération collégiale, nous inscrivant par-là 
+dans une communauté scientifique plus large que le petit monde 
+hexagonal. 
+L’intersectionnalité est directemen t visée, mais ce sont, d’une 
+façon générale, les théories critiques, dont fait partie la théorie 
+féministe, qui sont de plus en plus vilipendées dans le débat 
+public et au sein même des institutions de l’enseignement supérieur et de la recherche. Se jouant de leurs clivages 
+internes, les tenant·e·s de l’ordre se manifestent de diverses manières, avec une véhémence révélatrice de l’acuité des tensions politiques qui caractérisent particulièrement le moment présent. En témoigne la tonalité de la récente circulaire de Jean-
+Michel Blanquer, ministre de l’Éducation Nationale, à propos 
+de la « proscription » d’une « écriture inclusive » (qu’il ne définit pas) à destination des personnels de son ministère (parue dans le Bulletin Officiel du 6 mai 2021). Un texte d’abord politique, au « pouvoir effectif très faible », ainsi que l’écrit 
+Eliane Viennot, mais qui est révélateur des « pressions du camp 
+conservateur » et de l’état du rapport de force actuel en matière de sexisme. Cette spécialiste de longue date du sujet a rédigé, à 
+chaud, un décryptage de la circ ulaire, dont la publication dans 
+nos pages inaugure peut-être une nouvelle rubrique, à géométrie 
+variable selon l’actualité du moment, proposant une lecture de cette dernière qui soit informée pa r la recherche, en des formats 
+ 
+republié dans une version augmentée a ux éditions Anamosa), « Cartographie 
+du surplomb. Ce que les résistances au concept d’intersectionnalité nous 
+disent sur les sciences sociales en France », publié sur le site Internet de la 
+revue Mouvements , le 12 février 2019, dans le cadre d’un dossier 
+« Intersectionnalité », en réponse (notamme nt) au procès intenté à la race et à 
+l’intersectionnalité par l’historien Gérard Noiriel sur son blog, poursuivi 
+ensuite dans un essai qu’il a publié chez Agone avec le sociologue Stéphane 
+Beaud. Ce dernier a fait l’objet de diverses critiques argumentées, notamment, du côté de l’histoire (des femmes et du genre), Zancarini-Fournel (2021) et, du 
+côté de la sociologie, Marichalar (2021, à paraître). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Editorial 13
+courts et incisifs, pour une diffusion libre au-delà de la 
+communauté scientifique et fasse œuvre d’utilité publique et 
+politique – à une époque où le pouvoir a plus que jamais recours aux brouillages de toutes sortes afin de s’imposer. 
+Le texte d’Eliane Viennot fait également écho au dernier 
+dossier thématique des Cahiers du genre intitulé « Genre, 
+langue et politique. Le langage no n sexiste en débats » (n° 69, 
+volume 2, 2020). Celui-ci, porté par Gwenaëlle Perrier et Marie Loison-Leruste, a donné lieu à un nouveau moment d’échange à propos de l’écriture au sein même de la revue. 
+Les Cahiers du Genre et le refus de l’écriture sexiste 
+Les formes d’écriture non sexiste adoptées dans la revue 
+prennent place dans un refus, lié à la perspective féministe, de 
+penser et d’écrire au masculin générique. Le fond et la forme 
+sont mêlées à cet égard depuis longtemps, et n’ont d’autre choix 
+que de l’être dans une langue particulièrement genrée, comme 
+l’est le français (beaucoup plus que l’anglais, par exemple). Il paraît difficile, dans des textes qui s’inscrivent dans une tradition de pensée ayant pour geste critique fondateur de 
+remettre en cause l’androcentrisme historique du regard 
+scientifique, de reconduire cet a ndrocentrisme dans ses formes 
+d’écriture – qu’il s’agisse d’appliquer la règle du masculin l’emportant sur le féminin, de ne pas féminiser les noms de métier, d’invisibiliser le sexe des scientifiques alors qu’il 
+renseigne sur leur position sociale et donc permet de 
+contextualiser la partialité de leur regard. Adopter une écriture non sexiste s’apparente, dans la revue, au fait de prendre soin à ne pas citer seulement ou d’abord des auteurs hommes (souvent blancs) selon une pratique de vigilance bibliographique 
+routinisée, à ne pas occulter la réalité sociale des femmes, 
+spécifique et foncièrement hétérogè ne, à propos de telle ou telle 
+pratique étudiée dans les artic les, à ne pas oublier que les 
+savoirs situés ne concernent pas seulement les catégories les plus dominées, mais qu’appartenir au groupe des hommes est une position sociale qui doit aussi être prise en compte dans 
+l’analyse. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair et Pascale Molinier 14 
+Ceci dit, la mise à l’agenda co llectif, au-delà de la recherche 
+féministe, de ce que l’on appelle désormais de manière 
+générique (et fautive) « l’écriture inclusive » (qui n’est en réalité qu’une modalité des écritures non sexistes), nous a poussé·e·s à expliciter, de manière plus précise, la façon dont nous procédons aux Cahiers du genre . Jusque-là, la culture 
+commune au sein de la revue, partagée par ses secrétaires de 
+rédaction successives, a encouragé l’implicite sur le sujet qui 
+reposait pour l’essentiel sur le respect des façons de faire des autrices et auteurs que nous avons publié·e·s à partir du moment où leur écriture ne reconduisait pas l’impensé du masculin-neutre. Seuls quelques ajustements, au fil des 
+évolutions des usages, ont pu donner lieu à de réelles 
+discussions collectives au fil des années afin, notamment, de résoudre des problèmes techniques d’édition et de cohérence interne. 
+En écho avec le dossier sur le langage non sexiste publié 
+récemment, nous avons eu une nouvelle discussion en comité 
+sur nos façons de faire et sur notre positionnement sur ce sujet. 
+Nous avons convenu, en accord avec Sophie Gudin, l’actuelle éditrice de la revue, que nous ne voulions pas formaliser outre mesure nos façons de procéder. Il va de soi qu’il est nécessaire qu’au sein d’un même texte, il y ait une cohérence dans 
+l’écriture ; mais, par exemple, dans le dossier sur le langage non 
+sexiste, le plus divers de tout ce que nous avons publié à cet 
+égard, nous n’avons pas uniformi sé les usages entr e les articles, 
+afin que les choix formels restituent le mieux possible les arguments de chaque papier. D’ une façon générale, nous avons 
+décidé de reconduire le choix de ne pas donner une liste de 
+consignes fermée. Nous souhaitons que l’écriture, dans notre revue, témoigne d’évolutions qui sont à l’œuvre dans la 
+recherche au fil des controverses susceptibles de remettre en cause des choix antérieurs, ou de manifester des choix divers en fonction des cadres théoriques de référence. Ainsi la marque du 
+féminin ne va pas nécessairement de soi, puisqu’elle reconduit 
+la binarité du genre, et on peut tout à fait écrire de manière non sexiste sans marque du féminin, le point médian n’étant pas l’alpha et l’oméga de ce type d’écriture : la théorie queer, les études trans’, les circulations entre le mouvement social et 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Editorial 15
+l’espace académique ont des effets sur les écritures qui nous 
+sont soumises, pluralisant de plus en plus des usages que nous 
+ne souhaitons pas policer. Au contraire, nous souhaitons que notre revue rende possible la créativité antisexiste sans la clore par un excès de formalisme. Adopter une telle écriture ne consiste de toute façon pas à instituer une grammaire à la place d’une autre, mais de choisir une pratique de subversion d’un 
+ordre injuste. Or la subversion est toujours en mouvement. Dans 
+la continuité de notre façon de fonctionner jusqu’à présent, mais 
+cette fois de manière explic ite, nous allons prochainement 
+rendre publique une note sur ce sujet qui accompagnera enfin les consignes aux autrices et auteurs, dans ce sens. Grâce à la 
+contribution de Gwenaëlle Perrier, elle aura aussi une visée 
+pédagogique à destination des personnes qui côtoient la revue (qui la lisent, qui y participent) en donnant à voir les diverses façons de procéder qui ne sont pas nécessairement très connues au-delà du fameux point médian. Elle s’en explique dans un papier en fin de ce numéro Varia . 
+Le choix de ne pas faire adopter une grammaire alternative 
+figée entre en tension avec la rigueur du travail d’édition qui, lui, requiert des règles. C’est une tension qui a toujours été présente aux Cahiers du genre et s’est renforcée au fur et à 
+mesure de la professionnalisation et de l’institutionnalisation de 
+la revue. Plus les règles sont ouvertes, plus repose sur les 
+épaules de l’éditrice le travail d’harmonisation mais aussi parfois de choix lexicaux, de mi se en cohérence des textes et, 
+bien sûr, de négociation avec les autrices et les auteurs à propos de leurs propres choix initiaux. C’est pourquoi les moments 
+d’explicitation sont importants : ils obligent à penser de manière 
+continue toutes les étapes de la production des articles, des choix d’écriture de leur première version à la prise en compte 
+de la dimension technique et stylistique du travail d’édition jusqu’à la publication. 
+Deux principaux moments d’explic itation, avant le dernier en 
+date délimitent, trois grandes périodes, dans la revue : 
+1 - Tout d’abord, de sa création au début des années 2000, 
+certaines autrices (à l’époque les hommes s’intéressant aux rapports sociaux de sexe et au genre étaient des exceptions) 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair et Pascale Molinier 16 
+donnaient à voir la ma rque du féminin dans leur écriture lorsque 
+des femmes et des hommes habitaient leurs analyses, d’autres 
+non (ceci dit, beaucoup ne traitaient que de la réalité sociale de 
+femmes et, dans ce cas, tout était évidemment écrit au féminin) ; les usages typographiques étaient divers, avec une prédominance des parenthèses encadrant le féminin (les 
+auteur(e)s). qui ont ensuite été abandonnées. Une telle liberté et 
+une telle diversité étaient à l’œuvre aussi du côté des références 
+bibliographiques, qui développaient ou non, selon les articles, les prénoms des personnes citées. 
+2 - Ensuite, au cours de la première décennie des années 
+2000, le développement des prénoms en bibliographie est 
+devenu systématique. En même temps que le travail d’édition 
+s’est conformé à l’homogénéi sation de la présentation des 
+références attendue d’une re vue académique, le choix 
+d’homogénéiser dans ce sens te nait à deux principales raisons. 
+D’une part, il reflète dans l’écriture la volonté de sortir de 
+l’invisibilité les femmes comme su jets de connaissance. D’autre 
+part, il transcrit l’un des fondements de l’épistémologie féministe qui enjoint aux scientifiques de rendre compte de leur position sociale, afin de contextualiser la partialité de leur regard, que leur sexe assigné participe à déterminer. 
+3 - Enfin, autour des années 2010, les parenthèses ont 
+totalement disparu au profit du point médian. Nous l’utilisons entre la marque du masculin, celle du féminin et celle du pluriel (pour les substantifs et les adjectifs au pluriel), mais de plus en plus apparaît, dans les textes qui nous sont soumis, le recours à 
+un point seulement entre le masculin et le féminin (collant 
+désormais le « s » du pluriel à la marque du féminin). Par 
+ailleurs, des tentatives ont été faites pour recourir à la règle de l’accord de proximité, afin de normaliser les accords du pluriel avec le substantif le plus proche, sans qu’elle se soit encore jamais imposée. 
+Sur tous ces sujets, les évolutions d’usages de la part des 
+personnes qui soumettent des articles aux Cahiers du genre 
+mais aussi des membres du comité qui les évaluent et les relisent, ainsi que les propositions de la personne en charge de 
+l’édition des textes, ont été le principal facteur d’évolution. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Editorial 17
+Mais nous tenons compte aussi d es résultats de la recherche 
+féministe ; ainsi, par exemple, lorsqu’il a été établi qu’ autrice 
+était d’un usage antérieur au seul masculin auteur (Viennot 
+2014), nous avons décidé d’en syst ématiser l’usage et dès lors 
+de le préférer à la forme « auteur e » (avec un « e » final) qui 
+l’emportait jusque-là dans notre publication. 
+Le passage au tout-numérique 
+La discussion à propos de l’abandon de la publication sur 
+papier des Cahiers du genre est en cours depuis plusieurs 
+années. Le fait que les articles soient désormais massivement 
+consultés en ligne, de la part des chercheur·e·s comme des militant·e·s féministes en dehors de l’espace académique, ainsi que le déclin concomitant et continu des abonnements papier, 
+alors même que la production de papier pèse sur 
+l’environnement, sont la première raison de cette décision. Le 
+support du papier allait de soi au moment de la création de la revue jusqu’à récemment : pour asseoir sa légitimité scientifique à une époque où il était, avec un éditeur privé, le principal moyen de légitimation symbolique et de diffusion des 
+textes, dans l’espace académique comme hors de lui. Ce n’est 
+plus le cas aujourd’hui et, pour reprendre l’expression de Didier Demazière (2017), dans son text e explicitant les raisons pour 
+lesquelles Sociologie du travail a alors fait un choix en partie 
+similaire, le « centre de gravité » des Cahiers du genre est, 
+désormais, de manière incontestable, numérique. 
+En revanche, et au contraire de Sociologie du travail , nous ne 
+sautons pas (encore) le pas de l’édition totalement ouverte et l’accès à la majorité de nos articles restera payant, au cours des deux années suivant leur publication, sur la plateforme privée 
+Cairn, qui diffuse la revue de puis 2015. Nous procédons par 
+étapes (ce qu’avait d’ailleurs fa it aussi, en son temps, chez un 
+autre éditeur numérique, Sociologie du travail) afin d’assurer la 
+continuité d’un travail collectif par ailleurs ébranlé de multiples 
+façons : si les Cahiers du genre , en raison notamment de leur 
+ancienneté, ont le privilège de pouvoir bénéficier du travail 
+d’une éditrice (titulaire) – ce qui n’est pas le cas de toutes les 
+revues de sciences humaines et sociales françaises, loin de là –, 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair et Pascale Molinier 18 
+en revanche celle-ci, Sophie Gudi n, n’est désormais plus qu’à 
+mi-temps (en partage avec l’édition de la revue Sociétés 
+contemporaines ) depuis le départ à la retraite, en 2019, de la 
+précédente, Danièle Senotier, dont 80% de l’activité étaient 
+consacrés à la revue. Or l’édition en open access ajoute de 
+nombreuses tâches d’éditing en même temps qu’elle conduit à 
+la baisse des recettes de la revue que les subventions publiques 
+ne permettent pas de compenser, alors qu’il lui revient 
+d’autofinancer son activité – en particulier les traductions (des titres et résumés, et de nombreux articles entiers), qui occupent son principal poste de dépenses. 
+Cela dit, le passage au tout-numérique ne signifie pas le statu 
+quo au regard de l’accessibilité de la revue. D’une part, un tirage papier à la demande restera possible, notamment pour diffuser la revue à l’occasion d’événements scientifiques faits d’interactions de face-à-face. D’autre part, nous allons désormais mettre plus de textes en accès libre dès leur publication : non seulement les introductions des dossiers 
+thématiques (qui constituent souvent des états de l’art précieux 
+sur tous les sujets abordés), les notes de lectures mais aussi au moins un texte (un article, un entretien, un document) dont il nous semblera qu’il gagnerait à être diffusé auprès d’un public plus large que le public abonné à la base de données Cairn. Et 
+bien sûr, demeure la présence en accès totalement libre, sur 
+Persée, des numéros 1 (Cahiers du Gedisst , 1991) à 29 ( Cahiers 
+du genre , 2000). Et tous les numéros deviennent 
+progressivement librement accessibles deux ans après leur publication. 
+Le passage au tout-numérique augure un grand changement à 
+même de nous permettre de mainteni r le cœur de notre travail et 
+de nos engagements, avec la même maquette et une nouvelle 
+couverture – encore en cours d’élaboration… 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Editorial 19
+Références 
+Bonis Oristelle, Kraus Cynthia, Phet erson Gail, Clair Isabelle, Heinen 
+Jacqueline (2013). « Translations du genre ». Cahiers du Genre 54 
+(1) : 21-44. 
+Clair Isabelle, Coulmont Baptiste, Dorlin Elsa (2022, à paraître). « Faire 
+référence. L’économie de la citation dans dix revues féministes ». In 
+Isabelle Clair et Elsa Dorlin (dir.), Photo de famille. Penser des vies 
+intellectuelles d’un point de vue féministe . Paris, Éditions de l’EHESS. 
+Crenshaw Kimberlé W. (2005 [1991]. « Cartographies des marges  : 
+intersectionnalité, politique de l’identité et violences contre les femmes de couleur ». Traduit par Oristelle Bonis. Cahiers du Genre 
+39 (2) : 51-82. 
+Demazière Didier (2017). « Dans les coulisses de Sociologie du travail ». 
+Sociologie du travail 59 (1). https://doi.org/10.4000/sdt.502. 
+Fougeyrollas-Schwebel Dominique, Lépinard Éléonore, Varikas Eleni 
+(2005). « Introduction ». Cahiers du Genre 39 (2) : 5-12. 
+Guillaumin Colette (2016 [1978]). « Pratique du pouvoir et idée de 
+nature ». In Sexe, race et pratique du pouvoir. L’idée de nature . 
+Donnemarie-Dontilly, iXe : 13-78. 
+Lépinard Eléonore, Mazouz Sarah (2018). « Cartographie du surplomb. 
+Ce que les résistances au concept d’intersectionnalité nous disent sur 
+les sciences sociales en France ». Mouvements . 
+https://mouvements.info/car tographie-du-surplomb/. 
+Lépinard Eléonore, Mazouz Sarah (2021). Pour l’intersectionnalité . Paris, 
+Anamosa. 
+Loison-Leruste, Marie, Perrier Gwe naëlle, Noûs Camille (2020). « Le 
+langage inclusif est politique  : une spécificité française  ? » Cahiers du 
+Genre 69 (2) : 5-29. 
+Marichalar, Pascal (2021, à paraître). « Penser sans, penser contre ». Zilsel 
+9 (2). 
+Viennot Éliane (2014). Non, le masculin ne l’emporte pas sur le 
+féminin ! Petite histoire des résistances de la langue française. 
+Donnemarie-Dontilly, iXe. 
+Zancarini-Fournel Michelle (2021). « Les erreurs d’un livre ». En 
+attendant Nadeau . 
+https://www.en-attendant-nadeau.fr/2021/02/25/erreurs-livre-beaud-
+noiriel/ 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

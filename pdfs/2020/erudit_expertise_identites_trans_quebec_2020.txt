@@ -1,0 +1,667 @@
+Des problématisations scientifiques aux problèmes… – Cahiers de recherche sociologique – Érudit 
+
+ Main Menu
+
+ Publication types 
+
+ Journals 
+
+ Theses and dissertations 
+
+ Books and proceedings 
+
+ Research reports 
+
+ Log In
+
+ About 
+
+ Érudit 
+
+ Coalition Publica 
+
+ Open access 
+
+ Annual report 
+
+ Advanced Search 
+
+ EN 
+
+ Français
+
+ English
+
+ My Library 
+
+ Search 
+
+ Breadcrumb
+
+ Érudit 
+
+ Journals 
+
+ Cahiers de recherche sociologique 
+
+ Agir collectif et pratiques de résistance. Démocratiser l’action publique
+
+ Des problématisations scientifiques aux problèmes politiques : le rôle de … 
+
+ Troisième partie. L’institutionnalisation des valeurs et des pratiques démocratiques 
+
+ Des problématisations scientifiques aux problèmes politiques : le rôle de l’expertise dans la reconnaissance des identités trans au Québec From scientific problematizations to political problems: The role of expert knowledge in Québec’s recognition of trans identities De la problematización científica a los problemas políticos : el rol de la especialización en el reconocimiento de las identidades trans en Quebec 
+
+ Étienne
+ Labarge-Huot 
+
+ Online publication: Feb. 15, 2022
+
+ URI 
+ 
+ https://id.erudit.org/iderudit/1086363ar
+ Copied An error has occurred 
+ DOI 
+ 
+ https://doi.org/10.7202/1086363ar
+ Copied An error has occurred 
+
+ An article of the journal
+ Cahiers de recherche sociologique   
+
+ Number 68, Winter 2020 , p. 205–229 Agir collectif et pratiques de résistance. Démocratiser l’action publique 
+
+ © Cahiers de recherche sociologique, 2022 
+
+ Browse the articles in this issue
+
+ Fragmentation du monde institutionnel. La question de la résistance des professionnels scolaires aux nouvelles formes de rationalisation et d’organisation du travail au sein de l’école québécoise
+
+ [End of issue] Back to summary 
+ 
+ Article outline
+
+ Back to top 
+
+ Abstract 
+
+ La généalogie comme méthode 
+
+ Le modèle médical traditionnel 
+
+ La transformation du regard scientifique sur les identités trans 
+
+ L’expertise thérapeutique et médicale dans la transformation du cadre légal régissant
+ le changement de la mention de sexe légal et les identités trans (2013-2016) 
+
+ En conclusion 
+
+ Note biographique 
+
+ Notes 
+
+ Bibliographie 
+
+ Toolbox
+
+ Save Delete 
+
+ PDF Download 
+
+ Cite this article 
+
+ Share 
+
+ Abstracts
+
+ Résumé
+
+ Entre 2013 et 2016, les lois et règlements du Québec régissant le changement de la mention de sexe ont été modifiés, délaissant le modèle médical traditionnel gérant la transsexualité, et s’inscrivant en cohérence avec les nouveaux modèles trans-affirmatifs de gestion de la variance de genre. La transphobie a également été problématisée avec succès, résultant en l’interdiction de discrimination en fonction de l’identité de genre et de l’expression de genre. Se basant sur une étude généalogique des discours scientifiques sur les identités trans, l’article vise à illustrer le rôle des experts adoptant une perspective « allié » dans cette transformation de l’action publique, et montrer comment la reconnaissance de la souffrance et des aspirations des personnes trans et leur intégration dans les discours scientifiques lors de moments de problématisation en ont été des éléments essentiels. 
+
+ Mots-clés : 
+
+ Expertise, 
+
+ transgenre, 
+
+ identité trans, 
+
+ action publique, 
+
+ transphobie
+
+ Abstract
+
+ Between 2013 and 2016, laws on legal sex change in Québec were transformed, forsaking the traditional medical model of transsexuality and espousing the new trans-affirmative models on gender variance. During this time, transphobia was also effectively problematized, resulting in the prohibition on discrimination based on gender identity or expression. Based on a genealogical analysis of scientific discourses about trans identity, this article aims to illustrate the role of experts adopting the perspective of «  allies  » in this transformation of public action, and show how a posture of recognition of trans people’s suffering and aspirations and their integration into scientific discourse in moments of problematization were central elements in such transformation.
+
+ Keywords: 
+
+ Public policy, 
+
+ expertise, 
+
+ transgender, 
+
+ trans identity, 
+
+ transphobia
+
+ Resumen
+
+ Entre 2013 y 2016, las leyes y reglamentos de Quebec que rigen el cambio de la mención de sexo han sido modificadas, dejando atrás el modelo médico – tradicional que regía la transexualidad y que se inscribía de manera coherente con los nuevos modelos trans – afirmativos de gestión del cambio de género. En consecuencia, la trans-fobia fue cuestionada con éxito dando como resultado la prohibición de la discriminación en función de la identidad de género y de la expresión de género. Sobre la base de un estudio genealógico del discurso científico sobre la identidad trans, el artículo se orienta a ilustrar el rol de los especialistas que adoptan una perspectiva « aliada » dentro de esta transformación de la acción pública y muestran como el reconocimiento del sufrimiento y de las aspiraciones de las personas trans y de su integración dentro de los discursos científico fueron esenciales durante la etapa de la elaboración del problema.
+
+ Palabras clave: 
+
+ Especialización, 
+
+ trans-género, 
+
+ identidad trans, 
+
+ acción pública, 
+
+ transfobia
+
+ Article body
+
+ Entre 2013 et 2016, une révolution silencieuse est advenue dans la façon dont les identités
+ trans sont régulées au Québec. En moins de trois ans, l’obligation de chirurgie et de
+ supervision médicale pour le changement de la mention de sexe dans les documents légaux
+ était retirée en faveur de l’autodétermination. Nous assistions à un élargissement de la
+ possibilité de la transition légale aux mineurs. En outre, étaient désormais incluses
+ comme motifs interdits de discrimination dans la Charte des droits et libertés de la
+ personne du Québec l’expression de genre et l’identité de genre. De même, les libellés des
+ lois et règlements qui s’y rattachent ont été modifiés en conséquence : il était dès lors
+ de mise d’utiliser un langage en termes de genre 
+ plutôt que de sexe. Il s’agit là d’un rejet du modèle médical traditionnel visant à
+ réserver la transition médicale, sociale et légale à un nombre restreint de « candidats »
+ sélectionnés par des spécialistes du monde médical et thérapeutique, modèle qui a duré
+ plus de trente-cinq ans au Québec. Cette période est également le moment de mise à
+ l’agenda de la transphobie , laquelle, jusqu’alors
+ un aspect secondaire de la politique québécoise de lutte contre l’homophobie, se voit
+ désormais élevée explicitement à la même importance que cette dernière.
+
+ Bien qu’une littérature scientifique sur les personnes trans et la transphobie se développe au Québec, l’analyse des transformations du cadre légal reste jusqu’à présent centrée sur le phénomène d’une action militante visant à influencer l’action publique (Enriquez, 2013 ; Bourgois, 2016). En complémentarité avec ces approches, il nous semble nécessaire d’aborder dans l’explication de ces transformations le rôle de différents discours scientifiques et de l’expertise qui les produit et les mobilise. Tout comme l’action militante, ces derniers opèrent de manière non moins importante dans l’ouverture de l’action publique à différentes revendications subalternes.
+
+ Les sociétés contemporaines hautement diversifiées reposent en effet sur des systèmes experts (Giddens, 1994) où les connaissances spécialisées ont un rôle non seulement dans la production des produits et services, mais jusque dans l’ensemble des gestes quotidiens et dans la production des identités (Agamben, 2006 ; Martuccelli, 2017). L’expertise s’est également démocratisée au courant du XX e siècle, la technocratie centralisée faisant place à sa généralisation dans un salariat spécialisé (Fischer, 2009) et dans différentes techniques d’exercice du pouvoir décentralisées faisant appel à la participation (Delmas, 2011).
+
+ L’expertise joue donc un rôle central non seulement dans la résolution des problèmes de gouvernance (Muller, 2000 ; Hall, 1993), mais aussi dans des processus démocratiques où elle s’imbrique avec des mouvements militants. Ainsi, depuis plusieurs années, les mouvements militants et les organisations autour desquelles ils s’organisent ont été l’objet d’un processus de professionnalisation visant à la production d’une expertise concurrente à celle produite par différents milieux (entreprises, universités, etc.), et pouvant participer au déroulement de débats publics en vue de faire infléchir l’action publique (Foyer, 2012 ; Ollitreault, 2001).
+
+ Différents auteurs ont ainsi théorisé un nouvel idéal-type d’acteur politique : l’ expert-militant ou le militant-expert (Nonjon, 2005 ; Ollitreault, 2001). Sylvie Ollitreault distingue le premier du second. Les militants-experts sont entendus comme des militants qui développent une expertise reconnue sur leur cause, tout en pouvant être engagés comme professionnels par des organisations ; alors que les experts-militants sont des chercheurs dont l’intérêt pour une cause lie leur activité scientifique et ses ressources à un projet normatif et politique. 
+
+ Bien que ces concepts nous apparaissent pertinents pour aborder le moment de l’interaction entre les sphères scientifiques et politiques dans la transformation de l’action publique, le cas particulier des transformations législatives en lien aux identités trans nous semble nécessiter de porter le regard encore plus en amont afin de saisir comment les revendications subalternes (ici d’autonomie des personnes trans) ont affecté en premier lieu l’activité scientifique et clinique ainsi que les savoirs qui la constituent. En effet, des transformations importantes au niveau des discours et concepts permettant de penser les identités trans, notamment en lien aux notions de sexe et de genre (Labarge-Huot, 2020), nous semblent avoir eu lieu bien avant le moment de la rencontre entre l’expertise scientifique et la sphère politique. Ces transformations nous semblent également avoir directement informé la problématisation du cadre légal québécois.
+
+ Le présent article, à travers une analyse généalogique de la transformation des discours experts occidentaux sur les identités trans et de la problématisation politique de la transphobie au Québec, vise à montrer que la reconnaissance politique des personnes trans au Québec entre 2013 et 2016 a nécessité un travail préalable de reconnaissance d’éléments identitaires (Honneth, 2010) par les experts des milieux médicaux et thérapeutiques. Nous estimons que ce travail peut être compris comme l’adoption d’une perspective d’allié . En outre, l’article vise à contribuer à une sociologie des problèmes publics en insistant sur le rôle dans la société contemporaine des dispositifs thérapeutiques visant la réduction de la souffrance (Rose, 1999). En plus de processus tels que les luttes ou coalitions entre groupes, ou encore le travail d’entrepreneurs de cause (Lascoumes et Le Galès, 2012), il nous semble essentiel de porter attention aux « problématiques » auxquelles sont confrontés différents milieux spécialisés. Les transformations de l’expertise qu’entraînent ces moments de problématisation nous semblent jouer un rôle structurant sur les problématisations politiques touchant les objets sociaux pour lesquels on reconnaît une certaine autorité aux experts. 
+
+ Une première partie de l’article visera à clarifier le cadre théorique et la méthodologie de l’analyse. Une deuxième partie visera à détailler comment les identités trans ont été problématisées en Occident et quelle logique a animé le modèle médical traditionnel qui s’est instauré au Québec en 1977. Une troisième partie portera sur les conditions de possibilité du nouveau modèle thérapeutique trans-affirmatif et la façon dont il a rendu possible la problématisation de la transphobie. Une quatrième partie visera à présenter comment l’expertise médicale et thérapeutique a contribué aux processus consultatifs entre 2013 et 2016 ayant mis fin au cadre légal du modèle médical traditionnel au Québec. 
+
+ La généalogie comme méthode
+
+ L’analyse repose sur une méthode généalogique telle qu’elle a été mise en pratique par Michel Foucault et ceux qui l’ont suivi (Foucault, 1976 ; Donzelot, 1977 ; Rose, 1999). Davantage « boîte à outils » que méthode balisée, la généalogie implique un certain regard sur l’État et la politique. Comme l’avance Nikolas Rose, la généalogie conçoit l’État non pas comme le centre du pouvoir dont les lois organisent la société, mais comme un auteur important parmi d’autres au sein de circuits de pouvoir interconnectés où coexistent de multiples autorités (Rose, 1999, p. 5). Dans une telle perspective, l’action publique renvoie davantage à une « forme terminale » du pouvoir (Foucault, 1976, p. 121), c’est-à-dire le résultat de l’interaction et de l’appui réciproque de multiples lieux locaux où s’exerce une volonté de contrôle (et en retour de résistance) mise en action à travers différents savoirs experts.
+
+ L’analyse généalogique porte donc sur toute manifestation de la gouvernementalité , soit le déploiement dans tout le corps social, et de technologies politiques visant la conduite des conduites dans le but de l’augmentation de la puissance de l’État, de la richesse, du bonheur des administrés et la santé de la population (Donzelot, 1977). La généalogie est donc l’analyse d’un pouvoir particulier, celui qui veut notre bien .
+
+ Dans cette perspective, l’analyse du pouvoir est inséparable de l’analyse des discours qui les constitue (Hook, 2001). La généalogie se rapproche ainsi davantage d’une perspective constructiviste cherchant à comprendre que d’une perspective réaliste portée sur l’explication causale. Cependant, l’objet de la compréhension n’est pas le discours comme création subjective , mais plutôt l’ensemble des « procédures » historiques qui limite ce qui peut être dit au sein de jeux de vérités desquels la pensée peine à sortir (Foucault, 1990). L’analyse généalogique porte donc sur les transformations de ce qui compte pour vérité (les savoirs) et sur l’ensemble des conditions historiques qui ont donné forme à ces discours, tels que les lieux d’où des objets émergent comme objet de contrôle ou d’intérêt, ou encore les instances autorisées de production d’un discours reconnu et leurs grilles d’analyse (Foucault, 1969). Ainsi, pour Foucault, le monde social se constitue en expériences de différents objets, qui déterminent ce qu’on peut en dire, en faire, et le rapport subjectif à soi-même qu’elles permettent (Foucault, 1984). L’analyse généalogique consiste en la reconstruction historique de ces expériences en montrant comment elles émergent de problématiques (Foucault, 2014), c’est-à-dire d’impasses dans le fonctionnement du pouvoir nécessitant de nouvelles pratiques et de nouveaux savoirs.
+
+ La présente analyse porte ainsi sur les façons dont les identités trans ont été problématisées à travers un ensemble de discours scientifiques donnant lieu à des jeux de vérité déterminant l’intelligibilité des identités trans et la logique des cadres légaux les régissant ; d’abord comme élément d’exception à permettre sous supervision médicale, puis comme variance normale à protéger d’un environnement discriminatoire. L’analyse se base sur un corpus d’ouvrages scientifiques sur les identités trans depuis les années 1960, et plus récemment sur les travaux de la World Professional Association for Transgender Health (WPATH) et de l’American Psychiatric Association (APA) dans les années 2000, lesquels ayant consacré la fin du modèle médical traditionnel. Finalement, l’analyse de la contribution de l’expertise scientifique à la problématisation politique québécoise du modèle traditionnel se basera sur les mémoires et témoignages d’experts lors de trois commissions parlementaires chargées du dossier entre 2013 et 2016.
+
+ Le modèle médical traditionnel
+
+ Le premier moment de problématisation qui sera analysé est l’adaptation du milieu médical à la demande de « changement de sexe » au milieu du XX e siècle, demande qui forme la surface d’émergence (Foucault, 1969) à l’origine du discours scientifique sur les identités trans et son modèle traditionnel axé sur le concept de transsexualité. Loin d’aller de soi, ce modèle a nécessité la victoire d’un choix thématique sur un autre : la victoire de la reconnaissance d’une vérité dans la parole des personnes trans (perspective alliée) contre le rejet de cette parole sur une base morale ou scientifique.
+
+ Les identités trans ont émergé relativement récemment comme objet de connaissance scientifique et objet d’interventions spécifiques à travers des politiques, des lois ou des règlements. Au cours du XIX e siècle, dans le cadre de la sexologie émergente organisée autour de la psychiatrie (Chiang, 2009) et participant d’une biopolitique problématisant les comportements sexuels non conformes à la famille traditionnelle et aux intérêts démographiques d’État (Foucault, 1976), les identités trans émergent comme une perversion, mais sans être distinguées de l’homosexualité ou du travestisme. C’est sous une telle forme qu’on les retrouvera subsumées chez les premiers sexologues sous les concepts d’ uranisme de Karl Ulrich et d’ inversion de Richard von Krafft-Ebing (Lev, 2005).
+
+ Dans la première moitié du XX e siècle, l’amélioration des techniques chirurgicales, la découverte des hormones sexuelles et leur production synthétique permettent à certains médecins de procéder aux premières expériences de transitions médicales, soit pour « guérir » ainsi l’homosexualité de leur patient (Cohen-Kettenis et Pfäfflin, 2010) ou pour satisfaire un besoin qu’on commence à distinguer de l’homosexualité. Tranquillement, des histoires de transition médicale émergent dans l’espace public, prenant souvent la forme de la découverte du « sexe véritable » d’une personne intersexe (Meyerowitz, 2002). Or, c’est avec le cas largement publicisé de Christine Jorgensen en 1953 que se popularise l’idée qu’il soit possible de passer d’un sexe à l’autre grâce à la médecine (Benjamin, 1969 ; Bolin, 1998 ; Macé, 2010).
+
+ Le milieu médical est alors aux prises avec une demande sans précédent venant de personnes désirant « changer de sexe ». Deux types de réponses sont alors mises de l’avant par les médecins et psychiatres face à cette demande. La première est la négation. Souvent articulée en fonction d’une morale religieuse, cette réaction est également justifiée par le cadre psychanalytique dominant en psychiatrie : l’impression d’être de l’autre sexe est alors conçue comme psychose, donc ne relevant pas d’un processus psychogénétique susceptible de thérapie. L’autre réponse est l’acceptation du phénomène dans une perspective scientifique en refusant l’intrusion de la morale dans l’étude de ses objets, tel qu’elle se développe entre autres à l’époque avec les travaux d’Alfred Kinsey et ses collaborateurs (Meyerowitz, 2002). Les identités trans sont alors reconnues comme un phénomène médical autonome sous le concept de transsexualité , proposé par Harry Benjamin (Erickson, 1969). Il se crée donc, dans les années 1960, un noyau de médecins et chercheurs étudiant la transsexualité et qui permettront de légitimer son existence sociale par deux rapides constats unanimes : cette condition ne partage pas les traits de la psychose et elle ne peut pas être « réglée » ou éliminée par la thérapie [1] .
+
+ Deux ouvrages importants participent à fonder ce qui deviendra le discours médical sur les identités trans. Le premier est The Transsexual Phenomenon par Harry Benjamin (1966). Dans cet ouvrage, Benjamin propose une conception de la transsexualité comme un désir profond d’être de l’autre sexe. Il conçoit cette condition comme étant principalement d’origine biologique et hormonale, malgré une certaine influence de l’expérience vécue, et il pose la transsexualité « véritable » comme pôle d’un continuum entre transsexualité et travestisme (Benjamin, 1966). L’autre ouvrage est Sex and Gender de Robert Stoller (1968). Adoptant une perspective psychanalytique sur le phénomène, Stoller développe une conception de la transsexualité comme résultat d’une anomalie du développement psychogénétique de la conception de soi comme homme ou femme (Stoller, 1968). On doit à cet ouvrage l’importance du concept d’ identité de genre , qui est pour Stoller le lieu d’une perturbation menant à une identification à l’autre sexe.
+
+ Malgré leurs différences, ces conceptualisations de la transsexualité auront l’effet de la
+ faire émerger comme une réalité indéniable 
+ puisque objet de la science et de la médecine, réalité à laquelle pourront s’articuler
+ différentes identités et revendications politiques (Macé, 2010). En effet, l’idée d’une
+ « bisexualité humaine » comme réalité du processus de différenciation des sexes –
+ biologique et hormonale chez Benjamin, biologique, mais surtout expérientielle dans la
+ psychanalyse – rend plausible l’idée que puisse s’y manifester un dysfonctionnement. De
+ plus, les deux théories participent d’une conception de la transsexualité comme féminisation d’un organisme mâle [2] , processus qui s’inscrirait dans un continuum : d’un côté la figure du
+ « transsexuel véritable », si féminin que possédant une sexualité « réellement
+ féminine [3]  » souffrant de ne pouvoir avoir le corps et le
+ rôle social de l’autre sexe ; de l’autre, les manifestations différentes et plus légères
+ des dysfonctionnements théorisés, conçus comme moins dommageables tels que des
+ fétichismes, le travestisme et l’homosexualité. À travers les premiers discours médicaux,
+ la demande de transition médicale s’inscrit donc dans l’intelligibilité sociale et le
+ témoignage des personnes transsexuelles acquiert la crédibilité d’élément d’un diagnostic
+ médical ou psychiatrique. 
+
+ Du fait du continuum caractérisant la transsexualité, la logique adoptée jusque dans les années 2000, dans l’établissement de la prise en charge de la transsexualité, est celle de la prévention des faux positifs. En effet, malgré le travail effectué par les premiers spécialistes de la transsexualité pour faire accepter son existence, la transition est largement conçue comme une aberration, un mal nécessaire légitimé par la souffrance et les risques d’automutilation, mais devant être absolument évitée au plus grand nombre possible (Benjamin, 1966 ; Pauly, 1969 ; Fisk, 1974). Le modèle médical traditionnel de gestion de la demande de changement de sexe s’inscrit donc initialement dans une sélection sévère visant à séparer les « véritables » personnes transsexuelles d’une nébuleuse de conditions que le milieu médical associe à l’homosexualité, aux troubles mentaux, mais aussi à la promiscuité sexuelle, la prostitution et la culture des cabarets (Stoller, 1968 ; Pauly, 1969 ; Côté, 1978).
+
+ Initialement concentrée autour de quelques cliniques discrètes, la prise en charge médicale de la transsexualité devra s’adapter à une problématique majeure : l’appropriation par les personnes concernées des moyens médicaux de transitions. En effet, des réseaux communautaires se créent où l’information sur les médecins à consulter et les choses à dire pour apparaître comme « véritable transsexuel » circule (Fisk, 1974 ; Rioux, 1978). De plus, les personnes transsexuelles se procurent des hormones avec ou sans supervision médicale en plus de se déplacer souvent sur de grandes distances pour obtenir les opérations désirées chez certains chirurgiens (Rioux, 1978). 
+
+ Les conséquences sont doubles. Vers la fin des années 1970, il apparaît clair aux spécialistes que les candidats ayant accès à la transition médicale sont en réalité très diversifiés et que la figure du véritable transsexuel reposait largement sur un subterfuge (Fisk, 1974). L ’expérience de vie remplace alors le seul diagnostic, permettant à tout candidat capable de subir l’épreuve de la vie comme l’autre sexe d’être accepté. Parallèlement, l’usage d’hormones ou le recours à des chirurgiens privé n’assurant souvent pas de suivi force le milieu médical à développer son offre pour prendre en charge des patients qui seraient autrement à risque grave de séquelles ou de mort (Stoller, 1968 ; Fisk, 1974).
+
+ Proposée dès 1966 par Harry Benjamin et officialisée en 1979 par l’organisme qui portera son nom [4] avant de devenir la WPATH, la prise en charge médicale de la transsexualité s’organisera autour de cinq éléments : diagnostic, expérience de vie selon le rôle sexuel désiré, transition hormonale, chirurgie génitale et psychothérapie. Or, la prise en charge médicale n’aurait que peu de bénéfice sans les modifications législatives et réglementaires permettant aux personnes transsexuelles de vivre en étant reconnues comme le sexe opposé. Ce modèle implique donc, dès ses débuts, une implication des spécialistes pour faire modifier les lois de sorte à le permettre. Au Québec, c’est dans le cadre des travaux du Comité de Révision du Code civil dans les années 1970 que ces réformes commencent à être abordées, et avec le support d’un médecin attestant du phénomène à l’Assemblée nationale en 1977, le projet de loi 87 est adopté, permettant à une personne transsexuelle opérée, sous supervision médicale et célibataire de faire changer son nom et la mention de sexe sur les registres de l’État civil.
+
+ La transformation du regard scientifique sur les identités trans
+
+ Le deuxième moment de problématisation qui sera analysé est celui du renversement du modèle médical traditionnel vers la fin des années 2000, dont les conséquences ont été marquantes pour la transformation du cadre législatif québécois. Cette problématisation découle de l’organisation des personnes trans au sein de communautés et de l’objectivation scientifique de ces dernières, forçant l’intégration de la dimension sociale et conflictuelle dans le discours scientifique sur les identités trans. La conséquence principale a été le reniement par le milieu médical et thérapeutique de l’autorité au sujet de l’identification des personnes trans, laissant le champ libre à une identification autonome.
+
+ Ceux que nous appelons aujourd’hui les personnes trans se sont réunis dès les années 1950
+ dans des réseaux d’informations au sujet de la transition. Or, si les associations
+ militantes pour personnes transsexuelles 
+ apparaissent dans les années 1960, un grand nombre de personnes trans fréquentent plutôt
+ différentes communautés comme la communauté homosexuelle ou celle des personnes
+ travesties, s’identifiant par différents termes au sens parfois variable comme « drag
+ queens » (Meyerowitz, 2002 ; Money et Lamacz, 1998). Dans les années 1980, la
+ personnalisation grandissante du parcours de transition médicale privé et la mode de
+ l’androgynie participent de la possibilité d’une troisième voie entre travestis (sans
+ transition médicale) et transsexuels (transition « complète » d’un sexe à l’autre), qui
+ sera dénotée, entre autres par le nouveau concept transgenre [5] (Bolin, 1998 ; Drescher, 2010). Ce
+ même concept deviendra ensuite largement adopté comme terme parapluie pour englober
+ l’ensemble des manifestations d’éloignement des normes genrées (Ekins et King, 1998), en
+ cohérence avec une stratégie politique de coalition large (Stryker, 2006).
+
+ Dès les années 1980, un terrain caractérisé par la multiplicité grandissante des
+ identifications en termes de genre s’offre donc aux chercheurs des sciences sociales. Des
+ chercheur.e.s comme Anne Bolin et Richard Ekins continuent le travail qu’avait commencé
+ Garfinkel dans les années 1960, en substituant aux quelques théories critiques de la
+ transsexualité [6] des analyses qualitatives appuyées
+ principalement sur l’interactionnisme symbolique et le socioconstructivisme. Ces analyses
+ appréhendent les identités trans comme un objet social qu’il convient de comprendre à
+ travers les notions d’acteurs, de représentations sociales ou de rôles sociaux. Les
+ identités trans apparaissent ainsi comme une expérience particulière pouvant être
+ théorisée [7] , séparant ceux qui la vivent de la communauté
+ plus large dans un rapport social médiatisé par des croyances et des valeurs. Un enjeu
+ émerge donc qui concerne la description et l’explication du rapport entre un sous-groupe
+ et une communauté, par exemple par les concepts de discrimination, stigmates, déviance,
+ etc.
+
+ On assiste ainsi à une transformation importante du regard scientifique sur les identités
+ trans. L’analyse d’un dysfonctionnement objectif du corps fait place à celle des
+ représentations sociales portant sur un sous-groupe et à la problématique de l’effacement
+ d’une diversité [8] .
+ En effet, la diversité documentée des identifications trans ainsi que la mobilisation de
+ plusieurs études anthropologiques (Green, 1998b) sur différents types de « troisièmes
+ sexes » permettent de poser une contradiction entre les vécus effectifs du « genre » et
+ des systèmes de représentation conçus comme imposant arbitrairement des formes restreintes
+ à ces expériences. Il en résulte une nouvelle conception de ce qu’est être trans  : être trans devient le fait d’entretenir une
+ distance avec les normes sociales portant sur le sexe et le genre, donc de participer de
+ la « variance de genre ». De plus, cette variance se doit d’être indéfinie , c’est-à-dire que ses causes cessent d’être un
+ objet légitime d’interrogation, à la fois du fait (argument empirique) des formes
+ mouvantes adoptées par les identités trans (Bolin, 1998), et à la fois (argument politique
+ et moral) de la nécessité de ne pas participer à l’effacement de cette diversité (Green,
+ 1998a). 
+
+ Cette nouvelle conception des identités trans participera d’une critique cohérente du modèle médical traditionnel (Cole et Meyer, 1998 ; Serano, 2007). L’élément central de cette critique étant que l’échantillon sur lequel le discours médical serait basé ne serait pas représentatif des personnes trans. Seules les personnes les plus souffrantes seraient allées consulter, le savoir de la clinique de la transsexualité étant donc largement faussé. De plus, les typologies classant les candidats à la transition (afin d’aider à la sélection de personnes qui ne la regretteraient pas) sont comprises comme réifiant à tort un lien entre le sexe, l’identité de genre, l’expression de genre et l’orientation sexuelle. Or, la diversification observée [9] des combinaisons possibles entre ces éléments est présentée comme preuve de leur complète indépendance les unes avec les autres, invalidant ainsi la possibilité pour un observateur extérieur de « classer » une personne trans, et donc de procéder à un diagnostic. En conséquence, la subjectivité d’une personne devient la seule référence pour savoir qui elle est et ce qu’elle est. On exige donc l’autodétermination et l’autonomie des personnes trans en ce qui a trait au processus de transition médicale.
+
+ À l’aube des années 2000, les critiques se multiplient (Drescher, 2010) et les associations des professionnels de la santé prenant en charge les diagnostics et traitements liés aux identités trans, l’American Psychiatric Association (APA) et la World Professional Association for Transgender Health (WPATH) [10] sont aux prises non seulement avec les demandes de dépathologisation et d’autonomie, mais aussi avec deux phénomènes empiriques pour lesquels une réflexion est nécessaire, soit une grande augmentation du nombre de demandeurs (Zucker et Lawrence, 2009) et une grande diversification de la demande de transition (Coleman, 2009). On peut distinguer deux perspectives chez les professionnels de la santé sur la façon de répondre à ces problématiques : la perspective affirmative et la perspective pathologisante . 
+
+ La perspective affirmative, qu’on trouve chez des auteurs tels que Eli Coleman, Ishtar Arlene Lev et Lin Fraser, est une acceptation totale des critiques externes du modèle médical traditionnel. Proposant explicitement un changement de paradigme, ces auteurs insistent sur la nécessité pour la communauté des soignants de prendre en compte les connaissances développées par les sciences humaines ainsi que les conceptions avancées par les auteurs trans. Acceptant la thèse de l’effacement de la diversité, ils font le choix de poser une origine biologique aux identités trans [11] , qui sont alors conçues comme une diversité naturelle indûment réprimée. La conséquence est double. Premièrement, la nécessité de lutter contre une injustice historique implique le renversement de ce qui pose problème : la prévention des faux positifs fait place à celle des faux négatifs. En deuxième lieu, c’est l’entièreté de la variance de genre qui devient objet d’intervention afin d’assurer le bien-être de chacun de demandeurs. Les chiffres élevés de prévalence et la diversification apparaissent ainsi comme ayant été toujours là, mais commençant seulement à être révélés (Winter, 2009). Ces auteurs posent également la nécessité pour les personnes trans de se définir elles-mêmes, promeuvent l’abandon des termes incompatibles avec leur subjectivité et proposent un modèle de consentement éclairé au niveau des soins.
+
+ Cette perspective s’accompagne d’une problématisation explicite de l’environnement social des personnes trans. En effet, l’hypothèse d’une identité trans d’origine biologique permet de poser les problèmes de santé mentale co-occurrents comme étant complètement indépendants d’une identité trans. L’environnement social peut alors être conçu comme leur cause unique, une thèse suggérée par différentes études sur les effets de l’environnement familial, scolaire et social sur la santé mentale des personnes trans qui montrent les effets bénéfiques de l’acceptation par l’entourage, et inversement, les effets négatifs de la non-acceptation de l’identification d’une personne trans (Lev, 2005 ; Fraser, 2009). La problématique de la transphobie et la nécessité de participer à sa disparition deviennent donc des éléments centraux de la perspective affirmative.
+
+ La perspective pathologisante, quant à elle, peut être comprise comme un rejet prudent du changement de paradigme proposé, mais accompagné de l’acceptation des critiques lorsqu’elles sont effectuées dans le cadre de l’activité scientifique. Cette position s’inscrit donc en continuité avec le discours médical sur les identités trans depuis les années 1960. En ce sens, plutôt que d’élargir l’activité thérapeutique à l’ensemble de la variance de genre, cette perspective propose de répondre à l’augmentation et à la diversification des demandeurs par la distinction entre deux populations : d’un côté ceux qui cherchent l’aide médicale, qu’on conçoit comme la population traditionnellement concernée par les critères diagnostics, et de l’autre ceux qui s’identifient comme trans ou qui font partie de la variance de genre sans relever de l’aide médicale, à qui on accorde le droit de s’autodéfinir sans que soit concerné le milieu médical [12] (Zucker et al ., 2013). Cette perspective conserve une priorité à la prévention des faux positifs, qui se manifeste par une position de prudence rappelant l’insuffisance de la recherche pour appuyer la position affirmative, particulièrement en ce qui a trait à l’explication des troubles mentaux par l’environnement et la transition des mineurs.
+
+ Vers les années 2010, la WPATH et l’APA procèdent à la dépathologisation [13] des identités trans. Du côté des Standards de Soins version 7 de la WPATH (2012), on affirme que les identités trans sont « une question de diversité, pas une pathologie », adoptant une position similaire à la perspective affirmative, mais sans l’affirmation explicite de l’hypothèse de l’origine biologique. Dans le DSM-5, l’APA (2013) remplace le diagnostic d’une identité trans – le trouble de l’identité de genre – par la dysphorie de genre, caractérisée par des critères diagnostics très semblables, mais ne visant explicitement que la souffrance liée à une identité trans. Cependant, ce processus ne doit pas être compris comme le résultat d’une simple amélioration de la connaissance scientifique sur la question. Il relève plutôt d’un consensus entre les deux perspectives sur certains éléments dans le contexte d’une insuffisance de données fiables sur la plupart des enjeux en débat (Byne et al ., 2012 ; Coleman, 2009). 
+
+ Or, dans la pratique, ce consensus renforce la position de la perspective affirmative. En effet, l’acceptation d’une identité trans, relevant de la variance de genre plutôt que du diagnostic médical, force les spécialistes voulant continuer la sélection prudente des candidats à démontrer que leurs pratiques n’ont pas d’effets négatifs, alors que le support pour le modèle de consentement éclairé grandit. Dans un contexte de manque de données probantes pour « prouver » la valeur d’une perspective sur l’autre, l’existence même d’une perspective thérapeutique articulée aux demandes des personnes trans retourne le fardeau de la preuve sur les experts pathologisants, qui perdent aujourd’hui largement du terrain [14] . Comme il sera abordé dans la section suivante, cette position défensive de la perspective pathologisante laisse le champ libre aux experts de la perspective affirmative pour traduire la problématisation du modèle médical traditionnel en problématisation politique de la transphobie et du cadre légal de ce premier modèle.
+
+ L’expertise thérapeutique et médicale dans la transformation du cadre légal régissant
+ le changement de la mention de sexe légal et les identités trans (2013-2016)
+
+ Dès son instauration au Québec en 1977, le modèle médical traditionnel permettant le « changement de sexe » à un nombre restreint de personnes transsexuelles impliquait un point aveugle important : les interactions des personnes trans avec leur environnement social quotidien. Une jurisprudence émerge ainsi pour interdire la discrimination, se basant initialement sur l’interdiction de discrimination en vertu des motifs de sexe et de handicap [15] . Parallèlement, l’obligation de chirurgie commence à être un objet de contestation, le Conseil de l’Europe la critiquant en 2010 (CDPDJ, 2015) et le Rapporteur général contre la torture de l’ONU l’associant à une chirurgie forcée . En 2012, notamment, le Tribunal des droits de la personne de l’Ontario juge discriminatoire l’obligation de chirurgie, alors que l’Argentine établit le premier modèle de transition basé sur la seule subjectivité de la personne (suivant différents modèles hybrides sans obligation de chirurgie, par exemple en Grande-Bretagne ou en Espagne).
+
+ C’est aussi en 2012 qu’est remis au ministre de la Justice le Plan de revendication trans (2012) du Conseil québécois des gais et lesbiennes visant à infléchir la Politique québécoise contre l’homophobie dans le sens des besoins des personnes trans. Cette démarche sera suivie en 2013 du dépôt du projet de loi 35 et de trois séries de consultations publiques respectivement en 2013, 2015 et en 2016 dans le cadre du projet de loi 103. Le Plan de revendication trans présente succinctement les demandes qui seront formulées durant ces consultations et articule une conception cohérente d’un nouveau modèle basé sur l’autonomie des personnes trans. 
+
+ On vise ainsi, à travers des modifications législatives, réglementaires et en termes de financement à assurer une intégration totale des personnes trans à la vie sociale en assurant le respect de leur subjectivité dans les sphères de l’administration (incluant l’identité juridique), des services publics (particulièrement la santé et les services sociaux), mais aussi plus largement dans l’ensemble des milieux sociaux. On demande ainsi l’inclusion de l’identité de genre et de l’expression de genre comme motif interdit de discrimination dans la Charte québécoise des droits et libertés de la personne, la fin de l’obligation de chirurgie pour le changement de la mention de sexe, une adaptation du règlement dans le sens de la vie privée et de la cohérence administrative ainsi que l’inclusion des personnes mineures [16] et immigrantes à ce nouveau règlement.
+
+ Au-delà des revendications, c’est à travers trois principales formes d’expertise que les législateurs sont informés des réalités problématiques qu’on les invite à régler : militante, juridique, puis médicale et thérapeutique [17] . En premier lieu, la majorité des contributions (mémoires et témoignages) proviennent d’une expertise militante, soit de représentants d’organismes trans ou LGBT dont plusieurs font partie du monde universitaire. Ceux-ci appuient leurs revendications autant par leurs expériences vécues en termes d’obstacles et de discrimination qu’avec des faits et statistiques, qui sont cependant (à des degrés divers) entremêlés à une démarche explicitement normative. Deuxièmement, des experts du milieux juridiques ainsi que des organismes tels que le Barreau du Québec et la Commission des droits de la personne et de la jeunesse (CDPDJ) participent également aux consultations et informent les législateurs de la nature maintenant non conforme à la jurisprudence des lois et de certaines de leurs propositions législatives. 
+
+ En ce qui a trait à l’expertise médicale et thérapeutique, la consultation des mémoires permet d’observer une certaine diversité concernant les perspectives vues dans la section précédente. Pour certains psychiatres, une certaine prudence est légitime du fait que certaines (rares) identifications trans peuvent être le résultat de troubles mentaux. De son côté, l’Ordre des psychologues du Québec rappelle qu’aucun consensus scientifique n’appuie la thèse d’une origine biologique de l’identité de genre (OPQ, 2016) [18] . Une perspective médiane peut être trouvée dans le mémoire du Collège des médecins du Québec qui affirme simplement que les identités trans ne sont pas une pathologie et relèvent d’un droit à l’autodétermination (CMQ, 2015). La perspective trans-affirmative est quant à elle représentée par un médecin, une thérapeute ainsi que par l’Association professionnelle canadienne pour la santé transgenre. Or, les contributions des experts des milieux médical et thérapeutique ont beaucoup plus en commun que ce qui les sépare. Toutes cherchent en effet à convaincre les législateurs de l’incompatibilité des lois et règlements avec les besoins et la réalité des personnes trans et proposent une plus grande autodétermination du sexe légal, une reconnaissance de la transition chez des mineurs ainsi que la nécessité de lutter contre la discrimination. En ce sens, aucune voix ne défend le modèle médical traditionnel, dont la logique cohérente s’est effacée devant une nouvelle conception des identités trans et ce qui fait problème à leur égard. 
+
+ Au niveau des auditions pour les consultations, seuls les experts de perspective thérapeutique affirmative étaient présents pour détailler leur conception de ce qui posait problème ainsi que des solutions disponibles. Ce sont donc eux qui ont été en position de répondre aux demandes d’information et aux questions des députés. On retrouve une psychologue (expert A) et un médecin spécialiste (expert B). Dans ces interactions, deux questionnements ou enjeux nous apparaissent significatifs en ce qu’ils avaient le potentiel de limiter l’amplitude de la transformation vers un modèle d’autodétermination du sexe légal, malgré l’appui relativement unanime des experts.
+
+ Le premier de ces enjeux est la question de la stabilité de l’état civil , élément important pour les législateurs. En effet, malgré de nombreux témoignages de militants et d’experts en 2013, le projet de règlement pour le changement de nom et de mention de sexe publié en 2014 comprenait une obligation de vivre deux ans sous l’apparence du sexe dont on souhaite la mention avec une déclaration sous serment d’une connaissance pour l’attester ainsi qu’une lettre d’un médecin ou d’un thérapeute garantissant l’authenticité de l’identité de la personne. Face à cette préoccupation des décideurs, les experts mettent de l’avant une conception des identités trans comme étant d’origine biologique, donc fondamentalement stable. Ainsi selon l’expert B : 
+
+ L’identité de genre, une fois exprimée clairement, n’est pas modifiable, ni
+ malléable, ni convertible […] Le développement du genre commence pendant la vie
+ foetale, et continue, et se présente pendant l’enfance. 
+
+ En conséquence la stabilité n’est pas perturbée par la demande de changement de la mention de sexe, elle est au contraire retrouvée face à une situation problématique où c’est la société qui s’est trompée dans une assignation de sexe. Accepter la subjectivité des personnes trans revient donc à régler un problème plutôt qu’à en créer.
+
+ Les experts insistent aussi sur l’impossibilité de poser un diagnostic sur l’identité de genre d’une personne et sur l’inutilité dans la législation de toute forme de garantie extérieure. En effet, la préoccupation pour la stabilité de l’état civil entraîne les législateurs à préserver, malgré leur ouverture aux différentes revendications, différentes exigences administratives qui étaient basées sur la logique de restriction à la transition légale du modèle médical traditionnel. Il convient donc, comme le fait l’expert A, d’informer les législateurs du nouveau rapport entre le milieu médical et thérapeutique et les personnes trans :
+
+ Ces personnes-là, je peux identifier la dysphorie, oui, c’est ce que je fais, et
+ j’aide les personnes à accéder au moyen de transition, au moyen médical de transition.
+ Je ne suis pas là pour confirmer l’identité de genre de qui que ce soit. 
+
+ On rappelle également aux législateurs que leur attention devrait davantage se porter sur l’inacceptabilité de la souffrance des personnes trans, plutôt que sur d’autres préoccupations légitimes, mais secondaires. Des statistiques de prévalence sont ainsi mobilisées pour rappeler aux législateurs leur responsabilité envers des dizaines de milliers de citoyens. Cette responsabilité sur laquelle les experts insistent est celle de la réduction de la souffrance psychique, conçue comme étant largement le fait d’un environnement social discriminatoire auquel le gouvernement participe directement par les lois et règlements en vigueur. L’incohérence entre la mention légale de sexe et l’identité de genre serait une cause principale de la discrimination subie au quotidien et de taux de tentatives de suicide élevés. Ainsi, comme l’avance l’expert A, les législateurs sont appelés à régler un problème grave qui relève de leur responsabilité : 
+
+ Ça veut dire que le parcours scolaire est insupportable, ça veut dire que moi, je
+ récupère ces gens-là à l’âge adulte avec un syndrome post-traumatique […] Alors,
+ voilà. Alors, ce que je voulais simplement apporter, c’est ces détails-là, et dire que
+ de ne pas apporter ces amendements et de continuer de contribuer de manière importante
+ à vulnérabiliser une population parmi, déjà, les plus marginalisées [est
+ inacceptable]. 
+
+ Le deuxième enjeu est celui de la transition des mineurs . Dans le modèle médical traditionnel, la préoccupation envers les faux positifs rendait largement impensable la transition des mineurs, leur diagnostic étant d’ailleurs dans une catégorie séparée de celle du transsexualisme , puis du trouble de l’identité de genre adulte. Les lois et règlements qu’il convenait de modifier en 2013 s’adressaient à des adultes et c’est envers eux seuls que s’appliqueront initialement les transformations de 2013 et 2015. Or, dès le début des consultations en 2013, on informe les législateurs que les modifications devraient également inclure les mineurs. On explique que des mineurs sont bel et bien suivis par les professionnels et que ceux-ci, au même titre que les adultes, ont une identité de genre fixe et stable une fois qu’elle est révélée. En ce sens, comme pour la question de la stabilité de l’identité civile, une conception des identités trans, comme étant d’origine biologique et devant être simplement reconnue, vient faire d’une question complexe [19] une situation aux contours clairs où il s’agit simplement de reconnaître une réalité objective connue des milieux scientifiques.
+
+ En rapport à cet enjeu, la question du désistement de l’identité trans chez les mineurs émerge à chaque consultation. Elle est mise de l’avant par plusieurs députés dans une perspective d’en connaître plus sur un sujet qui leur est encore inconnu. Le doute quant à la transition des mineurs fait aussi partie de l’argumentation de l’organisme Pour les femmes du Québec en 2015, seul organisme participant qui s’oppose en partie à l’abandon du modèle médical traditionnel. Les experts répondent à ces préoccupations en affirmant la rareté du phénomène de désistement et en le démontrant par leur expérience clinique ainsi que par un certain nombre d’études. Par exemple, interrogé à ce sujet par la ministre de la Justice en 2016, l’expert A affirme : 
+
+ […] Ça peut arriver, mais c’est très rare. Et je vous dirais que, certainement, à
+ partir de la puberté, on a une étude... – on a une étude ! – on a des études assez
+ impressionnantes, d’ailleurs, sur la stabilité de l’identité de genre à partir de la
+ puberté. Mais ce qu’on voit, et on commence à voir des études aussi, c’est que
+ l’identité de genre est stable même bien avant la puberté. Donc, on a une stabilité à
+ ce niveau-là. 
+
+ Ainsi, les législateurs sont informés du fait que le désistement de l’identité trans chez les enfants est un phénomène marginal , dont on pourrait presque mettre en doute l’existence. 
+
+ Le résultat de ces processus consultatifs ira dans le sens des revendications des organismes trans et LGBT, tels qu’ils sont appuyés par les experts des milieux médical et thérapeutique. En 2013, l’obligation de chirurgie est retirée, comme l’obligation de publication des changements de nom et de sexe. En 2015, un nouveau règlement est adopté qui permet aux adultes le changement de sexe légal et de nom de façon autonome du milieu médical et en 2016, la transition pour les mineurs sera permise alors que l’identité de genre et l’expression de genre seront incluses comme motifs interdits de discrimination dans la Charte de droits et libertés de la personne du Québec.
+
+ En conclusion
+
+ Ce qui vient d’être vu au sujet des interventions d’experts des milieux thérapeutiques et médicaux lors des consultations pourrait mener à s’intéresser non seulement à la dimension rhétorique, mais également à l’usage qui a été fait de la littérature scientifique. Sur les deux enjeux soulevés dans la section précédente, une figure claire émerge pour résoudre toute ambiguïté : les identités trans sont d’origine biologique et stabilisée dans l’enfance. C’est donc l’environnement social et le cadre juridique qui posent problème. Or, la littérature scientifique est partagée sur ces questions. Comme le mentionnait le mémoire de l’Ordre des psychologues du Québec en 2016, l’origine biologique des identités trans ne fait l’objet d’aucun consensus [20] (OPQ, 2016 ; Zucker et al ., 2013 ; Meyer-Bahlburg, 2010). 
+
+ Quant à la question du désistement d’une identité trans chez les mineurs, il s’agit d’un phénomène connu et documenté. Les Standards de soins version 7 de la WPATH (2012) affirment en effet : « Il faut garder en tête les taux peu élevés de persistance de dysphorie de genre de l’enfance à l’âge adulte. » D’après les travaux de préparation ayant mené aux Standards, le désistement chez les enfants prépubères présentant une variance de genre peut atteindre des taux de 73 % à 96 % [21] , mais concernerait un peu moins du tiers des adolescents (de Vries et Cohen-Kettenis, 2009). 
+
+ En ce sens, il est certain que les experts A et B ont procédé à une simplification, un formatage, des connaissances scientifiques sur les identités trans sous une forme ne laissant aucune place au doute quant à la nécessité d’adopter les mesures proposées. Ce sont les intérêts et les aspirations des personnes trans qui ont ainsi été traduits sous la forme d’une expertise – que les législateurs ont jugé correspondre à la réalité, si l’on en croit leurs commentaires – qui dans le déroulement des audiences venait rassurer les législateurs quant aux risques potentiels de l’auto-identification, assurer de l’inexistence du désistement chez les mineurs et sensibiliser face à la souffrance vécue au quotidien. En ce sens, ces experts ont utilisé leur autorité comme d’une ressource à mettre au service d’une cause, correspondant ainsi à la figure de l’expert-militant (Ollitreault, 2001). Ils se sont aussi mis au service du démantèlement d’un système d’oppression, adoptant la position d’allié (Ayvazian, 1995). Cet usage de l’autorité des experts lors des consultations nous apparaît un vecteur important de démocratisation de l’action publique, en ce que l’expertise a démontré pouvoir être mobilisée au service des intérêts de groupes dont la parole des membres n’a pas le même poids pour les décideurs.
+
+ Or, il nous apparaît important de souligner un fait : les mémoires d’experts adoptant une perspective plus pathologisante appuyaient aussi sans réserve les changements législatifs. Ce fait est cohérent avec notre présentation de la perspective pathologisante comme étant incapable d’articuler un modèle thérapeutique alternatif au modèle affirmatif. La volonté prudente de prévention des cas faux positifs ne peut ainsi plus se manifester publiquement que de façon ponctuelle en rappelant les zones d’ombres de la connaissance scientifique. En ce sens, les conceptions scientifiques des identités trans disponibles pour les législateurs dans les années 2010 ont été structurées par la problématisation du modèle médical traditionnel dans les années 2000 qui a rendu caduque la logique médicale et thérapeutique sous-tendant le cadre législatif québécois.
+
+ C’est en ce sens que nous nous sommes moins intéressés, dans la reconnaissance des identités trans et de la nécessité de la lutte contre la transphobie au Québec, au travail collectif derrière l’émergence d’un problème public devenant problème politique (Lascoumes et Le Galès, 2012). Nous avons préféré mettre l’accent sur l’adaptation du savoir scientifique non seulement aux différentes conditions historiques, mais particulièrement aux volontés des personnes trans elles-mêmes. En effet, dès les années 1950 et 1960, des experts de différents milieux scientifiques et cliniques ont écouté les personnes trans, reçu leur souffrance ainsi qu’accepté leurs aspirations. En ce sens, les différentes problématisations des identités trans dans le discours scientifique ont été animées de ce qui peut être conçu aujourd’hui comme une position d’allié. 
+
+ Or cette position d’allié ne doit pas être confondue avec la promotion par les experts des perspectives et expériences des personnes trans. Par exemple, l’affirmation d’une origine biologique donnant au modèle affirmatif sa cohérence ou encore le maintien d’un diagnostic de dysphorie de genre ne font pas l’unanimité chez les personnes trans et sont parfois contestés. Cependant, la perspective alliée adoptée par de nombreux experts du milieu médical et thérapeutique lors des problématisations émergeant dans leur champ d’expertise a progressivement eu comme résultat d’atténuer une des deux grandes formes d’injustice épistémique identifiée par Miranda Fricker (2007), soit d’appuyer la crédibilité du témoignage des personnes trans sur leurs vécus.
+
+ Cette dynamique est observable dans les deux grands moments de problématisation ayant constitué les discours scientifiques sur les identités trans. Comme il a été vu, ce sont les personnes trans qui ont constitué, à travers la demande initiale de « changement de sexe » adressée au monde médical dans les années 1950 et 1960, la surface d’émergence du discours scientifique les prenant pour objet. Les lieux autorisés à produire un discours à leur sujet ont alors produit des choix thématiques distincts : d’un côté, le rejet du phénomène comme psychose ou immoralité ; de l’autre, l’acceptation de la parole des personnes trans dans le cadre d’une nouvelle catégorie nosographique. 
+
+ Dans les années 1980, ce ne sont plus des individus isolés qui forment une telle surface d’émergence, mais des communautés dont l’expérience a pu être objectivée par les sciences sociales et les personnes trans elles-mêmes, faisant alors en retour apparaître le nouvel objet d’un monde social discriminant . Ces discours alternatifs ont inspiré des critiques internes dans le monde médical et thérapeutique, dont les choix thématiques ont alors été d’un côté la conciliation difficile entre pathologisation et respect de l’auto-identification, et de l’autre l’affirmation sans restriction d’une identité conçue comme d’origine biologique. L’autonomie des personnes trans s’est ainsi largement imposée.
+
+ En ce sens, la transformation des lois et règlements régissant les identités trans n’a pas reposé que sur un travail de mobilisation politique visant à rendre visible une réalité scientifique objective, ni même sur la construction d’une conception de ce qui posait problème et ses solutions. Elle a reposé largement sur le choix par un nombre d’experts d’accueillir les aspirations et les souffrances des personnes trans, choix dont les conséquences ont été l’émergence de nouveaux jeux de vérité rendant inintelligible le projet de l’identification extérieure d’une personne trans et rendant particulièrement visibles les conséquences psychologiques de la discrimination.
+
+ Appendices 
+
+ Note biographique
+
+ Étienne Labarge-Huot est candidat au doctorat en sociologie à l’Université de Montréal. Il travaille sur la gestion de la diversité et de la lutte contre la discrimination.
+
+ Notes
+
+ [1] Ira Pauly et Robert Stoller figurent parmi ceux qui ont tenté l’élimination de la
+ transsexualité par la psychothérapie.
+
+ [2] L’existence de personnes trans FtM est alors connue, mais considérée beaucoup plus
+ rare, un effacement qui sera dénoncé dans les années 1980.
+
+ [3] C’est-à-dire qu’on estime qu’une femme « normale » est attirée envers les hommes.
+
+ [4] La Harry Benjamin International Gender Dysphoria Association.
+
+ [5] Si le terme transgenre a fini par l’emporter, d’autres termes avaient aussi émergé
+ pour rendre compte de cette nouvelle réalité, comme transsexuel non-opératoire ou genderbenders .
+
+ [6] La plus connue étant l’ouvrage L’Empire
+ transsexuel (1979) de Janice Raymond.
+
+ [7] Par exemple, le concept de male-femaling de
+ Richard Ekins.
+
+ [8] Nous avons détaillé ce revirement imputable aux sciences sociales dans Étienne
+ Labarge-Huot (2020). De la transsexualité à la variance de
+ genre : é l éments pour une gé n éalogie de l’expérience contemporaine des
+ identités trans au Qué bec (Mémoire de
+ maîtrise). Université du Québec à Montréal, chap. 4.
+
+ [9] Par exemple, l’existence d’hommes trans attirés par les hommes, alors qu’on les
+ comprenait traditionnellement comme étant exclusivement attirés par les femmes.
+
+ [10] La Classification internationale des maladies de l’OMS a suivi quelques années plus
+ tard.
+
+ [11] Par exemple, par respect pour les personnes trans, Ishtar Arlen Lev pose cette
+ hypothèse comme prémisse, alors que d’autres comme Sam Winter font le choix de favoriser
+ un modèle de traitement compatible avec l’hypothèse biologique au cas où elle soit un jour
+ démontrée. 
+
+ [12] Paul McHugh est un des rares spécialistes reconnus à insister sur la catégorisation
+ de toutes les identités trans comme trouble mental.
+
+ [13] Nous entendons par là l’affirmation explicite dans le discours thérapeutique que les
+ identités trans ne relèvent pas en elles-mêmes de
+ la pathologie ou du trouble. Pour plusieurs personnes trans, l’existence du diagnostic de
+ dysphorie de genre constitue cependant une
+ atteinte à leur autonomie.
+
+ [14] À ce sujet, le cas de Kenneth Zucker, spécialiste reconnu de perspective
+ pathologisante, est révélateur.
+
+ [15] Sur cette question, ainsi que pour une étude plus détaillée des transformations de
+ l’environnement juridique : Étienne Labarge-Huot (2020), chap. 5.
+
+ [16] La transition des personnes mineures a fait partie de l’ensemble des revendications
+ entre 2013 et 2016. Cette revendication n’était cependant pas mise de l’avant dans le Plan
+ de 2012.
+
+ [17] Dans le cadre restreint de cet article, nous ne traiterons que de l’expertise
+ médicale et thérapeutique.
+
+ [18] Il n’est cependant pas question ici de classifier de façon fixe les différents
+ intervenants. Les idéaux-types de perspective pathologisante et affirmative renvoient à un
+ continuum entre d’un côté la prudence et une préoccupation pour les faux positifs et de
+ l’autre la thèse d’une origine largement biologique et une préoccupation pour les faux
+ négatifs. 
+
+ [19] Au niveau de la littérature scientifique.
+
+ [20] À ce sujet, les prises de position officielles de différentes organisations de
+ soignants et thérapeutes selon lesquelles les identités trans et la variance de genre
+ relèvent d’une diversité normale et ne relèvent pas de la pathologie doivent être
+ distinguées d’un consensus scientifique sur leur origine biologique.
+
+ [21] Les études plus récentes donneraient des taux de persistance plus élevés que les
+ anciennes.
+
+ Bibliographie
+
+ Agamben, Giorgio (2006). Théorie des dispositifs. Po sie , (115), 25-33. 10.3917/poesi.115.0025 Google Scholar 
+
+ American Psychiatric Association (APA). (2013). Diagnostic and statistical manual of mental disorders : fifth edition. 10.1176/appi.books.9780890425596 Google Scholar 
+
+ Ayvazian, A. (1995). Interrupting the Cycle of Oppression : the Role of Allies as Agents of Change. Fellowship , janvier-février, (6). Google Scholar 
+
+ Bourgois, N. (2016). Le rôle des groupes communautaires LGBT dans la formulation des politiques publiques : le cas de la politique québécoise de lutte contre l’homophobie. (mémoire de maîtrise). Université de Montréal. Google Scholar 
+
+ Benjamin, H. (1966). The Transsexual Phenomenon , New York : Julian Press. Google Scholar 
+
+ Benjamin, H. (1969). Introduction. Dans R. Green et J. Money (dir.), Transsexualism and Sex Reassignement , Baltimore : Johns Hopkins University Press. Google Scholar 
+
+ Bolin, A. (1998). Transcending and transgendering. Dans Denny Dallas (dir.), Current concepts in trangender identity (p. 63-96), New York : Garland Publishing. Google Scholar 
+
+ Byne, W. et al. (2012). Report of the American Psychiatric Association Task Force on Treatment of Gender Identity Disorder. Archives of Sexual Behavior , (41), 759-796. 10.1007/s10508-012-9975-x Google Scholar 
+
+ Chiang, H. (2009). Historicizing the Emergence of Sexual Freedom : The Medical Knowledge of Psychiatry and the Scientific Power of Sexology, 1880-1920. Gender Forum , (24). Google Scholar 
+
+ Cohen-Kettenis, P. T. et Pfäfflin, F. (2010). The DSM Diagnostic Criteria for Gender Identity Disorder in Adolescents and Adults. Archives of Sexual Behavior , 39 (2), 499‑513. 10.1007/s10508-009-9562-y Google Scholar 
+
+ Cole, C. M. et Meyer, Walter J. (1998). Transgender behavior and DSM IV. Dans Denny Dallas (dir.), Current concepts in trangender identity, New York : Garland Publishing, 127-136. Google Scholar 
+
+ Coleman, E. (2009). Toward Version 7 of the World Professional Association for Transgender Health’s Standards of Care. International Journal of Transgenderism , 11 (1), 1‑7. 10.1080/15532730902799912 Google Scholar 
+
+ Collège des médecins du Québec (CMQ). (2015). Commentaires sur le projet de règlement , Consultations particulières et auditions publiques sur le projet de règlement relatif au Règlement sur le changement de nom et d’autres qualités de l’état civil pour les personnes transsexuelles ou transgenres (CI-014M), Assemblée nationale du Québec. Google Scholar 
+
+ Commission des droits de la personne et de la jeunesse (CDPDJ). (2015). Commentaires sur le projet de règlement , Consultations particulières et auditions publiques sur le projet de règlement relatif au Règlement sur le changement de nom et d’autres qualités de l’état civil pour les personnes transsexuelles ou transgenres (CI-003M), Assemblée nationale du Québec. Google Scholar 
+
+ Côté, G. (1978). Examen Psychiatrique du Transsexuel. Cahiers de sexologie clinique , 4-19. Google Scholar 
+
+ Delmas, C. (2011). Sociologie politique de l’expertise , Paris : La Découverte. 10.3917/dec.delma.2011.01 Google Scholar 
+
+ de Vries, Annelou L. C. et Cohen-Kettenis, P. T. (2009). Review of World Professional Association for Transgender Health’s Standards of Care for Children and Adolescents with Gender Identity Disorder : A Need for Change ? International Journal of Transgenderism , 11 (2), 100‑109. 10.1080/15532730903008040 Google Scholar 
+
+ Donzelot, Jacques (1977), La Police des Familles , Paris : Éditions de Minuit, 222 p. Google Scholar 
+
+ Drescher, J. (2010). Queer Diagnoses : Parallels and Contrasts in the History of Homosexuality, Gender Variance, and the Diagnostic and Statistical Manual. Archives of Sexual Behavior , (39), 427-460. 10.1007/s10508-009-9531-5 Google Scholar 
+
+ Ekins, R. et King, D. (1998). Blending genders : contribution to the emerging field of transgender studies. Dans Denny Dallas (dir.), Current concepts in trangender identity, New York : Garland Publishing, 97-116. Google Scholar 
+
+ Enriquez, M. C. (2013). La contestation des politiques de changement d’identité de genre par les militantes et militants trans québécois. Lien social et Politiques , (69), 181-196. 10.7202/1016491ar Google Scholar 
+
+ Erickson, R. (1969). Foreword. Dans R. Green et John Money (dir.), Transsexualism and Sex Reassignement , Baltimore : Johns Hopkins University Press. Google Scholar 
+
+ Fischer, F. (2009). Democracy and Expertise , Londres : Oxford University Press. 10.1093/acprof:oso/9780199282838.001.0001 Google Scholar 
+
+ Fisk, Norman M. (1974). Gender dysphoria syndrome : The conceptualization that liberalizes indications for total gender reorientation and implies a broadly based multi-dimensional rehabilitative regimen : Editorial comment on male transsexualism. West J Med , (120), 386-391. Google Scholar 
+
+ Foucault, M. (1969). L’archéologie du savoir, Paris : Gallimard. Google Scholar 
+
+ Foucault, M. (1976). Histoire de la sexualité : 1, La volonté de savoir , Paris : Gallimard. Google Scholar 
+
+ Foucault, M. (1984). Histoire de la sexualité : 2, L’usage des plaisirs . Paris : Gallimard. Google Scholar 
+
+ Foucault, M. (1990). L’Ordre du discours : leçon inaugurale au Collège de France prononcée le 2 décembre 1970 , Paris : Gallimard. Google Scholar 
+
+ Foucault, M. (2014). Une histoire de la manière dont les choses font problème, Cultures Conflits , (94-95-96), 99-109. 10.4000/conflits.18897 Google Scholar 
+
+ Foyer, J. (2012). Le réseau global des experts-militants de la biodiversité au coeur des controverses sociotechniques. Hermès, la revue , 64 (3), 155-163. 10.4267/2042/48403 Google Scholar 
+
+ Fraser, L. (2009). Psychotherapy in the World Professional Association for Transgender Health’s Standards of Care : Background and Recommendations. International Journal of Transgenderism , 11 (2), 110-126. 10.1080/15532730903008057 Google Scholar 
+
+ Fraser, N. (2005). Qu’est-ce que la justice sociale : reconnaissance et redistribution , Paris : La Découverte. Google Scholar 
+
+ Fricker, M. (2007). Epistemic Injustice : Power and the Ethics of Knowing . Londres : Oxford University Press. 10.1093/acprof:oso/9780198237907.001.0001 Google Scholar 
+
+ Giddens, A. (1994). Les conséquences de la modernité , Paris : L’Harmattan. Google Scholar 
+
+ Green, J. (1998a). FTM : An emerging voice. Dans Denny Dallas (dir.), Current concepts in trangender identity, New York : Garland Publishing, 145-162. Google Scholar 
+
+ Green, R. (1998b). Mythological, Historical, and Cross-Cultural Aspect of Transsexualism.Dans Denny Dallas (dir.), Current concepts in trangender identity (p. 3-14), New York : Garland Publishing, 3-14. Google Scholar 
+
+ Hall, P. A. (1993). Policy paradigms, social learning, and the state : the case of economic policymaking in Britain. Comparative politics , 275-296. 10.2307/422246 Google Scholar 
+
+ Honneth, A. (2010). La lutte pour la reconnaissance , Paris : Éditions du Cerf. Google Scholar 
+
+ Hook, D. (2001). Discourse, Knowledge, Materiality, History : Foucault and Discourse Analysis, Theory and Psychology , 11 (4), 521-547. 10.1177/0959354301114006 Google Scholar 
+
+ Labarge-Huot, É. (2020). De la transsexualité à la variance de genre : éléments pour une généalogie de l’expérience contemporaine des identités trans au Québec. (mémoire de maîtrise). Université du Québec à Montréal. Google Scholar 
+
+ Lascoumes, P. et Le Galès, Patrick (2012). Sociologie de l’action publique , Paris : Armand Colin. Google Scholar 
+
+ Lev, A. Istar. (2005). Transgender emergence : Therapeutic guidelines for working with gender-variant people and their families , New York : Routledge. Google Scholar 
+
+ Macé, É. (2010). Ce que les normes de genre font aux corps/Ce que les corps trans font aux normes de genre. Sociologie , 1 (4), 497-515. 10.3917/socio.004.0497 Google Scholar 
+
+ Martuccelli, D. (2017). La condition sociale moderne , Paris : Folio, Gallimard. Google Scholar 
+
+ Meyer-Bahlburg, Heino F. L., 2010. From Mental Disorder to Iatrogenic Hypogonadism : Dilemmas in Conceptualizing Gender Identity Variants as Psychiatric Conditions. Archives of Sexual Behavior , 39 (2), 461‑476. 10.1007/s10508-009-9532-4 Google Scholar 
+
+ Meyerowitz, J. (2002). How sex Changed , Cambridge : Harvard University Press. Google Scholar 
+
+ Money, J. et Lamacz, M. (1998). Gynemimesis and gynemimetophilia : individual and cross-cultural manifestations of a gender-coping strategy hitherto unnamed. Dans Denny Dallas (dir.), Current concepts in trangender identity, New York : Garland Publishing, 406-413. Google Scholar 
+
+ Muller, P. (2000). L’analyse cognitive des politiques publiques : vers une sociologie politique de l’action publique. Revue française de science politique , 50 (2), 189-207. 10.3406/rfsp.2000.395464 Google Scholar 
+
+ Nonjon, M. (2005) Professionnels de la participation : savoir gérer son image militante. Politix , 70 (2), 89-112. 10.3917/pox.070.0089 Google Scholar 
+
+ Ollitrault, S. (2001). Les écologistes français, des experts en action. Revue française de science politique , 51 (1), 105-130. 10.3917/rfsp.511.0105 Google Scholar 
+
+ Ordre des psychologues du Québec (OPQ). (2016). Mémoire remis à la Commission des relations avec les citoyens. (CRC-003M), Assemblée nationale du Québec. Google Scholar 
+
+ Pauly, I. (1969). Adult manifestation of male transsexualism. Dans R. Green et John Money (dir.), Transsexualism and Sex Reassignement , Baltimore : Johns Hopkins University Press. Google Scholar 
+
+ Rioux, J. (1978) Le rôle du gynécologue dans la thérapie face au transsexuel. Cahiers de sexologie clinique , 4-19. Google Scholar 
+
+ Rose, N. (1999). Powers of Freedom , Cambridge University Press. 10.1017/CBO9780511488856 Google Scholar 
+
+ Serano, J. (2007). Whipping Girl : A Transsexual Woman on Sexism and the Scapegoating of Femininity, Berkeley : Seal Press, 408 p. Google Scholar 
+
+ Stoller, R. (1968). Recherche sur l’identité sexuelle , Paris : Gallimard, 405 p. Google Scholar 
+
+ Stryker, S. (2006). (De)Subjugated Knowledges : An Introduction to Transgender Studies. Dans Susan Striker et Stephen Wittle (dir.), The Transgender Studies Reader (p. 1-17) , Routeledge. Google Scholar 
+
+ Winter, S. (2009). Cultural Considerations for the World Professional Association for Transgender Health’s Standards of Care : The Asian Perspective. International Journal of Transgenderism , 11 (1), 19‑41. 10.1080/15532730902799938 Google Scholar 
+
+ World Professional Association for Transgender Health (WPATH). (2012). Standards de Soins pour la santé des personnes transsexuelles, transgenres et de genre non-conforme : 7 e version . Google Scholar 
+
+ Zucker, K. J. et Lawrence, A.. (2009). Epidemiology of Gender Identity Disorder : Recommendations for the Standards of Care of the World Professional Associat”ion for Transgender Health. International Journal of Transgenderism , 11 (1), 8‑18. 10.1080/15532730902799946 Google Scholar 
+
+ Zucker, K. J. et al . (2013). Memo Outlining Evidence for Change for Gender Ide”ntity Disorder in the DSM-5. Archives of Sexual Behavior, (42), 901-914. 10.1007/s10508-013-0139-4 Google Scholar 
+
+ Other Articles From This Journal
+
+ Aliénation et reconquête : le personnage étranger dans La Nuit de Ferron
+
+ By Simon Harel
+
+ Eric Landowski, La société réfléchie — Essais de socio-sémiotique , Paris, Seuil, Coll. « La couleur des idées », 1989, 286 p.
+
+ By Maryse Souchard
+
+ Robert D. Bureau et Pierre Mackay, Le droit dans tous ses états , Montréal, Wilson Lafleur, 1987, 620 p.
+
+ By Gérard Boismenu
+
+ Le retour du lisible dans la littérature française aujourd’hui
+
+ By Régine Robin
+
+ Citation Tools
+
+ Cite this article
+
+ MLA 
+ 
+ Labarge-Huot, Étienne. "Des problématisations scientifiques aux problèmes politiques : le rôle de l’expertise dans la reconnaissance des identités trans au Québec." Cahiers de recherche sociologique , number 68, winter 2020, p. 205–229. https://doi.org/10.7202/1086363ar
+
+ APA 
+ 
+ Labarge-Huot, É. (2020). Des problématisations scientifiques aux problèmes politiques : le rôle de l’expertise dans la reconnaissance des identités trans au Québec. Cahiers de recherche sociologique , (68), 205–229. https://doi.org/10.7202/1086363ar
+
+ Chicago 
+ 
+ Labarge-Huot, Étienne "Des problématisations scientifiques aux problèmes politiques : le rôle de l’expertise dans la reconnaissance des identités trans au Québec". Cahiers de recherche sociologique no. 68 (2020) : 205–229. https://doi.org/10.7202/1086363ar
+
+ Export the record for this article
+
+ RIS 
+ 
+ EndNote, Papers, Reference Manager, RefWorks, Zotero
+
+ ENW 
+ 
+ EndNote (version X9.1 and above), Zotero
+
+ BIB 
+ 
+ BibTeX, JabRef, Mendeley, Zotero
+
+ Subscribe to our newsletter 
+ Subscribe to our newsletter 
+
+ About
+
+ Help
+
+ Accessibility
+
+ Research Guide
+
+ Contact us
+
+ Journals
+
+ Theses and dissertations
+
+ Books and proceedings
+
+ Research reports
+
+ Cultivate your knowledge. 
+
+ Follow us
+
+ Privacy policy
+
+ Cookie policy
+
+ Terms and conditions
+
+ © 2026 Érudit Consortium

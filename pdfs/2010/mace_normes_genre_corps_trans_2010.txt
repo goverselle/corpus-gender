@@ -1,0 +1,1230 @@
+Ce que les normes de genre font aux corps / Ce que les
+corps trans font aux normes de genre
+Éric Macé
+Dans Sociologie 2010/4 Vol. 1 , pages 497 à 515
+Éditions Presses Universitaires de France
+ISSN 2108-8845
+ISBN 9782130580652
+DOI 10.3917/socio.004.0497
+Date de mise en ligne : 03/02/2011
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-sociologie-2010-4-page-497?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Presses Universitaires de France.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+Bilan critique
+SOCIOLOGIE, 2010, n° 4, vol. 1, 497-516* Professeur de sociologie à l’Université de Bordeaux, chercheur au centre Émile-durkheim ( u m r 5116)
+Université de Bordeaux – Département de sociologie
+3 ter, place de la Victoire – F-33076 Bordeaux Cedex
+eric.mace@u-bordeaux2.frKEywoRdS: transsexualism; technology of gender; cul-
+tural movement; gender identificationABSTRACT
+While psychiatry is engaged in deconstructing the cat-
+egory of “transsexuality”, the article questions the ability of sociology to account for the transgender issue not from a medical standpoint. Unlike approaches that regard transgender practices as a transgression of the anthropological norms of sex difference or that describe 
+in an interactionist way the associations necessary to 
+the existence of these social practices, this article con-siders rather transsexualism as “a gender technology”. 
+It means to regard the production of gender identifica-
+tions and gendered bodies as the exercise of a social 
+relationship of power through the imposition of a neces-sary difference between feminine and masculine. Of-fering a rereading of nearly one hundred years of medi-calization of transgender behaviors and controversies it has known, the paper shows how this technology has been historically productive. On the one hand, of nor -
+mative effects on bodies and, on the other, of capac-ity for transgender people to transform gender norms through the formation of a cultural movement aimed to denaturalize, to detraditionalize and to resignify gender identifications. The article asks in conclusion on the ability of sociology to account for gender identification process themselves if they can not be reduced either to biological determinism or cultural determinism, includ-
+ing a discussion regarding the relevance of the concept 
+of “career of gender identification” to describe not only deviant careers but the very process of gendered indi-viduation itself.ce que les normes de genre font aux corps / ce que les corps trans font aux normes de genre
+what gender norms do to bodies / what trans bodies do to gender norms
+par Éric Macé*
+RÉSUMÉ
+Tandis que la psychiatrie est engagée dans la décons-
+truction de sa propre catégorie de « transsexuel », cet article s’interroge sur la capacité de la sociologie à 
+rendre compte de façon non médicale de la question 
+trans. À la différence des approches qui considèrent les pratiques trans comme une transgression de la norme 
+anthropologique de la différence des sexes ou bien qui 
+décrivent de manière interactionniste les associations nécessaires à l’existence sociale de ces pratiques, 
+cet article considère plutôt le transsexualisme comme 
+une « technologie de genre ». On entend par là la pro-duction d’identifications de genre et de corps genrés comme étant l’exercice d’un rapport social de pouvoir 
+participant de l’institution normative d’une différence 
+nécessaire et hiérarchisée entre le féminin et le mas-culin. Proposant une relecture de près de cent ans de 
+médicalisation des conduites transgenres et des contro-
+verses qu’elle a connue, l’article montre comment cette technologie a été productive d’effets normatifs sur les 
+corps mais aussi, en retour, de capacité d’action trans-
+formatrice des normes de genre via la formation d’un 
+mouvement culturel trans tendant, au même titre que les mouvements féministes, gays et queer à dénaturali-
+ser, à détraditionnaliser et à resignifier les identifications de genre. L’article s’interroge en conclusion sur la ca-pacité de la sociologie à rendre compte des processus 
+d’identification de genre eux-mêmes dès lors qu’ils ne 
+peuvent être réduits ni à un déterminisme biologique ni à un déterminisme culturel, en discutant notamment 
+de la pertinence de la notion de « carrière d’identifica-
+tion de genre » pour rendre compte moins des seules carrières « déviantes » que du processus même de l’in-dividuation genrée.
+MotS-clÉS : transsexualisme ; technologie de genre ; 
+mouvement culturel ; identification de genre
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 498-516498
+on observe dans de nombreuses sociétés humaines ancien-
+nes et présentes des cas d’identifications et de conduites 
+transgenres, c’est-à-dire non conformes aux normes en vigueur de genre et de sexualité, et chaque culture a sa manière propre de les intégrer – par la reconnaissance statutaire ou par la sanc-
+tion de la déviance – au sein de ses formes propres de compo-
+sition des liens entre sexe, genre et sexualité (Godelier, 2007 ; Goffman, 2002 ; Garfinkel, 2007 ; Handman, 2008). Dans le contexte particulier des sociétés occidentales modernes, ces conduites ont été médicalisées dès la fin du 
+x i xe siècle dans le 
+cadre plus général d’une pathologisation des pratiques sexuel-
+les et des identifications de genre (Foucault, 1976 ; Laqueur, 
+1992). L’existence sociale contemporaine des conduites et des identifications trans
+1 est ainsi définie par un dispositif médico-
+légal à visée thérapeutique qui reconnaît des « troubles de 
+l’identité de genre » tels que le « transsexualisme », c’est-à-dire 
+l’identification de soi en tant que femme de certains hommes et en tant qu’homme de certaines femmes et nécessitant la résolution de cette discordance sexe/genre. Le diagnostic psy-chiatrique d’un tel trouble est institué dans les nomenclatures 
+internationales que sont le Manuel Diagnostique et Statistiques 
+des troubles mentaux de l’American Psychiatric Association 
+(Diagnostic and Statistical Manual of Mental Disorders, ou 
+d s m) 
+et la Classification Internationale des Maladies de l’Organisation 
+mondiale de la santé. Cela permet aux patients l’accès et la prise en charge des opérations thérapeutiques de modification corporelle et de l’état civil, afin que des personnes déclarées 
+femme à la naissance puissent devenir socialement et civile-
+ment des hommes, et inversement (Chiland, Cordier, 2000) – des opérations souvent résumées par les notions de Male to 
+Female (
+mtf) ou de Female to Male ( ftm) et qui concerneraient 
+entre une personne sur 10 000 ou 50 000 selon les sources2. 
+Cette institution médicale d’un modèle pathologique et théra-
+peutique des corps sexués et des identifications genrées pose 
+un problème de positionnement théorique s’agissant de l’ana-lyse non médicale d’un tel fait social.
+D’un côté, on peut considérer ces catégories médicales comme 
+l’expression de rapports de domination qui imposent par là 
+une vision du monde idéologique menaçant les fondements naturalistes et symboliques d’une réalité à défendre, celle 
+1. Dans ce texte, j’emploie le terme « trans » au sens générique, comme 
+c’est le cas en anglais pour transgender.de la différence des sexes. Dans son livre The Transsexual 
+Empire (1979), Janice raymond, activiste et théoricienne 
+féministe états-unienne, soutient qu’il faut voir dans les trans 
+mtf une invention médicale au service des visées patriarcales 
+de liquidation de la capacité d’action des femmes par la créa-tion de « fausses femmes » (« She-Male ») venant perturber 
+les lignes de front opposant les féministes à la domination masculine. Dans un autre registre, le sociologue et psychana-lyste français Pierre-Henri Castel soutient que le transsexua-
+lisme est une pathologie iatrogène (c’est-à-dire produite par l’activité médicale elle-même), rendue possible par la victoire de l’approche sexologique au sein de la psychiatrie au détri-ment d’une approche de type psychanalytique des identifi-
+cations transgenres, et dont la doctrine de la plasticité des 
+genres menacerait à terme le fondement anthropologique de l’humanité qu’est la différence des sexes (Castel, 2003). D’un 
+autre côté, certains travaux cherchent moins à opposer une 
+réalité à une autre et à critiquer les catégories instituées qu’à décrire les logiques d’action qui se déploient au sein de ces cadres institués. L’approche latourienne de Florence Hérault 
+(2004) montre ainsi, en les mettant sur le même plan, la mul-
+titude d’acteurs et de médiateurs nécessaires à ce que des 
+« hommes » deviennent des « femmes » et inversement, avec toute la complexité et les perplexités propres à de telles asso-ciations : « des hormones, des psychiatres, des prothèses 
+mammaires et de la silicone, des épilateurs laser, des endo-
+crinologues, des tests de personnalité, des prothèses testi-culaires, des orthophonistes, des avocats et des juges, des 
+chirurgiens aux spécialités diverses, la Cour européenne des 
+droits de l’Homme, des militants et des associations, et bien d’autres encore » (Hérault, 2004, p. 3). 
+Une troisième approche, qui sera préférée ici, propose d’arti-
+culer cette analyse compréhensive des logiques d’action avec l’analyse critique des cadres même de ces actions. Il s’agit tout d’abord de ne considérer les catégories médicales et les 
+pathologies recensées ni comme des catégories idéologiques 
+ni comme des « données » de l’expérience mais de montrer que les catégories psychiatriques sont plutôt des « obtenues », qu’elles ont une historicité, qu’elles sont relatives, en fonction 
+non seulement de la connaissance biomédicale elle-même et 
+2. Il n’existe pas de données épidémiologiques nationales et internationales 
+fiables concernant la prévalence du transsexualisme. Le rapport de la Haute 
+Autorité de Santé propose une fourchette entre 1/10 000 et 1/50 000 ( h a s, 
+2009, p. 19).
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 499-516499
+des normes sociales et culturelles du moment mais, comme le 
+souligne Hacking (2001), qu’elles sont des catégories « inte-
+ractives », c’est-à-dire que les diagnostics et les thérapies qui 
+en découlent produisent des effets en retour tendant à trans-former non seulement le regard porté sur les malades mais aussi les conduites de ces malades et finalement les diagnos-
+tics et les thérapies elles-mêmes. C’est le cas, on va le voir, 
+avec la disparition annoncée par les procédures de révision du 
+d s m et de la c i m non seulement de la notion de transsexua-
+lisme mais aussi des normes d’identification pathologique de 
+genre qui la sous-tendaient. Il s’agit ensuite de penser les 
+identifications et les conduites de genre comme des rapports sociaux de pouvoir.
+Dans le prolongement des réflexions de Judith Butler (2005) 
+et de Teresa de Lauretis (2007) qui tirent toutes les consé-
+quences des opérations de désessentialisation du sexe, du 
+genre et de la sexualité effectuées par Simone de Beauvoir 
+(1949/1976) et Michel Foucault (1976), je propose ici de 
+considérer le transsexualisme comme une « technologie de genre », c’est-à-dire comme un dispositif d’exercice des rap-ports de pouvoir par la production même des catégories de 
+genre et des corps sexués afférents, définissant les cadres 
+de l’action, les différences hiérarchisées et les identités au moyen d’un ensemble de médiations techniques, institution-nelles et symboliques. Comme le souligne Foucault, l’exercice 
+de ce pouvoir ne doit cependant pas être pensé en termes de 
+domination surplombante mais comme une relation dissymé-trique productive (Foucault, 1994a), c’est-à-dire rendant pos-sible simultanément l’action et les résistances à cette action, 
+de sorte que « la résistance prend toujours appui, en réalité, 
+sur la situation qu’elle combat » (Foucault, 1994b, p. 741). 
+On peut à partir de là considérer le transsexualisme comme le 
+produit et l’objet d’une dynamique conflictuelle et réflexive de 
+recomposition des formes contemporaines d’articulation entre sexe, genre et sexualité, dont les principaux acteurs sont, nous le verrons, les médecins, les trans, et les mouvements qu’ils 
+génèrent au sein de la médecine, du droit, des théories en 
+sciences sociales et des représentations culturelles et jusque dans les médiacultures. 
+3. Le terme « queer » fait référence au mouvement culturel et au courant 
+théorique considérant que les identifications de genre, les sexes et la sexua-
+lité ne reposent sur aucune essence identitaire ou naturelle mais sur des rap-
+ports sociaux de pouvoir institués, performés et contestés dans l’ensemble des médiations et des représentations constitutives des rapports de genre. Cela me conduit dans cet article à rendre compte du trans-
+sexualisme et de sa fin annoncée comme l’illustration du dou-
+ble sens de l’outsider défini par Howard Becker (1985). Dans 
+la première partie, je montre comment les personnes, les 
+conduites et les identifications trans ont été labélisées comme pathologiques au cours d’un processus complexe et conflic-
+tuel au sein de la psychiatrie, et ceci avec la coopération active 
+des candidats aux thérapies de réassignation de sexe. Dans la seconde partie, je montre comment ce dispositif a conduit les outsiders ainsi désignés comme déviants aux normes de la 
+correspondance sexe/genre à interroger à leur tour les normes à partir desquelles ils sont désignés comme déviants, déployant au sein de cette technologie de genre qu’est le transsexualisme 
+un mouvement culturel trans porteur d’un mouvement dans 
+la culture tendant à contester en fait et en droit la nécessité 
+qu’il y aurait à faire correspondre sexe et genre et à réduire les 
+identifications de genre à la différence binaire des sexes. Ce 
+mouvement participe ainsi, au même titre que les mouvements féministes et gays, aux dynamiques de « détraditionnalisation » (Beck, 2001) et de « queerisation » (Bourcier, 2006), des rôles et des identités de genre
+3.
+En conclusion, l’article interroge les conséquences de la fin annoncée du transsexualisme. Elle conduit en effet à reposer la question de l’analyse sociologique du devenir genré des individus dès lors que les normes d’identification de genre 
+ne disposent plus des soubassements médicaux qui avaient 
+légitimé l’institution de la correspondance sexe/genre et de leur binarité masculin/féminin. Si, comme le montre l’exis-
+tence même d’identifications et de conduites trans, la socia-
+lisation genrée n’est pas l’imposition d’habitus de genre qui façonneraient la subjectivité de tous ; si, comme le montre la dépathologisation annoncée de ces conduites et de ces 
+identifications, ce n’est pas la différence de sexe qui, « nor -
+malement », déterminerait l’identification de genre, alors ces 
+identifications, qu’elles soient trans ou non trans, restent à expliquer sociologiquement. On discutera à ce propos de la 
+pertinence de la notion de « carrière » proposée par Becker 
+(1985), dans la perspective d’une définition de ce que serait la carrière d’identification de genre d’individus saisis du point 
+Il n’y a donc pas d’identités queer qui seraient différentes des identités hété-
+rosexuelles, gays ou trans mais des actions politiques, culturelles et théori-
+ques de détraditionalisation, de dénaturalisation et de resignification, en un 
+mot de queerisation, des identités, des représentations et des rapports de 
+genre (Butler, 2005 ; Bourcier, 2006).
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 500-516500
+de vue de la singularité de leur expérience des épreuves gen-
+rées de l’individuation (Martuccelli, 2010).
+le transsexualisme comme technologie de genre
+Au cours du x i xe siècle en Occident, le sexe, la sexualité et le 
+genre ont été l’objet d’une composition propre à l’approche 
+médicale moderne de distinction du normal et du pathologique. 
+Avant cette médicalisation, le sexe et la sexualité étaient saisis par des catégories relatives à l’ordre symbolique de la religion et à l’ordre social des normes de genre, de l’ordre public et 
+des bonnes mœurs (Steinberg, 2000). Par cette médicalisation, 
+de nombreuses pratiques, de nombreux désirs, de nombreu-ses identifications, ont été constitués en maladie et en objet de prise en charge thérapeutique plutôt que de violence ou 
+d’exclusion sociale. Cependant, le sexe et la sexualité ont été 
+contraints de se plier au pouvoir de catégorisation des corps et des subjectivités de la médecine et de ses prolongements 
+institutionnels dans l’hôpital et le droit. Symétriquement, c’est 
+le début d’une nouvelle configuration conflictuelle du sujet moderne qui se déploie dans la tension entre assujettissement et résistance au sein de cette nouvelle forme de définition des 
+identités et des rapports de genre (Foucault, 1976, 1994a). Il en 
+est ainsi avec l’invention de la transsexualité par la médecine et sa progressive déconstruction critique à la fois par les acteurs trans eux-mêmes puis par les acteurs médicaux. Je vais m’at-
+tacher dans cette première partie à restituer les dynamiques 
+et les controverses qui ont conduit à l’institution médico-légale des catégories de transsexualisme et de transsexualité, entre l’Allemagne de la fin du 
+x i xe siècle et les États-Unis de la seconde 
+moitié du x xe siècle.
+Un conflit de définition originel au sein 
+de la psychiatrie
+Quelles que soient les approches psychiatriques, médicales ou psychanalytiques en cours à la fin du 
+x i xe siècle, il existe 
+un consensus sur la définition du normal en matière de sexe, 
+de sexualité et d’identification de genre. C’est la différence 
+des sexes qui est la cause de la différence des genres, et les genres ainsi naturalisés dans leurs causes sont définis dans leurs effets selon des normes sociales et culturelles précises 
+qui font du masculin le positif (à la fois photographique et hié-
+rarchisé) du genre féminin : création vs procréation, production 
+vs reproduction, actif vs passif, dehors vs dedans, autonomie vs attachement, raison vs émotion, culture vs nature, etc. 
+(Laqueur, 1992 ; Bard, 1999). Par ailleurs, il n’existe qu’une forme normale de sexualité, l’hétérosexualité, autant que possi-ble au sein de la même race, dans le cadre du mariage et à des 
+fins fécondantes (Dyer, 1997). Tout le reste est pathologique, 
+c’est-à-dire objet de traitement thérapeutique. La dimension fortement binaire et hiérarchisée de ce système sexe/genre 
+conduit à une forme principale de préoccupation : l’inversion 
+féminin/masculin, dont les principales figures associées sont les « invertis » (qui deviendront les « homosexuels ») et les « travestis » (qui deviendront les « transsexuels »).
+Confrontés à de telles identifications et conduites atypiques, 
+les diagnostics médicaux divergent en fonction des théories qui les sous-tendent. Pour richard von Krafft-Ebing, médecin 
+austro-hongrois de la fin du 
+x i xe siècle et fondateur de la défi-
+nition psychiatrique du normal et du pathologique en matière 
+de sexualité, la normalité psychique doit être indexée aux nor -
+mes sociales hétérosexistes de genre, de sexualité et de race, 
+de sorte que les « invertis » et les « travestis » présentent des formes graves de perversion et de dégénérescence héréditaire 
+(Krafft-Ebing, [1886] 1950). Pour Freud et les psychanalystes 
+freudiens, bien qu’ils aient une approche amorale des identi-fications de genre et de la sexualité, la normalité et la maturité psychique de l’identité sexuée sont néanmoins indexées in 
+fine sur la correspondance entre l’anatomie sexuelle et l’or -
+dre symbolique. C’est pourquoi ils voient dans l’homosexualité une immaturité psychique consécutive à une psychogenèse 
+inaboutie, c’est-à-dire n’ayant pu réaliser le passage nor -
+mal d’une bisexualité enfantine à une hétérosexualité adulte 
+(Freud, [1905] 1989). De ce point de vue, le travestisme et l’inversion d’identification de genre apparaissent comme des 
+conduites délirantes de déni de l’homosexualité car permet-
+tant au sujet de se persuader que son orientation sexuelle est hétérosexuelle en dépit de la similarité de sexe de ses parte-naires (Freud, [1911] 2001 ; Castel, 2003).
+La rupture avec ces approches psychiques vient de médecins 
+endocrinologues qui sont à l’origine d’une nouvelle approche 
+naturaliste du sexe et de la sexualité, la sexologie. La figure 
+emblématique est Magnus Hirschfeld, lui-même homosexuel 
+militant, qui soutient que l’homosexualité ne devrait pas être considérée comme un trouble de la personnalité ni comme 
+une atteinte aux bonnes mœurs pénalement répréhensi-
+ble, mais comme l’expression naturelle d’une forme « inter -
+médiaire » au sein du continuum entre mâle et femelle, un 
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 501-516501
+« troisième sexe » développant ses propres orientations 
+sexuelles et modes de vie (Hirschfeld, 1908 ; Bauer, 2004). 
+Hirschfeld est également le premier qui distingue homosexua-
+lité et travestisme (Hirschfeld, [1910] 1991), ce qui conduira son disciple Harry Benjamin, migrant de l’Allemagne aux 
+États-Unis en 1914, à distinguer à son tour en 1953 le trans-
+sexualisme du travestisme (Benjamin, 1966). Comme les invertis, ceux qui sont désignés comme transsexuels sont des hommes féminisés dans leurs manières ; comme les travestis, les transsexuels adoptent les codes sociaux et vestimentaires 
+de l’autre genre. Cependant les transsexuels ne s’identifient 
+ni comme des hommes invertis ni comme des hommes tra-vestis mais comme des femmes (ou inversement, mais le cas 
+est plus rare). Ils savent qu’ils ont un corps d’homme ou de femme mais ils ont la conviction qu’ils/elles sont en réalité « des hommes enfermés dans un corps de femme », ou le contraire, et qui souffrent de ne pouvoir réaliser leur iden-
+tification de genre et leur imaginaire corporel. L’explication 
+n’est plus liée ici à la psychogenèse mais à l’embryogenèse, au cours de laquelle les modes d’imprégnation hormonale du cerveau seraient à l’origine des variances naturelles d’orien-tation sexuelle et d’identification de genre, le transsexualisme 
+présentant ainsi le cas tout particulier d’un « hermaphrodisme 
+psychique » à fondement organique.
+Même si les théories et les diagnostics sont divergents, les 
+sexologues rejoignent ici les psychiatres et les psychanalystes 
+sur un point : l’action thérapeutique doit avoir pour objectif de rétablir la correspondance sexe/genre nécessaire à l’équilibre 
+mental et à l’intégration sociale des personnes. Cependant, 
+Hirschfeld et Benjamin en sont venus à penser qu’à défaut de pouvoir intervenir sur la cause biologique du transsexualisme, et confrontés aux demandes mêmes de leurs patients, il leur 
+revenait d’agir sur le symptôme et de réduire la souffrance psy-
+chique exprimée en permettant à ces derniers d’accéder, grâce à une action médicale de transformation corporelle, à un corps et à une identification de genre proche de leur conviction afin 
+de mener une vie sociale normale. 
+C’est sur ce point de la transformation corporelle plutôt que 
+psychique que l’affrontement épistémologique et professionnel 
+avec les psychiatres et les psychanalystes va être le plus frontal. 
+4. http://www.transgenderzone.com/features/ChristineJorgensen.htmProposer, comme le font les sexologues, de répondre favora-blement à la « demande folle » de changement de sexe des 
+transsexuels (i.e. de castration non symbolique) est de ce point 
+de vue une réponse thérapeutique tout aussi « folle » (Chiland, 1997), une véritable « collaboration avec la psychose » (Castel, 2003). Cette controverse, qui va se déployer au sein de la psy-
+chiatrie américaine tout au long des années 1950-1970, va se 
+solder par la victoire de l’approche sexologique. On peut distin-
+guer cinq logiques d’action ayant contribué à la réussite de ce que l’on pourrait appeler le « programme fort » de la sexologie 
+américaine, animé par de véritables « entrepreneurs médi-
+caux » que sont Harry Benjamin, John Money et robert Stoller 
+(Meyerowitz, 2002).
+Le « programme fort » de la sexologie américaine
+La première logique d’action est celle du sexologue Harry Benjamin, qui n’ayant pu obtenir de poste hospitalier, 
+ouvre une consultation privée à New York puis à San Francisco. Dès 1948, il devient rapidement célèbre et populaire auprès 
+des personnes trans en raison de son approche compassion-nelle et des effets spectaculaires des traitements hormonaux-
+chirurgicaux qu’il prescrit.
+Un médecin comme Benjamin n’aurait jamais pu devenir aussi 
+central s’il n’avait trouvé comme alliés des endocrinologues 
+et des chirurgiens devenus capables d’agir de façon quasi démiurgique sur les corps au moyen des progrès considéra-bles de la chirurgie génitale et grâce à la maîtrise croissante du 
+fonctionnement hormonal et de la production artificielle d’hor -
+mones. Les premières démonstrations de cette alliance ont été 
+les opérations de transsexualisation, d’abord confidentielles au début du 
+x xe siècle, puis, dès 1952, avec un retentisse-
+ment médiatique mondial à l’occasion de la publicité faite à la 
+transformation au Danemark de l’ancien GI George Jorgensen 
+en Christine Jorgensen (« ex-GI becomes blonde beauty » 
+titre la presse)4, provoquant la multiplication des demandes 
+auprès des médecins (Jorgensen, 1967). L’articulation théori-que entre les causes biologiques d’identification transsexuelle 
+et l’offre médicale de traitement hormono-chirurgical du transsexualisme est dorénavant si étroite que dans son livre The Transsexual Phenomenon de 1966, Benjamin défini les 
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 502-516502
+personnes transsexuelles comme étant celles dont le principal 
+symptôme est celui d’une demande de réassignation chirurgi-
+cale de sexe.
+Le troisième renfort est venu paradoxalement de psychiatres 
+et de psychologues qui, bien qu’opposés théoriquement aux 
+thèses de Benjamin quant aux causes du transsexualisme, 
+en viennent à le rejoindre en ce qui concerne la légitimité des traitements hormonaux-chirurgicaux (Castel, 2003 ; Drescher, 
+2009). John Money, un psychologue formé à l’anthropologie, 
+et robert Stoller, un psychiatre psychanalyste, s’opposent à la 
+thèse naturaliste de Benjamin selon laquelle ce serait la sexua-
+tion, lors de l’embryogenèse, qui déterminerait l’identité de 
+genre. Selon eux, sexe et genre sont dissociables car ils ne sont 
+pas de même nature : le sexe est biologique tandis que le genre est culturel, et c’est seulement la psychogenèse et la socialisa-tion qui font correspondre les deux selon des nécessités non 
+pas naturelles mais symboliques et sociales. Money et Stoller 
+font ainsi dans la théorie médicale ce que Simone de Beauvoir 
+avait fait en philosophie politique : la dissociation théorique entre sexe et genre, entre corps sexués et normes sociales de 
+genre. À la différence que, pour Beauvoir, cette dissociation 
+théorique est le point de départ d’une rupture politique avec les stéréotypes et les hiérarchies de genre. Pour Money et Stoller, 
+cette dissociation théorique est le point d’appui de la mise en 
+œuvre de technologies de genre (De Lauretis, 2007) destinées à reproduire et à performer (au sens théâtral) les stéréotypes du masculin et du féminin en tant qu’ils sont constitutifs de la 
+réalité sociale du monde occidental moderne – c’est-à-dire un 
+monde où la binarité et la correspondance sexe/genre sont une 
+donnée de l’expérience et de l’organisation sociale, ainsi que le décrivent finement les sociologues Harold Garfinkel ([1967] 
+2007) et Erving Goffman ([1977] 2002). 
+John Money, fondateur et principal animateur en 1963 de 
+la célèbre Gender Identity Clinic de l’hôpital universitaire 
+Johns Hopkins de Baltimore, s’occupe principalement de per -
+sonnes intersexuées (c’est-à-dire nées avec une configuration 
+sexuelle atypique). Il adapte de l’éthologie la thèse de l’impré-
+5. Longtemps dominante dans les théories et les pratiques médicales, cette 
+thèse est depuis contestée, conduisant parfois à ne plus mutiler les enfants 
+à leur insu. Soit en raison de théories médicales opposées à celle de Money : 
+Milton Diamond (2004) soutien ainsi l’idée d’un « noyau authentique d’iden-tité sexuée » produite lors de l’embryogénèse même lors d’intersexuation, 
+et qu’il faudrait laisser s’exprimer au cours du développement de l’enfant 
+plutôt que de risquer de la contrarier lors d’une réassignation précoce gnation comportementale parentale pour défendre l’idée selon 
+laquelle l’identité de genre se forme précocement chez le jeune 
+enfant sur la base de l’intériorisation de son assignation de 
+genre à la naissance (Money, Ehrhardt, 1972). Pour les enfants nés avec une ambiguïté génitale, il conseille de déterminer aussitôt le genre le plus vraisemblable (en fonction de l’exis-
+tence et de la longueur du pénis, des attentes des parents, 
+des tests endocriniens) puis d’y conformer chirurgicalement le sexe du bébé afin que les parents, l’entourage et l’enfant puis-sent produire une identité de genre non ambiguë. De la même 
+façon, lorsque des adolescents révélés intersexués à la puberté 
+lui sont présentés, il préconise non pas d’ajuster le corps à ce qui serait sa « vérité » sexuelle biologique (chromosomique ou 
+hormonale), mais il prône une assignation de sexe hormono-
+chirurgicale allant dans le sens de l’identification de genre de l’adolescent telle qu’elle est mesurée par les tests psychologi-ques et les entretiens avec le jeune patient et ses parents
+5.
+Pour sa part, robert Stoller, professeur de médecine, psychia-
+tre et psychanalyste et responsable de la Gender Identity Clinic 
+de l’Université de Californie à Los Angeles ( u c l a), s’oppose cer -
+tes au naturalisme de Benjamin, mais aussi à l’hypothèse freu-
+dienne d’une bisexualité originelle (Stoller, 1968, 1975, 1979). 
+Pour Stoller, il existe un déterminisme biologique et psychique qui tend à faire de tous les humains des êtres féminins, l’exis-tence d’êtres masculins étant liée à l’intervention de facteurs 
+biologiques masculinisants lors de l’embryogenèse puis de fac-
+teurs psychiques masculinisants lors de la psychogenèse. De ce point de vue, il n’existe qu’un seul transsexualisme vrai, dit “primaire”, celui de garçons dont la relation fusionnelle avec la 
+mère n’a pas été rompue par une présence masculine, empê-
+chant ainsi le déroulement œdipien normal d’identification des garçons aux hommes et provoquant un grave trouble de la per -
+sonnalité conduisant à l’impossibilité psychique de se définir comme un homme en dépit de la réalité du corps. Ainsi, contre la thèse d’une imprégnation hormonale précoce du cerveau défendue par Benjamin, Stoller, tout comme Money, oppo-
+se-t-il la thèse d’une imprégnation psychologique du cerveau 
+tout aussi précoce et dont les effets sont tout aussi puissants. 
+arbitraire. Soit en raison d’une définition non naturaliste et non primordia-
+liste de l’identification de genre, qui conduit à séparer l’assignation de genre 
+précoce faite à la naissance d’éventuelles modifications corporelles ultérieu-
+res selon l’identification de genre élaborée par les personnes concernées (Kraus et al., 2008). Pour une illustration de cette approche dans la fiction 
+voir Middlesex de Jeffrey Eugenides (2003) et Le chœur des femmes de 
+Martin Winckler (2009).
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 503-516503
+En raison de cette fixation précoce de l’identité de genre, les 
+personnes présentant les symptômes d’un transsexualisme 
+primaire sont inaccessibles à une psychothérapie6. D’où, pour 
+Stoller, la légitimité d’un traitement hormono-chirurgical per -
+mettant à ces patients, souvent suicidaires et inaptes en cela 
+à une vie sociale normale, de réduire leur discordance sexe/genre et de leur permettre de vivre de façon apaisée dans leur genre d’identification. Ainsi, bien que pour des raisons diamé-
+tralement opposées, Benjamin, Money et Stoller se trouvent 
+réunis dans la légitimation des opérations de transformation hormono-chirurgicale des personnes diagnostiquées comme transsexuels et se donnent les moyens théoriques et pratiques 
+d’agir sur les corps au même titre que la nature ou contre la 
+nature, tout en conservant néanmoins comme fondement épis-témologique et normatif de leur action l’idée d’une nécessaire 
+binarité de sexe et de genre et d’une nécessaire correspon-
+dance sexe/genre. 
+Le quatrième renfort est venu des patients eux-mêmes qui 
+transforment en succès médical et populaire l’offre de trans-
+formation corporelle faite par ces médecins, contribuant à 
+l’institution médicale et juridique de la transsexualité par leur collaboration active et leur demande croissante de prise en charge (Meyerowitz, 2002). Jusqu’aux premières opérations 
+hormono-chirurgicales expérimentales, les personnes concer -
+nées ne savaient que faire de leur désir d’un autre corps et 
+d’une autre identification de genre, sinon mener une vie de dissimulation, de scandale ou de travestissement de cabaret. 
+À partir du moment où la médecine perfectionne ses catégo-
+ries de diagnostic, son étiologie des syndromes et ses tech-niques de transformation corporelle, c’est-à-dire rend possible 
+médicalement et légalement les opérations de transsexualité, 
+les personnes concernées vont investir cette médicalisation en trouvant là une interprétation de leurs désirs et une solution à leur mal-être. Très tôt informées des possibilités de ces nou-
+veaux traitements par la médiatisation de cas comme celui de 
+Christine Jorgensen (
+mtf élue “femme de l’année” en 1953), les 
+personnes trans ne doivent ainsi pas être vues comme les victi-
+mes d’une domination médicale mais comme les acteurs d’une 
+6. Ce qui n’est le cas, selon lui, ni des formes tardives (dites secondaires), ni des 
+cas de femmes identifiées homme, qui, pour Stoller, ressortent a priori de causes 
+psychiques et psychanalytiques classiques relatives à l’homosexualité refoulée.
+7. Le « passing » est cette capacité des personnes trans à ne pas apparaî-
+tre comme des personnes trans mais comme des hommes ou des femmes 
+« normaux, naturels » (Garfinkel, 2007).coproduction de la transsexualité en se portant volontaires pour 
+les opérations et en collaborant, par leurs demandes, à une 
+amélioration des techniques. Au prix néanmoins d’une stan-
+dardisation du sujet et de son trouble du fait même de sa médi-calisation. Comme il n’existe pas de certitude étiologique, que le traitement proposé n’est que symptomatique mais avec des 
+effets corporels profonds, qui, dans un autre contexte seraient 
+illicites, tout le problème des médecins va être de déterminer s’ils ont affaire à des « vrais » transsexuels plutôt, classique-ment, qu’à des homosexuels « non assumés », des psycho-
+tiques ou autre. De sorte que si les personnes concernées 
+trouvent des solutions dans les protocoles médicaux proposés, la définition d’eux-mêmes leur échappe et les patients doivent 
+se loger dans un cadre théorique et méthodologique fondé 
+sur la sélection des candidats authentiques (Cordier, Chiland, Gallarda, 2001). En pratique, il faut que les patients présentent une identification de genre précocement inversée, stéréotypée 
+et non équivoque ; la démonstration du trouble psychique et 
+ses conséquences sur le mode de vie ; la claire volonté et capa-cité d’un « passing » complet et définitif 
+mtf ou ftm7. Mais aussi 
+le respect d’une séquence linéaire, étalée sur plus de deux ans, 
+partant de l’établissement du diagnostic psychiatrique compre-
+nant, outre des tests de personnalité, un test de “vie réelle” dans le genre souhaité, puis le commencement d’un traite-ment hormonal lourd dit “irréversible” avant de passer à l’opé-
+ration chirurgicale complète (ablation des organes génitaux 
+et reconstruction plastique d’un néovagin ou d’un néopénis) et l’intégration dans la vie sociale non pas en tant que trans-
+sexuel mais en tant que femme ou qu’homme “normal, natu-
+rel”, validée par une conjugalité hétérosexuelle. Malgré ces restrictions et l’imposition d’un tel script, c’est ce type de trai-
+tement hormono-chirurgical qui est à l’époque la principale 
+demande des patients, de sorte que le rôle de gatekeeper des 
+psychiatres des nombreuses Gender Identity Clinics ouvertes à 
+partir des années 1960 est souvent contourné par l’adoption de 
+conduites stratégiques consistant à savoir présenter en consul-
+tation et tout au long du protocole les symptômes typiques du 
+transsexualisme afin de pouvoir accéder au traitement (Billings, Urban, 1982)
+8.
+8. C’est ainsi que la jeune Agnès, qui avait engagé dès la puberté une 
+transition en mtf en détournant le traitement hormonal de sa mère et qui 
+souhaitait parachever le processus par une opération chirurgicale, a préféré 
+se faire passer pour intersexe auprès de Stoller et Garfinkel plutôt que de 
+devoir justifier, sans garantie, une cause psychique à son identification 
+de genre inversée (Garfinkel, 2007).
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 504-516504
+Les transformations internes de la psychiatrie 
+américaine
+Mais l’approche sexologique ne passera de la marge au 
+centre des pratiques thérapeutiques qu’à la suite d’une 
+profonde transformation interne de la psychiatrie aux États-
+Unis. L’enjeu n’est rien moins que la définition, au sein de l’American Psychiatric Association (
+a p a), de ce qu’est une 
+maladie mentale dans le Manuel Diagnostique et Statistiques 
+des troubles mentaux ( Diagnostic and Statistical Manual of 
+Mental Disorders ou d s m). Instauré en 1952 afin de rationa-
+liser et de standardiser les diagnostics, les traitements et les 
+prises en charge administratives des malades, le d s m dans 
+ses deux premières versions ( d s m-i en 1952, d s m-ii en 1968) 
+était l’expression d’un modèle psychiatrique et psychanalyti-que classique propice à la psychothérapie. Or la montée en 
+puissance de la recherche biomédicale et de l’industrie bio-chimique du médicament a alimenté dès les années 1960 un 
+courant en faveur d’un autre modèle, comparable à celui des 
+maladies somatiques, fondé sur les essais thérapeutiques 
+de traitements biochimiques comparés sur la base d’échan-tillons contrôlés et sur un examen raisonné de la littérature médicale. L’enjeu de la préparation du 
+d s m-iii, programmé 
+pour 1980, est celui du passage d’une approche centrée sur 
+la psychogenèse des pathologies d’inspiration psychanalyti-que et leur traitement psychothérapeutique à une approche symptomatologique des troubles et de leur réduction, ces derniers existant moins du point de vue des théories psycho-
+pathologiques que du point de vue de la santé mentale et du 
+rapport de l’individu à son environnement (Ehrenberg, 1998). rompant avec une approche en termes de folie, de maladie mentale ou de déviance aux normes sociales et culturelles, 
+le principal théoricien du nouveau modèle, robert Spitzer, 
+réduit la notion de « trouble mental » (mental disorder) 
+– c’est-à-dire justifiant un traitement médical – à deux cri-
+tères : celui d’une souffrance exprimée par le patient et/ou 
+celui d’une déficience d’aptitude à la vie sociale (Drescher, 2009, p. 26). C’est en prenant appui sur cette nouvelle défi-
+nition du trouble mental que les sexologues vont s’engager 
+dans une double controverse conduisant l’
+a p a d’un côté à 
+retirer l’homosexualité du d s m-iii en 1980, d’un autre côté à y 
+faire entrer le transsexualisme. 
+9. L’homosexualité ne sera retirée de la classification Internationale des 
+maladies de l’ o m s qu’en 1992.Introduite dès l’origine dans le d s m comme trouble mental 
+en 1952, l’homosexualité en a été retirée en 1973 à la suite d’un 
+double mouvement de critiques. Le premier, externe, est lié à la 
+formation d’un mouvement gay qui, sur la base de la constitu-tion d’une subculture urbaine à New York et à San Francisco, va s’organiser et se politiser pour mettre fin au harcèlement policier, 
+aux violences homophobes, aux discriminations légales, à la stig-
+matisation sociale et politique. Le groupe des « homosexuels » défini par la médecine du 
+x i xe siècle se constitue ainsi en retour 
+en acteur collectif, illustrant la définition foucaldienne du pouvoir 
+comme l’exercice d’une relation dissymétrique qui produit ses 
+propres résistances (Foucault, 1976, 1994a). Après que la médi-calisation a pu apparaître comme un moyen d’émancipation des catégories morales stigmatisantes, elle est apparue, au contraire, 
+comme une entrave à l’individuation et aux droits. Les mouve-
+ments gays considèrent dorénavant la psychiatrie comme un agent direct d’oppression et plus généralement comme un agent de légitimation sociale de leur stigmatisation, et l’
+a p a devient dès 
+la fin des années 1960 la cible directe d’actions de perturbation 
+et de dénonciation (Drescher, 2009). Ces manifestations hostiles allaient dans le sens de ceux qui, au sein de l’
+a p a, désiraient 
+faire valoir une approche sexologique plutôt que psychanalytique 
+des questions sexuelles et de genre. Les grandes enquêtes d’Al-
+fred Kinsey sur la sexualité (1948, 1953) avaient conduit à relati-
+viser la catégorie « homosexuel » en montrant que les pratiques homosexuelles étaient assez largement répandues dans la popu-
+lation dite « hétérosexuelle » (37 %) et que l’on pouvait compter 
+près de 10 % de la population adulte ayant exclusivement des pratiques homosexuelles, contribuant ainsi à légitimer l’idée non 
+d’une déviance mais d’une variance « naturelle » de l’orientation 
+sexuelle. Conjuguant ces éléments avec les nouveaux critères de définition du trouble mental, les sexologues montrent que, de ce 
+point de vue, les pratiques homosexuelles et la définition de soi 
+comme homosexuel n’apparaissent plus comme constitutives en soi d’un trouble mental (Drescher, 2009). Dans un contexte hou-leux relatif aux réticences de nombreux médecins, psychiatres et représentants institutionnels persuadés de la dimension contre-
+nature et perverse de l’homosexualité, le retrait de l’homosexua-
+lité du 
+d s m, ratifié par référendum au sein de l’ a p a en 1973, 
+marque la victoire non seulement des sexologues, mais plus généralement de l’approche symptomatique consacrée par le 
+basculement de modèle qu’est la publication du 
+d s m-iii en 19809. 
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 505-516505
+Ce faisant, l’homosexualité redevient l’objet des controverses 
+morales, culturelles, juridiques et politiques qu’elle avait été 
+avant sa médicalisation. reconnaissant le rôle qu’elle a pu 
+longtemps jouer dans la stigmatisation de l’homosexualité en 
+la qualifiant de grave perversion, l’ a p a a depuis 1973 constam-
+ment fait des déclarations publiques tendant à disqualifier et à 
+délégitimer les discours, les politiques et les lois discriminatoi-
+res envers les personnes en raison de leur orientation sexuelle (Drescher, 2009).
+Parallèlement, le transsexualisme n’apparaît pas en tant que 
+tel dans les deux premières versions du 
+d s m (1952 et 1968), 
+d’autant que la grande majorité des médecins refusent, pour 
+des raisons théoriques, déontologiques, morales ou religieu-
+ses, de légitimer des modifications corporelles irréversibles en l’absence de pathologie organique (Green, 1969). Cependant, sur la base des vingt ans de travaux de Benjamin, Money et 
+Stoller et de l’activité des Gender Identity Clinics, le transsexua-
+lisme est présenté dans les années 1970 comme répondant 
+aux nouveaux critères de trouble mental. D’une part, il appa-
+raît que la discordance sexe/genre est plus répandue qu’on 
+ne le pense, bien au-delà du transsexualisme, et qu’elle pro-
+voque des souffrances psychiques et des handicaps sociaux. Pour rendre compte de l’extension de ce trouble, le respon-
+sable de la Gender Identity Clinic de l’université de Stanford, 
+Norman Fisk (1974), propose le concept de « dysphorie de 
+genre » (gender dysphoria : qui ne peut supporter son identité 
+de genre). Cela permet d’étendre le trouble aux adolescents 
+et aux enfants, avant même que la question de l’opération se 
+pose, et cela réserve la notion de transsexualisme aux formes persistantes de dysphorie de genre avec demande insistante de modification corporelle. D’autre part, il apparaît que les traite-
+ments hormono-chirurgicaux prescrits et réalisés lors de trans-
+sexualisme avéré permettent de réduire efficacement à la fois cette souffrance et ce handicap, les personnes devenant alors les « hommes » et les « femmes » qu’elles souhaitaient deve-
+nir. L’institution de l’approche sexologique de la transsexualité 
+trouve ainsi son acmé avec l’inscription du « transsexualisme » dans le 
+d s m-iii de 1980, défini comme la forme la plus grave 
+de « trouble de l’identité de genre » (Gender Identity Disorder 
+– g i d)10. C’est sur la base de cette catégorie psychiatrique que 
+se fonde encore de nos jours l’institution médico-légale du 
+10. Le transsexualisme est intégré dans la c i m-10 de l’ o m s en 1993.transsexualisme : le diagnostic permet d’accéder aux traite-
+ments hormono-chirurgicaux (voire à leur remboursement) per -
+mettant un « passing » « mtf » ou « ftm », ce traitement étant la 
+condition juridique d’accès aux droits (modification d’état civil, 
+non-discrimination).
+Un mouvement culturel trans outsider : 
+détraditionnalisation et resignification 
+des identifications de genre
+Cependant, cette approche psychiatrique va laisser place à une 
+nouvelle configuration tendant à affaiblir la notion médicale de 
+transsexualité au profit d’une approche culturelle et politique 
+plus large des questions trans. Dans les années 1980 aux États-
+Unis, on observe la conjonction de deux changements.
+Libéralisation médicale et critique 
+trans des protocoles
+Tout d’abord la politique néolibérale et conservatrice de ronald 
+reagan avec ses effets de backlash idéologique et de restric-
+tions financières envers les hôpitaux publics. En 1979, une 
+étude (depuis considérée comme fallacieuse – Drescher, 2009) 
+fait un bilan critique des résultats de la Gender Identity Clinic du 
+Johns Hopkins Hospital (Meyer, reter, 1979). Cela conduit le 
+nouveau directeur, clairement opposé aux opérations, à fermer ce qui fut le service phare du programme fort sur la transsexua-lité. Par ailleurs, aucune des théories relatives à l’embryogenèse ou à la psychogenèse du transsexualisme sur lesquelles était 
+fondée l’approche sexologique n’est démontrée, pouvant ainsi 
+laisser penser que le transsexualisme est une maladie iatrogène, c’est-à-dire produite par l’activité même de la médecine et de son offre de réassignation de sexe. Milton Diamond, médecin 
+opposé depuis les années 1960 aux théories de Money, par -
+viendra à révéler en 1997 les effets dramatiques d’une toute 
+puissance théorique et d’une falsification expérimentale à propos de l’affaire de David reimer, dite affaire « John/Joan » (Diamond, Sigmundsen, 1997). Analysant rétrospectivement 
+les effets normatifs des théories de Money sur la singularité des identifications trans, Judith Butler revient en particulier sur 
+cet épisode significatif à la fois de l’emprise et de la fragilité de 
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 506-516506
+ces théories (2006). Deux jumeaux non intersexes avaient été 
+circoncis pour raison médicale le même jour mais l’un d’eux, David, avait eu accidentellement le pénis mutilé par brûlure. Consulté, Money avait vu là une occasion de valider expéri-
+mentalement sa théorie et avait convaincu l’équipe médicale 
+et les parents d’assigner à David un sexe et un genre féminin en raison des difficultés qu’il aurait à vivre en tant qu’homme sans pénis. Le cas avait été présenté comme un succès emblé-matique de la théorie de Money (Money, Green, 1969). Mais 
+le récit rétrospectif de David est tout autre : à l’adolescence, 
+il avait obtenu la vérité de ses parents, puis décidé de ne plus prendre son traitement hormonal féminisant et de rompre avec l’équipe de Money en dépit des pressions, avant d’obtenir une réassignation de sexe et de genre masculin. À la suite de quoi il s’était marié et, apprenant que Money opérait toujours selon le même protocole, avait accepté de raconter à Diamond et à un journaliste son histoire (Colapinto, 2000) ; avant de se suicider quelque temps plus tard peu après le suicide de son jumeau.
+C’est également en 1979 que paraît l’ouvrage de 
+Janice raymond, The Transsexual Empire, véritable charge 
+antitrans d’une féministe essentialiste attachée à la cause 
+des femmes. Dans ce climat de contestation morale, médi-
+cale et politique, la plupart des Gender Identity Clinics des 
+hôpitaux publics ferment (Drescher, 2009). Cela ne met cependant pas fin aux demandes d’opération de transsexua-lité : ces fermetures ont pour effet l’ouverture d’un véritable marché libéral à la fois du diagnostic psychiatrique et du 
+traitement hormono-chirurgical. Une telle libéralisation est 
+favorisée par l’inexistence d’un régime national d’assurance- 
+maladie propre aux États-Unis. Comme la plupart des assu-rances santé ne prennent pas en charge les frais relatifs 
+aux opérations médicales de transformations trans, c’est au 
+patient de trouver les moyens financiers et les praticiens qui conviennent à ses désirs et à ses possibilités. Cela a pour effet, contrairement en France, qu’aucune instance médico-administrative nationale de gestion financière de la santé ne 
+soit en position d’imposer des conditions et des protocoles 
+nécessaires au remboursement des frais de traitement. De la même manière, il n’existe pas aux États-Unis de doctrine juridique unifiée concernant les conditions de changement d’état-civil, et on observe dans chaque État des modalités 
+diverses allant de l’exigence d’opération chirurgicale génitale 
+à la seule prise d’un traitement hormonal (Green, 2010). Le choix du professionnel de santé mentale devient la règle, per -mettant ainsi aux personnes trans d’échapper au monopole 
+des psychiatres hospitaliers (Denny, 1992).
+Dans le même temps, de nombreuses cliniques de chirurgie 
+esthétique et plastique étendent leurs services aux modifica-tions transsexuelles et transgenres, intégrant ainsi de façon 
+encore plus approfondie et dans un contexte concurrentiel ali-
+menté par les « consommateurs de soins » des critères non seulement esthétiques mais également fonctionnels et relatifs au plaisir sexuel. Les années 1980 et 1990 sont ainsi le moment 
+d’une dissociation de ce que les Gender Identity Clinics avaient 
+intégré, par la libéralisation du marché du diagnostic et du traitement hormono-chirurgical. Cette dissociation structurelle 
+est entérinée lors de l’édition du 
+d s m-iv en 1994 (toujours en 
+vigueur en 2010 dans sa version révisée de 2000) où la notion 
+de transsexualisme disparaît au profit d’une appellation unique de trouble mental qu’est le Gender Identity Disorder (
+g i d). Un 
+« trouble de l’identité de genre » est une « identification intense et persistante à l’autre genre » associée à un « sentiment per -
+sistant d’inconfort par rapport à son sexe ou un sentiment d’ina-
+déquation par rapport à l’identité de genre correspondante », 
+au point que « l’affection est à l’origine d’une souffrance cli-
+niquement significative ou d’une altération du fonctionnement social, professionnel ou dans d’autres domaines importants ». 
+La question du changement de sexe n’est pas définie comme 
+un traitement mais comme un symptôme même du trouble, 
+lorsque les patients « font la demande d’hormones ou d’opé-
+rations chirurgicales afin de modifier leurs caractéristiques sexuelles pour simuler celles de l’autre sexe ». On trouve un 
+premier écho de cette libéralisation et de ces déplacements 
+théoriques, épistémologiques et politiques dans les inflexions, 
+en 2001, de la 6
+e version – toujours en usage – des standards 
+de soins de la Harry Benjamin International Gender Dysphoria 
+Association ( h b i g d a ). On y lit une grande prudence épistémo-
+logique faute de certitude étiologique ; la remise en cause d’un protocole uniforme et linéaire des parcours ; la mise en 
+garde contre l’usage inquisiteur d’un « test de vie réelle » par de nombreux médecins alors qu’il s’agit d’une « expérience de 
+vie réelle », généralement sous hormones et avec l’accord des 
+personnes en transition ; le principe de libre choix du psycho-
+thérapeute qui n’est pas nécessairement un psychiatre mais 
+tout « professionnel de santé mentale » spécialisé et dont une ou deux lettres de diagnostic sont nécessaires pour solliciter 
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 507-516507
+ensuite le chirurgien plastique de son choix11. La transformation 
+en 2009 de la harry benjamin i nternational g ender d ysphoria 
+association en World Professional Association for Transgender 
+Health ( w p a t h ) entérine ce passage d’un « programme fort » 
+biomédical incarné par Benjamin à un autre cadre paradigma-
+tique émergent qu’est celui de la « santé mentale transgenre », 
+qui se veut attentif aux éventuels effets de normalisation répres-sive ou de stigmatisation des patients et dont l’objectif princi-pal est « l’obtention d’un bien-être durable du sujet dans son 
+identification de genre afin d’optimiser sa qualité de vie et son 
+épanouissement personnel »
+12. 
+D’un autre côté, on observe depuis le milieu des années 1970 
+l’apparition d’une critique, d’une culture et d’une contre-expertise 
+queer et trans opposées au modèle normatif des Gender Identity 
+Clinics, notamment la distinction faite entre les « vrais » trans-
+sexuels et les autres, le conformisme aux stéréotypes culturels 
+de genre, le séquençage linéaire des protocoles de soin, l’insis-tance sur le « passing » et l’invisibilisation postopératoire des 
+transsexuels, la réduction des conduites transgenres au syn-
+drome du transsexualisme (Prince, 1976). Se développe ainsi tout au long des années 1980 et 1990 un mouvement politique 
+et culturel trans élaborant et revendiquant une plus grande diver -
+sité de besoins, des pratiques, des modes de vie et d’expression trans, notamment en déplaçant le problème des identifications de genre pathologiques à celui des normes sociales de genre elles-mêmes et à l’ensemble des technologies de genre qui per -
+mettent dorénavant de penser les corps de façon postnaturaliste (Stryker, 2008). Marquant la rupture politique et théorique avec le « sujet femme » du féminisme essentialiste et transphobe de 
+Janice raimond, Sandy Stone, une des premières « transaca-
+demic » (universitaire trans) lui oppose un « Posttranssexual 
+Manifesto » (Stone, 1991) tandis que Kate Bornstein, élabore un 
+point de vue Gender Outlaw et porte le « trouble dans le genre » 
+au cœur du binarisme avec son ouvrage intitulé On Men, Women 
+and The Rest of Us (1994). À partir de la fin des années 1990 et 
+pendant les années 2000 aux États-Unis, la critique du postulat 
+binariste et de la nécessaire correspondance sexe/genre s’étend 
+simultanément dans le champ militant et dans le champ universi-
+taire, remettant en cause ce modèle en opposant et en politisant 
+11. Pour une illustration dans la fiction : le film Transamerica de Duncan 
+Tucker (États-Unis, 2005).
+12. http://www.wpath.org/publications_standards.cfm
+13. http://www.glapnyc.org/la diversité des trajectoires transgenres (Feinberg, 1996 ; Califia, 
+1997 ; Haraway, 2007 ; Stryker, Whittle, 2006). Simultanément, 
+l’offre à la carte de diagnostic et de prise en charge psychiatri-
+que et psychologique s’élargit, notamment avec l’apport d’une (contre)expertise trans via la création de communautés et de 
+groupes de support offrant les services de psychiatres et psycho-
+logues trans friendly ou bien trans eux-mêmes (Hill, 2005 ; Hines, 
+2007), à l’image du Gay and Lesbian Affirmative Psychotherapy 
+(
+g l a p), fondé à New York en 199713.
+Du transsexualisme comme pathologie à la santé 
+mentale transgenre
+Au tournant des années 2000, la conjonction de cette libé-
+ralisation de l’offre médicale, de la montée en puissance des 
+trans comme consommateurs de soin et du déploiement d’une 
+critique queer et trans contre les normativités psychiatriques, 
+sociales, culturelles et politiques relatives aux identifications de genre, conduit à ce qu’au sein même de l’
+a p a se joue un 
+questionnement comparable à celui qui avait fait discuter de 
+la pertinence du maintien de l’homosexualité au sein du d s m. 
+Cette mise sous tension se joue au sein de l’arène à la fois pro-fessionnelle et publique qu’est la procédure de révision du 
+d s m, 
+engagée en 2008 et devant conduire en 2013 au d s m-v. Un 
+comité d’experts, dont les propositions de révisions sont en ligne depuis janvier 2010, travaille sous la pression permanente des 
+associations trans via Internet où se multiplient les forums dis-
+cutant du maintien ou du retrait du 
+g i d dans le d s m14. On trouve 
+une illustration de cette coproduction critique des catégories de santé mentale entre médecins et personnes concernées dans 
+les articles publiés par les membres du panel de révision du 
+d s m. Celui de Jack Drescher (2009) est intitulé de façon signi-
+ficative « Queer diagnoses: Parallels and contrasts in the his-
+tory of homosexuality, gender variance, and the Diagnostic and 
+Statistical Manual ». L’auteur est à la fois militant gay, profes-seur de psychiatrie, membre actif de l’
+a p a notamment en ce qui 
+concerne la dépsychiatrisation et la déstigmatisation médicale 
+et sociale de l’homosexualité15. Délaissant le débat sur les causes 
+des g i d, il concentre son propos sur la question de savoir s’ils 
+14. Voir par exemple le site du g i d reform Advocates : http://www.gidreform.
+org/dsm5.html
+15. http://www.dsm5.org/MeetUs/Pages/SexualandGenderIdentityDisorders.aspx
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 508-516508
+doivent rester ou pas un trouble mental que devrait prendre en 
+charge la psychiatrie, ou bien n’être considéré que comme une 
+« variance de genre » non pathologique. Il s’appuie pour cela 
+sur une comparaison avec les conditions et les effets du retrait de l’homosexualité du 
+d s m en 1973. Concernant les symptô-
+mes, Drescher montre comment les arguments queer en faveur 
+d’une reconnaissance de la variance (trans)genre comme non psychopathologique afin d’éviter la stigmatisation et de ren-forcer les normes hégémoniques de genre apparaissent, tout comme pour l’homosexualité en son temps, recevables pour les 
+conduites trans. D’autant plus que l’hégémonie des normes de 
+genre sexiste et hétérosexiste est dorénavant mise en débat, ce qui déplace les enjeux de la normalité des conduites à celle de la légitimité des normes elles-mêmes – Drescher rappelle ici la 
+dimension socialement, culturellement et historiquement relative de la notion de « trouble » (disorder) en psychiatrie
+16. Il reprend 
+ainsi à son compte et dans un emploi courant l’opération de 
+resignification faite par les mouvements trans qui, soucieux de 
+remettre en symétrie leur normalité, ont opposé à l’appellation « transgenre » celle de « cisgenre » (du latin « cis », du même côté) pour désigner ceux qui, jusqu’à présent, ne s’appelaient pas puisqu’ils étaient « normaux » (Drescher, 2009, p. 4), tout 
+comme on avait dû nommer « hétérosexuels » ceux qui n’étaient pas désignés comme « homosexuels » (Katz, 2001).
+Néanmoins, à la différence de l’homosexualité, une part des 
+identifications transgenres comprend une dimension corporelle 
+qui ne peut faire l’économie d’une médicalisation. Or sans la désignation des 
+g i d comme trouble mental répertorié, le risque 
+est grand de voir les endocrinologues et les chirurgiens refuser 
+d’assumer des opérations de transformation non thérapeutique 
+de corps sains. De plus, le retrait des g i d de la nomenclature 
+des maladies aurait pour conséquence que ceux qui peuvent 
+bénéficier d’un remboursement de l’assurance-maladie ne 
+le pourraient plus. C’est pourquoi Drescher propose le main-tien du 
+g i d dans le d s m à condition que le vocabulaire employé 
+soit le moins stigmatisant possible, notamment en parlant 
+de « variance de genre » plutôt que de « trouble de genre ». 
+reprenant les éléments de la discussion, un autre des experts du panel, Heino Meyer-Bahlburg lui fait écho dans un article au 
+titre également significatif : « From Mental Disorder to Iatrogenic 
+Hypogonadism: Dilemmas in Conceptualizing Gender Identity 
+16. Spitzer (1981), cité par Drescher, 2009, p. 26.Variants as Psychiatric Conditions » (2009). Il reconnaît que l’on 
+ne dispose pas de théorie vérifiée permettant de définir la norma-
+lité et l’anormalité des identifications et des conduites de genre 
+en rapport avec le sexe, comme le montre le cas des personnes intersexuées. Si un enfant génétiquement mâle mais d’apparence féminine en vient à s’identifier homme et à demander une opéra-
+tion, on parle en ce qui le concerne non pas de trouble d’identité 
+de genre mais de « correction » médicale : dans ce cas, faut-il considérer comme trouble mental le cas de ceux qui continuent de s’identifier femme ? Quoi qu’il en soit, aucune relation de cau-
+salité entre sexe et genre n’a pu être démontrée dans la littérature 
+scientifique (Meyer-Bahlburg, 2009, p. 4). De même, et contre 
+la tradition sexologique de Hirschfeld et Benjamin, aucun fonde-
+ment biologique n’a pu être montré qui permettrait de définir la 
+volonté de changer artificiellement de corps sexué comme quel-que chose de « naturel » (Meyer-Bahlburg, 2009, p. 6). Ainsi, 
+sans base scientifique précise et compte tenu de la très grande 
+diversité des variances de genre et de leur rapport divers à la 
+souffrance (dont on ne sait si elle est relative à cette variance ou à sa stigmatisation), il importe avant tout pour Meyer-Bahlburg d’être pragmatique et d’établir un compromis entre cette diver -
+sité et les formes de prise en charge médicale et de lutte contre 
+les discriminations et stigmatisations. D’où la proposition qu’il 
+fait en conclusion de retirer la notion de Gender Identification 
+Variance de l’axe « troubles psychiatriques » et de créer une catégorie spéciale du 
+d s m légitimant la prise en charge médicale : 
+non plus Gender Identity Disorder mais Gender Incongruence 
+(incongruence de genre) (Meyer-Bahlburg, 2009, p. 11).
+La nouvelle formulation reflète cette double préoccupation en 
+inscrivant le raisonnement dans un nouveau paradigme qu’est 
+celui de la santé mentale transgenre17. rompant avec ce qui 
+était au fondement de l’ensemble des théories médicales, psy-chologiques et psychanalytiques, c’est-à-dire à la fois le bina-
+risme et la nécessaire correspondance sexe/genre, ce nouveau paradigme semble entériner l’idée plus générale selon laquelle le sexe, le genre et l’orientation sexuelle sont certes liés mais de 
+façon idiosyncrastique propre à chaque individu plutôt que par 
+des nécessités naturelles ou sociales. Et que c’est cela qu’il faut que la médecine puisse prendre en compte lorsque les patients expriment un sentiment d’incongruence entre ces dimensions, 
+non plus dans la perspective de rétablir un ordre naturel, social 
+17. http://www.dsm5.org/Proposedrevisions
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 509-516509
+ou symbolique supposé, mais dans celle d’une amélioration du 
+bien-être du self singulier des personnes concernées – illustrant 
+en cela cette approche spécifique aux États-Unis de ce qu’est un individu (Ehrenberg, 2010). Les notions de souffrance et de déficience qui seraient constitutives en soi d’un trouble ne sont plus évoquées mais le texte proposé pour le 
+d s m-v mul-
+tiplie les combinaisons d’incongruence entre genre assigné, 
+genre d’identification et caractéristiques sexuelles primaires et/
+ou secondaires dans une perspective explicitement postbina-riste. La comparaison entre la formulation des Gender Identity 
+Disorder (
+g i d) de 1994 et celle de la Gender Incongruence ( g i) 
+de 2010 est frappante de ce point de vue. Dans le d s m-iv, le g i d 
+est défini par une identification à « l’autre sexe » (other sex) 
+ou à « l’autre genre » (other gender) tandis que le g i est défini 
+comme une incongruence entre « le genre éprouvé ou exprimé 
+et le genre assigné », que ces genres incongruents entre eux 
+soient « masculin, féminin, trans ou autres genres alternatifs ». Ceci étant, les auteurs cités sont bien conscients que de nom-breux problèmes soulevés par les mouvements trans restent à résoudre, relevant certes du domaine médical mais aussi 
+surtout du domaine civique et juridique, et au fond politique 
+(Currah, 2006). Tout comme la déspychiatrisation de l’homo-sexualité avait repolitisé la question des discriminations légales persistantes envers les gays, la perspective d’une dépatholo-
+gisation des conduites transgenres aura également pour effet 
+de repolitiser la question des discriminations légales envers les personnes trans. (Drescher, 2009).
+Les réticences médico-légales françaises 
+contrariées et débordées
+Pour sa part, la médecine française est restée très éloignée 
+du tournant sexologique tel qu’il a été effectué aux États-
+Unis dès les années 1950 (Bonierbale, Waynberg, 2007 ; 
+Foerster, 2006). L’affrontement entre psychanalyse et sexo-
+logie n’a pas eu lieu en France, et c’est paradoxalement la psychanalyse qui va constituer le transsexualisme en objet médical privilégié, en adoptant une posture singulière de réti-
+cence contrariée. réticence, parce que le phénomène est lu 
+classiquement comme une forme refoulée d’homosexualité 
+ou bien, sous l’influence de Lacan, comme une confusion 
+psychotique entre les organes sexuels et la dimension sym-
+bolique de l’identité sexuée. Cela conduit à considérer les demandes de transformation corporelles comme le produit 
+d’une illusion produite par les patients eux-mêmes mais éga-
+lement alimentée par l’offre médicale et par sa médiatisation, l’exemple des États-Unis avec son marché médical et ses transsexuelles en une des magazines faisant ici figure de repoussoir à la fois thérapeutique et nationaliste (Castel, 
+2003). En 1962, au moment où s’ouvrent les Gender Identity 
+Clinics aux États-Unis, le Conseil de l’ordre des médecins 
+refuse toute dimension thérapeutique et donc licite aux opé-rations de réassignation de sexe. En 1980, c’est la tendance 
+libérale en faveur des opérations aux États-Unis qui est cri-tiquée, ce qui conduira en 1983 à ce que l’autorisation des 
+opérations par l’Ordre des médecins se fasse sous conditions très strictes (à but thérapeutique avéré et seulement dans les 
+hôpitaux publics), conditions nécessaires au remboursement 
+par l’assurance-maladie, ce qui sera ratifié en 1989 par un 
+« protocole » sans bases légales, qui impose deux ans de parcours et le passage par une équipe spécialisée au sein 
+de l’hôpital public, s’éloignant ainsi d’une pratique libérale et 
+d’un libre choix des médecins par les patients. Les livres de 
+Catherine Millot (1983), de Patricia Mercader (1994) et 
+de Colette Chiland (1997) contribuent à cette approche res-
+trictive du traitement médical du transsexualisme en France, 
+mis sous les feux de la critique psychanalytique.
+Mais cette réticence des psychiatres et des psychanalystes 
+est contrariée parce que la persistance des personnes à se 
+définir comme trans et à demander les transformations corpo-relles comme une nécessité psychique s’impose malgré tout aux médecins qui s’intéressent à la question, de sorte que 
+les psychiatres psychanalystes vont devoir accompagner cette 
+demande en ayant le souci constant de la limiter, voire de la dissuader. En 1953, le chirurgien français Georges Burou 
+ouvre à Casablanca une clinique spécialisée qui permet d’être opéré en dehors du cadre médical français. Quelques opé-rations ont lieu en France dans les années 1970 avec pour 
+argument principal moins une théorie psychiatrique que l’ur -
+gence d’une réponse médicale confrontée à des menaces de suicide, et les psychiatres comme Marc Bourgeois, formés à la 
+dysphorie de genre dans les Gender Identity Clinics aux États-
+Unis, sont rares. C’est d’ailleurs l’action des patients de Burou 
+qui sont à l’origine du contournement des réticences médica-
+les françaises par la force du droit (Iacub, 2009). En 1958, 
+Burou opère Jacques Dufresnoy qui devient Jacqueline-
+Charlotte, dite Coccinelle, de son nom de cabaret. En 1959, 
+jouant d’une ambiguïté entre intersexualité et transsexualité, elle obtient non pas une modification mais une rectification de son état-civil, au titre d’une intersexualité qui aurait été 
+révélée par son opération. Mais lorsqu’en 1960 elle se marie 
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 510-516510
+en toute légalité, cela provoque un scandale dans le monde 
+judiciaire qui refusera dorénavant toute demande de rectifi-
+cation d’état-civil pour les transsexuels, arguant, en 1965, de 
+« l’indisponibilité de l’état des personnes » s’agissant tout par -
+ticulièrement de la différence naturelle et intangible de sexe, 
+une jurisprudence qui sera entérinée et fixée en 1975 par 
+la Cour de Cassation. C’est une autre patiente mtf de Burou, 
+Claude Botella, opérée en 1972, qui va conduire au renverse-
+ment de cette jurisprudence. Par la saisie en 1991 de la Cour 
+Européenne des Droits de l’Homme au titre de l’atteinte à la vie privée (conséquence du refus de changement d’état civil et la nécessité d’exposer publiquement son état dans toutes 
+les situations ordinaires où un document d’identité portant 
+la mention du sexe est demandé), l’affaire Botella conduit à la condamnation de la France et au revirement de la Cour de Cassation en 1992. La modification d’état civil est auto-
+risée avec tous les droits inhérents au nouveau sexe, mais à la condition qu’elle soit associée à une définition médico-légale très stricte et très restrictive du transsexualisme : un diagnostic psychiatrique de dysphorie de genre attestant du transsexualisme, une opération chirurgicale irréversible de 
+réassignation sexuelle, l’adoption de l’apparence physique et 
+du comportement social du sexe d’arrivée, le tout validé par une expertise judiciaire devant les tribunaux. Toute l’histoire 
+de la médicalisation de la transsexualité en France est ainsi 
+tendue entre la réticence des psychiatres et des psychana-lystes envers le transsexualisme de la sexologie américaine 
+et le débordement de cette réticence par certaines pratiques 
+médicales et la demande des patients. On peut lire le livre érudit de Pierre-Henri Castel, La métamorphose impensable. 
+Essai sur le transsexualisme et l’identité personnelle (2003), 
+comme le récit fait de l’intérieur (l’auteur est lacanien) de 
+cette réticence contrariée de la psychanalyse française et de son débordement par la sexologie d’inspiration américaine, par l’empirisme de certains médecins et juges, et enfin par 
+l’opiniâtreté et l’activisme critique du mouvement trans
+18.
+18. Pour Castel, le dilemme est le suivant : si les trans ont raison – et ils ont 
+de plus en plus d’alliés – alors la différence des sexes, la correspondance 
+sexe/genre et le symbolique du dimorphisme sexuel doivent être remis en 
+cause en tant que réel de l’humanité, et avec eux les fondements psychana-lytiques de l’identité sexuée. C’est parce que ceci est « impensable » pour 
+les psychanalystes que les trans sont du côté de la « déraison » : « Si le 
+sexe et le genre peuvent effectivement être distingués, si le genre a l’auto-
+nomie qu’on prétend, alors c’est la certitude muette attachée au corps qui 
+tombe. Mais il est impensable qu’elle tombe seule. Tombant par cette opéra-
+tion qui conventionnalise toute catégorisation, artificialise la nature et abolit En conséquence, la question trans s’est longtemps présen-
+tée en France de façon inverse de celle des États-Unis. Alors 
+qu’aux États-Unis le mouvement a été celui d’une dissociation et 
+d’une libéralisation du diagnostic psychiatrique, des opérations 
+hormono-chirurgicales, du remboursement des frais médicaux et du changement d’état-civil, la France a configuré un bloc tout 
+à la fois homogène et restrictif, conjuguant ainsi la rigidité du 
+diagnostic et des protocoles avec un malthusianisme de l’offre de traitement hormono-chirurgical. C’est cette conjoncture qui a conduit au débordement contemporain du modèle depuis la 
+fin des années 1990. À l’exemple des États-Unis, les person-
+nes trans insatisfaites des protocoles français ont libéralisé et 
+dissocié le diagnostic psychiatrique des traitements hormono-
+chirurgicaux. Soit en consultant des psychiatres hors protocole 
+afin d’obtenir des « lettres » leur permettant, à leurs frais, de se faire opérer à l’étranger (Canada, États-Unis, Belgique, Suisse, Thaïlande). Soit, tout en évitant le diagnostic psychiatrique, en 
+se faisant prescrire des hormones par des médecins généralistes 
+ou en s’en procurant via des filières extramédicales (vente sur 
+Internet). L’ensemble de ces pratiques est soutenu et alimenté par une multiplication d’associations et de mouvements trans très largement internationalisés qui développent des arguments 
+critiques envers les protocoles médicaux et les théories psychia-
+triques qui les sous-tendent et qui proposent grâce à l’internet, au titre de consommateur de soin, de groupe de support ou de militantisme, des (contre)expertises médico-légales, des forums 
+de partage d’expérience et des campagnes d’action concernant 
+les droits et les discriminations envers les personnes trans
+19. 
+refusant pour certains le binarisme stéréotypé mtf/ftm pour des 
+formules comme fto(ther) ou mtu(nknown) et des modifications 
+corporelles ad hoc plutôt que normées, ces militants trans met-
+tent en place des groupes d’autosupport et d’accompagnement psychologique fondés sur le care, ils cherchent à signifier par 
+des récits propres la complexité et les horizons de leur expé-rience psychique, émotionnelle, culturelle, politique et théori-que, ils détournent les imageries médicales ou pornographiques
+l’incommensurabilité des jouissances subjectives, elle entraîne avec elle 
+d’autres oppositions cardinales : celle du mot et de la chose, de la machine et 
+de l’organisme, et pour finir de la vie et de la mort » (Castel, 2003, p. 407).
+19. Parmi les plus actifs : le Groupe Activiste Trans (http://transencolere.
+free.fr/index_2.htm) dont Vincent He-Say a été un des fondateurs avec 
+Tom reucher, psychologue clinicien, (http://syndromedebenjamin.free.fr/) ; 
+Support Transgenre Strasbourg (www.sts67.org/) ; Trans-aide (www.trans-
+aide.com/) ; Outrans (http://outrans.org/) ; Mutatis Mutandis (www.mutatis-mutandis.info/).
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 511-516511
+des corps trans et genrés pour des performances à la fois subver -
+sives des normes sexe/genre et expressive d’une resignification 
+subjective des identifications de genre et des architectures cor -
+porelles (Bourcier, 2005, 2006, 2008 ; Preciado, 2000, 2008). 
+C’est précisément l’ensemble de ces critiques, de ces déborde-ments par les pratiques et de ces transformations juridiques en 
+Europe, qui sont à l’origine du rapport de la Haute Autorité de 
+Santé (
+h a s) faisant le point en 2009 afin de formuler des propo-
+sitions de modification – tout en restant paradoxalement dans le 
+cadre médico-légal strict du transsexualisme (Bourgeois, 2007), excluant de ce fait la plupart des questions soulevées en termes de droit et de santé transgenre depuis les années 1980 aux États-
+Unis et par de nombreux acteurs trans français (Iacub, 2009).
+Une approche sociologique des carrières 
+de (dés)identifications de genre est-elle possible ?
+Je voudrais en conclusion tirer quelques leçons sociologiques de l’apparition et de la fin (programmée) du transsexualisme. 
+La biologisation et la médicalisation du sexe, de la sexualité et 
+du genre avaient fait basculer d’un paradigme symbolique à un paradigme naturaliste : la cause de la différence des identités et de la hiérarchie sociale des genres n’était plus Dieu ou la cos-
+mologie médicale des « humeurs » et des « tempéraments » 
+mais la différence biologique de sexe. De ce point de vue, le transsexualisme défini par les sexologues endocrinologues (Hirschfeld, Benjamin) est le prolongement des opérations de 
+naturalisation du genre entamé au 
+x v i i ie siècle lorsque la biolo-
+gie et la médecine ont cherché à « prouver » par les différen-ces organiques la cause et la légitimité des différences sociales 
+entre les hommes et les femmes, entre les homosexuels et les hétérosexuels et entre les cisgenres et les transsexuels – au 
+même titre qu’elles avaient cherché à « prouver » la spécificité 
+pathogène des corps noirs permettant de légitimer leur subordi-
+nation sociale (Dorlin, 2006). On sait que le projet bio-idéologi-que de naturalisation de la race a été invalidé par la découverte 
+de l’unité et des différences génétiques entre tous les humains, 
+conduisant ainsi à la dénaturalisation, à la politisation et à la sociologisation de la notion de race (Wieviorka, 1998). De la 
+même manière, la naturalisation du genre a été remise en 
+cause par le développement même de la biologie à mesure que cette dernière naturalisait le sexe. Plus la connaissance biolo-gique des processus de sexuation et des différences sexuelles 
+se développe, moins le rapport de causalité entre sexe et genre 
+peut s’établir, en dépit des effets idéologiques de projection des catégories de genre dans les recherches biologiques sur le sexe et la sexualité (Fox Keller, 1999 ; Gardey, Löwy, 2000 ; Fausto-Sterling, 2000 ; Gardey, 2006 ; Haraway, 2007, 2009). 
+Les questions d’intersexualité et de transsexualité se présen-
+tent ici en miroir. Plus la connaissance biologique des causes et des formes des multiples types d’intersexuation augmente, plus les identifications de genre des personnes intersexes 
+apparaissent complexes, non déterminées, non réductibles ni 
+à l’embryogenèse ni à la psychogenèse, mais comme le produit idiosyncrastique de la rencontre entre l’identification de genre 
+par autrui et par soi des personnes concernées, selon qu’elles 
+ont reçu précocement ou pas une assignation chirurgicale de sexe, selon que cette assignation a été rendue secrète ou pas, selon que les parents ont socialisé l’enfant dans un ordre des 
+genres stéréotypé ou libéral etc. (Kraus et al., 2008). D’un autre 
+côté, toutes les tentatives d’identification d’une cause organi-
+que des identifications trans ont échouées (ils sont tout à fait normalement mâles et femelles), rendant impossible à prouver 
+qu’il existe un rapport de causalité avéré entre le processus bio-
+logique de sexuation et le processus subjectif d’identification de genre, que ces identifications soient cisgenres ou trans.
+Inversement, les thèses culturalistes d’imposition de l’identi-
+fication de genre indépendamment du sexe biologique telles qu’elles ont été élaborées par Money et Stoller ne sont pas non plus validées : l’identité de genre ne se fixe pas comme le ferait 
+une imprégnation hormonale dans les premiers mois de sociali-
+sation de l’enfant. En témoignent les nombreux cas d’intersexes assignés par les médecins et leur entourage qui se désidenti-fient de leur sexe/genre d’assignation (Kraus, 2008) et comme 
+en témoigne la complexité des cheminements qui conduisent à 
+de multiples formes de conduites et d’identifications trans.
+Autrement dit, le principal effet de la fin du transsexualisme 
+est double. D’un côté on observe une dissociation analytique, clinique et politique entre sexuation biologique et identification de genre. D’un autre côté, on observe une recomposition (au 
+sens de Latour, 2006) des formes d’articulation individuelles et 
+collectives, subjectives et institutionnelles, entre sexe, genre et sexualité. Cela ouvre, me semble-t-il, trois types de questions à la fois sociales et sociologiques.
+Cela pose tout d’abord la question de la place du biologique 
+dans l’articulation sexe/genre. Si la cause organique des iden-
+tifications trans était un jour découverte, la question centrale 
+serait moins psychiatrique que politique car c’est la question 
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 512-516512
+des normes de genre elles-mêmes qui a été posée. De même 
+pour l’homosexualité : la découverte d’une cause organique 
+n’aurait sans doute pas plus de pertinence sociale que l’exis-
+tence de gauchers et de droitiers, car la nouvelle composition sexe/genre/sexualité élaborée depuis les années 1970 a fait 
+basculer les questions d’orientation sexuelle du côté des problé-
+matiques relatives aux discriminations. De même pour le han-
+dicap physique : il existe des causes organiques évidentes mais 
+ces différences d’état des personnes ont dorénavant moins de pertinence que la question des discriminations situationnelles 
+qui font des individus une « personne en situation de handi-
+cap » en fonction du contexte auquel il est confronté (Davis, 2006 ; Hamonet, 2010).
+La question qui se pose ensuite est celle de la place de la 
+médicalisation dans l’articulation sexe/genre. Tout l’édifice médico-légal d’accès des trans aux modifications corporelles 
+et aux droits repose, on l’a vu, sur un diagnostic psychiatrique 
+susceptible de disparition. Dès lors que les identifications de genre atypiques ne seraient plus en soi pathologiques, il fau-drait alors observer les formes de recomposition des articula-
+tions sexe/genre dans un contexte certes dépsychiatrisé mais 
+qui demeure médicalisé en raison de la place des modifications corporelles dans les parcours trans. On se trouverait alors dans 
+un cas de figure comparable à l’avortement et à la contracep-
+tion : leur dépénalisation n’a pas conduit à leur démédicalisa-
+tion mais à une redéfinition de leurs significations, de leur prise en charge et de leurs méthodes (Boltanski, 2004). De ce point 
+de vue, la question de l’articulation des normes médicales, culturelles et juridiques ne se limite pas à la seule question trans mais comprend l’ensemble des technologies de genre, de sexe et de sexualité médicalisées (ou paramédicalisées) qui 
+concourent à performer corporellement les identifications de 
+genre, et qui sont les mêmes pour les cisgenres que pour les trans : hormones (contraception, ménopause, sexualité, pro-
+création médicale assistée), chirurgie (plastique, esthétique, 
+réparatrice, contraceptive), cosmétique (épilation, produits de soin et de beauté de la peau et des cheveux). Dans tous les cas, les questions relatives aux distinctions entre pathologique 
+et non pathologique, psychiatrie et psychologie, thérapeutique 
+et non thérapeutique, légal et illégal, remboursable et non-rem-boursable se posent pour l’ensemble des médicalisations post- pathologiques (ou « anthropotechniques » selon Goffette, 
+2008) des corps trans et non trans (Michel, Pédinielli, 2008 ; 
+Iacub, 2009) et ouvre un vaste chantier d’observation de redé-finition des normes dans ce domaine.Disons enfin que la dépathologisation des conduites transgen-res telles qu’elles avaient été définies depuis plus d’un siècle 
+pose la question plus générale du processus d’identifications 
+de genre lui-même comme constitutif de l’individuation, et de la capacité de la sociologie à le décrire en termes eux-mêmes détraditionnalisés. On a vu que l’invention et la fin du trans-
+sexualisme témoignent de l’irréduction des conduites transgen-
+res aux deux déterminismes supposés de l’articulation sexe/genre. D’un côté elles contreviennent au déterminisme biologi-que qui voudrait que ce soit le sexe qui soit la cause du genre : 
+or cette supposée correspondance naturelle entre sexe et genre 
+n’est pas ici réalisée. D’un autre côté, elles contreviennent au déterminisme culturaliste qui voudrait que ce soit la socialisa-
+tion qui détermine l’identification de genre : or cette supposée 
+intériorisation de l’habitus de genre n’est pas non plus réali-sée. On peut à partir de là faire l’hypothèse d’une interprétation sociologique non déterministe de la sociogenèse des identifica-
+tions de genre qui serait à la fois descriptive non seulement des 
+identifications trans mais de toutes les formes d’identification de genre, y compris celles, très largement majoritaires, qui se pré-sentent comme hétéro-cisgenres (West, Zimmerman, 1987). On peut en proposer me semble-t-il une lecture proprement 
+sociologique, fondée sur un raisonnement classique en termes 
+de normes sociales. La condition nécessaire à l’existence des identifications trans est l’existence de normes de genre cisgen-res : sans normes de genre, pas de transgression des normes, 
+pas de déviance, pas d’outsiders contestant les normes au nom 
+desquelles ils sont désignés comme déviants (Becker, 1985).
+Sous réserve d’enquêtes sociologiques de terrain encore man-
+quantes en la matière, en dépit de nombreux écrits théoriques propres aux queer studies, on pourrait dès lors penser l’iden-
+tification de genre en raisonnant en termes de « carrières » 
+et plus précisément en termes de « carrière d’identification 
+de genre » en défendant toute la dimension contingente et réflexive qu’y introduit Becker, c’est-à-dire de transformation des possibles et du désirable par chaque épreuve genrée et 
+sexuelle de l’expérience sociale (Becker, 2002). En ce sens, il 
+faudrait aller plus loin que la seule objectivation méthodologi-que des étapes par lesquelles certains individus sont conduits 
+à être labélisés « transsexuels » comme ils pourraient être labé-
+lisés « déviants » ou « anorexiques » (Darmon, 2003, 2008). Il s’agirait plutôt de rendre compte comment chaque individu en vient, du moins provisoirement au moment du récit qu’il 
+en fait, à définir son identification de genre, entendu comme 
+le produit contingent et singulier (Martuccelli, 2010) de la 
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 513-516513
+tension structurelle entre ses identifications de genre attribuées 
+ou assignées et ses identifications de genre adoptées ou dési-
+rées, en soumettant symétriquement les identifications et les 
+expériences trans et cisgenres aux mêmes observations. D’un côté, les normes de genre légitimes sont le produit permanent de la tension entre points de vue hégémoniques et points de 
+vue contre-hégémoniques au sein de l’expérience, des orga-
+nisations, des institutions, du droit, de la sphère publique. D’un autre côté, le processus de (dés)identification subjective de genre s’élabore de façon toujours problématique au sein 
+de cette tension, depuis l’annonce performative « c’est une 
+fille/c’est un garçon » par autrui jusqu’à la singularisation idio-syncrastique des manières qu’à chacun, individuellement ou 
+collectivement, de façon subjective ou politique, de mettre réci-
+proquement à l’épreuve ces identifications de genre par autrui et les identifications de genre par et pour soi. La dénaturali-sation et la détraditionnalisation du genre conduit à ainsi faire 
+l’hypothèse très générale selon laquelle on ne naît pas femme,
+20. On trouve une illustration de cette contingence des carrières d’identifi-
+cations de genre et d’orientations sexuelles cisgenres dans le cas des spor -
+tives de haut niveau (Menesson 2005). Deux illustrations sensibles dans la 
+fiction cinématographique mettant en scène les tensions parfois violentes 
+entre identification par autrui et identification par soi des personnes trans 
+et intersexe : Boys don’t cry de Kimberly Peirce (États-Unis, 1999) et le film 
+XXY de Lucia Puenzo (France-Argentine, 2007).homme, hétérosexuel, homosexuel, cisgenre ou trans, on 
+devient provisoirement telle identification conformiste ou 
+hybride au travers de carrières de (dés)identification de genre 
+jalonnées d’épreuves réciproques plus ou moins éprouvantes des « polices de genre » et des identifications par soi
+20. De ce 
+point de vue, la description fine de ces carrières, qu’elles soient 
+trans ou cisgenres, permettrait d’observer comment s’exercent 
+aujourd’hui les épreuves, les tensions et les conflits entre nor -
+mes de genre et singularisation des individus, au plus près de l’humanité d’un sujet irréductible aux catégorisations de genre
+21. 
+L’incertitude et les variantes intrinsèques de l’identification de 
+genre qui étaient autrefois prises en charge et réduites par de 
+nombreuses normes institutionnelles et médicales, tendent dorénavant d’un côté à devenir coextensives à l’incertitude de l’individuation contemporaine (Giddens, 2006), d’un autre côté 
+à rendre problématique les normes politiques et juridiques de 
+reconnaissance et de non-reconnaissance, de discrimination et de non-discrimination de ces variances et de ces singularités.
+21. Deux exemples documentaires de réflexivité relative aux carrières de 
+« transidentité » : L’ordre des mots, de Melissa et Cynthia Arra (France, 
+2007) ; She’s a boy I knew, de Gwen Haworth ( u s a, 2007).
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le transsexualisme comme une « technologie de genre »
+SOCIOLOGIE, 2010, n° 4, vol. 1, 514-516514
+Bibliographie
+Bard Ch. (dir.) (1999), Un siècle d’antiféminisme, Paris, 
+Fayard.
+Bauer J. E. (2004), « Magnus Hirschfeld’s doctrine of sexual 
+intermediaries and the transgender politics of (no-)identity », in Gert E. (ed.), Past and Present of Radical Sexual Politics, 
+Amsterdam, University of Amsterdam, p. 41-55.Beauvoir S. de (1976), Le Deuxième sexe, Paris, Gallimard.
+Beck U. (2001), La Société du risque. Sur la voie d’une autre 
+modernité, Paris, Aubier.
+Becker H. (1985), Outsiders, Paris, Métailié.Becker H. (2002), Les Ficelles du métier, Paris, La Découverte.Benjamin H. (1966), The Transsexual Phenomenon, New York, 
+Julian Press.Billings D. & Urban Th. (1982), « The socio-medical construc-
+tion of transsexualism: an interprétation and critique », Social 
+Problems, 29, 3, p. 266-282.Boltanski L. (2004), La Condition fœtale. Une sociologie de l’en-
+gendrement et de l’avortement, Paris, Gallimard.Bonierbale M. & Waynberg J. (2007), « 70 ans de sexologie 
+française », Sexologies, 16, p. 238-258.Bornstein K. (1994), Gender Outlaw: On Men, Women, and the 
+Rest of Us, New York, routledge.Bourcier M.-H. (2005), Queer zones 2, Sexpolitics, Paris, La 
+Fabrique.Bourcier M.-H. (2006), Queer zones 1, Paris, Éditions 
+Amsterdam.
+Bourcier M.-H. (2008), « Technotesto : biopolitiques des mas-
+culinités tr(s)ans homme », Cahiers du Genre, 45, p. 59-84.
+Bourgeois M. (2007), « Transsexualisme et dysphorie de 
+genre », Annales Médico-Psychologiques, 165, p. 689-691.Butler J. (2005), Trouble dans le genre, Paris, La Découverte.
+Butler J. (2006), Défaire le genre, Paris, Éditions Amsterdam.
+Califia P. (1997), Sex Changes: The Politics of Transgenderism, 
+San Francisco, Cleis Press.Castel P.-H. (2003), La Métamorphose impensable. Essai sur le 
+transsexualisme et l’identité personnelle, Paris, Gallimard.Chiland C. (1997), Changer de sexe, Paris, Odile Jacob, 1997.Chiland C. & Cordier B. (2000), « Transsexualisme », 
+Encyclopédie Médico-Chirurgicale, Psychiatrie, Elsevier, Paris, 37-299-D-20.
+Colapinto J. (2000), As Nature Made Him: The Boy Who Was 
+Raised as a Girl, New York, Harper-Collins.
+Cordier B., Chiland C. & Gallarda Th. (2001), « Le transsexua-
+lisme, proposition d’un protocole malgré quelques divergen-
+ces », Annales Médico-Psychologiques, 159, p. 190-195.
+Currah P. et al (ed.) (2006), Transgender Rights: History, Politics, 
+Culture, Minneapolis, University of Minnesota Press.Darmon M. (2003), Devenir anorexique. Une approche sociolo-
+gique, Paris, La Découverte.Darmon M. (2008), « La notion de carrière : un instrument inte-
+ractionniste d’objectivation », Politix, 2, 82, p. 149-167.Davis L. (2006), The Disability Studies Reader, New York, 
+routledge.Denny D. (1992), « The politics of diagnosis and a diagnosis of 
+politics: The university affiliated gender clinics, and how they failed to meet the needs of transsexual people », Chrysalis 
+Quarterly, 1(3), p. 9-20.Diamond M. & Sigmundsen K. (1997), « Sex reassignment at 
+Birth: A Long-Term review and Clinical Implications », Archives 
+of Pediatric and Adolescent Medicine, 151, p. 298-304.Diamond M. (2004), « Sex, Gender, and Identity over the Years: 
+A changing perspective », Child and Adolescent Psychiatric 
+Clinics of North America, 13, p. 591-607.
+Diamond M. & Beh H. G. (2008), « Changes in Management of 
+Children with Differences of Sex Development », Nature Clinical 
+Practice: Endocrinology & Metabolism, 4(1), p. 4-5.
+Dorlin E. (2006), La Matrice de la race. Généalogie sexuelle et 
+coloniale de la nation française, Paris, La Découverte.Drescher J. (2009), « Queer diagnoses: Parallels and con-
+trasts in the history of homosexuality, gender variance, and the Diagnostic and Statistical Manual (
+d s m). », Archives of Sexual 
+Behavior, 39, p. 427-460.Dyer R. (1997), White, Londres, routledge.
+Ehrenberg A. (1998), La Fatigue d’être soi. Dépression et 
+société, Paris, Odile Jacob.
+Ehrenberg A. (2010), La Société du malaise, Paris, 
+Odile Jacob.
+Eugenides J. (2003), Middlesex, Paris, Seuil.
+Fausto-Sterling A. (2000), Sexing the Body. Gender Politics and 
+the Construction of Sexuality, New York, Basic Books.Feinberg L. (1996), Transgender Warriors: Making History from 
+Joan of Arc to Ru Paul, Boston, Beacon Press.
+Fisk N. (1974), « Gender Dysphoria Syndrome. The conceptu-
+alization that liberalizes indications for gender reorientation and 
+implies a broadly based multidimensional rehablitative regi-men », Western Journal of Medicine, 120, p. 386-391.Foerster M. (2006), Histoire des transsexuels en France, Paris, 
+H&O.Foucault M. (1976), Histoire de la sexualité, La volonté de 
+savoir, Paris, Gallimard.Foucault M. (1994a), « Le sujet et le pouvoir », in Foucault M., 
+Dits et écrits, t. IV, Paris, Gallimard.Foucault M. (1994b), « Sexe, pouvoir et la politique de l’iden-
+tité », in Foucault M., Dits et écrits, t. IV, Paris, Gallimard.Fox Keller E. (1999), Le Rôle des métaphores dans les progrès 
+de la biologie, Paris, Institut Synthélabo.
+Freud S. (1989), Trois essais sur la théorie sexuelle, Paris, 
+Gallimard.
+Freud S. (2001), Le Président Schreber, Paris, 
+p u f.
+Gardey D. (2006), « Les sciences et la construction des identi-
+tés sexuées. Une revue critique », Annales. Histoire, Sciences 
+Sociales, 3, 61, p. 649-673.Gardey D. & Löwy I. (dir.) (2000), L’invention du naturel. Les 
+sciences et la fabrication du féminin et du masculin, Paris, Éditions des archives contemporaines.
+Garfinkel H. (2007), « Passer ou l’accomplissement du sta-
+tut sexuel chez une personne intersexuée », in Garfinkel H., 
+Recherches en ethnométhodologie, Paris, 
+p u f.
+Giddens A. (2006), Les Transformations de l’intimité. Sexualité, 
+amour et érotisme, Paris, Hachette.Godelier M. (2007), Au fondement des sociétés humaines. Ce 
+que nous apprend l’anthropologie, Paris, Albin Michel.
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Éric Macé
+SOCIOLOGIE, 2010, n° 4, vol. 1, 515-516515
+Goffette J. (2008), Naissance de l’anthropotechnie. De la méde-
+cine au modelage de l’humain, Paris, Vrin.
+Goffman E. (2002), L’arrangement entre les sexes, Paris, La dis-
+pute.
+Green R. (1969), « Attitudes toward transsexualism and sex-
+reassignment procédures » In Green richard, Money John 
+(Eds.), Transsexualism and sex reassignment, Baltimore, The 
+Johns Hopkins University Press, p. 235-251.
+Green R. (2010), « Transsexual legal rights in the United States 
+and United Kingdom: Employment, medical treatment, and 
+civil status », Archives of Sexual Behavior, 39, 1, p. 153-60.
+Hacking I. (2001), Entre science et réalité. La construction 
+sociale de quoi ?, Paris, La Découverte.
+Hamonet Cl. (2010), Les Personnes en situation de handicap, 
+Paris, p u f.
+Handman M.-E. (2008), « L’anthropologue et le système sexe/
+genre », Connexions, 90, 2, p. 77-85.
+Haraway D. (2007), Manifeste Cyborg. Sciences, fictions, fémi-
+nismes, Paris, Exils.
+Haraway D. (2009), Des singes, des cyborgs et des femmes. La 
+réinvention de la nature, Paris, Jacqueline Chambon.
+Haute Autorité de Santé (2009), « Situation actuelle et perspec-tives d’évolution de la prise en charge médicale du transsexua-lisme en France », Paris, rapport.
+Hérault L. (2004), « Constituer des hommes et des femmes : la 
+procédure de transsexualisation », Terrain, 42, p. 95-108.
+Hill D. (2005), « Coming to terms: using technology to know 
+identity », Sexuality & Culture, vol. 9, 3, p. 24-52.Hines S. (2007), « Transgendering care: Practices of care 
+within transgender communities », Critical Social Policy, 27, 
+p. 462-486.Hirschfeld M. (1908), Le Troisième sexe. Les homosexuels de 
+Berlin, Paris, Jules rousset.Hirschfeld M. (1991), Transvestites: The Erotic Drive to Cross-
+Dress, New York, Prometheus Books.Iacub M. (2009), « Aspects juridiques actuels en France et en 
+Europe », in Haute Autorité de Santé, Situation actuelle et pers-
+pectives d’évolution de la prise en charge médicale du trans-sexualisme en France, rapport, p. 24-36.
+Jorgensen Ch. (1967), Christine Jorgensen: A Personal 
+Autobiography, New York, Paul S. Ericksson Inc.
+Katz J. (2001), L’invention de l’hétérosexualité, Paris, 
+e p e l.
+Kinsey A., Pomeroy W. B. & Martin C. E. (1948), Sexual Behavior 
+in the Human Male, Philadelphie, Saunders.
+Kinsey A., Pomeroy W. B., Martin C. E. & Gebhard P. H. (1953), 
+Sexual B ehavior in the H uman F emale, Philadelphie, Saunders.
+Krafft-Ebing R. von (1950), Psychopathia sexualis, Étude médico-
+légale avec recherches spéciales sur l’inversion sexuelle, Paris, 
+Payot.
+Kraus C. et al. (2008), « Démédicaliser les corps, politiser les 
+identités : convergences des luttes féministes et intersexes », 
+Nouvelles Questions Féministes, 27, 1, p. 4-15.Laqueur Th. (1992), La Fabrique du sexe, Paris, Gallimard.Latour B. (2006), Changer de société, refaire de la sociologie, 
+Paris, La Découverte.Lauretis T. de (2007), Théorie queer et culture populaire, Paris, 
+La Dispute.
+Martuccelli D. (2010), La Société singulariste, Paris, 
+Armand Colin.
+Mennesson Ch. (2005), Être une femme dans le monde des 
+hommes. Socialisation sportive et construction du genre, Paris, L’Harmattan.
+Mercader P. (1994), L’illusion transsexuelle, Paris, l’Harmattan.
+Meyer-Bahlburg H. (2009), « From Mental Disorder to Iatrogenic 
+Hypogonadism: Dilemmas in Conceptualizing Gender Identity Variants as Psychiatric Conditions », Archives of Sexual 
+Behavior, DOI 10.1007/s10508-009-9532-4.Meyer J. K. & Reter D. J. (1979), « Sex reassignment: Follow-up », 
+Archives of General Psychiatry, 36, p. 1010-1015.Meyerowitz J. (2002), How Sex Changed, Cambridge, Harvard 
+University Press.
+Michel A. & Pédinielli J.-L. (2008), « Demandes de transfor -
+mations corporelles esthétiques et/ou sexuelles par la chirur -
+gie : proximités et différences », Pratiques psychologiques, 14, 
+p. 137-146.
+Millot C. (1983), Hors sexe. Essai sur le transsexualisme, Paris, 
+Point Hors Ligne.Money J. & Ehrhardt A. (1972), Man and Woman, Boy and Girl: 
+the Différentiation and Dimorphism of Gender Identity from Conception to Maturity, Baltimore, Johns Hopkins University 
+Press.Money J. & Green R. (1969), Transsexualism and Sex 
+Reassignment, Baltimore, Johns Hopkins University Press.Preciado B. (2000), Manifeste contra-sexuel, Paris, Balland.Preciado B. (2008), Testo Junkie. Sexe, drogue et biopolitique, 
+Paris, Grasset.Prince V. (1976), Understanding Cross-Dressing, Los Angeles, 
+Chevalier.Raymond J. (1979), The Transsexual Empire: The Making of 
+the She-Male, New York, Teachers College Press, Columbia 
+University.
+Steinberg S. (2000), La Confusion des sexes. Le travestisse-
+ment de la Renaissance à la Révolution, Paris, Fayard.Stoller R. (1968), Sex and Gender: On the Development of 
+Masculinity and Femininity, New York, Science House.Stoller R. (1975), Sex and Gender II. The Transsexual 
+Experiment, Londres, Hogarth Press.Stoller R. (1979), Recherches sur l’identité sexuelle à partir du 
+transsexualisme, Paris, Gallimard.Stone S. (1991), « The Empire Strikes Back: A Posttranssexual 
+Manifesto », in Straub K., Epstein J. (eds.), Body Guards: The 
+Cultural Politics of Sexual Ambiguity, New York, routledge.Stryker S. (2008), Transgender History, Berkeley, Seal Press.
+Stryker S. & Whittle S. (2006), The Transgender Studies Reader, 
+New York, routledge.
+West C. & Zimmerman D. H. (1987), « Doing Gender », Gender 
+and Society, vol. 1, 2, p. 125-151.
+Whittle S. (2006), « The Opposite of Sex is Politics – The 
+u k 
+Gender recognition Act and Why it is Not Perfect, Just Like You 
+and Me », Journal of Gender Studies, 15, 3, p. 267-271.Wieviorka M. (1998), Le Racisme, Paris, La Découverte.
+Winckler M. (2009), Le Chœur des femmes, Paris, 
+p o l.
+Presses Universitaires de France | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

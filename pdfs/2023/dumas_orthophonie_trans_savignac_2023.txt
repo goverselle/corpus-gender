@@ -1,0 +1,2443 @@
+HAL Id: dumas-04380080
+https://dumas.ccsd.cnrs.fr/dumas-04380080v1
+Submitted on 8 Jan 2024
+HAL is a multi-disciplinary open access archive
+for the deposit and dissemination of scientific re-
+search documents, whether they are published or not.
+The documents may come from teaching and research
+institutions in France or abroad, or from public or pri-
+vate research centers.L’archive ouverte pluridisciplinaire HAL , est des-
+tinée au dépôt et à la diffusion de documents scien-
+tifiques de niveau recherche, publiés ou non, émanant
+des établissements d’enseignement et de recherche
+français ou étrangers, des laboratoires publics ou
+privés.
+Distributed under a Creative Commons CC BY-NC-SA 4.0 - Attribution - Non-commercial use - ShareAlike -
+International License
+État des lieux des connaissances et représentations des
+orthophonistes sur les transidentités
+Cléo Savignac
+To cite this version:
+Cléo Savignac. État des lieux des connaissances et représentations des orthophonistes sur les transidentités.
+Médecine humaine et pathologie. 2023. ⟨dumas-04380080⟩
+Université de Montpellier
+Département Universitaire d’Orthophonie
+Étatdeslieuxdesconnaissancesetreprésentations
+desorthophonistessurlestransidentités
+MÉMOIRE
+présenté et soutenu publiquement pour l'obtention du
+CERTIFICAT de CAPACITÉ en ORTHOPHONIE
+Cléo Savignac
+Le 2 juin 2023
+Jury
+Co-directeur.rice.s:
+Mme Samantha Bareau, orthophoniste
+M. Maël Legros, orthophoniste
+Rapportrices:
+Mme Juliette Defever, orthophoniste et chargée d’enseignement au CFUO de Lille
+Mme Lena Mazuez, orthophoniste
+Examinatrice:
+Mme Karin Hebting, orthophoniste et chargée d’enseignement au CFUO de Montpellier
+1
+
+2
+Résumé
+Les personnes transgenres sont accompagnées par différent·e·s professionnel·le·s
+de santé, dont les orthophonistes, et sont souvent victimes de maltraitance par le milieu
+médical. Cette étude a pour but de faire un état des lieux des connaissances et
+représentations des orthophonistes sur les transidentités, afin d’évaluer les besoins de
+sensibilisation et de formation en France. 724 orthophonistes ont alors répondu à un
+questionnaire contenant 34 questions, sous forme de questions à choix multiples ou
+questions ouvertes. Les analyses de données chiffrées, conjointement à l’analyse des
+données textuelles, révèlent une bonne acceptation des transidentités par la majorité des
+orthophonistes. Iels sont cependant en difficulté face à un manque de sensibilisation et des
+connaissances théoriques relativement faibles qui impactent leur pratique orthophonique :
+une meilleure formation des orthophonistes français·e·s reste nécessaire à la qualité de
+l’accompagnement des personnes transgenres.
+Mots-clés: Orthophonie - Transidentités - Personnes transgenres - Accompagnement vocal
+- Connaissances - Représentations - Formation.
+3
+Abstract
+Transgender people may have a follow-up by different health professionals,
+including speech therapists, and are often victims of abuse by the medical community. The
+aim of this study was to assess the knowledge and representations of speech therapists
+about trans identities in order to evaluate the needs for awareness and training in France.
+724 speech therapists responded to a questionnaire containing 34 questions, in the form of
+multiple choice or open questions. The analysis of the numerical data, in conjunction with
+the analysis of the textual data, reveals a good acceptance of trans identities by the majority
+of speech therapists. However, they encounter difficulties because of a lack of awareness
+and relatively little theoretical knowledge that impacts their practice : better training of
+french speech therapists remains necessary for the quality of support for transgender
+people.
+Keywords: Speech therapy - Transidentities - Transgender people - V ocal accompaniment -
+Knowledge - Representations - Training.
+4
+Remerciements
+Je tiens à remercier sincèrement toustes celles et ceux qui ont pu contribuer à l’écriture de ce
+mémoire ainsi qu’à la réalisation de ces 5 années d’études.
+J’adresse un immense merci à Maël et Samantha, co-directeur et co-directrice de ce mémoire, pour
+leur investissement, vous avez su m’accompagner et me guider ces deux dernières années. Merci
+d’avoir cru à ce projet de mémoire, d’y avoir consacré du temps, d’être de ces orthophonistes
+engagé·e·s. Je suis très heureuse de vous avoir à mes côtés lors de cette journée qui représente
+l’aboutissement de ce travail.
+Je remercie également Juliette Defever et Lena Mazuez, rapportrices de mémoire, ainsi que Karin
+Hebting, jury de soutenance, pour l’intérêt porté à ce mémoire, sans oublier l’ensemble de l’équipe
+pédagogique du CFUO de Montpellier. Je remercie aussi profondément les maîtres de stage, tout
+particulièrement celles et ceux du CHU de Montpellier, qui m’ont partagé le goût de leur métier et
+ont fait émerger la future orthophoniste en moi.
+Merci pour votre engagement auprès des étudiant·e·s qui rend notre formation possible.
+J’ai une pensée toute particulière pour ma famille: Pap’s, Mam’s, merci de m’avoir donné
+l'opportunité de faire ces études qui me permettront d’exercer un métier que j’aime profondément.
+Lilou, merci d’être toi, merci de m’écouter râler. Je vous aime fort tous les trois.
+Je ne peux rédiger ces remerciements sans évoquer les 7 poulpes qui m’ont accompagnée ces 5
+dernières années: on l’a fait! Je suis fière de nous. Anna, Alice, Marie, Malissa, Justine, Caroline et
+Athénaïs, merci d’avoir été mes soleils, ces études auraient été bien fades sans vous.
+Une pensée pour mon immense lignée d’étudiant·e·s ortho: je vous souhaite de vous épanouir dans
+vos études, vous allez faire des choses géniales j’en suis sûre. Chloé, je pense fort à toi pour cette
+dernière année qui se profile. Je suis si reconnaissante d’avoir pu faire votre connaissance.
+Je n’oublie pas mes moldus de l’orthophonie. Cécile, Camille et Raphaël et toustes les autres
+ami·e·s montpellierain·e·s, merci d’avoir été à mes côtés. Alexandre, tu es une personne pour qui
+j’ai beaucoup d’estime, merci pour cette amitié sincère qui est la nôtre.
+Je vous souhaite à tous·tes une bonne lecture de ce mémoire qui est aussi un peu le vôtre.
+5
+Table des matières
+Résumé................................................................................................................................................ 3
+Abstract................................................................................................................................................4
+Remerciements.....................................................................................................................................5
+Engagement de non-plagiat................................................................................................................. 6
+Table des matières................................................................................................................................7
+Avant-propos........................................................................................................................................9
+I) PARTIE THEORIQUE.................................................................................................................. 10
+Introduction........................................................................................................................................10
+A) Représentations sociales et transidentités.....................................................................................13
+1) Définition et histoire du concept de représentations sociales................................................. 13
+2) Histoire, représentations et évolution des droits des personnes transgenres.......................... 14
+3) Représentations sociales de la transidentité en population générale et médiatisation............16
+B) Représentations médicales et transidentités..................................................................................20
+1) Evolution des classifications médicales : vers une dépsychiatrisation des transidentités...... 20
+2) Formations des professionnel·le·s de santé sur les transidentités et organisations................ 21
+3) Recherche médicale sur les transidentités...............................................................................22
+4) Perspectives et défis en matière de santé transgenre.............................................................. 23
+C) Effet de la transphobie et des représentations sur la santé et le parcours médical......................26
+1) Monde médical et transphobie : représentations des personnes transgenres.......................... 26
+2) Impact de la transphobie sur la santé mentale........................................................................ 29
+3) Impact de la transphobie sur la santé physique.......................................................................31
+Problématique.................................................................................................................................... 33
+II) MATERIEL ET METHODE........................................................................................................ 35
+A) Choix de l’outil et conception du questionnaire.................................................................... 35
+B) Population...............................................................................................................................35
+C) Recrutement et procédure d’enquête......................................................................................36
+D) Choix des questions............................................................................................................... 37
+1) Questions relatives aux données socio-démographiques................................................. 37
+2) Questions sur les représentations..................................................................................... 38
+a) Émotions et ressentis autour des transidentités..........................................................38
+b) Définition et représentation concernant les transidentités......................................... 39
+c) Représentations autour du domaine médical............................................................. 39
+d) Respect de l’autodétermination et cadre légal........................................................... 40
+3) Questions sur les connaissances médicales et orthophoniques........................................ 40
+E) Pré-test....................................................................................................................................41
+F) Procédure d’analyse................................................................................................................41
+III) RESULTATS ET DISCUSSION................................................................................................. 43
+A) Analyse des résultats..............................................................................................................43
+1) Données socio-démographiques.......................................................................................437
+2) Liens professionnels et personnels aux transidentités......................................................45
+a) Pratique orthophonique et transidentités.......................................................................... 45
+b) Sensibilisation personnelle aux transidentités........................................................... 49
+3) Analyse quantitative des représentations personnelles.................................................... 50
+a) Émotions et ressentis autour des transidentités..........................................................51
+b) Définition et représentation concernant les transidentités......................................... 52
+c) Représentations autour du domaine médical............................................................. 53
+d) Respect de l’autodétermination et cadre légal........................................................... 55
+4) Analyse qualitative des représentations personnelles...................................................... 56
+a) Une demande de sensibilisation aux transidentités....................................................56
+b) Une nécessité d’information en réponse à des représentations variées..................... 58
+5) Analyse des liens entre facteurs socio-démographiques et représentations par le test de
+Chi²....................................................................................................................................... 59
+6) Analyse des connaissances médicales et orthophoniques................................................ 61
+7) Analyse qualitative des représentations médicales et orthophoniques.............................65
+a) Un besoin de formation orthophonique..................................................................... 65
+b) Une mise à l’épreuve des représentations personnelles.............................................67
+c) Un accompagnement perçu comme difficile..............................................................68
+B) Limites de l’étude...................................................................................................................69
+1) Limites de l’élaboration du questionnaire........................................................................69
+2) Facteurs pouvant influencer la population des répondant·e·s..........................................69
+3) Facteurs ayant pu avoir une incidence sur les résultats....................................................70
+4) Limites de l’analyse des résultats.....................................................................................71
+IV) CONCLUSION........................................................................................................................... 74
+V) BIBLIOGRAPHIE....................................................................................................................... 76
+ANNEXES.........................................................................................................................................86
+Annexe I : Notice explicative......................................................................................................86
+Annexe II : Questionnaire........................................................................................................... 87
+Annexe III: liens entre facteurs socio-démographiques et représentations par le test de Chi²... 94
+8
+Avant-propos
+Nota Bene: Ce mémoire a été rédigé en écriture inclusive afin de représenter toutes les
+personnes,quelquesoitleurgenre.
+« Je travaille à informer les personnes qui vous accompagnent, particulièrement les
+soignants et les soignantes, de votre sublime existence. Je travaille à leur dire comme vous
+êtes précieux, comme vous êtes précieuses, et comme iels devraient vous traiter en
+conséquence, comment derrière leur bureau iels se doivent de vous regarder non pas de
+haut mais de marcher côte à côte, comme simples accompagnateur·rices, comme simples
+facilitateur·rices de vos parcours. Je leur dis combien iels gagneraient à apprendre de vous
+et de vos histoires, de la résilience qui n'aurait jamais dû être la vôtre si la société avait
+suffisamment bien fait son travail. Je crois que je passe le plus clair de mon temps à
+travailler parce qu'il est peu probable que le repos soit appréciable tant que nous, personnes
+trans, ne serons pas bien prises en charge par celleux censé·es prendre soin de nous et de
+notre santé physique et mentale. Je ne dis pas qu’à moi seul je vais changer quoi que ce
+soit, non, je n'aurais pas cette prétention. Je dis simplement que je ne veux pas rester sans
+rien faire, à la fois pour moi, pour toi, mais surtout pour nous. Alors je plante des graines
+dans la tête des professionnel·les de la santé que je rencontre en espérant qu'elles puissent
+éclore une fois en cabinet, face à vous. Alors en attendant que toustes les soignants,
+soignantes du monde soient formé·es et informé·es, prenons soin les un·es des autres,
+faisons communauté. Pour finir, peu importe quel·le professionnel·le vous avez face à
+vous, gardez en tête cher·ère·s adelphes1que vous êtes seul·es en charge de définir votre
+identité. Peu importe leurs arguments, peu importe leur rang, leur renommée, leur
+discipline, lae professionnel·le, que dis-je l'expert·e de vous, c'est vous. »
+Extrait de la lettre de Morgan N. Lucas,
+LE PETIT BLEU, YouTube, épisode 9 : « La santé des personnes trans avec Morgan »
+1Adelphe: signifie littéralement “né·e d’une même mère”, sans distinction de genre. Utilisé comme mot
+neutre pour désigner les membres d’un groupe dans le sens de “frères et soeurs”.9
+I)PARTIETHEORIQUE
+Introduction
+« C’est un garçon ! » « C’est une fille ! » : à la naissance, le ou la médecin assigne
+un genre à l’enfant en fonction du sexe biologique, opposant alors le genre masculin et le
+genre féminin. Le sexe et le genre sont deux notions souvent assimilées, que ce soit par les
+professionnel·le·s de santé ou les parents, il convient cependant de les différencier. Le
+genre, défini comme l’ensemble des « rôles qui, selon la représentation que s’en fait la
+société, déterminent les comportements, les activités, les attentes et les chances considérés
+comme adéquats pour tout un chacun dans un contexte socioculturel donné » par l’OMS
+(Genre et santé), est intrinsèquement lié à la culture. En effet, la façon d’exprimer son
+genre peut être différente d’une culture à l’autre : c’est une construction sociale. De
+manière générale, sexe biologique et genre sont congruents chez les individus, ce sont des
+personnes cisgenres. Cependant il existe aussi des personnes transgenres : actuellement, on
+estime que près de 9% des adolescents américains ont une identité de genre2qui diffère du
+sexe qui assigné à la naissance (Kidd et al., 2021), les chiffres tirés d’études recensant la
+population transgenre étant cependant d’une grande variabilité. Cela entraîne souvent une
+souffrance appelée dysphorie de genre (Alessandrin, 2014). La transidentité peut
+s’exprimer chez des individus de sexe biologique masculin et de genre féminin, chez des
+individus de sexe biologique féminin et de genre masculin, ainsi que chez des individus ne
+se reconnaissant dans aucun genre, ou ayant une identité de genre variable dans le temps
+(non-binarité). Il existe aussi des variations de sexe regroupées sous un spectre appelé
+l’intersexuation. Les personnes intersexes sont des personnes ayant des caractère génitaux
+ou chromosomiques ne correspondant pas à la catégorisation binaire du sexe masculin ou
+féminin (United Nation Human Rights, s. d.).
+Le genre comme le sexe ne sont donc pas
+binaires chez tous les individus.
+Les personnes transgenres peuvent alors ressentir le besoin de réaliser une
+transition de genre afin d’être en adéquation avec leur identité de genre. La transition peut
+être sociale et/ou médicale et/ou juridique. En effet, les personnes transgenres peuvent
+choisir de se présenter sous un autre prénom que celui donné à la naissance, et de se
+2Identité de genre: “Expérience intérieure et personnelle que chaque personne a de son genre. Il s’agit du
+sentiment d’être une femme, un homme, les deux, ni l’un ni l’autre, ou d’être à un autre point dans le
+continuum des genres.” selon le Ministère de la Justice canadienne.
+10
+présenter socialement en adéquation avec leur genre. Concernant la transition, un parcours
+médical peut être proposé. Le ou la médecin traitant peut réaliser une demande d’Affection
+Longue Durée (ALD) afin que le parcours de transition soit pris en charge par la sécurité
+sociale sans avance de frais. Ce parcours de transition varie selon les personnes : il est
+possible d’avoir recours à une hormonothérapie, de réaliser des opérations (féminisation du
+visage, mammectomie3, réassignation sexuelle), des épilations définitives ou de solliciter
+un accompagnement en orthophonie pour la transition vocale. La transition peut aussi être
+juridique, avec notamment le changement de prénom à l’état civil et le changement de la
+mention de sexe sur les documents officiels. Le parcours de transition est donc multiple :
+cela nécessite du temps, et aucune étape n’est obligatoire.
+L’orthophoniste peut être l’un·e des professionnel·le·s de santé qui va accompagner
+la personne transgenre dans sa transition, afin de l’aider à mettre en adéquation sa voix et
+son identité de genre. Selon la Nomenclature Générale des Actes Professionnels,
+l’orthophoniste peut réaliser dans ce contexte un Bilan de Phonation (AMO 34) ainsi
+qu’une « Rééducation des troubles de la voix d'origine organique ou fonctionnelle, et les
+dyskinésies laryngées » (AMO 11.4 en séance individuelles, AMO 9 en séances de
+groupe). Il ne s’agit pas à proprement parler d’une rééducation mais d’un accompagnement
+visant à harmoniser la voix selon des objectifs définis au début du suivi et évoluant au fur
+et à mesure des séances. Le travail peut durer plusieurs mois, jusqu'à plusieurs années, et
+est ciblé sur les objectifs fixés conjointement avec la personne. Les axes thérapeutiques
+sont centrés sur un travail de la voix et de la communication, avec par exemple une
+exploration autour de la fréquence vocale, du passage entre différents mécanismes vocaux,
+de l’articulation, du débit, de la prosodie, du vocabulaire, de la syntaxe, du langage
+non-verbal. Conjointement à l’orthophonie, des opérations visant à modifier la voix
+peuvent être réalisées (Klein-Dallant et al., 2019). L’orthophonie joue alors un rôle
+important dans la prise en charge post-opératoire.
+Les procédés de transitions que nous venons de décrire restent à l’appréciation de
+chaque personne entreprenant une transition de genre. Or, le fait de vouloir transitionner ou
+d’être transgenre reste encore difficilement accepté socialement. La société française (et de
+manière plus large les sociétés occidentales) est construite sur un modèle binaire homme /
+femme qui laisse peu de place à la transidentité et à la non-binarité. En nous intéressant au
+3Mammectomie : chirurgie permettant l’ablation des seins afin d’obtenir un torse plat.11
+rôle de l’orthophoniste dans l’accompagnement des transitions de genre, nous avons
+imaginé proposer un mémoire faisant état des représentations des orthophonistes sur les
+transidentités en 2022. Les personnes transgenres étant victimes de discriminations de la
+part des différents acteurs du corps médical, l’étude des mécanismes sous-jacents à ces
+discriminations nous a semblé être importante pour pouvoir analyser les besoins des
+orthophonistes en termes de formation et d’information.
+Dans une première partie définissant le cadre théorique de notre étude, nous
+aborderons la question des représentations sociales autour des transidentités, avant de nous
+intéresser aux représentations médicales, puis aux effets de la transphobie et de ces
+représentations sur la santé et le parcours médical des personnes transgenres. Nous
+présenterons ensuite la problématique, avant de détailler la méthode utilisée puis les
+résultats. Nous évoquerons ensuite les limites de notre protocole avant de discuter des
+perspectives apportées par ce travail.
+12
+A)Représentationssocialesettransidentités
+1) Définition et histoire du concept de représentations sociales
+Les représentations sont un objet d’étude et de questionnements en évolution
+depuis l’Antiquité (Jovic, 2012) et qui ont été au centre de nombreuses réflexions
+philosophiques ces derniers siècles, on peut notamment citer les travaux de Kant et Leibniz
+(Bouton, 2004). Le concept de représentation a aussi été étudié plus récemment. Les
+définitions ont évolué selon les auteurs, pour devenir aujourd’hui un paradigme repris dans
+de nombreux domaines, tels que la psychologie sociale, les sciences humaines et sociales,
+les sciences de l’éducation ou encore les sciences de la santé (Moscovici & Kalampalikis,
+2019). Durkheim introduit d’abord le concept des représentations collectives, par
+lesquelles « les hommes se comprennent, les intelligences se pénètrent les unes les autres.
+Elles ont en elles une sorte de force, d’ascendant moral en vertu duquel elles s’imposent
+aux esprits particuliers » (Durkheim, 1968). Pour Jodelet, elles sont « une forme de
+connaissance socialement élaborée et partagée, ayant une visée pratique et concourant à la
+construction d'une réalité commune à un ensemble social ou culturel » (Jodelet, 2003).
+Le concept a été questionné plus récemment par Moscovici. Selon lui, chacun
+possède ses propres représentations sur les différents sujets qui composent notre société.
+Elles se créent à partir des croyances, opinions, informations reçues sur un sujet. Ces
+représentations se construisent peu à peu, notamment par deux processus cognitifs que sont
+l’objectivation et l’ancrage. L’objectivation est une appropriation que fait l’individu des
+objets qui l’entourent, transformant des éléments abstraits en des éléments porteurs de sens
+: le savoir abstrait devient une certitude concrète. S’ensuit un processus d’ancrage, que l’on
+peut définir comme une mobilisation des connaissances déjà disponibles pour appréhender
+quelque chose de nouveau et les intégrer au système de classification préexistant. L’objet
+ayant été objectivé et ancré, il pourra ensuite servir à des objectifs sociaux et
+communicationnels (Moscovici, 2004).
+Moscovici relève aussi que les représentations sont liées à l’aspect quantitatif et
+qualitatif de l’information reçue sur un sujet, ce qui crée des « représentations pauvres » ou
+« représentations riches ». Les représentations vont alors entraîner une « attitude »,
+c’est-à-dire une orientation positive ou négative concernant un sujet. On peut aussi
+retrouver des opinions ambivalentes. Les représentations individuelles peuvent être mises
+13
+en commun avec différents individus par un processus de communication collective
+comme des stratégies de diffusion, propagation et propagande. Elles peuvent se décliner
+sous forme de débat public, de communications interpersonnelles, de presse et média, de
+communication culturelle (fiction, publicité, chanson …). Cette création des
+représentations collectives est conditionnée par 3 faits : premièrement, l’information doit
+être diffusée de manière suffisante afin d’être retrouvée de manière conséquente dans le
+corps social ; ensuite, un phénomène de focalisation s’effectue pour sélectionner les
+informations qui semblent importantes, opérant un tri subjectif ; enfin, un phénomène de
+pression à l’interférence amenée par l’entourage du sujet influence la focalisation
+(Moscovici, 2004).
+Concernant les transidentités, les représentations sont alors variables d’une
+personne à l’autre, d’une culture à l’autre, d’une époque à l’autre. Il peut être intéressant de
+connaître l’histoire de la communauté transgenre pour mieux en comprendre son évolution
+et les représentations actuelles autour des transidentités.
+2) Histoire, représentations et évolution des droits des personnes transgenres
+On retrouve la mention de la transidentité dans un grand nombre de cultures à
+travers l’Histoire et sur tous les continents (Bolich, 2007), démontrant que les
+transidentités ne sont pas l’apanage du XXIème siècle. Des écrits relatent l’existence
+d’hommes transgenres ou de personnes de genre fluide dès le Moyen-Âge, on considère
+aujourd’hui Jeanne d’Arc comme un emblème de diversité de genre de cette période
+(Maillet, 2020). Plus récemment au 20èmesiècle, il est fait état de « travestissement », puis
+c’est le terme de « transsexualisme », imaginé par Harry Benjamin, qui est utilisé pour
+définir les transidentités, via le prisme de la psychiatrie. La communauté scientifique
+internationale adopte rapidement la terminologie, cependant le courant psychanalytique
+français retarde la réception française (Alessandrin, 2018). Dans les années 1950, des
+personnes transgenres comme Coccinelle ou Bambi deviennent célèbres, ce qui porte la
+lumière sur la communauté transgenre (Foerster, 2012). Le militantisme LGBT se
+développe, surtout aux Etats-Unis, créant des émeutes, celles de Stonewall à New York en
+1969 étant les plus connues. Au niveau Européen, des lois en faveur des personnes
+transgenres sont promulguées de manière individuelle par chaque pays, accompagnées par14
+une création croissante d’associations travaillant pour la reconnaissance des droits et la
+visibilité des personnes transgenres (Alessandrin, 2018).
+Toutefois, en France, les lois évoluent plus lentement qu’au niveau Européen. Par
+exemple, la première proposition de loi concernant le changement de la mention de sexe a
+été proposée en 1982, avec des modifications régulières impulsées par des condamnations
+ou menaces de condamnation de la Commission Européenne des Droits de l’Homme,
+jugeant la France pour son non-respect du droit Européen (Association Nationale
+Transgenre, s. d.) pour aboutir à sa version actuelle de 2016. En effet, le changement de la
+mention de sexe était conditionné à des « preuves » que devait apporter la personne
+transgenre, reflétant un manque de compréhension des transidentités : la personne devait
+avoir subi un traitement médico-chirurgical, ne plus posséder tous les caractères de son
+sexe d’origine (stérilisation) ou encore présenter un « syndrome de transsexualisme ».
+Aujourd’hui le changement d’état civil (c’est-à-dire la modification d’un prénom) est
+réalisable par un officier d’état civil en mairie. Cependant la modification de la mention de
+genre et du prénom doit être prouvée par des témoignages de proches, photographies,
+documents, attestations médicales. Ces lois sur les droits des personnes transgenres
+évoluent certes, trop lentement selon les personnes concernées et les associations LGBT+.
+Ces dernières continuent de militer pour ces évolutions, comme par exemple pour que
+l’accès de la Procréation Médicalement Assistée (PMA) pour les personnes transgenres
+soit inscrit dans la loi française.
+Le droit français a aussi vocation à protéger les personnes transgenres des
+discriminations qu’elles pourraient subir. En effet, elles peuvent être victimes de
+comportements hostiles : discriminations (par le cercle familial, amical, dans l’espace
+public, dans le monde du travail et de la santé), préjugés négatifs, agressions verbales ou
+physiques, ou encore violence psychologique selon SOS Homophobie. On peut regrouper
+ces agissements sous le terme de « transphobie », définie comme le « sentiment ou
+manifestation de rejet, de mépris ou de haine envers les personnes ou comportements
+associés aux transidentités » (SOS Homophobie). Il existe une transphobie dite « directe »,
+qu’on peut définir comme le rejet de la personne, et une transphobie dite « indirecte »,
+c’est-à-dire un calquage sur un modèle cisgenre (Alessandrin & Espineira, 2014). En
+d'autres termes il s’agit d’une transphobie induite par le fait que le monde est pensé par et
+pour les personnes dont le genre et le sexe biologique sont congruents, ce qui limite son
+ouverture aux personnes transgenres. La transphobie peut aussi être institutionnelle, ou15
+encore médiatique (Alessandrin & Espineira, 2015). La discrimination fondée de l’identité
+de genre est punie par la loi du 27 mai 2008 de 3 ans d’emprisonnement et 45 000 €
+d’amende ou 5 ans d’emprisonnement et 75 000 € quand le refus discriminatoire est
+commis dans un lieu accueillant du public ou commis par une personne dépositaire de
+l’autorité publique. De plus, la Délégation Interministérielle à la Lutte contre le Racisme,
+l’Antisémitisme a vu son champ d’action élargi à la lutte contre la Haine anti-LGBT depuis
+2016, entraînant la création d’un Plan national d’actions pour l’égalité, contre la haine et
+les discriminations anti-LGBT+ 2020-2023. Cette lutte contre les discriminations est
+nécessaire : dans une enquête menée en 2014 (Alessandrin & Espineira, 2014), 8 personnes
+transgenres sur 10 déclarent avoir été victimes de transphobie au cours de leur vie. Il ne
+faut d’ailleurs pas oublier que les discriminations peuvent se cumuler : discriminations
+concernant l’appartenance ethnique, l’orientation sexuelle, le handicap, le statut social etc.
+Au niveau mondial, on relève de grandes disparités concernant les droits et
+l’intégration des personnes transgenres à la société. La transidentité est encore
+explicitement reconnue comme un crime dans 13 pays, et dans de nombreux Etats, elle est
+pénalisée par des lois subsidiaires condamnant l’indécence, le travestissement ou le travail
+du sexe (International Lesbian, Gay, Bisexual, Trans and Intersex Association (ILGA),
+2022). Les droits des personnes transgenres restent encore aujourd’hui fragiles au niveau
+mondial, sensibles aux variations politiques.
+3) Représentations sociales de la transidentité en population générale et
+médiatisation
+Concernant les représentations personnelles sur les transidentités, elles sont
+multiples et propres à chaque individu ou groupes d’individus. Elles dépendent des
+informations que la personne a pu recevoir et de ses expériences comme nous avons pu le
+voir dans la première sous-partie. Les transidentités souffrent cependant de représentations
+particulières auprès de la population : « Si vous prenez des gens dans la rue et que vous
+leur demandez : "Qu'est-ce qu'une personne trans ?", ils vont majoritairement vous
+répondre :"Untravesti" . […] Les personnes trans fascinent autant qu'elles effraient, parce
+que, quelque part, elles démontrent par leur existence quelque chose que beaucoup de gens
+pensaient indémontrable. » explique Karine Espineira dans une interview donnée à France16
+Info (Boy, 2015). Elle ajoute que « La question est rendue d'autant plus complexe par la
+diversité des personnes trans et de leurs parcours. Depuis les années 1950, on a expliqué
+aux gens qu'il y avait les personnes transsexuelles, qui prenaient des hormones, qui se
+faisaient opérer, qui changeaient leur état civil. Mais, alors que le grand public pensait
+avoir intégré ce qu'était un parcours de vie trans, est arrivé en France depuis une quinzaine
+d'années un mouvement transgenre, qui explique que l'on peut vivre son genre d'une autre
+façon, sans forcément faire appel à la médecine. C'est encore plus déstabilisant car cela
+complexifie les choses. »
+Les études caractérisant les opinions et représentations des individus sur les
+transidentités sont peu nombreuses. Une étude IPSOS s'intéressant aux représentations au
+niveau mondial relève qu’il existe encore une certaine adversité concernant les
+transidentités et les droits des personnes transgenres. En se focalisant sur les chiffres
+français, on trouve que 16,8% sont “fortement en accord” / “en accord” avec l’affirmation
+« Les personnes transgenres violent les traditions culturelles », de même que pour 15,7% «
+Les personnes transgenres ont une forme de maladie mentale ». 24,3% sont “fortement en
+désaccord” / “en désaccord” avec l’affirmation « Les personnes transgenres sont une
+occurrence naturelle » ; 17,6% sont “fortement en désaccord” / “en désaccord” avec «
+autoriser les personnes transgenres à se marier » ; 30,1% sont “fortement en désaccord” /
+“en désaccord” avec « supporter l’adoption » ; 10,7% ont répondu « non » à « supporter le
+changement de genre sur les documents d’identités officiels ». (Kimberly, 2016). Une
+étude IFOP relève que 39% de personnes sondées sont d’avis que les personnes qui veulent
+changer de genre ont un problème psychologique, 13% seraient gênés à l’idée qu’une
+personne transgenre utilise les mêmes toilettes qu’elles. (IFOP, 2019). Une autre étude
+réalisée par l’organisme Yougov montre que seules 47% des personnes françaises
+interrogées estiment qu’elles réagiraient bien au coming-out4transgenre ou non-binaire de
+leur enfant, frère, sœur ou personne de la famille proche. Ces chiffres sont très inférieurs à
+ceux relevés dans les 6 autres pays sondés, montant par exemple à 87% de réactions
+positives pour les répondant·e·s espagnol·e·s et à 71% pour les britanniques (Yougov,
+2021), ce qui pose question d’une vision des transidentités propre aux français·e·s.
+Cette adversité est toutefois à mettre en regard avec un accueil favorable d’une
+majorité de la population. Les personnes ayant un membre de la famille ou un·e ami·e
+4Coming-out: annonce à l’entourage d’une identité de genre ou d’une orientation sexuelle qui n’était pas
+connue jusque lors.17
+transgenre, les personnes jeunes, les femmes, les personnes avec des niveaux d’éducation
+moyens ou élevés sont plus enclines à supporter les droits des personnes transgenres
+(Kimberly, 2016). Pour Karine Espineira, on peut espérer un changement vers une
+meilleure acceptation des personnes transgenres dans les prochaines années : « La
+prolifération de représentations qui ne correspondent pas à ces clichés va forcément
+changer la donne. Dans un certain nombre de pays, ce qui a fait la différence, c'est aussi la
+visibilité » (Boy, 2015). Comme expliqué précédemment, la médiatisation joue un rôle
+important dans la diffusion des informations et donc la visibilité d’un phénomène, amenant
+les individus à créer leurs propres représentations. Les transidentités souffrent d’une part
+d’un manque de représentation dans l’espace médiatique et d’autre part d’une mauvaise
+illustration. En effet, on ne retrouve aucun personnage transgenre ou non-binaire dans les
+films issus des studios de production les plus importants depuis ces quatre dernières années
+(GLAAD Media Institute, 2021), révélateur d’une certaine invisibilisation. Les personnes
+transgenres ne sont tout de même pas absentes des écrans, on peut notamment citer
+l’apparition de personnages transgenres dans des émissions de grande audience comme,
+entre autres récemment, Plus Belle la Vie, OrangeistheNewBlack,SKAM ou encore le
+documentaire Petite Fille , des programmes de grande visibilité diffusés à la télévision ou
+sur les sites de streaming. Au fil du temps, ces quelques représentations, appuyées par les
+médias d’informations, ont participé un enrichissement du vocabulaire utilisé, avec
+l’abandon des termes « travesti·e » et « transsexuel·le » au profit du terme « transgenre »
+dans le milieu des années 2000. (Espineira & Thomas, 2014).
+Cependant ces quelques représentations médiatiques positives coexistent avec de
+nombreuses représentations défavorables aux personnes transgenres. Elles sont 48% à
+estimer que cette médiatisation est négative, contre 28% à estimer qu’elle est positive
+(Espiñeira, 2013). En effet, sur ces dernières décennies, les personnes transgenres ont été
+des « parias médiatiques » pour reprendre les mots de Karine Espineira. Dans les années
+1980-1990, la présence médiatique des personnes transgenres dans les journaux
+d’information est réduite à des sujets autour de la prostitution et de l’épidémie de
+VIH/SIDA, avec une représentation quasi exclusive de femmes transgenres, étrangères, en
+situation d’irrégularité (Espineira & Thomas, 2014) : les personnes transgenres étaient
+représentées comme des personnes marginales. Aujourd’hui l’espace médiatique sur le
+sujet des transidentités n’est plus occupé par ce type de reportages, mais plutôt par des
+mises en lumière de parcours individuels dans des émissions d’information, de18
+divertissement ou de téléréalité. Les thématiques récurrentes sont « la souffrance, la
+victimisation, l’erreur de la nature et l’opération miraculeuse », avec des personnages de
+second rôle joués par des personnes cisgenres, souvent représentés en début de transition,
+caricaturaux. On observe une méconnaissance de la réalité transgenre avec des confusions
+entre genre et sexualité, et une sous-représentation de la diversité des parcours transgenres
+(Espiñeira, 2013). Cette représentation médiatique peut avoir un impact sur les
+représentations de chacun, mais aussi sur les représentations que se font les personnes
+transgenres d’elles-mêmes. Comment se construire en tant que personne quand peu de
+représentations sont disponibles et qu’une majorité d’entre elles sont fausses et
+stigmatisantes ? Actuellement, la jeune génération transgenre est active sur les réseaux
+sociaux et vient concurrencer ces représentations médiatiques, montrant sa fierté de vivre
+des identités de genre variées tout en partageant les difficultés et la transphobie quotidienne
+(Lallet & Delias, 2018).
+Les représentations sociales sont donc des mécanismes complexes opérant dans les
+sphères individuelles, collectives et médiatiques. Il est intéressant de relier ces concept au
+domaine de la santé. Selon Jeoffrion « les représentations sociales s’avèrent être un outil
+conceptuel tout à fait pertinent pour aborder des questions comme la relation
+thérapeutique, l' « apprentissage » de la maladie par le patient, son rapport au traitement,
+etc., mais aussi ce qu’en disent toutes celles et ceux que le patient va être amené à côtoyer,
+que l’on appelle les « Professionnels de Santé » » (Jeoffrion, 2009). Les transidentités étant
+un objet d’étude portant à la fois sur le domaine de la santé et sur le domaine sociétal, leur
+étude par le prisme des représentations sociales semble être un moyen indispensable pour
+comprendre comment elles se sont inscrites et s’inscrivent aujourd’hui dans notre société et
+notre système de santé. Il est à noter que le concept de santé des personnes transgenres est
+à envisager sous le prisme de la définition de la santé donnée par l’OMS, comme étant un
+“état de complet bien-être physique, mental et social” (OMS, 1946), et non pas sous le
+prisme d’une “maladie” qu’il conviendrait de soigner, comme nous le verrons dans la
+prochaine partie de ce mémoire.19
+B)Représentationsmédicalesettransidentités
+1) Evolution des classifications médicales : vers une dépsychiatrisation des
+transidentités
+En lien avec notre sujet d’étude, il convient d’explorer les représentations
+personnelles mais aussi les représentations médicales concernant les personnes transgenres.
+En effet, les classifications médicales ont évolué ces dernières décennies au fil des
+nouvelles versions des deux ouvrages médicaux de référence que sont le Diagnostic and
+Statistical Manual of Mental Disorders (DSM) et la Classification Internationale des
+Maladies (CIM). Les DSM-I (1952) et DSM-II (1968) font état du « travestissement », qui
+deviendra « transsexualisme » dans le chapitre « troubles psychosexuels » du DSM-III
+(1980). Le DSM-IV (1998) parle quant à lui de « trouble de l’identité sexuelle », remplacé
+par dysphorie de genre dans le DSM-V (2015). La CIM-9 (1975) parle de «
+transsexualisme » dans le chapitre « déviation et troubles sexuels », terme repris dans la
+CIM-10 (1994) dans la rubrique « trouble de l’identité sexuelle », chapitre « troubles
+mentaux et du comportement ». La CIM-11 (2022) parle maintenant d’« incongruence de
+genre », retirant les transidentités du chapitre concernant les psychopathologies au profit
+du chapitre « santé sexuelle ».
+La World Professional Association for Transgender Health (WPATH) joue aussi un
+rôle important dans les considérations médicales liées aux transidentités : cette société
+savante internationale et interdisciplinaire publie régulièrement ces « Standards Of Care ».
+Ces derniers visent à statuer et informer les professionnel·le·s de la santé des
+recommandations concernant la santé des personnes transgenres. Pour la WPATH, « les
+personnes transsexuelles, transgenres et de genre non-conforme, ne sont pas des
+personnalités pathologiques. C’est plutôt la détresse liée à la dysphorie de genre, quand
+elle est présente, qui est l’élément préoccupant à diagnostiquer et pour laquelle différentes
+options de traitement sont disponibles » (The World Professional Association for
+Transgender Health, 2013). Les dernières classifications et recommandations des
+organisations internationales vont alors dans le sens d’une dépsychiatrisation des
+transidentités. Ces changements de classification restent cependant tout récents et appellent
+à un nouvel élan dans l’accompagnement des personnes transgenres revendiqué par les
+associations, notamment sur la formation des soignants et la recherche scientifique.
+20
+2) Formations des professionnel·le·s de santé sur les transidentités et
+organisations
+L’éducation des soignant·e·s concernant les transidentités et leur accompagnement
+a fait l’objet de plusieurs études qui tendent à démontrer que la formation a vocation à être
+améliorée. En effet, une étude américaine montre que les étudiant·e·s ont une demande
+concernant les formations relatives aux soins des personnes LGBTQ, rapportant cependant
+des avis mitigés sur la qualité de leur formation initiale (Greene et al., 2018). On retrouve
+ce sentiment de manque de connaissance en France, où 60,3% des professionnel·le·s de
+santé d’un CHU français évaluent leurs connaissances comme “faibles” et 39,7% comme
+“moyennes” (Freton et al., 2021). Cela est à mettre en lien avec un manque de formation
+universitaire. Les sources d’informations concernant les transidentités peuvent alors être
+cherchées de manière individuelle : 85% des étudiant·e·s infirmier·e·s indiquent que leurs
+connaissances sur les transidentités n’ont pas été acquises au cours de leur formation
+(Carabez et al., 2015). Pour pallier le manque de connaissances, les professionnel·le·s ont
+recours à différentes stratégies, comme se renseigner dans des livres ou sur internet,
+s’adresser à des collègues, apprendre de leurs erreurs, certain·e·s refusent tout simplement
+de prodiguer les soins, d’autres se renseignent auprès des patient·e·s (Poteat et al., 2013).
+Les patient.e.s ne devraient cependant pas avoir à éduquer tous·tes les professionnel·le·s
+qu’iels consultent, mais “attendent à juste titre, un certain niveau d'expertise et de
+familiarité avec les contextes culturels, tant en termes de connaissances psychologiques
+que de contexte social, lorsqu'iels sollicitent une aide professionnelle.”(Lucas, s. d.)
+Concernant
+les formations en orthophonie, les étudiant·e·s français·e·s jugent leurs
+savoirs théoriques et pratiques comme insuffisants pour l’accompagnement orthophonique
+des personnes transgenres : 73,60% estiment que cela est dû à un manque de formation
+initiale (Bosqué, 2020). On retrouve aussi ce manque de formation auprès des étudiant·e·s
+orthophonistes américain·e·s, où seulement 20% déclarent avoir reçu une formation
+concernant l’accompagnement des personnes transgenres, avec pourtant un intérêt
+important de cette population puisque 37% prévoient de se former plus (Matthews et al.,
+2020). Face à ce manque de formation initiale, on observe une recrudescence de
+formations à l’accompagnement des personnes transgenres. Elles peuvent prendre la forme
+d’un Diplôme Universitaire, comme celui proposé par la Sorbonne (DiplômeUniversitaire
+depriseenchargedelaTransidentité , s. d.), d’un Massive Online Open Course (MOOC)
+proposé en ligne, ou encore de journées de formation à l’initiative d’associations et à
+21
+destination des professionnel·le·s de santé. En ce qui concerne spécifiquement
+l’orthophonie, il existe quelques formations payantes permettant aux orthophonistes ou
+étudiant·e·s en orthophonie de se former à l’accompagnement des personnes transgenres
+dans leur transition vocale, en complément de la formation initiale dispensée dans certains
+CFUO.
+3) Recherche médicale sur les transidentités
+Tout comme la formation des soignant·e·s, la recherche concernant les
+transidentités reste peu développée, bien qu’on relève que le nombre d’études concernant
+les transidentités dans le domaine médical est toutefois en augmentation (Feldman et al.,
+2016) : on parle des « Trans Studies », études au croisement des transidentités et d’autres
+domaines comme la santé, l’anthropologie ou encore la littérature par exemple.
+De nombreuses organisations et chercheur·euse·s déplorent le manque d’études
+médicales sur les transidentités. The National Academies Press identifie les transidentités
+comme étant un sujet pour lequel il y a un grand besoin de recherche médicale (National
+Academies of Sciences, Engineering, and Medicine, 2020). Une revue de littérature
+américaine relève relativement peu de publications académiques sur les transidentités, avec
+notamment peu de recherches primaires, de recherches de haute-qualité, de recherches sur
+le long terme, d’études prospectives, avec une faible proportion d’études randomisées
+(Wanta & Unger, 2017). La majorité des recherches sont des études de cas, des
+rétrospectives ou des études cross-sectionnelles. Elles sont généralement constituées de
+petits échantillons et réalisées sur de courtes durées, ce qui peut limiter leur interprétabilité
+(Feldman et al., 2016). Concernant les études françaises, l’Académie Nationale de
+médecine déplore un manque de recherches cliniques, biologiques et éthiques sur les
+transidentités, notamment chez les enfants et adolescent·e·s, et appelle à l’attention de la
+communauté médicale sur le sujet (Académie Nationale de Médecine, 2022).
+Une autre revue de littérature met en avant le fait que de nombreuses recherches
+sont menées sur les comorbidités psychiatriques, bien que les résultats sont d’une grande
+variabilité d’une étude à l’autre : on retrouve plusieurs recherches concernant le sex-ratio
+des comorbidités psychiatriques, les épisodes dépressifs, les troubles anxieux , le suicide,
+22
+tentatives de suicide et automutilation, l’usage de substances, les troubles du
+comportement alimentaire, les troubles neurodéveloppementaux, les troubles de la
+personnalité. L’indicateur de mortalité est souvent très utilisé, délaissant les indicateurs de
+morbidité qui ont pourtant un impact majeur sur la qualité de vie (Feldman et al., 2016). La
+santé somatique n’est que très peu documentée, la littérature faisant toutefois état de
+données concernant la prévalence au VIH, cancers et maladies cardio-vasculaires, ainsi que
+les effets secondaires de l’hormonothérapie. (Fradelizi, 2020). Concernant les études
+françaises, on relève des recherches sur la santé scolaire et au travail, les enjeux
+gériatriques, obstétricaux (Alessandrin, 2022a). Ces études prennent peu en compte la
+diversité des profils transgenres, éludant les hommes transgenres et les personnes
+non-binaires et étudiant peu les aspects intersectionnels5(Fradelizi, 2020), notamment les
+liens entre santé et stigmatisation, discrimination, facteurs sociaux et structurels (Reisner et
+al., 2016).
+La thématique de la recherche concernant la santé et le parcours de soin des
+personnes transgenre devient alors un enjeu de santé publique : le rapport adressé au
+ministre de la santé en janvier 2022 recommande de « Développer la recherche clinique
+concernant les soins de transition ainsi que les travaux sur les déterminants de la santé des
+personnes trans ; intégrer la problématique trans à des thèmes de recherches concernant la
+population générale et financer des recherches sur des problématiques plus spécifiques aux
+populations trans ; soutenir une meilleure diffusion et accessibilité des connaissances
+scientifiques. » (Picard & Jutant, 2022)
+4) Perspectives et défis en matière de santé transgenre
+Que ce soit au niveau de la recherche ou de la formation sur les transidentités, il
+reste encore beaucoup à faire en matière de santé transgenre. Différents leviers pourraient
+être utilisés afin de continuer à améliorer le parcours de soins proposé aujourd’hui.
+5Intersectionnalité: Incidence de l’accumulation de plusieurs discriminations, par exemple être une personne
+transgenre de couleur ou une personne transgenre en situation de handicap (Romano, 2022)23
+Comme nous l’avons vu dans la partie de ce mémoire portant sur les
+représentations sociales, on peut d’abord faire l’hypothèse que l’amélioration des
+représentations sociales personnelles auront un impact à long terme sur les représentations
+médicales et donc sur la façon dont les personnes transgenres sont traitées dans le système
+de soin. Les recommandations internationales encouragent les pays à mener des politiques
+favorisant l’inclusion sociale des personnes transgenres. Cela pourrait par exemple se
+manifester par la création de programmes dans le but d’améliorer l’inclusion des élèves
+transgenres à l’école, 92% d’entre eux étant victimes de discrimination par des élèves
+(Alessandrin, 2022b), ce qui les amène a juger leur expérience scolaire comme “mauvaise”
+(Alessandrin, 2022a). Cela pourrait aussi passer par une meilleure inclusion et
+reconnaissance des personnes non-binaires et intersexes sur les papiers d’identités, déjà
+mis en place dans certains pays d’Asie et d’Océanie, ou plus proche de nous en Allemagne
+(Fradelizi, 2020). A noter que certains pays, comme l’Espagne, votent des lois afin de
+faciliter la transition sociale et administrative, en permettant un changement d'État Civil
+lors d’un simple rendez-vous, et ce dès 14 ans si l’enfant est accompagné de son
+représentant légal. (Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las
+personas trans y para la garantía de los derechos de las personas LGTBI, 2023). En somme,
+les possibilités d’améliorations sociales sont nombreuses mais indispensables et
+concomitantes aux avancées dans le domaine de la santé.
+Concernant spécifiquement les représentations médicales, certains chercheur·euse·s
+pointent du doigt une réticence à la différence de la part des soignant·e·s. Habitué·e·s à
+uniformiser leurs patient·e·s, les soignant·e·s peuvent être en difficulté pour mettre leurs
+représentations de côté quand il s’agit de prendre soin de personnes transgenres (Romano,
+2022). Les rapports de l’IGAS de 2011 et de la HAS de 2021 insistent alors sur la nécessité
+de sensibilisation et formation des professionnel·e·s ainsi que sur l’homogénéisation des
+pratiques (Muriel, 2022). Cela passe aussi par des politiques de programmes de recherche
+qui sont aujourd’hui trop peu nombreux, les équipes de recherche exhortant l’OMS à agir
+pour la recherche, la création de recommandations de bonne pratiques et d’indicateurs de
+santé spécifiques aux transidentités (Pega & Veale, 2015).
+Certaines études ayant directement interrogé des personnes transgenres permettent
+de mettre au jour des perspectives d’amélioration. On note un besoin de bienveillance,
+d’écoute, de non-jugement, de non-psychiatrisation. Certaines personnes font état d’un24
+besoin d’autonomisation et d’autoformation pour combler les lacunes des soignant·e·s.
+D’autres expriment l’importance d’un suivi par un·e médecin généraliste, qui sont parfois
+réticent·e·s, pour faciliter le parcours de soin. D’autres pistes sont évoquées concernant
+l’accueil de la personne, comme par exemple la sensibilisation des secrétaires, l’utilisation
+de logiciels permettant d’indiquer un prénom et genre différent de celui indiqué par la
+Sécurité Sociale, le respect du genre lors de l’appel dans la salle d’attente (Caroff, 2019).
+Certains points de vigilance sont aussi à prendre en compte selon le Dr Romano, comme
+garder en tête qu’on peut être transgenre et avoir des enfants, que l’identité de genre est
+indépendante de l’orientation sexuelle ou encore qu’il ne faut pas banaliser le
+retentissement d’un mégenrage malencontreux (Romano, 2022).
+Une autre piste pour l’amélioration de la santé des personnes transgenres serait le
+regroupement de professionnels en réseaux spécialisés. Des organisations innovantes
+dédiées à la transition de genre et à la santé des personnes transgenres ont émergé ces
+dernières années. En France, la Maison Dispersée de Santé de Lille-Moulins a intégré
+l’accompagnement des personnes transgenres dans son projet de structure. Ainsi, une
+équipe se coordonne, constituée de médecins généralistes, infirmier·ère.s secrétaires,
+pédicure-podologue, kinésithérapeutes, orthophonistes, psychologues, et coordinateur·rice
+de soins formé·e·s à l’accompagnement des personnes transgenres, en lien avec une
+pharmacie et une association LGBT+ locale. L’organisation, en plein essor avec 264
+personnes accompagnées en 2017, se veut dépsychiatriser le parcours médical, n’exigeant
+pas de critères d’inclusion pour entamer une transition, ni d’évaluation psychiatrique
+(Askevis-Leherpeux et al., 2019; Klein-Dallant et al., 2019; « La
+Maison de Santé de
+Lille-Moulins - »,
+s. d.).
+Trois obstacles et interrogations sur ces réseaux de santé sont
+cependant évoqués par une petite partie des personnes transgenres : Le premier est que les
+centres spécialisés suivent parfois des recommandations basées sur des études peu
+significatives (Fradelizi, 2020). Le second est que la création de réseaux spécialisés
+pourrait limiter la circulation des connaissances et diminuer l’envie des professionnel·le·s
+de santé de se former, renvoyant directement les patient·e·s vers ces réseaux. Enfin le
+dernier obstacle est relatif aux parcours coordonnés en eux-mêmes qui pourraient devenir
+trop rigides et ne pas laisser assez de place à l’individualité. (Caroff, 2019).
+Même si la coordination des soins des personnes transgenres peut potentiellement
+rencontrer quelques écueils, elle semble aujourd’hui être un moyen d’accéder à des soins
+de qualité par des professionnel·le·s formé·e·s et sensibilisé·e·s, ce qui n’est pas toujours
+25
+le cas dans le système de santé actuel : les personnes transgenres sont victimes de
+discriminations par les professionnel·le·s de santé, ce qui impacte directement leur santé
+physique, mentale et sociale.
+C) Effet de latransphobieetdesreprésentationssurlasantéet
+leparcoursmédical
+1) Monde médical et transphobie : représentations des personnes transgenres
+Même si l’on observe ces dernières années des avancées concernant les
+classifications médicales, la formation et la recherche sur les transidentités, les
+représentations que se font les différents acteurs du monde médical ont des conséquences
+sur la santé des personnes transgenres.
+En effet, les personnes transgenres peuvent rencontrer des situations indésirables
+avec le monde médical. Dans un témoignage, un jeune homme transgenre relate son
+appréhension envers les soignant·e·s : « On espère juste que cela va bien se passer. Est-ce
+que le système de santé est de bonne humeur aujourd’hui ? » (Davis et al., 2021). Les
+consultations médicales peuvent en effet être vectrices de stress, relatif au trajet important
+pour avoir une consultation concernant une transition de genre, au manque de choix
+concernant les professionnel·le·s de santé, au temps d’attente avant d’avoir un
+rendez-vous. La crainte d’être « pathologisé·e » ou de se retrouver face à un·e soignant·e
+manquant de considération fait aussi partie des facteurs de stress (Eyssel et al., 2017), ce
+qui est à mettre en lien avec l’étude de Davis et al. qui conclut que les patient·e·s
+transgenres sont victimes d’une transphobie médicale systémique. La transphobie est
+d’ailleurs plus importante envers les personnes ayant fait une transition à un âge avancé,
+les personnes avec un niveau socio-économique faible et les personnes appartenant à des
+minorités ethniques (Lombardi, 2009). On relève 6 types d’interactions négatives avec le
+corps médical, qui sont l’insensibilité au genre, la manifestation de malaise de la part des
+soignant·e·s, le refus de soins, des soins de moins bonne qualité, des agressions verbales
+ou des soins forcés (Kosenko et al., 2013). En réponse aux comportements des
+soignant·e·s, les personnes transgenres peuvent mettre en place des mécanismes de
+26
+défense, qui se traduisent par des réactions violentes, par l’utilisation de l’ironie et du
+cynisme, mais aussi par l’évitement du monde médical et l’autocensure en anticipation de
+réactions négatives de la part des soignant·e·s. (Caroff, 2019)
+En France, 65% des personnes transgenres auraient subi des propos ou des actes
+transphobes de la part du monde médical (Alessandrin & Espineira, 2014), alors même que
+le code de déontologie médicale stipule dans l’article 7 que le médecin ne doit procéder à
+aucune forme de discrimination envers ses patients (Ordre National des Médecins, 2021).
+Ce principe est retrouvé dans les codes déontologiques ou chartes éthiques des autres
+professions de la santé. Pourtant, comme le montre le témoignage de ces étudiant.e.s en
+médecine français.e.s, ce n’est pas toujours le cas :
+«Aux urgences, les personnes transgenres sont souvent mégenrées6. Parfois
+volontairement,maisaussiparmanquedeconnaissance.Certainsnesaventmêmepasce
+quesignifietransgenre » (Dergham et al., 2022).
+«En pédiatrie j’ai eu une jeune patiente trans de 16 anshospitaliséepouridées
+suicidaires. Elle a étévolontairementmégenréeparlamédecin[de]pédopsychiatrietout
+au long de son hospitalisation (en justifiant qu’à son âge on ne peut pas savoir) »
+(Dergham et al., 2022).
+D’autres personnes transgenres témoignent de la transphobie qu’elles ont subie par
+les professionnel·le·s de santé dans différentes publications :
+« À l'hôpital au moment de faire mes papiers, le médecin dit mon état civil
+masculinàhautevoix.» (Alessandrin & Espineira, 2014)
+« Chez la gynéco : un examen d’une très grandeviolenceverbaleetun"examen
+vaginal"trèsbrutalmalgrémeslarmesetrefus.» (Alessandrin & Espineira, 2014)
+« Lors d'un rendez-vous à un CECOS7pour une autoconservation... celui-ci a
+comparélatransidentitéauclonage"c'estcommeleclonage,cen'estpasparcequenous
+7CECOS : Centre d'Etude et de Conservation des Œufs et du Sperme humains6Mégenrer: attribuer et désigner une personne par un genre qui n’est pas le sien, par exemple en utilisant le
+pronom “elle” en s’adressant à un homme transgenre. Cela peut être volontaire ou involontaire de la part de
+la personne qui mégenre. L’utilisation de l’ancien prénom d’une personne trans (aussi appelé dead name) est
+une forme de mégenrage.27
+pouvonslefaire,qu'ilfautlefaire,ilfautarrêterdecéderàtouteslesfolies"etenchaînant
+questionsetblaguesdéplacées..."Vouscomptezfêterlafêtedesmères?Lafêtedespères?
+Lesdeux?Àunmomentilfautchoisir".» (Alessandrin & Espineira, 2014)
+« Texto, une endocrino m'a répondu au téléphone : "les trans, on fait pas ça."»
+(Lorendeau, 2019)
+« C'était un kiné pour les massages après mammec8qui m'a dit que pour lui ça
+avaitpasàêtreremboursé(iln'apasrefuséd'office,ilm'afaitlarééducationpourqueje
+remobilise mes bras, mais pour les adhérences qui me faisaient mal il m'a dit que "son
+travailétaitfini"alorsqu'unanaprèsjefaisencoredelakinéavecquelqu'und'autre...)»
+(*mammectomie) (Lorendeau, 2019)
+««TuesLéa,turestesLéa.Sicelat’amusedetefaireappelerLéoetdejouerau
+mecc’esttonproblème,maisçatepassera.Moijenechangepastondossier.”Aprèsça,
+j’ai compris qu’il fallait que je change de médecin, mais je mesuissentivraimenttrahi
+danslaconfiancequej’avaisenlui.» (Romano, 2022)
+La transphobie médicale est aussi dénoncée par les associations internationales
+comme françaises, mettant notamment en lumière «les membres de la SoFECT [qui] ont,
+pendant des années, imposé des protocoles inhumains aux personnes trans, sélectionnées
+sur des critères sexistes, homophobes, grossophobes, putophobes, sérophobes, classistes et
+âgistes. »9(Trans-sante.fr, 2020). La Société Française d’Etude et de prise en Charge de la
+Transidentité (SoFECT) a été crée en 2010, auto-proclamée experte des transidentités, elle
+est dénoncée «comme une tentative de préempter le débat, de s’octroyer le monopole de la
+prise en charge des trans et en définitive, de tuer dans l’œuf l’ouverture recherchée au
+départ » par un rapport de l’Inspection Générale des Affaires Sociales (IGAS, 2011). La
+SoFECT a depuis changé de nom pour Trans-santé, espérant effacer les connotations
+transphobes qui y étaient associées, sans pour autant modifier son fonctionnement d’après
+les personnes concernées.
+Autre point notable, l’accès au soin pour les personnes transgenres peut être
+particulièrement vecteur de frais. En fonction des professionnel.le.s consulté·e·s, certains
+9En d’autres termes, les discriminations se portent sur des critères de genre, d’orientation sexuelle, et à
+l’encontre les personnes transgenres grosses, travailleur.euse.s du sexe, contaminé.e.s par le VIH, précaires
+ou âgées.8Mammec : abréviation pour “mammectomie”
+28
+dépassements d’honoraires peuvent s’appliquer. Près d’un tiers des personnes transgenres
+ont dû payer une partie ou la totalité des frais d’hormonothérapie (Lorendeau, 2019), tout
+comme pour certaines interventions, comme la féminisation faciale par exemple, qui sont
+considérées comme de la chirurgie esthétique (Fradelizi, 2020). De plus, les déplacements
+entraînent aussi des frais importants, avec en moyenne 76,23 km pour se rendre au lieu de
+rendez-vous (Lorendeau, 2019). Tous ces frais sont un frein de plus à l’accès au soin, les
+personnes transgenres étant souvent dans des situations financières précaires.
+Ces obstacles et actes transphobes font diminuer la confiance des personnes
+transgenres envers le système de santé (Eyssel et al., 2017), la réponse à leurs besoins en
+santé primaire peut s’en trouver affectée (Davis et al., 2021). «Jen'oseplusretournerchez
+aucunmédecin.» : on retrouve ce type de témoignages provenant de personnes ayant subi
+de la transphobie médicale (Alessandrin & Espineira, 2014). Se pose alors la question de
+l’alliance thérapeutique : comment avoir accès à des soins de qualité quand la relation avec
+les professionnel.les de santé est mutuellement altérée ?
+2) Impact de la transphobie sur la santé mentale
+On peut dégager deux conséquences de la transphobie médicale. Tout d’abord, la
+transphobie a directement un impact sur la santé mentale : 56,37% des personnes
+transgenres interrogées déclarent avoir fait une dépression et 18,31% déclarent avoir fait
+une tentative de suicide à la suite d’actes ou de propos transphobes (Alessandrin &
+Espineira, 2014). Certains troubles peuvent être mis en lien avec ces expériences
+transphobes : symptômes dépressifs et anxieux, troubles de stress post-traumatique, idées
+suicidaires et tentatives de suicide, automutilation, intériorisation d’attitudes négatives
+créant une piètre image de soi (Fradelizi, 2020; Igartua & Montoro, 2015). A notre
+connaissance, il n’existe pas de recherche étudiant l’impact de la transphobie médicale
+seulement, mais on peut supposer que la souffrance qui en découle n’est pas différente de
+celle résultant d’autres situations de transphobie. L’estime de soi peut en effet être aussi
+impactée par la transphobie dite « internalisée » (Austin & Goodman, 2017). Ce terme fait
+référence au mal-être ressenti en lien avec l’internalisation des normes de la société
+concernant l'expression de genre, la transphobie internalisée peut affecter négativement la
+santé des personnes transgenres (Bockting, 2015).
+29
+Une autre conséquence de la transphobie sur la santé mentale est la réduction de
+l’accès au soin ou de la qualité de soins en santé mentale. Le rapport relatif à la santé et
+aux parcours de soins des personnes trans rappelle que « la question de l’accès à la
+psychiatrie pour les personnes trans est marquée par l’histoire de la psychiatrisation des
+personnes transgenres, et par des pratiques rares mais ayant toujours cours,
+surpathologisant les parcours trans, et empêchant le traitement de co-occurrences
+psychiatriques autrement que par le prisme de la transidentité telle que vue par le soignant.
+» (Picard & Jutant, 2022). Aussi, les professionnel·le·s sont parfois amené·e·s à
+pathologiser les variations de genre, ayant pour conséquence la volonté de ramener à une
+identité cisgenre, au risque de provoquer des approches thérapeutiques de conversions10,
+contraires au droit à l’autodétermination des personnes transgenres (Memorandum of
+understandingonconversiontherapyintheuk, 2022). Ces thérapies sont nocives pour les
+personnes transgenres et portent atteinte à leur santé mentale. Par conséquence elles ont été
+interdites en 2022 par le Code de Santé Publique, qui indique que “Le fait de donner des
+consultations ou de prescrire des traitements en prétendant pouvoir modifier ou réprimer
+l'orientation sexuelle ou l'identité de genre, vraie ou supposée, d'une personne est puni de
+deux ans d'emprisonnement et de 30 000 euros d'amende” (LOI n° 2022-92 du 31 janvier
+2022 interdisant les pratiques visant à modifier l’orientation sexuelle ou l’identité de genre
+d’une personne (1), 2022). Les pratiques “médicales” de conversion de genre
+(électrochocs, lobotomies, isolement, médicaments) semblent avoir aujourd'hui laissé place
+à des thérapies de conversion menées par des groupes religieux, toutes aussi nocives pour
+la santé mentale (Charruau, 2020).
+La transphobie médicale a donc de multiples conséquences sur la santé mentale,
+amplifiant la détresse psychologique tout en surpathologisant les transidentités. Mais les
+répercussions ne s’arrêtent pas là : la transphobie a un effet direct sur la santé somatique
+des personnes transgenres.
+10Thérapie de conversion: “Tout traitement, pratique, ou effort soutenu pour réprimer, décourager ou changer
+l’identité, la modalité (p. ex., personne transgenre) ou l’expression de genre d’une personne, son orientation
+sexuelle ou encore ses comportements associés à un genre autre que celui assigné à la naissance, ou à altérer
+un trait intersexe sans justification valable” selon Florence Ashley.30
+3) Impact de la transphobie sur la santé physique
+La transphobie médicale peut amener les personnes transgenres à ne pas faire appel
+au système de santé alors qu’elles en auraient besoin. En effet, de peur d’être maltraitées,
+certaines hésitent à aller consulter alors qu’elles sont inquiètes pour leur santé (Rachlin et
+al., 2008). Une étude canadienne montre qu’un·e adolescent·e transgenre sur cinq ne s’est
+pas rendu·e aux urgences alors que c’était nécessaire, par peur que sa transidentité soit la
+raison de mauvais traitements (Bauer et al., 2014). Les aîné·e·s transgenres sont aussi
+touché·e·s par cette peur de consulter, notamment par crainte qu’on les prive de leurs
+hormones une fois admis en établissement de santé. (Hébert et al., 2012). Certaines
+personnes choisissent de repousser leurs soins (Cruz, 2014), d’autres peuvent être
+réticentes à l’idée de révéler leur transidentité à un professionnel de santé (Safer et al.,
+2016). Tous ces facteurs amènent les collectifs et associations de personnes transgenres à
+répertorier les soignants acceptant de recevoir des personnes transgenres (Caroff, 2019;
+Picard & Jutant, 2022)
+La possibilité et la qualité des soins s’en trouvent alors affectées. Un suivi médical
+de qualité est pourtant souhaitable : on retrouve des risques de surmortalité et de
+dépression chez les personnes transgenre qui ne reçoivent pas des soins optimaux
+(Feldman et al., 2016). Un possible risque de maladie cardiovasculaire liée au traitement
+hormonal est relevé (Feldman et al., 2016), car de nombreuses personnes transgenres ont
+recours à l’automédication hormonale, en partie à cause du nombre limité de médecins
+acceptant de délivrer des traitements hormonaux. (Picard & Jutant, 2022). De manière
+générale, l'hormonothérapie semble augmenter les risques de thrombo-embolie veineuse,
+de calculs biliaires, et de triglycéridémie pour les hormones féminisantes, et de
+polyglobulie et apnée du sommeil pour les hormones masculinisantes. (Fradelizi, 2020).
+La surmortalité est évaluée entre 1,5 fois et 2,8 fois supérieure selon les études sur les
+femmes transgenres, sans particularité concernant les hommes transgenres cependant
+(Fradelizi, 2020), notamment à cause des suicides, infections au VIH et toxicomanie
+(Asscheman et al., 2011).
+En somme, les discriminations impactent directement la santé des personnes
+transgenres qui peuvent pourtant avoir des besoins médicaux importants. Ce paradigme, 31
+intitulé “Stigma-sickness slope”11par un rapport du United Nation Development Program,
+décrit que les stigmatisations entraînent une marginalisation des personnes transgenres, qui
+se retrouvent dans des situations à risque entraînant elles-mêmes de nouvelles
+discriminations. Conjointement à un manque d’accès au soin, cela augmente l’exposition
+aux maladies, et par conséquent la mortalité (Winter, 2012).
+“Stigma-sickness slope”, par Winter, 2012.
+Face à ce constat, agir en faveur de la réduction des discriminations et de l’augmentation
+de l’offre de soin semble être un levier important à l’amélioration de la santé, somatique,
+psychique et sociale des personnes transgenres.
+11La locution “stigma-sickness slope” peut être traduite littéralement par “la pente entre la stigmatisation et la
+maladie”, en référence au lien de causalité entre la stigmatisation subie par les personnes transgenres et la
+mauvaise santé qui en découle.
+32
+Problématique
+Certaines personnes transgenres choisissent de s’adresser aux orthophonistes si
+elles ressentent le besoin de mettre leur voix en adéquation avec leur identité de genre. Les
+transidentités et leur accompagnement orthophonique restent encore peu connus par les
+orthophonistes selon Carine Klein Dallant, coordinatrice de l’ouvrage V oix et
+Transidentités. Or, le manque d’information sur le sujet chez les soignant·e·s, la
+transphobie, les maladresses, ont des conséquences sur la santé des personnes transgenres.
+Les études montrent que les personnes trans sont plus sujettes à certains problèmes de
+santé, et pourtant elles rencontrent des professionnel·le·s non formé·e·s à leurs
+problématiques, et doivent parfois faire face à des refus de soin ou des soins inappropriés,
+en lien ou non avec une démarche de transition de genre. La formation des soignant·e·s
+reste alors un processus essentiel, afin que les personnes transgenres se sentent en sécurité
+dans nos hôpitaux et nos cabinets. La méfiance, légitime en tant que minorité de genre
+subissant encore aujourd’hui des discriminations de toutes parts, concerne l’ensemble du
+système de santé : médecins généralistes, spécialistes, paramédicaux, infirmier·e·s,
+personnel administratif etc.
+Les orthophonistes, en tant que professionnel·le·s paramédicaux, ont alors un rôle à
+jouer dans l’accueil et tout au long du suivi des personnes transgenres, d’une part en ayant
+le devoir de les accueillir dignement dans leurs cabinets pour les accompagnements de
+transition vocale, mais aussi pour recevoir tous·te·s les autres patient·e·s transgenres
+venant consulter pour d’autres problématiques relatives à l’orthophonie. On peut en effet
+être transgenre et aphasique, dyslexique, dysphonique, avoir un trouble du langage oral, de
+la cognition mathématique, de la déglutition, avoir une maladie neuro-évolutive, ou encore
+être aidant·e d’un·e patient·e consultant un·e orthophoniste. L’accès au soin est alors une
+problématique essentielle : les orthophonistes doivent être prêt·e·s à recevoir les personnes
+transgenres pour tout motif de consultation orthophonique, et participer à établir un climat
+de santé bienveillant. Cela passe notamment par la lutte contre les préjugés et par
+conséquent par la formation des orthophonistes, et de manière plus générale des
+professionnel·le·s de santé.
+L’objet du présent mémoire est de décrire les représentations et connaissances
+qu’ont les orthophonistes français·e·s des personnes transgenres. En effet, il est intéressant33
+de faire un état des lieux afin de savoir quels sont les besoins en information sur les
+transidentités et donc proposer une réponse adéquate. Un mémoire concernant les
+étudiant.e.s orthophonistes seulement a déjà été réalisé, qui conclut que leurs
+représentations sur l’accompagnement orthophonique des personnes transgenres sont
+insuffisantes en matière de connaissances théoriques et de pratique professionnelle.
+Cependant il n’existe à notre connaissance pas de recherches concernant les orthophonistes
+diplômé·e·s, pour lesquelles les représentations pourraient être différentes. En fonction des
+observations réalisées dans cet état des lieux, une poursuite possible de ce mémoire
+pourrait être de créer une formation initiale ou continue à destination des orthophonistes en
+partenariat avec des associations de personnes transgenres, par le biais de différents média
+comme une notice d’information, une chaîne Youtube ou encore un site internet.
+34
+II)MATERIELETMETHODE
+Dans le cadre de ce mémoire, élaborer des hypothèses n’est pas nécessaire puisqu’il s’agit de
+dresserunétatdeslieux,defaireunedescriptiondelasituationactuelle.
+A) Choixdel’outiletconceptionduquestionnaire
+L’outil choisi pour répondre à la problématique est un questionnaire en ligne, c’est
+donc une enquête de type dirigée, qui a pour but de révéler des résultats de type descriptifs.
+Il a été estimé que c’était l’outil le plus adapté à ce type d’enquête, afin de toucher un
+maximum d’orthophonistes et de garantir l’anonymat. Le questionnaire a été proposé sur la
+plateforme GoogleForms, le grand public l’utilisant souvent lorsqu’il est question de
+répondre à un questionnaire.
+Le questionnaire est composé d’un texte d’introduction, d’une case à cocher
+préalable pour attester que le ou la répondant.e remplit les critères d’inclusion, de 34
+questions ainsi que d’un message de fin de questionnaire à vocation préventive. Le format
+questionnaire à choix multiple et échelle de Likert a été sélectionné pour sa simplicité, afin
+d’obtenir des réponses sans ambigüité. Les questions ouvertes ont eu pour vocation de
+laisser le ou la répondante développer un point en particulier qui n’aurait pas été abordé
+dans les questions précédentes, ou de compléter ses réponses à ces dernières.
+Il a été choisi de ne pas donner de définition des transidentités afin de ne pas
+modifier les connaissances des répondant·e·s ainsi que leurs représentations. Une
+définition de la non-binarité a cependant été donnée afin que tous les répondant·e·s
+puissent comprendre la question, la notion de non-binarité semblant être parfois plus
+méconnue.
+B)Population
+Deux critères d’exclusion ont été retenus concernant la sélection de la population.
+Le questionnaire a été adressé à des orthophonistes diplômé·e·s, excluant alors les
+étudiant·e·s en orthophonie, qui avaient déjà été interrogé·e·s dans un précédent mémoire.35
+De plus, nous avons choisi d’exclure les orthophonistes ayant été diplômé·e·s dans un
+centre de formation en orthophonie hors de la France : les formations données à l’étranger
+pourraient être différentes de celles données en France, et la culture est également
+différente d'un Pays à l'autre (par exemple le Canada est reconnu pour être un pays très
+ouvert sur les droits et sujets LGBT+). Aucun niveau de formation particulier sur les
+transidentités et leur accompagnement en orthophonie n’a été demandé, afin d’obtenir un
+panel de répondant·e·s diversifié.
+Afin que cette recherche puisse être représentative, le nombre minimum de
+répondant·e·s pour que les statistiques atteignent un seuil de représentativité au niveau de
+confiance de 95% a été calculé à l’aide de la formule de Slovins, avec laquelle on obtient
+un minimum requis de 394 répondant·e·s. Pour ce calcul, le nombre total d’orthophonistes
+en France est tiré de l’étude de la DREES réalisée en 2019 (DREES, 2019). Notre objectif
+est donc d’obtenir à minima 394 réponses.FormuledeSlovins:n=N/(1+Ne2)
+n = échantillon nécessaire
+N =taille de la population = 25607
+e= marge d’erreur acceptable = 0,05
+n = 25 607 / (1+25 607 x 0,05²) = 393,84
+C)Recrutementetprocédured’enquête
+L’objectif des 394 réponses minimum a alors été fixé. Plusieurs moyens de
+diffusion du questionnaire ont été mis en place. Les orthophonistes ont pu être sollicité·e·s
+par mail grâce à une liste de diffusion de près de 4000 adresses mail, récoltées via les
+différentes associations étudiantes qui listent les contacts de professionnels proches de leur
+centre de formation. Les réseaux sociaux ont aussi été utilisés afin de relayer le
+questionnaire : une première publication a eu lieu sur le groupe Facebook “Ortho-infos” le
+14 octobre 2022, suivie d’une relance le 9 décembre 2022.
+Une notice d’information (voir annexe 1) ou un mail explicatif, contenant les
+mêmes informations, ont été fournis aux participant·e·s, reprenant les conditions
+36
+d’inclusion et d'exclusion de l’étude, ainsi que des informations sur la durée du
+questionnaire et sur l’anonymat. Proposer un questionnaire assez rapide à réaliser (entre 5
+et 8 minutes) a semblé être un bon moyen d’inciter les orthophonistes à répondre, tout
+comme la garantie de l’anonymat qui offre la possibilité d’exprimer en toute liberté une
+opinion et des questionnements. Il a aussi été précisé qu’aucune formation ou connaissance
+particulière n’était requise, afin d’encourager tous et toutes les orthophonistes à répondre,
+quel que soit leur niveau de formation ou leur pratique professionnelle.
+Le questionnaire a alors été diffusé pour une durée de 3 mois, entre le 13 octobre et le 13
+janvier, pour des raisons logistiques relatives à la temporalité de l’écriture du Mémoire et
+afin de permettre des relances sur les réseaux sociaux ainsi qu’une large diffusion par mail.
+D) Choixdesquestions
+L'intégralité du questionnaire se trouve en Annexe II.
+Les questions ont été réparties de telle sorte : 9 questions concernant le ou la
+répondante (exemple : date du diplôme, formation ou non sur l’accompagnement vocal des
+personnes en transition de genre) ; 21 questions concernant les représentations sur les
+transidentités, dont 20 sous forme d’affirmation à évaluer avec une échelle de Likert12à 5
+échelons et 1 question ouverte ; 4 questions sur les connaissances orthophoniques et
+médicales, dont 3 sous forme de questionnaire à choix multiple et une question ouverte.
+Toutes les questions ont été rendues obligatoires, sauf la question n°5 qui dépend de la
+réponse donnée à la question n°4. L’ordre de présentation des questions a été généré
+aléatoirement manuellement pour chaque sous-partie, en laissant les questions ouvertes
+comme dernière question de chaque partie.
+1) Questions relatives aux données socio-démographiques
+Les questions concernant le ou la répondante sont des questions garantissant
+l’anonymat mais permettant de constituer des sous-groupes dont les réponses aux questions
+12Une échelle de Likert est un outil statistique permettant aux répondant.e.s d’exprimer leur degré d’accord
+sur une échelle de 3, 5, 7 ou 11 points.37
+suivantes pourraient être intéressantes à discriminer. En effet, il a par exemple été
+démontré que des critères comme l’âge ou la présence dans l’entourage de personnes
+LGBT+ étaient un facteur favorisant l’ouverture sur la question des transidentités
+(Kimberly, 2016). Ici, il a été choisi de demander aux répondant·e·s de renseigner ces
+critères, tout comme par exemple le Centre de Formation Universitaire en Orthophonie
+d’étude, l'ancienneté de leur diplôme, si iels ont déjà reçu des personnes transgenre en
+orthophonie ou encore le sentiment de connaissance sur les transidentités et les éventuelles
+formations concernant l’accompagnement des personnes transgenres. Il a aussi été choisi
+de demander où le questionnaire a été trouvé par le ou la répondante afin d’évaluer des
+biais éventuels, comme par exemple des réponses venant exclusivement d’un groupe
+Facebook d’orthophonistes renseigné·e·s et intéressé·e·s par l'accompagnement des
+personnes transgenres.
+2) Questions sur les représentations
+Les questions concernant les représentations sur les transidentités ont été élaborées
+selon 4 groupes de question, contenant chacun 5 questions. Elles ont été rédigées de sorte à
+obtenir un certain équilibre entre les questions à valence positive et à valence négative à
+l’encontre des personnes transgenres, de même que pour les tournure de phrases à
+l’affirmative ou à la négative. Les questions sont réparties de la façon suivante :
+a) Émotionsetressentisautourdestransidentités
+La perception de ses propres ressentis, émotions et des émotions d’autrui a semblé
+être importante à évaluer car les émotions sont des éléments forts qui modulent les
+interactions physiques, psychiques et sociales (Roy, 2018). La première question est
+inspirée d’un sondage Yougov proposé en population générale, dans le but de pouvoir
+comparer les résultats avec la population des orthophonistes (Yougov, 2021)
+●Si un proche m'annonçait sa transidentité, je réagirais favorablement.
+●Face à une personne transgenre, je me sens à l'aise.
+●Je considère que la transidentité est contraire à mes valeurs.
+●Le sujet des transidentités est tabou pour moi.
+●On peut être transgenre et heureux.se38
+b) Définitionetreprésentationconcernantlestransidentités
+Par ces questions, nous souhaitons observer quelles définitions générales se fait
+l’orthophoniste de la transidentité, que ce soit sur des éléments factuels ou
+représentationnels. La première question a été inspirée de l’étude d’Espiñeira dans le but
+de pouvoir comparer la vision des représentations médiatiques par les personnes
+transgenres et par les orthophonistes (Espiñeira, 2013)
+●Je pense que les médias véhiculent de bonnes représentations concernant les
+transidentités.
+●Je considère qu'il y a une différence entre le sexe et le genre.
+●La transidentité est un effet de mode.
+●La transidentité est un choix.
+●Il est aisé pour moi de concevoir que certaines personnes puissent être non-binaires.
+(Non-binarité : le fait de ne pas se reconnaître dans la binarité homme/femme)
+c) Représentationsautourdudomainemédical
+Les questions suivantes portent de manière plus précise sur la représentation des
+transidentités en lien avec le domaine de la santé. Il a été choisi d’inclure des questions
+générales et d’autres questions en lien avec la pratique orthophonique des répondant·e·s.
+La première question a été inspirée d’un sondage de l’IFOP proposé en population
+générale française, afin de pouvoir faire des comparaisons avec la population des
+orthophonistes (IFOP, 2019).
+●Selon moi, la transidentité est un trouble psychiatrique ou psychologique.
+●Je crains que l'image que mes patient·e·s et mes collègues ont de mon cabinet ou de
+ma pratique professionnelle puisse être affectée négativement si je m'investis dans
+l'accompagnement vocal des personnes transgenres.
+●La transition de genre médicale (hormonothérapie, opérations, orthophonie...) ne
+devrait pas être prise en charge par la sécurité sociale.
+●Les personnes transgenres souffrent peu de discriminations dans le domaine
+médical.
+39
+●Le suivi médical et paramédical des personnes transgenres est un suivi difficile qui
+demande plus de ressources et d’énergie aux professionnels de santé,
+comparativement au suivi d’autres patients.
+d) Respectdel’autodéterminationetcadrelégal
+Ces dernières questions permettent elles aussi de faire ressortir les représentations
+personnelles des orthophonistes et donnent des indications sur leurs capacités à respecter
+l'autodétermination des personnes transgenres qui viennent les consulter, ainsi que leurs
+opinions sur le cadre légal dans lequel elles évoluent : ce sont des éléments qui nous ont
+semblé important d’évaluer car en lien direct avec la création d’une bonne alliance entre la
+personne et l’orthophoniste. La première question a été inspirée d’une étude de Kimberly,
+proposée en population générale française, afin d’établir une comparaison avec la
+population des orthophonistes (Kimberly, 2016).
+●Il est important que les personnes transgenres puissent avoir accès facilement à un
+changement d'état civil si elles le souhaitent.
+●Je trouve qu'il est important d'utiliser le prénom et les pronoms que mon
+interlocuteur ou interlocutrice me demande d'utiliser. (Par exemple, pour une
+personne en transition de genre féminin, j'utilise le pronom "elle" ainsi que le
+prénom féminin choisi.)
+●Pour moi, un homme transgenre n'est pas un vrai homme ; une femme transgenre
+n'est pas une vraie femme.
+●Les parcours de transition ne devraient pas être ouverts aux personnes mineures
+(changement de prénom et pronoms, bloqueurs de puberté, opérations, etc.).
+●Les personnes transgenres devraient essayer de suivre une thérapie au lieu de
+transitionner.
+3) Questions sur les connaissances médicales et orthophoniques
+Enfin, les questions concernant les connaissances ont été élaborées pour évaluer les
+connaissances médicales générales sur les transidentités, les connaissances sur les
+40
+différents professionnels travaillant pour l’accompagnement des personnes transgenres
+ainsi que les connaissances sur les axes de travail orthophonique. La forme du
+questionnaire à choix multiple a été utilisée pour cette partie, le ou la répondante devant
+cocher les informations dont iel avait déjà connaissance. Les différents choix multiples
+proposés ont été vérifiés ou tirés de l’ouvrage V oix et Transidentités (Klein-Dallant et al.,
+2019).
+En fin de questionnaire, il a été choisi d’inclure une phrase de prévention avant la
+validation définitive du questionnaire. Le but de cette phrase était d’informer que ce
+questionnaire était à visée de recherche, et que les propos déplacés sont à proscrire dans la
+vie quotidienne : ce questionnaire ne doit servir en aucun cas à légitimer des propos
+transphobes.
+E)Pré-test
+Avant d’être diffusé aux orthophonistes, le questionnaire a été proposé à des
+étudiant·e·s en orthophonie afin de relever d’éventuels problèmes dans la formulation des
+questions qui entraîneraient des difficultés de compréhension. Douze étudiantes ont rempli
+le questionnaire, leur retour a permis de modifier une question qui n’avait pas été comprise
+par toutes de prime abord.
+F)Procédured’analyse
+Nous avons donc récolté 2 types de données qui ont dû être analysées de manière
+différente :
+●Les données chiffrées ont été analysées avec le logiciel Statistica permettant de
+réaliser des tests de Chi² et des tests de différence de proportion. Le test de Chi² et
+le test de différence de proportion permettent de montrer une différence
+significative entre deux groupes ou deux proportions pour p < 0.05.
+●Les statistiques descriptives ont aussi été utilisées et traitées, afin de produire des
+pourcentages, modes, moyennes et représentations graphiques sur le logiciel Excel.
+41
+●Les données textuelles ont fait l’objet d’une analyse qualitative ayant pour but de
+récolter des éléments précis sur les représentations et connaissances des
+orthophonistes.
+Certaines données ont dû être modifiées afin de pouvoir être analysées. C’est le cas des
+données récoltées pour une question qui laissait une possibilité de réponse « autre ». Les
+réponses exprimant une idée similaire ont été regroupées entre elles, créant de nouvelles
+catégories.
+Pour la question « Avez-vous déjà reçu en consultation des personnes transgenres
+dans votre cabinet / lors de votre exercice salarié ? Si vous avez répondu non, pourquoi ? »,
+5 nouvelles catégories ont été ajoutées pour l’analyse :
+●“Car mon exercice est dédié spécifiquement à un autre domaine de l'orthophonie.”
+●“Car je ne fais pas de rééducation de la voix de manière générale.”
+●“Car cela ne devrait pas faire partie du champ de compétence des orthophonistes
+selon moi.”
+●“Car mon lieu de travail n’est pas assez sécurisé pour que je puisse accueillir des
+personnes transgenres.”
+●“Réponse non analysable” (exemple: “Une de mes collègues est formée et a déjà
+reçu un patient concerné”)
+42
+III)RESULTATSETDISCUSSION
+A)Analysedesrésultats
+Le questionnaire a obtenu 724 réponses, soit un effectif supérieur aux 394 réponses
+nécessaires pour que l’échantillon soit représentatif de la population des orthophonistes.
+Les résultats sont donc significatifs à un indice de confiance de 95%.
+1) Données socio-démographiques
+Tableau 1 : Provenance de la sollicitation à remplir le questionnaire (réponse à la question 9):
+Réponse Pourcentagedesrépondant·e·s
+Reçu par mail 63,6%
+Sur le groupe Facebook Ortho-infos 23,6%
+Sur le groupe Facebook Sdorpacac FNO 6,62%
+Dans une newsletter 3,31%
+Partagé par une connaissance 2,07%
+Le questionnaire ayant bénéficié de moyens de diffusion multiples, il semblait
+intéressant de pouvoir analyser la source de la sollicitation pour les répondant·e·s. Ainsi, la
+grande majorité des réponses ont fait suite à une sollicitation par mail ou sur Facebook, on
+note cependant des partages spontanés d’orthophonistes à leurs connaissances, sur d’autres
+groupes Facebook ou encore dans une newsletter : ceci marque un intérêt des
+orthophonistes pour la thématique des transidentités, comme le montre aussi le nombre de
+réponses totales au questionnaire. Il est à noter que le questionnaire n’a pas été diffusé sur
+le groupe Facebook spécialisé “Orthophonie, voix et transidentité” de manière volontaire
+dans le but de limiter l’éventuel biais de sélection, afin de ne pas créer de
+sur-représentation des orthophonistes intéressé·e·s et spécialisé·e·s dans
+l’accompagnement à la transition vocale. Les résultats montrent que les orthophonistes
+internautes elles.eux-même n’ont pas diffusé le questionnaire sur ce groupe spécialisé.
+43
+Figure 1
+Figure 1: Centre de formation des répondant·e·s (réponse à la question 1)
+Concernant le Centre de Formation Universitaire en Orthophonie (CFUO), le
+nombre de réponses par ville est très hétérogène, allant de 1 réponse pour le CFUO de
+Clermont-Ferrand à 174 réponses pour le CFUO de Paris, ce qui peut-être être expliqué
+seulement en partie par une différence d’effectifs des orthophonistes diplômé·e·s des
+différents CFUO. Certains CFUO ne sont pas représentés car il n’y a pas encore eu de
+promotion diplômée.
+Tableau 2: âge des répondant·e·s (réponses à la question 2)
+Pourcentage
+Age des
+répondant·e·sMoins de 30 ans 20,4%
+Entre 30 et 40 ans 34,7%
+Entre 40 et 50 ans 21,4%
+Plus de 50 ans 23,5%
+44
+
+Tableau 3: Date de diplômes des répondant·e·s (réponses à la question 3)
+Pourcentage
+Date de
+diplôme des
+répondant·e·sMoins de 10 ans 38,7%
+Entre 10 et 20 ans 26,9%
+Entre 20 et 30 ans 19,3%
+Plus de 30 ans 15,1%
+Le questionnaire semble avoir davantage intéressé les orthophonistes les plus
+jeunes diplômé·e·s puisque 38,7% sont diplômé·e·s depuis moins de 10 ans, contrastant
+avec les orthophonistes diplômé·e·s depuis plus de 30 ans qui constituent seulement
+15,1%. En termes de tranche d’âge, on retrouve cependant une répartition plus homogène,
+avec une majorité des orthophonistes ayant entre 30 et 40 ans. Ces données semblent
+montrer un intérêt réparti de manière plutôt homogène entre les tranches d’âges.
+2) Liens professionnels et personnels aux transidentités
+a) Pratiqueorthophoniqueettransidentités
+Les orthophonistes devaient répondre à des questions permettant de mieux
+comprendre leur activité professionnelle relative à l’accompagnement des personnes
+transgenres en orthophonie.
+45
+Figure 2
+Figure 2 : Proportion des répondant·e·s ayant déjà reçu des personnes transgenres dans leur cabinet
+/ lors de leur exercice salarié (réponses à la question 4)
+Tableau 4 : Raisons pour lesquelles les répondant·e·s n’ont jamais reçu de personnes transgenres
+(réponses à la question 5 (conditionnées à la réponse “non” à la question 4)).
+Raisonévoquée Nombrede
+répondant·e·s
+Car je n'ai jamais reçu de demande. 494
+Car je ne me sens pas assez formé·e par rapport à la demande. 54
+Car mon exercice est dédié spécifiquement à un autre domaine de l'orthophonie. 23
+Car je ne suis pas intéressé·e. 14
+Car je ne fais pas de rééducation de la voix de manière générale. 4
+Car cela ne devrait pas faire partie du champ de compétence des orthophonistes. 2
+Car mon lieu de travail n’est pas assez sécurisé pour accueillir des personnes transgenres 1
+Car je ne me sens pas à l'aise avec ces patient·e·s. 1
+Réponse non-analysable. 1
+Ainsi, la très grande majorité des répondant·e·s (82,60%) n’ont jamais reçu de
+personne transgenre en consultation, dans le cadre d’un accompagnement à la transition
+46
+
+vocale ou d’une prise en soin orthophonique autre. La principale raison évoquée est qu’iels
+n’ont jamais reçu de demande. Cependant, la prise en charge de la voix n’est réalisée que
+par 43,80% des orthophonistes (Giovanne, 2012) : bien que l’orthophonie soit une
+discipline sans spécialisation, on peut présumer que les médecins prescripteurs adressent
+leurs patient·e·s aux orthophonistes connu·e·s pour être être des références dans certains
+domaines. De plus, les associations LGBT+ et les personnes transgenres développent des
+annuaires de personnes dites “safe” et formées à la santé LGBT+ (Caroff, 2019; Picard &
+Jutant, 2022). On peut alors supposer que s’il y a si peu d’orthophonistes recevant de
+personnes transgenres, c’est en partie le résultat d’un cloisonnement du réseau de santé
+LGBT+, créé par un transmission d’un répertoire entre les professionnels et les personnes
+transgenres, ainsi qu’entre les personnes transgenres elles-mêmes.
+Tous et toutes les orthophonistes ne sont toutefois pas intéressé·e·s par ce type
+d’accompagnement, les amenant à ne pas recevoir de personnes transgenres. 50,3% ne
+souhaitent d’ailleurs pas se former à leur accompagnement (cf réponses à la question 6).
+Parmi les 724 réponses, on relève seulement 3 réponses marquant une certaine hostilité vis
+à vis des transidentités comme raison au non-accompagnement de personnes transgenres, 2
+personnes évoquant que cela ne devrait pas faire partie du champ de compétence des
+orthophonistes, 1 personne évoquant ne pas accompagner de personne transgenre car cela
+la ferait se sentir mal à l’aise. Ces réponses restent donc marginales, on peut conclure que
+des potentielles difficultés d’accès à l’accompagnement orthophonique des personnes
+transgenres n’est pas à mettre en regard d’un refus de soin par hostilité à leur égard. Un·e
+autre orthophoniste évoque n’avoir jamais reçu de personne transgenre en raison d’un
+sentiment d’insécurité pour les personnes transgenres qui viendraient consulter au cabinet
+d’orthophonie. Cette notion de sécurité, bien qu’étant évoquée seulement par une
+participante sur l’ensemble du questionnaire, doit être porteuse de questionnements : quels
+sont les retentissements sur l’accès à l’orthophonie, et au soin de manière générale, par
+crainte des agressions ? Comment améliorer la sécurité des personnes transgenres dans les
+cabinets d’orthophonie et les établissements de santé, ainsi que lors des trajets pour s’y
+rendre ?
+Les réponses à cette question 5 restent toutefois à interpréter avec prudence. Au
+travers de l’espace d’expression libre dans les questions ouvertes, plusieurs orthophonistes
+ont fait mention que différents facteurs peuvent entrer en jeu dans le fait de ne jamais avoir
+reçu de personnes transgenres. Le questionnaire laissant la possibilité de cocher seulement47
+une seule case, ces réponses nous donnent une indication de la raison principale à ce
+non-accompagnement sans pour autant prendre en compte la multiplicité des raisons.
+Figure 3
+Figure 3: Formation sur l’accompagnement orthophonique des personnes transgenres (réponses à la
+question 6)
+D’autre part, certain·e·s orthophonistes évoquent un sentiment de formation
+insuffisante à l’accompagnement de personnes transgenres : 73,5% disent ne jamais avoir
+reçu de formation à l’accompagnement à la transition vocale. 10,10% des orthophonistes
+ont fait le choix de s’y former après leurs études, formations qui intéresserait près d’un
+tiers des orthophonistes non-formé·e·s, ce qui représente une part non négligeable et
+montre un attrait pour ce type d’accompagnement. Or, seulement 16,40% des
+orthophonistes interrogé·e·s ont suivi une formation aux cours de leurs études. Le
+questionnaire interrogeant des orthophonistes diplomé·e·s depuis de nombreuses années,
+des évolutions dans les enseignements donnés ont pu avoir lieu. Toutefois, la formation sur
+l’accompagnement des personnes transgenres n’est pas proposée de manière systématique
+au sein des CFUO. Il semble aujourd’hui indispensable que les CFUO actualisent leurs
+cours pour à minima évoquer et informer sur ces accompagnements, au regard de l’intérêt
+porté par les futur·e·s orthophonistes (Bosqué, 2020).
+48
+
+b) Sensibilisationpersonnelleauxtransidentités
+Les orthophonistes devaient aussi répondre à des questions permettant d’évaluer
+leur imprégnation personnelle au sujet de la transidentité.
+Figure 4
+Figure 4 : Sentiment d’information suffisante sur les transidentités de manière générale (réponses à
+la question 7)
+Les résultats montrent que le sentiment d’information générale sur les transidentités
+est assez hétérogène. Seulement 29,1% déclarent se sentir bien informé·e·s, 70,9%
+déclarent ne pas se sentir informé·e·s ou pas assez. Bien que cela ne concerne pas
+directement l’accompagnement orthophonique, il semble important de souligner que ce
+manque d'information générale peut avoir un impact sur la façon dont sont reçues les
+personnes transgenres par les orthophonistes : comment être sûr·e de mettre à l’aise, de ne
+pas commettre d’impairs ou de ne pas poser de questions intrusives quand on manque
+d’information sur la notion même de la transidentité et de ce qu’elle implique ?
+49
+
+Figure 5
+Figure 5 : Présence de personnes faisant partie de la communauté LGBT+ dans l’entourage
+(réponses à la question 8)
+Les résultats à cette question nous montrent que 53% des orthophonistes déclarent
+avoir des proches et 34,1% des connaissances faisant partie de la communauté LGBT+, ce
+qui est prédicteur d’un meilleur soutien pour les personnes transgenres selon Kimberly
+(2016). On peut donc espérer que le manque d’information sur les transidentités de
+manière générale puisse être compensé par une certaine ouverture aux transidentités
+relative à la présence de personnes LGBT+ dans l’entourage, ce que nous allons voir par le
+biais de l’analyse des représentations personnelles.
+3) Analyse quantitative des représentations personnelles
+Pour les réponses aux questions 10 à 29, les participant·e·s ont répondu aux questions à
+l’aide d’une échelle de Likert selon les modalités suivantes :
+1. Pas du tout d'accord
+2. Pas d'accord
+3. Ni en désaccord ni d'accord
+4. D'accord
+5. Tout à fait d'accord50
+Réponse la moins fréquente Réponse la plus fréquente (mode)
+a) Émotionsetressentisautourdestransidentités
+Tableau 5 : Réponses aux questions portant sur les émotions et ressentis
+Questions 12345
+11) Face à une personne transgenre, je me sens à l'aise. 4,3% 6,9% 24,4%34,5% 29,8%
+14) Je considère que la transidentité est contraire à mes valeurs. 80,5% 10,4% 5,7% 2,2% 1,2%
+19) Si un proche m'annonçait sa transidentité, je réagirais
+favorablement.1% 3,2% 18,2% 36,3%41,3%
+27) On peut être transgenre et heureux·se. 0,8% 0,7% 6,8% 21,8%69,9%
+29) Le sujet des transidentités est tabou pour moi. 80,4% 14,1% 2,6% 1% 1,9%
+Pour les cinq questions permettant d’analyser les émotions et ressentis au sujet des
+transidentités, les opinions sont souvent très tranchées, avec des modes statistiques dans la
+classe 1 ou 5 pour quatre des questions. Ainsi, la grande majorité des orthophonistes
+conçoivent que les personnes transgenres puissent être heureuses. Iels se sentent à l’aise
+face à une personne transgenre pour 64,3% (effectif cumulé “d’accord” et “tout à fait
+d’accord”), ce qui est significativement moins que pour les étudiant·e·s en orthophonie (
+70,6% en effectif cumulé “plutôt d’accord” et “d’accord” (Bosqué, 2020); (p = 0,0131).
+Les transidentités ne sont pas considérées comme taboues (94,5% des
+répondant·e·s) ou contraires aux valeurs personnelles (90,9% des répondant·e·s) pour la
+grande majorité des orthophonistes (effectif cumulé “pas du tout d’accord” et “pas
+d’accord”). On relève une différence significative (p < 0,0001) avec le reste de la
+population française concernant un potentiel coming-out transgenre d’une personne de
+l’entourage : 77,6% des répondant·e·s estiment avoir une réaction favorable (effectif
+cumulé “d’accord” et “tout à fait d’accord”), contre seulement 47% des français·e·s de
+manière générale. Ces résultats sont indicateurs d’un ressenti personnel différent de celui
+des français·e·s, avec une meilleure acceptation dans la sphère personnelle. Ce
+51
+
+pourcentage reste cependant en deçà d’autres populations européennes, avec par exemple
+87% de réactions favorables chez les Espagnols (Yougov, 2021).
+De manière globale, on peut estimer que les orthophonistes ont des émotions et
+ressentis au sujet des transidentités qui restent positifs pour la grande majorité. Ces
+éléments émotionnels, qui interviennent de manière importante dans les communications
+interpersonnelles, semblent être de bons prédicteurs à la création d’une relation
+thérapeutique convenable avec des personnes transgenres.
+b) Définitionetreprésentationconcernantlestransidentités
+Tableau 6 : Réponses aux questions portant sur la définition et représentation des transidentités
+Questions 12345
+10) La transidentité est un effet de mode. 57,5% 20,4% 16,4% 4,7% 1%
+13) Il est aisé pour moi de concevoir que certaines personnes
+puissent être non-binaires. (Non-binarité : le fait de ne pas se
+reconnaître dans la binarité homme/femme)5,1% 16,9% 23,2%28,4% 26,4%
+15) Je considère qu'il y a une différence entre le sexe et le
+genre.4,8% 3,2% 21,4% 32,7%37,8%
+23) Je pense que les médias véhiculent de bonnes
+représentations concernant les transidentités.8% 32,7%48,9% 9,4% 1%
+24) La transidentité est un choix. 34,4% 21,3% 24% 10,2% 10,1%
+Tout d’abord, la valence des représentations médiatiques des transidentités est
+perçue comme assez neutre par presque la moitié des répondant·e·s, avec une tendance à
+les estimer comme étant plutôt négatives pour près d’un tiers. Ces résultats montrent une
+certaine difficulté à percevoir les affronts médiatiques subis par les personnes transgenres,
+décrites comme de véritables “paria médiatiques” par Karine Espineira, sociologue. Les
+médias pouvant être une source d’influence sur les représentations personnelles, avoir une
+meilleure conscience de ces dérives médiatiques pourrait être profitable aux orthophonistes
+souhaitant s’informer sur les transidentités par les médias communs.
+52
+D’autre part, si seulement 5,7 % considèrent que les transidentités sont le résultat
+d’un effet de mode (effectif cumulé “d’accord” et “tout à fait d’accord”), 20,3%
+considèrent qu’elles sont le résultat d’un choix (effectif cumulé “d’accord” et “tout à fait
+d’accord”), et 24% sont neutres sur cette même question. Ces résultats interrogent sur les
+représentations de la définition même des transidentités : si faire son coming-out et
+entamer une transition de genre est un choix, le sentiment d’appartenir à un genre différent
+en est-il vraiment un ? Par ailleurs, la notion de différence entre les termes “sexe” et
+“genre” semble être comprise par la majorité des orthophonistes, bien que 8% ne fassent
+pas la différence (effectif cumulé “pas du tout d’accord” et “pas d’accord”). La notion de
+non-binarité semble plus difficile à concevoir pour 22% des répondant·e·s (effectif cumulé
+“pas du tout d’accord” et “pas d’accord”).
+Ainsi, la définition des transidentités semble être encore parfois incomplète pour
+certain·e·s orthophonistes qui, s’iels souhaitaient s’informer, n’ont pas toujours conscience
+de l’image négative renvoyée par les médias.
+c) Représentationsautourdudomainemédical
+Tableau 7 : Réponses aux questions portant sur le domaine médicalQuestions 12345
+12) Selon moi, la transidentité est un trouble psychiatrique ou
+psychologique.69,9% 13,8% 10,2% 4,1% 1,9%
+17) Je crains que l'image que mes patient·e·s et mes collègues
+ont de mon cabinet ou de ma pratique professionnelle puisse
+être affectée négativement si je m'investis dans
+l'accompagnement vocal des personnes transgenres.83% 11,6% 2,9% 0,6% 1,9%
+20) La transition de genre médicale (hormonothérapie,
+opérations, orthophonie...) ne devrait pas être prise en charge
+par la sécurité sociale.58,4% 22,1% 13,8% 3% 2,6%
+25) Les personnes transgenres souffrent peu de
+discriminations dans le domaine médical.36,5% 34,7% 23,3% 3,7% 1,8%
+26) Le suivi médical et paramédical des personnes transgenres
+est un suivi difficile qui demande plus de ressources et
+d’énergie aux professionnels de santé, comparativement au
+suivi d’autres patient·e·s.11,9% 25,4%38,1% 19,2% 5,4%
+53
+Ces questions ont pour but de décrire les représentations médicales autour des
+transidentités. Ces dernières sont perçues comme n’étant absolument pas le résultat d’un
+trouble psychiatrique ou psychologique pour près de 70% des répondant·e·s, avec à
+l’opposé 6% des répondant·e·s qui les perçoivent comme tel (effectif cumulé “d’accord” et
+“tout à fait d’accord”). Ce dernier chiffre monte à 39% en population française générale
+(IFOP, 2019), ce qui nous indique une représentation des orthophonistes significativement
+différente (p < 0,0001) et bien plus ajustée sur le mouvement de dépsychiatrisation des
+transidentités, soutenu dans le DSM-V et la CIM-11. Aussi, la majorité des répondant·e·s
+ont conscience que les personnes transgenres subissent des discriminations par les
+professionnel·le·s de santé. L’opinion sur cette question est cependant moins polarisée que
+pour d’autres questions, avec une répartition plutôt homogène entre “pas du tout d’accord”
+(36,5%), “d’accord” (34,7%) et “ni en désaccord ni d’accord” (23,3%) : l’émergence de
+cette conscience des discrimination est un élément important pour les orthophonistes afin
+de comprendre les difficultés rencontrées par les personnes transgenres et les différents
+freins à leur santé. On note une part importante d’orthophonistes qui supportent la prise en
+charge des transitions de genre par la sécurité sociale avec cependant une quantité non
+négligeable de répondant.e.s ayant un avis neutre sur la question (13,8%), ou n’y étant pas
+favorable (5,6% en effectif cumulé “d’accord” et “tout à fait d’accord”). Cela pourrait
+avoir une influence sur la relation et la représentation que l’orthophoniste se fait de la
+personne transgenre, qui sollicite un accompagnement dont le remboursement par la
+sécurité sociale n’est pas perçu comme justifié pour certain·e·s.
+De manière spécifique à leur pratique orthophonique, les répondant·e·s expriment
+très peu de crainte de perception d’une image négative de leur cabinet ou pratique
+professionnelle si iels reçoivent des personnes transgenres. Cependant, les répondant·e·s
+ont pour certain·e·s l’image d’un accompagnement qui peut demander plus de ressources
+et d’investissement de la part de l’orthophoniste par rapport à d’autres prises en soins. Les
+avis sont très hétérogènes avec une majorité de répondant·e·s qui ne sont “ni en désaccord,
+ni d’accord”. On peut supposer que cette représentation d’un accompagnement difficile
+peut freiner l’envie de certain·e·s orthophonistes de s’investir auprès de personnes
+transgenres.54
+d) Respectdel’autodéterminationetcadrelégal
+Tableau 8 : réponses aux questions portant le respect de l’autodétermination et cadre légal
+Questions 12345
+16) Je trouve qu'il est important d'utiliser le prénom et les pronoms
+que mon interlocuteur ou interlocutrice me demande d'utiliser. (Par
+exemple, pour une personne en transition de genre féminin, j'utilise
+le pronom "elle" ainsi que le prénom féminin choisi.)1,8% 0,6% 2,5% 14%81,2%
+18) Les personnes transgenres devraient essayer de suivre une
+thérapie au lieu de transitionner.63,5% 17,5% 14,5% 3,2% 1,2%
+21) Il est important que les personnes transgenres puissent avoir
+accès facilement à un changement d'état civil si elles le souhaitent.2,9% 3% 10,8% 26,7%56,6%
+22) Pour moi, un homme transgenre n'est pas un vrai homme ; une
+femme transgenre n'est pas une vraie femme.55,7% 19,3% 17,3% 5% 2,8%
+28) Les parcours de transition ne devraient pas être ouverts aux
+personnes mineures (changement de prénom et pronoms, bloqueurs
+de puberté, opérations, etc.).18,2% 18,8%33,7% 19,2% 10,1%
+Les orthophonistes semblent respecter l'autodétermination des personnes
+transgenres : 95,2% expriment qu’il est important d'utiliser le prénom et les pronoms que
+les interlocuteurs demandent d'utiliser (effectif cumulé “d’accord” et “tout à fait
+d’accord”), la majorité est en désaccord avec le fait que les hommes transgenres ne sont
+pas de vrais hommes et que les femmes transgenres ne sont pas de vraies femmes.
+Concernant l’accès au parcours de transition pour les personnes mineures, les
+répondant·e·s ont des opinions très hétérogènes avec une majorité de réponses neutres. Iels
+sont 56,6% à soutenir un changement d’état civil accessible facilement pour les personnes
+transgenres et 5,9% à ne pas y être favorable (effectif cumulé “pas du tout d’accord” et
+“pas d’accord”), contre 10,7% en population française générale (Kimberly, 2016), ce qui
+montre une certaine ouverture sur la question par rapport au reste de la population
+française. De manière générale, ce respect de l'autodétermination des personnes
+transgenres semble être un prédicteur positif pour la création d’alliance entre les
+orthophonistes et les personnes transgenres qui viennent les consulter.
+Cependant, il semblerait que les orthophonistes ne soient pas accordé·e·s sur le
+droit français en ce qui concerne les thérapies à but de conversion vers une identité
+cisgenre. En effet 4,4% estiment que les personnes transgenres devraient suivre une
+55
+thérapie au lieu de transitionner (effectif cumulé “d’accord” et “tout à fait d’accord”),
+14,5% sont neutres sur la question : depuis janvier 2022, ces thérapies sont strictement
+interdites par la loi, qui dispose que “Le fait de donner des consultations ou de prescrire
+des traitements en prétendant pouvoir modifier ou réprimer l'orientation sexuelle ou
+l'identité de genre, vraie ou supposée, d'une personne est puni de deux ans
+d'emprisonnement et de 30 000 euros d'amende” (LOI n° 2022-92 du 31 janvier 2022
+interdisant les pratiques visant à modifier l’orientation sexuelle ou l’identité de genre d’une
+personne (1), 2022). Bien que la loi soit récente, les orthophonistes doivent alors veiller à
+ne pas recommander ces pratiques ou inciter leurs patient·e·s à suivre des thérapies dans le
+but de maintenir une identité cisgenre. Un suivi psychologique est certes parfois nécessaire
+mais ne doit pas viser à “réparer” la personne.
+4) Analyse qualitative des représentations personnelles
+Réponses à la question 30 :
+a) Unedemandedesensibilisationauxtransidentités
+Tout d’abord, de nombreux·ses répondant·e·s indiquent avoir le sentiment d’un
+manque de sensibilisation sur le sujet, aussi bien personnel que pour la population de
+manière générale. Certain·e·s révèlent faire preuve de perplexité, de curiosité, ou
+d’incompréhension sur le sujet, parfois perçu comme un “mystère”.
+“JenesaisRIEN.Onenparleaujourd'hui,commesic'étaituneévidencepourtous.C'est
+faux”
+Une partie des répondant·e·s se disant mal à l’aise face à une personne transgenre
+explique que cela est dû à une impression de ”marcher sur des œufs”, par “peur de
+blesser”, de “dire quelque chose de travers” qui serait transphobe par manque de
+connaissances. Certain·e·s évoquent des difficultés à identifier ce qui “se dit et se demande
+ou pas”, mais aussi des difficultés à “utiliser le lexique”. En effet, les réponses aux
+questions ouvertes montrent que de nombreux·ses orthophonistes utilisent à mauvais
+escient la terminologie, marquant un manque de connaissance et de compréhension de la
+nature même de transidentités : on retrouve régulièrement une inversion du sens des termes
+56
+“femme transgenre” et “homme transgenre”, un amalgame avec l’orientation sexuelle, ou
+encore l’utilisation de termes inadaptés comme “transformation” ou “transsexuel”.
+Une partie importante des répondant·e·s, plus sensiblisé·e·s sur les transidentités,
+soulignent l’importance de l’information en évoquant leur cheminement de pensée
+personnel. On retrouve ainsi beaucoup de réponses décrivant les transidentités comme un
+sujet “intéressant”, avec des répondant·e·s n’hésitant pas à se définir comme “très à l’aise”
+et même “militant”, utilisant l’écriture inclusive ainsi que des termes précis :
+“Ma représentation a changé en m’informant. Cela ôte certains préjugés. Plus on
+apprend,plusondevienttolérant.”
+“C'est une réalité que j'ai découvert il y a seulement quelques années, que je ne
+connaissaispasdutout.Depuis,entantquefemmecis,j'essayedem'informerenécoutant,
+lisant, suivant sur les réseaux sociaux... les personnesconcernéesafind'appréhenderau
+mieux leur réalité, leur vécu et les discriminations auxquelles ces personnes sont
+confrontées.”
+On retrouve aussi de nombreuses réponses qui se rapportent à un courant
+philosophique, l’Universalisme, définie par le CNRTL comme “toute doctrine qui
+considère la réalité comme un tout unique, ce qui revient à dire universel, dans lequel les
+individus ne peuvent être isolés, si ce n'est par abstraction”. En effet, une part importante
+des réponses défendent l’idée d’une société où les différences, et donc la transidentité, ne
+devraient pas être vectrices de discriminations de par notre appartenance commune à
+l’Humanité.
+“Disons que ça n'a pas d'importance qui les gens sont. Homme, femme,
+non-binaire...Onrestehumain”
+Partant d’une intention d’acceptation des minorités, cette représentation de la
+différence peut interroger sur la capacité à aussi considérer l’autre dans sa singularité et
+son vécu, et à considérer les oppressions vécues par les personnes transgenres.
+57
+b) Unenécessitéd’informationenréponseàdesreprésentationsvariées
+D’autre part, on retrouve aussi une notion de “souffrance”, “mal-être”, de “parcours
+difficile” et “compliqué” exprimé par un grand nombre de répondant·e·s, qui souligne le
+“courage” et parfois une certaine “admiration” pour les personnes transgenres. Ces termes
+relatifs à la souffrance sont employés en lien avec la dysphorie de genre et la transphobie,
+mais la souffrance est aussi caractérisée par certain·e·s comme étant la source même de la
+transidentité, symptôme d’une jeunesse en détresse, présentant des troubles psychologiques
+ou psychiatriques. On retrouve la mention à de multiples reprises qu’il existerait des vraies
+et des fausses personnes transgenres, les fausses étant des personnes représentant un
+“danger”, “beaucoup trop nombreuses”, perçues comme jeunes, perdues, influencées par
+les réseaux sociaux, la “propagande” ou les courants féministes.
+“[nécessitéde]fairelapartdeschosesentretroublepsychiatriques,psychologiques,effet
+de "mode" (consécutif au mouvement "#metoo", et aux mouvements féministes) et réelle
+transidentité.”
+“Propagande de la presse +++. Pourtant il y a de "vraies" personnes transgenresqu'il
+faut accompagner. Mais actuellement dès qu'un jeune se sent maldanssapeau(=100%
+des ados quoi) on lui demande de s'interroger sur son genre, son mal-être ne peut
+globalementvenirquedeçaetc.“
+On note en effet de grands questionnements sur les mineur·e·s transgenres, évoqués
+par de nombreux·e·s répondant·e·s, qui craignent un regret suite à la transition. Certain·e·s
+expriment être formellement opposé·e·s à la transition des personnes mineures, discours
+retrouvé chez des orthophonistes qui avaient jusqu’alors exprimé des opinions plus
+nuancées. Une étude montre pourtant que ces détransitions sont très rares, 97,5% des
+enfants transgenres se déclarant toujours transgenres ou non-binaires 5 ans après le début
+de leur transition (Olson et al., 2022). La non-binarité semble être aussi un sujet qui
+intrigue certain·e·s mais qui reste inconcevable pour d’autres, et qui semble notamment
+effrayer par les variations linguistiques qu’elle induit. Si la majorité des orthophonistes
+peuvent aujourd’hui se représenter la transition d’un genre vers un autre, la notion de
+58
+spectre de genre ne semble pas faire partie des représentations engrammées par les
+répondant·e·s.
+5) Analyse des liens entre facteurs socio-démographiques et représentations
+par le test de Chi²
+Le but de cette analyse est de déterminer s’il existe des différences de réponse à une
+question B en fonction de la réponse donnée à une question A. Les questions 1 à 29 ont été
+répertoriées deux à deux dans un tableau à double entrée (Annexe III), les cases sont
+colorées en vert si les résultats sont significatifs selon le test de Chi² (p < 0.05), c’est-à-dire
+s’il y a une différence entre les groupes, et en rouge s’ils ne le sont pas ( p < 0.05) et qu’il
+n’y a donc pas de différence entre les groupes. Il est à noter que ce test ne permet pas de
+dégager d’informations sur le type de réponse donnée.
+59
+Tableau 9: Synthèse des liens entre facteurs socio-démographiques et représentations
+Variable Influence sur les réponses pour les variables:
+Centre de Formation
+Universitaire en
+OrthophonieDate de diplôme, âge, formation sur l’accompagnement des personnes transgenres, type de
+sollicitation pour répondre au questionnaire, image des transidentités donnée par les médias,
+notion qu’une personne trans est un “vrai homme” ou une “vrai femme”
+Datedediplôme Toutes les variables sauf sur les raisons amenant à ne pas recevoir de personnes transgenres.
+Âge Toutes les variables sauf sur les raisons amenant à ne pas recevoir de personnes transgenres,
+la notion de différence entre sexe et genre, la possibilité d’être transgenre et heureux.se
+Avoir déjà reçu une
+personne transgenreAge, date de diplôme, formation sur l’accompagnement des personnes transgenres, sentiment
+d’information générale sur les transidentités, type de sollicitation pour répondre au
+questionnaire, notion des valeurs personnelles face aux transidentités, notion des
+transidentités comme une mode, notion d’essai de thérapie au lieu de transitionner, notion
+qu’une personne trans est un “vrai homme” ou une “vrai femme”
+Raisons amenant à ne
+pas recevoir de
+personnes
+transgenres.Notion de difficulté du suivi des personnes transgenre, notion des valeurs personnelles face
+aux transidentités, notion de trouble psychiatrique ou psychologique, utilisation des pronoms
+et prénom souhaités, représentation des médias, conception de la non-binarité, réaction au
+coming-out transgenre d’un proche, conscience des discriminations par les professionnels de
+santé, différence entre sexe et genre, opinion sur la prise en charge par la sécurité sociale.
+Formation sur
+l’accompagnement
+des personnes
+transgenreToutes les variables sauf les raisons amenant à ne pas recevoir de personnes transgenres.
+Sentiment
+d’information
+générale sur les
+transidentitésToutes les variables sauf le CFUO, raisons amenant à ne pas recevoir de personnes
+transgenres, notion de trouble psychiatrique ou psychologique, notion de transidentité
+comme un choix, notion d’essai de thérapie au lieu de transitionner, opinion sur la prise en
+charge par la sécurité sociale.
+Présence de personnes
+LGBT+ dans
+l’entourage.Toutes les variables sauf le CFUO, avoir déjà reçu une personne transgenre, raisons amenant
+à ne pas recevoir de personnes transgenres
+Type de sollicitation
+pour répondre au
+questionnaireToutes les variables sauf raisons amenant à ne pas recevoir de personnes transgenres, notion
+de trouble psychiatrique ou psychologique, accès facilité au changement d’état civil, notion
+d’essai de thérapie au lieu de transitionner, différence entre sexe et genre, opinion sur la prise
+en charge par la sécurité sociale, la possibilité d’être transgenre et heureux.se
+Questions à échelle de
+Likert (10 à 29).Toutes les variables ont une influence sur les autres variables sauf :
+-Différence entre sexe et genre avec :
+Sentiment d’aisance face à une personne transgenre, notion des transidentités comme une
+mode, notion d’essai de thérapie au lieu de transitionner, utilisation des pronoms et prénom
+souhaités, image des transidentités donnée par les médias, conception de la non-binarité,
+réaction au coming-out transgenre d’un proche, conscience des discrimination par les
+professionnels de santé, notion qu’une personne trans est un “vrai homme” ou une “vrai
+femme”, image renvoyée en tant que professionnel accueillant des personnes transgenre,
+notion de sujet tabou, la possibilité d’être transgenre et heureux.se
+- Possibilité d’être transgenre et heureux.se avec :
+Différence entre sexe et genre, notion qu’une personne trans est un “vrai homme” ou une
+“vrai femme”
+60
+Il semblerait donc que l’âge et la date de diplôme soient des variables influençant
+fortement les réponses aux questions. On peut faire l’hypothèse que l’ancienneté de la
+formation, corrélée généralement avec l’âge, pourrait avoir une influence sur les
+représentations personnelles des transidentités chez les orthophonistes. Le fait d’avoir déjà
+reçu une personne transgenre lors de l’exercice professionnel a aussi une influence sur les
+représentations des transidentités, mais il est aussi possible que ce soit les représentations
+qui influent sur le fait de recevoir ou non des personnes transgenres. On note aussi des
+différences de représentations entre les personnes selon leur niveau de formation sur les
+transidentités.
+Concernant les réponses aux questions sur les représentations, on note des
+différences de réponses significatives entre chaque question pour les mêmes sujets
+(exemple : les sujets ayant tous répondu X à une question A ont eu des avis différents pour
+une question B), sauf pour les questions sur la notion de différence entre sexe et genre et
+sur la possibilité d’être transgenre et heureux.se. On peut conclure qu’il y a une diversité
+dans les représentations, même au sein de groupes de répondant·e·s partageant des
+opinions communes, autrement dit, il n’y a pas de groupe d’orthophonistes indiquant les
+mêmes réponses à toutes les questions.
+6) Analyse des connaissances médicales et orthophoniques
+Pour les questions 31 à 33, les répondant·e·s devaient indiquer les items dont iels avaient
+déjà connaissance.
+61
+Tableau 10: Connaissances médicales générales sur les transidentités (Réponses à la question 31)
+Item Pourcentageayantindiqué
+déjàconnaître
+l’information
+L’orthophoniste peut être amené·e à accompagner des hommes transgenres. 95,3%
+L’orthophoniste peut être amené·e à accompagner des femmes transgenres. 94,5%
+La transition de genre peut revêtir à la fois des aspects médicaux, sociaux
+et juridiques.94,3%
+Un personne transgenre peut décider de ne pas transitionner médicalement,
+ou de ne pas avoir recours à tous les moyens médicaux de transition (par
+exemple ne pas réaliser certaines opérations, ne pas travailler sa voix, etc.)90,3%
+La transidentité n'est plus considérée comme une pathologie psychiatrique. 83,8%
+L’orthophoniste peut être amené·e à accompagner des personnes
+non-binaires.53,6%
+Les personnes transgenres peuvent bénéficier du dispositif d'Affection
+Longue Durée (ALD) dans le cadre de leur transition.34%
+Je n'avais connaissance d'aucune de ces affirmations. 1%
+Ces résultats nous indiquent que près de 95% des orthophonistes sont familier.ère.s
+du fait que l’orthophoniste peut accompagner la transition vocale chez les personnes
+transgenres, avec plus de réponses concernant l’accompagnement des hommes transgenres
+qui semble pourtant moins évoqués de manière générale dans le monde orthophonique (par
+exemple, il n’existe pas à notre connaissance de formation pour les orthophonistes
+spécifique pour l’accompagnement à la transition vocale des hommes transgenres). On
+peut alors s’interroger sur une éventuelle confusion des termes “homme transgenre” et
+“femme transgenre” par certains orthophonistes. Aussi, iels sont beaucoup moins
+nombreux·ses à savoir que l’orthophoniste peut accompagner des personnes non-binaires,
+ce qui pourrait s’expliquer par le fait que les personnes non-binaires sont moins
+nombreuses et ont tendance à moins solliciter les orthophonistes. La non-binarité est peu
+reconnue aujourd’hui et d’ailleurs plus difficile à concevoir pour les orthophonistes (cf
+question 20). De plus, les différents aspects de la transition de genre semblent être connus
+de la majorité, mais seulement 83,8% avaient connaissance de la dépsychiatrisation des
+62
+transidentités, qui reste toutefois relativement récente depuis la parution du DSM-V en
+2015 et de la CIM-11 en 2022. Il semble cependant important que cette notion soit abordée
+auprès des orthophonistes en formation car cette vision psychiatrique peut influencer les
+représentations des transidentités et donc les relations avec les personnes transgenres. Par
+ailleurs, seulement 34% des orthophonistes déclarent savoir que les personnes transgenres
+peuvent bénéficier du dispositif d’ALD, ce qui impacte le mode de rémunération de
+l’orthophoniste, payé·e directement par la sécurité sociale.
+Tableau 11 : Connaissances sur les différents professionnels travaillant à l’accompagnement des
+personnes transgenres (Réponses à la question 32)
+Item Pourcentageayantindiquédéjàconnaître
+l’information
+Chirurgien·ne 96,80%
+Endocrinologue 96,40%
+Psychologue 94,90%
+Médecin généraliste 93,10%
+Psychiatre 87%
+Phoniatre 87%
+Infirmier·ère 52,80%
+Dermatologue 34,90%
+Kinésithérapeute 14,80%
+Je n'avais connaissance d'aucune de ces affirmations 1%
+Les professionnel·le·s étant des médecins ou psychologues sont bien identifié·e·s
+par les orthophonistes comme étant des professionnel·e·s intervenant dans
+l’accompagnement à la transition de genre. Les professionnel·le·s paramédicaux comme
+les kinésithérapeutes et les infirmier·ère·s, ainsi que les médecins dermatologues sont
+quant à eux moins reconnu·e·s par les orthophonistes. Cette connaissance des différents
+acteurs médicaux et paramédicaux semble être cependant importante pour la coordination
+63
+entre les professionnel·le·s, notamment les chirurgien.ne.s, phoniatres et médecins
+généralistes avec qui l’orthophoniste peut être amené·e à être régulièrement en contact. Il
+semble aussi important d’avoir conscience de la multiplicité des rendez-vous auprès de ces
+différent·e·s professionnel·le·s, ce qui peut limiter la disponibilité de la personne
+transgenre.
+Tableau 12 : Connaissances sur les axes de travail orthophonique lors de l’accompagnement de
+personnes transgenres (réponses à la question 33)
+Item Pourcentageayantindiquédéjàconnaître
+l’information
+La hauteur de la voix et l'étendue vocale 95,60%
+La prosodie 73,80%
+L'intensité vocale 63,30%
+La voix chantée 63,30%
+La résonance 59,90%
+La respiration 56%
+La sensibilisation à l'hygiène vocale 48%
+La prise en charge péri-opératoire des plis vocaux 46%
+La communication non-verbale 43,50%
+L'articulation 41,60%
+La thérapie manuelle 28%
+Je n'avais connaissance d'aucune de ces affirmations 4%
+95,6% des orthophonistes déclarent avoir connaissance d’un travail orthophonique
+axé sur la hauteur de la voix et l’étendue vocale. Les autres modalités du travail vocal sont
+plus méconnues, ce qui pourrait être lié au fait que seulement la moitié des orthophonistes
+proposent des rééducations de la voix de manière générale (Giovanne, 2012) et seraient
+donc moins à même d’évoquer des axes de travail dans ce domaine. Une formation des
+64
+étudiant·e·s en orthophonie paraît alors indiquée afin de développer les connaissances
+spécifiques au travail de la voix chez les personnes transgenres.
+Deux autres axes de travail ont été évoqués par des répondant·e·s : la posture et le
+choix du lexique.
+Tableau 13 : Nombre moyen d’items cochés pour les questions 31, 32 et 33
+Question Nombred'itemscochésenmoyenne
+Q31 : Connaissances médicales générales 5,46 / 7
+Q32 : Connaissances sur les autres professionnels 6,59 / 9
+Q33 : Connaissances sur l'accompagnement orthophonique 6,19 / 11
+Parmi les questions 31, 32 et 33, on observe que la proportion d’items cochés
+correspondant aux connaissances médicales générales est plus importante que celle des
+connaissances des professionnels travaillant à l’accompagnement des personnes
+transgenres et des connaissances relatives au suivi orthophonique. L’accompagnement
+orthophonique est le domaine où la proportion d’items cochés est la plus basse. La
+différence de proportion est statistiquement significative (Test de différence de proportion
+entre Q31 et Q32 : p = 0.0365 ; entre Q31 et Q33 : p < 0.0001 ; entre Q32 et Q33 : p <
+0.0001). Cette analyse reste cependant à considérer avec précaution, le nombre d’items
+cochés en moyenne pouvant être considéré comme un indicateur peu stable du fait d’une
+potentielle variation de la difficulté entre les questions.
+7) Analyse qualitative des représentations médicales et orthophoniques.
+Réponses à la question 34 :
+a) Unbesoindeformationorthophonique
+Tout d’abord, on note l’intérêt d’une grande partie des orthophonistes pour
+l’accompagnement à la transition vocale. Celles et ceux qui le pratiquent semblent
+apprécier le travail orthophonique, décrivant un accompagnement enrichissant, plaisant,
+65
+pour lequel les orthophonistes créent une alliance forte avec les personnes transgenres. Cet
+intérêt est aussi présent chez les orthophonistes n’accompagnant pas de personnes
+transgenres, qui se sentent limité.e.s par un sentiment de compétence parfois faible, dû à un
+manque de formation et d’information sur les transidentités :
+“Jeme"metslapression"surlepotentieléchecdemapriseensoinsetdesonimpact,sur
+laviesocialenotamment,demaonpatient.e.J'aimeraismeformermieuxquecequej'aipu
+avoir comme formation à l'école d'orthophonie car actuellement je pense que mes
+connaissancesthéoriquesetpratiquessonttroppeuconséquentes”
+“Le ressenti que j’ai c’estenpremierlieudelafrustrationparrapportàcequinousest
+enseigné dans les écoles (pas assez d’information ni sur cequ’estlatransidentiténisur
+comment s’adresser et appréhender ce public(j’entendsparlàlechoixdespronomspar
+exemple) ni sur comment s’effectue l’accompagnement de ces personnes, ce qu’on peut
+leurproposerenséance.IlFAUTetonDOITavoirunenseignementplusspécifiqueetplus
+d’heuresdecourssurcesaccompagnements!”
+En effet, certain·e·s décrivent des difficultés à savoir où trouver de l’information
+sur ces accompagnements vocaux. D’autres expliquent que ce sont parfois les personnes
+qu’elles accompagnent qui participent à leur éducation. Quelques orthophonistes expriment
+un besoin de réactualiser leurs connaissances, notamment par rapport à la
+dépsychiatrisation récente et sur les connaissances générales autour des transidentités, peu
+ou mal abordées lors de la formation initiale en orthophonie.
+On note qu’il est très peu fait mention que les orthophonistes puissent être
+amené·e·s à recevoir des personnes transgenres en dehors de l’accompagnement à la
+transition vocale. Elles sont pourtant présentes dans la patientèle des orthophonistes pour la
+rééducation de troubles divers.
+66
+b) Unemiseàl’épreuvedesreprésentationspersonnelles
+Certain·e·s orthophonistes rapportent que leurs représentations personnelles ont des
+influences sur leur travail d’accompagnement, ou bien induisent / induiraient des refus si
+une personne transgenre venait à les solliciter.
+“Déroutant parfois car les personnes transgenres qui nous sollicitent peuvent êtreàdes
+degrés de transformation extrêmement variables. Parfois, la transition est invisible les
+personnesn'emploientpasl'autregenrequandellesparlentd'elles.”
+“J'aurais le sentiment de participer à quelque chose qui heurte ma conscience et mes
+convictionsreligieuses.”
+“Jen’aimeraipastransmettredesinfossuruneparolestéréotypée(parexemplequ’onme
+disequelesfemmesparlentd’unetellemanièrepourparaîtreféminine)carjesuisdebase
+contretouslesstéréotypes”
+“Je ne pense pas que le changement de genre soit la réponse à leur apporter et je ne
+cautionneraipasceschangementsparmontravail.”
+La nécessité de permettre une transition aux personnes mineures est aussi de
+nouveau interrogée. D’autres se questionnent quant aux limites imposées par la
+nomenclature des actes en orthophonie : les transidentités n’étant pas pathologiques, quelle
+place leur réserver dans cette nomenclature, et par quelle modalité de prise en charge par la
+Sécurité Sociale ? Certain·e·s évoquent un accompagnement qui pourrait être réalisé par
+des coach vocaux.
+Tous ces éléments mettent en évidence que si les représentations personnelles des
+orthophonistes induisent des réactions professionnelles variées, il est nécessaire qu’un
+travail d’information sur les transidentités soit mené en parallèle d’un travail de formation
+sur l’accompagnement orthophonique.
+67
+c) Unaccompagnementperçucommedifficile
+Les réponses mettent en évidence que les accompagnements à la transition vocale
+sont perçus comme empreints de difficultés pour plusieurs raisons.
+Le manque d’accès au soin est un élément évoqué par beaucoup d’orthophonistes :
+difficulté de coordination entre les professionnel·le·s de santé qui se révèle parfois
+inexistante dans les zones rurales, médecins qui renvoient peu vers les orthophonistes,
+refus d’accompagnement par de nombreux·ses professionnel·le·s, refus pour cause de
+listes d’attente de patients déjà longues.
+“Je suis la seule ortho (zone dotée) à prendre en charge cette patientèle. Je déplore le
+manque de formation initiale. Dansmondépartement(toutentier!)cesontlesmédecins
+généralistes qui prescrivent l'hormonothérapiecaraucunendocrinoneveutrecevoirmes
+patient(e)s. Pour eux ils considèrent que ce n'est pas de leur ressort. Idem pour les
+chirurgiens urologue et plastique qui refusent d'opérer. Accompagnement médical très
+difficilepourlespatients(manqued'ouvertured'esprit,discrimination,jugementetc).”
+Certain·e·s orthophonistes décrivent toutefois un faible nombre de demandes
+imputable à la création de réseaux spécialisés, ce qu’iels regrettent car l’accompagnement
+orthophonique suscite un intérêt important chez une partie des orthophonistes.
+De plus, certain·e·s répondant·e·s évoquent des difficultés à mener ces
+accompagnements qui sont parfois chargés émotionnellement, avec un travail qui dépasse
+parfois le cadre orthophonique :
+“ Étant très touché (trop?) par ce que vivaient mes patients, et je me suis toujours
+demandé si je ne passais pas trop de temps à faire un accompagnement plus
+psychothérapeutiquequ'orthophonique.Cen'estpasquelquechosequimestressaitoume
+déplaisait, bien au contraire, mais parfois je me demandais où était ma place de
+thérapeute.”
+Face à ces difficultés, on peut supposer que certain·e·s orthophonistes se restreignent à
+se lancer dans ce domaine de l’orthophonie, ou bien sont poussé·e·s à l’arrêt de
+l’accompagnement à la transition vocale.
+68
+B)Limitesdel’étude
+Les données recueillies nous permettent de tirer des conclusions représentatives des
+réponses données par les orthophonistes au vu du nombre de réponses totales. Des biais
+subsistent toutefois.
+1) Limites de l’élaboration du questionnaire
+On peut faire l’hypothèse que le questionnaire en lui-même est vecteur de biais :
+même s’il a été pensé méthodologiquement pour faire ressortir les représentations et
+connaissances des orthophonistes sur les transidentités, le questionnaire permet une
+analyse spécifique des points soulevés dans les différentes questions, mais peut ne pas être
+exhaustif.
+D’autres biais ont pu être créés par la modalité de recueil des réponses. En effet,
+les échelles de Likert permettent de différencier les opinions avec une variabilité limitée.
+Les répondant·e·s peuvent aussi avoir tendance à répondre par facilité de manière neutre,
+“ni d’accord ni en désaccord”. Les échelles de Likert restent cependant un moyen de
+répondre rapidement et facilement à une multitude de questions et ainsi permettre de
+récolter des opinions variées de manière encadrée. D’autre part, les questions sur les
+connaissances médicales et orthophoniques font appel à la métacognition et à la sincérité
+des répondant·e·s qui devaient cocher les items dont iels avaient déjà connaissance, ce qui
+peut entraîner des erreurs d’appréciation.
+2) Facteurs pouvant influencer la population des répondant·e·s
+On peut supposer la présence d’un biais de sélection. Les 4000 mails de
+sollicitation ont été envoyés à une population spécifique d’orthophonistes qui acceptent
+d’être maîtres de stage. Toutes les associations étudiantes n’ont d’ailleurs pas accepté de
+donner leur répertoire d’adresse mail, cependant cette donnée ne semble pas avoir eu
+d’impact particulier sur le nombre de répondant·e·s par CFUO : on relève par exemple
+seulement 8 réponses d’orthophonistes diplômé·e·s du CFUO de Poitiers, alors que le mail
+de sollicitation a été envoyé à tous·tes les orthophonistes encadrant des étudiant·e·s du
+CFUO de Poitiers. Cela peut s’expliquer par les migrations de ville après le diplôme, que
+69
+l’on peut espérer homogène dans le cadre de ce mémoire afin d’avoir une représentation
+des orthophonistes de tout le territoire français. Le partage du questionnaire sur des
+groupes Facebook regroupant des orthophonistes de toute la France, maîtres de stage ou
+non, a aussi pu permettre de rendre ce biais de sélection moins important, mais il reste
+cependant présent : l’analyse par le test de Chi² nous montre des différences de réponses à
+la quasi-totalité des questions selon le média de sollicitation. La diffusion par mail et par
+les réseaux sociaux est aussi vectrice d’un autre biais de sélection, l’utilisation de média
+électroniques pouvant limiter la diffusion aux orthophonistes utilisant ces média et étant
+assez à l’aise avec la prise en main des questionnaires Google.
+On peut aussi se questionner sur la présence d’un biais de non-réponse, les
+personnes ayant choisi de ne pas répondre au questionnaire pourraient avoir des
+représentations différentes des personnes qui y ont répondu, liées à leur intérêt pour le
+sujet. L’intérêt pour le sujet est d’ailleurs un autre biais possible : les personnes très
+informées et intéressées, tout comme les personnes ayant des opinions très négatives sur
+les transidentités, pourraient être sur-représentées par rapport à des personnes ayant un
+intérêt plus neutre pour le sujet.
+3) Facteurs ayant pu avoir une incidence sur les résultats
+Comme nous venons de le voir, le biais de sélection de la population a pu avoir une
+incidence sur les résultats, la population étant d’un effectif suffisant pour assurer la
+significativité statistique de l’étude, mais ne prenant pas en compte la répartition
+socio-démographique des orthophonistes. Par exemple, près de 40% des répondant·e·s sont
+diplômé·e·s depuis moins de 10 ans, ce qui ne semble pas être représentatif de la
+population générale des orthophonistes. Il est aussi possible que certaines données
+socio-démographiques soient inexactes à cause des difficultés à se souvenir d’un
+événement passé, constituant un biais de mémoire.
+Les réponses ont aussi pu être affectées par un biais de compréhension des
+questions, cependant limité par la passation d’un pré-test auprès d’étudiantes en
+orthophonie qui n’ont relevé aucune difficulté de compréhension. On peut cependant
+s’interroger sur des erreurs dues à un manque de compréhension de la terminologie utilisée
+: il est fréquent que les personnes peu renseignées aient des difficultés à définir ce qu’est
+70
+un homme transgenre par exemple, qui est souvent désigné comme une personne de sexe
+biologique masculin et de genre féminin. Ces confusions pourraient avoir impacté les
+réponses concernant la connaissance de l’accompagnement orthophonique des hommes et
+femmes transgenre, confusion que l’on retrouve plusieurs fois dans les réponses aux
+questions ouvertes.
+La fiabilité des réponses a aussi pu être affectée par un biais de désirabilité sociale.
+Pour limiter ce biais, les réponses au questionnaire ont été rendues anonymes et il a été
+demandé aux orthophonistes de répondre le plus sincèrement possible, cependant il est
+possible que les orthophonistes aient pu donner des réponses socialement acceptables au
+détriment de leurs opinions propres.
+Enfin, le représentations ont pu être influencées par les diffusions médiatiques
+d’ampleur sur les transidentités avant et pendant la période de diffusion du questionnaire :
+plusieurs millions de français·e·s ont visionné le reportage “Trans, Unique en leur genre”
+diffusé sur la chaîne M6 le 6 octobre 2022 et “Quelle époque!” diffusé sur France 2 le 15
+octobre 2022, mettant en scène des parcours de vie de personnes transgenres ainsi que des
+débats entre des personnes transgenres et des militant·e·s anti-transidentités. Ces
+reportages et interventions ont d’ailleurs été décriés par les associations de personnes
+transgenre.
+4) Limites de l’analyse des résultats
+L’analyse par le test de Chi² permettant de mettre en évidence des différences de
+réponse entre des groupes ne permet pas de caractériser la nature des différences. Or, il
+aurait été intéressant de pouvoir faire cette analyse afin de comprendre quels facteurs
+influencent les réponses. Dans ce mémoire, nous avons par exemple relevé que la date de
+diplôme a une influence sur la réponse aux questions, cependant nous n’avons pas été en
+mesure d’analyser quelle était la nature de l’influence de cette date de diplôme pour
+chacune des questions. En effet, le grand nombre d'analyses positives au test de Chi² ne
+nous permet pas de pousser des analyses spécifiques sur chaque groupe dans le cadre d’un
+mémoire d’orthophonie.
+71
+De plus, certaines analyses comparant les résultats de cette étude avec des
+questions proches de celles proposées dans d’autres études sont à prendre avec précaution.
+Bien que ce soit le même concept qui soit mis en avant dans les questions, leur formulation
+n’est pas exactement la même pour certaines questions ce qui peut en changer la
+compréhension. Par exemple, ce questionnaire propose de noter de 1 à 5 le degré d’accord
+avec l’affirmation “Q.21 : Si un proche m'annonçait sa transidentité, je réagirais
+favorablement.”, ce qui a été comparé à “How would you react if your child, sibling, or a
+close family member came out as transgender or non-binary?”, proposé en français
+(Yougov, 2021).
+Enfin, les analyses des données textuelles restent subjectives. Malgré une volonté
+de faire ressortir les opinions majoritaires, l’analyse qualitative de 724 réponses pour
+chacune des deux questions ouvertes amène des biais, la synthèse ne pouvant développer
+toutes les opinions et leurs nuances. Les témoignages agrémentant cette synthèse
+permettent de mieux illustrer ces opinions en donnant un exemple, mais ne sont pas
+généralisable à l’ensemble des orthophonistes.
+5) Intérêt et légitimité du questionnaire
+Une partie des orthophonistes interrogé·e·s ont pu faire part par mail ou dans les
+questions ouvertes de leur étonnement concernant l’utilité et la pertinence du
+questionnaire. En effet, certain·e·s se sont dit·e·s choqué·e·s de la teneur des questions,
+permettant aux opinions transphobes de s’exprimer. Ces questions ont cependant été
+rédigées méthodologiquement sur les modèles d’études de grande ampleur visant à
+l’évaluation des représentations sur les transidentités. D’autres personnes ont mis en avant
+que les questions posées n’étaient pas pertinentes et seulement insultantes car relatives à
+des schémas de pensée qui n’existent plus. Bien que pouvant être dérangeantes, elles nous
+ont paru indispensables à poser : comment évaluer une potentielle transphobie sans laisser
+une porte ouverte à l’expression d’idées transphobes ? La présence de réponses hostiles à
+l’encontre des personnes transgenres, bien que minoritaires, montre alors que le
+questionnaire remplit sa fonction d’évaluation des différentes opinions. Ces interrogations
+de certain·e·s orthophonistes sur la pertinence de ce genre d’étude questionne la
+72
+conscience des discriminations sur l’identité de genre, et sur les discriminations de manière
+générale.
+D’autre part, nous avons pris soin de rédiger un message de prévention en fin de
+questionnaire, indiquant la nécessité de ne pas légitimer de propos transphobes et d’avis
+non sollicités dans la vie quotidienne, en dehors de ce questionnaire à visée de recherche.
+Nous tenions à le réaffirmer ici : ce mémoire a pour but d’interroger les mentalités des
+orthophonistes par l’analyse des représentations et connaissances, dans une démarche
+engagée en faveur d’une meilleure acceptation des personnes transgenres dans la société.
+Il est aussi important de noter que ce mémoire a été réalisé par une personne
+cisgenre : l’autrice portant certes un intérêt fort pour la lutte contre les discriminations
+LGBTphobes, des biais subsistent. La recherche scientifique par, pour et avec les
+personnes concernées est aujourd’hui à valoriser.
+73
+IV)CONCLUSION
+Ce mémoire est né du constat que les personnes transgenres sont encore trop
+souvent victimes du manque de connaissances et de la discrimination de professionnel·le·s
+de santé.
+Les résultats obtenus nous permettent de faire état de représentations
+majoritairement positives des orthophonistes vis-à-vis des transidentités. Les opinions sont
+souvent polarisées, avec une majorité de réponses en faveur de l’acceptation des personnes
+transgenres dans la société, et une minorité qui manifeste des comportements de rejet. Les
+opinions sont parfois plus hétérogènes sur des sujets comme la non-binarité ou la
+transidentité chez les mineur·e·s. L’analyse des questions ouvertes, bien que d’ordre
+qualitative, met en avant que de nombreuses interrogations subsistent chez les
+orthophonistes, qui ne savent pas où trouver de réponses : iels sont de manière générale en
+demande d’information sur les transidentités (par exemple, comment s’adresser à une
+personne transgenre ? Quels termes spécifiques utiliser ? Qu’est-ce vraiment que d’être
+transgenre ?). Obtenir une réponse à ces questions semble alors primordial pour que les
+orthophonistes contribuent à la création d’un climat de santé bienveillant pour les
+personnes transgenres. Une sensibilisation des étudiant·e·s en orthophonie lors de leur
+cursus ainsi que des orthophonistes en demande est nécessaire, elle commence d’ailleurs à
+se développer bien qu’elle ne soit pas équivalente sur le territoire. Cette sensibilisation
+pourrait prendre différentes formes, comme par des ateliers proposés en CFUO ou par les
+syndicats locaux d’orthophonistes, des MOOC, des vidéos, des brochures, etc. Le travail
+de création de ces moyens de sensibilisation pourrait être fait en collaboration avec les
+associations de personnes transgenres, premières personnes concernées et d’autant plus
+expertes.
+D’autre part, les résultats indiquent que les connaissances sur l’accompagnement
+vocal des personnes transgenre sont aujourd’hui plutôt faibles malgré un intérêt important
+pour le sujet. Beaucoup d’orthophonistes n’ont pas reçu de formation sur ces
+accompagnements ou déclarent avoir besoin d’approfondissements théoriques, ce qui
+constitue un frein aux accompagnements à la transition vocale. D’autres facteurs viennent
+aussi brider ces accompagnement, comme les représentations personnelles sur les
+transidentités ou encore les difficultés de connaissance et de mise en place de la
+coordination pluriprofessionnelle. Ces résultats nous incitent alors à recommander une
+74
+réelle formation des orthophonistes, en complément à la sensibilisation sur les
+transidentités. Il semble aujourd’hui indispensable que l’accompagnement à la transition
+vocale soit enseigné dans tous les CFUO, ce qui n’est pas le cas aujourd’hui, 73,6% des
+étudiant·e·s orthophonistes rapportant un défaut de formation initiale (Bosqué, 2020). La
+maquette des études en orthophonie indique pourtant “la féminisation de la voix dans la
+démarche de transgenre” comme élément de contenu de l’Unité d’Enseignement N°5.6.2 :
+“Intervention orthophonique dans le cadre des pathologies de la phonation, de la
+déglutition et de l’articulation” (Bulletinofficieln°32du5septembre2013.Référentielde
+formation du certificat de capacité d’orthophoniste, 2013). Là encore, ces formations
+pourraient prendre différentes formes.
+Malgré le manque de sensibilisation et de formation, ce mémoire se veut être
+porteur d’espoir pour ce domaine de l’orthophonie encore trop peu connu.
+“Nepascomprendre,cen’estpasgrave.Certaineschosessontdifficilesàaborder.
+Ce qui est grave,c’estderefuserd’écouteretd’admettrequenotreparoleestlégitimeet
+qu’ellepeutapprendredeschoses,c’estdefairepasserdesidées,desavis,desimpressions
+avantdesconnaissances.”. (Lexie, 2021)
+75
+V)BIBLIOGRAPHIE
+Académie Nationale de Médecine. (2022). Communiqué«  Lamédecinefaceàlatransidentité
+degenrechezlesenfantsetlesadolescents  ».
+Alessandrin, A. (2014). Du« transsexualisme»àla«  dysphoriedegenre  ».
+Alessandrin, A. (2018). Sociologiedestransidentités. le Cavalier bleu éditions.
+Alessandrin, A. (2022a). LesviolencesLGBT-phobes.
+Alessandrin, A. (2022b). Sociologie des transidentités. médecine/sciences, 38(10), 816‑ 820.
+https://doi.org/10.1051/medsci/2022129
+Alessandrin, A., & Espineira, K. (2014). LaTransphobie.
+American Psychiatric Association. (1952). DSM .
+American Psychiatric Association. (1968). DSM-II.
+American Psychiatric Association. (1980). DSM-III.
+American psychiatric association. (2015). DSM-5® :Manueldiagnostiqueetstatistiquedes
+troublesmentaux.
+Askevis-Leherpeux, F., de la Chenelière, M., Baleige, A., Chouchane, S., Martin, M.-J.,
+Robles-García, R., Fresán, A., Quach, A., Stona, A.-C., Reed, G., & Roelandt, J.-L.
+(2019). Why and how to support depsychiatrisation of adult transidentity in ICD-11  : A
+French study. EuropeanPsychiatry:TheJournaloftheAssociationofEuropean
+Psychiatrists, 59, 8‑ 14. https://doi.org/10.1016/j.eurpsy.2019.03.005
+Asscheman, H., Giltay, E., & Megen, J. (2011). Along-termfollow-upstudyofmortalityin
+transsexualsreceivingtreatmentwithcross-sexhormones.
+76
+Association Nationale Transgenre. (s. d.). EvolutionduCECenFrance. Association Nationale
+Transgenre. Consulté 12 août 2022, à l’adresse
+https://ant-france.eu/index.php/ressources/documents-juridiques/evolution-en-france/
+Austin, A., & Goodman, R. (2017). The Impact of Social Connectedness and Internalized
+Transphobic Stigma on Self-Esteem Among Transgender and Gender Non-Conforming
+Adults.JournalofHomosexuality, 64(6), 825‑ 841.
+https://doi.org/10.1080/00918369.2016.1236587
+Bauer, G. R., Scheim, A. I., Deutsch, M. B., & Massarella, C. (2014). Reported emergency
+department avoidance, use, and experiences of transgender persons in Ontario, Canada  :
+Results from a respondent-driven sampling survey. AnnalsofEmergencyMedicine,
+63(6), 713-720.e1. https://doi.org/10.1016/j.annemergmed.2013.09.027
+Bockting, W. (2015). Internalized transphobia. In TheInternationalEncyclopediaofHuman
+Sexuality (p. 583‑ 625). John Wiley & Sons, Ltd.
+https://doi.org/10.1002/9781118896877.wbiehs236
+Bolich, D. G. G. (2007). TransgenderHistoryandGeography.
+Bosqué, M. (2020). Représentationsdelapriseenchargeorthophoniquedespersonnestrans
+chezlesfutur·esorthophonistes.
+Bouton, C. (2004). Au-delà de la représentation Kant et le problème de l’idéalisme.
+Philosophie, 81(2), 15‑ 41. https://doi.org/10.3917/philo.081.0015
+Boy, L. (2015). Transsexualité,transidentité  :Untaboufrançais  ?
+Brill, S. (2008). TheTransgenderChild–AHandbookforFamiliesandProfessionals (Cleis
+Press).
+77
+Bulletinofficieln°32du5septembre2013.Référentieldeformationducertificatdecapacité
+d’orthophoniste. (2013).
+Carabez, R., Pellegrini, M., Mankovitz, A., Eliason, M. J., & Dariotis, W. M. (2015). Nursing
+Students’ Perceptions of their Knowledge of Lesbian, Gay, Bisexual, and Transgender
+Issues  : Effectiveness of a Multi-Purpose Assignment in a Public Health Nursing Class.
+JournalofNursingEducation, 54(1), 50‑ 53.
+https://doi.org/10.3928/01484834-20141228-03
+Caroff, M. (2019). Expériencesetattentesdespersonnestransenmédecinegénérale.Seconde
+partie :Lesstratégiesd’adaptationetlesattentes.
+Charruau, J. (2020). Les« thérapiesdeconversionsexuelle  ».
+Cruz, T. M. (2014). Assessing access to care for transgender and gender nonconforming
+people  : A consideration of diversity in combating discrimination. SocialScience&
+Medicine(1982), 110, 65‑ 73. https://doi.org/10.1016/j.socscimed.2014.03.032
+Davis, C. E., Johnson, C. W., Flanagan, A., & Silk, W. (2021). « We’re all in an abusive
+relationship with the health-care system »  : Collective memories of transgender health
+care.CanadianJournalofHumanSexuality, 30(2), 183‑ 195.
+https://doi.org/10.3138/cjhs.2021-0013
+Dergham, M., Pellet, R., Boulekouane, J., & Charles, R. (2022). Les personnes trans et le soin.
+Partie 1  : Des discriminations au renoncement  : des sujets à risque  ?Médecine,18(4),
+171‑176. https://doi.org/10.1684/med.2022.764
+DiplômeUniversitairedepriseenchargedelaTransidentité. (s. d.). Consulté 17 août 2022, à
+l’adresse https://www.dutransidentite.fr/
+DSM-IV-PC work group. Etats-Unis. (1998). DSM-IV :soinsprimaires.
+78
+Durkheim. (1968). LesFormesélémentairesdelaviereligieuse.
+Espiñeira, A. K. E.-J.-K. (2013, avril 25). La réception des représentations «  trans  » dans les
+médias par les personnes trans. LeBlogdeKarineEspineira/Espiñeira.
+https://karineespineira.wordpress.com/2013/04/25/la-reception-des-representations-trans-
+dans-les-medias-par-les-personnes-trans/
+Espineira, K., & Thomas, M.-Y . (2014). Les trans comme parias. Le traitement médiatique de
+la sexualité des personnes trans en France. Genre,sexualité&société, 11, Article 11.
+https://doi.org/10.4000/gss.3126
+États-Unis. Public health service. (1975). Theinternationalclassificationofdiseases  :9th
+revisionclinicalmodificationICD-9-CM .
+Eyssel, J., Koehler, A., Dekker, A., Sehner, S., & Nieder, T. O. (2017). Needs and concerns of
+transgender individuals regarding interdisciplinary transgender healthcare  : A
+non-clinical online survey. PLOSONE ,12(8), e0183014.
+https://doi.org/10.1371/journal.pone.0183014
+Feldman, J., Brown, G. R., Deutsch, M. B., Hembree, W., Meyer, W., Meyer-Bahlburg, H. F.
+L., Tangpricha, V ., T’Sjoen, G., & Safer, J. D. (2016). Priorities for Transgender Medical
+and Health Care Research. Currentopinioninendocrinology,diabetes,andobesity,
+23(2), 180‑ 187. https://doi.org/10.1097/MED.0000000000000231
+Foerster, M. (2012). Elleoului ?UnehistoiredestranssexuelsenFrance (La Mussardine).
+Fradelizi, J. (2020). Comorbiditésdanslapopulationtransgenreetdéfautsdesoins  :Une
+revuedelalittérature.
+Freton, L., Khene, Z.-E., Richard, C., Mathieu, R., Alimi, Q., Duval, E., Vassal, L., Bertheuil,
+N., Aillet, S., Bonnet, F., Ravel, C., Guenego, A., Travers, D., Morel-Journel, N.,
+Hascoet, J., & Peyronnet, B. (2021). Auto-évaluation de professionnels de santé
+79
+concernant la prise en charge des personnes trans dans un hôpital universitaire. Progrès
+enUrologie, 31(16), 1108‑ 1114. https://doi.org/10.1016/j.purol.2021.03.008
+Giovanne, M. (2012). Étatdeslieuxdelapriseenchargeorthophoniquedesaspects
+corporelsdanslarééducationdesdysphoniesdysfonctionnelleschezl’adulte.
+GLAAD Media Institute. (2021). GLAAD-2021STUDIORESPONSIBILITYINDEX .
+Greene, M. Z., France, K., Kreider, E. F., Wolfe-Roubatis, E., Chen, K. D., Wu, A., & Yehia,
+B. R. (2018). Comparing medical, dental, and nursing students’ preparedness to address
+lesbian, gay, bisexual, transgender, and queer health. PLoSONE ,13(9), 1‑ 16.
+https://doi.org/10.1371/journal.pone.0204104
+Hébert, B., Chamberland, L., & Enriquez, M. (2012). Les aîné-es trans  : Une population
+émergente ayant des besoins spécifiques en soins de santé, en services sociaux et en soins
+liés au vieillissement. Frontières,25(1), 57‑ 81. https://doi.org/10.7202/1018231ar
+IFOP. (2019). LeregarddesFrançaissurl’homosexualitéetlaplacedesLGBTdansla
+société.
+Igartua, K., & Montoro, R. (2015). Les minorités sexuelles  : Concepts, prémisses et structure
+d’une approche clinique adaptée. SantémentaleauQuébec, 40(3), 19‑ 35.
+https://doi.org/10.7202/1034909ar
+IGAS. (2011). Evaluationdesconditionsdepriseenchargemédicaleetsocialedespersonnes
+transetdutranssexualisme.
+International Lesbian, Gay, Bisexual, Trans and Intersex Association (ILGA). (2022).
+ANNUALREVIEWOFTHEHUMANRIGHTSSITUATIONOFLESBIAN,GAY,
+BISEXUAL,TRANSANDINTERSEXPEOPLEINEUROPEANDCENTRALASIA .
+80
+Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la
+garantía de los derechos de las personas LGTBI, Pub. L. No. Ley 4/2023,
+BOE-A-2023-5366 30452 (2023). https://www.boe.es/eli/es/l/2023/02/28/4
+Jeoffrion, C. (2009). Santé et Représentations sociales  : Une étude «  multi-objets  » auprès de
+Professionnels de Santé et Non-Professionnels de Santé. LesCahiersInternationauxde
+PsychologieSociale, Numéro82(2), 73‑ 115. https://doi.org/10.3917/cips.082.0073
+Jodelet, D. (2003). Lesreprésentationssociales.
+Jovic, L. (2012). Représentations (sociales). In Lesconceptsensciencesinfirmières (p.
+265‑267). Association de Recherche en Soins Infirmiers.
+https://doi.org/10.3917/arsi.forma.2012.01.0265
+Kimberly, C. (2016). Assessing Political Opinions About Transgender Legal Rights Using a
+Multiple-Segment Factorial Vignette Approach. SexualityResearchandSocialPolicy,
+13(1), 73‑ 83. https://doi.org/10.1007/s13178-015-0216-7
+Klein-Dallant, C., Révis, J., & Girard-Monneron, L. (2019). Voixettransidentités. Ortho
+Edition.
+Kosenko, K., Rintamaki, L., Raney, S., & Maness, K. (2013). Transgender Patient Perceptions
+of Stigma in Health Care Contexts. MedicalCare, 51(9), 819‑ 822.
+https://doi.org/10.1097/MLR.0b013e31829fa90d
+La Maison de Santé de Lille-Moulins -. (s. d.). Fédérationdesstructuresd’exercicecoordonné
+enHauts-de-France. Consulté 2 mars 2023, à l’adresse
+https://www.femas-hdf.fr/msp-hauts-de-france/mds-de-lille-moulins/
+Lallet, M., & Delias, L. (2018). Les réseaux sociaux numériques et le développement
+controversé de savoirs d’expérience sur les transidentités. LeTempsdesmédias, 31,
+pages 137 à 155.
+81
+Lexie. (2021). Unehistoiredegenre  :Guidepourcomprendreetdéfendrelestransidentités.
+LOI n° 2022-92 du 31 janvier 2022 interdisant les pratiques visant à modifier l’orientation
+sexuelle ou l’identité de genre d’une personne (1), 2022-92 (2022).
+Lorendeau, A. (2019). Difficultésd’accèsauxtraitementshormonauxpourlespersonnes
+transenFrance  :Descriptiondesprincipauxfreinsetenjeuxdusuiviparlesmédecins
+généralistes.
+Lucas, M. (s. d.). FormationSantéLGBTQIA+ . Morgan N.Lucas - Psy. Consulté 25 février
+2023, à l’adresse https://www.morganlucas-therapie.com/formation
+Maillet, C. (2020). Lesgenresfluides.
+Matthews, J.-J., Olszewski, A., & Petereit, J. (2020). Knowledge, Training, and Attitudes of
+Students and Speech-Language Pathologists About Providing Communication Services
+to Individuals Who Are Transgender. AmericanJournalofSpeech-LanguagePathology.
+https://doi.org/10.1044/2020_AJSLP-19-00148
+Memorandumofunderstandingonconversiontherapyintheuk. (2022).
+Moscovici, S. (2004). Lapsychanalyse,sonimageetsonpublic. Presses Universitaires de
+France. https://doi.org/10.3917/puf.mosco.2004.01
+Moscovici, S., & Kalampalikis, N. (2019). Psychologiedesrepr??sentationssociales  :Textes
+raresetin??dits.
+Muriel, D. (2022). Parcoursdetransitiondespersonnestransgenres.
+National Academies of Sciences , Engineering, and Medicine. (2020). Understandingthe
+Well-BeingofLGBTQI+Populations. https://doi.org/10.17226/25877
+82
+Olson, K. R., Durwood, L., Horton, R., Gallagher, N. M., & Devor, A. (2022). Gender Identity
+5 Years After Social Transition. Pediatrics,150(2), e2021056082.
+https://doi.org/10.1542/peds.2021-056082
+OMS. (1946). Constitutiondel’OMS. https://www.who.int/fr/about/governance/constitution
+Ordre National des Médecins. (2021). Codededéontologiemédicale.
+Pega, F., & Veale, J. F. (2015). The Case for the World Health Organization’s Commission on
+Social Determinants of Health to Address Gender Identity. AmericanJournalofPublic
+Health,105(3), e58‑ e62. https://doi.org/10.2105/AJPH.2014.302373
+Picard, D. H., & Jutant, S. (2022). Rapportrelatifàlasantéetauxparcoursdesoinsdes
+personnestrans. 97.
+Poteat, T., German, D., & Kerrigan, D. (2013). Managing uncertainty  : A grounded theory of
+stigma in transgender health care encounters. SocialScience&Medicine, 84, 22‑ 29.
+https://doi.org/10.1016/j.socscimed.2013.02.019
+Rachlin, K., Green, J., & Lombardi, E. (2008). Utilization of health care among
+female-to-male transgender individuals in the United States. JournalofHomosexuality,
+54(3), 243‑ 258. https://doi.org/10.1080/00918360801982124
+Reisner, S. L., Poteat, T., Keatley, J., Cabral, M., Mothopeng, T., Dunham, E., Holland, C. E.,
+Max, R., & Baral, S. D. (2016). Global health burden and needs of transgender
+populations  : A review.TheLancet,388(10042), 412‑ 436.
+https://doi.org/10.1016/S0140-6736(16)00684-X
+Romano, H. (2022). Lespersonnestransgenresfaceauxsoins.
+83
+Roy, J. D.-L. (2018). Interactions sociales et réponses émotionnelles  : Spécificitésd’un
+contexte interculturel. LePortique.Revuedephilosophieetdescienceshumaines, 42,
+Article 42. https://doi.org/10.4000/leportique.3486
+Safer, J. D., Coleman, E., Feldman, J., Garofalo, R., Hembree, W., Radix, A., & Sevelius, J.
+(2016). Barriers to Health Care for Transgender Individuals. Currentopinionin
+endocrinology,diabetes,andobesity, 23(2), 168‑ 171.
+https://doi.org/10.1097/MED.0000000000000227
+Sirufo, M. M., Magnanimi, L. M., Ginaldi, L., & De Martinis, M. (2022). Barriers to inclusive
+healthcare for transgender people. EuropeanJournalofRadiology, 153, 110367.
+https://doi.org/10.1016/j.ejrad.2022.110367
+Site de l’OMS. (s. d.). Genreetsanté. Consulté 5 mars 2022, à l’adresse
+https://www.who.int/fr/news-room/fact-sheets/detail/gender
+The World Professional Association for Transgender Health. (2013). StandardsdeSoinspour
+lasantédespersonnestranssexuelles,transgenresetdegenrenon-conforme.
+Trans-sante.fr. (2020). LettreouverteàlaFPATH. http://trans-sante.fr/
+United Nation Human Rights. (s. d.). Noted’information«Intersexe».
+Wanta, J. W., & Unger, C. A. (2017). Review of the Transgender Literature  : Where Do We Go
+from Here?TransgenderHealth, 2(1), 119‑ 128. https://doi.org/10.1089/trgh.2017.0004
+Winter, S. (2012). LostinTransition  :TransgenderPeople,RightsandHIVVulnerabilityin
+theAsia-PacificRegion.
+World Health Organisation. (1994). ICD-10.
+World Health Organisation. (2022). ICD-11.
+84
+Yougov. (2021). Internationalsurvey  :HowsupportivewouldBritonsbeofafamilymember
+comingout?|YouGov.
+https://yougov.co.uk/topics/international/articles-reports/2021/08/31/international-survey-
+how-supportive-would-britons-?utm source=twitter%20&utm medium=website article
+&utm campaign=support for LGBT family members
+85
+ANNEXES
+Annexe I : Notice explicative
+86
+
+Annexe II : Questionnaire
+Page 1 /7
+Ce mémoire est réalisé par Cléo Savignac, étudiante en 5ème année d'orthophonie au
+CFUO de Montpellier, et encadré par Samantha Bareau et Maël Legros, orthophonistes.
+Pour toute question concernant ce travail de recherche, vous pouvez vous adresser à :
+memoire.ortho.transidentite@gmail.com
+Ce questionnaire a pour vocation de recueillir les représentations et connaissances qu'ont
+les orthophonistes concernant les transidentités. Il est anonyme afin de permettre aux
+répondant·e·s de le compléter le plus sincèrement possible.
+Avant de commencer ce questionnaire :
+Je certifie être orthophoniste, diplômé·e d'un Centre de Formation Universitaire en
+Orthophonie français.
+Page 2/7
+Question 1 :
+V ous êtes diplômé·e du CFUO de :
+Amiens
+Besançon
+Bordeaux
+Caen
+Clermont-Ferrand
+Limoges
+Lille
+Lyon
+Marseille
+87
+Montpellier
+Nancy
+Nantes
+Nice
+Paris
+Poitiers
+Rouen
+Strasbourg
+Toulouse
+Tours
+Q.2 : V ous êtes diplômé·e depuis :
+Moins de 10 ans
+Entre 10 et 20 ans
+Entre 20 et trente ans
+Plus de 30 ans
+Q.3 : V ous êtes âgé·e de
+Moins de 30 ans
+Entre 30 et 40 ans
+Entre 40 et 50 ans
+Plus de 50 ans
+Q.4 : Avez-vous déjà reçu en consultation des personnes transgenres dans votre cabinet /
+lors de votre exercice salarié ?
+Oui
+Non
+88
+Q.5 : Si vous avez répondu "non" à la dernière question, pour quelle(s) raison(s) ?
+Car je ne me sens pas assez formé.e. par rapport à la demande.
+Car je ne suis pas intéressé·e.
+Car je n'ai jamais reçu de demande.
+Car je ne me sens pas à l'aise avec ces patient·e·s.
+Autre
+Q.6 : Avez-vous suivi une formation concernant l'accompagnement vocal des personnes en
+transition de genre ?
+Oui, lors de mes études.
+Oui, en formation continue.
+Non.
+Non, mais cela m’intéresserait.
+Q.7 : Pensez-vous être assez informé·e sur les transidentités de manière générale ?
+Oui.
+Pas assez.
+Non.
+Q.8 : Avez-vous dans votre entourage des personnes faisant partie de la communauté
+LGBT+ ? (Lesbienne, Gay, Bisexuel.le, Transgenre)
+Oui, des proches.
+Oui, des connaissances.
+Non, pas à ma connaissance.
+89
+Q.9 : Où avez-vous trouvé ce questionnaire?
+Reçu par mail
+Sur le groupe Facebook Ortho-infos
+Sur le groupe Facebook Sdorpacac Fno
+Dans une newsletter
+Page 3/7
+Pour cette série d'affirmations, il vous est demandé de répondre selon une échelle de 1 à 5,
+avec le barème suivant :
+1.Pasdutoutd'accord
+2.Pasd'accord
+3.Niendésaccordnid'accord
+4.D'accord
+5.Toutàfaitd'accord
+Questions 12345
+Q.10 : La transidentité est un effet de mode.
+Q.11 : Face à une personne transgenre, je me sens à l'aise.
+Q.12 : Selon moi, la transidentité est un trouble psychiatrique ou
+psychologique.
+Q.13 : Il est aisé pour moi de concevoir que certaines personnes
+puissent être non-binaires.
+(Non-binarité : le fait de ne pas se reconnaître dans la binarité
+homme/femme)
+Q.14 : Je considère que la transidentité est contraire à mes valeurs.
+Q.15 : Je considère qu'il y a une différence entre le sexe et le genre.
+Q.16 : Je trouve qu'il est important d'utiliser le prénom et les pronoms
+que mon interlocuteur ou interlocutrice me demande d'utiliser. (Par
+exemple, pour une personne en transition de genre féminin, j'utilise le
+pronom "elle" ainsi que le prénom féminin choisi.)
+90
+Questions 12345
+Q.17 : Je crains que l'image que mes patient·e·s et mes collègues ont
+de mon cabinet ou de ma pratique professionnelle puisse être affectée
+négativement si je m'investis dans l'accompagnement vocal des
+personnes transgenres.
+Q.18 : Les personnes transgenres devraient essayer de suivre une
+thérapie au lieu de transitionner.
+Q.19 : Si un proche m'annonçait sa transidentité, je réagirais
+favorablement.
+Q.20 : La transition de genre médicale (hormonothérapie, opérations,
+orthophonie...) ne devrait pas être prise en charge par la sécurité
+sociale.
+Q.21 : Il est important que les personnes transgenres puissent avoir
+accès facilement à un changement d'état civil si elles le souhaitent.
+Q.22 : Pour moi, un homme transgenre n'est pas un vrai homme ; une
+femme transgenre n'est pas une vraie femme.
+Q.23 : Je pense que les médias véhiculent de bonnes représentations
+concernant les transidentités.
+Q.24 : La transidentité est un choix.
+Q.25 : Les personnes transgenres souffrent peu de discriminations dans
+le domaine médical.
+Q.26 : Le suivi médical et paramédical des personnes transgenres est
+un suivi difficile qui demande plus de ressources et d’énergie aux
+professionnels de santé, comparativement au suivi d’autres patient·e·s.
+Q.27 : On peut être transgenre et heureux·se.
+Q.28 : Les parcours de transition ne devraient pas être ouverts aux
+personnes mineures (changement de prénom et pronoms, bloqueurs de
+puberté, opérations, etc.).
+Q.29 : Le sujet des transidentités est tabou pour moi.
+Page 4/7
+Q.30 : En quelques mots, pourriez-vous exprimer votre ressenti concernant les
+transidentités ?
+91
+Page 5/7
+Toutes ces affirmations sont vraies.Cochezcellesdontvousaviezdéjàconnaissance.
+Q.31 : Cochez les affirmations dont vous aviez déjà connaissance :
+L’orthophoniste peut être amené·e à accompagner des femmes transgenres.
+L’orthophoniste peut être amené·e à accompagner des hommes transgenres.
+L’orthophoniste peut être amené·e à accompagner des personnes non-binaires.
+Les personnes transgenres peuvent bénéficier du dispositif d'Affection Longue
+Durée (ALD) dans le cadre de leur transition.
+La transidentité n'est plus considérée comme une pathologie psychiatrique.
+La transition de genre peut revêtir à la fois des aspects médicaux, sociaux et
+juridiques.
+Un personne transgenre peut décider de ne pas transitionner médicalement, ou de
+ne pas avoir recours à tous les moyens médicaux de transition (par exemple ne
+pas réaliser certaines opérations, ne pas travailler sa voix, etc.)
+Je n'avais connaissance d'aucune de ces affirmations.
+Q.32 : J'avais déjà connaissance que ces professionnels de santé accompagnent les
+personnes transgenres dans le cadre de leur transition :
+Médecin généraliste
+Endocrinologue
+Chirurgien.ne
+Psychiatre
+Psychologue
+Infirmier.ère
+Kinesithérapeute
+Phoniatre
+Dermatologue
+Je n'avais connaissance d'aucune de ces affirmations.
+92
+Q.33 : J'avais déjà connaissance que le travail en orthophonie lors des transitions de genre
+peut s'axer sur :
+La hauteur de la voix et l'étendue vocale
+La prosodie
+La résonance
+La respiration
+L'intensité vocale
+L'articulation
+La voix chantée
+La communication non-verbale
+La prise en charge péri-opératoire des plis vocaux
+La thérapie manuelle
+La sensibilisation à l'hygiène vocale
+Je n'avais connaissance d'aucune de ces affirmations.
+Autre :
+Page 6/7
+Q.34 : En quelques mots, pourriez-vous exprimer vos ressentis ou questionnements
+concernant l'accompagnement médical et orthophonique des personnes transgenres ?
+Page 7/7
+Fin du questionnaire. Merci d'avoir pris le temps de répondre à ce questionnaire ! Nous
+tenions à vous informer que ce questionnaire a été élaboré pour faire ressortir des opinions,
+mais qu'en dehors de ce travail de recherche, il n'est pas souhaitable d'exprimer un avis non
+sollicité aux personnes transgenres.
+J'ai bien pris connaissance de cette information.
+93
+Annexe III: liens entre facteurs socio-démographiques et représentations par
+letest de Chi²
+Les résultats significatifs à p < 0.05 sont représentés en vert, les résultats non significatifs en rouge
+94
+
+95
+96
+Résumé
+Les personnes transgenres sont accompagnées par différent·e·s professionnel·le·s
+de santé, dont les orthophonistes, et sont souvent victimes de maltraitance par le milieu
+médical. Cette étude a pour but de faire un état des lieux des connaissances et
+représentations des orthophonistes sur les transidentités, afin d’évaluer les besoins de
+sensibilisation et de formation en France. 724 orthophonistes ont alors répondu à un
+questionnaire contenant 34 questions, sous forme de questions à choix multiple ou
+questions ouvertes. Les analyses de données chiffrées, conjointement à l’analyse des
+données textuelles, révèlent une bonne acceptation des transidentités par la majorité des
+orthophonistes. Iels sont cependant en difficulté face à un manque de sensibilisation et des
+connaissances théoriques relativement faibles qui impactent leur pratique orthophonique :
+une meilleure formation des orthophonistes français·e·s reste nécessaire à la qualité de
+l’accompagnement des personnes transgenres.
+Mots-clés: Orthophonie - Transidentités - Personnes transgenres - Accompagnement vocal
+- Connaissances - Représentations - Formation.
+97

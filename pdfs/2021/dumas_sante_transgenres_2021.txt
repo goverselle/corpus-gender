@@ -1,0 +1,2216 @@
+HAL Id: dumas-03582506
+https://dumas.ccsd.cnrs.fr/dumas-03582506v1
+Submitted on 21 Feb 2022
+HAL is a multi-disciplinary open access archive
+for the deposit and dissemination of scientific re-
+search documents, whether they are published or not.
+The documents may come from teaching and research
+institutions in France or abroad, or from public or pri-
+vate research centers.L’archive ouverte pluridisciplinaire HAL , est des-
+tinée au dépôt et à la diffusion de documents scien-
+tifiques de niveau recherche, publiés ou non, émanant
+des établissements d’enseignement et de recherche
+français ou étrangers, des laboratoires publics ou
+privés.
+Distributed under a Creative Commons CC BY-NC-SA 4.0 - Attribution - Non-commercial use - ShareAlike -
+International License
+Santé des personnes transgenres 2021. Étude quantitative
+explorant la santé, l’accès aux soins et les discriminations
+vécues par les personnes transgenres en France en 2021
+Margaux Cosne
+To cite this version:
+Margaux Cosne. Santé des personnes transgenres 2021. Étude quantitative explorant la santé, l’accès aux
+soins et les discriminations vécues par les personnes transgenres en France en 2021. Médecine humaine et
+pathologie. 2021. ⟨dumas-03582506⟩
+HAL Id: dumas-03577498
+https://dumas.ccsd.cnrs.fr/dumas-03577498
+Submitted on 16 F eb 2022
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in F rance or
+abroad, or from public or private research centers.L’archive ouverte pluridisciplinaire HAL , est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+Distributed under a Creative Commons Attribution - NonCommercial - ShareAlike| 4.0
+International License
+Santé des personnes transgenres 2021. Étude
+quantitative explorant la santé, l’accès aux soins et les
+discriminations vécues par les personnes transgenres en
+F rance en 2021
+Margaux Cosne, Margaux Santé
+T o cite this version:
+Margaux Cosne, Margaux Santé. Santé des personnes transgenres 2021. Étude quantitative explorant
+la santé, l’accès aux soins et les discriminations vécues par les personnes transgenres en F rance en
+2021. Médecine humaine et pathologie. 2021. ￿dumas-03577498￿
+HAL Id: dumas-03577233
+https://dumas.ccsd.cnrs.fr/dumas-03577233
+Submitted on 16 F eb 2022
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in F rance or
+abroad, or from public or private research centers.L’archive ouverte pluridisciplinaire HAL , est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+Distributed under a Creative Commons Attribution - NonCommercial - ShareAlike| 4.0
+International License
+Santé des personnes transgenres 2021. Étude
+quantitative explorant la santé, l’accès aux soins et les
+discriminations vécues par les personnes transgenres en
+F rance en 2021
+Margaux Cosne
+T o cite this version:
+Margaux Cosne. Santé des personnes transgenres 2021. Étude quantitative explorant la santé, l’accès
+aux soins et les discriminations vécues par les personnes transgenres en F rance en 2021. Médecine
+humaine et pathologie. 2021. ￿dumas-03577233￿
+UNIVERSITE DE MONTPELLIER 
+FACULTE DE MEDECINE MONTPELLIER -NIMES 
+THESE 
+Pour obtenir le titre de 
+DOCTEUR EN MEDECINE 
+Présentée et soutenue publiquement 
+Par 
+Margaux COSNE 
+Le 2 décembre 2021 
+SANTE DES PERSONNES TRANSGENRES 2021 
+Etude quantitative explorant la santé, l’accès aux soins et les 
+discriminations vécues par les personnes transgenres en France en 
+2021 
+Directeur de thèse : Dr Cyril PERROLLAZ 
+JURY 
+Président : Pr Philippe LAMBERT 
+Assesseurs : Pr Delphine CAPDEVIELLE 
+ Dr Alain MAKINSON 
+ Dr Cyril PERROLLAZ, directeur de thèse 
+2 UNIVERSITE DE MONTPELLIER 
+FACULTE DE MEDECINE MONTPELLIER -NIMES 
+THESE 
+Pour obtenir le titre de 
+DOCTEUR EN MEDECINE 
+Présentée et soutenue publiquement 
+Par 
+Margaux COSNE 
+Le 2 décembre 2021 
+SANTE DES PERSONNES TRANSGENRES 2021 
+Etude quantitative explorant la santé, l’accès aux soins et les 
+discriminations vécues par les personnes transgenres en France en 
+2021 
+Directeur de thèse : Dr Cyril PERROLLAZ 
+JURY 
+Président : Pr Philippe LAMBERT 
+Assesseurs : Pr Delphine CAPDEVIELLE 
+ Dr Alain MAKINSON 
+ Dr Cyril PERROLLAZ, directeur de thèse 
+3 
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+« – J’ai oublié de te raconter une partie du rêve. J’avais une barbe et ma poitrine était plate. Et 
+ça me rendait tellement heureuse. C’était une partie de moi que je ne peux pas expliquer, tu 
+comprends ? Theresa a secoué la tête. 
+ – Qu’est -ce que ça veut dire, Jess ? J’ai écrasé ma cigarette. 
+– C’était comme un truc qui était en moi depuis longtemps. Comme si j’avais grandi 
+différemment. Jamais de ma vie je n’ai voulu être différ ente, mais dans le rêve, j’aimais ça et 
+j’étais avec d’autres gens qui étaient différents, de la même façon que moi. Theresa a hoché la 
+tête. 
+– Mais je croyais que c’était ce que tu avais ressenti en découvrant les bars. J’ai réfléchi un 
+moment à ce qu’el le venait de dire. 
+– C’est vrai, ai -je repris, c’était la même chose. Mais dans le rêve, c’était pas le fait d’être gay, 
+c’était le fait d’être un homme ou une femme. Tu vois ce que je veux dire ? D’habitude, je dois 
+toujours prouver que je suis comme les autres femmes, mais dans le rêve, je ne ressentais pas 
+cette obligation. Je ne suis même pas sûre que je me sentais comme une femme. » 
+
+« Je ne dis pas qu’on verra une sorte de paradis de notre vivant. Mais le simple fait de se battre 
+pour le changement, ça nous rend plus fort. […] Tu te demandes déjà si le monde peut changer. 
+Essaie d’imaginer un monde dans lequel ça vaudrait le coup de vivre et demande -toi ensuite si 
+ça ne vaut pas la peine de se battre pour ça. » 
+ 
+Leslie F einberg, Stone Butch Blues , 1993. 
+
+22 
+ 
+ REMERCIEMENT S 
+ 
+Merci aux membres du jury, 
+A Monsieur le Professeur Philippe LAMBERT : Merci de me faire l’honneur de présider le jury 
+de ma soutenance de thèse. Votre expertise et votre expérience de la médecine générale sont 
+d’une grande importance . Soyez assuré de ma profonde reconnaissance et de mon respect. 
+A Madame le Professeur Delphine CAPDEVIELLE : Merci de me faire l’honneur de participer au 
+jury de ma soutenance de thèse. Votre expertise de la psychiatrie apporte un regard constructif 
+sur ce travail et je vous remercie de l’intérêt que vous avez porté à ce travail . Soyez assurée de 
+ma profonde reconnaissance et de mon respect. 
+A Monsieur le Docteur Alain MAKINSON : Merci de me faire l’honneur de participer au jury de 
+ma soutenance de thèse, merci pour l’intérêt que vous portez à ce travail , pour votre 
+humanisme, votre ouverture d’esprit et votre curiosité . Soyez assuré de ma profonde 
+reconnaissance et de mon respect. 
+A Monsieur le Docteur Cyril PERROLLAZ : Merci Cyril de m’avoir accompagnée et soutenue 
+dans cette aventure, d’avoir été partant dès le tout début jusqu’à la toute fin ! Merci pour ta 
+réactivité à toute épreuve, ta bienveillance et tes remarques pertinentes. Merci pour les 
+discussions autour de cafés partagés en temps frais, temps chaud, temps de confinement. Enfin 
+merci pour tout le soutien et l’énergie que tu m’as apportés dans ce travail, qui l’ont rendu plus 
+léger et agréable. 
+
+23 
+ 
+ Merci à toutes les personnes qui ont contribué à rendre ce pr ojet possible, 
+Merci à N., à A. à M., à L. et à K . pour votre aide précieuse à la conception du questionnaire ! 
+Merci à E. pour la traduction, 
+Merci à toutes les personnes et associations qui ont participé à diffuser ce projet. Ce travail 
+n’aurait pas pu voir le jour sans vous , 
+A Giovanna Rincon , merci d’avoir pris le temps de partager un peu de ton expérience et d’avoir 
+aidé à diffuser ce projet. 
+A Sœur Salem, merci d’avoir partagé avec moi ton expérience de la vie et de la santé LGBT et 
+de m’avoir inspirée quant au choix de ce sujet de thèse. 
+Aux Docteurs Yannick Barnier et G uillaume Birouste , merci pour votre aide pour la conception 
+et l’analyse du questionnaire. 
+A la Docteu re Elsa Fernique, merci d’avoir partagé tes connaissances et pour tes conseils 
+avisés. 
+Un grand merci à toutes les personnes qui ont participé au questionnaire, pour le temps que 
+vous y avez dédié et pour votre confiance . 
+
+24 
+ 
+ A mes chèr.e.x.s ex -collègues de SMV : 
+Merci à Laura, Virginie, Pascale, Laurie, Joc’ A ., Houarda, Bruno, Jessica, Nathalie, Fabien, 
+Grég oire, Antoine, Adrien, Isabelle, Marjorie, Marion, Lison, Natacha, Delphine, Dominique, 
+pour votre amour des gens , votre professionnalisme et votre bonne humeur, qui ont particip é à 
+faire de mon séjour à SMV une partie de pla isir. Merci pour tous ces moments de partages et 
+d’amiti é ! 
+Aux collègues de nuit : Assad, Philippe, Muriel, Anas, Laetitia, merci pour votre aide certaines 
+de ces nuits qui n’étaient pas de tout repos ! 
+A Caroline, merci pour l’intérêt que tu as porté à ce travail et pour ton aide dans ce projet ! 
+J’espère que nous aurons à nouveau l’occasion de travailler ensemble. 
+A Joc’ T., merci pour ton humour, ton rire, ta générosité, ton aide pour la relecture de l’intro ! 
+A Carole, merci pour ta bonne humeur, nos échanges, et ton aide pour relire l’intro ! 
+A Corinne L ., merci pour ta présence assurée et rassurante, pour les bons moments partagés . 
+A Christelle , merci pour ta franchise, merci de partager avec nous tes découvertes en 
+formation, merci d’être toi. 
+A Brigitte, merci pour ta présence, ta douceur, ta bienveillance, merci de nous avoir fait 
+découvrir Aniane et j’espère à nos futu res randos, cinés, sorties canoë, on va sûrement finir par 
+y arriver, qui sait ? 
+A Eléonore, merci pour ta bonne humeur, merci pour nos petits moments de confidentialité 
+partagé e entre la relève et les consultations. 
+A Norah, merci pour ta bonne humeur à toute épreuve, ton rire, ta manière d’égayer l’espace, 
+tout ça, et merci pour cet après -midi de traduction du questionnaire ! 
+A Nadine, merci pour ton soutien et tes conseils éclairés ! 
+A Corinne G, merci pour ton rire, présent chaque vendredi matin (j’exagère à peine) jusqu’à cet 
+été, merci pour l’intérêt que tu portes aux personnes de manière générale, merci d’être toi. 
+
+25 
+ 
+ Merci pour l’intérêt que tu as porté à mon travail et merci de m’avoir fait confiance en me 
+prêtant ta class e ! A très bientôt j’espère . 
+A mes anciens collègues et co -internes, 
+A mes ex -collègues du stage de neuro, Olivier, Lucas, Nicolas, Florian, Aurélie, Diane, Philine, 
+Hélène : merci de m’avoir accueillie dans votre semestre et fait découvrir vos belles spécialités, 
+merci pour le soutien dans les moments de galère ! 
+A Cécile : merci d’être cette vegan runner en puissance et neurologue de surcroît, tu es 
+vraiment un modèle pour mo i, je vous souhaite à toi et David plein de bonheur pour la suite ! 
+A Caroline, merci d’avoir partagé mes premiers pas de bébé interne, et pour les retrouvailles 
+presque chaque année devant un plat plus ou moins VG au resto du Corum. 
+Aux médecins qui m’ ont inspirée tout au long de ma formation : A Christophe F ontaine , à 
+Sylvie Y èche, à Bérengère Coestier, à Sylvie F abre , à Nicolas Gaillard , à Yoko Kikuchi , à 
+Danielle Blanc , à Sophie Gomez , à Mat thieu Vaucher , merci d ’être ces modèles d’inspiration et 
+d’avoir participé à faire de moi la médecin que je suis aujourd’hui. 
+A Amel , merci pour ton aide précieuse, ta bonne humeur, ta sympathie et ton amour des gens ! 
+A Camille et Lisa , merci de m’avoir mis sur la route de Cyril ! J’espère qu’o n aura l’occasion de 
+plus se rencontrer un de ces 4 ! 
+A Evelyne et Françoise , merci pour le temps que vous avez pris et vos conseils éclairés qui 
+m’ont bien aidée pour l’internat. 
+Aux amiiiiiiiiiiiiEs, 
+Aux S4ien .ne.s, Pauline, Elisa, Alice, Marion, Anaïs, Coralie, Cécilia, Patrick, Marine , Manon, 
+Marilyne , Vlad, Dorian : merci pour votre amitié, j’espère bien vous retrouver pour fêter la fin 
+de ces mois d’hermitage ! 
+A Laura , merci pour ton soutien et ta présence tou t au long de ces longues années de 
+médecine, merci pour ton amitié, pour les courses qui défoulaient, pour le séjour sportif et 
+salvateur à Annecy , pour toutes les fêtes et les ami.e.s partagées ! 
+
+26 
+ 
+ A Mathilde , merci d’être là, trop drôle de se dire qu’y a 11 ans, on entamait la délicieuse P1, et 
+aujourd’hui, nous voilà toutes deux doctorrrresses. Merci d’avoir été là pendant touuuuuutes 
+ces années de médecine, et avant, et après j’en doute pas, merci pour ton amitié, merci pour 
+les mercredis soirs de retrou vailles qui me font chaud au cœur. 
+A Cécile, Juliette, Claire, Julie, Lionel, Alex, Pierre, merci d’avoir égayé toutes ces années 
+d’externat! 
+A mes ami·e·s des Orangers, merci d’avoir toléré mon squat du salon agrémenté de kerns en 
+tout genre , merci Mathilde pour le yoga et les courses qui détendaient, merci Nico pour les 
+discussions théseuses et les projections de films qui détendaient plus ou moins, merci Thomas 
+pour les partages culinaires et les trouvailles gustatives , merci à vous 3 pour votre précieux 
+soutien, et merci aux buttes qui sponsorisent notre existence ! 
+A Jade , merci pour ton amitié, depuis la P2 et pour notre co-baroudage en passant par Prague 
+d’amour, Lisbonne, Trévise et Padoue, rue de Belfort <3, Belle -Île, Gr enoble et j’en passe, 
+bientôt je viens visiter la Dordogne et ses maisons dans les arbres ! 
+A Anaïs : un grand merci à SMV de m’avoir mis sur ton chemin ! Merci pour toutes ces soirées 
+post -consultations à refaire le monde, se battre au babyfoot sans prono ncer les mots interdits, 
+s’essayer au billard comme on pouvait. Merci pour ton aide dans ce travail, tes relectures, tes 
+idées. Merci de m’avoir fait rencontrer K. Merci pour ton amitié, ton soutien, ta présence. 
+A Manon , merci de nous avoir rejoint à SMV ! Quelle heureuse rencontre j’ai fait là, rue 
+Belmont cet été. Merci pour ta présence calme et rassurante dans les moments pas toujours 
+doux, pour ton énergie, ton enthousiasme et ta douceur. 
+A Eli, merci de m’avoir fait rencontrer toutes ces belles personnes, merci d’avoir participé à 
+cette soirée de brain storming pré -questionnaire ! Merci pour les soirées, les concerts, merci 
+d’être qui tu es, de partager tes révoltes qui aident à faire bouger les choses ! 
+A Gaëlle, Ayele, Saratte , merci pour nos soirées folles et dans l’attente des prochaines ! A Eva, 
+pour le surf, et les vacances et les ami.e.x.s partagées ! 
+
+27 
+ 
+ A Kim, merci pour ton aide précieuse lors de la construction du questionnaire, toi et Jana avez 
+eu de supers idées qui ont contribué à le ren dre possible ! Merci de m’avoir fait découvrir Leslie 
+Feinberg . 
+A Julie , Merci pour Annie Ernaux, merci pour tous nos moments partagés, les soirées folles de 
+notre été de rencontre, les discussions à l’infini, les soupes et les graines de potimarron, les 
+balades avignonnaises et alentours, la plage, la plage, la plage ! Merci d’être toi, et j’espère à 
+très vite. 
+A Sarah , merci pour ces 2 décennies d’amitié sans relâche, pour les dizaines de « salons de 
+thé », les mafés, les voyages trop bien, les fous rires et toutes les aventures partagées. Merci 
+d’être encore mon amie, et c’est pas fini hihi. 
+ A Doris , merci pour ton amitié, pour nos discussions de féministes enragées. Merci pour ton 
+aide dans la relecture et tes corrections de ouf, merci d’avoir mis Nath alie sur le coup et merci à 
+Nath alie aussi ! 
+A Hugo, merci d’être ce vieux copain qui quand je le retrouve a évolué comme j’ai évolué, dans 
+des directions pas toujours les mêmes mais qui se rejoignent tellement, que c’est à chaque fois 
+comme si on venait de se quitter ! Tu me manques, j’espère qu’on se voit bientôt. 
+A Emilie , merci poisson d’avoir été là pour ces dernières semaines mathiassantes malgré 
+l’humeur massacrante ! Merci pour ces belles années d'amitié et pour toutes les prochaines à 
+venir, à nos futur es vagues, sorties longboards, traversées de l’Atlantique, pizzas qui font 
+gonfler le ventre et les autres , et à nos 100 1 sujets de discussion qui ne s’épuisent jamais. A 
+nous, à nos futures aventures, de découvertes, de gens, de la vie. 
+A Martin, devenu s tray cat toulousain, tu me manques ! Va vraiment falloir qu’on se voie avant 
+qu’on arrive plus à se reconnaître ! 
+A Stéph’ , merci pour ce si beau flyer qui fut la star de cette thèse ! Merci pour tes partages, et 
+pour nos discussions philosophiques, éthiques, politiques. A nos prochaines randonnées 
+pédestres (on y croit) ou cycl estres (ça c’est bon) ! Et à t a future entreprise de sérigraphiste. 
+A Clém ’, vive l’auto -défense féministe ! Merci d’avoir organisé et animé jadis cette soirée pré -
+questionnaire, et d’avoir relu avec moi ce s grosse s bête s qu’étaient le questionnaire, puis 
+28 l’introduction , merci pour tes reformulations et tes idées pertinentes . Merci à toutes les 2 pour 
+votre ami tié, pour les soirées dans vos belles maisons et de m’avoir prêté Tito. 
+A Laetitia , merci, pour tout, je ne vais pas encore parler de ce matin de Mars où on a pris le 
+train pour aller se former à Grenoble (ah ben si). Je ne remercierai jamais assez nos Mat hiasses 
+de nous avoir balancées sur le même chemin, chemin qui sans elles sera maintenant plus léger. 
+(Mais oui, plus qu’une semaine !) Merci de m’avoir accompagnée dans cette drôle d’histoire 
+qu’était la thèse, j e n’y aurais pas pu y mettre cette énergie si tu n’avais pas été là . Nos 
+échanges, nos discussions enflammées, nos moments de (sérieux, parfois) travail partagé , et 
+tous les autres, ont été un moteur pour moi. Merci pour cet après -midi à travailler sagement au 
+Broc en attendant des nouvelles de L. Merci pour ton soutien le jour des coups de fil sympa. 
+Merci d’être toi, quoi, merci d’être mon amie, et de m’avoir aidée à faire ma thèse . 
+A Laurène , merci pour les pizzas, les soccas, pour nous avoir guidées dans Nice, pour nos 
+discussions sur la vie et les neurones , pour nos marquages de l’époque du basket, pour le 
+goûter à la Panacée ce jour où j’étais bien paumée, merci pour les tontes talentueuses . Bon 
+courage pour toute la suite, tu feras dans tous les cas une merveilleu se psy -chanteuse / neuro -
+chanteuse. Merci à toutes les deux, pour toutes ces journées -soirées squattées chez vous et 
+merci à Albert pour sa douceur et son regard qui tue. 
+A Charlotte, merci pour tes dons de terre, d’arbres, merci pour ces journées à travai ller nos 
+thèses ensemble ( ce fut si court, car tu fus si rapide !), merci pour nos courses semi -semi -
+(semi ?)marathoniennes et qui ne font que commencer. Merci d’être mon amie. Et puis m erci, 
+infiniment, pour tout ce temps que tu m’as prêté, merci pour tes conseils, ta feinte tyrannie, tes 
+remarques pertinentes et toute ton aide tellement précieuse de statisticienne qui a rendu 
+Mathias possible ! 
+29 A ma famille : 
+A Julie et Marylou , cousines pleines de vie et d’avenir, foncez ! A Christophe et Sam et aux 
+coups de soleil de Noël sur votre terrasse. 
+A Jean -Louis , merci pour l’intérêt que tu as porté à mes études, merci pour ce colis du 
+confinement qui a été bien utile ! 
+A Maleaume , pour ton humour, et ta capacité à nous supporter. 
+A Maeva , que j’ai h âte d’apprendre à connaître un peu plus ! 
+A mes parents , merci d’abord pour votre aide dans ce travail, et surtout merci pour votre 
+soutien, votre présence infaillible à tout moment de la vie, merci de m’avoir nourrie telle 
+l’oisillon ne jusqu’à hier encore, merci pour votre amour, 
+A Maxime , merci pour ton aide à la relecture, merci d’être mon frère d’amour, d’être si curieux, 
+vif, merci pour les discussions passionnées, pour les délicieux curry thaï sur commande ! 
+A Gautier, merci pour tes conseils de biostatisticien , merci pour les voyages partagés dans l ’eau 
+turquoise , les cours de surf , la permaculture , les débats sur le monde , le vélo sur le canal ! 
+A Fanny , merci ma sœur pour tout ce que tu m’apportes, pour ta créativité, ton amour, merci 
+d’être toi. Et bisous à Boo ! 
+A vous cinq , merci pour votre amour, votre force , votre présence, votre authenticité, merci 
+d’avoir participé à faire de moi qui je suis , je vous aime. A tou·te·x·s nos bestiaux , présents, 
+passés, futurs ! et au pain qui tombe par terre. 
+A Mamie Co , merci pour les révisions du bac, merci de m’avoir fait confiance en me prêtant ton 
+étude, merci pour les étés en concerts au Corum , merci d’être cette grand -mère forte, 
+inspirante , cultivée, drôle, pleine d’amour et de curiosité. 
+A Mamie Alice , et au Hussard sur le toit. 
+
+30 
+
+31 TABLE DES MATIERES 
+REMERCIEMENTS 22 
+TABLE DES MATIERES 31 
+LEXIQUE 41 
+ABREVIATIONS UTILISEES 43 
+PREAMBULE 45 
+I. INTRODUCTION 46 
+A. Contexte ................................ ................................ ................................ ................................ ...................... 46 
+1. La population transgenre ................................ ................................ ................................ ................................ .... 46 
+a) Qui sont les personnes transgenres ? ................................ ................................ ................................ ........ 46 
+b) Quelle est la taille de la population transgenre ? ................................ ................................ ...................... 47 
+2. Quels sont les besoins en santé en lien avec la transition ? ................................ ................................ .......... 47 
+a) Besoins en santé en lien avec la transition médicale ................................ ................................ ................ 47 
+b) Place du·de la médecin généraliste ................................ ................................ ................................ ........... 48 
+B. Etat de santé global des personnes transgenres ................................ ................................ .......................... 50 
+1. Bien -être physique ................................ ................................ ................................ ................................ ........ 50 
+a) Exposition aux cancers ................................ ................................ ................................ .............................. 50 
+b) Exposition au VIH ................................ ................................ ................................ ................................ ....... 51 
+c) Santé gynécologique ................................ ................................ ................................ ................................ . 51 
+d) Santé liée aux prises d’hormones ................................ ................................ ................................ .............. 51 
+e) Santé liée aux chirurgies ................................ ................................ ................................ ............................ 52 
+f) Préservation de la fertilité ................................ ................................ ................................ ......................... 52 
+2. Bien -être mental ................................ ................................ ................................ ................................ ............ 53 
+a) Une santé mentale préoccupante ................................ ................................ ................................ ............. 53 
+b) Une santé mentale améliorée par le traitement hormonal ................................ ................................ ...... 53 
+c) Des consommations à risques ................................ ................................ ................................ ................... 54 
+d) Troubles du comportement alimentaire ................................ ................................ ................................ ... 54 
+32 3. Bien -être social ................................ ................................ ................................ ................................ .............. 54 
+a) Transidenti té et stress minoritaire ................................ ................................ ................................ ............ 54 
+b) Isolement ................................ ................................ ................................ ................................ ................... 55 
+c) Précarités financière, d’emploi, de logement ................................ ................................ ........................... 56 
+d) Conséquences de la pandémie de COVID19 ................................ ................................ .............................. 57 
+4. La transphobie et son impact sur les personnes transgenres ................................ ................................ ........ 58 
+a) Qu’est -ce que la transphobie et où la trouve -t-on dans la société? ................................ ......................... 58 
+b) Violences transphobes et discriminations, impact socio -émotionnel ................................ ....................... 61 
+c) Conséquences sur la santé mentale ................................ ................................ ................................ .......... 62 
+C. Accès aux soins ................................ ................................ ................................ ................................ ............ 63 
+1. Enjeux de l’accès aux soins ................................ ................................ ................................ ............................ 63 
+2. Les freins à l’accès aux soins au sein de la population transgenre ................................ ................................ 65 
+a) Freins à l’accès au parcours de transition médicale ................................ ................................ .................. 65 
+b) Freins à l’accès aux soins au quotidien ................................ ................................ ................................ ...... 66 
+3. Autre frein à l’accès aux soins : la transphobie médicale ................................ ................................ .............. 67 
+a) Un parcours médical semé de transphobie ................................ ................................ ............................... 68 
+b) Histoire récente de la médecine des transidentités ................................ ................................ .................. 68 
+c) Confrontation aux réalités trans ................................ ................................ ................................ ................ 69 
+d) Vers un avenir différent ? ................................ ................................ ................................ .......................... 71 
+4. Conséquences des difficultés d’accès aux soins sur la santé des personnes transgenres ............................. 71 
+a) Eviction des lieux de soins ................................ ................................ ................................ ......................... 71 
+b) Des besoins en santé non satisfaits ................................ ................................ ................................ ........... 72 
+c) Une perte de données médicales ................................ ................................ ................................ .............. 72 
+D. Ce qu’on ne sait pas : manque de données ................................ ................................ ................................ ..73 
+1. Ce qu’on étudie peu ................................ ................................ ................................ ................................ ....... 73 
+a) Un nombre restreint de travaux scientifiques ................................ ................................ ........................... 73 
+b) Des sujets d’études répartis de manière inégale ................................ ................................ ...................... 73 
+c) Certains sujets très peu étudiés ................................ ................................ ................................ ................ 74 
+d) Une santé trans « noyée » dans la « santé LGBT » ................................ ................................ .................... 74 
+e) Trop peu d’études concernant les différentes populations qui composent la communauté trans .......... 74 
+2. Pourquoi est -il nécessaire d’étudier plus ? ................................ ................................ ................................ .... 75 
+a) Pour la santé de tout le monde ................................ ................................ ................................ ................. 75 
+b) Pour améliorer la formation des acteur·rice·s de soins ................................ ................................ ............. 75 
+c) Enfin et surtout, pour améliorer l’accès aux soins et la santé des personnes transgenres ...................... 76 
+3. Et en France ? ................................ ................................ ................................ ................................ ................. 76 
+a) Un retard français ................................ ................................ ................................ ................................ ...... 76 
+33 b) Comment expliquer ce retard français ? ................................ ................................ ................................ ... 77 
+c) Les dernières données françaises ................................ ................................ ................................ .............. 77 
+4. Question de recherche et objectifs ................................ ................................ ................................ ................ 78 
+a) Question de recherche ................................ ................................ ................................ .............................. 78 
+b) Objec tifs principal et secondaires ................................ ................................ ................................ ............. 78 
+II. MATERIELS ET METHODES 80 
+A. DESCRIPTION DE L’ENQUETE ................................ ................................ ................................ ........................ 80 
+1. Type d’étude ................................ ................................ ................................ ................................ .................. 80 
+2. Construction et structure du questionnaire ................................ ................................ ................................ .. 80 
+a) Construction du questionnaire ................................ ................................ ................................ .................. 80 
+b) Relecture et révision du questionnair e ................................ ................................ ................................ ..... 81 
+c) Nombre et type de questions ................................ ................................ ................................ .................... 81 
+d) Temps de réponse ................................ ................................ ................................ ................................ ..... 82 
+e) Organisatio n du questionnaire et questions ................................ ................................ ............................. 82 
+f) Accessibilité et sécurité du questionnaire ................................ ................................ ................................ . 83 
+3. Mise en ligne ................................ ................................ ................................ ................................ .................. 84 
+a) Logiciel de mise en ligne, hébergement, financement ................................ ................................ .............. 84 
+b) Anonymat et protection des données sur le site ................................ ................................ ...................... 84 
+4. Informations données aux répondant∙e∙x∙s ................................ ................................ ................................ ... 85 
+5. Financement ................................ ................................ ................................ ................................ .................. 85 
+6. Ethique et protection des données, comité de protection des personnes ................................ .................... 85 
+B. POPULATION ................................ ................................ ................................ ................................ ............... 87 
+1. Mode d’échantillonnage ................................ ................................ ................................ ................................ 87 
+2. Critères d’inclusion et d’exclusion ................................ ................................ ................................ ................. 87 
+3. Nombre de sujets nécessaires ................................ ................................ ................................ ....................... 87 
+C. DIFFUSION ................................ ................................ ................................ ................................ ................... 88 
+1. Période du recueil de données ................................ ................................ ................................ ...................... 88 
+2. Graphisme, flyers ................................ ................................ ................................ ................................ ........... 88 
+3. Mode de diffusion ................................ ................................ ................................ ................................ .......... 88 
+a) Stratégie de mobilisation ................................ ................................ ................................ ........................... 88 
+b) Diffusion par emails ................................ ................................ ................................ ................................ ... 89 
+c) Diffusi on sur Facebook ................................ ................................ ................................ .............................. 89 
+d) Diffusion par les flyers papiers ................................ ................................ ................................ .................. 90 
+D. ANALYSE ET TRAITEMENT DES DONNEES ................................ ................................ ................................ .....91 
+
+34 
+ 
+ 1. Type d’analyse ................................ ................................ ................................ ................................ ............... 91 
+2. Plan d’analys e ................................ ................................ ................................ ................................ ................ 91 
+E. RECHERCHE BIBLIOGRAPHIQUE ................................ ................................ ................................ ................... 92 
+III. RESULTATS 94 
+A. Caractéristique s de la population répondante ................................ ................................ ............................. 96 
+1. Caractéristiques sociodémographiques ................................ ................................ ................................ ......... 96 
+a) Identité de genre et sexe assigné à la naissance ................................ ................................ ....................... 96 
+a) Age ................................ ................................ ................................ ................................ ............................. 97 
+b) Nationalité ................................ ................................ ................................ ................................ ................. 97 
+c) Dernier diplôme obtenu ................................ ................................ ................................ ............................ 97 
+d) Catég ories socio -professionnelles et activité professionnelle ................................ ................................ .. 98 
+e) Lieu de vie ................................ ................................ ................................ ................................ .................. 99 
+f) Répartition des répondant∙e∙x∙s par département ................................ ................................ .................... 99 
+2. Environnement social des répondant·e·x·s ................................ ................................ ................................ .. 101 
+a) Stabilité – sécurité ................................ ................................ ................................ ................................ ... 101 
+b) Caractéristiques liées à l’entourage ................................ ................................ ................................ ........ 103 
+B. Vécus de violences et de discriminations ................................ ................................ ................................ ... 106 
+1. Points de rencontre de différentes stigmatisations ................................ ................................ ..................... 106 
+a) Violences transphobes ................................ ................................ ................................ ............................ 106 
+b) Violences basées sur l’apparence physique ................................ ................................ ............................ 106 
+c) Violences basées sur l’orientation sexuelle ................................ ................................ ............................. 107 
+d) Violences basées sur l’état de santé psychologique ................................ ................................ ............... 107 
+e) Violences basées sur l’âge ................................ ................................ ................................ ....................... 107 
+f) Violences basées sur la situation économique ou le lieu de résidence ................................ ................... 108 
+g) Violences basées sur l’accent ou la maîtrise du français ................................ ................................ ......... 108 
+h) Violences basées sur l’appartenance religieuse ................................ ................................ ...................... 108 
+i) Violences basées sur la couleur de peau ................................ ................................ ................................ . 109 
+j) Aucune de ces violences ................................ ................................ ................................ .......................... 109 
+k) Violences basées sur d’autres caractéristiques ................................ ................................ ....................... 109 
+2. Violences basées sur la transidentité ou l’expression de genre ................................ ................................ .. 109 
+a) Types de violences transphobes ................................ ................................ ................................ .............. 109 
+b) Lieux de vécu de la trans phobie ................................ ................................ ................................ .............. 111 
+c) Lieux évités en raison de la transphobie ................................ ................................ ................................ . 114 
+3. Transphobies vécues dans les lieux de soins ................................ ................................ ............................... 116 
+a) Professions médicales ................................ ................................ ................................ ............................. 117 
+35 b) Professions paramédicales ................................ ................................ ................................ ...................... 117 
+c) Transphobie provenant de professions médicales ................................ ................................ .................. 117 
+d) Déclaration de transphobie provenant de professions paramédicales ................................ ................... 119 
+e) Conséquences de la transphobie vécue da ns les lieux de soins ................................ .............................. 120 
+C. Santé générale ................................ ................................ ................................ ................................ ........... 122 
+1. Accès aux soins - Couverture des frais médicaux ................................ ................................ ........................ 122 
+a) Sécurité sociale ................................ ................................ ................................ ................................ ........ 122 
+b) Complémentaire ................................ ................................ ................................ ................................ ...... 122 
+c) Médecin traitant·e déclaré·e ................................ ................................ ................................ ................... 123 
+d) ALD liée à la transidentité ................................ ................................ ................................ ........................ 124 
+e) Carte vitale à jour ................................ ................................ ................................ ................................ .... 125 
+2. Santé générale ................................ ................................ ................................ ................................ ............. 125 
+a) Auto -évaluation de l’état de santé perçu ................................ ................................ ................................ 125 
+b) IMC et activité physique ................................ ................................ ................................ .......................... 126 
+3. Accès aux soins primaires ................................ ................................ ................................ ............................ 127 
+a) Consultations en médecine générale ................................ ................................ ................................ ...... 127 
+b) Quel·le·s professionnel·le·s de santé consulté·e·s ................................ ................................ ................... 127 
+c) Absence de consultation malgré un problème de santé identifié ................................ ........................... 128 
+4. Accès aux soins spécialisés ................................ ................................ ................................ ........................... 129 
+a) Soins ophtalmologiques ................................ ................................ ................................ .......................... 129 
+b) Soins dentaires ................................ ................................ ................................ ................................ ........ 130 
+5. Santé préve ntive ................................ ................................ ................................ ................................ .......... 130 
+a) Vaccinations ................................ ................................ ................................ ................................ ............. 130 
+b) Dépistages des cancers ................................ ................................ ................................ ............................ 132 
+6. Santé liée à la pandémie de COVID19 ................................ ................................ ................................ .......... 135 
+a) Infection par la COVID19 ................................ ................................ ................................ ......................... 135 
+b) Lieux de confinement ................................ ................................ ................................ .............................. 136 
+D. Santé intime et liée à la sexualité ................................ ................................ ................................ .............. 137 
+1. Santé intime ................................ ................................ ................................ ................................ ................. 137 
+a) Problèmes de santé rencontrés ................................ ................................ ................................ ............... 137 
+b) Consultations en gynécologie ................................ ................................ ................................ .................. 140 
+2. Santé liée à la sexualité ................................ ................................ ................................ ................................ 142 
+a) Prévention des IST ................................ ................................ ................................ ................................ ... 142 
+b) Comportements à risques ................................ ................................ ................................ ....................... 143 
+c) Prévalence des IST ................................ ................................ ................................ ................................ ... 144 
+d) Contraception ................................ ................................ ................................ ................................ .......... 145 
+
+36 
+ 
+ E. Consommations de substances psychoactives ................................ ................................ ........................... 146 
+1. Alcool ................................ ................................ ................................ ................................ ........................... 146 
+2. Tabac ................................ ................................ ................................ ................................ ............................ 146 
+3. Autres substances psy choactives ................................ ................................ ................................ ................. 147 
+a) Produits consommés ................................ ................................ ................................ ............................... 147 
+b) Mode de consommation ................................ ................................ ................................ ......................... 148 
+c) Contexte de consommation ................................ ................................ ................................ .................... 148 
+F. Bien -être mental ................................ ................................ ................................ ................................ ........ 149 
+1. Consultations pour un soutien psychologique ................................ ................................ ............................. 149 
+a) Qui consulte ................................ ................................ ................................ ................................ ............. 149 
+b) Quel·le·s professionnel·le·s de santé sont consulté·e·s ................................ ................................ ........... 149 
+c) Raisons de non -consultation ................................ ................................ ................................ ................... 150 
+2. Difficultés liées au sommeil ................................ ................................ ................................ ......................... 150 
+a) Présence de troubles du sommeil ................................ ................................ ................................ ........... 150 
+b) Différents problèmes liés du sommeil ................................ ................................ ................................ ..... 150 
+3. Difficultés liées à l’alimentation ................................ ................................ ................................ ................... 151 
+a) Boulimie / hyperphagie ................................ ................................ ................................ ........................... 151 
+b) Anorexie ................................ ................................ ................................ ................................ .................. 152 
+c) Hyperactivité sportive dans le but de maigrir ................................ ................................ ......................... 152 
+d) Aucun des problèmes cités ci -dessus ................................ ................................ ................................ ...... 152 
+4. Antécédents psychiatriques, risque suicidaire ................................ ................................ ............................. 152 
+a) Antécédents psychiatriques identifiés ................................ ................................ ................................ .... 152 
+b) Antécédents d’acte auto -agressif ................................ ................................ ................................ ............ 153 
+c) Antécédents d’i dées suicidaires ................................ ................................ ................................ .............. 153 
+d) Antécédents de tentative de suicide ................................ ................................ ................................ ....... 154 
+G. Santé liée à la transition ................................ ................................ ................................ ............................ 155 
+1. Actes réalisés dans le cadre de la transition ................................ ................................ ................................ 155 
+a) Expression de genre, actes non médicaux ................................ ................................ ............................... 155 
+b) Transition sociale et administrative ................................ ................................ ................................ ........ 157 
+c) Transition médicale et chirurgicale ................................ ................................ ................................ ......... 160 
+2. Parcours de soin ................................ ................................ ................................ ................................ ........... 162 
+a) Accompagnement médical de la transition ................................ ................................ ............................. 162 
+b) Recours à des professionnel·le·s de la santé mentale dans le cadre de la transition ............................. 165 
+3. Transition hormonale ................................ ................................ ................................ ................................ ... 168 
+a) Consommations d’hormones ................................ ................................ ................................ .................. 168 
+b) Moyen de procuration des hormones ................................ ................................ ................................ ..... 169 
+37 c) Problèmes de santé apparus après la prise d’hormones ................................ ................................ ........ 174 
+d) Satisfaction vis -à-vis du traitement hormonal ................................ ................................ ........................ 184 
+4. Santé liée aux chirurgies réalisées dans le cadre de la transition ................................ ................................ 185 
+a) Soins de kinésithérapie post -opératoires ................................ ................................ ................................ 185 
+b) Chirurgie(s) du torse / de la poitrine ................................ ................................ ................................ ....... 186 
+c) Chirurgie(s) du v isage ................................ ................................ ................................ .............................. 189 
+d) Chirurgie(s) des organes génitaux ................................ ................................ ................................ ........... 190 
+5. Utilisation de remplisseurs cutanés ................................ ................................ ................................ ............. 196 
+H. Tableaux des résultats ................................ ................................ ................................ ............................... 197 
+1. Tableau 1 : Caractéristiques socio -démographiques ................................ ................................ ................... 197 
+2. Tableau 2 : Sécurité stabilité précarité ................................ ................................ ................................ ........ 199 
+3. Tableau 3 : Discriminations et violences transphobes ................................ ................................ ................. 200 
+4. Tableau 4 : Transphobie au sein des lieux de soins ................................ ................................ ..................... 202 
+5. Tableau 5 : Acc ès aux soins ................................ ................................ ................................ .......................... 203 
+6. Tableau 6 : Santé générale ................................ ................................ ................................ ........................... 204 
+7. Tableau 7 : Consultations médicales ................................ ................................ ................................ ............ 205 
+8. Tableau 8 : Vaccinations ................................ ................................ ................................ .............................. 206 
+9. Tableau 9 : Santé liée à la COVID19 ................................ ................................ ................................ ............. 207 
+10. Tableau 10 : Santé intime et liée et à la sexualité ................................ ................................ ................... 208 
+11. Tableau 11 : Consommations de substances psychoactives ................................ ................................ ... 210 
+12. Tableau 12 : Santé mentale ................................ ................................ ................................ ..................... 211 
+13. Tableau 13 : Actes réalisés dans le cadre de la transition ................................ ................................ ....... 213 
+14. Tableau 14 : Parcours de soin lié à la transition ................................ ................................ ...................... 215 
+15. Tableau 15 : Transition hormonale ................................ ................................ ................................ .......... 217 
+16. Tableau 16 : Santé liée aux hormones ................................ ................................ ................................ ..... 219 
+17. Tableau 17 : Santé liée aux chirurgies ................................ ................................ ................................ ..... 221 
+IV. DISCUSSION 223 
+A. Forces et limit es de la recherche ................................ ................................ ................................ ................ 224 
+1. Forces de la recherche ................................ ................................ ................................ ................................ . 224 
+2. Validité interne de l’étude ................................ ................................ ................................ ........................... 224 
+3. Validité externe de l’étude ................................ ................................ ................................ .......................... 225 
+a) Diffusion sur les réseaux sociaux ................................ ................................ ................................ ............. 225 
+b) Temps de réponse au questionnaire ................................ ................................ ................................ ....... 226 
+B. Caractéristiques socio -démographiques des répondant∙e∙x∙s ................................ ................................ .... 228 
+a) Population jeune ................................ ................................ ................................ ................................ ..... 228 
+
+38 
+ 
+ b) Majorité transmasculine ................................ ................................ ................................ .......................... 228 
+c) Nationalité des répondant·e·x·s ................................ ................................ ................................ .............. 229 
+d) Activité professionnelle ................................ ................................ ................................ ........................... 230 
+e) Population diplômée ................................ ................................ ................................ ............................... 231 
+f) Population urbaine et rurale ................................ ................................ ................................ ................... 231 
+C. Santé ................................ ................................ ................................ ................................ ......................... 233 
+1. Bien -être physique ................................ ................................ ................................ ................................ ....... 233 
+a) Auto -évaluation de l’état de santé ................................ ................................ ................................ .......... 233 
+b) IMC, activité physique ................................ ................................ ................................ ............................. 233 
+c) Dépistages ................................ ................................ ................................ ................................ ............... 234 
+d) Consommation d’alcool ................................ ................................ ................................ ........................... 235 
+e) Consommation de tabac et e -cigarette ................................ ................................ ................................ ... 235 
+f) Consommations de substances psychoactives ................................ ................................ ........................ 236 
+g) IST ................................ ................................ ................................ ................................ ............................ 237 
+h) Vaccinations ................................ ................................ ................................ ................................ ............. 240 
+i) COVID19 ................................ ................................ ................................ ................................ .................. 241 
+j) Effets indésirables des hormones ................................ ................................ ................................ ............ 242 
+k) Complications post -opératoires ................................ ................................ ................................ .............. 243 
+2. Bien -être mental ................................ ................................ ................................ ................................ .......... 245 
+a) Auto -évaluation du bien -être mental ................................ ................................ ................................ ...... 245 
+b) Troubles du comportement alimentaire ................................ ................................ ................................ . 245 
+c) Troubles du sommeil ................................ ................................ ................................ ............................... 246 
+d) Antécédents psychiatriques ................................ ................................ ................................ .................... 246 
+e) Idées suicidaires et actes auto -agressifs ................................ ................................ ................................ . 248 
+f) Un bien -être mental amélioré par le traitement hormonal ................................ ................................ .... 250 
+3. Bien -être social ................................ ................................ ................................ ................................ ............ 252 
+a) Sécurité financière ................................ ................................ ................................ ................................ ... 252 
+b) Stabilité du logement ................................ ................................ ................................ .............................. 253 
+c) Existence d’une personne ressource ................................ ................................ ................................ ....... 254 
+d) Violences ................................ ................................ ................................ ................................ ................. 255 
+D. Accès aux soins primaires ................................ ................................ ................................ .......................... 263 
+1. Couverture des frais médicaux ................................ ................................ ................................ .................... 263 
+a) Sécurité sociale ................................ ................................ ................................ ................................ ........ 263 
+b) Complémentaire santé ................................ ................................ ................................ ............................ 263 
+c) ALD liée à la transidentité ................................ ................................ ................................ ........................ 263 
+d) Congruence administrative ................................ ................................ ................................ ..................... 264 
+39 2. Consultations médicales ................................ ................................ ................................ .............................. 265 
+a) Consultations de médecine générale ................................ ................................ ................................ ...... 265 
+b) Soins spécialisés ................................ ................................ ................................ ................................ ....... 267 
+c) Soins moins ou non remboursés ................................ ................................ ................................ ............. 268 
+3. Parcours de soins lié à la transition ................................ ................................ ................................ ............. 269 
+a) Choix du parcours d’accompagnement médical de la transition ................................ ............................ 269 
+b) Choix des professionnel·le·s de santé paramédicaux. ................................ ................................ ............. 270 
+c) Rapport aux médecins dans le cadre de la transition ................................ ................................ .............. 271 
+E. Et les médecins généralistes, dans tout ç a ................................ ................................ ................................ . 275 
+1. Place du·de la médecin généraliste observée dans le parcours de santé trans ................................ .......... 275 
+2. Comment améliorer cette place du∙de la médecin généraliste dans l’accompagnement médical des
+personnes trans? ................................ ................................ ................................ ................................ .................. 276 
+a) Amélioration de l’accès aux soins – leviers des freins ................................ ................................ ............. 276 
+b) Santé physique et mentale ................................ ................................ ................................ ...................... 277 
+V. CONCLUSION 279 
+BIBLIOGRAPHIE 281 
+ANNEXES 290 
+Annexe 1 : Message en page d’accueil du questionnaire en ligne ................................ ................................ ....... 290 
+Annexe 2 : Première version de l’email -type envoyé aux associations ................................ ............................... 291 
+Annexe 3 : Copie d’écran du post public sur facebook datant du 25/06/2021 auquel était associé le flyer virtuel
+ ................................ ................................ ................................ ................................ ................................ ........... 293 
+Annexe 4 : Flyer virtuel invitant à participer à l’enquête ................................ ................................ .................... 294 
+Annexe 5 : Questio nnaire d’auto -évaluation validé par le CPP ................................ ................................ ........... 295 
+Annexe 6 : Version imprimable du questionnaire ................................ ................................ ............................... 304 
+SERMENT D’HIPPOCRATE 361 
+RÉSUMÉ 363
+40 
+
+41 
+ 
+ LEXIQUE 
+ 
+Discrimination : Lorsqu'elle est fondée sur l'identité de genre, la discrimination a pour effet de 
+refuser à quelqu’un.e un bien, un service ou un droit, sur la base de son identité de genre. 
+Dysphorie : le planning familial décrit la dysphorie de genre comme « une sensa tion 
+d’inconfort, de détresse ou de rejet résultant de son assignation à la naissance. Elle peut être 
+liée au corps et/ou à des critères sociaux. Ce terme d'origine médicale est souvent utilisé de 
+façon abusive, comme un critère. Or, une personne trans ne ressent pas nécessairement de la 
+dysphorie. Cette dysphorie peut, en revanche, être déclenchée par des situations qui peuvent 
+sembler anodines aux autres » (1). 
+Femme transgenre : une femme transgenre est une femme dont le sexe (au sens de genre) 
+assigné à la naissance était masculin. 
+Genre : selon l’OMS, p ar «genre», on entend l ’ensemble des rôles qui, selon la représentation 
+que s'en fait la société, déterminent les c omportements, les activités, les attentes et les 
+chances considérés comme adéquats pour tout un chacun dans un contexte socio culturel 
+donné (2). 
+Homme transgenre : un homme transgenre est un homme dont le sexe (au sens de genre) 
+assigné à la naissance était féminin. 
+Mégenrer : Utiliser un pronom ou des accords qui ne sont pas ceux utilisés par la personne. Si 
+le mégenrage est volontaire, il s’agit d’un acte transphobe particulièrement blessant. S’il est 
+accidentel, mais répété parce que la personne ne souhaite pas réellement s’ en préoccuper, 
+cette négligence est considérée comme un acte transphobe (3). 
+Outer : Action de dévoiler l’orientation sexuelle ou l’identité de genre d'une personne 
+LGBTI sans son accord. Il s'agit d'une atteinte à la vie privée. Pour la personne "outée", 
+c’est un acte d’une grande violence, qui peut l’exposer, la fragiliser ou la mettre en danger 
+(4). 
+
+42 
+ 
+ Personne cisgenre : une personne cisgenre est une personne non transgenre, personne qui vit 
+dans le genre qui lui a été assigné à la naissance (5). 
+Personne intersexe : L’intersexuation désigne la situation soci ale des personnes nées avec des 
+caractéristiques sexuelles primaires et/ou secondaires considérées comme ne correspondant 
+pas aux définitions sociales et médicales typiques du féminin et du masculin (6). 
+Personne non -binaire : Personne dont le genre n'est pas "homme" ou "femme" : cela pe ut être 
+une combinaison, une absence (agenre), ou un genre autre. Les personnes non -binaires sont 
+inclues dans les vécus trans. Mais certaines peuvent ne pas se définir trans. Chaque personne 
+non-binaire peut avoir ou non un besoin de transition médicale e t/ou administrative (1). 
+Personne transgenre : une personne transgenre est une personne qui vit ou souhaite vivre 
+dans un genre différent de celui qui lui a été assigné à la naissance, cela inclut toutes les 
+personnes ayant fait ou souhaitant faire une transition, qu’elles aient ou non recours à des 
+traitements médicaux et/ou chirurgicaux dans cet objectif (5). 
+Transidentité : La transidentité est le fait, pour une personne transgenre, d’avoir une identité 
+de genre différente du « sexe » assigné à la naissance, contrairement à une personne cisgenre 
+(3). 
+Transition : indifféremment utilisé pour désigner une transition médicale (hormones, 
+chirurgies, autres) et/ou sociale et/ou administrativ e, la transition est l’ensemble des actes que 
+va accomplir une personne trans afin de se sentir mieux dans son genre (1). 
+Transphobie : la transphobie est définie par l’association OUTrans comme le rejet ou la haine 
+des personnes trans et/ou des transidentités (5). 
+
+43 
+ 
+ ABREVIATIONS UTILISEES 
+ 
+AFAB : Assigned Female At Birth (en), c’est -à-dire « assigné·e·x fille à la naissance » 
+ALD : Affection Longue Durée 
+AMAB : Assigned Male At Birth (en), c’est -à-dire « assigné·e·x garçon à la naissance » 
+AMM : Autorisation de Mise sur le Marché 
+BEH : Bulletin Epidémiologique Hebdomadaire 
+CEDH : Cour Européenne des Droits de l’Homme 
+CPAM : Caisse Primaire d’Assurance Maladie 
+DGOS : Direction Générale de l’Offre de Soin 
+DREES : Direction de la Recherche, des Etudes, de l’Evaluation et des Statistiques 
+EHIS -ESPS : European Health Interview Survey - Enquête Santé et Protection Sociale, menée en Europe 
+en 2014 
+FCV : Frottis Cervico -Vaginal 
+FPATH : French Professional Association for Transgender Health 
+HAS : Haute Autorité de Santé 
+HPV : Human papillomavirus 
+IHME : Institute for Health Metrics and Evaluation 
+INSEE : Institut National de la Statistique et des Etudes 
+INSERM : Institut National de la Santé et de la Recherche Médicale 
+IRDES : Institut de Recherche et Documentation en Economie de la Santé 
+IST : Infections Sexuellement Transmissibles 
+LGBTQI : Lesbie n·ne Gai Bisexue l·le Transgenre Queer Intersexe 
+OMS : Organisation Mondiale de la Santé 
+QCM : Question à choix multiples 
+SoFECT : Société Française d’Etude et de prise en Charge de la Transidentité 
+SPF : Santé Pu blique France 
+
+44 
+ 
+ Trans : Transgenre 
+TSPT : Troubles du Stress Post -Traumatique 
+USTS : US Trans Survey 
+
+45 
+ 
+ PREAMBULE 
+ 
+L’intégralité de ce travail a été rédigée en écriture inclusive , avec l’aide du Manuel d’écriture 
+inclusive de l’Université de Toulouse (7). Le « ·x » renvoie à l’identité de genre non -binaire . Son 
+utilisation est inspirée du li vre « Une histoire de genre », écrit par l’auteure transgenre Lexie et 
+a pour but de donner une visibilité à l’identité de genre non -binaire dans l’écriture (8). 
+
+46 
+ 
+ I. INTRODUCTION 
+ 
+Dans ce travail de thèse nous allons nous intéresser à la santé et à l’accès aux soins des 
+personnes transgenres. 
+La première partie de l’introduction décrira le contexte, c’est -à-dire la population transgenre, 
+sa taille et ses besoins en santé spécifiques. La deuxième partie présentera les données dont 
+nous disposons dans la littérature scientifique concernant la santé des personnes transgenres. 
+La troisième partie abordera la notion d’accès aux soins, à travers différents angles de vue . 
+Enfin, la quatrième partie présentera les données manquantes de la littérature scientifique et 
+pourq uoi il est primordial d’acquérir plus de connaissances. 
+ 
+A. Contexte 
+Dans cette première par tie nous allons décrire la population trans genre et ses besoins en santé 
+liés à la transition, puis la place de la médecine générale dans le parcours de soin des personnes 
+transgenres. 
+ 
+1. La population transgenre 
+a) Qui sont les personnes transgenres ? 
+Une personne transgenre est une personne qui vit ou souhaite vivre d ans un genre différent de 
+celui qui lui a été assigné à la naissance, cela inclut toutes les personnes ayant fait ou 
+souhaitant faire une transition, qu’elles aient ou non recours à des traitements médicaux et/ou 
+chirurgicaux dans cet objectif (5). Dans ce mémoire, chaque fois que le mot « trans » sera 
+utilisé, il renverra au mot « transgenre ». 
+La transidentité est un terme général qui désigne le grand nuancier des différentes identités de 
+genre des personnes trans (9). 
+
+47 
+ 
+ b) Quelle est la taille de la population transgenre ? 
+La taille de la population transgenre est difficile à estimer (10). 
+Selon 7 études réalisées sur différents continents et publiées entre 2012 et 2017 (11) (12) (13) 
+(14) (15) (16) (17), la transidentité concernerait entre 0,5 et 2 % des adultes de plus de 15 ans, 
+soit au minimum 25 millions de personnes dans le monde. 
+Si l’on extrapole ces chiffres de 0,5 à 2 % de la population française en comptant le nombre de 
+67 millions d’habitants estimé par l’INSEE au 1er janvier 2020 (18) dont 55 836 115 personnes 
+de plus de 15 ans , cela représentera it environ entre 280 000 et 1 117 000 personnes en France 
+(arrondi s au millier près) . 
+Ces chiffres sont à nuancer car ils évoluent avec le s définitions utilisées et concernent 
+uniquement les personnes transgenres adultes. Il ne faut pas oublier que la transidentité 
+concerne également les personnes jeunes, y compris les enfants (19). Le nombre d’enfants 
+trans genres avait été est imé à 1 pour 500 enfants et le C onseil de l’Europe avait souligné en 
+2013 que ce nombre était en réalité certainement sous -évalué (20). 
+ 
+2. Quels sont les besoins en santé en lien avec la transition ? 
+a) Besoins en santé en lien avec la transition médicale 
+Le Planning F amilial propose la définition suivante de la transition : « indifféremment utilisée 
+pour désigner une transition médicale , […] sociale […] ou administrative, la transition est 
+l’ensemble des actes que va accomplir une personne trans afin de se sentir mieux dans son 
+genre (1) ». 
+Les personnes transgenres peuvent souhaiter ou non de réaliser une transition médicale. 
+Cependant ce recours à la médecine est parfois considéré comme « indispensable pour être 
+accepté ∙e∙x aux yeux de la société » (21). 
+Ainsi les personnes transgenres ont recours à la méde cine comme toute personne pour d es 
+problèmes de santé générale , mais également pour des motifs spéc ifiques lié s à la transition . 
+Lorsque le choix d’une transition médicale est fait, elle peut revêtir plusieurs aspects, dont les 
+aspects médicaux et/ou chirurgicaux. Parmi eux se trouve la prise d’hormones d’affirmation de 
+
+48 
+ 
+ genre, c’est -à-dire d’hormones féminisantes chez les femmes transgenres, et d’hormones 
+masculinisantes chez les hommes transgenres. Ces hormones sont délivrées en pharmacie sur 
+ordonnance et il faut donc passer par un ∙e médecin pour y avoir accès. Une fois le traitement 
+hormonal débuté, un suivi médical au long cours est nécessaire . Les personnes transgenres 
+peuvent aussi avoir recours à des ac tes de chirurgie modificatrice dans le but de se sentir 
+davantage en phase avec leur genre. Les interventions chirurgicales peuvent être de différents 
+types et passent par des consultations de chirurgie. L’accompagnement médical des personnes 
+transgenres peut , en fonction des besoins de chacun ∙e∙x, intégrer un accompagnement sur le 
+plan psychologiq ue et/ou psychiatrique. 
+Les parcours de transition médicale peuvent être réalisés à l’hôpital, dans des institutions 
+médicales privé es, ou mixte, mêlant des interventions dans des structures privées et des 
+structures publiques. 
+Les différents actes médicaux engendrent des frais qui peuvent être couverts par la déclaration 
+d’une Affection Longue Durée (ALD) « Hors liste » à la Caisse Primaire d’Assurance Maladie 
+(CPAM). La déclaration d’ALD à la CPAM est réalisée par un ∙e des médecins acc ompagnant la 
+personne concernée, dans l’idéal sa.son médecin traitant ∙e∙ 
+Ainsi, lorsque la transition médicale est réalisée, les pe rsonnes transgenres présentent des 
+besoins de santé en lien avec elle , qui sont autant de raisons pour ces personnes d’avoir 
+recours aux médecins (22). 
+ 
+b) Place du·de la médecin généraliste 
+Envisageant les enjeux que représentent la santé des personne s transgenres pour la pratique 
+de la médecine générale, plusieurs internes de médecine ont consacré leur travail de t hèse à ce 
+sujet : l’une d’ elles réalisé en 2019 à l’U niversité de Grenoble Alpes concernait la place de la 
+médecine générale dans le parcours de soins des personnes trans (21). 
+Deux autres thèses publiées en 2019 à l’Université de Rennes mettaient en lumière par une 
+étude qualitative les différents freins à l’accès aux soins éprouvés par le s personnes trans, ainsi 
+
+49 
+ 
+ que les stratégies d’adaptation adoptées et les attentes des personnes trans vis -à-vis de la 
+médecine générale dans la région rennaise (23)-(24). 
+Il en ressortait n otamment que le·la médecin généraliste avait un rôle primordial dans la prise 
+en charge en soins primaires des personnes trans, et qu’un bon contact avec son.sa médecin 
+généraliste pouvait faciliter le parcours de soin, qu’il s’agisse du parcours de transi tion 
+spécifique aux personnes trans ou des éventuels problèmes de santé générale qu’elles 
+pouvaient rencontrer. 
+
+50 
+ 
+ B. Etat de santé global des personnes transgenres 
+ 
+L’Organisation Mondiale de la Santé ( OMS ) définit la santé comme un « état de complet bien -
+être physique, mental et social » (25). 
+Ces 3 points seront abordés dans cet ordre afin de présenter l’état des connaissances 
+scientifiques actuelles sur la santé des personnes transgenres. Sera ensuite abordée la notion 
+d’accès aux soins des personnes transgenres . 
+ 
+1. Bien -être physique 
+Dans ce chapitre nous aborderons les différents aspects de la santé physique des personnes 
+transgenres par le regard d’études scientifiques réalisées dans différents domaines de la santé 
+afin de présenter au plus large la santé générale de cette population . 
+Dans l’enquête canadienne Trans PULSE , 27 % des répondant ∙e∙x∙s avaient qualifié leur santé de 
+passable ou mauvaise (26). 
+ 
+a) Exposition aux cancers 
+La Haute Autorité de Santé ( HAS) signale dans son rapport de 2020 qu e la population 
+transgenre présente des facteurs de risque la prédisposant à différents types de cancers : « la 
+consommation de tabac, d’alcool ou de drogue, la séropositivité au VIH ou la présence du 
+papillomavirus étant des facteurs de risque statistiquement plus fréquents [dans la popula tion 
+transgenre] que dans la population générale ». Elle ajoutait que les traitements hormonaux 
+pourraient prédisposer les personnes transgenres aux cancers hormonodépendants, mais que 
+les données disponibles étaient à ce jour insuffisantes pour conclure (19). 
+
+51 
+ 
+ b) Exposition au VIH 
+Dans la cohorte hollandaise publiée en 2011 le risque relatif de mortalité chez les femmes 
+transgenres était de 30,2 concernant le SIDA (27). 
+ 
+c) Santé gynécologique 
+Une revue de littérature pub liée en 2018 rappell e que la plupart des hommes transgenres 
+conserv ent leur utérus et sont donc à risque de cancer du col utérin. Malgré cela ils réalis ent 
+moins fréquemment les dépistages par frottis cervico -vaginal (FCV) que les femmes cisgenres1 
+(28). Les auteur ∙e∙s de l’ouv rage « Santé LGBT » l’expliqu ent en partie par le fait que les 
+personnes transgenres ne sont pas ciblées par les campagnes de prévention en santé publique 
+(29). L’absence de formation et de recommandations auprès des professionne l·le·s de santé 
+s’ajoute au fait que le dépistage du cancer du col utérin leur soit moins proposé (30). 
+Parmi les autres explications aux dépistages moins fréquents du cancer du col utérin il faut 
+rapp eler que l’examen physique est souvent source d’angoisse pour les personnes tr ansgenres 
+car il peut parfois « exacerb[er] l’éventuelle discordance entre l’identité de genre et 
+l’anatomie. » (31). 
+ 
+d) Santé liée aux prises d’hormones 
+Concernant les hormones féminisantes, dans une revue de la littérature parue en 2019, les 
+estrogènes, pris sur le long terme et associés à des thérapies diminuant les androgènes, étaien t 
+responsables d’ une augmentation de la maladie throm bo-embolique. Ce risque était atténué 
+par le changement de forme médicamenteuse utilisée et l a manière dont le traitement était 
+administré. Les antécédents médicaux de maladie thrombo -emboliques sont donc à vérifier 
+avant de débuter un traitement hormonal féminisant (32). 
+ 
+1 Cisgenre : une personne cisgenre est une p ersonne non trans genre , personne qui vit dans le genre qui 
+lui a été assigné à la naissance. Définition issue du Lexique de l’association Outrans, disponible à l’adresse suivante : 
+https://outrans.org/ressources/lexique -outransien/ 
+
+52 
+ 
+ A propos des hormones masculinisantes, dans cette même revue de littérature la prise de 
+testostérone semblait sans danger à court et moyen terme, mais les effets indésirables sur le 
+long terme restaient à étudier (32). 
+Par ailleurs, l’hormonothérapie modifie l’état cutané des personnes transgenres. 
+Une revue de littérature recensait les différentes pathologies dermatologiques rencontrées par 
+les personnes transgenres : chez les personnes prenant des hormones masculinisantes, l’acné 
+était présente à 94% (33), et chez les personnes prenant des hormones f éminisantes une 
+pseudo -folliculite de la barbe était décrit e. Ces pathologies d’apparence bénigne peuv ent avoir 
+un impact important sur la qualité de vie des personnes concernées , notamment lorsqu’elles 
+touch ent le visage , altérant parfois l’image de soi (34). 
+ 
+e) Santé liée aux chirurgies 
+Suite aux interventions chirurgicales, des cicatrices chéloï des ou hypertrophiques peuvent 
+apparaître sur des zones sensibles. Ces problèmes dermatologiques viennent parfois également 
+affecter l’image de soi des p ersonnes transgenres , engendrant alors plus de stress voire 
+aggravant un état dépressif (34). 
+Parmi les problèmes post -opératoires rencontrés pouvaient également survenir une perte de 
+sensibilité, des douleurs , une infection, et plus rarement une nécrose des parties opérées. 
+ 
+f) Préservation de la fertilité 
+Une étude rétrospective réalisée à Chicago de 2013 à 2016 auprès de patient ∙e∙x∙s transgenres 
+adolescent ∙e∙x∙s avait révélé que sur 105 personnes, seul ement 13 avaient eu recours à la 
+consultation de préservation de fertilité et seulement 5 personnes avaient cryoconservé des 
+gamètes, dont 4 jeunes femmes et un jeune homme transgenres (35). Les adolescent ∙e∙x∙s 
+décrivaient en effet souvent une urgence à débuter le traitement hormonal. La majorité de 
+cryoconservation de gamètes par les femmes trans s’expliquait par le fait que le recueil des 
+gamètes était moins contraignant chez les jeunes f emmes trans que chez les jeunes hommes 
+trans. On peut faire l’hypothèse que ces chiffres ne s ont pas extrapolables à la France étant 
+
+53 
+ 
+ donné le système différent de prise en charge des soins dont nous bénéficions par rapport aux 
+Etats -Unis , mais ils permettent d’aborder certaines pistes de réflexion . Il n’existe à ce jour 
+aucune étude quantitative sur ce sujet en France. 
+ 
+2. Bien -être mental 
+Ici seront présentés les résultats d’enquête s et de travaux scientifiques abordant la santé 
+mentale des personnes transgenres. 
+ 
+a) Une santé mentale préoccupante 
+En 2018, une enquête américaine rapportait les données suivantes : 43% des personnes 
+transgenres interrogées avaient fait une dépression, 36% avaient eu des pensées suicidaires et 
+10% avaient fait une tentative de suicide au cours des 12 mois précédant l’enquête (36). 
+Ces chiffres sont appuyés par l’enquête canadienne Trans PULSE publié e en mars 2020, où 56 % 
+des interrogé ∙e∙x∙s avaient qualifié leur santé mentale de « passable ou mauvaise ». Un tiers 
+des répondant ∙e∙x∙s déclaraient avoir envisagé de se suicider au cours de la dernière année et 
+1/20 déclaraient avoir fait une tentative de suicide au cours de cette même période (26). 
+ 
+b) Une santé mentale améliorée par le traitement hormonal 
+Dans une revue de la littérature parue en 2019 les prévalences de la dépression, de l’anxiété et 
+des actes auto -agressifs étaient moins élevées chez les personnes transgenres après avoir 
+bénéficié d’un traitement hormonal d’affirmation de genre. Les auteur ∙e∙s concluaient que 
+cette transition hormonale permettait indirectement d’améliorer la santé mentale des 
+personnes transgenres, en participant à restaurer l eur image de soi et la congruence de genre2 
+(32). 
+
+2 Congruence de genre : il y a congruence de g enre lorsque l’expression de genre d’une personne est en 
+accord avec son identité de genre. 
+
+54 
+ 
+ c) Des consommations à risques 
+En plus d’une prévalence de syndrome dépressif et un risque suicidaire plus élevés que dans la 
+population générale, les personnes transgenres présentaient plus fréquemment des conduites 
+à risque concernant les consommations de drogues illicites : dans une revue de littérature 
+publiée en 2011, le risque relatif était de 13,2 pour les morts liées aux consommations de 
+drogues illicites chez les personnes transgenres (27). 
+ 
+d) Troubles du comportement alimentaire 
+En 2015, une enquête américaine réalisée auprès de plus de 250 000 étudiant ∙e∙x∙s montrait 
+que les personnes transgenres présentaient plus fréquemment un diagnostic de trouble du 
+comportement alimentaire, ainsi que des comportements associés tels que la prise de laxatifs 
+ou de traitement « amaigrissants » et la prat ique des vomissement s, comparé à la population 
+cisgenre et hétérosexuelle (37). 
+ 
+3. Bien -être social 
+Dans son rapport en 2020 la HAS écrit que les personnes transgenres « présentent des 
+difficultés social es particulièrement marquées ». (19). Nous allons da ns ce chapitre aborder la 
+notion de stress minoritaire et décrire ensuite les principales di fficultés sociales qui peuvent 
+toucher les personnes transgenres, telles que mesurées dans les enquêtes et trav aux de 
+recherche scientifiques. 
+ 
+a) Transidentité et stress minoritaire 
+La notion de « stress minoritaire » se définit par le fait qu’une personne appartenant à un 
+groupe minorisé soit à risque de détresse psychologique du fait de son exposition à des facteurs 
+de stress spécifiques et chroniques résultant de son statut désavantagé dans la société (38). 
+Ceci s’explique en partie par le fait que les normes culturelles d’une société ne sont pas 
+superposables à celles du groupe minoritaire. La stigmatisation et la discrimination qui en 
+découlent fragilisent d’autant plus la population concernée (39). La population LGBT et en son 
+
+55 
+ 
+ sein la population transgenre souffrent de ce statut de minorité s dans nos sociétés (40). Nous 
+allons voir c omment se construit et se manifeste le stress minoritaire dans ces populations. 
+Dès l’enfance , l’ exclusion est marquée chez les jeunes personnes LGBTQI. 
+La transphobie peut être rencontrée très tôt par les personnes transgenres, imprégnant leurs 
+subjectivités d’un « sentiment de honte, de violence, d’illégalité » (29). L’ouvrage « Santé 
+LGBT » rapportait la « violence correctrice » qui s’était abattue sur une jeune personne 
+transgenre qui avait été outée3 à l’école . Cette violence se dirigeait de manière constante vers 
+l’éloignement des normes de genre présentes à l’école et se manifestait notamment par le 
+harcèlement scolaire. Cette violence provenait parfois du milieu familial : le rejet familial 
+pouvait alors menacer la santé physique et mentale des jeunes LGBT (41). Faire le choix de la 
+visibilité de son genre revient ainsi , dès l ’enfance , à devenir minoritaire quant à son expression 
+et son identit é de genre à l’école. Il peu t par la suite en découler une angoisse d’intégration 
+avec un rejet de soi (29). 
+Selon une étude réalisée en 2011 aux Etats -Unis, le sentiment de différence commence à 
+s’exprimer à l’âge moyen de 7 -8 an s chez les enfants transgenres (42). 
+Ensemble ces facteurs sont responsables ent re autres d’une souffrance psychologique et d’une 
+transphobie intériorisée (43) : selon la définition proposée par le planning familial, la 
+transphobie intériorisée consiste pour une personne transgenre à se haïr elle -même, et/ou à 
+haïr d’autres personnes transgenres en raison de leur transidentité (1). 
+Accumulés, ces différents aspects du stress minoritair e participaient à altérer la santé mentale 
+des enfants et des jeunes et moins jeunes adultes transgenres (44). 
+ 
+b) Isolement 
+Dans le rapport « Sexe, genre et santé », la HAS écrit que le s personnes transgenres sont plus 
+souvent isolées que la population générale (19). 
+ 
+3 Outer : Révéler qu’une personne est trans (ou appartient à la communauté LGBT). L’outing ne doit 
+jamais se faire sans le consentemen t de la personne concernée. C ela peut être considéré, dans le code 
+pénal, comme une atteinte à la vie privée. 
+Définition issue du lexique disponible sur le site W kitrans à l’adresse suivante : https://wikitrans.co/lexique/ 
+
+56 
+ 
+ Dans l’enquête « Transphobie », réalisée en 2014 en France par les sociologues A. Alessandrin 
+et K. Espineira, les personnes sondées étaient plus de 68% à rapporter avoir perdu contact avec 
+un∙e ou des ami ∙e∙x∙s et 40% d’entre elles rapport ent avoir perdu contact avec un ∙e ou des 
+membres de leur famille (45). 
+En conséquence de cet isolement , les personnes transgenres o nt d’autant plus de difficultés à 
+s’insérer socialement (19). Autre facteur d’isolement , la grande majorité des personnes 
+transgenres déclar ent éviter certains espaces publics par appréhension de la transphobie : 
+seulement 16 % n’évit ent aucun espace public (26). 
+ 
+c) Précarités financière, d’emploi, de logement 
+Les personnes transgenres sont plus souvent dans des situations de précarité sur les plans 
+financiers, de l’emploi et du logement que la population générale (19). 
+Le récent rapport de la HAS rappelle que l’ensemble des discriminations vécues par les enfants 
+transgenres à l’école conduisent souvent à un absentéisme, un décrochage scolaire, voire un 
+retrait de l’enfant du système scolaire (19), laissant moins de possibilité de choix professionnels 
+par la s uite. 
+Les difficu ltés rencontrées ne se résumen t cependant pas à celles du parcours scolaire ou 
+universitaire. 
+Dans une enquête réalisée en 2011 , 26% des personnes transgenres rapportaient avoir perdu 
+leur travail suite à l’annonce de leur transition. 19% de s personnes transgenres s’étaient 
+retrouvées sans domicile fixe suite à leur transition (46). 
+Dans l’enquête canadienne Trans PULSE , 10 % des interrogé ∙e∙x∙s rapportaient avoir vécu ou 
+vivre une situation de logement précaire (26) 
+L’impact de la précarité sur la santé est bien connu. Dans une enquête de l ’INSEE publiée en 
+2018, l’espérance de vie varie selon la catégorie sociale, avec des écarts stables depuis 25 ans : 
+plus les personnes sont aisée s, plus l’espérance de vie est élevée (47). A l’inverse, une santé 
+altérée pouvait également influencer l’appartenance sociale, en prenant l’exemple d’u ne 
+
+57 
+ 
+ maladie qui aurait empêché la personne concernée de poursuivre des études ou d’accéder à 
+certain s poste s (19). 
+ 
+d) Conséquences de la pandémie de COVID19 
+La HAS rappelle dans son rapport de 2020 que les pandémies aggraven t les inégalités liées au 
+genre. (19). 
+La pandémie de COVID 19 a en effet intensifié le stress minoritaire subi par le s personnes 
+transgenres, par différents moyens . En raison des universités et écoles fermées ou du 
+télétravail , les personnes jeunes pouvaient être forcées de retourner ou de rester auprès de 
+leur famil le, qui parfois les rejetait et les maltraitait du fait de leur transidentité. P our les 
+personnes n’ayant pas fait de coming out trans ce retour en famille pouvait les empêcher de 
+vivre sous leur réelle identité de genre . Aussi les mesures de distanciation sociale ont éloigné 
+les personnes transgenres de leurs pairs (48). 
+L’association Espace Santé Trans alertait sur l’impact de la pandémie de COVID 19 sur les 
+personnes transgenres, partant du postulat qu’elle avait « exacerbé tous les facteurs qui 
+[avaient] un impact délétère sur la santé mentale des personnes », citant parmi elles : 
+« violences, isolement, manque d'accès à un logement stable et à l'emploi, exclusions. » et 
+ajoutant que les tentatives de suicide leur étaient rapportées « en nombre » (49). 
+En effet la pandémie et les confinements, s’ils ont eu tendance à précariser encore la 
+population transgenre , ont de surcroît eu pour effet d’aggraver les d ifficultés d’accès aux soins. 
+Dans une enquête canadienne réalisée de 2019 à 2020, il apparaissait que deux fois plus de 
+personnes transgenres et non -binaires4 avaient cessé d'accéder aux groupes ou aux travailleurs 
+de soutien en santé mentale (14,4 %) plutôt que de commencer à y avoir recours (6,4 %), en 
+dépit des facteurs de stress su pplémentaires liés à la pandémie (50). 
+ 
+4 Personne non -binaire : Personne dont le genre n'est pas "homme" ou "femme" : cela peut être une 
+combinaison, une absence (agenre), ou un genre autre. Les personnes non -binaires sont inclues dans les 
+vécus trans. Mais certaines peuvent ne pas se définir trans. Chaque personne non -binaire peut avoir ou 
+non un besoin de transition médicale et/ou administrative. Définition issue du « Lexique trans » du Planning Familial , 
+disponible à l’adresse suivante : https://www.planning -familial.org/sites/default/files/2020 -10/Lexique%20trans.pdf 
+
+58 
+ 
+ Une enquête nation ale réalisée en France a révélé une majoration des difficultés rencontrées 
+par les personnes migrantes et sans -abris pendant la pandémie de COVID 19 (51). Il apparaissait 
+que les difficultés rencontrées par ces populations s’étaient majorées dans de nombreux 
+domaines tels que l’accès à l’alimentation, l’accès à leurs droits (menace d’ex pulsion, non 
+renouvellement des titres de séjour, etc.), la procuration du matériel de protection (masques, 
+solution hydro -alcoolique), l’accès au logement , l’accès à des attestations de déplacement 
+dérogatoire, l’accès aux campagn es de dépistages, l’ accès aux soins pour des problèmes autre 
+que la COVID 19, la continuité des soins déjà entrepris . 
+On p eut en déduire que les situations de personnes transgenres migrantes et/ou sans -abris 
+étaient d’autant plus précarisée s par la pandémie . 
+Afin de préciser encore les difficultés sociales dont souffre la population transgenre, nous allons 
+maintenant aborder le sujet de la transphobie. 
+ 
+4. La transphobie et son impact sur les personnes transgenres 
+a) Qu’est -ce que la transphobie et où la trouve -t-on dans la société? 
+Dans ce chapitre nous allons d’abord définir ce qu’est la transphobie, puis présenter les 
+données statistiques dont nous disposons à propos de la transphobie qui règne dans nos 
+sociétés, ainsi que les différents domaines dans l esquels on la trouve et ses conséquences sur la 
+vie des personnes transgenres. 
+ 
+(1) Qu’est -ce que la transphobie ? 
+ 
+La transphobie est définie par l’association OUTrans comme « le rejet ou la haine des 
+personnes trans et/ou des transidentités » (5). Elle peut se manifester par des violences, 
+physiques, verbales, non verbales et par de la discrimination. 
+Le docteur en sociologi e Arnaud Alessandrin distingue 2 types de transphobie : 
+
+59 
+ 
+ - la transphobie directe , lorsque l’agresseur ∙e sait que la personne visée est transgenre, la 
+violence s’adresse ainsi directement à elle 
+- la transphobie indirecte , qui se résume aux préjugés cissexistes5, la violence n’est alors 
+pas directement adressée à une personne précise mais participe à la transphobie 
+ambiante (52) 
+Il distingue également 2 modes d’e xpression de la transphobie, avec des conséquences 
+différentes sur la vie des personnes concernées : 
+- la transphobie relationnelle , comme violence interpersonnell e 
+- la transphobie institutionnelle lorsqu’elle passe par les administrations (52) 
+Cette violence peut paraître moins grave mais a en réalité un rôle important dans les violences 
+vécues par les personnes transgenres : la tran sphobie institutionnelle met en danger les 
+personnes bloquées administrativement dans un genre qui ne leur correspond pas. La HAS 
+parle dans ce cas d’ « incongru ence administrative »6 (19). Par exemple r efuser le changement 
+de « mention de sexe » à l’état civil participe à rendre les personnes transgenres vulnérables en 
+les exposant à la transphobie . 
+ 
+(2) Exemples de transphobie institutionnelle en France 
+La France a fait preuve de transphobie institutionnelle à plusieurs reprises, pour lesquelles elle 
+a été condamnée par la Cour Européenne des Droits de l’Homme (CEDH). 
+Ainsi , en 1992 , la France avait été condamnée par la CEDH pour non -respect du « droit au 
+respect de la vie privée et de la vie familiale » car la Cour de cassation rejetait alors les 
+demandes de personnes transgenres de changer la « mention de sexe » à l’état civil (53). 
+En 2017, la France était à nouveau condamnée par la CEDH car la loi française obligeait les 
+personnes transgenres à subir une castration chimique ou une intervention chirurgicale 
+ 
+5 Cissexiste : fait d e considérer que les personnes cisgenres sont supérieures aux personnes transgenres, de 
+considérer que les identités des personnes cisgenres sont plus valides que celles des personnes transgenres, ou de 
+nier l’existence des transidentités. 
+Définition issue du lexique disponible sur le site Wikitrans à l’adresse suivante : https://wikitrans.co/lexique/ 
+ 
+6 Incongruence administrative : lorsque le genre spécifié sur certains documents n’est pas en accord avec l’identité 
+de genre de la personne concernée. 
+
+60 
+ 
+ stérilisante pour obtenir le changement de leur sexe à l’état civil. En effet, jusqu’en 2016 la loi 
+française obligeait les personnes transgenres à présenter une preuve de castration chimique ou 
+d’interv ention chirurgicale stérilisante pour accéder au changement de « mention de sexe » à 
+l’état civil (54). 
+La tra nsphobie n’est pas touj ours explicite et se manifeste aussi par une invisibilisation des 
+personnes concernée s. L’invisibilisation fait partie des particularités de la stigmatisation des 
+personnes transgenres dans notre société (29). 
+ 
+(3) Du côté des médias 
+Cette invisibilisat ion de la transidentité se manifeste notamment du côté des médias. A ce 
+propos le sociologue A. Alessandrin parle de « maltraitance médiatique » des personnes trans . 
+L’absence de représentation médiatique et l’absence de visibilité dans la cul ture et le langage 
+constituent une forme de transphobie indirecte, structurelle da ns la société, qui peut rendre 
+difficile jusqu’à l’identification de soi en tant que personne transgenre (55). 
+ 
+Le sociologue A. Alessandrin note une « explosion médiatique » des représentations des 
+transidentités ces dernières années (52). Ceci pourrait être considéré comme une bonne 
+nouvelle, cependant les représentations des ide ntités trans conviennent rareme nt aux 
+personnes concernées : 6 3% des personnes transgenres interrogées se déclaraient n’être « pas 
+du tout satisfaites » de l’image des identités trans dans les médias (45). 
+Dans le domaine d u cinéma, Alessandrin rapporte des constantes dans la représentation 
+médiatique de s identités trans : elles son t souvent cantonnées au cabaret, aux secrets, aux 
+« derrières de la scène », le travestissement étant parfois utilisé pour un effet comique. 
+Ainsi l’augmentation des représentations médiatiques des ident ités transgenres, si elle a pour 
+effet positif d’ apporter une visibilité et une possibilité d’identification aux personnes 
+transgen res et en questionnement, est à double tranchant : elle apporte également une vague 
+de transphobie dans la société par le biais de représentations erronées (52). 
+
+61 
+ 
+ (4) La transphobie devant la loi 
+En 2012 la transphobie a fait son apparition dans le droit pour qualifier précisément la 
+discrimination spécifique dont sont victimes les personnes transgenres, d’abord sous le nom de 
+discrimination en regard de l’ « identité sexuelle » puis en 2016 sous le nom de « discrimination 
+en regard de l’identité de genre » (56). 
+ 
+b) Violences transphobes et discriminations , impact socio -émotionnel 
+Dans l’enquête « Transphobie » publiée en 2014 en France, 85% des personnes transgenres 
+interrogées rapportaient avoir été victimes de transphobie (45). 
+La même a nnée, l’A gence des Droits Fondamentaux avait publié une étude réalisée en Europe 
+où 54% des personnes trans interrogées déclaraient avoir été victimes de discrimination ou de 
+harcèlement au motif de leur identité de genre au cours des 12 mois précédant l’e nquête (57). 
+De par la transphobie, la population transgenre était donc très fréquemment victime de 
+violences et de discriminations . 
+Nous avons vu que la stigmatisation et la violence étaient partie inté grante du stress 
+minoritaire. Un rapport publié aux Etats -Unis en 2014 par le « Bureau of Justice Statistics », 
+intitulé « Socio -emotional impact of violent crime » mettait en évidence le lien entre le fait 
+d’avoir été victime de violences graves et le fai t de présenter des difficultés socio -
+émotionnelles (58). Les difficult és socio -émotionnelles considérées étaient les suivantes : un 
+niveau élevé de détresse psychologique, des difficultés rencontrées dans les relations sociales, 
+l’arrêt de l’école, des études ou du travail. 
+Il en résultait que 68% des victimes de violences graves présentaient des difficultés socio -
+émotionnelles en conséquence de leur agression. 1/3 des victimes de violences graves 
+présentaient une détresse psychologique sévère. Les 3/4 des victimes de viols o u d’agression 
+sexuelle présentaient des difficultés socio -émotionnelles. 
+Nous verrons au sein de notre recherche qu ’il est important d’avoir ces notions à l’esprit 
+lorsque l’on parle de santé des personnes trans. 
+
+62 
+ 
+ c) Conséquences sur l a santé mentale 
+Nous av ons vu que les personnes transgenres sont particulièrement affectées par différentes 
+formes de précarité : professionnelle, économique, familiale et sociale (19) et par un stress 
+minoritaire , auquel s’ajouten t des violences transphobes . 
+Ces différents facteurs participent ensemble à altérer le bien -être mental des personnes 
+transgenres. 
+En effet, en 2011 le sociologue J -M Firdion prévenait déjà que plus les identités de genre 
+étaient affirmées, plus le risque de sursuicid ité était élevé (59). 
+L’isolement social est lui aussi connu comme un des facteurs de fragilité exposant au risque 
+suicidaire (60). Le sociologue E. Durkheim écrivait en 1987 que « Le suicide varie en fonction 
+inverse du degré d’intégration des groupes sociaux. » (61). 
+De par le stress minoritaire et les différentes formes de précarité qui les touchent, personnes 
+transgenres étaient donc particulièrement exposées à une santé mentale altérée et un su r-
+risque suicidaire. 
+
+63 
+ 
+ C. Accès aux soins 
+Maintenant que nous avons fait un état des lieux sur les données dont nous disposons 
+concernant la santé des personnes transgenres, nous allons aborder la notion d’accès aux soins 
+et les enjeux qui l’accompagnent. 
+L’accès aux soins d’une population peut être défini comme « l’adéquation entre besoins de 
+santés et services offerts » (62). Cell e-ci est soumise à différentes conditions, tant du côté des 
+services de soins que du côté des usag er·ère·x·s . 
+ 
+1. Enjeux de l’accès aux soins 
+Martin Blais, chercheur en sociologie et professeur à l’ Université de Montréal , présente les 
+enjeux de l’accès aux soins des personnes LGBTQI dans une conférence orale présentée aux 
+Paris Gay Games en 2018 : selon lui un accès aux soins parfait se présente comme la possibili té, 
+lorsqu’un besoin de santé est perçu , d’accéder au soin correspond ant (63). 
+Il rappelle que la population LGBTQI+ montre un plus grand nombre d e désirs de soins 
+insatisfaits que la population générale. 
+La question de l’accès aux soins est donc un processus conditionnel : il évolue de l’identification 
+des besoins de santé, à la perception de ces besoins, au désir de soins, la recherche de soins, 
+l’atteinte des soins, l’utilisation des services qui prodiguent ces soins, l’évaluation des 
+conséquences de la prise en charge de ces soins (conséquences économiques, satisfaction, 
+etc.) (62). 
+Concernant le servi ce de soin, il doit être : approchable , c’est -à-dire se faire connaître , être 
+« d’abord facile » ; acceptable , c’est -à-dire respecter la dignité des pe rsonnes auxquelles il 
+s’adresse ; accommodant , accessible , et en a déquation avec les besoins réels des populations. 
+Les popula tions co ncernées, elles, doivent être en capacité de : identifier leurs besoins de 
+santé , percevoir leurs besoins de santé , désirer recourir aux services de soins , atteindre les 
+services de soins et pouvoir payer les soins. 
+
+64 
+ 
+ Martin Blais émet l’hypothèse que l’ hétéronormativité7 affecte non seulement l’organisation du 
+système de santé mais aussi les habitudes et attitudes à la fois des soignants ∙e∙s et des 
+populations LGBT. 
+L’accès aux soins posait donc différents défis. Du côté des soignant ∙e∙s les défis étaien t les 
+suivants : 
+- L’ « approchabilité » : 
+Les services de prévention étaient souvent génériques, peu sensibles aux réalités LGBT et 
+souvent peu accessibles : il existait peu de clini ques spécialisées en santé LGBT. Comme les 
+cliniques spécialisées étaient peu nombreuses, cela poussait les personnes LGBT à se tourner 
+vers ces services de soins génériques peu adaptés à leurs réalités. 
+Cela demandait aux usager.ère. x∙s une capacité à percevoir l eurs besoins : cette capa cité était 
+parfois usée par les insatisfactions multiples vécues par le passé . La conséquence éta it que 
+même si la personne concernée avait perçu un besoin de santé , elle n’a vait pas 
+systématiquement de désir de soins associé, car les i nsatisfactions répét ées avaient pu la 
+mener à un sentiment d’impuissance. Ceci était décrit n otamment en s anté mentale : les 
+personnes avaient appris qu’elles pouvaient sortir parfois plus « abîmé es » d’un service où les 
+avaient conduit es la recherche d’aide. 
+- L’acceptabilité de l’offre de soins : 
+Martin Blais rapportait que les études faisaient part souvent d’un inconfort, de discrimination , 
+d’un vocabulaire inada pté chez les soignant ∙e∙s, avec parfois des refus de prise en charge des 
+personnes trans genres. La conséquence du côté des usager.ère. x∙s était alors parfois une 
+anticipation négative de l’issue du processus de consultation, qui finiss ait par freiner le désir de 
+consulter. 
+- L’accom modation/accessibilité du lieu de consultation : 
+Les lieux de soins spécialisés ou recommandés étaient parfois éloignés, p eu accessibles, avec 
+des rendez -vous nécessitant plusieurs mois d’attente. L a capac ité d’atteindre ces services en 
+ 
+7 Hétéronormativité : fait de considérer l’hétérosexualité comme la norme. Définition issue du Wiktionnaire, 
+disponible à l’adresse suivante : https://fr.wiktionary.org/wiki/h%C3%A9t%C3%A9ronormativit%C3%A9 
+
+65 
+ 
+ cas de besoin était ainsi largement réduite. Les personnes âgées, les jeune s personnes 
+dépendantes pouvaient être amenées ainsi à faire un coming out forcé (à leur entourage, par 
+exemple – au service de transport) pour pouvoir accéder à la consultation spécialisée. 
+- L’abordabilité : 
+Chez les personnes ne bénéficiant pas d’une assurance maladie ou d’une sécurité sociale, chez 
+les personnes migrantes pour qui les soins n’étaient pas ouv erts, les frais de santé pouvaient 
+être un obstacle aux soins . Aux Etats -Unis, se posait en plus le problème de l’a bsence de 
+reconnaissance du·de la conjoint ∙e de même genre par les assurances. Ainsi la capacité de 
+bénéficier d’une couverture santé était parfois compromise par l’hétéro -cis-normativité. 
+ 
+2. Les freins à l’accès aux soins au sein de la population transgenre 
+En 2014 les chercheuses Robert et Fantz écrivaient que les patient ∙e∙x∙s transgenres 
+rencontraient de nombreux freins à l’accès aux soins, comprenant leur stigmatisation ancrée 
+dans l’histoire, les frein s financiers et structurels et un manque d’expérience des 
+professionne l·le·s de santé à les prendre en charge (64). 
+Afin de présenter les freins à l’accès aux soins des personnes transgenres, nous nous 
+appuierons sur la thèse de médecine générale du doctorant E. Duval, publiée en 2019 et 
+traitant de ce sujet à travers une étude qualitative (23). 
+ 
+a) Freins à l’acc ès au parcours de transition médicale 
+(1) Difficultés d’accès géographique 
+Les personnes interrogées par E. Duval rapportaient que les professionne l·le·s de santé 
+référencé ∙e∙s comme non -transphobes étaient souvent situé ∙e∙s dans les grand es villes. Ils ·elles 
+étaient souvent décrit ∙e∙s comme overbooké ∙e∙s (23). 
+
+66 
+ 
+ (2) Difficultés financières 
+Pour rappel, l’obtention de la déclaration d’ « ALD » dite « hors liste » auprès de la CPAM 
+permettait la prise en charge des frais de santé liés à la transition. En l’absence ou en l’attente 
+d’ALD, le coût pouvait limiter l’accès aux soins médicaux (23). 
+Par ailleurs, le codage des actes médicaux selon la Classification Commune des Actes Médicaux 
+posait le problème de facturation des actes médicaux en foncti on du genre. Par exemple, post -
+changement de genre à l’état civil : il n’était pas possible de prescrire une échographie de la 
+prostate chez une femme transgenre (19). Cert ains soins n’étaient alors pas pris en charge par 
+la sécurité sociale. 
+A l’inverse, l’Autorisation de Mise sur le Marché (AMM) de la testostérone n’était valable que 
+chez un « homme » défini comme tel sur sa carte vitale : sa prescription chez les hommes 
+transgenres n’était ainsi pas toujours prise en charge par la sécurité sociale (23). 
+ 
+(3) Difficultés administratives 
+Les changement s de prénom et d’état civil sur la carte vitale étaient parfois très longs à obtenir 
+et exposai ent les personnes transgenres au mégenrage8 et à l’usage du dead name9 en salle 
+d’attente et pendant les consultations médicales (23). 
+Concernant les personnes qui avaient réalisé un changement de prénom et/ou de genre à l’état 
+civil, un problème d e suivi du dossier médical se posait avec le risque de pertes de données 
+médicales, sociales et juridiques (19). 
+ 
+b) Freins à l’accès aux soins au quotidien 
+(1) Manque de connaissances des médecins 
+L’accès aux soins est facilité lorsque les act eur·rice·s de soins sont porteu r·se·s de 
+connaissances médicales auprès de la population concernée (62). Ceci était illustré par le 
+rapport entretenu entre les médecins de Porto -Rico et leurs patientes transgenres : une étude 
+ 
+8 Mégenrage : néologisme renvoyant à l’action de mégenrer, c’est -à-dire utiliser un pronom ou des accords qui ne 
+sont pas ceux utilisés par la personne. 
+9 Dead name : prénom reçu à la naissance et souvent rejeté car renvoyant à l’assignation de sexe de naiss ance 
+Définition s issues du lexique disponible sur le site Wikitrans à l’adresse suivante : https://wikitrans.co/lexique/ 
+
+67 
+ 
+ publiée en 2019 s’intéressant aux rapports entre les médecins et leurs patientes transgenres 
+concluait que le contact avec les médecins porteu r·se·s de connaissances sur la santé trans 
+améliorait leur accompagnement médical et leur santé (65). 
+Dans l’ouvrage Santé LGBT les auteur ∙e∙s rapportaient sous le prisme de la prise en charge du 
+cancer du sein une réception des informations difficile pour les personnes intersexes, non -
+binaires et trans en raison de données biomédicales prévues pour les pers onnes cisgenres (29). 
+Ce manque de connaissance s avait un impact sur les campagnes de prévention en santé 
+publique : A. Alessandrin présentait dans son ouvrage « Sociologie des transident ités » (52) les 
+pratiques de suivi et de prévention comme « les grandes oublié es » des parcours de transition . 
+Le Planning Familial alertait également en 2019 sur l’absence de campagnes et d’outils de 
+réduction des risques adaptés aux besoins et aux réalités des pers onnes trans, sauf ceux 
+construits par les associations trans (66). 
+Le manque de connaissance des médecins pouvait être une raison de report de consu ltation 
+par les personnes transgenres elles -mêmes : dans l’enquête publiée en 2018 par les 
+doctorantes en médecine M. Garnier et S. Ollivier, 55% des personnes trans qui avaient retardé 
+leur consultation avaient déclaré le faire en raison d’une peur de man que de connaissance des 
+médecins (67). 
+ 
+(2) Accueil dans les lieux de soins 
+La salle d’attente est décrite comme un lieu très anxiogène, où les personnes transgenres 
+ressentaient une peur d’être outé ∙e∙x∙s. L’appel en salle d’attente est en soi très anxiogène (23). 
+ 
+3. Autre frein à l’accès aux soins : la transphobie médicale 
+Nous allons décrire dans un premier temps les situations où la médecine, à l’instar de la société, 
+fait preuve de transphobie et de l’impact que cela peut avoir sur la santé des personnes 
+transgenres. 
+
+68 
+ 
+ Nous présenterons ensuite une brève histoire de la médecine des transidentités afin d’avoir un 
+recul sur cette transphobie médical e et d’apercevoir comment la médecine tend à s’en défaire. 
+ 
+a) Un parcours médical semé de transphobie 
+En 2011, l’association lyonnaise de personnes transgenres Chrysalide recueillait les données 
+suivantes : 16 % des personnes transgenres interrogées déclara ient avoir subi un refus de soins 
+du fait de leur transidentité et 35 % des répondant ∙e∙x∙s avaient renoncé à des soins de peur de 
+préjugés ou de discriminations émanant du corps médical (68). 
+Depuis cette enquête, d ifférentes sources françaises ont alerté sur l’occurrence de la 
+transphobie vécue par les personnes transgenres dans les lieux de soins et de ses conséquences 
+sur l’accès aux soins des personnes transgenres. 
+En avril 2020 la re vue f rançaise « Prescrire » publie un article rapportant qu’environ un quart à 
+un tiers des personnes transgenres avaient déclaré au moins une expérience négative avec des 
+professionne l·le.x∙s de santé en raison de leur identité ou expression de genre (31). 
+Dans l’enquête française publiée en 2014 réalisée auprès de 281 personnes transgenres, 65 % 
+des personnes interrogées avaient subi des propos ou des actes transphobes de la part des 
+professionne l·le·s de santé (45). 
+La HAS écr ivait dans le rapport de 2020 que 75% des personnes transgenres avaient déjà été 
+mal à l’aise avec un ·e médecin pour une raison liée à leur transidentité. Cela était renforcé par 
+l’ « incongruence administrative » (19) . 
+Le Planning Familial écrivait en 2019 que l’acc ès aux soins était compromis en raison de 
+l’accueil réservé aux personnes transgenres dans le milieu médical (66). 
+ 
+b) Histoire récente de la médecine des transidentités 
+Nous présenterons dans les paragraphes suivants en quoi l’histoire récente de la médecine des 
+transidentités est témoin de ces préjugés et comment elle tend à s’améliorer. 
+
+69 
+ 
+ En juillet 2010 était créée la Société Française de p rise en Charge de la Transidentité (SoFECT). 
+Elle regroupait des équipes de médecins endocrinologues, psychiatres et chirurgie n·ne·s qui 
+s’occupaient des transitions médicales dans le milieu hospitalier. 
+Un document de travail rédigé en 2010 d écrivait son protocole de soin, consistant entre autres 
+à vérifier l’absence de troubles psychiatriques associés, indispensable avant d’accéder à la prise 
+en charge endocrinienne et chirurgicale de la transition : la sélection des candidat ∙e∙x∙s au 
+changement de genre dépendait ainsi avant tout e chose d’une expertise psychiatrique (69). 
+En avril 2019, le Planning Familial, mouvement féministe et d’éducation populaire, écrivait dans 
+son journal « Les 4 pages » (66) que la SoFECT util isait « des critères sexistes, homophobes et 
+transphobes » dans le cadre de l’accompagnement médical des personnes transgenres. Le 
+Planning Familial décrivait cette association comme « hors -la-loi » sur différentes pratiques 
+relatives aux droits des patien t∙e∙x∙s. Ces critiques émises par le Planning Familial sont le reflet 
+de critiques répétées et largement partagées au sein d’associations de défense des droits des 
+personnes trans genres . 
+En m ars 2020, la SoFECT est dissoute par son président en raison d’un e « inadéquation 
+grandissante au sein même de la SoFECT entre sa raison d’être, son fonctionnement, la réalité 
+des parcours transidentitaires et les conditions d’accueil et de prise en charge par certains 
+établissements ou professionnels de santé » (70). Une nouvelle association voit alors le jour , 
+nommée d’abord French Professional Association for Transgender Health (FPATH) puis Trans 
+Santé, montée par un groupe de personnes souhai tant se démarquer de l’ancienne SoFECT et 
+présentant des objectifs nouveaux dont celui de travailler main dans la main avec les personnes 
+transgenres et les associations qui les représentent (70). A la naissance de cette association 
+plusieurs associations de personnes transgenres ont co-signé une lettre ouverte, faisant part de 
+leur scepticisme quant à un réel changement de pratiques des équipes hospitalières (71). 
+ 
+c) Confrontation aux réalités trans 
+Que le parc ours médical soit réalisé dans le secteur public ou privé, il était reproché aux 
+acteur·rice·s de soin prenant en charge les transitions de suivre des normes binaires de genre 
+telles qu’elles étaient imposées par la société (29). 
+
+70 
+ 
+ Dans l’ouvrage « Santé LGBT », les auteur ∙e∙s regrettaient que dans les discours médicaux, les 
+seuls corps légitimes soient ceux proches des idéaux de sexe et de sexualité, « les « seuls » 
+adaptés au bien -être », privilégiant ainsi la conformité aux normes de genre à la responsabilité 
+des individus quant à leur propre bien -être (29). 
+Ceci était illustré dans l’ém ission documentaire parue sur France 3 en 2012 intitulée : « Le sexe 
+de mon identité », où est filmée une commission du GRETTIS, service rattaché à la SoFECT qui 
+s’occupait alors des transitions médicales au CHU de Lyon (72). Au cours de cette réunion 
+pluridisciplinaire entre médecins endocri nologues, psychiatres et chirurgie n·ne·s , les personnes 
+transgenres mentionnées étaient à plusieurs reprises mégenrées10 et parfois privées de leur 
+droit à transitionner11 sous prétexte de ne pas sembler « crédibles » dans leur demande de 
+transition. Selon le sociologue A. Alessandri n, l’enjeu des prises en charge revenait alors à 
+« normaliser » un « corps qui franchi[ssai]t les normes » plutôt qu’à une prise en charge à visée 
+thérapeutique (29). 
+Ainsi le même corps médical qui avait tendance à psychiatriser l’identité tran sgen re ne semblait 
+pas même interroger les modifications d’expression de genre chez les personnes cisgenres : A. 
+Alessandrin proposait l’exemple d’implants mammaires ajoutés sur un corps de femme 
+cisgenre, ne posant pas question puisqu’allant dans le sens de la « féminité » telle que l’entend 
+la société (52). 
+ A l’inverse, T. Jedrzejewski citait en 2018 l’exemple des besoins en santé gynécologique des 
+hommes transgenres comme un impensé médical : le·la médecin ayant en face de lui ·elle un 
+homme, était loin d’aborder avec lui la question du suivi gynécologique (73). 
+
+10 Mégenrer : Utiliser un pronom ou des accords qui ne sont pas ceux utilisés par la personne. Si le mégenrage est 
+volontaire, il s’agi t d’un acte transphobe particulièrement blessant. S’il est accidentel, mais répété parce que la 
+personne ne souhaite pas réellement s’en préoccuper, cette négligence est considérée comme un acte 
+transphobe. Définition issue du lexique disponible sur le sit e Wikitrans à l’adresse suivante : 
+https://wikitrans.co/lexique/ 
+11 Transitionner : acte de réaliser une transition 
+
+71 
+ 
+ d) Vers un avenir différent ? 
+La chercheuse en sociologie Yael Eched insiste sur l’importance de travailler avec les 
+associations et de penser les liens avec les savoirs communautaires (74). Elle rappelle que les 
+savoirs com munautaire et académique sont différents et complémentaires, ce qui fait la 
+richesse de leur mise en commun. 
+Le rapport de la HAS de 2020 intitulé « Sexe, genre et santé » propose également d’ « établir 
+des ponts » avec les populations concernées et les associations qui les représentent, soulignant 
+que les liens avec les associations existent parfois mais que leur usage n’est pas assez fréquent 
+alors q ue leur efficacité est bien établie (19). 
+Le chercheur en scie nces sociales A. Giami rapportait déjà en 2010 l’importance de travailler en 
+lien avec les savoirs et le vocabulaire des usagers et des associations d’usager∙ère∙x∙s . Il 
+explique en effet que le point de vue des usager.ère. x∙s a les caractéristiques d’un d iscours 
+d’expertise au sens que lui attribuait L. Prior (75) dans la mesure où ce discours est relayé par 
+des élaborations collectives, « elles -mêmes relayées par le discours des droits de l’homme » 
+(76). 
+ 
+4. Conséquences des difficultés d’ accès aux soins sur la sa nté des 
+personnes transgenres 
+ 
+Ces différents freins à l’accès aux soins sont responsables, de manière indirecte, d’une santé 
+altérée des personnes transgenres et ce de différentes manières. 
+ 
+a) Eviction des lieux de soin s 
+En conséquence des difficultés d’accès aux soins les per sonnes transgenres ont parfois un 
+parcours de santé non s écurisé : par exemple par le recours à des chirurgies à l’étranger, 
+d’achat d’hormones sur Internet (77). 
+
+72 
+ 
+ Dans l’enquête Canadienne Trans PULSE : 12 % des personnes interrogées avaient évité d’aller 
+aux urgences malgré un besoin de soins ressenti, parce qu’elles étaient trans et/ou non -binaires 
+(26). 
+La HAS r apportait en 2020 qu’au vu des études considérées un tiers des personnes transgenres 
+renonçaient à des soins « à cause de préjugés du personnel soignant » (19). 
+ 
+b) Des b esoins en santé non satisfaits 
+Toujours d ans l’enquête canadienne Trans PULSE , 45 % des répondant ∙e∙s avaient déclaré avoir 
+eu au moins un besoin non satisfait en matière de soins de santé au cours de la dernière année 
+(26). 
+ 
+c) Une p erte de données médicales 
+Nous avons vu plus haut que des données médicales pouvaient être perdues en raison de 
+changement de genre ou de prénom dans les dossiers médicaux. 
+Par ailleurs, certaines informations médicales étaient également perdues car jamais recueillies : 
+dans la th èse de mé decine générale publiée en 2016 certaines personnes transgenres 
+rapportaient avoir déjà menti à leur médecin pour avoir accès à une attestation (21). 
+Ainsi nous avons vu que le manque de connaissances médicales concernan t la santé d’une 
+population participe à altérer son accès aux soins et par là à altérer sa santé de manière 
+générale . Nous allons maintenant abo rder le manque de données tel qu’il est dénoncé par la 
+littérature internationale concernant la s anté des personnes transgenres. 
+
+73 
+ 
+ D. Ce qu’on ne sait pas : manque de données 
+ 
+1. Ce qu’on étudie peu 
+Les études dans la littérature nationale et internationale manquent : elles manquent en 
+nombre d’abord, manquent en qualité, et sont absentes sur certains sujets précis. Ici seront 
+présenté s différent s enquêtes et travaux scientifiques récents ayant fait p art de ce manque de 
+données. 
+ 
+a) Un nombre restreint de travaux scientifiques 
+Le doctorant en médecine L. Nakad avait souhaité réaliser en 2015 une méta -analyse étudiant 
+les motifs de consultation chez les personnes transgenres. Ce travail n’avait pas pu être mené à 
+bout en raison d’un manqu e de données concernant la santé trans dans la littérature 
+internationale (78) : il constatait alors que la littérature contena it plus d’avis d’expert ∙e∙s que 
+de véritables données issues d’études cliniques. Il déplorait par ailleurs l’absence d’enquête 
+quantitative en France explorant la santé des personnes transgenres (78). 
+En 2017, la santé des personnes transgenres représentait seulement 0,008% des articles da ns la 
+base de données Medline (79). 
+ 
+b) Des sujets d’étud es répartis de manière inégale 
+Une revue de la littérature publiée dans The Lancet en 2016 avait sélectionné 116 études 
+concernant la santé des personnes transgenres dans 30 pays (dont 16 conduites en Europe, 
+aucune en France). Les auteur ∙e∙s avaient attribué des points aux différents sujets étudiés selon 
+leur fréquence. Les sujets d’intérêt de ces études étaient dans l’ordre d’importance en nombre 
+: la santé mentale (30,9 % des points), la santé sexuelle et reproductive (22,3 %), la 
+consommation de drogues et d’alcool (19,7 %), les violences vécues (10,7 %), la stigmatisation 
+et les discriminations (9,5 %) (80). 
+La santé générale (mortalité, diabète, utilisation d’hormone s, maladies mét aboliques, cancer) 
+ne représentait que 6,9 % des points et les étude s à ce propos étaient décrites comme 
+
+74 
+ 
+ disparates dans le rapport HAS 2020 (19). Les auteur ∙e∙s soulignaient ainsi que la recherche sur 
+les questions de santé non spécifiques de s personnes trans était limitée. 
+ 
+c) Certains sujets très peu étudiés 
+Le harcèlement scolaire des enfants LGBTQI en France (29), la santé des personnes trans non -
+binaires et intersexes (19), la satisfaction des personnes transgenres quant à la transition 
+effectuée (81), la santé des personnes transgenres âgées (81) ne faisai ent pas l’objet d’études 
+spécifiques. Lorsque ces sujets été abordés, ils l’étaient d’un point de vue de la santé LGBT 
+(Lesbienne Gaie Bisexuelle et Transgenre) sans s’intéresser spécifiquement à la santé trans. Une 
+revue de littérature sur la qualité de vie des personnes transgenres déplorait le manque 
+d’étude sur ce sujet, argumentant qu’ aucune étude parmi celles considérées n’incluait de 
+groupe contrôle (82). 
+ 
+d) Une santé trans « noyée » dans la « santé LGBT » 
+Dans sa thèse de médecine générale L. Nakad rapportait que la santé des personnes 
+transgenres était souvent noyée au sein de la « santé LGBT » (78). Le doctorant en médecine T. 
+Jedrzejewski rappelait quant à lui que le sigle « LGBT » était né d’une convergence des luttes 
+politiques mais n’avait pas sa place en santé au vu des grandes disparités des besoins de santé 
+et problématiques rencontrées par ces différentes populations (73). La sociologue N. Chetcuti 
+relevait également ce problème des études sur la population « LGBT » au sein desquelles elle 
+dénonçait une « spoliation des sujets par les majoritair es » (83). 
+ 
+e) Trop peu d’études concernant les différentes populations qui composent la 
+communauté trans 
+Ainsi la littérature internationale nous signal e un manque de données indéniable concernant la 
+santé des personnes transgenres. Au -delà de c e constat, Alessandrin rappelle que la population 
+transgenre est hétérogène et qu’il faudrait étudier la santé des différentes sous -populations qui 
+la constituent car elles ne présentent pas toute s les mêmes problématiques de santé . 
+
+75 
+ 
+ L’amalgame p eut masquer des particularités spécifiques à chacune . Cela consisterait au 
+minimum à étudier à part les différentes situations des femmes transgenres, hommes 
+transgenres et personnes transgenres non-binaires (29). Parmi les différentes populations 
+constituant la population transgenre, la HAS rapportait des données peu nombreuses 
+concernant les personnes intersexes (19) et une revue de littérature intitulée « Endocrinology 
+of transgender medicine » (32) alertait sur le manque de données sur la sa nté d es personnes 
+non-binaires. 
+ 
+2. Pourquoi est-il nécessaire d’étudier plus ? 
+Nous avons vu que les études manquaient concernant la santé des personnes transgenres dans 
+la littérature internationale. Nous allons maintenant nous intéresser à pourquoi il est important 
+d’acquérir plus de connaissances concernant la san té trans. 
+ 
+a) Pour la santé de tout le monde 
+Dans le rapport HAS de 2020 les auteur ∙e∙s not ent que l’étude de la santé des person nes trans 
+et intersexes apporten t un certain recul, qui permet de voir les questions de santé sous un 
+angle différent (19). 
+Dans un article publié en 2015, les auteur ∙e∙s constatent qu’un meilleur accueil des patient ∙e∙x∙s 
+LGBT est lié à un meilleur accueil de toute la patientèle (84). 
+ 
+b) Pour a méliorer la formation des act eur·rice·s de soins 
+Dans le r apport HAS de 2020 , les auteur ∙e∙s présent ent 10 propositions pour améliorer la prise 
+en compte du sexe et du genre à toutes les étapes de la construction des politiques de santé, 
+destinées au décideur public. Parmi c es propositions figurait celle (n°8) d’intégrer 
+l’enseignement sur les personnes trans genres et intersexes aux études de médecine (19). 
+En effet les patient ∙e∙x∙s qui avaient un ∙e prestataire d e santé trans -friendly avaient moins de 
+problèmes de santé, sur le plan psychiatrique et sur le plan somatique (36). 
+
+76 
+
+c) Enfin et surtout, pour améliorer l’accès aux soins et la santé des personnes 
+trans genres 
+Les auteur ∙e∙s du rapport HAS 2020 considé raient ce manque de données préjudiciable pour les 
+personnes intersexes et les personnes trans . Selon ce rapport, le manque de données 
+concernant la santé trans renforçait : 
+- « l’invisibilisation, la sensation d’anormalité et la stigmatisation des personnes concernées ; 
+- le risqu e d’angles morts dans les prises en charge, sanitaires ou sociales. » (19). 
+ 
+3. Et en France ? 
+a) Un retard français 
+En 2018, les sociologues Alessandrin et Meidani écrivent que l’abord du genre est une question 
+encore récent e en France, notamment dans le domaine de la santé (85). 
+En 2020, le rapport de la HAS souligne que le critèr e de genre est « encore tenu à l’écart [des 
+projets de recherche en santé] malgré son importance » (19). 
+Un focus de Santé Pub lique France publié en mai 2021 décrit comme « encore rares » les 
+études en France rendant compte des discriminations et violences faites aux personnes 
+transgenres (86). 
+Ces constats sont assez clairement illustrés par les propositions présentées dans le rapport de 
+la HAS 2020 : parmi elles les pro positions 5, 6 et 7 concernent la prise en compte du sexe et du 
+genre dans les études scienti fiques et les politiques publiques. La 10ème et dernière 
+proposition intitulée « Préoccupation pour les personnes trans et i ntersexes » est surtitrée 
+« dépasser la binarité lorsqu e c’est nécessaire » et aborde la nécessité d’inclure les personnes 
+trans et intersexes dans les études scientifiques (19). 
+
+77 
+ 
+ b) Comment expliquer ce retard français ? 
+La sociologue N. Chetcuti évoquait en 2018 le problème de la question trans peu abordée dans 
+les études en France : elle décrivait une « résistance française » qu’elle associait à une vision 
+binaire des genres encore très forte, avec un appauvrissement de la recherche sur les 
+personnes transgenres faisant l’objet d’une marginalisation des études scientifiques. Selon son 
+expérience, ce sujet est précarisé car peu d’argent y est injecté et il est de surcroit souvent 
+intégré dans l’étude plus globale de la com munauté LGBT , ce qui appauvrit le champ d’étude 
+(83). 
+Les auteur ∙e∙s du rapport de la HAS 2020 présent ent différents obstacles compliquant les 
+projets de recherche sur les personnes intersexes et transgenres (19). Parmi ces obstacles se 
+trouv ent : la taille de la population considérée c omme « relativement faible », l’hétérogénéité 
+de ces groupes, la réticence supposée des personnes à participer aux études scientifiques et 
+l’absence de financement de suivis de cohortes. S’ajout ent à cela des idées reçue s selon 
+lesquelles les normes juridiques empêcheraient de collecter des données sur le genre des 
+personnes inclu ses dans les études. 
+ 
+c) Les dernières données françaises 
+ 
+Les dernières études réalisées en France étaient essentiellement qualitatives et porta ient sur le 
+parcours de soin des personnes transgenres, le rapport au médecin généraliste au sein de 
+thèses de médecine générale (21) (23) (24). 
+Les sociologues A. Alessan drin et K. Espineira exploraient le sujet de la transphobie dans une 
+enquête quantitative réalisée auprès de 281 personnes transgenres (45). 
+En 2015, le doctorant en médecine L. Nakad déplorait l’absence d’enquête quantitative 
+explorant la santé des personn es transgenres en France (78). 
+En 2018, les doctorantes en médecine M. Garnier et S. Ollivier ont réalisé une enquête 
+quantitative explorant les motifs de consultation hors -transition des personnes 
+transidentitaires en France métropolitaine (67). 
+
+78 
+ 
+ 4. Question de recherche et ob jectifs 
+a) Question de recherche 
+Il a été démontré qu’une meilleure connaissa nce des problématiques de santé rencontrées par 
+les personnes trans genres permet d’améliorer leur accès aux soins et leur santé (23) (24) (65). 
+Or il n’existe à ce jour en France aucune étude quantitative explorant la santé globale des 
+personnes trans (22) (66) (78). 
+Le rapport 2020 de la HAS recommande d’ agir vers les populations concernées « dès lors 
+qu’elles présentent un risque d’être difficilement atteintes sans action particulière, notamment 
+en raison de la vulnérabilité associée à leur sexe, à leur identité de genre ou de toute difficulté 
+d’ordre social ou médico -social aggravée par ces facteurs. » (19). 
+Nous avons donc réalisé un travail de recherche dont l’ objectif est d’apporter des 
+connaissances sur les problématiques de sant é et d’accès aux soins , et l es discriminations 
+rencontrées par les personnes trans genres en France aujourd’hui dans le but d’appréhender au 
+mieux leurs besoins de santé et, in fine, de participer à construire la voie vers un accès aux 
+soins primaires de qualité. 
+Ce travail a pour originalité d’être la première étude quantitative abordant la santé globale des 
+personnes transgenr es en France auprès de plus de 5 00 personnes , à notre connaissance . 
+ 
+b) Objectifs principal et secondaires 
+L’object if principal de la recherche est de d écrire les problématiques de santé et d’accès aux 
+soins rencontrées par les personnes transgenres en France aujourd’hui. 
+Les objectifs secondaire s sont : 
+- Identifier les freins à l’accès aux soins primaires pour l es personnes transgenres en France 
+aujourd’hui. 
+ - Evaluer l’intérêt à améliorer l’accompagnement des personnes tran s par les médecins 
+
+79 
+ 
+ généralistes en confrontant les problématiques identifiées aux rôles attendus d’un ∙e médecin 
+généraliste. 
+Les objectifs primaire et secondaires étant descriptifs et exploratoires, nous n’avons pas émis 
+d’hypothèse s les concernant. 
+
+80 
+ 
+ II. MATERIELS ET METHODES 
+A. DESCRIPTION DE L’ENQUETE 
+1. Type d’étude 
+L’enquête Santé des Personnes Transgenres 2021 est une étude observationnelle descriptive 
+transversale quantitative multicentrique , réalisée par questionnaires auto -administrés, 
+anonyme et sur la base du volontariat. 
+Les participant ∙e∙x∙s pouvaient répondre du 15 juin au 30 septembre 2021. 
+ 
+2. Construction et structure du questionnaire 
+a) Construction du questionnaire 
+Une première version du questionnaire a été rédigée par l’investigatrice à l’issue d’un travail de 
+bibliographie médicale traditionnel réalisé en amont au cours de l’année 2020. Il a également 
+été inspiré par un travail d’observation auprès des sites internet des associations de personnes 
+transgenres des 10 plus grandes villes de France afin d’évaluer quelles étaient les demandes de 
+ces associations en matière de recherche épidémiologiques. Pour la formulation des questions, 
+l’investigatrice s’est inspirée de questionnaires déjà existants : EGALe -MG de Thibault 
+Jedrzejewski sur la santé gaie et lesbienne de 2016 (73), « Comment ça va ? » questionnaire de 
+la LMDE de 2014 sur la santé des étudiants, le score EPICES permettant d’évaluer la précarité 
+(87), le questionnaire téléphonique du Baromètre Santé Publique 2016, le questionnaire de 
+santé de la CPAM de Haute -Savoie, le questionnaire d’entr ée renseigné au CeGIDD du CHU de 
+Montpellier, l’enquête de l’association de personnes transgenres lyonnaise Chrysalide « Santé 
+trans 2011 » (68), le questionnaire « Trans Needs Assessment Survey » de 2014 réalisé par 
+l’association Canadian Aids Society. 
+L’investigatrice a également utilisé le guide rédigé par la Canadian Aids Society « L’inclusion des 
+personnes trans dans divers formulaires » (88), ainsi que les conseils présentés dans l’article 
+paru dans la revue E -respect de l’Université de Toulouse en nove mbre 2012 intitulé 
+« Construire une enquête par questionnaire » (89). Elle s’est également aidée du cours en ligne 
+
+81 
+ 
+ de l’Université de Montpellier « Aide à la réalisation d’une étude quantitative » ainsi que de 
+l’ouvr age « Le questionnaire » de François de Singly (90). 
+ 
+b) Relecture et révision du questionnaire 
+Cette première version du questionnaire a été présentée à 5 personnes transgenres volontaires 
+en vue de l’améliorer. Ces 5 personnes étaient des hommes transgenres et 4 d’entre eux 
+travaillaient au sein de différentes associations militan tes pour les droits des p ersonnes 
+transgenres ou LGBTQI et ils avaient entre 19 et 35 ans. Les associations en question étaient 
+Rita (Grenoble), Fierté Pride Montpellier, Aides Montpellier et Transat (Marseille). 
+Cette relecture du questionnaire a permis de reformuler certaines questions, d’ajouter des 
+options de réponses dont parfois l’option « autre » à plusieurs d’entre elles, de réévaluer la 
+sécurité du questionnaire pour les futur ∙e∙x∙s répondant ∙e∙x∙s. Certaines questions abordant le 
+profil des répondant ∙e∙x∙s ont été supprimées car considérées comme ina ppropriées, telles que 
+celles demand ant le statut marital et l’orientation sexuelle des répondant ∙e∙x∙s. Une réduction 
+du nombre de questions a ensuite été réalisée avec l’aide du directeur de recherche de 
+l’investigatrice avant l’envoi définitif du questionnaire pour validation par le comit é de 
+protection des personnes. 
+ 
+c) Nombre et type de questions 
+La version finale du questionnaire était composée de 68 à 152 questions. Seules les trois 
+premières questions étaient à réponse obligatoire, car elles vérifiaient que le·la répondant ∙e∙x∙s 
+entrai t dans les critères d’inclusion de l’étude. Elles concernaient l’âge, le fait de s’identifier 
+comme personne transgenre et le fait de vivre France métropolitaine ou outre -mer au moment 
+de renseigner le questionnaire. 
+Toutes les autres questions laissaient la possibilité de ne pas répondre, soit en cochant la case 
+« Je ne souhaite pas répondre », soit en ne cochant aucune case. 
+
+82 
+ 
+ Il était toujours possible de revenir sur les questions précédentes et il était également possible 
+de quitter le questionnaire et de le poursuivre dans un deuxième temps en rouvrant la page 
+internet. 
+La dernière question était une question ouverte proposant d’ « ajouter quelque chose ou faire 
+une remarque ». 
+Concernant les questions à branchement conditionnel, c’est -à-dire que la ques tion s’affichait 
+ou non en fonction des réponses aux questions précédentes : lorsque la personne avait coché 
+« Je ne souhaite pas répondre », nous avons considéré que la.le répondant ·e·x ne souhaitait pas 
+être interrogé ·e·x sur ce sujet et la question suivante en rapport avec cette question 
+n’apparaissait pas. 
+ 
+d) Temps de réponse 
+Le questionnaire a été chronométré chez 6 participant ∙e∙x·s-tests et le temps de réponse 
+moyen était de 30 minutes. 
+ 
+e) Organisation du questionnaire et questions 
+Le questionnaire était composé de 6 parties. 
+(1) « Mieux vous connaître » 
+Cette partie recueillait les données socio -démographiques des répondant ∙e∙x∙s, des données 
+sur l’entourage, sur la transphobie et les discriminations vécues. 
+(2) « Votre santé générale » 
+Cette partie abordait les thèmes de l’accès aux soins, l’activité sportive, une auto -évaluation de 
+son propre état de santé physique, les vaccinations réalisées, le sujet de la pandémie de COVID 
+19 et des confinements, les dépistages de cancers, les médicame nts pris. 
+
+83 
+ 
+ (3) « Votre santé relative à la sexualité » 
+Cette partie abordait les soucis de santé liés à la sphère uro -génitale, les sujets des Infecti ons 
+Sexuellement Transmissibles (IST), les pratiques sexuelles à risques et celles permettant de 
+diminuer le r isque de transmission d’IST, la contraception, la question du suivi gynécologique. 
+(4) « Vos consommations » 
+Cette partie abordait le sujet des consommations d’alcool, tabac et drogues. 
+(5) « Votre bien -être mental » 
+Cette partie abordait la question d’accès aux soins de santé mentale, des questions abordant 
+les troubles du sommeil, les troubles du comportement alimentaire et les antécédents de 
+maladies psychiatriques, d’idées suicidaires ainsi que d’actes auto -agressifs. 
+(6) « Votr e santé li ée à votre transition » 
+Dans cette partie, l es 3 premières questions demandaient quelles actions avaient été réalisées 
+en lien avec la transition sociale, médicale et juridique. Les questions suivantes découlaient des 
+réponses, avec les questions du suiv i médical et du parcours de soin, des questions concernant 
+les actes médicaux réalisés, la satisfaction et les effets indésirables qui avaient pu survenir. 
+ 
+f) Accessibilité et sécurité du questionnaire 
+Dans un objectif d’inclusion de personnes non francoph ones, l’investigatrice avait pris 
+l’initiative de traduire le questionnaire en anglais, avec l’aide d’une collègue de travail 
+anglophone ainsi que celle, précieuse, d’une personne appartenant à la communauté 
+transgenre montpelliéraine. 
+Des « Trigger Warnin g » ou avertissements ont été mis en place à l’approche de questions 
+abordant des sujets sensibles tels que les violences hétéro ou auto -agressives afin de préparer 
+les répondant ∙e∙x∙s et de leur proposer de passer ces questions . Chaque répondant ∙e∙x devai t 
+ainsi confirmer avoir lu le message et désirer poursuivre sa lecture pour accéder à ces 
+questions. Ces avertissements étaient au nombre de 2 à 3 sur la totalité du questionnaire en 
+fonction des réponses. 
+
+84 
+ 
+ Sur la page qui apparaissait après avoir terminé et envoyé le questionnaire, il apparaissait un 
+court message invitant à contacter une ligne d’écoute téléphonique en cas de sensation de mal -
+être après avoir complété le questionnaire. Ce message est disponible en Annexe 6, sur la 
+dernière page du questionnaire. 
+ 
+3. Mise en ligne 
+a) Logiciel de mise en ligne, hébergement, financement 
+Le questionnaire a été réalisé avec le logiciel LimeSurvey, disponible gratuitement. Il a été mis 
+en ligne gratuitement sur la plateforme d’hébergement LimeService à l’adresse suivante: 
+https://santedespersonnestrans2021.limequery.com/625113 . Limeservice proposait une 
+centaine de réponses par mois gratuitement. L’investigatrice s’est abonnée pour obtenir entre 
+101 et 1000 réponses par mois du 15 juin au 30 septembre 2021, po ur un total de 136 euros. 
+Les données hébergées sur LimeService ne peuvent être utilisées que par l’utilisatrice . 
+LimeService ne peut pas utiliser ces données sauf après consentement de l’utili satrice . Les 
+conditions d’utilisation et de protection des donn ées sont disponibles sur le site de LimeSurvey. 
+ 
+b) Anonymat et protection des données sur le site 
+L’anonymat des répondant ∙e∙x∙s était garanti par LimeSurvey et par le logiciel LimeService. 
+L’adresse IP des répondant ∙e∙x∙s n’était pas transmise à l’investigateur. Seuls la date, l’heure et 
+l’ordre des réponses étaient enregistrés et transmis. Aucune question ne demandait 
+explicitement d’identifier le·la répondant ∙e∙x. 
+A propos de la protection des données et de la vie privée , un message automatiquement 
+généré par le site hébergeur apparaissait sur la page d’accueil du questionnaire : 
+« Remarque sur la protection de la vie privée 
+Ce questionnaire est anonyme. L’enregistrement de vos réponses à ce questionnaire ne contient 
+aucune information permettant de vous identifier, à moins que l’une des questions ne vous le 
+demande explicitement. Si vous avez utilisé un code pour accéder à ce questionnaire, soyez 
+
+85 
+ 
+ assuré qu'aucune information concernant ce code ne peut être enregistrée a vec vos réponses. Il 
+est géré sur une base séparée où il sera uniquement indiqué que vous avez (ou non) finalisé ce 
+questionnaire. Il n’existe pas de moyen pour faire correspondre votre code à vos réponses sur ce 
+questionnaire. » 
+ 
+4. Informations données aux répondant ∙e∙x∙s 
+La page d’accueil du questionnaire , disponible en Anne xe 1, comportait une introduction 
+expliquant ce qu’était le questionnaire, avec le plan du questionnaire présentant les sujets 
+abordés. 
+Sur la page suivante apparaissait la lettre d’information et le recueil de non opposition à 
+participer à l’enquête, rédigés par l’investigatrice. La case « Je souhaite participer à l’enquête » 
+devait obligatoirement être cochée pour accéder au questionnaire, la traçabilité de la non 
+opposition était ainsi assurée pour chaque participant ∙e∙x. 
+ 
+5. Financement 
+ L’investigatrice n’a r eçu aucun financement extérieur. Tous les frais ont été à sa charge. 
+ 
+6. Ethique et protection des données, comité de protection des 
+personnes 
+Le délégué à la protection des données personnelles d’Université de Montpellier a été contacté 
+et a affirmé à l’inve stigatrice que l’enquête étant strictement anonyme, il n’était pas nécessaire 
+de faire une déclaration à la CNIL. 
+ S’agissant d’une enquête de type Recherche Impliquant la Personne Humaine de classe 3 (RIPH 
+3), la validation du questionnaire par un Comité de Protection des Personnes (CPP) était 
+requise. 
+Une demande d’évaluation par un CPP a ainsi été réalisée et c’est le CPP IDF (Ile -de-France) IV 
+qui a été tiré au sort. Afin de valider le questionnaire, le comité a demandé la modification de la 
+
+86 
+ 
+ lettre d’in formation essentiellement pour apporter plus de clarté quant à l’anonymat du 
+questionnaire. Le comité a également proposé l’ajout du « ·x » dans l’écriture afin que le texte 
+soit inclusif également pour les personnes trans non-binaires qui répondraient au 
+questionnaire. Ces modifications faites, le comité de protection des personnes a validé le projet 
+le 12 mai 2021. 
+La recherche a été enregistrée au numéro RCB 2021 -A01108 -33. Le questionnaire d’auto -
+évaluation validé par le CPP est présenté en Annexe 5. 
+
+87 
+ 
+ B. POPULATION 
+1. Mode d’échantillonnage 
+L’enquête a été diffusée sur internet, en accès libre. La participation se faisait sur la base du 
+volontariat, par auto -administration du questionnaire. La diffusion de l’enquête était réalisée 
+majoritarement sur les réseaux sociaux, par des pages d’associ ations communautaires trans, 
+trans -friendly et LGBTQIA+. 
+ 
+2. Critères d’inclusion et d’exclusion 
+Les critères d’inclusion étaient : 
+- Être majeur ∙e∙x 
+- S’identifier comme personne transgenre 
+- Résider en France métropolitaine ou outre -mer. 
+Il n’y avait pas de crit ères d’exclusion mais le questionnaire étant disponible seulement en 
+français et en anglais, les personnes ne maîtrisant pas ces langues risquaient d’avoir des 
+difficultés à y répondre. 
+ 
+3. Nombre de sujets nécessaires 
+S’agissant d’une étude descriptive, le c alcul du nombre de sujets nécessaires n’était pas 
+indispensable. Au vu de la taille de la population transgenre en France, l’investigatrice attendait 
+un mini mum de 300 réponses pour obtenir une puissance statistique satisfaisante. 
+
+88 
+ 
+ C. DIFFUSION 
+1. Période du recueil de données 
+Le questionnaire a été activé en ligne le 15 juin 2021, soit 1 mois environ après validation par le 
+comité de protection des personnes. Des ajustements avaient été nécessaires afin d’adapter le 
+questionnaire rédigé sur Word à la version en ligne. Il avait été prévu initialement que le recueil 
+de données durerait 3 mois, et serait donc réalisé du 15 juin au 15 septembre 2021. Devant 
+l’opportunité d’obtenir plus de réponses avec la rentrée universitaire, l’investigatrice ainsi qu e 
+son directeur de recherche ont pris la décision d’étendre le recueil de données au 30 
+septembre 2021. 
+ 
+2. Graphisme, flyers 
+Un flyer virtuel et un flyer papier de l’enquête ont été réalisés à titre gracieux par la graphiste 
+Stéphanie Beuf, en collaboration directe avec l’investigatrice. Le flyer comprenait un QR code 
+renvoyant directement sur l’adresse internet du questionnaire. 
+ 
+3. Mode de diffusion 
+a) Stratégie de mobilisation 
+L’investigatrice a dans un premier temps cherché à identifier les acteur ·rice·s à mobiliser pour 
+assurer la diffusion du questionnaire : il en a résulté que les actrices les plus pertinentes à 
+mobiliser apparaissaient être les différentes structures en contact avec les personnes trans, à 
+savoir en majorité les associations d’a utosupport, les associations LGBTQIA+ et trans -friendly, 
+ainsi que les associations et structures ayant pour vocation l’accompagnement médical des 
+personnes trans. 
+Un email de contact a ainsi été envoyé à ces associations et structures. Dans chaque email 
+l’investigatrice invitait les personnes contactées à échanger autour du projet, par email, 
+téléphone ou visio, et sauf concernant ceux partis en direction de l’outre -mer, en se 
+rencontrant. Les rencontres ont eu lieu à chaque fois que cela était possible. 
+
+89 
+ 
+ b) Diffusion par emails 
+La première salve de diffusion de l’enquête a été réalisée par emails, envoyés le jour du 
+lancement de l’enquête aux associations de personnes transgenres des 10 plus grandes villes de 
+France. Cet email de contact se trouve en anne xe 2. Cette première diffusion a abouti à la 
+diffusion du questionnaire sur les réseaux sociaux, essentiellement sur Facebook et parfois 
+Instagram et Discord selon les associations. Un effet boule de neige a été observé sur Facebook. 
+Dans un deuxième temps et pour une plus grande diversité des réponses, l’investigatrice a 
+contacté une grande majorité des associations de personnes transgenres basées en France et 
+visibles sur les réseaux sociaux. Dans un troisième temps, l’investigatrice a également contacté 
+un g rand nombre d’ associations LGBTQI et LGBTQI -friendly situées en France métropolitaine et 
+outre -mer. Pour une plus grande représentativité des réponses, elle a ensuite contacté des 
+associations de plus petites villes afin d’inclure les répondant ∙e∙x∙s de mi lieux ruraux. Chaque 
+association s’est vu proposer de recevoir un lot de flyers papiers. 
+ 
+c) Diffusion sur Facebook 
+Un post public (Annexe 1 ) avait été rédigé sur Facebook par l’investigatrice, afin que les 
+associations, collectifs et les personnes intéressées puissent le partager directement sur leurs 
+comptes. Cette publication apposée au flyer virtuel indiquait les objectifs de l’enquête, les 
+critères d’inclusion, ainsi que l’appartenance de l’investigat rice à la communauté LGBTQI 
+montpelliéraine. Le post a été partagé sur Facebook par des associations de personnes 
+transg enres, des associations LGBTQI et des associations et collectifs trans -friendly tels que les 
+centres de planification familiale de différentes villes. 
+Au total au 30/09/21, 51 asso ciations trans et trans -friendly avaient diffusé le questionnaire sur 
+les réseaux sociaux, dont 1 6 associations de personnes transgenres. Sur Facebook, en termes 
+de visibilité, cela représentait environ 13800 abonné ∙e∙x∙s via les associations de personnes 
+transgenres, 76000 abonné ∙e∙x∙s environ via les associations trans -friendly et LGBTQI . Il faut 
+prendre en considération le fait que les mêmes personnes étaient souvent abonnées aux pages 
+de plusieurs associations. Au total, au 30/09 /2021, la publication or iginale a vait été partagée 
+185 fois. 
+
+90 
+ 
+ Les associations qui ont participé à la diffusion du questionnaire étaient, dans l’ordre 
+alphabétique : 1001 transitions, Accept Saint Gaudens, ACGLSF, Act up Sud -Ouest, Agir pour les 
+LGBTQ+, Alertes Aveyron, Association Trans -Santé France, ATTO (Association Trans Toulousaine 
+et Occitane), Belles et trans, Bi’cause, Bienvenue Chez Vous LGBT, C’est pas mon ge nre, Clar -T, 
+Centre LGBT de Nice, Centre LGBT de Normandie, Centre LGBT de Paris, Centre LGBT du Poitou, 
+Centre LGBTI de Saint -Lô, Centre LGBTI de Touraine, Centre LGBT de Vendée, Collectif 106, 
+Comité IDAHO France, Ecce homo, Equinoxe, Ex aequo, Fierté Mo ntpellier Pride , Freedom 05, 
+GAGL 45, GETIN, Girofard, Grey pride, Iskis centre LGBT de Rennes, La Langouste à Bretelles, 
+Les Ti’Elles , Licorne 66, Lim’bow, Outrans, Paroles Trans Reims, Planning Familial de Grenoble, 
+Planning Familial d’Ille -et-Vilaine, Planning Familial d’Issy -les-Moulinots, Planning Familial de la 
+Réunion, Planning Familial de la Sarthe, Queer’Amann, Reboo -T, Rita, Support Your Local Girl 
+Gang , Santé sexuelle et affective des personnes LGBT, Transat, Trans mixité internationale, TPG 
+de Toulouse. 
+ 
+d) Diffusion par les flyers papiers 
+Chaque email envoyé aux associations et collectifs comportait une proposition de recevoir un 
+lot de flyers papiers (Annexe 4). Au total, au 30/09/21 une vingtaine d’associations avaient reçu 
+les flyers, ainsi q ue deux lieux festifs trans -friendly parisiens et une librairie montpelliéraine. 
+
+91 
+ 
+ D. ANALYSE ET TRAITEMENT DES DONNEES 
+1. Type d’analyse 
+Aucun questionnaire n ’a été étudié indépendamment des autres, les résultats étaient toujours 
+étudiés de façon agrégée. L’analyse était essentiellement descriptive. 
+Un questionnaire était considéré comme commencé lorsque le·la répondant ∙e∙x avait rempli les 
+3 premières questions (obli gatoires). Un questionnaire était considéré comme complet lorsque 
+toutes les questions avaien t été affichées, et que la personne a vait cliqué sur le bouton 
+« envoyer les réponses ». Un questionnaire était considéré comme incomplet lorsque la 
+personne n’a vait pas atteint la dernière page du questionnaire. 
+ 
+2. Plan d’analyse 
+L’analyse statistique était faite en 3 temps, permettant de détacher les problématiques de 
+santé et d’accès aux soins rencontrées les plus importantes et les variables qui leur sont 
+associées : 
+1. Analyse descriptive de la population répondante : description de l’échantillon. 
+2. Analyse descriptive des problématiques de santé et d’accès aux soins rencontrées par les 
+répondant ∙e∙x∙s. Présentation des résultats sous forme de données agrégées. 
+3. Recherche de variables associées pouvant expliquer les problématiques rencontrées. 
+Pour la re cherche d’associations entre 2 et entre 3 variables, un test de Chi2 était utilisé. Le 
+seuil de significativité était p <0,05. 
+
+92 
+ 
+ E. RECHERCHE BIBLIOGRAPHIQUE 
+ 
+La recherche bibliographique a été réalisée en plusieurs temps : d’abord la recherche de 
+données m édicales concernant la santé globale des personnes transgenres, quelles que soient 
+les disciplines médicales concernées, sur le plan international. 
+Dans un deuxième temps, la recherche a été axée sur des spécificités de santé décrites au sein 
+de la popula tion transgenre. 
+Dans un troisième temps, la recherche a été orientée sur l’accès aux soins des personnes 
+transgenres. 
+Enfin, un travail de recherche des travaux réalisés sur le territoire français a été réalisé, 
+essentiellement à partir de travaux de cher cheur·se·x ∙s en sociologie et de travaux de thèses de 
+psychologie et de médecine générale, ainsi que quelques articles parus dans les revues de 
+presse médicale française. 
+Un travail de recherche au sein des ressources communautaires était également réalisé en 
+parallèle. Ce travail visait à évaluer les besoins et les priorités sanitaires rapportés par les 
+associations de personne s transgenres, afin d’identifier les informations les plus important es à 
+recueillir. 
+Ce travail de recherche bibliographique a été réalisé à l’aide des outils suivants : 
+- Moteur de recherche PubMed 
+- Catalogue CISMeF (Catalogue et Index des Sites Médicaux de Langue Française) 
+- Le catalogue du SUDOC (Système Universitaire de Documentation) qu i recense 
+l’ensemble des thèses produites en France. 
+Une partie du travail de recherche a été réalisée à l’aide de la Bibliothèque Universitaire de 
+Lettres de Montpellier ainsi que des ressources personnelles de l’investigatrice. 
+Concernant le moteur de re cherche Pubmed et le catalogue SUDOC, les mots -clés utilisés 
+étaient en anglais et en français : 
+
+93 
+ 
+ « transgender persons » (« personnes transgenres »), « transidentity » (« transidentité »), 
+« LGBT », « MTF » (« Male to Female »), « FTM » (« Female to Male) . 
+Ces mots -clés MeSH étaient ensuite associés aux mots -clés « health status » (« état de santé »), 
+« global health » (« santé générale »), « mental health » (« santé mentale »), « drugs adverse 
+effects » (« effets indésirables des traitements ») « cancer » , « STD » (sexually transmitted 
+diseases , infection sexuellement transmissibles), « surgeries » (« chirurgies »), « access to 
+care » (« accès aux soins »), « hormone treatment » (« traitement hormonal ») « veterans » 
+(« personnes âgé∙e∙x∙s »), « health care » (« prise en charge en santé »), « primary care » 
+(« soins primaires »), « general practice » (« médecine générale »). 
+
+94 
+
+III. RESULTATS 
+ 
+Au total, 840 questionnaires ont été ouverts par les répondant ·e·x·s sur la période de mise en 
+ligne. Sur ces 840 questionnaires ouverts, 633 (75.4%) personnes ont été inclues dans l’étude et 
+501 (59.6%) questionnaires ont été entièrement remplis et validés (questionnaires complets). 
+132 (15.7%) étaient incomplets car quittés avant la fin . Nous avons intégré les réponses de 
+toutes les personnes inclues dans l’étude car elles avaient donné leur consentement et 
+commencé à répondre au questionnaire. Ainsi le nombre de réponses obtenues est dégressif au 
+fur et à mesure de l’avancée dans le questi onnaire pour arriver dans les dernières questions à 
+501 réponses. 
+Le diagramme de flux est présenté en Figure 1 . 
+Le QR code a été flashé en tout 121 fois, du 1 5 juin au 30 septembre 2021. 
+La version anglaise du questionnaire a été choisie par 4 personnes sur les 840 qui avaient 
+ouvert le questionnaire. 
+Figure 1. Diagramme de flux 
+
+95 
+ 
+ Présentation des résultats 
+Les résultats seront toujours présentés en fonction du total des répondant ·e·x·s ayant répondu 
+à la question concernée . 
+Certains résultats seront présentés en fonction du genre des participant ·e·x·s et parfois en 
+fonc tion du « sexe » qui leur avait assigné à la naissance. 
+Le chercheur en sciences sociales A. Giami écrivait en 2010 (76) que l’utilisation de l’identité de 
+genre revendiquée apparaissait plus appropriée que l’état civil à la naissance « pour 
+comprendre la diversité des conduites et des trajectoires des personnes trans ». 
+Nous avons donc choisi de présenter l’identité de genre plutôt que l’assignation de sexe à la 
+naissance pour décrire l a majorité résul tats, exception faite lorsque nous avons parlé des effets 
+indésirables des hormones ou des dépistages réalisés . Dans ces cas précis nous avons présent é 
+les résultats en fonction du « sexe » qui avait été assigné à la naissance car les questions 
+concernaien t alors des hormones et organes différents . 
+Lorsque nous avons réparti les résultats en fonction de l’âge, nous avons séparé les 
+répondant ·e·x·s en 2 catégories d’âge : les personnes de 18 à 25 ans et les personnes de plus de 
+26 ans . 
+Certains résultats n’ont pas été analysés car ils n’étaient pas interprétables, soit du fait d’un 
+taux de réponse faible soit parce que la question était finalement considérée comme « mal 
+formul ée » au moment de l’analyse. Par exemple, une des questions que nous n’avons pas 
+analysées demandait à quand remontait le dernier vaccin réalisé en dehors de celui contre la 
+COVID19. Nous avions imaginé pouvoir en déduire si les personnes étaient à jour ou non 
+concernant les vaccinations obligatoires mais cette donnée n’était finalement pas 
+interprétable. 
+Certaines réponses ont été fusionnées et recodées dans le but d’améliorer la lisibilité des 
+résultats. Nous avons par exemple, après avoir présenté la répartition des différentes 
+catégories socio -professionnelles au sein de la population répondante , recodé et fusionné 
+ensemble les activités professionnelles déclarées . Lorsqu’elles ont été réalisées c es fusions sont 
+précisées dans la descripti on des résultats . 
+
+96 
+ 
+ A. Caractéristiques de la population répondante 
+ 
+1. Caractéristiques sociodémographiques 
+Les caractéristiques sociodémographiques des répondant ·e·x·s sont détaillées dans le tableau 1 , 
+partie H . 
+ 
+a) Identité de genre et sexe assigné à la naissance 
+La question « Parmi les identités suivantes, quelle est ou quelles sont celles qui vous 
+correspondent le mieux ? » proposait de choisir plusieurs réponses. Nous avons ainsi fait 
+émerger 5 identités de genre différent es : les hommes transgenres, les femmes transgenres, les 
+personnes transgenres trans non-binaires , les homme s transgenre s et non -binaire s, les femme s 
+transgenre s et non -binaire s. 
+La population ayant répondu à notre enquête est constituée d’une majorité de personnes 
+transmasculines : 255 (45.1%) d’hommes trans et hommes trans non -binaires , par rapport aux 
+personnes transféminines : 190 (33.8%) de femmes trans et femmes trans non -binaires , ce qui 
+représente 191 (33.8%) personnes trans non -binaires au total. 
+6 personnes avaient déclaré être intersexes. Bien qu’il ne s’agisse pas d’une identité de genre, 
+nous a vions posé cette question ici, considérant l’ intersex uation sous l’angle de l’identité et de 
+la culture intersexes , dans le sens où l ’écrivait l e militant intersexe Vincent Guillot en 2008 (91). 
+Afin de décrire les résultats en fonction de l’identité de genre des répondant ·e·x·s nous avons 
+distingué 3 identités de genre : hommes trans, femmes trans et personnes trans non -binaires. 
+Dans ce but lorsque les personnes avaient coché un genre binaire ils ·elle étaient rattachées à 
+cette identité. Cette décision a été prise d ans le seul but d ’assurer la lisibilité des résultats, qui 
+était fortement altérée lorsque l’on gardait ces 5 groupes d’identités de genre et n’entend pas 
+remettre en question la légitimité des perso nnes s’identifiant à la fois sous un genre binaire et 
+non-binaire. 
+
+97 
+ 
+ Concernant le « sexe » assigné à la naissance, les résultats montraient une majorité de 
+personnes assignées femmes à la naissance : 330 personnes (58.5%) contre 221 personnes 
+assignées hom mes à la naissance (39.1%) . 
+ 
+a) Age 
+La médiane d’âge de la population répondante est de 26 ans avec des écarts interquartiles à 
+25% et 75% respectivement de 22 et 33 ans. Les personnes interrogées avaient entre 18 et 71 
+ans. 
+L’âge des répondant ·e·x·s était réparti différemment en fonction du genre : 
+il apparaissait de manière statistiquement significative que les hommes trans et les personnes 
+trans non -binaires interrogé ·x·s dans le cadre de notre étude étaient plus jeunes que les 
+femmes trans : 54.3% (n=138) des hommes trans et 47.1% (n=56) des personnes trans non -
+binaires étaient âgé ·x·s de moins de 25 ans, contre 32.8 % (n= 62) des femmes trans, avec un 
+p<0.001 au test de Chi2 . 
+ 
+b) Nationalité 
+Sur les 564 personnes qui avaient affiché la question aborda nt leur nationalité , 550 personnes 
+soit 97.5% des répondant∙e∙x∙s avaient déclaré avoir la nationalité française, 12 personnes soit 
+2.1% répondant∙e∙x∙s avaient répondu ne pas avoir la nationalité française. 2 personnes soit 
+0.4% des interrogé∙e∙x∙s n’avai ent pas souhaité répondre à cette question. 
+ 
+c) Dernier diplôme obtenu 
+Le niveau d’étude de la population répondante était le suivant : 
+- 479 personnes (8 4.6%) avaient le baccalauréat 
+- 315 personnes (55.6%) avaient accompli au moins un premier cycle universitaire 
+(licence) ou équivalent 
+- 28.3% (n=160) avaient identifié la licence comme leur dernier diplôme obtenu 
+- 23.1% (n=131) avaient identifié le master comme leur dernier diplôme obtenu

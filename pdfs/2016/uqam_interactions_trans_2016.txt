@@ -1,0 +1,2461 @@
+UNIVERSITÉ DU QUÉBEC À MONTRÉAL 
+LES INTERACTIONS SOCIALES DES PERSONNES TRANS DANS LEUR 
+MILIEU DE TRAVAIL : UNE ANALYSE QUALITATIVE EXPLORATOIRE 
+MÉMOIRE 
+PRÉSENTÉ 
+COMME EXIGENCE PARTIELLE 
+DE LA MAÎTRISE EN SEXOLOGIE 
+PAR 
+ELIZABETH PÂRENTEAU 
+SEPTEMBRE 2016 
+UNIVERSITÉ DU QUÉBEC À MONTRÉAL 
+Service des bibliothèques 
+Avertissement 
+La diffusion de ce mémoire se fait dans le respect des droits de son auteur, qui a signé 
+le formulaire Autorisation de reproduire et de diffuser un travail de recherche de cycles 
+supérieurs (SDU-522 -Rév.0?-2011 ). Cette autorisation stipule que «conformément à 
+l'article 11 du Règlement no 8 des études de cycles supérieurs, [l'auteur] concède à 
+l'Université du Québec à Montréal une licence non exclusive d'utilisation et de 
+publication de la totalité ou d'une partie importante de [son] travail de recherche pour 
+des fins pédagogiques et non commerciales. Plus précisément , [l'auteur] autorise 
+l'Université du Québec à Montréal à reproduire , diffuser, prêter, distribuer ou vendre des 
+copies de [son] travail de recherche à des fins non commerciales sur quelque support 
+que ce soit, y compris l'Internet. Cette licence et cette autorisation n'entraînent pas une 
+renonciation de [la] part [de l'auteur] à [ses] droits moraux ni à [ses] droits de propriété 
+intellectuelle. Sauf entente contraire, [l'auteur] conserve la liberté de diffuser et de 
+commercialiser ou non ce travail dont [il] possède un exemplaire .» 
+REMERCIEMENTS 
+Mes remerciements vont tout d'abord, à ma directrice de recherche, Line 
+Chamberland , dont 1' expertise et le soutien ont alimenté mon intérêt envers l'identité 
+de genre et les minorités sexuelles. La réalisation de ce mémoire a été possible grâce 
+à sa direction, sa confiance et ses encouragements. 
+Je souhaite offrir toute ma gratitude et ma reconnaissance aux personnes trans qui ont 
+participé à ce projet. Sans leur participation , leur ouverture et leur appui, ce mémoire 
+n'aurait jamais vu le jour. 
+Je désire remercier le Syndicat canadien de la fonction publique pour m'avoir offert 
+une bourse afin que je puisse réaliser ce mémoire. 
+Pour leur collaboration, je remercie toutes les associations et les organismes qui ont 
+collaboré à ce projet en partageant l'affiche et les renseignements concernant ce 
+projet de mémoire. 
+Merci à tous mes collègues du département de sexologie, pour leur complicité lors de 
+notre cheminement académique. Un merci particulier à Caroline Côté d'avoir été une 
+alliée et d'avoir cru en moi, et ce, même lors des moments les plus difficiles. 
+Je tiens également à remercier mon copain, mes arni(e)s et ma famille pour le soutien 
+qu'ils m'ont apporté tout au long de cette démarche. 
+iii 
+DÉDICACE 
+À Catherine 
+TABLE DES MATIÈRES 
+LISTE DES ABRÉVIATIONS ............................................................................ ....... vii 
+RÉSUMÉ ................................... ................................................................................ viii 
+INTRODUCTION ................................ ........................................................................ 1 
+CHAPITRE 1 
+PROBLÉMATIQUE .................................................................. ................................... 4 
+CHAPITRE II 
+ÉTAT DES CONNAISSANCES .................................................................................. 8 
+2.1 Les droits des personnes trans ........................................................................... 8 
+2.2 Discrimination économique .................................................................... ........ 10 
+2.3 Violence et harcèlement. ................................................................................. 11 
+2.4 Période de transition ................ ....................................................................... 13 
+2.5 Environnement de travail ................................................................... ............. 14 
+2.5.1 Espaces distincts selon le genre .......................................................... 14 
+2.5.2 Habillement ................................................ ......................................... 15 
+2.5.3 Prénom et pronom ............................... ................................................ 16 
+2.5.4 Confidentialité .......................................................... ........................... 16 
+2.5.5 Normes de genre ............................................................................. .... 17 
+CHAPITRE III 
+CADRE CONCEPTUEL .......................... ...................... ............................................ 21 
+3.1 Identité de genre ....... ! ...................................................................... ................ 2•1 
+3.2 Soutien social .................................................................................................. 27 
+CHAPITRE IV 
+MÉTHODOLOGIE ..................................................................................................... 31 
+4.1 Description du projet.. ................ ................... .................................................. 31 
+4.2 Procédure s et recrutement. ........................ .............................. ........................ 33 
+4.3 Descriptions des participant s ........................................................................ .. 34 
+4.4 Déroulement des entrevues ............................................................................. 35 
+v 
+4.5 Procédure s d'analyse des entrevues ............................ .... : ............................... 37 
+4.6 Considération s éthiques .................................. ................................................ 37 
+CHAPITRE V 
+RÉSULTATS .............................................................................................................. 39 
+5.1 Stratégies de transition .................................................................................... 39 
+5 .1.1 Stratégie planifiée ..................... ......................................... ................. 3 9 
+5 .1.2 Stratégie non planifiée .............. ....................................... .................. . 42 
+5.2 Annonce de la transition .................... .................................................. ........... 45 
+5 .2.1 Annonce personnalisée ........................ ............................................... 45 
+5.2.2 Réactions immédiates suite à l'annonce ........................................... .. 46 
+5.3 Réactions des collègues ·:··········································-'····································· 47 
+5. 3.1 Réactions positives des collègues ................................................... .... 4 7 
+5.3.2 Réactions négatives des collègues ...................................................... 48 
+5.3.3 Réactions neutres des collègues .......................................................... 49 
+5.4 Réactions des superviseurs ............................................................................. 50 
+5.4.1 Réactions positives des superviseurs .................................................. 50 
+. 5.4.2 Réactions négatives des 
+superviseurs ................................ ................. 51 
+5.5 Réactions du département des ressources humaines ...................... ................. 52 
+5.5.1 Réactions positives du département des ressources humaines ........... 52 
+5.5.2 Réactions négatives du département des ressources humaines ........... 53 
+5.6 Réactions de la clientèle ..................................................... ............................. 54 
+5.6.1 Réactions positives de la clientèle ...................................................... 54 .. .. 
+5.6.2 Réactions négatives de la clientèle ..................................................... 55 
+5.7 Environnement de travail ............................................................ .................. .. 56 
+5.7.1 Identité personnelle .......................................... ................................... 56 
+5.7.2 Expression de genre .......................................... .................................. 59 
+5.7.3 Utilisation des lieux divisés selon le genre ......................................... 62 
+5.8 Soutien reçu avant, pendant et après la transition ........................................... 63 
+5.8.1 Entourage personnel.. ...................................................................... .... 64 
+vi 
+5.8.2 Organismes associatifs et soutien professionnel.. ...................... ......... 65 
+5.8.3 Sources d'information ..................................... .................................. .. 66 
+5.8.4 Syndicat. .............................................................................................. 67 
+5.9 Facteurs perçu comme pouvant faciliter la transition au travail ................... 68 
+5.9.1 Facteurs personnels ...................................... ....................................... 68 
+5.9.2 Soutien externe au milieu de travail.. ........................ .......................... 72 
+5.9.3 Soutien interne au milieu de travail .................................................... 73 
+5.9.4 Guides ................................. ............................ .................................... 74 
+CHAPITRE VI 
+DISCUSSION ................. ............................................................................................ 76 
+6.1 La transition de l'identité de genre dans un milieu de travail.. ....................... 76 
+6.2 Le soutien social perçu par les per onnes trans dans leur milieu de travail ... 83 
+6.3 Limites du projet de recherche .............................. .......................................... 88 
+CONCLUSION ...................................................................................................... ..... 92 
+APPENDICE A 
+ANNONCE DU PROJET DE MÉMOIRE ........................ ......................................... 96 
+APPENDICEB 
+SCHÉMA D'ENTREVUE .......................................................................................... 97 
+APPENDICEC 
+FORMULAIRE DE CONSENTEMENT ................................ ................................. 100 
+APPENDICED 
+APPROBATION ÉTHIQUE ............... .............................. ......................... .............. 104 
+APPENDICEE 
+PROJET DE LOI C-279 ........................................................................................... 106 
+BIBLIOGRAPHIE .................................................................................................... 108 
+LISTE DES ABRÉVIATIONS 
+ASTT(e)Q Action Santé Travesti(e)s & Transsexuel(le)s du Québec 
+A TQ Aide aux Transsexuel(le )s du Québec 
+MUSIC McGill University Sexual Identity Centre 
+.. 
+RÉSUMÉ 
+La présente étude vise à explorer les interaction s sociales des personnes qui 
+effectuent une transition de genre dans leur milieu de travail. Plus précisément, il 
+s'agit d'examiner divers aspects de leurs expérience s vécues au travail en lien avec le 
+processus de transition : les stratégies sur le plan identitaire, les interactions avec 
+l'entourage, l'insertion dans le milieu de travail et le soutien social perçu. 
+Afin "d'explorer ces éléments , une analyse qualitative a été effectuée par l'entremise 
+d'entrevues semi-dirigées auprès de 12 personnes trans, âgées de 27 à 61 ans, ayant 
+effectué une transition dans leur milieu de travail au cours des cinq dernières années. 
+L'analyse des témoignages recueillis permet de documenter les expériences de ces 
+individus ainsi que les interactions avec leurs collègues, leurs superviseurs, leurs 
+clients et leur environnement global de travail. 
+Les résultats indiquent que la trans1t10n de l'identité de genre dans un milieu de 
+travail comporte plusieurs aspects significatifs à prendre en considération : la 
+planification , 1' annonce, les interactions avec les différentes personnes qui composent 
+le milieu, les changements en lien avec les dossiers administratifs et l'environnement 
+physique . Puis, le soutien social perçu par les personnes trans à l'intérieur et à 
+1 'extérieur de leur profession joue un rôle important lors de la transition en milieu de 
+travail. Les résultats obtenus dans le cadre de ce mémoire ne permettent pas de 
+répondre à des hypothèses précises et ils ne sont pas généralisables vu la nature 
+exploratoire de cette recherche . 
+Pour conclure, plusieurs pistes de recherche et d'intervention sont proposées dans ce 
+mémoire afin d'outiller les milieux et les différents professionn(ÛS qui oeuvrent 
+auprès des personnes trans et de mieux soutenir les personnes concernées par la 
+transition de 1 'identité de genre dans un milieu de travail. 
+Mots-clés : trans*, transidentité, identité de genre, transsexuel , transgenre, travail, 
+emploi. 
+INTRODUCTION 
+Ce mémoire s'intéresse à la tran ition identitaire en milieu de travail. Afin de bien 
+comprendre le sujet et le cadre de l'étude qu'il présente, il importe de bien clarifier 
+certain terme dès le départ. Dans un énoncé de principes publié en 2014, 
+l'Association des psychiatres du Canada définit le terme transsexuel comme 
+s'appliquant à une personne qui,« tiraillée entre le corps qui est le sien et l'identité de 
+genre qu'elle ressent, souhaite modifier son corps par un traitement hormonal ou 
+chirurgical afin qu'il corresponde à son identité de genre » (Veltman et Chaimowitz , 
+2014, p. 6). Pour sa part, le terme transgenre réfère à une « per onne dont l'identité 
+ou 1' exp re sion de genre se situent en dehors des règles des genres masculin et 
+féminin conventionnels » (ibid., p. 6). L'Association de psychiatres propose 
+également une définition de ces deux derniers concepts : alors que 1' identité de genre 
+se définü comme «l'expérience intime et per annelle dé son genre profondément 
+vécue par chacun» (ibid., p. 5), ce qui peut se traduire par diverses possibilités 
+comme« se entir homme ou femme, homme et femme, ru homme ni femme» (ibid., 
+p. 5), l'expression de genre renvoie à l'expression de cette identité par l'habillement, 
+le comportement, le maintien, les attitude , le langage, la voix et les activités » (ibid., 
+p. 4). Ce mémoire privilégie l'emploi du terme« trans», lequel permet d'inclure à la 
+fois les personnes transgenre et les personnes transsexuelles. Ce terme désignera 
+donc toute personne qui ne s'identifie pas au genre correspondant au sexe biologique 
+qui lui a été assigné à la naissance, qu'elle s'identifie au genre opposé ou à aucun des 
+genres, qu'elle ait subi ou non de traitements médicaux . Plus précisément, dans le 
+cadre de ce mémoire, nous emploierons les expressions « homme trans » et 
+« femmes trans » en faisant référence au genre auquel ces personnes s'identifient. 
+Comparativement à certains autres groupes de minorités sexuelles, les personnes trans 
+ont eu jusqu'à maintenant plu de difficulté à e mobiliser et à attirer l'attention sur 
+2 
+les enjeux qui les concernent, y compris celle des milieux scientifiques (Nussbaum , 
+2010). Au Québec, il existe trè peu d'études et, conséquemment , peu de données sur 
+la population trans. Celle-ci englobe une grande variété d'individus, dont les 
+trajectoires identitaires sont elles-mêmes de plus en plus diversifiées. 
+La transition identitaire , c'e t-à-dire le processus par lequel une personne privilégie le 
+genre auquel elle s'identifie subjectivement par rapport au genre assigné, implique de 
+multiples changements sur les plans psychologique, médical, juridique et social, et ce, 
+dans plusieurs sphères de la vie. Parmi les recherches réalisées sur l'identité de genre 
+et sur ce processus de transition, peu d'études se sont intéressées à la transition 
+identitaire en milieu du travail. Au quotidien , l'environnement de travail constitue un 
+cadre de vie où les personnes trans sont en interaction constante avec d'autres 
+individus . Qu'en est-il lorsque ces personnes effectuent leur transition identitaire en 
+demeurant dans le même lieu de travail? Comment annoncent-elles leur décision? 
+Quelles sont les réactions de leur entourage de travail? Comment la transition 
+identitaire affecte-t-elle les interactions avec celui-ci? Les personnes qui effectuent 
+une telle transition reçoivent-elles du soutien ou non, de la part de leur miüeu de 
+travail? Par l'entremise d'une démarche qualitative, ce mémoire vise à explorer les 
+interactions sociales des personnes trans dans leur milieu de travail pendant et suite à 
+leur transition. Plus spécifiquement, il vise à documenter les expériences de ces 
+individus ainsi que les interactions avec leurs collègues , leurs superviseur s, leur 
+clientèle ai~si que leur insertion dans leur environnement global de travail. 
+Ce mémoire comprend six chapitres . Le premier chapitre aborde la problématique de 
+la transition en milieu de travail. Le second présente 1' état des connaissances sur la 
+transition en milieu de travail à partir des écrits scientifiques. Le troisième chapitre 
+discute du cadre conceptuel qui structure ce projet de mémoire. Ensuite, le quatrième 
+chapitre présente la méthodologie utilisée lors de cette étude. Pui , le cinquième 
+chapitre propose une analyse descriptive des résultats obtenus suite à la collecte des 
+3 
+données. Ensuite, le sixième chapitre discute ces résultats en regard de la littérature 
+scientifique. Finalement, le mémoire se termine avec une brève conclusion. 
+CHAPITRE I 
+PROBLÉMATIQUE 
+Les personnes trans forment une minorité peu nombreuse (Schilt, 2006). Avec 
+l'émergence des mouvements sociaux autour de la diversité sexuelle et de genre, le 
+sujet de 1' identité de genre et des droits des personnes trans a pris une place plus 
+importante au sein des débats politiques et sociaux (Nussbaum, 2010). D'un côté, les 
+identités des personnes trans sont encore associées à la pathologie dans le DSM-5, le 
+manuel diagnostique et statistique des troubles mentaux, sous le diagnostic de la 
+dysphorie de genre (American Psychiatrie Association, 2015). La dernière version de 
+ce manuel définit la dysphorie de genre comme étant «une non-congruence marquée 
+entre le genre auquel ils ont été assignés (habituellement à la naissance, attribué 
+comme genre de naissance) et le genre éprouvé/exprimé » (American Psychiatrie 
+Association, 2015). Par ailleurs, les revendications des mouvements trans ont donné 
+une visibilité croissante à plusieurs enjeux dans les médias populaires , ce qui permet 
+de prendre conscience des difficultés que peut engendrer le processus de transition 
+pour les individus concernés (Nussbaum, 2010). La transition se définit comme étant 
+un «processus complexe à plusieurs phases qui peut s'étirer sur des années, le temps 
+nécessaire pour harmoniser l'anat?mie et l'expression de genre de la personne 
+transgenre à son identité de genre» (Veltman et Chaimowitz, 2014). Le processus de 
+la transition d'une identité de genre à une autre amène plusieurs changements pour 
+ces individus. 
+Alors que la société d'aujourd'hui divise le genre selon des catégories binaires 
+homme/femme, les interactions sociales des personnes trans dans leurs diverses 
+sphères de vie se voient profondément bouleversées pendant et après leur transition 
+5 
+(CTC, 2010). Le milieu de travail constitue l'une de ces sphères où les personnes 
+trans sont en interaction constante avec d'autres individus au quotidien . Selon les 
+études disponibles, que ce soit avant le processus de transition, pendant ou après, les 
+personnes transsexuelles et transgenres sont victimes de beaucoup de stigmatisation, 
+de discrimination et d'isolement au travail (Byne et al, 2012; Dargie et al, 2014; 
+Grant et al, 2011; Moran et.Sharpe, 2004; CTC, 2003; AFPC, 2008; SCFP, 2005). À 
+cela s'ajoutent parfois de la violence et du harcèlement de la part de certains 
+collègues de travail (Byne et al., 2012; Moran et Sharpe, 2004; Lombardi et al., 2001; 
+Whittle et al., 2007). 
+Bien que l'identité de genre réfère à l'intimité de la personne, la transition identitaire 
+implique aussi une reconnaissance sociale du genre d'identification . Selon les 
+événements de la vie qui se présentent lors de la période de transition, il peut se créer 
+engendrer beaucoup à se faire reconnaître dans le genre d'identification et à faire 
+valoir ses droits lors d'interaction s sociales (CTC, 2003). Autant à l'école, au travail 
+que dans les hôpitaux, la frontière entre la sphère privée et la sphère publique des 
+personnes trans est souvent peu respectée (Byne et al., 2012). Effectivement, lorsqu'il 
+y a non-respect des aspects confidentiels de la transition, comme la divulgation de 
+renseignement s personnels, cela procure une exposition supplémentaire au regard 
+public pour la personne en processus de changement d'identité (Byne et al., 2012; 
+AFPC, 2008; Bauer et al., 2011; CTC, 2003). 
+La plus importante étude réalisée auprès de la population trans au Canada, 
+Transpulse, démontre que cette population est aux prises avec plusieurs problème s en 
+lien avec l'emploi et le milieu de travail (Bauer et al., 2011). Les personnes trans sont 
+ainsi plus à risque d'être traitées de façon inju te (CDPDJ, 2007). Dans l'ensemble, 
+c'est l'égalité, l'intégrité physique et la liberté d'expression des personnes trans qui 
+sont brimées. Selon les normes du travail, les employeurs se doivent d'offrir un milieu 
+de travail sans discrimination et sans harcèlement (Nussbaum, 2010). Par ailleurs, 
+6 
+conscients de ces problèmes, des organismes communautaires, des organisations 
+syndicales et des institutions gouvernementales ont créé des guides et des outils pour 
+accompagner les personnes trans et leurs employeurs dans le processus de transition 
+au sein de leur milieu professionnel. Ces initiatives illustrent bien l'existence d'un 
+besoin pour soutenir et respecter les droits des personnes trans dans les milieux 
+professionnels. 
+En ce qui concerne la sphère du travail, deux constats ressortent des études 
+disponibles. L'accès au travail pour cette population est souvent difficile (Byne et al., 
+2012; CTC, 2003; Moran et Sharpe, 2004). Aussi, il a été observé que les personnes 
+trans sont de plus en plus nombreuses à faire leur transition tout en conserv~nt leur 
+emploi (Byne et al., 2012; CTC, 2003; Moran et Sharpe, 2004). Un nouvel enjeu est 
+donc apparu : celui de leur intégration dans le milieu de travail pendant et après la 
+transition de genre. C'est à ce dernier enjeu, relativement récent, que nous allons nous 
+intéresser. 
+Le but de cette recherche est de documenter et de mieux comprendre les interactions 
+sociales des personnes trans dans leur milieu de travail suite à leur transition. Plus 
+précisément, il s'agit d'explorer les expériences vécues en lien avec le processus de 
+transition dans un même cadre professionnel puisque très peu d'études sont 
+disponibles sur le sujet. Idéalement, ces renseignements permettront d'identifier les 
+principaux éléments à améliorer afin de mieux soutenir les personnes trans lors de 
+leur transition en milieu de travail. 
+Dans sa globalité, un tel projet de mémoire vise à réduire les préjugés et la 
+stigmatisation présente dans les milieux de travail et ainsi faciliter le processus de 
+transition identitaire pour les personnes trans. Toutes les informations relatives à la 
+division sexuelle au travail sont pertinentes dans la mesure où la transition sera 
+influencée par cette dichotomie des genres dans les milieux de travail. Dans une 
+7 
+société qui conçoit les genres de façon binaire, les personnes trans risquent fortement 
+d'être victimes de la norme sociale qu'imposent les rôles traditionnellement associés 
+au genre dans un contexte professionnel. L'étude de ce sujet permettra d'obtenir des 
+connaissances sur cette problématique très peu étudiée au Québec. D'un point de vue 
+social, cette étude est pertinente pour les individus concernés, mais aussi pour les 
+collègues, les direction s et les diverses clientèles. En effet, puisqu'il s'agit 
+d'interaction s sociales, l'entourage joue un rôle important en ce qui concerne 
+1' intégration des personnes trans dans leurs milieux de travail. En fonction des 
+renseignements recueillis, les instances gouvernementales pourraient aussi en 
+bénéficier afin d'arriver à mettre en place des services d'aide adéquats pour les 
+personnes trans et leurs entourages professionnels. 
+CHAPITRE TI 
+ÉTAT DES CONNAISSANCES 
+Ce chapitre vise à présenter les connaissances relatives à l'objet de notre étude. Les 
+différentes sections aborderont les points suivants : 1) les droits des personnes trans; 
+2) la discrimination économique; 3) la violence et le harcèlement en milieu de travail; 
+4) la période de transition et 5) l'environnement de travail. 
+2.1 LES DROITS DES PERSONNES TRANS 
+Nous aborderons les droits reconnus aux personnes trans en deux temps : les 
+législations offrant une protection contre la discrimination au Québec et au Canada, 
+puis les règles concernant le changement de prénom et de la mention de sexe sur les 
+documents d'identité. 
+La Charte des droits de la personne du Québec interdit la discrimination sur la base 
+du motif sexe (Commission des droits de la personne et des droits de la jeunesse, 
+2007). Pour faire suite à une juri,sprudence datant de 1998, le Tribunal des droits de la 
+personne propose une interprétation large de l'interdiction de la discrimination sur la 
+base du sexe (CDPDJ, 2007). Cependant, aucune définition du terme sexe ne se 
+retrouve dans le Code civil du Québec (Bureau et Sauvé, 2011). Sachant bien que Je 
+principal désir des personnes trans est de changer de sexe ou d'identité de genre, une 
+lacune en matière de définition de ce terme peut laisser place à beaucoup 
+d'interprétations. C'est ensuite sur ces interprétations que la loi se base pour juger s'il 
+y a discrimination ou non. 
+9 
+À l'échelle canadienne, le projet de Loi C-279 a été déposé à la Chambre des 
+communes et adopté par le parlement canadien en 2013. Ce projet de loi vise 
+principalement à ajouter les termes « identité et expression sexuelles » à la Loi 
+canadienne sur les droits d
+e la personne afin d'interdire la discrimination basée sur 
+ces motifs 1
+• ll propose le même ajout au Code criminel pour ce qui concerne les 
+motifs de crime haineux (Pa
+rlement du Canada, 2013). Cependant, le cheminement 
+de ce projet de loi a été bloqué par le Sénat (voir Appendice E). Un comité a été mis 
+en place et des amendements ont été proposés, mais le Sénat n'est pas parvenu à 
+obtenir un consensus. 
+Un autre aspect important des droits des personnes trans concerne la possibilité de 
+changer de prénom et la mention de leur sexe dans les document s d'identité afin de 
+les faire correspondre à leur genre d'identification. Un délai est nécessaire afin 
+d'obtenir cette modification et effectuer les changements sur des papiers d'identité 
+(CDPDJ, 2007). Plusieurs atteintes peuvent avoir lieu durant cette période d'attente, 
+avant l'obtention des documents officiels (CDPDJ, 2007). À titre d'exemple, les 
+personnes trans peuvent avoir de la difficulté à faire reconnaître leur identité puisque 
+leur expression de genre ne concorde plus avec leurs document s officiels. Le rapport 
+de consultation du Groupe de travail mixte contre l'homophonie affirme ainsi que 
+« les difficulté s liées au changement de prénom [peuvent] causer des effets 
+préjudiciables pour les personnes transsexuelles ou en transition de changement de 
+sexe» (CDPDJ, 2007). Une demande doit être émise auprès du Directeur de l'état 
+civil afin de modifier leur prénom (CDPDJ, 2007). Pour modifier la mention du sexe, 
+les personnes trans doivent « déclarer avoir vécu sous 1' apparence du sexe demandé 
+en tout temps depuis au moins deux ans; avoir obtenu une lettre d'un médecin, d'un 
+psychologue, d'un psychiatre ou d'un sexologue déclarant avoir été évalué ou suivi 
+ainsi qu'une déclaration d'une personne majeure qui atteste la connaître depuis au 
+1 Les termes anglais « gender identity »et« gender expression »ont été traduits par « identité et 
+expression sexuelles». 
+10 
+moins deux ans sous l'apparence du sexe demandé » (CDPDJ, 2015). Depuis le 1er 
+octobre 2015, les personnes trans peuvent modifier le marqueur de genre sur leurs 
+document s officiels sans avoir recours à la chirurgie de réassignation sexuelle et 
+l'avis d'un professionnel ou d'une professionnelle n'est plus requis (Québec, 2015). 
+2.2 DISCRIMINATION ÉCONOMIQUE 
+Selon une étude menée par Lombardi et ses collègues (2001), les personne s trans 
+seraient grandement victimes de discrimination économique. En effet, elles seraient 
+trois fois plus susceptibles de rencontrer des difficultés liées à 1' embauche, à la 
+conservation de leur emploi ou à l'accès à des postes supérieurs que la population 
+générale (Lombardi et al., 2001). Il est cependant parfois difficile pour les personnes 
+trans de pou voir démontrer le lien entre la transition vers le genre d'identification et 
+la perte de l'emploi (Grant et al., 2011; Lombardi et al., 2001; Testa et al., 2012). 
+L'étude de Grant et al. (20 11), réalisée par 1' entremise d'un questionnaire auprès de 6 
+456 personnes trans provenant de tous les États américains, aborde les défis liés à 
+l'emploi. Elle relève que 47% des participants rapportent avoir été licenciés ou s'être 
+vus refuser un emploi ou une promotion en raison de leur transition de genre (Grant et 
+al., 2011). De plus, 57% des participants de cette étude mentionnent avoir retardé 
+leur transition en raison des risques liés au milieu du travail (Grant et al., 2011 ). 
+Par ailleurs, Schilt et Wiswall (2008) ont conduit un sondage auprès de 43 personnes 
+trans, soit 16 femmes trans et 29 hommes trans, réalisé aux États-Unis en 2004 et 
+2005. Cette étude révèle que les personnes trans entament leur transition en 
+moyenne 
+7 ans plus tard lorsqu'elles désirent continuer à occuper leur emploi, plutôt que celles 
+qui envisagent d'en changer (Schilt et Wiswall, 2008). Dans deux études, quelques 
+participant s affirment que les risques économiques liés à l'emploi les amènent 
+souvent à retarder le moment de leur transition (Grant et al., 2011; Schilt et Wiswall, 
+2008). L'étude de Schilt et Wiswall (2008) souligne également que les participants 
+11 
+qui s'identifient en tant qu'hommes vivent leur transition 9,6 ans plus tôt que ceux 
+qui s'identifient en tant que femmes (Schilt et Wiswall, 2008). Ainsi on pourrait 
+penser que les personnes qui s'identifient comme femmes craignent une détérioration 
+de leur situation professionnelle en passant du genre masculin au genre féminin, alors 
+que les personnes qui s'identifient comme hommes pourraient anticiper un impact 
+moins négatif au niveau de leur carrière. 
+En ce qui concerne l'accès à l'emploi, l'une des difficultés à laquelle sont confrontées 
+les personnes trans est celle d'obtenir des attestations (diplômes, relevés de notes, 
+lettres de recommandation) avec le prénom correspondant à leur identité de genre 
+actuelle (Nussbaum, 2010). Certaines personnes trans vont même préférer ne pas 
+fournir de références lorsqu'elles posent leur candidature pour un nouvel emploi, afin 
+de ne pas dévoiler leur transition (Nussbaum, 2010). 
+2.3 VIOLENCE ET HARCÈLEMENT 
+Le terme cisgenre définit « une personne dont le sexe assigné à la naissance, le corps 
+et l'identité de genre concordent» (Schilt et Westbrook, 2009)2. L'étude Transpulse , 
+basée sur un échantillon de 433 personnes trans, rapporte que 25 % des répondant s 
+disent qu'ils ne sont pas perçus comme des personnes cisgenre plus que la moitié du 
+temps (Bauer et al.,' 2011). Ainsi, ils affirment qu'ils ont de la difficulté à faire 
+reconnaître leur identité de genre par les autres. Selon eux, ceci les rend vulnérables à 
+la discrimination et au harcèlement dans leur milieu de travail (Bauer et al., 2011). 
+Selon trois études réalisées aux États-Unis entre 1997 et 2006, les per onnes trans 
+sont victimes de beaucoup de violence physique, verbale et sexuelle en raison de leur 
+2 Traduction libre de« individuals who have a match between the gender they were assigned at birth, 
+their bodies, and their persona! identity ». 
+12 
+non-conformité aux normes de genre (Lombardi et al., 2001; Nemoto et al., 2011; 
+Testa et al., 2012). L'étude de Lombardi regroupant 402 personnes trans constate que 
+59.5 % des répondants disent avoir été victimes d'une forme de violence ou de 
+harcèlement au travail (2001). La seconde étude auprès de 573 personnes trans relève 
+que la moitié de leur échantillon dit avoir subi de la violence physique et plus d'un 
+tiers rapporte avoir été victime de violence sexuelle (Nemoto et al., 2011). Selon 
+l'étude de Testa, 38 % des 350 participants mentionnent avoir été victime de violence 
+physique et 26.6% de violence sexuelle 
+dans leur milieu de travail (2012). Enfin, une 
+étude regroupant 873 personnes trans au Royaume-Uni rapporte que 73 % des sondés 
+se disent victimes de harcèlement (Whittle et al., 2007). 
+Selon la définition de Serano utilisée pour l'étude TransPulse (2013), la transphobie 
+est définie comme étant «une crainte irrationnelle, l'aversion à, ou la discrimination 
+contre des personnes, dont le sexe social, les apparences, ou les comportements 
+s'écartent des normes sociales (p. 1) ». À partir des résultats de deux études 
+américaines réalisées par l'entremise de questionnaires, la violence et le harcèlement 
+s'expliqueraient donc par la transphobie et la déstabilisation que peuvent vivre les 
+personnes de l'entourage face à leur propre conception des idées de genre (Lombardi 
+et al., 2001; Testa et al., 2012). Dans l'étude réalisée auprès de 350 personnes trans 
+en Virginie, 97.7 % des participants mentionnent que leur identité de genre est la 
+principale cause de la violence dont ils ont été victimes (Testa et al., 2012). Selon 
+l'étude TransPufse, 40.6 % des participantes trans affirment avoir été' victimes de 
+transphobie à un niveau modéré ou élevé (Nooshin et al., 2011a). Toujours selon la 
+même étude, 50.8 % des participants trans rapportent avoir vécu de la transphobie à 
+un niveau modéré ou élevé (Nooshin et al., 201lb). 
+13 
+2.4 PÉRIODE DE TRANSITION 
+Pour la personne trans, la transition est souvent une période critique en raison de 
+l'incompréhen sion dont peut faire preuve l'entourage (Whittle et al., 2007). En effet, 
+45 % des 872 participants trans d'une étude réalisée au Royaume-Uni ont rapporté 
+que l'adoption d'une identité de genre différente a entraîné une rupture avec leur 
+famille (Whittle et al., 2007). ll leur est donc parfois difficile de bien s'intégrer 
+socialement (Byne et al., 2012; Moran et Sha.rpe, 2004). Le rejet social est fortement 
+ressenti par les personnes trans et les amène souvent à garder le silence, à ressentir de 
+la honte ou encore à vivre dans le déni de leur réelle identité de genre (Whittle et al., 
+2007). Cette réalité s'illustre également dans le milieu professionnel. En effet, l'étude 
+de Whittle et al. (2007) relève que 42 % des participants qui ne vivaient pas 
+entièrement selon leur identité de genre ne le font pas en raison des risques reliés à 
+leurs emplois. 
+Le manque de soutien social peut aussi rendre les personnes trans plus vulnérables à 
+la dépression et aux idées suicidaires (Nooshin et al., 20lla; Nooshin et al., 2011 b; 
+Scanlon, 2010; Whittle et al., 2007). L'étude de Transpulse fournit des données sur le 
+risque suicidaire chez celles-ci. Selon les données de cette étude, un premier article 
+indique que 61.2% des femmes trans affirment connaître des symptômes de 
+dépression (Nooshin et al., 2011a). Un deuxième article relève que 66.4% des 
+hommes trans interrogés affirment en être victimes (Nooshin et al., 2011 b). En uite, 
+50 % des participants au projet Transpulse ont évoqué avoir «déjà sérieusement 
+envisagé le suicide parce qu'ils sont trans» (Scanlon, 2010). L'étude de Nemoto et 
+al. (2011) conduite auprès de 573 personnes trans à San Francisco rapporte que plus 
+de la moitié des participants confient avoir eu des idées suicidaires et, parmi eux, 
+61 % affirment avoir fait une tentative de suicide. On peut citer également à ce sujet 
+l'étude de Whittle et al. (2007) réalisée au Royaume-Uni auprès de 872 personnes 
+trans, dont 34.4% ont mentionné avoir déjà essayé de se suicider. 
+14 
+2.5 ENVIRONNEMENT DE TRA V All., 
+Dans cette section, nous examinons les éléments lié à l'environnement professionnel 
+qui peuvent engendrer de s difficulté s d'adaptation ou être la source de discrimination . 
+Pour ce faire, en plus de la recension des écrits scientifiques, nous avons consulté des 
+guides Documents sur les droits des personnes trans (AFPC, 2008), Travailleuses et 
+travailleurs en transition : Guide pratique pour les représentantes et les 
+représentants syndicqux à l'égard de la transition sexuelle (CTC, 2003) et Violence 
+contre les personnes transsexuelles et transgenres (SCFP, 2005). Bien qu'ils n'aient 
+pas une valeur scientifique, ces guides contiennent des renseignements 
+sur les 
+expériences vécues par les personnes trans et les obstacles qu'elles rencontrent au 
+quotidien . 
+2.5.1 Espaces distincts selon le genre 
+Certains espaces du milieu de 'travail sont différencié s selon le genre des personnes. 
+Lors de l'exercice d'un emploi, plusieurs personnes trans rencontrent des difficulté s 
+lorsque confrontées aux espaces communs divisés en fonction du genre (Grant et al., 
+2011; Schilt et Connell, 2007; Whittle et al., 2007). L'étude qualitative de Schilt et 
+Connell (2007) a été réalisée auprès de 28 personnes trans en Californie et au Texas 
+de 2003 à 2005. En entrevue, quatre participant s ont évoqué l'utilisation des toilettes 
+différenciées par le genre (Schilt et Connell, 2007). Ces quatre participants ont 
+mentionné avoir été bien accueillis et respectés dans le choix des toilettes assignées 
+en correspondance avec leur identité de genre (Schilt et Connell, 2007). Dans l'étude 
+de Grant et al. (2011), 14% des participants ont affirmé cependant ne pas avoir accès 
+aux toilettes assignées au genre auquel ils s'identifient dans leur milieu de travail. 
+Dans une autre étude, 22 % des participants ont relevé devoir utiliser les toilettes 
+15 
+assignées à leur sexe biologique ou les toilettes pour les personnes ayant un handicap 
+(Whittle et al., 2007). 
+Selon les guides, la division des toilettes et de vestiaires selon le sexe cause 
+plusieurs difficultés pour les individus en transition, tout comme pour ceux ayant 
+. terminé le processus et il s'agit d'un élément à encadrer lors de la période de 
+transition (AFPC, 2008; SCFP, 2005; CTC, 2003). ll est toutefois intéressant de noter 
+qu'il n'y a jamais eu de constat ou de poursuite contre une personne trans en lien avec 
+l'utilisation des toilettes en fonction de l'identité de genre au Canada (Nussbaum, 
+2010). 
+2.5.
+2 Habillement 
+Les guides sur la transition relèvent que lorsqu'un employeur ex1ge un code 
+vestimentaire se basant sur le genre, les personnes trans peuvent se sentir 
+discriminées et mal à l'aise à l'idée de porter des vêtements ne correspondant pas à 
+leur genre d'identification (Bauer et al., 2001; CTC, 2003; Nussbaum, 2010). 
+La même situation se présente dans les milieux qui exigent un uniforme particulier 
+selon le genre (CTC, 2010; Nussbaum, 2010). Même dans le cas où la profession 
+exercée n'exige pas de respecter un code vestimentaire particulier, il peut parfois 
+s'avérer difficile, pour les personnes qui commencent leur transition , d'être en mesure 
+d'évaluer ce qu'il est approprié de porter comme vêtements pour aller au travail 
+(Nussbaum, 2010). 
+16 
+2.5.3 Prénom et pronom 
+L'utilisation du pronom et du prénom adéquat est un enjeu significatif dans la vie des 
+personnes trans (AFPC, 2008; Whittle et al., 2007). Très souvent, par habitude, par 
+malaise ou par incompréhension, les gens n'emploient pas le bon pronom ou le bon 
+prénom en s'adressant à une personne trans (AFPC, 2008; Grant et al., 2011; Whittle 
+et al., 2007). Cette situation est vécue comme blessante et difficile pour certains 
+(AFPC, 2008; Whittle et al., 2007). 
+De plus, dans le milieu de travail, il arrive souvent que le changement d'identification 
+nécessite plusieurs ajustements. En effet, la modification du prénom doit être inscrite 
+dans les pièces d'identité et l'ensemble des documents administratifs : listes 
+d'ancienneté, insignes nominatifs, répertoires téléphoniques, adresse électronique, 
+carte d'identité, etc. (CTC, 20 10). 
+2.5.4 Confidentialité 
+L'étude de Grant et al. (20 11) rapporte que 78 % des participants trans disent se 
+sentir plus à 1' aise au travail et plus performants depuis leur transition, et ce, malgré 
+le mauvais traitement infligé par certains de leurs collègues. Cette étude affirme que 
+sêulement 38 % des participants ont parlé ouvertement de leur transition avec leurs 
+collègues (Grant et al., 2011 ). Ces changements peuvent parfois occasionner certains 
+problèmes en lien avec la confidentialité . Toujours selon cette même étude, 7 % 
+affirment avoir subi des agressions physiques d'un collègue de travail et 6 % disent 
+avoir été agressées sexuellement en raison de leur changement d'identité de genre 
+(Grant et al., 2011 ). Parmi les 6 456 personnes trans qui ont patticipé à cette· étude, 
+41 % ont rapporté s'être fait poser des questions inappropriées concernant leur 
+transition sur leur lieu de travail (Grant et al., 2011). La décision d'opérer une 
+17 
+transition au travail n'implique pas nécessairement un désir d'en parler ouvertement à 
+l'ensemble des personnes formant l'entourage professionnel. (Schilt et Connell, 
+2007). Au contraire , selon l'étude de Schilt et Cannelle (2007), certaines personnes 
+trans cherchent à maintenir une certaine stabilité dans leur vie, celle-ci étant déjà 
+affectée sur le plan émotionnel et physique par leur transition. 
+Selon la loi, il est de la responsabilité d'un employeur et du service des ressources 
+humaines de respecter la confidentialité de 1 'information concernant la personne trans 
+(Byne et al., 2012; AFPC, 2008; Bauer et al., 2011; CTC, 2003; Éducaloi, 2013). 
+L'étude de B y ne et al. (20 12) réalisée auprès de 28 personnes trans en Californie et 
+au Texas entre 2003 et 2005 explore l'aspect de la confidentialité au travail. Certains 
+détails privés liés au processus de transition, comme les rendez-vous médicaux, 
+pourraient facilement rester confidentiels afin de limiter la visibilité donnée à la 
+personne en processus de changement d'identité (Byne et al., 2012; Bauer et al., 
+2011; Nussbaum, 2010). À cet effet, la frontière entre la sphère privée et la sphère 
+publique des personnes trans est souvent peu respectée par les collègues de travail qui 
+n'hésitent pas à aborder, par l'entremise de questions et de commentaire s, la vie 
+privée de l'employé sur le lieu de travail (Byne et al., 2012). 
+2.5.5 Normes de genre 
+Le milieu professionnel est propice au développement et au maintien d'avantages et 
+de discrimination s en fonction du genre. Les interaction s sociales au travail jouent un 
+rôle important en ce sens (Schilt, 2006). Une étude a été réalisée par Schilt (2006) 
+auprès de 29 hommes trans en Californie de 2003 à 2005. Elle semble démontrer qu'il 
+existe toujours des inégalités entre les hommes et les femmes au travail (Schilt, 
+2006). Les attentes du milieu, la reconnaissance et les possibilité s d'avancement dans 
+l'entreprise diffèrent selon le genre (Schilt, 2006). 
+18 
+En effet, certains participants qui s'identifient en tant qu'hommes ont tendance à 
+avancer dans leur carrière plus rapidement que les femmes (Schilt, 2006). Selon leur 
+propre perception, certains hommes trans se voient attribuer plus d'autorité et recevoir 
+plus de marques de respect et de récompenses depuis qu'ils ont une identité 
+masculine. De plus, certains hommes trans disent ne plus faire l'objet d'avances 
+sexuelles, d'agressions à caractère sexuel ou de questionnements en lien avec leur 
+sexualité (Schilt, 2006). Plusieurs semblent vivre avec plus de liberté concernant leur 
+apparence physique (Schilt, 2006). Les autres participants ont rapporté qu'ils 
+n'avaient pas bénéficié d'avantages particuliers au travail depuis leur transition 
+(Schilt, 2006). 
+Selon une autre étude (Byne et al., 2012), certains participants trans ont affirmé avoir 
+ressenti une pression de leur milieu de travail pour se conformer à certains 
+stéréotypes de genre. À titre d'exemple, quelques participants hommes ont mentionné 
+devoir faire davantage de travaux physiques au travail, comme bouger des meubles 
+ou transporter des fournitures lourdes. Parfois, suite à la transition, le changement de 
+comportements de collègues à leur égard est si rapide et radical, que certaines 
+personnes trans se sentent déstabilisées par les nouvelles attentes et les nouvelles 
+dynamiques relationnelles (Schilt et Westbrook, 2009; Schilt et Wiswall, 2008). 
+L'étude de Schilt et Westbrook (2009) s'est déroulée en Californie et au Texas entre 
+2003 et 2007 auprès de 54 hommes trans. Suite à leur transition, plusieurs personnes 
+trans disent avoir eu J'impression que si elles correspondent aux attentes de leur 
+milieu de travail en matière d'apparence physique, cela sera considéré comme une 
+preuve de leur désir de changer leur identité de genre, plus spécifiquement de 
+l'identité de genre projetée aux autres (Schilt et Westbrook, 2009; Rubin, 2006). 
+Ainsi plusieurs d'entre elles préfèrent se conformer aux normes de genre afin de 
+faciliter leur propre transition (Schilt et Connell, 2007). Certaines femmes trans 
+affirment avoir explicitement ressenti la pression d'opter pour un certain type de 
+19 
+féminité afin de mieux s'intégrer au milieu de travail (Schilt et Connell, 2007). Leur 
+comportement contribue alors à reproduire le modèle binaire de genre (Schilt et 
+Connell, 2007). Le changement des interactions avec leur entourage au travail peut 
+au si être le résultat de pression implicites ou explicites de la part de collègues de 
+travail (Schilt et Connell, 2007). Tous ce changements permettent aux personnes 
+trans d'obtenir un certain niveau de validation sociale au travail (Schilt et Connell, 
+2007). 
+Les personnes trans peuvent donc souffrir d'anxiété concernant leur mveau de 
+performance en matière de genre (Schilt et Connell, 2007). Cette anxiété renforce à 
+nouveau la prédominance d'une conception binaire du genre et peut même entraîner 
+une adhésion rigide à certains stéréotypes de genre (Schilt et Connell, 2007). Étant 
+parfois vulnérables, les personnes trans peuvent croire qu'elles n'ont d'autres choix 
+que de suivre l
+es directives ou les suggestions de leur employeur (Nussbaum, 2010). 
+Finalement , les attentes concernant les comportements approprié pour les hommes et 
+pour l
+es femmes peuvent varier selon le mode organisationnel et le contexte du milieu 
+de travail (Schilt et Connell, 2007). Certains problèmes peuvent survenir dans le 
+cadre d'un milieu professionnel construit sur un modèle de reproduction homosociaJe 
+(Schilt et Wiswall, 2008). La reproduction homosociale consiste à engager des 
+individus qui correspondent à une certaine identité et pré entent certaines 
+caractéristiques attribuées généralement à u~ exe selon les normes de genre ; une 
+transition dans un tel milieu peut être des plus difficiles (Schilt et Wiswall, 2008). 
+C'est pourquoi certains individus vont préférer changer d'emploi et opter pour un 
+milieu moins discriminatoire (Schilt et Wiswall, 2008). 
+La présentation de l'état des connaissances relatives au travail montre que les droits 
+des personnes trans, la discrimination économique , la violence et le harcèlement ainsi 
+que d'autres aspects spécifiques à la période de transition et à l'environnement de 
+20 
+travail sont des éléments à prendre en considération pour examiner le expériences 
+des personnes tran qui effectuent une transition au sein d'un même milieu de travail. 
+Le prochain chapitre présente le cadre conceptuel en s'attardant sur l'identité de 
+genre et le outien social, deux notion essentielles pour comprendre les interaction s 
+sociales des per onne trans dans leur milieu de travail. 
+CHAPITRE ID 
+CADRE CONCEPTUEL 
+Dans la présente recherche, le cadre conceptuel se base principalement sur deux 
+concepts autour desquels il est possible de représenter et d'articuler les enjeux liés à 
+la transition vers un genre d'identification autre que le genre assigné, et ce, dans le 
+cadre d'un milieu de travail. Cette section sera donc divisée en deux parties, soit: 1) 
+1 'identité de genre; et 2) le soutien social. 
+3.1 IDENTITÉ DE GENRE 
+La notion de genre, ses enjeux et ses contrastes sont au centre même de ce mémoire. 
+TI existe de nombreux discours sur le genre qui divergent en fonction du contexte 
+politique, du contexte historique et du contexte religieux (Dorlin, 2008). Le discours 
+de Bereni vis-à-vis le genre est pertinent et directement en lien avec le sujet de cette 
+recherche. Bereni (2012) propose une définition de ce concept structurée autour de 
+quatre dimensions centrales : «le genre est une construction sociale, le genre est un 
+processus relationnel, le gen;e est un rapport de pouvoir et le genre est imbriqué da~s 
+d'autres rapports de pouvoir» (Bereni, 2012, p. 7). La première dimension fait 
+allusion au fait que le genre est construit par la société et qu'il n'est pas déterminé par 
+l'anatomie (Bereni, 2012). La seconde dimension souligne que les catégories de genre 
+se construisent en opposition et en comparaison l'une avec l'autre et que le genre doit 
+donc s'analyser comme un processus qui met en relation les catégories du masculin et 
+du féminin (Bereni, 20 12). Puis, la troisième dimension soutient que les différences 
+entre les genres sont hiérarchisées (Bereni, 2012). Finalement, le genre se retrouve 
+-------- ---- --
+22 
+aussi à 1 'intersection d'autres relations de pouvoir comme l'âge, 1' origine ethnique, la 
+classe sociale, etc. (Bereni, 2012). Dans le cadre de cette étude, nous nous intéressons 
+plus particulièrement à la notion de genre en tant que processus relationnel. 
+En lien avec la théorie féministe qui tente d'analyser et de déconstruire plusieurs 
+distinctions rigides en fonction des genres, la notion de genre comme processus 
+relationnel permet d'illustrer plusieurs dichotomie s sur le plan des rôles et des tâches 
+qui opposent les hommes et les femmes (D01·lin, 2008). La différenciation des genres 
+masculin et féminin, qui est au centre des rapports sociaux de sexe, module plusieurs 
+aspects du quotidien comme les attitudes, les expressions, les comportements et 
+même l'habillement attribués à l'un et l'autre sexe (Collin, 2004 ). Cette constante 
+division des genres, du masculin et du féminin, crée une opposition continuelle entre 
+eux ainsi qu'une division des pouvoirs et une hiérarchisation des individus (Collin, 
+2004). La binarité du genre dans la ociété d'aujourd'hui détermine que «les 
+individus appartiennent soit au sexe masculin, soit au sexe féminin, conformément à 
+leur sexe assigné à la naissance » (CODP, 2014 ). Cette binarité n'offre pas la 
+possibilité à un individu de s'identifier autrement ou d'exprimer une certaine fluidité 
+entre les deux genres (CODP, 2014). 
+L'interaction quotidienne avec les 
+autres se voit donc teintée par cette division binaire 
+des genres (Mellini, 2009; Schilt et Connell, 2007). En effet, dès leur naissance , les 
+individus sont socialisés en fonction du genre qui leur est attribué selon letu sexe 
+biologique (Bereni, 20 12). Simone de Beauvoir faisait allusion à cette socialisation de 
+genre lorsqu'elle écrivait: «On ne naît pas femme~ on le devient» (1949). À la fois 
+de façon implicite et explicite, la socialisation de genre exige donc que 1 'individu 
+incorpore et apprenne · certains comportements et certaines normes en fonction du 
+genre qui lui a été assigné. À leur tour, ces normes comportementales orientent la 
+manière dont les individus entrent en interaction et s'intègrent les uns avec les autres. 
+L'ensemble de cette socialisation de genre crée des différences entre les individus 
+23 
+(Bereni, 2012). Outre la socialisation de base, à travers la famille, l'école et les 
+médias, le quotidien de tous est rempli d'agents périphérique s de ocialisation 
+différenciés selon le genre (Dafflon Novelle, 2006). Les agents périphérique s de 
+socialisation se définissent comme étant «des objets qui composent l'environnement 
+matériel et symbolique des individus dès leur plus jeune âge, et qui, d'une certaine 
+manière, inculquent le genre à distance: jouets et vêtements, d'une part, produits 
+culturels d'autre part» (Dafflon Novelle, 2006). Par exemple, tout au long de la vie, 
+les différents morceaux de vêtements et leurs couleurs mettent l'emphase sur cette 
+socialisation différenciée (Dafflon Novelle, 2006). Dans un même sens, les 
+stéréotype s de genre sont définis comme étant « la structure des croyances sur les 
+attributs personnel s de hommes et des femmes » (Nelson, 2009). Ces croyances 
+concernent principalement les attitudes, les traits de personnalité, les comportement 
+et l'apparence physique (Nelson, 2009). Certains stéréotypes de genre souvent 
+attribués aux hommes, comme la force physique et la violence, sont aussi souvent 
+tenus pour acquis lors de l'embauche (Bereni, 2012). 
+Puis, l'apprentissage de l'utilisation du bon genre grammatical lorsque l'on s'adresse 
+aux autres renforce aussi la socialisation des individus en fonction de leur genre 
+(Bereni, 2012). Cette socialisation s'imbrique également dans des environnements 
+matériels différencié s selon le genre (Dafflon Novelle, 2006). En ce sens, Goffman 
+mentionne que «la ségrégation des toilettes est présentée comme une conséquence 
+naturelle de la différence entre les classes de sexe, alors qu'en fait, c'est plutôt un 
+moyen d'honorer, sinon de produire, cette différence » (Goffman, 2002, p. 82). 
+L'utilisation du bon genre grammatical et les environnements matériels différencié s 
+représentent des mécanismes spécifique s de la socialisation du genre. 
+Tout au long de son existence, l'individu doit apprendre à jongler avec cette 
+socialisation afin de situer sa propre identité de genre dans la société (Darmon, 2006). 
+Rappelon s-le, l'identité de genre réfère à l'expérience subjective de son genre par 
+24 
+l'individu, et recouvre un spectre de possibilités telles qu'homme, femme, homme et 
+femme, ni homme ni femme (Veltman et Chaimowitz, 2014). Selon West et 
+Zimmermam (2009), «la socialisation de genre tend à exclure ceux qui ne rentrent 
+pas dans les catégories ». Ainsi, les processus de socialisation de genre font en sorte 
+que les individus trans sont souvent amenés à choisir l'une des deux options 
+acceptée en matière de genre et l'adaptation à un tout nouveau mode de 
+fonctionnement - la transition de genre - peut être assez déstabilisante ( Schilt et 
+Con 
+nell, 2007). Elle présuppose une série d'apprentissages, une resocialisation en 
+quelque sorte, concernant une série d'aspects à travers lesquels s'extériorise 
+1' expression de genre, tels que 1' habillement, les gestes, le maintien, les attitudes, la 
+voix, les activités, etc. (Veltman et Chaimowitz, 2014). 
+C'est dans ce même ordre d'idée que le sociologue Erving Goffman utilise le concept 
+de la présentation de soi (Bereni, 20 12). La présentation de soi fait allusion au fait 
+que «les interactions de la vie quotidienne [sont] comme une scène de théâtre sur 
+laquelle se joue une représentation de la réalité où chaque acteur cherche à faire 
+passer une image de lui-même» (Goffman, 1973). Ce concept fait un lien direct avec 
+la notion de «passage», souvent employée par 
+la population trans, afin d'évoquer 
+leur habileté à se faire reconnaître en fonction de leur identité de genre (Schilt, 2006). 
+Encore aujourd'hui, la socialisation de genre est aussi présente au sem de 
+l'environneme~t de travail (Bereni, 2012). Les hommes et les femmes' sont socialisés 
+selon leur genre sans pour ·autant que les uns soient plus ou moins socialisés que les 
+autres. C'est dans le résultat de cette socialisation que l'on retrouve les différences et 
+les inégalités. Le milieu de travail est un environnement social qui reproduit ces 
+différenciations et ces inégalités (Acker, 2006). À cet effet, les hommes et les femmes 
+n'obtiennent pas les mêmes conditions de travail et les mêmes postes (Bereni, 2012). 
+De plus, il existe une différenciation entre les métiers exercés par les hommes et par 
+les femmes (Bereni, 2012). En effet, on remarque que sur le marché du travail, les 
+25 
+femmes sont davantage présentes dans le milieu de la santé, l'éducation et les 
+services sociaux (Bereni, 2012). Des qualités comme la compassion et la gestion des 
+émotions, souvent attribuées aux femmes dans la sphère privée, sont parfois 
+considérées comme des acquis lors de l'évaluation des compétences pour un emploi 
+(Bereni, 2012). Dans un même temp , les hommes occupent la majorité des postes 
+dans le secteur des transports, de la construction et de la politique (Bereni, 20 12). 
+Les inégalités entre les hommes et les femmes au travail concernent aussi la 
+rémunération , les conditions de travail et le prestige social de certains métiers. Cette 
+segmentation est présente selon les différents types d'emplois, mais aussi au niveau 
+des inégalités salariales et des conditions de travail (Bereni, 2012). Selon Bereni 
+(2012), les interactions dans le milieu du travail sont propices à l'émergence de 
+conflits et d'une compétition entre les travailleur s. Ces interaction s sociales 
+contribuent à leur façon à modeler les identités de genre au travail (Bereni, 20 12). 
+Ceci démontre clairement que certaines attentes sociales quant à l'expression de 
+genre sont présentes dans le milieu du travail. Pour ce mémoire, nous retiendrons la 
+définition globale de l'expression de genre comme étant la façon de présenter son 
+genre (Bereni, 2012). La Commission ontarienne des droits de la personne définit 
+plus spécifiquement l'expression de genre comme désignant les comportements, les 
+émotions, l'apparence et tous les autres moyens qu'une personne utilise pour 
+exprimer son genre en public (CODP, 2014). Cette définitiÔn incorpore aussi 
+l'utilisation d'un prénom et de pronoms lorsque l'on s'identifie (CODP, 2014). C'est 
+cette définition que nous retiendron s dans le cadre de ce mémoire. 
+Pour Money et Ehrhardt (1972), le genre de chaque individu s'extériorise dans les 
+deux sphères: le rôle de genre fait davantage état de J'expression de son genre dans la 
+sphère publique , tandis que l'identité de genre concerne la sphère plus privée (Money 
+et Ehrhardt, 1972). Les rôles de genre renvoient aux attentes créées par la société en 
+26 
+ce qui concerne les comportements féminins et masculins (Nelson, 2009). Tout 
+comme les comportements, les attitudes sont divisées et étiquetées en fonction de ce 
+qui devrait être masculin ou féminin (Nel on, 2009). 
+La définition de 1' identité de genre utilisée dans le cadre de ce mémoire se distingue 
+de celle proposée par Money et Ehrhardt. Nous retiendrons plutôt la définition 
+proposée dans les principes de Jogjakarta, selon laquelle l'identité de genre consiste à 
+faire «référence à l'expérience intime et personnelle de son genre profondément 
+vécue par chacun, qu'elle corresponde ou non au sexe assigné à la nmssance, y 
+compris la conscience personnelle du corps et d'autres expressions du genre, y 
+compns l'habillement, le discours et les manières de se conduire » (Commission 
+internationale de juristes et Service international pour les droits .de l'homme, 2007). 
+Les principes de Jogjakarta affirment que ni l'orientation sexuelle ni l'identité de 
+genre ne devraient pas être une source de discrimination ou d'abus, car il s'agit de 
+droits de la personne (Commission internationale de juristes et Service international 
+pour les droits de l'homme, 2007). Les 29 principes de Jogjakarta rappellent que tou 
+les êtres humains possèdent certains droits, et ce, peu importe leur identité de genre 
+(Commission internationale de juristes et Service international pour les droits de 
+l'homme, 2007). 
+ll sera donc intéressant d'analyser les expériences des personnes trans afin de vérifier 
+si l'identité de genre a un impact sur les interactions sociales lors de la transition dans 
+un milieu de travail. Plus précisément, il s'agira d'explorer comment la transition 
+sociale, médicale et légale, d'une identité de genre vers une autre s'imbrique dans le 
+milieu ~e travail et quels sont ses impacts sur les interaction ql}i s'y déroulent. 
+,------------------------------------ -------------- ------------------------------------- ------, 
+27 
+3.2 SOUTIEN SOCIAL 
+Le soutien social se définit comme étant «un échange de ressources en provenance 
+des autres qui est perçu comme bénéfique par le destinataire » (Davey et al., 2014). ll 
+peut être présent sous plusieurs formes : le soutien émotionnel, instrumental, 
+informationnel et de valorisation (Dave y et al., 2014 ). Le soutien émotionnel fait 
+référence à l'empathie, l'amour et la confiance prodigués par une autre personne 
+(Davey et al., 2014; Hinson et al., 1997). Le soutien instrumental, quant à lui, se 
+définit par la provision de services et de biens (Dave y et al., 20 14; Hinson et al., 
+1997). Puis, le soutien informationnel consiste à fournir les renseignements 
+nécessaires pour outenir une personne durant des moments de stress ou en réponse à 
+des besoins particulier s (Davey et al., 2014; Hinson et al., 1997). Finalement, le 
+soutien de valorisation permet aux individus de se sentir valorisés et se sentir appuyés 
+dans leur affirmation de soi (Davey et al., 2014; Hinson et al., 1997). 
+Le soutien social est offert par le réseau social qui entoure un individu (Caron et 
+Guay, 2005). Ce réseau fait référence à «l'ensemble des liens sociaux stables 
+qu'entretient un individu » (Caron et Guay, 2005). En fonction de sa taille et de sa 
+densité, le réseau social personnel de l'individu peut soutenir ou non celui-ci lorsqu'il 
+en a besoin (Caron et Guay, 2005). Tous les individus sont unis par des liens sociaux 
+nombreux et diversifiés (Paugam, 2008). Ces liens créent une forme 
+d'interdépendance sur le plan social (Paugam, 2008). lls p'ermettent aux individus de 
+développer un sentiment de protection et de reconnaissance envers les différents 
+groupes sociaux qui les entourent (Paugam, 2008). Ces liens sociaux remplissent 
+aussi des fonctions essentielles qui permettent aux individus de conserver un certain 
+équilibre dans leurs relations (Caron et Guay, 2005). En effet, en offrant un soutien 
+émotionnel, le réseau social permet de s'intégrer socialement et de se sentir important 
+et essentiel (Caron et Guay, 2005). De plus, le soutien social confirme la valeur de 
+chacun et permet d'obtenir une aide tangible (Caron et Guay, 2005). Le milieu de 
+28 
+travail s'inscrit donc parmi l'ensemble des liens sociaux développés avec l'entourage 
+(Paugam, 2008). Les individus accomplissent des tâches dans leur environnement de 
+travail afin d'entretenir les liens ociaux dans 1' exercice de leur emploi (Pau garn, 
+2008). 
+En général, le outien ocial semble être bénéfique pour les individus de deux façons 
+(Davey et al., 2014). Tout d'abord, le fait de percevoir du soutien de la part d'une ou 
+de plusieurs personnes permet à un individu de se sentir davantage accepté, aimé par 
+ses proches et d'établir un sentiment d'appartenance vis-à-vis de son entourage 
+(Davey et al., 2014). Cette intégration sociale amène l'individu à bâtir son réseau 
+social personnel et à maintenir un soutien réciproque avec les personnes qui en font 
+partie (Caron et Guay, 2005). Celui-ci se 
+sentira donc néce saire et utile (Caron et 
+Guay, 2005). Puis, ce réseau permet aussi de protéger 1' individu contre la 
+discrimination et de outenir les individus qui l'ont vécu (Davey et al., 2014). En ce 
+sens, le soutien social a un effet positif significatif sur l'individu en lui apportant de la 
+sécurité, de la stabilité et du bien-être (Caron et Guay, 2005; Dargie et al., 2014). 
+Plusieurs recherche s 
+sur le ujet mentionnent que le soutien ocial procure un effet 
+positif sur l'estime de oi, l'humeur et les comportement s d'adaptation auprès de la 
+plupart des gens (Caron et Guay, 2005; Cohen, 2004; Davey et al., 2014; Hinson et 
+al., 1997). En effet, J'étude de Caron et Guay (2005) relève que le soutien social 
+amène l'individu à adopter davantage de comportemênts sain et à prendre soin de 
+lui-même. De plus, il aide les personnes à mieux gérer le stre s, 1' anxiété et les 
+symptômes de la dépression (Caron et Guay, 2005; Dargie et al., 2014; Hinson et al., 
+1997; Nemoto et al., 2011). Ainsi, lorsqu'il est actif, il agit positivement sur la santé 
+mentale des in di v id us, tandis que lorsque les interaction s sociales sont négatives, 
+l'effet peut s'inverser (Caron et Guay; 2005). En effet, le manque de soutien social a 
+un impact considérable ur la santé mentale et est souvent relié à la dépression et aux 
+pensées suicidaires (Dave y et al., 2014 ). Pour les personnes trans, il est souvent 
+29 
+associé à un inconfort et à un sentiment d'insécurité lorsqu'elles se retrouvent en 
+contexte social (Nemoto et al., 2011). 
+Dans l'étude de Dargie et al. (20 14 ), les participants et participantes cisgenres, 
+lesbiennes, gais et bisexuel-le-s (LGB) ont rapporté significativement plus de soutien 
+social que les participants trans. Selon cette étude, les personnes trans reçoivent 
+généralement moins de soutien de la part de leur famille, leurs ami et leur entourage. 
+L'habilité des personnes trans à former et à maintenir leurs relations sociales se voit 
+parfois troublée par 
+la stigmatisation liée à l'identité trans (Davey et al., 2014). Le 
+soutien social qui en découle peut donc sembler se réduire pour ces individus (Davey 
+et al., 2014). Dans l'étude de Davey et al. (2004), la présence du soutien social est 
+associée de façon ignificative à la qualité de la vie et à la satisfaction de la vie. 
+Le soutien instrumental et informationnel quant à l'accès aux document s 
+d'identification et aux procédure s bureaucratique s s'avère une source d'aide 
+importante pour les personnes trans (Davey et al., 2014). De plus, le soutien social 
+serait d'autant plus important lorsqu'il y a absence de ressources pour les personne s 
+trans (Cohen, 2004). Les résultats de l'étude de Dargie et al. (2014) relèvent le besoin 
+de donner accès à des ressources afin de soutenir socialement les personnes trans pour 
+qu'elles puissent mieux s'adapter aux changements physiques et psychologique s liés 
+à la transition. 
+La période de transition nécessite de bonnes habiletés interpersonnelles afin de faire 
+face aux changements qui peuvent survenir sur le plan du soutien social (Claes et al., 
+2014). Dans l'étude de Klein et al. (2015), les participants trans mentionnent que le 
+fait d'obtenir le soutien d'au moins une personne de leur entourage aide déjà 
+grandement. Pour certaines personnes trans, ce soutien permet de briser 
+1' isolement et 
+de rester en contact avec les autres lors de la période de transition (Schrock et al., 
+2004). Les groupes de soutien pour les personnes trans offrent la possibilité à celles-
+30 
+ci d'obtenir de l'appui et 1' accès à certaines ressources existantes (Schrock et al., 
+2004). 
+Le soutien social est aussi régi par une multitude de facteurs propres aux individus et 
+aux circonstances qui entourent leur transition (Caron et Guay, 2005; Klein et al., 
+2015). L'âge, la situation économique individuelle, le contexte économique, 
+politique, et urbain sont aussi des facteurs mentionnés par les personnes trans comme 
+ayant un impact sur le soutien social qu'elles obtiennent durant leur transition (Klein 
+et al., 2015). 
+Le but premier de cette étude est d'explorer les expériences des personnes trans lors 
+de leur transition au travail. Cette étude vise à répondre à la question suivante : 
+Quelles sont les expériences des personnes trans qui font une transition de genre au 
+sein d'un même emploi en ce qui concerne les interactions sociales avec leur milieu 
+de travail? Plus précisément, ce mémoire vise à répondre aux deux sous-questions 
+suivantes: Comment s'est déroulée l'expérience de la transition de genre dans le 
+milieu de travail sur les plans de 1 'identité, des interactions avec l'entourage et de 
+l'insertion dans le milieu de travail? Et, selon l'expérience des personnes trans, 
+quelles formes de soutien social perçu ont-elles reçues lors de leur transition dans leur 
+milieu de travail? 
+CHAPITRE IV 
+MÉTHODOLOGIE 
+Ce chapitre vise à présenter la méthodologie utilisée lors de cette étude. Les 
+différente s sections de ce chapitre aborderont les poi.nts suivants : 1) la description du 
+projet; 2) les procédure s et le recrutement; 3) la description des participants; 4) le 
+déroulement des entrevues, 5) les procédure s d'analyse des entrevues et 6) les 
+considérations éthique . 
+4.1 DESCRIPTION DU PROJET 
+Ce projet de mémoire vise à documenter et mieux comprendre les interaction s 
+sociales des personnes trans dans leur milieu de travail suite à leur transition. Plus 
+précisément, il s'agit d'examiner les enjeux vécus en lien avec le processus de 
+transition lorsque celle-ci s'effectue dan le cadre du maintien d'un même 
+environnement professionnel. 
+Afin d'y parvenir, une démarche qualitative fut préconisée pour cette recherche. Cette 
+démarche a été choisie, car elle permet d'explorer un phénomène et de l'étudier au . . 
+quotidien (Creswell, 2012). La recherche qualitative permit aussi d'obtenir des 
+renseignements détaillés et riches en contenu (Creswell, 2012). Puisque ce projet de 
+mémoire vise à explorer les expériences des personnes trans, il est donc pertinent de 
+recourir à ce type de recherche afin d'y parvenir. 
+Dans 1' objectif d'explorer les interaction s sociales des personnes trans dans leur 
+milieu de travail, nous avons choisi de réali er des entrevues en face à face. 
+32 
+L'entrevue de recherche est une interaction verbale qui permet de questionner les 
+participants sur plusieurs aspects, dont leurs expériences (Savoie-Zajc, 2009). Cet 
+échange permet ainsi de « [produire] un savoir socialement construit » (Savoie-Zajc, 
+2009). 
+Plus précisément, des entrevues semi-dirigées ont été précon~sées dans le cadre de ce 
+mémoire. Ce type d'entrevue est dirigé par la chercheuse , tout en gardant une 
+souplesse dans son déroulement (Savoie-Zajc, 2009). Le fait d'opter pour des 
+questions semi-dirigées a permis d'aller explorer certains thèmes tout en permettant 
+aux participants d'avoir la liberté d'aborder les aspects les plus significatifs pour eux. 
+C'est pourquoi le type d'entrevue nous a paru pertinent puisque cette étude vise à 
+explorer les expériences et le vécu des personnes trans. 
+L'entrevue semi-dirigée repose sur trois postulats (Savoie-Zajc , 2009). Tout d'abord, 
+elle permet de mettre en relation et d'unifier les éléments abordés lors de celle-ci 
+(Savoie-Zajc , 2009). Ensuite, lors d'une entrevue de ce type, « Ja perspective de 
+l'autre a du sens», ce qui implique que son partage permet de développer cette 
+connaissance de la perspective de J'autre et de l'explorer (Savoie-Zajc, 2009). Puis, 
+ce type d'entrevue permet de saisir la réalité d'un moment dans un contexte précis 
+(Savoie-Zajc, 2009). ll s'agit donc d'une interaction verbale impossible à reproduire, 
+unique et situationnelle (Savoie-Zajc , 2009). L'entrevue semi-dirigée permet de 
+«rendre explicite l'univers de l'autre, de [comprendre] le monde de J'autre ·et 
+d'apprendre et structurer leur pensée » (Savoie-Zajc, 2009). Cette interaction verbale 
+permet donc dans un temps et une situation précise d'échanger avec les participants 
+sur leurs expériences liées à la transition en milieu de travail. Ce type d'entrevue était 
+donc en adéquation avec J'objectif du projet de recherche. 
+33 
+4.2 PROCÉDURES ET RECRUTEMENT 
+Dans le but d'explorer le sujet de ce projet de recherche, nous avons fait appel à un 
+échantillon de volontaires (Beaud, 2009). Cette technique consiste à rejoindre des 
+participants qui désirent participer de façon volontaire au projet de recherche (Beaud, 
+2009). Ce type d'échantillon est souvent préconisé en recherche sociale, car il permet 
+de faire une étude exploratoire avec peu de ressources humaines et financières 
+(Beaud, 2009). Notre étude fait donc appel à un échantillon non probabili ste. 
+Afin de répondre aux critères d'admissibilité, le participant devait avoir vécu sa 
+transition dans un milieu de travail. Les participants pouvaient s'identifier au genre 
+féminin, masculin , aux deux genres ou à aucun. Aucune restriction n'a été imposée en 
+fonction de l'âge des participants ni en ce qui concerne l'âge au moment de la 
+transition. Par contre, la transition devait avoir été complétée dans les cinq dernières 
+années. Ainsi, il serait possible d'obtenir un portrait assez récent des expériences de 
+transition identitaire en milieu de travail. 
+Pour parvenir à recruter ces participants , une collaboration s'est avérée nécessaire 
+avec les organismes et les associations qui regroupent les populations trans, afin d'y 
+laisser des affiches de recrutement (voir Appendice A). Les principaux endroits ciblés 
+ont été les suivants : Aide aux transsexuel s et transsexuelles du Québec (ATQ), . . 
+Action Santé travesti(e) et transsexuel (le) du Québec (ASTT(e)Q), Centre 2110, 
+Chaire de recherche sur l'homophobie, Néo, l'Alliance Arc-en-ciel (auparavant 
+connue sous le nom de GBLT Québec), L'Alternative à l'Université de Montréal , 
+Center for Gender advocacy, Comité LGBT de la Confédération des syndicats 
+nationaux (CSN), McGill University Sexual Identity Centre (MUSIC) et le Projet 
+Caméléon de l'organisme Iris Estrie (Projet Caméléon) . Afin d'augmenter la visibilité 
+34 
+de l'étude, la même affiche fut envoyée par courriel à ces orgamsmes. Plusieur 
+d'entre eux l'ont aussi affiché sur leurs réseaux sociaux respectifs comme Facebook . 
+4.3 DESCRIPTION DES PARTICIPANTS 
+Les moyens de recrutement déployés ont perrms d'obtenir un échantillon de 
+volontaires en concordance avec la définition précédemment mentionnée, composé 
+d'hommes trans ou de femmes trans, pour participer à cette étude. Au final, 
+l'échantillon est composé de 12 personnes trans, soit 10 femmes trans et 2 hommes 
+trans. Au moment de 1' entrevue, les participants étaient âgés de 27 à 61 ans. Trois 
+participants avaient moins de 40 ans, six participants entre 40 et 55 ans et trois 
+participants avaient plus de 55 ans. 
+Lors de la réalisation des entrevues, huit participants habitaient la grande région 
+métropolitaine de Montréal, deux habitaient la région des Cantons-de-l 'Est, un 
+habitait la région de Québec et un dernier habitait la région du Saguenay-Lac-Saint­
+Jean. 
+En se basant sur les critères de l'Institut de la statistique du Québec sur la taille des 
+établissements (2013), deux participants travaillaient dans de petites entreprises, trois 
+dans de moyennes · entreprises et sept dans de grandes entreprises. Quatre des 
+participants occupaient des postes de direction et les autres étaient des employés. Les 
+environnements professionnels des participants couvraient plusieurs domaines 
+d'emploi. Selon le système de classification des industries de l'Amérique du Nord 
+(Institut de la statistique du Québec, 2013), deux participantes travaillaient dans le 
+secteur des soins de santé et 1' assistance sociale, une participante dans le secteur 
+primaire, deux participants dans le secteur des services d'enseignement, quatre 
+35 
+participants dans le secteur des services professionnels , scientifiques et techniques et 
+troi participants dans le secteur du commerce3. 
+4.4 DÉROULEMENT DES ENTREVUES 
+Selon le cas, les entrevues se sont déroulées dans des locaux de la Chaire de 
+recherche sur l'homophobie à l'UQAM, dans des lieux publics (cafés et restaurants) 
+et dans la résidence de certains participant s. Ces lieux ont été choi is par les 
+participant s eux-mêmes, en fonction de leur di ponibilité s, de leurs préférences et de 
+leurs convenances. Les entrevue ont duré en moyenne une heure et trente minutes. 
+La plus courte entrevue a duré cinquante minutes, tandis que la plus longue s'est 
+déroulée pendant deux heures et trente minutes. 
+Lors de chaque entrevue, au moment de l'accueil, un bref retour sur la présentation 
+du projet a été réalisé par la chercheu e afin de rappeler les buts de l'entrevue. Cette 
+introduction a permis d'obtenir de ren eignements préliminaire s pour adapter le 
+schéma d'entrevue et le vocabulaire à utiliser durant celle-ci (Savoie-Zajc, 2009). Par 
+exemple, puisque le sujet de l'identité de genre contient une terminologie variée, la 
+chercheuse reprenait les termes utili és par les participants afin de faciliter leur 
+compréhension des questions . Puis, un retour sur la confidentialité de l'échange et sur 
+les considération éthiques de l'étude ont été faits afin d'obtenir un con entement 
+libre, éclairé et continu de la part de participants (Crête, 2009). Les participants ont 
+été informés qu'ils pouvaient renoncer à leur consentement en tout temps lor de 
+l'entrevue ou lors de la poursuite de la recherche . 
+3 Nous avons choisi de ne pas présenter les caractéri tiques ociodémograph iques des participants sous 
+forme de tableau, car le recoupement des informations pourrait permettre de les identifier. 
+36 
+Les entrevues serni-dirigées ont été réalisées avec l'aide d'un schéma d'entrevue (voir 
+Appendice B). Le schéma d'entrevue est une structure de base qui comprend les 
+thèmes et les sous-thèmes principaux liés au cadre théorique de la recherche , qui 
+permet de guider la chercheuse lors de l'entrevue (Savoie-Zajc, 2009). 
+Avec l'autorisation des participant s, les entrevues ont été enregistrées à l'aide d'un 
+magnétophone portatif (Savoie-Zajc, 2009). De plus, tous les participant s ont autorisé 
+la prise de notes lors des entrevues. La prise de notes permet de noter des éléments 
+clés, des propos important s et des thèmes à approfondir (Savoie-Zajc, 2009). La prise 
+de notes de la chercheuse a permis de cibler les thèmes et éléments important s à 
+aborder avec les participant s et leurs expériences vis-à-vis de ces thèmes. 
+Tout d'abord, les participant s ont été questionnés sur leurs expériences dans 
+l'exercice de leur fonction, le rapport aux lieux physiques et à l'équipement. Ensuite, 
+ceux-ci ont été amenés à élaborer sur leurs interaction s sociales positives et négatives 
+avec leurs collègues, leurs superviseurs, et le cas échéant, avec leur clientèle. Puis, la 
+nature de ces interactions a été questionnée plus en profondeur afin de les amener à 
+aborder l'expression de leur genre, le soutien qu'ils ont perçu et les autres dimensions 
+de leurs expériences. 
+Afin de conclure l'entrevue , la chercheuse a fait un bref retour sur les principaux 
+éléments mêntionnés par les participant s afin de s'assurer de la c'ompréhension de 
+ceux-ci (Savoie-Zajc, 2009). La chercheuse a remercié les participants pour leur 
+temps et leur implication dans cette étude. Finalement, elle les a informés sur 
+l'échéancier du mémoire et les moyens pour la contacter au besoin. 
+37 
+4.5 PROCÉDURES D'ANALYSE DES ENTREVUES 
+À partir de enregistrements sonores, les entrevues ont été transcrites intégralement 
+mot à mot. C'est cette transcription que l'on appelle un verbatim (Savoie-Zajc, 2009). 
+Les thèmes et les dimensions abordés par les participants ont ensuite été codés à 
+l'aide du logiciel d'analyse qualitative de données NVivo. L'utilisation du logiciel 
+informatique permet de systématiser la codification (Paillé, 2012). La codification 
+consiste à faire ressortir les thèmes des témoignages des participants de façon 
+objective et exhaustive (Paillé et Mucchielli, 2012). L'ensemble des codes ressortis 
+des entrevues est ensuite catégorisé et hiérarchisé (Paillé et Mucchielli, 20 12). 
+L'ensemble des éléments intéressants abordés par les participants a donc été codé en 
+fonction du sujet de ceux-ci. Ensuite, certains codes ont été combinés afin de 
+rassembler les expériences et les propos similaires. Si les renseignements recueillis le 
+permettent, ces catégories peuvent ensuite être quantifiées afin de faire ressortir le 
+nombre de participants qui ont tenu des propos semblables (Paillé et Mucchielli, 
+2012). Ceci a été réalisé dans le cadre de cette étude afin d'être en mesure d'observer 
+l'importance et la récurrence de certains thèmes abordés par les participants. 
+Suite à la mise en commun de tous les renseignements recueillis, il a été possible de 
+cerner et d'identifier les thèmes récurrents mentionnés par les participants trans, afin 
+de bien rendre compte des expériences de ces personnes en fonction de leur 
+interactions sociales. 
+4.6 CONSIDÉRATIONS ÉTHIQUES 
+Afin d'assurer la confidentialité des données et un consentement éclairé, plusieurs 
+moyens ont été mis en place. Tout d'abord, avant le début des entrevues, les 
+participants ont été informés des moyens mis en œuvre pour assurer la confidentialité 
+38 
+de l'entretien (voir Appendice C). Le partage de cette information permet à 
+1' interview é d'exercer un choix libre et éclairé qua nt à sa participation au projet de 
+recherche (Crête, 2009). Le consentement éclairé exige de fournir assez 
+d'information au participant afin qu'il puisse prendre con cience des conséquence 
+qui pourraient découler de sa participation à 1 'étude et ain i faire le choix d'y 
+participer ou non (Crête, 2009). 
+Les participants ont été invités à signer le formulaire de consentement qui comprenait 
+les informations sur l'étude, le avantages et le risques de celui-ci et les coordonnées 
+des personnes responsable (voir Appendice C). Afin de 'assurer que les 
+information s recueillie restent confidentielles et que l'information obtenue soit 
+con ervée d'une façon écuritaire, les document s imprimés ont été conservés dans un 
+classeur verrouillé dans un lieu non accessible au public tout au long de la recherche, 
+et le seront encore pendant un an après la fin de l'étude. Pui , tous les document s 
+informatique s sont conservés dans un ordinateur et protégés par l'utilisation d'un mot 
+de passe. Ce mesures permettent de 'assurer qu'aucune information ou 
+renseignement concernant les participants ne soit diffusé par mégarde (Conseil de 
+recherche s en sciences humaines du Canada, 2014). 
+Pour l'ensemble des participants, des mesures ont été utilisées afin de dépersonnaliser 
+les données qui permettraient de les identifier. Les prénoms utilisés dans le cadre de 
+cettè étude font référence à des pseudonymes fictifs. L' anonyrnisation des 
+information s concernant les participant s permet de réduire le risques en lien avec 
+l'identification (Crête, 2009; CRSHC, 2014). Finalement, ce mémoire a obtenu 
+l'approbation du Comité d'éthique du département de sexologie de l'UQAM (voir 
+Appendice D). 
+CHAPITRE V 
+RÉSULTATS 
+Ce chapitre présente les résultats obtenus suite à l'analyse des entrevues réalisées 
+auprès des participants de cette étude. Les différentes sections de ce chapitre seront 
+les suivantes : 1) les stratégies de transition; 2) 1' annonce de la transition; 3) les 
+réactions des collègues; 4) les réactions des superviseurs, 5) les réactions du 
+département des ressources humaines, 6) les réactions de la clientèle, 7) 
+l'environnement de travail, 8) le soutien reçu avant, pendant et après la transition et 
+9) les facteurs perçus comme pouvant faciliter la transition au travail. 
+5.1 STRATÉGIES DE TRANSITION 
+Les personnes interviewées semblent opter pour deux stratégies différentes 
+lorsqu'elles font leur transition en milieu de travail : la stratégie planifiée et la 
+stratégie improvisée. Nous verrons en quoi consiste chaque stratégie ainsi que les 
+avantages et les inconvénients qui s'y rattachent selon les expériences rapportées par 
+les participants. 
+5.1.1 Stratégie planifiée 
+La stratégie planifiée s'applique lorsque la personne s'est préparée d'une ou plusieurs 
+façons avant de commencer sa transition dan le milieu de travail. Les participants 
+40 
+ont parfois fait appel à de l'aide extérieure au milieu de 1' emploi afin d'y parvenir. 
+Certains ont eu recours à des psychologues , à des consultant s ou à des avocats. 
+Quatre participante s âgées de plus d'une quarantaine d'années ont eu recours à la 
+stratégie planifiée lors de leur transition en milieu de travail. C'est le cas de Patricia, 
+qui travaille dans une grande entreprise dans le secteur du commerce , et de Marianne 
+qui est dans une grande entreprise dans le secteur des soins de santé et de 1' assistance 
+sociale. 
+J'ai rencontré la directrice des ressources humaines. Je trouvais ça important 
+de suivre une hiérarchie. Je trouvais ça important de mettre en place un plan 
+d'action et de communication approprié. (Patricia, 43 ans) 
+J'avais planifié mes choses pour ces rencontre s. S'organiser et planifier, ça 
+évite les tensions et les déception s. Quand c'est bien fait, ça démontre le 
+sérieux de la personne. (Marianne, 54 ans) 
+5 .1.1.1 Avantages de la stratégie planifiée 
+Ces participant s rapportent que la planification de leur transition témoigne du sérieux 
+de leur démarche . Selon eux, la préparation a permis à leurs collègues d'avoir une 
+meilleure compréhension de leur transition. Parmi ces participants, certains ont aussi 
+mentionné que leur choix a été respecté et ils attribuent cela à leur planification et au 
+fait d'avoir eu recours à des professionnel s lors de cette démarche. 
+Ç'a toujours rassuré lorsque je parlais des professionnels qui m'entourent. lis 
+[les collègues] ont vu que c'était une démarche structurée. (Edith, 49 ans) 
+lis ont engagé un psychologue pour aider les employés et la clientèle, pour 
+réduire les impacts et pouvoir établir une communication entre tout le monde. 
+(Marianne, 54 ans) 
+41 
+Un autre avantage relevé par deux participante s est que la préparation a permis de les 
+mettre eux-mêmes en confiance dès le début de leur transition au travail. 
+Ça m'a beaucoup fait avancer. .. à être bien dans ma peau, à m'accepter et à 
+enlever les peurs. (Marianne , 54 ans) 
+Ç'a été bien agréable et ça m'a mise en confiance. (Carmen, 56 ans) 
+5.1.1.2 Inconvénient s de la stratégie planifiée 
+Le premier inconvénient rapporté par deux participante s concerne l'incompréhension 
+qui persi te chez 1' entourage, malgré la préparation mise en place. Cette 
+incompréhen sion peut éventuellement devenir une source de conflits. Autrement dit, 
+cette stratégie ne suffit pas pour aplanir toute les difficulté s. 
+Ds [les collègues et les superviseurs] ne comprenaient pas. Je ne comprenais 
+pa pourquoi il ne comprenaient pas. (Marianne, 54 ans) 
+Un second inconvénient est que malgré la prépa
+ration, deux participante s ont constaté 
+qu'elles devaient respecter le rythme d'adaptation de leur entourage. Certains 
+collègues et cadres ont eu besoin d'un certain temps pour faire le deuil de leur ancien 
+collègue. 
+Je laissais le rythme à l'employeur et sa propre gestion. D faut respecter le 
+rythme de autres aussi. (Marianne, 54 an ) 
+Je me suis privée beaucoup volontairement. C'était ça le prix à payer pour 
+bien faire le choses et ne rien précipiter. (Edith, 49 ans) 
+Un troi ième désavantage mentionné par deux interviewés est que l'annonce planifiée 
+de la transition et la préparation du milieu à cet événement peuvent faire ressortir des 
+42 
+craintes portant ur 1' anticipation des changements que pourrait créer la transition. 
+C'est le cas de Carmen qui travaille dans une grande entrepri e et qui a pris 
+con cience des craintes présentes dan son milieu. 
+lis [le upervi eurs] avaient très peur que certains interprètent ce qu'ils 
+avaient fait pour moi comme une faveur. (Carmen, 56 ans) 
+5.1.2 Stratégie non planifiée 
+À l'opposé, la stratégie non planifiée consi te à commencer sa transition sans 
+préparation personnelle et san avoir avisé le milieu de travail au préalable . Le 
+participants qui ont opté pour cette stratégie lor de leur transition au travail sont sept 
+femmes et un homme d'âges variés. La plupart de participant s ont simplement fait 
+l'annonce dans leur milieu et ils ont en uite amorcé la transition au travail avec des 
+changements vestimentaires, le changement de nom et les changements au dossier 
+admini tratif. 
+Je n'ai pas été exigeante. Je ne leur ai pas demandé la lune. J'arrive comme 
+ça. Ça va être ça à l'avenir et je les tenais au courant. Je fais ci, je fais ça. J'ai 
+commencé mes hormone s et ainsi de suite. (Amanda , 60 ans) 
+5.1.2.1 Avantages de la stratégie non planifiée 
+Cinq participant s ont mentionn é vouloir faire avancer le proce sus plu rapidement. 
+Le fait de ne pa se préparer permet d'entamer la transition dès le moment où la 
+personne désirait le faire. 
+Je trouve que ça aurait été trop long. J'étai rendue là. J'étais prête. Je me 
+foutais de tout. (Amanda, 60 ans) 
+43 
+Je voulai faire mon coming-out tout de suite. (Sarah, 49 ans) 
+Ces cinq participant s misaient sur une approche personnaüsée auprè de leurs 
+collègues ou de quelques-uns d'entre eux, plutôt que 
+sur une démarche encadrée de 
+manière administrative. Trois de ces participant s travaillent dans de petites 
+entrepri e , tandi que les deux autre travaillent dans de grandes entrepri es. 
+J'aimai mieux aviser tout le monde personnellement. (Amanda, 60 ans) 
+Tranquillement pas vite, j'ai dit à quelque per onnes. Stratégiquement 
+parlant, j'ai parlé avec les personnes discrète et ça a grandi. (Virginie, 53 
+ans) 
+J'ai décidé de le dire à de per onnes clés qui allaient le dire à tout le monde 
+dans le magasin. Ça m'a aidé beaucoup. (Adam, 27 ans) 
+5.1.2.2 Inconvénient s de la stratégie non planifiée 
+Un premier inconvénient associé à cette tratégie, relevé par trois participants , est la 
+difficulté de devoir se répéter et s'expliquer. Le niveau de cette difficulté s'accroît 
+lorsque le travail exige plusieurs interaction s avec diverses clientèles et divers 
+partenaires, ce qui nécessite de répéter constamment les informations concernant leur 
+transition et ce qu'elle implique. 
+Ce qui a été le plus difficile et le plus ardu, c'était d'expliquer à tous mes 
+partenaire , que Monsieur ne travaillait plus, c'était maintenant Madame. Ça 
+en fait beaucoup . (Amanda, 60 ans) 
+Un econd inconvénient , relevé lui aussi par trois participant s, est l'absence de 
+préparation du milieu, en particulier sur le plan admini tratif. Lorsqu'il n'y avait pas 
+de préparation , l'employeur n'était pas nécessairement prêt pour entamer le processus 
+44 
+de transition et ce qu'il peut impliquer, par exemple quant aux changement à 
+effectuer dans le do ier admini tratif de participant . 
+Ils [l'employ eur et les res ources humaine ] ont été pris un peu au dépourvu. 
+Ils ne savaient pas quoi faire. (Amanda, 60 ans) 
+La place où j'ai eu de la mi ère, c'était au niveau administratif. (Maxime, 28 
+ans) 
+Pour cinq participant , le fait de ne pas avoir planifié leur transition en milieu de 
+travail a engendré certaine peur . Dan certains cas, celle -ci se sont estompées avec 
+le temp , tandis que pour d'autre , les peur sont restées. 
+J'avais très peur d'être étiquetée. Je suis consciente que pour l'employeur, 
+engager une personne différente, c'est rarement voulu. J'ai voulu démontrer 
+que j'étai capable de faire la job et que j'aime ça. (Virginie, 53 an ) 
+Je ne parle jamais de ça. J'évite le ujet. Quand Laurence Anyways est sorti, 
+ils en parlaient dans la salle à diner. J'av ai peur. J'ai appris par aprè que le 
+gens [les collègues] ne fai aient pas le lien. C'était un film et j'étai moi, ce 
+n'était pas la même cha e. (Sarah, 49 ans) 
+Le première emaine , c'e t sûr que j'étais plu ou moins confortable. Pour 
+moi, c'était tout nouveau et j'av ai une petite peur par rapport aux clients. 
+Pour les employés de la compagnie, je n'avais pas de problème. (Kym, 53 
+ans) 
+Dan son ensemble, peu importe le stratégies mises en place par les participants, 
+celles-ci comportent à la fois de avantage et des inconvénients. 
+45 
+5.2 ANNO CE DE LA TRANSITIO 
+Pour l'en emble de participant à cette étude, l'annonce de la tran ition dan le 
+milieu de travail s'e t avérée une étape importante du proce su de tran ition. Alor 
+que l'expérience de chacun e t unique et personnelle, certains élément en lien avec 
+1 'annonce ont été vécus par le 12 participants. 
+5.2.1 Annonce personnali ée 
+Huit des 12 participants interviewé e sont adres é en per anne et individuellement 
+aux per anne avec lesquelle il travaillent. Quelques participant con idèrent plu 
+personnel de discuter avec une personne en face en face ou d'écrire des me sages 
+per onnali és pour leurs superviseurs et leur collègues. Pour eux, le partage de jeur 
+histoire leur permettait de présenter d'une façon plus personnelle le changement qui 
+allait avoir lieu au travail. 
+Je pen e que de me dévoiler un peu, ça permettait d'aller au-delà du 
+phénomène. J'étais ouverte à dévoiler de choses comme ça. (Patricia, 43 ans) 
+Je connais mon monde. Avec certain , je pouvai être assez intime, tandi que 
+d'autres, c'était plus factuel. (Diane, 61 ans) 
+J'ai pris le leâd au bureâu de rencontrer chaque personne et de leur expliquer • 
+ce que je 
+vivais. (Kym, 53 ans) 
+Les quatre autres participant ont préféré utili er une approche adrnini trative et 
+moins per annelle pour annoncer leur tran ition au travail. 
+46 
+5.2.2 Réactions immédiates suite à l'annonce 
+Pour tou 
+les participants, l'annonce a suscité de réaction de la part du milieu de 
+travail. Cinq participants rapportent avoir reçu un appui émotionnel de la part de leurs 
+collègues lor que latran ition fut annoncée. 
+Le premier moment a été le retour aprè l'annonce. Ç'a été comme une boule 
+d'amour. (Patricia, 43 an ) 
+Il y a eu du respect. ll n'y a pa eu de ge te ou de commentaire ex ce if . 
+(Marianne, 54 ans) 
+Cinq autres participants ont mentionné que les collègues et les superviseurs ont réagi 
+en mettant de l'avant leur incompréhen ion , leurs inquiétudes quant à l'impact que 
+cela allait avoir au travail et leur questionnement ur 1' identité de genre. 
+Il n'y avait pa de réticence, mais il y avait des questionnements. (Carmen, 56 
+ans) 
+Quand j'ai fait cette annonce-là, le monde était peut-être un peu intimidé( ... ) 
+Je pen e qu'il ne se entaient pas à l'ai e. En plus de ne pa être à l'aise avec 
+la réalité tran , ils n'étaient pa à l'ai e avec moi. (Maxime, 28 ans) 
+Pour deux participantes, celle -ci 
+mentionnent qu'elles ont dû faire de l'éducation 
+dans leur milieu de travail concernant 1' identité de genre. Ces oarticipante 
+~ . '\ . 
+con idèrent que cela faisait partie de leur responsabilité et que cela a perrrus une 
+meilleure ouverture de la part de leur milieu de travail. 
+J'ai tout exprimé avec le vrais termes, la transidentité, latran ition, ce n'e t 
+pa une tran formation( ... ) San le vouloir, j'ai quand même sur mes épaule 
+cette re pon abilité de faire de l'éducation. Les préjugés ne sont pas les bon 
+mots. C'est urtout de la méconnaissance. Quand les gens en savent plu ur 
+le sujet, c'est là que les barrières tombent. (Edith, 49 ans) 
+47 
+Très bien passé, parce que les gens venaient me voir. Je prenai le temps de 
+leur expliquer, peu importe le que tians qu'ils me po aient. (Amanda, 60 
+ans) 
+Cette section démontre bien comment l'annonce est une étape importante de la 
+transition en milieu de travail et gu' elle peut différer d'un milieu à un autre. 
+5.3 RÉACTIO S DES COLLÈGUES 
+Dan cette ection, le résultat sont présenté sous trois division , oit : le réaction 
+positive , le réaction négative et les réactions neutre de collègue . Ce réaction 
+affectent directement les interaction du participant avec ce personnes. Dan 
+l'ensemble, tou les participants occupaie nt de emplois où ils étaient en interaction 
+avec un ou plu ieurs collègue . Selon le milieu de l'emploi, ce réaction sont plus ou 
+moins nombreu e , car certain par1icipants sont souvent en interaction avec leur 
+collègue , tandi que d'autre le sont moins. 
+5.3.1 Réaction positives des collègue 
+Suite à l'annonce de leur tran ition, le 12 participants relatent avoir eu au moins une 
+interaction qu'ils décrivent en terme po itif avec l'un ou plu ieur de. leur 
+collègues. Pour huit de ce 12 participant , ce réactions étaient multiples et variées 
+lors de la période de transition et après celle-ci. Elle consistent en de parole , de 
+gestes significatifs comme l'organisation d'événements pour souligner le 
+cheminement de latran ition ou encore 1' émergence de nouvelles amitiés. 
+lis [le collègues] m'ont acceptée quand j'ai eu le résultat de mon changement 
+de nom et le papiers. À l'automne, on est allé manger une quinzaine 
+------------------------ ----- --------------- ~ --------
+48 
+d employé dan un restaurant pour fêter mon changement de nom. (Amanda, 
+60 an) 
+J'ai reçu, en majorité de femme , des courriel de mes collègues ( ... ) La 
+plupart de me collègues m'ont donné une tape dan le do . Je l'ai u par les 
+«bonjours» trè appuyés, pour me dire qu'il étaient à l'ai e avec ça. 
+(Patricia, 43 an ) 
+Au bout de trois minutes [d'explication sur ma tran ition], ils [le collègues] 
+m'ont applaudie. Ça m'a fait tellement de bien. Je me sui tellement sentie 
+acceptée. (Diane, 61 an ) 
+5.3.2 Réactions négative des collègue 
+Presque tous le participant ( 11112) rapportent avoir également vécu des réaction 
+négatives de la part de leurs collègues pendant la transition. Pour dix d'entre eux, ces 
+réactions ont eu lieu sous plusieurs formes, telles que le commérage, la distanciation 
+et le manque de re pect. 
+Sept participants racontent avoir pn con c1ence que leur collègue de travail 
+comméraient à propos de leur tran ition en milieu de travail. 
+La rumeur a commencé à courir dan le département que j'allai peut-être 
+devenir un gars. J'ai laissé cette rumeur-là courir. De toute façon, moi, je suis 
+in en ible aux rumeur et à ce que le autres pensent. (Maxime, 28 ans) 
+Au bureau, ça commençait à ja er un petit peu ( ... ) Ç'a probablement jasé en 
+arrière, mai ça s'est estompé assez rapidement. (Kym, 53 an ) 
+Je raccroche [le téléphone aprè avoir annonG:é ma transition à un collègue] et 
+la machine à rumeurs est partie. J'étai contente et libérée( ... ) Ça faisait mon 
+affaire que ça e sache. (Edith, 49 ans) 
+Quatre participant affirment avoir con taté une prise de di tance de la part de 
+certains de leur collègues. 
+--- ----------- -------------- ---------------------------
+49 
+Je sens par contre que des gens dans l'u ine ne sont pas à l'aise. San 
+m'éviter, il ne cherchent pas à me rencontrer. (Carmen, 56 an ) 
+Quatre participant ont relevé que les interaction non verbales avec le collègues 
+étaient plu distante 
+C'est toujours des non-dits et le non verbal. C'e t difficile à a1 1r. C'e t 
+encore plus difficile d'agir dessus. C'e t le pire genre de di crimination, la 
+discrimination indirecte. (Maxime, 28 an ) 
+Enfin, deux participants mentionnent que certain de leurs collègues ont eu des 
+réactions négatives qui nécessitèrent l'intervention des ressources humaine . Certains 
+collègues avaient de la difficulté à respecter ce changement. 
+Il y avait d'autres employés qui étaient plus réactifs et plu affectés par 
+rapport à ça, comme si c'était eux. Il y a eu deux cas de ressources humaines. 
+li y a eu deux employé complètement dé tabilisés par mon annonce. ils on t 
+eu be oin de rencontre personnelles avec les ressources humaines. (Eva, 39 
+ans) 
+5.3.3 Réaction neutres des collègues 
+De par ses fonction de travail, un participant n'avait pas beaucoup d'interactions 
+avec ses collègL1es. La situation n'a pas changé à la suite dê sa transition. Il fait le 
+constat d'une ab ence de réactions, tant positives que négatives, de leur part. 
+Je n'avais pas beaucoup de upport. Je n'avai pa de réaction négative , 
+mai je n'avai pa de réactions d'empathie. C'était ça qui était difficile au 
+niveau social. ll faut vraiment être très fort. (Maxime, 28 ans) 
+50 
+En somme, la plupart de participants ont fait face à des réactions à la fois po itives et 
+négatives de la part de leurs collègues. 
+5.4 RÉACTIO NS DES SUPERVISE URS 
+Dans le cadre de leur profession, l'ensemble des participants rencontrés était en 
+interaction avec des patrons ou des supervi eurs. 
+5.4.1 Réactions positives des supervi eurs 
+Onze des participants interviewés relatent au moins une bonne expérience avec un 
+supérieur immédiat lors de leur tran ition en milieu de travail. Pour cinq d'entre eux, 
+ces réactions ont été positives tout au long de la transition, tandi que pour le six 
+autres participants, celle -ci étaient plutôt rares. 
+Cinq participants rapportent que leurs superv1seurs ont démontré leur appui pour 
+faciliter 1' acceptation par le collègues. Ds ont usé de leur autorité pour ou tenir les 
+participants dans les diverses 
+étapes administratives de la transition. 
+. . . L'ayant avoue a mon boss, quand je suis arrivée à la job, il m'a dit qu'il 
+m'aiderait et qu'il m'appuierait. TI allait être très sévère auprè des collègue . 
+(Sarah, 49 ans) 
+Au point où le pré ident de la direction générale est venu me voir et m'a dit de 
+ne pa m'en faire, qu'il allait tout mettre en place et parler à tout le monde. 
+(Patricia, 43 
+an ) 
+Quatre participants considèrent que la réaction positive de la part de leur 
+superviseurs s'est avérée une grande source de soutien dans leur démarche au travail. 
+51 
+Je pense que c'est mon patron. li m'a offert un grand soutien. Je sava is qu'avec 
+lui, j'avais l'heure juste. S'il y avait quelque chose qui clochait, je l'aurais su. li 
+m'a serré dans ses bras à un moment donné. C'est lui qui a été mon soutien 
+dans J'entrepri e. (Kym, 53 ans) 
+5.4.2 Réactions négatives des superviseurs 
+Huit participants disent avoir également vécu une ou plusieurs interactions négatives 
+avec l'un de leurs supérieurs immédiats. Les réactions négatives étaient parfois 
+spontanées ou récurrentes dans certain cas. À titre d'exemple de réactions négatives 
+de leurs patrons ou superviseurs, mentionnons de commentaires déplacés, une 
+surveillance upplémentaire et 1' évitement des interactions avec 1 'employé. 
+Quatre participants rapportent que leur superviseurs étaient inconfortables 
+d'interagir avec eux. 
+Mon patron me disait qu'il allait être inconfortable d'aller manger avec moi, 
+car les gens allaient penser qu'il était avec une transsexuelle. (Kym, 53 ans) 
+Deux participants mentionnent s'être sentis davantage surveillés et observés par leurs 
+superviseurs. 
+li y a beaucoup de cadres et de gestionnair~s qui me regardaient et qui ne 
+disaient pas un mot. J'étais sous la loupe de certains gestionnaires et même 
+d'un psychiatre. J'avais comme une pression par rapport à l'idée qu'il y avait 
+une surveillance. (Marianne, 54 ans) 
+Deux participants relèvent qu'ils avaient l'impression que leurs interactions avec 
+leurs superviseurs nuisaient à leur transition en milieu de travail. 
+------------ -------------------- ------ ---------- -------------- -------------
+52 
+Elle [la gérante] m'a mis le bâton dans les roue pour les toilettes [il n'avait 
+pas accès aux toilettes des hommes]. (Adam, 27 ans) 
+Dans son ensemble, pour quatre participant le réactions étaient plutôt positives, 
+tandis que pour les autres participants, les réactions étaient à la fois positive et 
+négatives. 
+5.5 RÉACTIONS DU DÉPARTEME T DES RESSOURCES HUMAINES 
+Cinq participants ont parlé de réactions du service ou des re ponsables de 
+res ource humaines lors de leur transition en milieu de travail. Quatre d'entre eux 
+avaient été voir le ervice ou le re pon able des re ources humaines afin de 
+préparer le début de leur transition et 1' annonce au reste de l'entreprise. Les autre 
+participant n'en ont pas parlé, car ils n'avaient pas interagi avec le département ou 
+l'entreprise n'avait pas de département de re sources humaines. 
+5.5.1 Réactions positive du département des ressource humaines 
+Dan certain cas, les personnes responsables des re ources humaines se ont 
+avérée utile et ont adopté une attitude proactive afin de soutenir la démarche de 
+l • ~ 
+transition de leur employé. Ce soutien administratif fut apprécié par trois des 
+interviewé . 
+Les res ources humaines ont contacté un service d'aide aux employés. ils ont 
+commencé à se renseigner de leur côté. ils en ont parlé ensuite à mon patron 
+et à on supérieur, qui m'ont rencontrée. (Patricia, 43 ans) 
+J'ai rencontré les ressource humaines en novembre. On a jasé et j'ai expliqué 
+mon histoire. J'avais des photos et j'ai dit que je voulais le faire au travail. On 
+53 
+ne sait pa trop comment dealer avec ça. lls avaient déjà en tête un plan de 
+communication. lls étaient ouverts à ce que ça arrive même s'ils n'avaient 
+jamais eu ça. (Carmen, 56 ans) 
+La fille de re ource humaine e t a sez ouverte d'esprit. Elle allait 
+s'informer sur la situation. Tu te di des foi que dans le petites entreprises, 
+ils n'ont peut-être pas nécessairement des formation pour les ressources 
+humaines. Elle a été super correcte et elle m'a bien supportée. (Kym, 53 ans) 
+5.5.2 Réactions négatives du département des res ources humaines 
+Deux participants n'ont pas obtenu le soutien qu'ils auraient espéré recevoir. Pour 
+une participante, le soutien initial de ressource humaines s'e t ensuite estompé avec 
+le temp . 
+J'ai vu les ressources humaines une foi pour dire que je recommencerais à 
+voir la clientèle quand mon nom serait changé légalement [le département des 
+re source humaines ne lui permet pas de changer son prénom dans les 
+documents administratifs avant ce changement légal]. Aprè ça, je ne les ai 
+jamais rencontrées. Je pense qu'ils étaient content que je ne les achale pas, 
+que j'aille tout fait par moi-même. (Amanda, 60 ans) 
+À un moment, j'ai été voir le directeur de ressources humaines. J'ai dit que 
+j'avais eu un problème et pourquoi. Je n'ai pas senti que j'avais un soutien. lls 
+devaient faire un suivi avec moi périodiquement, mai finalement, ils ne l'ont 
+pa fait. (Carmen, 56 ans) 
+Dans son ensemble, pour quatre participante les réactions du département des 
+ressources humaines étaient po itives ou négatives, tandis que pour une participante, 
+les réactions étaient à la fois po itive et négative . 
+54 
+5.6 RÉACTIONS DE LA CLIENTÈLE 
+Dans le cadre de la pratique de leur métier, ept participant interagissent avec une 
+clientèle. Selon leur ecteur d'emploi, il di pen ent à cette clientèle de service 
+sociaux, des services en éducation , de ervices en environnement, de serv1ce en 
+gestion, de service en informatique ou de ervices en alimentation. 
+5.6.1 Réactions positives de la clientèle 
+Cinq des participant rencontrés disent avoir eu des réactions positives de la part de 
+leurs client . Ce expérience po itives leur ont permis de continuer à exercer leur 
+fonctions de travail. 
+Quatre de ce cinq participant caractérisent ces interactions avec leur clientèle 
+comme positive en raison de l'ouverture d'e prit et de l'absence de jugement de la 
+part de celle-ci. 
+Le plus bel accueil que j'ai eu, c'est de la part de ceux que j'aide ( ... ) lis 
+m'ont posé des questions tellement simples et tellement naturelles ( ... ) Pour 
+eux, c'était correct. Dans leur vécu, ils ont vécu de la stigmatisation, donc ils 
+ont moins jugé, moins eu un regard critique sur ce que je vivais. (Marianne, 
+• 54 ans) 
+Trois participants rapportent avoir res enti de l'appui de la part de leur clientèle, ce 
+qui aurait facilité le maintien de la relation professionnelle suite à la transition en 
+milieu de travail. 
+Même avec mes client , je suis une personne qui est très à l'écoute. J'essaie 
+d'aider et de faire le mieux que je peux pour mes clients. C'e t apprécié. C'e t 
+là que j'ai vu que j'étais appréciée de mes client en retour. C'est flatteur( ... ) 
+J'ai fait face à beaucoup de nouveaux clients entre temps ( ... ) En général, ça 
+55 
+toujours bien été. Les clients m'ont très bien reçue. Je n'ai pas perdu de 
+business. Au contraire, aujourd'hui, j'ai la force d'aller affronter de nouveaux 
+clients. (Kym, 53 ans) 
+5.6.2 Réactions négatives de la clientèle 
+Par contre, quatre participants mentionnent avoir vécu des réaction négatives avec 
+leur clientèle. Ces interaction s verbales et physiques ont été vécues de façon explicite 
+dans différents secteurs d'emploi. 
+Dans le cas de deux participant , la difficulté qui s'est po ée avec leur clientèle est 
+attribuée à une perte de confiance en leur capacité professionnelle. 
+Un malaise au début ( ... ) J'ai senti qu'il [le client] se demandait si j'étais 
+au si compétente et fiable. ll fallait que je refasse mon lien de confiance ( ... ) 
+ll se demandait s'il allait subir des répercussions. Ça a pris 1 à 2 contrats pour 
+sentir que je n'avais rien perdu. Pas parce que je suis une femme que je serais 
+incompétente, mais plutôt si tous les changements que je vivais auraient un 
+impact. (Patricia, 43 ans) 
+Puis, deux participant s ont dû arrêter d'interagir avec certains clients, car ceux-ci ne 
+voulaient pas faire affaire avec eux. 
+ll y a juste eu un [client] que. ça le dérangeait vraiment beaucoup. ils ont été 
+obligés de faire un suivi à part et de lui faire comprendre que ça ne le 
+regardait pas ( ... ). Pendant un certain temps, il n'était pas capable d'être 
+proche de moi. On 1' a retiré pro gres si vement et on a évité qu'il soit trop près. 
+(Marianne, 54 ans) 
+Un de ce quatre participant s a rapporté avoir vécu des moqueries de la part d'un ou 
+de quelques clients. 
+D y a une fois que je n'ai vraiment pasfeelé avec un client. Un client vraiment 
+méchant ( ... ) ll me regarde et il regarde mon badge en disant: «Bonjour 
+56 
+Madame »( ... ) Beaucoup de clients emettent à rire. Ils rient de mon nom sur 
+mon badge. (Adam, 27 an ) 
+Dan son ensemble, la plupart des participants qui travaillent avec une clientèle ont 
+fait face à des réactions à la fois positives et négatives de la part de celle-ci. 
+5.7 ENVIRONNEME TDETRAVAIL 
+Pour l'en emble des participants interviewés dans le cadre de cette étude, le proces us 
+de transition en milieu de travail a eu des répercu sion sur leur rapport avec leur 
+environnement de travail. Les principaux cadre d'interaction public et privé avec 
+d'autre individus se déroulent dans des environnements de travail structuré selon la 
+division des genre . Conséquemment, la transition de genre néce site une série 
+d'aju tements qui concernent principalement l'identité per annelle au travail, 
+l'habillement et l'utilisation des espaces divisé elon le genre, tels que le toilettes 
+ou les ve tiaire . 
+5.7.1 Identité per annelle 
+Pour 1' en emble des participants . interviewés, le changement de prénom a nécessité 
+quelque aju tements dans leur environnement de travail lors de interactions 
+quotidiennes et lors de l'utilisation de leur boîte vocale et de l.eur adresse courriel. 
+En ce qui concerne le changement de nom, six participants pouvaient utiliser le 
+prénom de leur choix à l'oral, mais toute la documentation et le do si er administrat if 
+devaient être complétés avec leur prénom reconnu par l'état civil, et ce, jusqu'à 
+l'obtention de leurs nouvelles pièces d'identité. 
+57 
+Au niveau des ressources humaine , c'est certain que tant que mon nom n'a 
+pas été changé, mon talon de chèque ne changeait pas. (Carmen, 56 ans) 
+Tous les jours, ils [les superviseurs] font une ligne [pour rayer l'ancien 
+prénom sur J'horaire] et ils écrivent Adam [prénom choisi par l'identifiant 
+trans]. J'ai parlé aux ressources humaines. Ds ne peuvent pas tant que mon 
+nom n'est pas changé légalement. (Adam, 27 ans) 
+L'impossibilité de faire correspondre le prénom et l'expression de geme projetée 
+entraîne diverses conséquences, notamment dan le rapport avec la clientèle. 
+Le seul problème que j'ai eu au travail, c'était que tant que mon nom n'a pas 
+été changé légalement, l'employeur refusait que je rencontre des clients. 
+(Amanda, 60 ans) 
+À un moment donné, j'avais vraiment l'air d'un gars et mon nom n'était pas 
+encore changé. J'ai appelé les res ources humaines pour demander si on 
+pouvait faire quelque chose. Je me suis heurté à des « non » systématiques 
+non fondés. (Maxime, 28 ans) 
+Cinq participants issus de différents secteurs ont été en mesure d'utiliser le prénom de 
+leur choix dans leurs interactions quotidiennes à 1 'oral et à 1' écrit dès le début de la 
+transition, et ce, malgré le temps d'attente lié à la demande de nom. 
+Ds [les ressources humaines] m'ont fait faire des cartes d'affaires tout de suite 
+sous mon nouveau nom même si mon nom officiel n'est pas encore changé. 
+(Kym, 53 ans) 
+L'emploi du nouveau prénom choisi par les personnes qui font une transition est aussi 
+un aspect important dans les interactions avec 1' entourage de travail. Certains 
+ajustements ont dû être nécessaires pour les collègues, la clientèle et les superviseurs. 
+Des participants font pa.tt de leur manière d'aider leur entourage à adopter le nouveau 
+prénom des personnes interviewées et de leur propre attitude lorsque des erreurs sont 
+commises . 
+58 
+Ça ne me dérange pa si vou [les collègues] vou fuckez de nom ou de genre 
+( ... ) Ça a vraiment ra suré le monde. Je n'étais pa dans une intolérance par 
+rapport au fait qu'ils utilisent mon nom féminin. (Maxime, 28 an ) 
+J'ai donné de trucs aux gen comment m'aborder. Me saluer de façon 
+impersonnelle. (Edith, 49 ans) 
+Ma gérante m'appelle encore avec mon autre prénom de fois( ... ) san faire 
+par exprès. (Adam, 27 ans) 
+Huit de 12 participant mentionnent avoir apporté des changement à leur qoîte 
+vocale 
+au travail. Certain ont pri l'initiative de modifier celle-ci par eux-mêmes 
+tandis que d'autres ont dû attendre leur changement de nom légal pour la modifier. 
+Une participante a mentionné 1 'importance de faire attention à sa voix lor de 
+l'enregistrement du message vocal afin de mieux correspondre au genre dé iré. 
+Sur mon répondeur, c'était [mon nom]. C'est moi qui ai fait ces changements­
+là sans leur demander. (Amanda, 60 ans) 
+Sinon pour la boîte vocale, j'ai essayé d'avoir la vo1x la plus féminine 
+possible. (Diane, 61 ans) 
+Dix participants ont abordé la question de l'utili ation de leur adre se courriel dans 
+l'exercice de leur profession. La majorité d'entre eux ont dû y apporter de 
+modifications suite à leur transition en milieu de travail. Dans certains ca , aucun . . . 
+changement n'était nécessaire lorsque le participant conservait le même prénom ou 
+que l'adresse ne comportait pas celui-ci, tandis que d'autres se sont heurtés à de 
+difficultés administratives qui ont entraîné un report du changement de l'adres e 
+courriel pour le faire coïncider avec le changement officiel de nom. 
+lls ont changé mon courriella journée où je commençais à arriver habillée en 
+femme. (Patricia, 43 ans) 
+59 
+Us ont dit qu'il fallait qu'on change mon courriel ( ... ) Us m'ont demandé ce 
+qu'on fait avec mon ancienne 
+adre e. On peut tout faire transférer à ta 
+nouvelle adresse. (Carmen, 56 an ) 
+Us di aient qu'ils ne pouvaient rien faire pour l'instant, mai le jour que 
+j'allai avoir mon changement de nom, il allaient tout faire ça. Je uis arrivé 
+avec mon papier et il ont fait les procédures. Une semaine après, c'était fait. 
+(Maxime, 28 ans) 
+5.7.2 Expre ion de genre 
+La pré ente section aborde comment les participants ont manifesté leur expression de 
+genre au travail et comment celle-ci a été perçue et accueillie par le milieu. 
+L'habillement est une compo ante importante de l'expression de genre. Lors des 
+entrevues, huit participants ont relevé leur expériences en lien avec l'habillement au 
+travail. Certains d'entre eux affirment avoir dû vi v re une période d'adaptation afin de 
+se sentir à l'aise et confortables dans leur nouveaux vêtement . 
+Au début, je ne savais pas quoi porter [au travail]. J'e sayais et j'explorai un 
+peu. J'ai quand même vite trouvé ce qui me pl ait dans les vêtements et 
+certain style . (Sarah, 49 ans) 
+Dans le premiers temps, j'ai fait attention. Je ne portais pas de robe. Je 
+portais un le.gging, des oulier à talons plat et pas trop maquillée . 
+Maintenant, je me permet de mettre mes ~oulier à talon hauts, mes bottes et 
+plus de maquillage. (Carmen, 56 ans) 
+Dans d'autres cas, trois participants différent relatent avoir observé un certain 
+malaise de la part de leurs collègues vis-à-vis de _leurs vêtements et leurs acce soires. 
+Us [les collègues] ont bien vu le maquillage, les boucle d'oreilles et le linge. 
+ils ne avaient pas comment ou 'ils devaient donner un compliment. ll y avait 
+un malaise par rapport à ça. (Marianne, 54 ans) 
+60 
+Je n'avai pa nécessairement les vêtement pour travailler. J'avai plus des 
+vêtements pour ortir et plus coloré . lls ne savaient pas comment me le dire 
+au bureau, car il avaient peur de me ble er. (Kym, 53 an ) 
+Un autre aspect 
+de l'expression de genre e t la voix. Les trois quarts de participants 
+affirment que leur voix et la perception que les autres peuvent en avoir comme étant 
+masculine ou féminine ont une influence importante sur leurs interactions dan leur 
+environnement de travail. Dan plusieur cas, ceux-ci disent avoir travaillé leur voix 
+afin de faciliter ce interaction . 
+J'ai la chance de bien transformer la voix. Ça aide beaucoup. (Sarah, 49 ans) 
+Le seul problème que j'ai pour pas er, c'est d'avoir une grosse voix. 
+(Virginie, 53 an ) 
+Ma voix, je voudrais bien la changer, mai Je ne veux pa avou une VOIX 
+fau.sse. (Kym, 53 ans) 
+La vo1x au téléphone semble être un enJeu particulièrement important pour les 
+participants. En effet, certain d'entre eux ont davantage de difficulté à se faire 
+reconnaître dan leur genre d'identification lors de leurs interaction sociales 
+téléphoniques. 
+Le plus drôle dan toute latran ition et encore aujourd'hui, c'est qu'au début 
+de la jourhée, ma voix est douce, mais quand tu n'arrêtes pas de parler au 
+t
+éléphone en situation de crise, à un moment donné, tu oublies. (Amanda, 60 
+ans) 
+Au travail, c'est facile, mais au téléphone, je n'ai pas une voix féminine. Ça, 
+c'e t un problème. (Patricia, 43 ans) 
+C'est dur un téléphone, car ce n'est pas tout le spectre de la voix qui est 
+transmis.( ... ) J'ai des trucs. Je corrige les gens et ils s'excusent. Je ne suis pas 
+la seule qui a ce problème-là. (Diane, 61 ans) 
+61 
+Pour 11 participants, les normes de genre ont émergé à travers les actions et les 
+parole des personne qui les entourent dan leur milieu de travail. Suite aux 
+changements dan 1' expression de leur genre, ces participants constatent que 
+l'entourage au travail n'interagit plu de la même manière avec eux. 
+J'ai vu une différence dans l'attitude des gars, comme quoi je ne fai ais pas 
+partie de la gang ( ... ) D y a eu des petite blagues, maintenant qu'il y avait 
+une femme avec eux. (Sarah, 49 ans) 
+Un commentaire que j'ai eu du président: maintenant que tue une femme, il 
+va falloir que tu travailles une coche de plus. [rires] (Kym, 53 ans) 
+Cinq participants e ont efforcé de se conformer aux attentes découlant des normes 
+de genre afin que leur identité de genre soit reconnue dan leur environnement de 
+travail. 
+Je suis arrivée au bureau avec de cheveux [perruque]. Puis ça s'est très bien 
+passé (Amanda, 60) 
+J'ai fait mon possible pour être la plus féminine possible et la plus compétente 
+po sible. (Virginie, 53 ans) 
+J'ai travaillé au si avec un homme de théâtre. Je me suis dit que ça allait aider 
+pour des détail qui sont des attitudes et des gestes plus femmes. D y a une 
+différence culturelle dans la façon d'être et dans la façon de se déplacer. Je ne 
+veux pas avoir 1' air efféminé. (Diane, 61 ans) 
+À J'oppo é, deux participantes disent avoir pri conscience des normes de genre le 
+entourant tout en ayant décidé de ne pas en tenir compte. 
+D [un collègue] va me dire des foi que je ne peux plu faire certaine choses, 
+car c'est le fille qui font ça. Je m'en fous. Je ne vais pas faire ce que Je 
+fille font. (Eva, 39 ans) 
+Je me suis rendu compte que le gen cherchent à te tran mettre leurs normes 
+et leur façon de voir un homme ou une femme. (Marianne, 54 ans) 
+62 
+5.7.3 Utili ation d es lieux divi é selon le genre 
+Lor des entrevues, tous les participants ont abordé la que tion des toilette dans leur 
+rrùlieu de travail. Pour cinq participants, 1 'accès aux toilettes correspondant au genre 
+de leur choix fut réali é en deux étape , soit avant et après la chirurgie de 
+réassignation sexuelle. Parfoi , le participants se voyaient assigner une toilette 
+individuelle ou uni exe. 
+Donc les gen disaient : «Tu ira là. C'est une toilette toute eule ». lis ne 
+m'ont pas demandé mon avis, ils m'ont donné des idées. Je trouvais que l'idée 
+était bonne, alors je n'ai pas eu à commenter. Tout le monde semblait 
+confortable et ils avaient trouvé une solution. Pas la toilette de filles, pas la 
+toilette de gars, celle qui e t toute seule. (Marianne, 54 ans) 
+Par respect pour l es autres, je n'utili e pas les toilettes des femmes. li y a de 
+toilettes individuelles au rez-de-chaussée et c'est donc là que je vais. Ici, je 
+vais dans les toilette pour per onne handicapée . Par respect, tant que je ne 
+suis pas une femme. (Kym, 53 ans) 
+Je me retenai ·pour ne pa aller à la salle de bain. J'allais chez moi. Je ne 
+voulais pas, car c'était trop dégradant et par respect aussi. À partir de ma 
+transition, il y a une toilette unisexe et c'est là que je vai aller. (Edith, 49 ans) 
+Certains collègues de participant ont réagi à ce changement dans J'environnement 
+de travail. Quelques participants ont perçu de la gêne ou un peu de malai ede la part 
+• de leur collègues. 
+P
+eut-être que j'ai senti que le filles étaient un peu gênées. Un peu. Pas plu 
+que ça. On ne m'a pas fait de remarques. (Sarah, 49 an ) 
+Je fais très attention. Je me retien et j'y vais lorsque les gen ne sont pa là. 
+Le toilettes ont fermées. Ça a pas é. Ça n'a pa été i imple que ça. li y a 
+quelques femmes qui n'étaient pas à l'aise au début. C'était drôle, car je 
+surveillais. Je me dépêchai . Je pense que c'est une que tion 
+d'apprivoisement. (Diane, 61 ans) 
+63 
+Un participant s'e t fait interdire l'accès à la toilette des hommes.· 
+Elle [la repré entante yndicale] m'a dit que je ne pouvai pas aller aux 
+toilette , car me collègue sont mal à l'aise ( ... ) Je pourrais rentrer à leur 
+in u, mais je ne veux pa avoir de trouble. Je vais di cu ter de ça. Je n'ai pa 
+trop le choix. (Adam, 27 an ) 
+Troi de participants interviewé s pour cette étude ont accè à des ve tiaire dans leur 
+environnement de travail. Pendant la période de transition, deux de ces participant s 
+n'étaient pas à J'aise à l'idée d'utiliser ni le vestiaire pour le femmes, ni le vestiaire 
+pour le homme . 
+Elle [une per onne dans leve tiaire] a été faire une plainte à l'entrée comme 
+quoi il y avait un mon ieur dans le vestiaire des filles. L'agent de sécurité 
+arrive et là je comprends ce qui se pa se. Je le regarde. Je suis en bra sière. Là 
+il me regarde et il regarde ma brassière. li est tout fourré. J'ai dit que j'étai 
+transsexuel et que c'était fourrant. Je me suis excu é et j'ai dit que j'étais en 
+train de changer de sexe. (Maxime, 28 an ) 
+Dan Je vestiaire, c'est comme un certain clan. J'étais encore dan le ve tiaire 
+de filles en plus, donc elles ne voulaient pas que je parte. Je leur ai dit que je 
+voulais partir , car je n'étai pas à la bonne place. J'étais encore entre Je deux. 
+Je sui ni un ni l'autre encore. Je ne peux pa aller dan le deux bord . 
+(Adam, 27 ans) 
+Cette section démontre bien comment l'expression de genre de la per onne en 
+transition peut avoir un impact ur différent élément pré ents au sein du milieu de 
+travail. 
+5. 8 SOUTIE REÇU AVANT , PENDANT ET APRÈS LA TRANSITION 
+En ce qui concerne l'aide quie t offerte aux participant , celle-ci semble provenir de 
+différente ources. L'ensemble des participants a mentionné avoir reçu de l'aide 
+d'une source quelconque lors de leur transition au travail. Cette section présente un 
+64 
+panorama de toutes les sources d'aide avant, pendant et après la transition en milieu 
+de travail. 
+5.8.1 Entourage per onnel 
+Le soutien de la part d'un ou plusieurs amis est un élément qui fut abordé par la 
+moitié des participants. Le fait de se entir appuyé par certains ami ra urait les 
+participants quant à leur décision d'entreprendre leur démarche de transition en 
+milieu de travail. Pour trois participant , la transition 
+leur a permis de créer de 
+nouveaux lien d'amitié. 
+J'ai la chance d'avoir des amis proche ( ... ) Us m'ont toujours appuyé. Us 
+sont encore là d'ailleurs. (Amanda, 60 ans) 
+À ce moment-là, j'ai commencé en janvier pour mon social et mes amies. 
+J'avai de bonnes amies qui m'acceptaient comme je sui . (Kym, 53 ans) 
+J'ai tout gardé me amis ( ... ) Rien n'a changé. Tout s'est amélioré. ( ... ) J'ai 
+mes bonnes amies, mais c'est tout. J'ai eu vraiment deux bonnes amies ( ... ) 
+Le social 
+m'a aidé, car ça faisait longtemps que je sortai en public. (Edith, 49 
+ans) 
+Pour cinq participants, le soutien d'un ou de plu ieurs membres de leur famille leur a 
+permis de se entir appuyés dans leur démarche de tran ition au trava
+il. 
+Avec ma famille, ça s' e t bien passé parce que le lien n'était pa i proche que 
+ça. En fait, ça m'a rapproché de ma famille. Avec cet évènement-là, ça m'a 
+rapproché de mon père et de mon frère. (Maxime, 28 an ) 
+Ma mère m'a dit que j'étais son enfant et que j'étais ce que j'étai . Elle m'a 
+dit de vivre pour moi. C'est ma vie. Elle allait m'appuyer. (Adam, 27 ans) 
+Je l'ai annoncé à ma famille avant ma femme. J'avais besoin de me créer un 
+réseau de ou tien au cas où ça n'irait pa bien. Pour être sûre de ne pas avoir à 
+65 
+1 'expliquer si ça 'était mal déroulé. Ça s'est passé en douceur sans aucun 
+problème. (Patricia, 43 ans) 
+5.8.2 Organi me associatifs et soutien profe sionne! 
+Six des participants interviewés ont mentionné avoir obtenu de l'aide par 
+l'entremi e 
+de associations aidant les personne trans. Que ce soit par leur présence ou leur 
+publication , le a sociations semblent être un moyen de e ren eigner et d'obtenir du 
+soutien. 
+Par l' ATQ,j'ai découvert la trans exualité. (Marianne, 54 an ) 
+Le as ociation comme 1' ATQ sont très valables. ll faut du upport pour les 
+per onnes post-op. Même si ça va trè bien pour moi, le défi, c'est de trouver 
+de contacts. (Virginie, 53 ans) 
+J'ai a i té souvent à l'ATQ ( ... )J'y ai assisté irrégulièrement pendant au 
+mo in deux an . J'ai trouvé un bon support là. Le réseau de contacts est 
+terriblement important. (Virginie, 53 an ) 
+Dan troi témoignages recueillis, la pré ence d'un consultant dan le processu de 
+transition au travail leur a procuré de 1' aide. La prise en charge de certaines tâches et 
+l'implication des consultant a permis d'alléger la transition au travail de ces 
+participants. Lors de cette prise en charge, le consultant a informé les collègues et le 
+gestionnaire du milieu de travail sur le processus de transition de genre. n a défini . . . 
+certains terme liés au genre et à l'identité, et il a indiqué des élément à mettre en 
+place dan le milieu de travail pour bien accueillir et soutenir la per onne lors de sa 
+transition. 
+n [le département des res ources humaines] ont fait venir le consultant qui a 
+fait une pré entation durant une heure et demie. ll a expliqué comment ça se 
+pa ait. n est un spécialiste dans le domaine qui fait de présentations à 
+traver le Canada. ll m'a rencontrée avant pour me connaître. (Patricia, 43 
+an) 
+66 
+On [le con ultant et Ja per anne trans] a travaillé en emble la présentation. Il y 
+avait des petite correction à faüe ( ... )On aja é un bon deux heures. Ç'a été 
+bien agréable et ça m'a mi en confiance. Mon niveau de confiance a monté à 
+100 %. Ça va être une personne [Je consultant] qui va être capable de le faire 
+et de bien le [présenter et éduquer sur la transition en milieu de travail] faire. 
+Tu vois qu'il avait une approche humaine de la cho e. (Carmen, 56 ans) 
+Le suivi professionnel offert par de psychologue ou des sexologues a été mentionné 
+par quatre participant . Ces professionnels leur ont offert de 1' aide de deux manière 
+différentes, soit du soutien individuel en fonction de leur be oins liés à leur milieu 
+de travail et en démontrant que la transition entreprise e t sérieu e pui qu'elle e t 
+appuyée, reconnue et encadrée par de profes ionnel . 
+Pour l' entrepri e, ça le a ra urés de voir que j'étais dan un programme 
+érieux. Je sui suivie régulièrement, toute les semaine , ça rassure beaucoup 
+de monde. Moi, ça m'a tellement aidée, car j'avais besoin d'aide. (Kym, 53 
+ans) 
+Ça toujours rassuré lorsque je parlais des professionnels qui m'entourant. Ils 
+ont vu que c'était une démarche structurée. (Edith, 49 ans) 
+5.8.3 Sources d'information 
+Po~r les trois quart de participants, la lecture de divers. d?cuments leur apporte une . 
+aide con idérable lors de leur transition en milieu de travail. Que ce soit par 
+l'entremise de guides spéciali é , de livres ou de documentation médicale, le 
+personnes interviewées ont obtenu par ce biais de l'information sur le déroulement, 
+les étapes et les difficultés de la transition en milieu de travail. 
+Aucun guide canadien honnêtement. J'ai été peut-être trop prudente. Je me 
+suis fiée aux expériences américaines pour baser mon plan d'action ( ... ) 
+C'était plus facile de trouver des références en anglais aux États-Unis qu'au 
+67 
+Canada ( ... ) Ce n' e t pa facile de trouver. En général, ça se recoupait. 
+(Patricia, 43 an ) 
+Il y a le livre Identité de genre. Je J'ai trouvé à la bibliothèque. ll n'y a pas 
+beaucoup de livre intére sant , mais lui, je J'ai trouvé vraiment bon. Je l'ai 
+relu 2-3 fois. J'ai lu au si le deux guide de l' ASTT(e)Q. (Eva, 39 an ) 
+Le deux tier de l'échantillon, soit huit participant , relève avoir eu recour à Internet 
+afin d'obtenir de 1' information ur leur processus de transition au travail. Dans toute 
+sa di ver ité, cet outil de recherche a permi à ce per on ne d'obtenir des 
+renseignements, de lire sur de expériences similaire et de recevoir du soutien par 
+des pair . 
+J'ai lu beaucoup de témoignage sur Internet, mai ce n'e t pas facile à 
+trouver. ll n'y a pas beaucoup de ressource . (Eva, 39 an ) 
+J'ai été con ulter des site Internet. Ce gue j'avais trouvé, c'était de gens gui 
+avaient des échanges et gui partageaient leurs expérience . Je voyai si ça me 
+rejoignait ou pa . Je me suis guidée dans cela. (Marianne, 54 ans) 
+Je fai ais des recherche sur Internet, car je sui du monde intellectuel ( ... ) À 
+un moment donné, je suis tombée sur une étude et c'était bien décrit. C'était 
+moi et là, je me uis mise à pleurer devant mon ordinateur. (Edith, 49 an ) 
+5.8.4 Syndicat 
+La pré ence d un syndicat dans le milieu de travail a été mentionnée par la moitié de 
+personnes interviewées. Dan la majorité des cas, le syndicat était présent pour offrir 
+de l'aide à l'employé, mais elle ne fut pas regui e puisque la transition se déroulait 
+sans embûches. Le syndicat allait s'assurer que le droit de laper onne tran seraient 
+re pecté et offrir de l'accompagnement auprè des supervi eur et de re ource 
+humaines au besoin. 
+------- -~--~- ------
+68 
+Si j'avais eu besoin, le syndicat m'aurait toujour appuyé, mais ils n'ont pa 
+eu besoin [d'intervenir] . (Amanda, 60 an ) 
+Le syndicat a eu une copie de la lettre. li ont dit : [le] moindrement que tu as 
+un problème , tu nou appelle . (Marianne, 54 an ) 
+li [le représentant syndical] a dit qu'on était un syndicat ouvert, al or c'était le 
+temps de le prouver. (Diana, 61 an ) 
+En somme, le soutien avant, pendant et aprè la transition peut avon un impact 
+important sur le déroulement de celle-ci au sein du milieu de travail. 
+5.9 FACTEURS PERÇUS COMME POUY ANT FACILITER LA TRANSITION 
+AU TRAVAIL 
+Lor des entrevue , nous avon demandé aux per onnes interviewée s leurs 
+recommandation s. En les examinant, on peut identifier des facteurs jugé par elles 
+comme facilitant la transition pour une personne qui désire entreprendre cette 
+démarche. 
+5.9.1 Facteurs personnel 
+Les participants ont relevé quelques facteurs qui, êlon eux, ont aidé leur entourage à • 
+s'adapter à la transition. Parmi ce facteurs, le plus souvent mentionné, oit par neuf 
+participant s, est le rôle important que joue leur caractère. Plus préci ément, les 
+participant s relèvent des traits de caractère ou encore leur ai ance dans l'expression 
+du genre apquel il s'identifient dé armais, comme des éléments qui auraient aidé 
+leur entourage à accepter le changement. 
+69 
+Les gen me disaient que ça va aussi avec mon caractère, ma façon d'être. Je 
+suis tellement de bonne humeur. Je n'étais pas différente. (Amanda, 60 ans) 
+J'ai changé un peu, mai pour le mieux. Le gens s'en sont rendu compte. lls 
+ont vu que j'étai plus rayonnante. Je parlais plus. (Sarah, 49 an ) 
+C'est difficile d'être crédible, mais l'attitude aide beaucoup. On m'a souvent 
+dit que j'étai naturelle et que ça passe mieux. (Eva, 39 an) 
+J'étais bien avec moi-même. Le fait d'être bien avec soi-même aide à bien 
+faire pas er les choses. (Kym, 53 ans) 
+Lors de leur transition au milieu de travail, sept des participants di ent avoir été 
+reconnus pour leur courage par leur entourage au travail. Selon eux, cette 
+reconnai sance de leur courage leur a permis de faciliter la tran ition au travail, car 
+l'entourage était conscient de tout ce que la démarche impliquait. 
+Moi, je suis professionnelle et j'ai un métier à faire. Les gens ont trouvé ça 
+très trè courageux de le faire et de ne pas lâcher la job. (Marianne , 54 ans) 
+J'ai écrit aux autres groupe [groupes rencontré s par le consultant] aussi et là 
+encore, j'ai reçu bien de me sages touchants de leur part. D'autres que je ne 
+connaissais pa [ceux] qui m'ont écrit et qui m'ont dit que j'étais courageuse . 
+(Carmen, 56 ans) 
+Il y a un collègue qui rn' a dit bravo. ll rn' a dit que j'avais du courage de vi v re 
+ça. Ça m'a étonné. La plupatt des gens m'ont dit que j'étais courageuse. Je 
+leur ai dit que je n'étais pa courageuse. C'est le contraire . Si j'avais continué 
+en homme, c'est là gue j'aurais été courageu e. J'aurais continué d'être maLet 
+de vivre tout croche. Là au contraire, je vais tellement bien. (Diane, 61 ans) 
+L' utili a ti on de l'humour dan le interactions avec le milieu de travail e t au 
+considérée comme un élément facilitateur dan les échanges avec l'entourage, selon 
+la moitié des participants interviewé . L'humour fait bais er la ten ion et le 
+malaises dans le milieu de travail. 
+70 
+En même temps, je comprenai [l'erreur d'employer le mauvais prénom] et je 
+prenais le temps de leur expliquer toujours avec humour ( ... ) Juste un petit 
+bout d'humour pour faire baisser la tension. (Amanda, 60 ans) 
+J'ai fait rire mon directeur en lui disant que j'allai avoir autant de barbe que 
+lui un jour. (Adam, 27 ans) 
+Quatre participants ont abordé l'importance d'être bien avec soi-même avant de 
+commencer la tran ition au travail. Selon eux, ce bien-être est néce saire afin 
+d'entreprendre la tran ition dans toutes le phères de leur vie, y compris la vie 
+profe ionnelle. 
+Quand tu fais ça, il faut que tu soi bien dan ta peau. Ça, c'est la clé. 
+(Amanda, 60 an ) 
+Au niveau 
+psychologique, de ou tenir beaucoup le développement de la 
+confiance des per onnes en voie de transition ou en transition. (Sarah, 49 ans) 
+Elles [les per onnes tran ] vont trouver ça difficile, car elles ne sont pas prêtes 
+à le faire, à se préparer elles-mêmes. Ne pas dire au travail : «Préparez-vous, 
+j'arrive». [Elle doivent] se connaître elles-mêmes. (Patricia, 43 ans) 
+Lor des entrevues, trois participant rapportent avoir un historique important de 
+consommation d'alcool ou de drogue . Dans tous les ca , ces difficultés se sont 
+atténuées avec leur décision de faire la transition et d'entreprendre celle-ci dans 
+toute le sphères de leur vie, y compris dans leur milieu de travail. 
+Je n'étais pas bien. Je con ommai beaucoup d'alcool. L'histoire de ma vie 
+d'ailleurs. Là j'en consomme presque plus, mai j'en consommais beaucoup 
+pour tenter d'oublier. (Amanda, 60 ans) 
+Des fois, je consommais beaucoup de drogues et d'alcool pour réprimer. 
+(Maxime, 28 an ) 
+Cinq participants, soit près de la moitié de l'échantillon, ont abordé le ujet du 
+suicide. Certains disent avoir eu de pensée suicidaire , tandis que d'autre ont fait 
+71 
+des tentatives de uicide. La démarche d'entreprendre latran ition dan le milieu de 
+travail a perrni à certains participant de ne plus avoir de pen ées suicidaire . 
+Il fallait que Je le dise. Je le disais ou je me suicidais cette journée-là. 
+(Patricia, 43 ans) 
+Ç'a été une grosse délivranc e. J'étais ur le bord du uicide. Ju te d'en parler, 
+ça m'a fait du bien. (Adam, 27 an ) 
+Finalement, huit participants recommandent de prendre son temp lor de la transition 
+dans le milieu de travail. Suite à leur expérience per annelle, certain reconnais ent la 
+valeur d'avoir pri leur temps, tandis que d'autres regrettent d'avoir éte trop vite dans 
+leurs démarche . Avec un certain recul, certain participant s de l'étude 
+recommanderaient à une personne qui désire faire sa transition dan on milieu de 
+travail de se préparer et de ne pas bru guer les choses. 
+Moi, je con eillerai de prendre le temps, de ne pas faire ce que j'ai fait parce 
+que moi, je n'avais plus de temps à perdre ( ... ) C'e t de prendre le temps 
+d'expliquer pourquoi tu es rendue là. (Amanda, 60 ans) 
+Si j'avai à le refaire, je prendrai plu de temp pour me préparer. (Maxime, 
+28 ans) 
+C'est trè important parce que souvent, on veut aller vite. On ne veut pas 
+prendre le temp . Pour moi, chaque étape a pris du temps ( ... ) ll n'y a pas de 
+course. Ça m'a porté fruit d'être patiente. (Kym, 53 ans) 
+' 
+Je pense que i on adapte le travail comme il le faut. ll faut pré enter ça de 
+façon progre ive au travail. On ne peut pas leur rentrer la situation dan la 
+gorge. (Patricia, 43 ans) 
+72 
+5.9.2 Soutien externe au milieu de travail 
+Pour troi des participants , ceux-ci recommandent la création d'un ou plusieurs 
+centres d'aide afin d'offrir un soutien aux personne trans. De centres d'aide 
+pourraient permettre entre autres d'avoir accès à de l'information légale et médicale , 
+de partager leurs.expériences et leurs ressenti avec d'autre peronne s et d'obtenir un 
+soutien p ychologique. 
+Avoir un centre d'étude ou un département pour la prise en charge du début à 
+la fin. En collaboration avec les chirurgien s, le gens du domaine de la santé, 
+etc. Avoir un centre où la personne sait qu'elle peut aller là en toute 
+confiance. Pouvoir rencontrer des per onnes qui peuvent la conseiller oit 
+dan un domaine de la santé ou sociaL (Sarah, 49 an ) 
+Le défi, c'est d'avoir quelque chose de rassembleur pour créer un soutien 
+individue l ou en groupe. TI faut créer quelque chose de durable. (Virginie, 53 
+ans) 
+De organisme qui sont en me ure d'embaucher du monde qui peut aller ur 
+le terrain. Je pense que ça erait ça, la meilleure solution. Si ce n'est pas un 
+organi me gouvernemental, ça peut être une entreprise privée. (Diane, 61 an ) 
+Lors des entrevues , deux des participants ont indiqué que la pré ence d'un consultant 
+externe dans le milieu de travail s'est avérée favorable au bon déroulement lors de la 
+transition. Cette aide peut être utile autant pour Je milieu que pour la personne tran . 
+En ~ffe t, le consultant externe peut informer Je milieu de trqvail sur la réalité trans et 
+démystifier les éléments à prendre en considération lors de la transition d'un 
+employé. 
+De faire venir quelqu'un pour se faire appuyer par quelqu'un qui cannait cela, 
+c'est un atout majeur pour le employeurs. (Marianne, 54 an ) 
+Je pense que c'est important d'aller chercher de l'information et du outien 
+externe s'ils le peuvent. Moi, je n'avai pas pensé au programme d'aide aux 
+employés. lls [les respon ables des re ources humaines] étaient en confiance, 
+73 
+car ils ont trouvé la re source. Je pen e que ça pourrait être quelque chose, 
+aller voir ailleur . (Carmen, 56 ans) 
+Pour les trois quarts des personnes interviewée , l'éducation de la population au sujet 
+de la tran sexualité dans toute sa globalité e t recommand ée. Selon eux, cette 
+éducation permettrait d'informer la population ur la réalité trans, et ainsi de faciliter 
+la tran ition en milieu de travail. 
+Oui je pen e que ça pa1i de l'éducation ( ... ) ll n'y a rien qui existe. Je pen e 
+que les RH [re ources humaines] et toutes le formation qui ont axée ur 
+la ge ti on de personnel, la direction et 1' embauche, ce gens devraient être au 
+courant que ça existe. (Eva, 39 ans) 
+Je pense que les gen de ressource humaines devraient être informé . Ça 
+devrait faire partie de leur formation ( ... ) li faut que les entrepri es soient 
+prêtes à répondre à des situations comme ça. Savoir bien gérer et comprendre 
+l'employé. (Kym, 53 ans) 
+Ça 
+erait qua iment mieux de vidéo ou de clips. C'e t sûr que le média 
+ont un rôle à jouer aussi. C'est une dimension que les média ne doivent pa 
+oublier. lls sont aussi un service public. lls ont tendance à 1' oublier. Informer 
+les gen sur une problématique comme celle-là. (Diane, 61 ans) 
+5.9.3 Soutien interne au milieu de travail 
+'Un partenariat avec Îe service ou· les responsable des re sources humaine Îor de la 
+transition en milieu de travail est recommandé par quatre participants. Le 
+département des re source humaine peut ain i e renseigner et assister la personne 
+trans dans son cheminement au travail. 
+Prendre le temps d'a vi er les ressources et tout le monde, de le préparer. 
+(Amanda, 60 ans) 
+74 
+L'implication des ressources humaine aide. J'ai senti que les gens 1 'ont fait 
+parce que ça leur tentait de le faire( ... ) Plusieur m'ont dit qu'ils ont aimé la 
+préparation des re source humaines. (Carmen, 56 an ) 
+Deux des participants interviewé recommandent une collaboration avec le syndicat 
+si celui-ci e t pré ent dans le milieu de travail. Être en communication avec celui-ci 
+pourrait aider la tran ition en milieu de travail. 
+Si tu as le syndicat c'est d'aller avec le syndicat aussi, les deux. Pa rce que le 
+syndicat souvent, ça fait peur. (Amanda, 60 ans) 
+Le grande centrales syndicale ont des ressources et elle peuvent aider en 
+milieu de travail. Elles peuvent intervenir et faire ce travail. (Diane, 61 ans) 
+5. 9.4 Guides 
+La moitié de participants de l'étude ont recommandé la création d'un ou plu ieur 
+guide afin de faciliter la transition en milieu de travail. Que ce oit pour la 
+population , l'environnement de travail ou la personne trans, ils recommandent ces 
+outils afin de démy tifier l'identité de genre et d'expliquer les différente étapes de la 
+transition ain i que ses diverses dimensions (médicale, psychologique et autres). 
+Le guide, s'il peut avoir des ressources, de textes, ce qu'on peut dire, 
+démy tifÎer le terme tran exuel, expliquer 'est quoi les étapes que tu dois 
+passer. C'e t beau à dire, mais pour arriver à ça, il y a de la p ychologie, de 
+l'hormonothérapie ( ... ) Comprendre le cheminement médical et qu'il y a 
+beaucoup de choses qui se pa sent. (Patricia, 43 ans) 
+Une diffusion d'outil qui permettrait de sensibiliser les employeur au niveau 
+gouvernemental à tou le palier et la même chose dan les milieux 
+ho pitaliers. Le système est lourd, la gestion est lourde. ll y a un manque de 
+documentation et il y a un manque de diffusion de 1 'information . Al or nou , 
+on ne peut pas arriver et tout faire ça. ll faut une diffusion plu large qui 
+permet de rejoindre les gens. ll faut que ça oit bien fait. Qui dit comment agir 
+75 
+et comment aider quelqu'un. Et réalisé par des gen crédibles. ll faut éduquer 
+et aller plu loin. (Marianne, 54 ans) 
+Ce chapitre a présenté les principaux résultats en ce qui concerne les stratégies et les 
+modalités de J'annonce de la transition de genre par les participants, les réactions des 
+diver groupes formant leur entourage de travail (collègues, superviseur , res ources 
+humaines, clientèle), les ajustements à l'environnement de travail, le soutien perçu 
+ainsi que les facteurs pouvant faciliter la transition au travail. Dans le chapitre 
+suivant, ces divers résultat seront discutés afin de mettre en lumière certaines 
+facettes des expériences de personnes trans qui font une transition de genre tout en 
+con ervant le même emploi et du soutien social qu'elles reçoivent avant, pendant et 
+aprè une telle transition. 
+CHAPITRE VI 
+DISCUSSION 
+Le pré 
+ent chapitre discute des ré ultats présentés lors du chapitre précédent 
+concernant les expériences des per onnes effectuant une transition de genre dans le 
+milieu de travail. La discussion aborde les résultats dans une perspective exploratoire, 
+en regard des étude recen ées ur le sujet et en vue de répondre à no deux sous­
+question de recherche concernant respectivement le déroulement de cette transition 
+sur le plan de l'identité, des interactions avec J'entourage et de l'insertion dans le 
+milieu de travail, et le formes de soutien social perçu. Le défi de cette di cu sion 
+repo e sur le manque de recherches réalisées ur Je sujet. Puis, les limites de ce 
+mémoire seront abordées. Enfin, des pistes de recherche et d'intervention seront 
+proposées à la fin de ce chapitre. 
+6.1 LA TRANSITION DE L'IDENTIT É DE GENRE DA S UN MILIEU DE 
+TRAVAIL 
+L'expérience d~ la transition de genre dans Je milieu de travail ,se répercute . 
+inéluctablement sur les interactions avec 1 'entourage de ce milieu et sur 1' insertipn 
+dans Je milieu de travail. Dans cette section, nous examinons comment l'identité de 
+genre S'imbrique avec les différents aspects de l'emploi lor de Ja transition. 
+L'analy e de entrevue met en lumière l'utilisation d'une tratégie de planification 
+chez Je tiers des participants de l'étude. Selon le bilan gu' ils en font, cette 
+planification leur a permis de mettre en place un climat de respect et de confiance. 
+77 
+Malgré cette préparation, ces per anne trans ont fait face à de l'incompréhension et à 
+des crainte par moment dans leur milieu de travail. De 1' autre côté, les deux tiers des 
+participant ont mentionné avoir débuté leur tran ition au travail sans aucune 
+préparation. Ceci leur a permis d'entreprendre leur démarche plus rapidement et 
+d'interagir avec leur entourage au travail plus directement. L'emploi de cette stratégie 
+a exigé de ces huit participants de e répéter quant à J'explication de leur transition et 
+de gérer les peurs pré entes dan le milieu du travail. 
+Quelle que soit la stratégie employée pour aménager la tran ition de genre, les 
+participants rapportent que ce changement oulève de interrogation et des 
+appréhensions. Ces résultat convergent avec les écrits portant sur la période de 
+transition qui rapportent de 1' incompréhension de 1 'entourage et de difficultés liées à 
+la tran ition en milieu de travail (Grant et al., 2011; Whittle et al., 2007). On peut 
+penser que cette réaction découle du fait que nou vivons dans une société qui définit 
+Je genre de façon binaire et que le milieu du travail maintient cette divi ion (Schilt 
+et 
+Connell, 2007). Le fait qu'une personne effectue une tran ition de genre vient 
+boulever er la conception binaire des genres, mais aussi elle remet en question la 
+perception que les gen ont du genre de cette per anne en particulier. 
+Ces ré ultats joignent aussi les études sur la transphobie, qui démontrent que la 
+déstabili ation des catégories de genre suscite de craintes chez certaines personnes. 
+Celles-ci peuvent vivre des craintes par apport à leur propre identité de genre et sur 
+la façon d'interagir avec un individu qui passe, à leur yeux, d'un genre à une autre 
+dans l'affirmation de on identité et dans l'expression de son genre4. On peut penser 
+également que Je que tians et les appréhensions peuvent s'expliquer par le fait que la 
+population en général possède peu de cannai sances sur le vécu de per onnes 
+trans, sur l'identité de genre et le enjeux qui peuvent en découler. 
+4 Cette di continuité n'e t pa ressentie par la personne tran elle-même, bien au contraire, puisque la 
+transition lui permet d'affirmer l'identité de genre qu'elle ressent subjectivement. 
+,----- --------- ------------ ---------------------- ----
+78 
+Alor que le tiers des participant ont privilégié des voies impersonnelle pour faire 
+connaître leur transition de genre, les deux tier ont préféré en faire l'annonce d'une 
+façon individuelle , en s'adressant eux-mêmes aux personnes de leur entourage de 
+travail. Suite à cette annonce, l'ensemble de participant a obtenu de réaction 
+diver es de la part du milieu de travail, allant du outien émotionnel, aux 
+que tionnement et, dan certain cas, le participants ont dû éduquer le milieu de 
+travail. Ces résultats divergent de ceux de l'étude de Grant et al. (2011) qui rapportait 
+que seulement 38 % de leurs participants avaient parlé ouvertement de leur transition 
+à leur collègues. Ain i, on pourraü penser que le fait de con erver le même emploi 
+pendant et aprè la transition invite les personne trans à s'ouvrir davantage et d'une 
+façon plus personnelle dan leur milieu de travail. A surément, elles n'ont pas la 
+possibilité de faire silence sur leur transition, puisque l'identité de genre qu'elles 
+projettent auprè de leur entourage est modifiée, mais il e t possible que le désir de 
+pré erver les lien ociaux déjà créés agis e comme facteur de motivation pour 
+inve tir des effort per onnali és dan l'explication de sa propre transition (Caron et 
+Guay, 2005). 
+En ce qui concerne les interaction s avec l'entourage de travail, nos ré ultats nous 
+amènent à des conclu ions nuancées. Aucun participant n'a connu une détérioration 
+prononcée de ce interactions ou de interaction s exclusivement négatives. D'emblée, 
+iÎ était peu probable de rejoindre des personne s dont la tran ition au travail aurait 
+u cité des réactions extrêmement négatives : oit elle 
+auraient quitté leur emploi, 
+soit elle auraient été congédiée , ce qui les aurait disqualifiée comme participants à 
+notre étude. On peut aussi suppo er 
+que les per onnes ayant connu des expériences de 
+transition trè difficiles seraient moins portées à se porter volontaires pour participer à 
+une étude. Cependant, aucun participant ne rapporte non plus de expérience 
+totalement positives dans ses interactions avec Les personne qui forment on milieu 
+de travail. 
+79 
+Pour ce qui est des interactions avec leurs collègues, la totalité de participant s à ce 
+projet de recherche a rapporté avoir vécu au moins une interaction positive. Puis, la 
+presque totalité d'entre eux, oit 11, a mentionné avoir vécu des interaction 
+négative avec leur collègues. Même s'il n'est pas pos ible de catégori er les 
+personnes pour qui l'expérience a été plus positive que négative, et vice-versa, nou 
+pouvons émettre comme hypothèse que peu importe la stratégie mise en place et 
+l'implication personnelle de la personne trans, les interaction avec le collègue 
+peuvent être à la fois positive et négatives. Ce ré ultat vient appuyer partiellem ent 
+les conclusions des études sur le ujet. Plusieurs études font état de la présence de 
+violence et de harcèlement de la part de certains collègues pour la majorité de 
+personne tran (Lombardi et al., 2001; Moran et Sharpe (2004); Whittle et al., 2007). 
+Le interaction négative rapportée par nos participant s sont ·de l'ordre du 
+commérage, de la pri e de distance et du manque de re pect. Elles s'inscrivent dans 
+un regi tre de violence psychologique. L'écart pourrait s'expliquer par le fait que ces 
+étude sont réalisées auprès de la population trans en général et non spécifiquement 
+auprès des per onnes trans qui conservent leur emploi pendant et après leur transition. 
+Puisqu'il exi te peu de donnée ur la transition d'une personne au sein d'un même 
+milieu profe sionne!, on peut penser que latran ition en emploi pourrait s'avérer une 
+expérience relativement plus positive, en raison de l'exi tence de lien sociaux 
+préalable avec cette personne . En ce qui concerne les réaction positives des 
+collègue , no ré ultats rejoignent ceux de l'étude de Schilt et Connell (2007), qui 
+constatent que certains collègue vont offrir leur soutien à la personne qui fait une 
+transition de genre à travers plu ieurs ge tes du quotidien en validant l'expression de 
+genre mi e de 1' avant par cette per onne. 
+Moins de la moitié des participant s de cette étude a rapporté avoir ressenti de la 
+pression de la part de leur entourage afin que leur expres ion de genre cadre avec les 
+attente du milieu de travail. La présente étude peut s'inscrire dans les conclusions 
+80 
+tirée par l'étude de Schilt et Connell (2007) qui illustre parfoi la pré ence d'une 
+pre ion de performer une identité de genre afin de faciliter l'intégration dan le 
+milieu de travail. On peut pen er que ceci 'explique par le concept de présentation de 
+oi de Goffman (1973) qui influence les interactions du quotidien . Goffman illu tre 
+ce concept comme était une projection de soi dans le décor de la vie, alors que nous 
+sommes tou des acteurs jouant un rôle (Goffman , 1973). 
+Cinq participants de cette étude, soit moins de la moitié, ont eu des interaction 
+po itive avec leur uperviseur tout au long de leur tran ition en milieu de travail. 
+Cependant, pour le deux tiers de l'échantillon, le interactions avec les supervi eur 
+ont été jugées comme parfois ou auvent négatives, soit en rai on d'un inconfort de la 
+personne en po ition d'autorité, d'une urveillance accrue de sa part ou d'une attitude 
+qui entravait le proces us de transition plutôt que de le outenir. Ces résultat 
+viennent appuyer les études de Whittle et al. (2007) et Grant et al. (2011) qui 
+rapportent que les personnes tran hésitent parfoi à divulguer leur identité de genre 
+en rai on des risque reliés à leur travail. On peut pen er que l'anticipation d'un 
+manque d'appui de la part de supervi eur dans leur démarches , ou un appui 
+chancelant repré ente une difficulté supplémentaire à affronter lors de leur transition. 
+ll est pertinent de noter que la majorité des participant ayant eu des interaction s 
+po iti ve avec leurs superviseurs avaient opté pour la stratégie planifiée lors de leur 
+transition au travail. ll serait donc pertinent d'explorer l'hypothè e selon laquelle 
+cette stratégie, grâce à l'inclusion des superviseurs dè le début de la démarchè, 
+facilite les interaction s avec ceux-ci lor du processus de transition. 
+Les participant ayant interagi avec les res ources humaine étaient au nombre de 
+cinq. Une faible majorité, oit troi participant sur cinq ont apprécié leur 
+interactions avec eux en les qualifiant d'utile et de proactive dans la démarche de 
+tran ition. Deux participants n'ont pas obtenu le soutien qu'ils avaient espéré. 
+L'analyse de témoignages met en lumière le difficulté vécues par les participants 
+81 
+puisque les département s des ressources humaines ne sont pas nécessairement outillés 
+ou à 1' aise vis-à-vis de la transition en milieu du travail. Ces résultats viennent 
+renforcer ceux des études qui affirment qu'il est important de respecter la personne 
+trans et la confidentialité de sa transition, mais que ce n'est pas toujours le cas (Bauer 
+et al., 2011; Eyne et al., 2012). 
+Pour les sept participant s qui étaient en interaction avec une clientèle dans le cadre de 
+leur travail, ceux-ci ont mentionné avoir vécu à la fois des interactions positives et 
+négatives avec celle-ci. Ceci converge avec l'étude de Schilt et Connell (2007) qui 
+affirme que les interactions sociales varient en fonction de l'organisation et du 
+contexte du milieu du travail. Selon le type d'emploi de la personne trans, la taille de 
+1' entreprise et la nature de son contact avec la clientèle, les interaction s avec celle-ci 
+peuvent varier. Même si les résultats, vu la diversité des secteurs présents dans 
+l'échantillon , ne nous permettent pas de brosser un portrait net des interaction s avec 
+la clientèle lors de la transition en milieu de travail, on peut penser qu'il n'est pas 
+nécessairement possible d'avoir un certain contrôle sur les interactions avec la 
+clientèle lorsque celle-ci est nombreu se et que les interactions sont brèves. D'un autre 
+côté, dans les milieux où il y a quelques clients avec lesquels la relation 
+professionnelle est plus longue et plus personnalisée, il est possible de mettre en place 
+des moyens afin de faciliter 1' interaction avec celle-ci et de maintenir le lien de 
+confiance auparavant établi. 
+En ce qm concerne l'environnement de travail, nos résultats indiquent que la 
+transition implique divers ajustements. Tel que l'ont démontré d'autres auteurs 
+auparavant, le changement de prénom et de pronom demande des changements 
+important s dans l'environnement de travail (AFPC, 2008; Grant et al., 2011; Whittle 
+et al., 2007). Alors que la moitié des participant s ont dû attendre d'avoir leurs 
+nouvelles pièces d'identité avant de modifier les dossiers administratifs, les autres ont 
+employé leur nouveau prénom dès 1' annonce de leur transition. Ces résultats 
+82 
+convergent avec ceux rapportés dans la littérature, soit que 1' utilisation du pronom et 
+du prénom représente un enjeu important pour des personnes qui effectuent une 
+transition de genre (AFPC, 2008; Whittle et al., 2007). La période d'attente entre 
+l'annonce et la modification du prénom dans les outils utilisés au quotidien dans 
+l'exercice d'un emploi complique le processus de transition au travail. 
+Dans le même ordre d'idées, pour les trois quarts des participant s, l'expression de 
+leur genre par l'entremise de composantes comme l'habillement et la voix requiert un 
+certain ajustement dans l'exercice de leur emploi. Les trois quarts des participants ont 
+rapporté que leur voix a une influence importante sur leurs interaction s dans leur 
+environnement de travail. 
+Une fois de plus, ces résultats viennent renforcer ceux rapportés dans la littérature qui 
+démontre à quel point la performance en matière d'expression de genre joue un rôle 
+important lors de la transition (Byne et al., 2012; Schilt et Westbrook, 2009). Les 
+résultats permettent de penser que peu importe le secteur d'activité de l'employé 
+trans, les composantes de l'expression du genre comme la voix et l'habillement sont 
+des éléments importants à considérer pour les personnes trans lors de la transition en 
+milieu de travail. 
+Presque la totalité des participants à cette étude a mentionné que les normes de genre 
+existent toujours dans leur Înilieu de travail et étaient perceptible s à travers les' 
+attentes explicites ou implicites des autres à leur égard. Les participant s ont remarqué 
+un changement dans le style d'interaction avec leur entourage afin de correspondre 
+davantage aux normes de genre correspondant à leur « nouvelle » identité. Ce résultat 
+vient appuyer celui de plusieurs études illustrant l'influence des normes de genre sur· 
+les interaction s sociales (B y ne et al., 20 12; Schilt, 2006 ; Schilt et Westbrook, 2009 ; 
+Schild et Wiswall, 2008). Cette observation nous permet d'émettre comme hypothèse 
+83 
+que la socialisation de genre permet d'expliquer ce résultat, puisqu'elle comprend les 
+comportements et les attitudes à avoir en fonction de son identité de genre. 
+Tel que démontré par d'autres auteurs auparavant (Grant et al., 2011; Whittle et al., 
+2007), plusieurs défis liés à l'utilisation des lieux divisés selon le genre au travail ont 
+été rapportés par les participant s. Que ce soit pour l'utilisation des toilettes ou des 
+vestiaires, la possibilité d'utiliser le lieu réservé à leur catégorie de genre, homme ou 
+femme, a nécessité des périodes d'ajustement s. Que ce soit à cause d'un malaise 
+ressenti ou à la suite d'une interdiction qui leur était faite, la division de ces lieux en 
+fonction de la binarité des genres limitaient 1' accès à ceux -ci. 
+6.2 LE SOUTIEN SOCIAL PERÇU PAR LES PERSONNES TRANS DANS 
+LEUR MILIEU DE TRAVAIL 
+L'un des objectifs de ce projet de recherche était aussi d'explorer les formes de 
+soutien social perçues par les personnes trans lors de leur transition dans leur milieu 
+de travail. Les différentes formes de soutien social sont : le soutien émotionnel, 
+instrumental, informationnel et de valorisation (Dave y et al., 2014 ). À titre de rappel, 
+le soutien émotionnel réfère à 1' empathie, 1' amour et la confiance prodigués (Dave y 
+et al., 2014; Hinson et al., 1997). Le soutien instrumental, quant à lui, consiste à offrir 
+des services et des biens '(Davey et al., 2014; Hinson et al., 1997). Puis, le sou'tien 
+informationnel consiste à fournir les renseignements nécessaires pour soutenir une 
+personne (Dave y et al., 20 14; Hinson et al., 1997). Finalement , le soutien de 
+valorisation permet aux individus de se sentir valorisés et se sentir appuyés (Davey et 
+al., 2014; Hinson et al., 1997). 
+Les participants ont mentionné que le soutien qu'il percevait lors de leur transition en 
+milieu de travail leur apportait beaucoup de bien-être. n est parfois difficile de 
+84 
+déterminer où cela débute puisque le bien-être facilite 1' acceptation par les autres, et 
+la valorisation par les autres renforce le bien-être. Quelques participant s ont 
+mentionné que leur consommation d'alcool et de drogues, de même que leurs idées 
+suicidaires s'estompaient en partie grâce au soutien perçu et au bon déroulement de 
+leur transition. C'est sous la forme émotionnelle et de valorisation que le soutien 
+social a été reçu. Ces résultats convergent avec ceux rapportés dans la littérature , qui 
+indique que la discrimination au travail rend les personnes trans plus vulnérables aux 
+idées suicidaires et à la dépression (Nooshin et al., 201la; Nooshin et al., 2011b; 
+Scanlon, 201 0; Whittle et al., 2007). Même si les résultats ne nous permettent pas de 
+généraliser, nous pouvons émettre comme hypothèse que le soutien émotionnel et de 
+valorisation a un impact important sur le bien-être des personnes trans lors de la 
+transition en milieu de travail. 
+La transition de· genre requiert une démarche s'étalant sur une longue période et des 
+procédure s parfois exigeantes . Sept participant s disent avoir ressenti du soutien de la 
+part de l'entourage au travail, puisque celui-ci reconnaissait le courage derrière leur 
+démarche. Le soutien social était reçu sous la forme de valorisation. Puis, l'utilisation 
+de l'humour par la moitié des participants lors de leurs interaction s sociales au travail 
+semble leur avoir permis de se sentir davantage soutenus dans leur transition. Ces 
+résultats viennent appuyer l'étude qui rapporte que les personnes trans se sentent plus 
+à 1' aise et performante s au travail après avoir débuté leur transition (Grant et al., 
+2011). 
+Les trois quarts des participant s de l'étude ont mentionné que leur personnalité avait 
+joué un rôle dans leur transition en milieu de travail. Ceux-ci se sont sentis davantage 
+appuyés dans leur démarche depuis qu'ils avaient la possibilité de mettre leur 
+« réelle » personnalité de 1' avant, autrement dit qu'ils se sentaient plus libres dans 
+1' expression de leur genre. Pour certains, leur bien-être a permis de diminuer leurs 
+idées suicidaires et leur consommation d'alcool et de drogues. Cette observation nous 
+85 
+permet d'émettre comme hypothèse que le soutien social sous la forme de 
+valorisation leur permet d'être authentiques et davantage en égosyntonie avec eux­
+mêmes. 
+L'analyse des témoignages permet de constater que les trois quarts des participants se 
+sont sentis soutenus par leurs collègues, et ce, par l'entremi se de paroles, de gestes ou 
+de nouvelles amitiés. C'est sous la forme émotionnelle que le soutien social a été 
+reçu. Tel que l'ont démontré d'autres auteurs auparavant (Schild et Westbrook, 2009; 
+Schilt et Wiswall, 2008), les nouvelles dynamique s relationnelles au travail, qu'elles 
+soient positives ou négatives, changent parfois rapidement et radicalement. Ainsi, on 
+pourrait penser que le soutien émotionnel des collègues peut jouer un rôle important 
+lors de la transition en milieu de travail. 
+Pour les cinq participant s ayant perçu du soutien, au moins partiellement , de la part 
+de leurs superviseurs, ce soutien a pris principalement deux formes, soit 
+informationnelle et de valorisation. Ces participant s se sont sentis soutenus dans les 
+démarche s administratives reliées à la transition en milieu de travail. De plus, ils ont 
+perçu du soutien de valorisation de la part de leurs superviseurs, car ceux-ci, lors de 
+leurs interactions avec les participant s, donnaient le bon exemple pour le reste de 
+l'entourage au travail. Ce résultat vient appuyer l'étude de Dargie et al. (2007), qui 
+propose 1' idée que ces formes de soutien permettent aux personnes trans de se sentir 
+acceptées et en sécurité. Les résultats permettent de penser que le soutie~ social des 
+superviseurs perçu par les personnes trans est un aspect à prendre en considération 
+lors de la transition. 
+Quatre des cinq participants ayant mentionné ce sujet se sont sentis soutenus par le 
+département des ressources humaines de leur milieu de travail pendant une partie ou 
+la totalité de leur processus de transition. C'est par leur ouverture , leur proactivit é et 
+leur prise en charge de la situation que les participants ont perçu le soutien du 
+86 
+département. Ce soutien a été offert sou deux formes, soit la forme informationnelle 
+et instrumentale. Afin d'appuyer ce ré ultat, on peut penser que cela peut s'expliquer 
+par le fait que certaine lois encadrent les re ponsabilités et le devoirs des services 
+des ressources humaines (Byne et al., 2012, Éducaloi, 2013). En ce sens, le soutien 
+instrumental et informationnel offert par ce département peut aider la personne trans 
+lors de a tran ition dans le milieu du travail. 
+Pour la majorité des participants qui a abordé le soutien de leur syndicat, ceux-ci n'en 
+ont pas eu be oin puisque leur tran ition s'est bien déroulé~ dans leur milieu de 
+travail. Si le besoin s'était fait ressentir, la 
+moitié des participants interrogés ont 
+1' impression qu'ils auraient obtenu du ou tien in trumental et de valorisation par 
+1' entremise de leur syndicat. Ce résultat vient renforcer 1' étude de Dave y et al. 
+(2004), qui mentionne que le soutien social permet de soutenir et protéger les 
+personnes trans de la discrimination. On peut penser que le fait de e entir appuyé 
+par des pairs au sein du syndicat est un facteur bénéfique lor de la transition en 
+milieu de travail. 
+Moins de la moitié des participants ont mentionné avoir ressenti de la validation 
+sociale de la part de leur clientèle. Pour ceux qui ont perçu cette validation, c'est sous 
+la forme d'ouverture et d'absence de jugement à leur égard ainsi que du maintien de 
+la relation professionnelle que cela s'est fait ressentir. Ce résultat converge avec la 
+littérature, qu'i indique que les changements de styles d'interacdons au travail 
+procurent un sentiment de validation sociale au travail pour Jes personnes trans 
+(Schilt et Connell, 2007). Cela permet de mettre en évidence que le soutien social 
+peut être perçu dans les différents type d'interactions présents dans le cadre de 
+l'exercice d'un emploi. 
+En bref, pour les personnes interviewée lors de cette étude, le type de soutien 
+principalement reçu par les collègues e t Je soutien émotionnel. Les superviseurs 
+87 
+offrent davantage du soutien informationnel et de valorisation, tandis que de leur 
+côté, les ressources humaines apportent du soutien informationnel et instrumental aux 
+personnes trans. Pui , du soutien in trumental et de valorisation est reçu de la part des 
+syndicats . Finalement, la clientèle offre quant à elle du soutien de valorisation aux 
+employés en transition. 
+Plusieurs participants à cette étude ont spontanément fait référence à diverses formes 
+de soutien reçu à 1' extérieur du milieu de travail. Ainsi, pour la moitié d'entre eux, le 
+soutien émotionnel ressenti de la part de la famille et des amis leur permet d'obtenir 
+un appui supplémentaire dans leur démarche. Ce résultat vient renforcer 1' importance 
+du cette forme de outien, sachant que l'étude de Dargie et al. (2014) rapporte que les 
+personnes trans se entent généralement moins soutenues par leur entourage. Puis, la 
+moitié des personnes interrogées ont aus i rapporté s'être senties soutenues par les 
+organismes et les associations pour les personnes trans. Ce soutien social a été reçu 
+sous la forme informationnelle et de valorisation. Dans le même ordre d'idée , lors de 
+leurs entrevues, trois des participants ont mentionné avoir obtenu du soutien de la part 
+d'un consultant à l'externe du milieu de travail. L'aide du consultant a permis 
+d'alléger certaines tâches en lien avec la transition en milieu de travail pour ces 
+personne trans. Dans ces cas, c'est sous la forme informationnelle que le soutien 
+social a été perçu. Le tiers des participants ont rapporté avoir obtenu du soutien 
+informationnel et instrumental par l'entremise de leur suivi professionnel. Cette 
+démarche ·leur a permis d'obtenir un soutien personnalisé en fonêtion de leur milieu 
+de travail et de leur transition personnelle. Ces participants ont aussi ressenti que le 
+fait d'avoir un sui vi professionnel leur a permis d'obtenir un soutien indirect de leur 
+entourage au travail puisque cela démontrait que leur démarche était sérieuse et 
+encadrée. 
+Finalement , les sources d'information comme les livres, les guides et Internet ont 
+permis à plus du deux tiers de l'échantillon d'aller chercher un soutien informationnel 
+88 
+supplémentaire par 1' entremise de ces ressources. En fonction de leurs besoins, cela 
+leur a parfois permis d'obtenir l'aide et les renseignement s dont ils avaient besoin. 
+Ces résultats viennent appuyer les études qui rapportent que le soutien social est 
+encore plus important lorsqu'il y a un manque ou une absence de ressources pour les 
+personnes trans (Cohen, 2004; Schrock et al., 2004). Même si les résultats ne nous 
+permettent pas de nous prononcer sur le soutien social externe au milieu du travail, on 
+peut penser que ces diverses formes de soutien ne peuvent qu'être bénéfique s pour les 
+personnes trans, et ce, tout au long de leur processus de transition. 
+Ces observations font aussi ressortir la complémentarité des diverses formes de 
+soutien reçu ainsi que la nécessité de diversifier les sources de soutien (famille, amis, 
+suivi professionnel, organismes pour personne trans, sources d'information), pui que 
+chacune apporte un soutien de formes différente s .. 
+6.3 LIMITES DU PROJET DE RECHERCHE 
+La réalisation 
+d'une étude qualitative comme celle-ci comporte une limite importante, 
+soit celle du petit échantillon de témoignage s recueillis. Bien que 12 participant s aient 
+été interrogé s, il n'est pas possible de généraliser les résultats obtenus au-delà des 
+expériences rapportées par les participant s. Même si les entrevues semi-dirigées 
+permettent d'obtenir des renseignement s riches, les données obtenues sont uniques et 
+pertinente s pour notre démarche exploratoire, mais la comparabilité entre celles-ci, 
+par exemple en fonction de l'âge, du genre d'identification ou du secteur d'emploi, 
+n'est pas possible. Ainsi, nous n'avons dans notre échantillon que 2 participant s 
+mascu~ins. ll n'est donc pas possible de vérifier si les élément ~ et les thèmes abordés 
+concordent ou divergent selon le genre d'identification des participant s. Un plus 
+grand nombre de participant s serait requis 
+si l'on souhaitait se pencher sur la 
+variabilité des situation s et obtenir un portrait plus exhaustif des divers enjeux en 
+89 
+fonction des différents ·domaines d'emploi et autres variables. En particulier, il 
+faudrait rejoindre un plus grand nombre de participants masculins afin d'en apprendre 
+davantage sur leurs expériences en milieu de travail lors de leur transition. 
+De plus, tous les participants rencontrés s'identifiaient soit au genre féminin, soit au 
+genre masculin. ll n'y avait dans l'échantillon aucun participant endossant une 
+identité de genre plus fluide ou contestant les catégories binaires de genre. 
+Conséquemment, nous n'avons pu documenter les expériences de personnes 
+présentant une identité fluide ou non binaire dans l'échantillon obtenu pour ce projet 
+de mémoire. 
+Le mémoire comporte plusieurs limites au niveau de l'information qu'il contient, car 
+il ne se penche pas sur certains éléments qui pourraient influencer la transition au 
+travail et sur la façon dont celle-ci se déroule. En ce sens, une limite de cette étude est 
+qu'elle ne permet pas de déterminer si le fait d'habiter dans une région urbaine ou 
+rurale a un impact sur la visibilité de la transition et l'ouverture envers celle-ci en 
+milieu de travail. En effet, le nombre de personnes interviewées qui proviennent des 
+régions rurales est insuffisant. Sachant que les ressources disponibles pour les 
+personnes trans sont généralement présentes dans les régions très urbanisées, et le 
+plus souvent absentes ailleurs, il pourrait être intéressant d'explorer si cela semble 
+avoir un impact sur l'ouverture des milieux de travail vis-à-vis de la transition. 
+D~ plus, puisque 1 ' appartenance religieuse et culturelle n' â pas été prise en compte, il 
+n'est pas possible de déterminer l'impact que ces facteurs peuvent avoir sur une 
+transition en milieu de travail. L'obtention de tels renseignements serait pertinente 
+afin d'explorer si ces éléments jouent un rôle dans la transition d'une personne trans 
+dans son milieu de travail. 
+Puis, en raison de la répartition de l'âge des personnes ayant participé à cette étude, il 
+n'est pas possible de savoir si l'âge semble avoir une influence sur le déroulement de 
+------------- ------ ··------ --
+90 
+la transition en milieu de travail. ll pourrait être intéressant de comparer les résultats 
+en fonction de l'âge, afin d'évaluer et d'adapter Je soutien nécessaire en fonction de 
+l'âge de la personne trans qui entreprend une transition au travail. En ce sens, 
+J'échantillon recueilli lors de cette étude ne permet pas d'indiquer si l'ancienneté dans 
+une même entreprise, laquelle implique égaiement l'existence de liens sociaux 
+préalablement établis dans le milieu de travail, a un impact sur la transition en milieu 
+de travail. 
+En ce qui concerne la méthodologie , l'utilisation d'une affiche pour le recrutement 
+engendre aussi quelques limites pour ce qui est de la composition de l'échantillon. 
+Tout d'abord, les renseignements concernant 1' étude y sont écrits, ce qui ne permet 
+pas nécessairement de rejoindre la population illettrée. De plus, le recrutement 
+effectué grâce à celle-ci s'est principalement fait par l'entremi se d'organismes 
+communautaires et d'associations. Ceci implique que les participants rejoints sont des 
+personne s qui bénéficient de ressources, et donc, qu'elles ne sont pas totalement 
+isolées. ll s'avère donc plus difficile de rejoindre les gens qui ne sont pas rattachés à 
+ce milieu communautaire . L'échantillon de volontaires obtenu dans le cadre de cette 
+étude représente aussi une limite. Cet échantillon a permis de recueillir seulement 
+l'expérience des personnes trans qui ont désiré en faire part. TI est possible que les 
+personnes trans ayant eu des expériences négatives aient moins envie de les partager. 
+Ainsi, ce type d'échantillon ne permet pas de généraliser les résultats obtenus. Aussi, 
+ils ont tous « réussi » leur transition. On peut penser q~e les personnes trans ayant été 
+obligées de changer de milieu de travail ou ayant perdu leur emploi ont vécu des 
+expériences différente s. Enfin, les entrevues furent réalisées dans un espace-temps 
+précis, un simple entretien ne permet pas de rendre compte de toute l'expérience 
+· vécue par les participa
+nts lors de leur transition. 
+La chercheuse a elle-même mené les entrevues réalisées dans le cadre de ce mémoire. 
+Le fait gu' elle soit une personne cisgenre peut aussi représenter une limite de l'étude. 
+91 
+Certains participants pourraient ne pas avOir abordé certains éléments de leur 
+transition au travail dans la crainte d'être incompris ou jugé par la chercheuse. D'un 
+autre côté, cet élément a peut-être permis d'obtenir plus de détails sur l'expérience 
+des personne s trans puisque les participants savaient que la chercheuse n'avait pas 
+cette expérience personnelle. Lors des entrevues, la chercheuse a perçu un lien de 
+confiance avec ces participants. Ceci favorise le partage des expériences avec les 
+personnes trans, mais il était important d'encadrer et de recadrer 1' entrevue au besoin 
+afin de conserver une distance professionnelle.

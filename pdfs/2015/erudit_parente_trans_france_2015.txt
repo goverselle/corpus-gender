@@ -1,0 +1,530 @@
+La gestion médicale de la parenté trans en France – Enfances, Familles, Générations – Érudit 
+
+ Main Menu
+
+ Publication types 
+
+ Journals 
+
+ Theses and dissertations 
+
+ Books and proceedings 
+
+ Research reports 
+
+ Log In
+
+ About 
+
+ Érudit 
+
+ Coalition Publica 
+
+ Open access 
+
+ Annual report 
+
+ Advanced Search 
+
+ EN 
+
+ Français
+
+ English
+
+ My Library 
+
+ Search 
+
+ Breadcrumb
+
+ Érudit 
+
+ Journals 
+
+ Enfances, Familles, Générations 
+
+ Homoparentalités, transparentalités et manifestations de la diversité familiale : les …
+
+ La gestion médicale de la parenté trans en France 
+
+ Articles thématiques 
+
+ La gestion médicale de la parenté trans en France Medical Management of Trans Parents in France 
+
+ Laurence
+ Hérault 
+
+ …more information 
+
+ Laurence
+ Hérault Chargée de recherche, Professeure d’anthropologie, Aix Marseille Université, CNRS, IDEMEC (France) herault@mmsh.univ-aix.fr 
+
+ Online publication: Dec. 9, 2015
+
+ URI 
+ 
+ https://id.erudit.org/iderudit/1034206ar
+ Copied An error has occurred 
+ DOI 
+ 
+ https://doi.org/10.7202/1034206ar
+ Copied An error has occurred 
+
+ An article of the journal
+ Enfances, Familles, Générations   
+
+ Number 23, Fall 2015 , p. 165–184 Homoparentalités, transparentalités et manifestations de la diversité familiale : les défis contemporains de la parenté 
+
+ Tous droits réservés © INRS-UCS, 2015 
+
+ Browse the articles in this issue
+
+ Transparentalité : vécus sensibles de parents et d’enfants (France, Québec)
+
+ [End of issue] Back to summary 
+ 
+ Article outline
+
+ Back to top 
+
+ Abstract 
+
+ 1. L’accueil des hommes trans dans les CECOS 
+
+ 2. La préservation de la fertilité des femmes trans 
+
+ 3. Penser l’usage du sperme autoconservé et ses dangers : l’identité en question 
+
+ Conclusion 
+
+ Notes 
+
+ Bibliographie 
+
+ Toolbox
+
+ Save Delete 
+
+ PDF Download 
+
+ Cite this article 
+
+ Share 
+
+ Abstracts
+
+ Résumé
+
+ Cet article s’intéresse à la manière dont les personnes trans sont accueillies dans les centres de PMA (procréation médicalement assistée) en France et plus largement à la façon dont la procréation des personnes trans est actuellement pensée et gérée dans le cadre médical français. On analysera ainsi comment les CECOS (centres d’étude et de conservation des oeufs et du sperme humains) ont pris en charge les couples formés par des personnes trans, avant d’explorer plus attentivement la manière dont est actuellement prise en compte la question de la préservation des gamètes avant la transition. On s’attachera notamment à saisir comment, dans ces différents cadres médicaux, la parenté transgenre, et plus particulièrement l’engendrement par des personnes trans, est constituée de façon problématique et spécifique alors même qu’elle ne se distingue en rien des modalités ordinaires de procréation en PMA. Il s’agira autrement dit de comprendre par quelles procédures et quels dispositifs elle est faite problème.
+
+ Mots-clés : 
+
+ transgenre, 
+
+ transsexuel, 
+
+ parenté, 
+
+ PMA, 
+
+ Académie de médecine, 
+
+ France
+
+ Abstract
+
+ This article investigates how trans people are received in assisted reproductive technology centres (ART) in France and, more broadly, how procreation among trans people is currently regarded and managed by French medicine. It will analyze how sperm and egg banks serve couples formed by trans people, before exploring more in depth how the issue of pre-transition gamete preservation is considered. It will endeavour to understand in particular how, in various medical contexts, transgender parents’ attempts to conceive are specifically viewed as problematic even though they differ in no way from ordinary ART methods. In other words, what are the procedures and methods that make it a problem?
+
+ Keywords: 
+
+ transgender, 
+
+ transsexual, 
+
+ parenting, 
+
+ ART, 
+
+ Académie de médecine, 
+
+ France
+
+ Article body
+
+ La parenté transgenre est une question nouvelle à la fois dans l’espace public et dans l’espace académique contemporains [1] . Même si elle n’est sans doute pas inédite, l’expérience transgenre de la parenté devient plus visible, et cette présence nouvelle a sans doute des raisons historiques qui tiennent, entre autres, à l’acceptation sociale des transitions et au développement des techniques de reproduction assistée. L’enquête menée en France par Alain Giami en 2009 montre que 48 % des personnes trans interrogées avaient des enfants, que 14 % souhaitaient en faire et 20 % en adopter (Giami, 2014). Mais ces projets parentaux, souvent envisagés désormais après la transition, ne rencontrent pas un égal accueil de la part des équipes médicales, que celles-ci soient spécialisées dans la prise en charge des « troubles de l’identité de genre » ou qu’elles se consacrent à la médecine reproductive. Pour un certain nombre de médecins, la parenté trans [2] , et plus particulièrement la question de l’engendrement par des personnes trans, semble poser problème. En France, l’accueil des hommes trans dans les CECOS (centres d’étude et de conservation des oeufs et du sperme humains [3] ) a entraîné une réflexion éthique notable depuis deux décennies, de même que les demandes d’autopréservation de sperme par des femmes trans suscitent actuellement la controverse. Cette question de l’engendrement trans est donc un lieu intéressant pour essayer de comprendre la manière dont le médical et le politique se saisissent de ces « nouvelles » formes de parenté. La question n’étant pas tant de savoir quels sont les problèmes posés par la parenté trans mais plutôt d’essayer de saisir comment celle-ci est faite problème.
+
+ 1. L’accueil des hommes trans dans les CECOS
+
+ Contrairement à ce que l’on pourrait croire, l’accueil de personnes trans dans les CECOS pour une procréation médicalement assistée (PMA) n’est pas récent, bien qu’il ait émergé récemment hors de la stricte sphère des équipes médicales concernées. En l’absence d’enquête précise, il est difficile d’avoir une idée, même simplement quantitative, des demandes d’aide à la procréation émanant de personnes trans en France. Les données dont nous disposons sont celles qui proviennent de l’équipe de l’hôpital Cochin à Paris, qui a publié récemment ses résultats [4] . Cette équipe a reçu 86 demandes [5] émanant de couples formés d’un homme trans et d’une femme cisgenre [6] . Selon Pierre Jouannet (2014), la première demande, faite en 1987, a été traitée comme celles des autres couples reçus habituellement ; elle a permis la naissance de deux filles, aujourd’hui âgées d’une vingtaine d’années. La deuxième demande, faite en 1990, a été également acceptée, mais le couple s’est séparé avant qu’une grossesse soit amorcée. À partir de 1995, les demandes se sont multipliées, et l’équipe s’est posé la question de la prise en charge de ces couples. Une première réflexion a été conduite à l’interne, puis au sein de la Fédération des CECOS, et enfin en 1998-1999 dans le cadre de l’Espace éthique de l’Assistance publique-Hôpitaux de Paris (AP-HP). À l’issue de ce processus, un protocole particulier a été mis en place pour l’accueil de ces couples : « à l’entretien psychologique habituel est ajouté un deuxième entretien avec un psychiatre ayant l’expérience du transsexualisme. Et il est proposé aux futurs parents un suivi clinique prospectif des enfants à naître, qui est organisé dans le service de pédopsychiatrie de l’Hôpital Necker-Enfants malades » (Chiland et al., 2013 : 102).
+
+ Selon l’historique retracé par Pierre Jouannet, on peut donc distinguer deux phases dans la prise en charge des personnes trans au CECOS de Cochin : une première étape où les demandes sont peu nombreuses et traitées au cas par cas, et une autre où elles se multiplient et donnent lieu à un questionnement éthique puis à la mise en place d’un protocole spécifique, cette deuxième étape s’inscrivant en outre dans le contexte de la loi de bioéthique de 1994 [7] . Deux éléments paraissent donc distinguer ces deux temps : d’une part, le volume des demandes (puisqu’on passe de cas « anecdotiques » à des cas qui, tout en restant très minoritaires, semblent « faire nombre ») et, d’autre part, l’encadrement bio-médico-éthique des demandes, puisqu’au cours des années 1990, la réflexion éthique a débouché sur un protocole particulier (qui s’impose aux personnes trans en plus des dispositions légales et générales qui s’appliquent à tous les demandeurs). Ce protocole est, par ailleurs, pensé comme étant expérimental, c’est-à-dire qu’il doit permettre à moyen ou long terme la mise en place d’une prise en charge éclairée, éventuellement généralisable : 
+
+ Le suivi de l’enfant ou des enfants à naître proposé lors des premiers entretiens visait à apprécier les conséquences bénéfiques ou néfastes de ce programme, et soit l’étendre et convaincre nos collègues réticents d’ouvrir un tel programme dans leur Cecos si les résultats étaient favorables, soit le stopper si les résultats étaient néfastes 
+
+ Chiland et al., 2013 : 103 
+
+ Il semble important d’examiner ces deux éléments centraux du processus d’accueil. La question du nombre des demandes est à la fois secondaire et fondamentale, car on voit bien comment les médecins ne sont guère en peine devant un cas singulier : s’il a probablement suscité une discussion à l’intérieur de l’équipe médicale, son traitement a abouti à une décision qui s’est faite sans doute essentiellement à partir de la situation des intéressés, c’est pourquoi Pierre Jouannet dit qu’ils ont été traités « comme les autres couples ». Leur cas a été pris en considération dans sa singularité même, ce qui amène à penser que la prise en charge est envisagée ici comme pionnière : elle est une tentative face à une situation inédite. La deuxième demande s’inscrit dans le même processus : elle n’est qu’une autre version d’une situation déjà rencontrée, et la première expérience acquise permet de la traiter d’une manière semblable et peut-être plus assurée. Les demandes ultérieures, qui sont dites multipliées, changent la donne. Derrière les individus, il semble qu’on perçoive alors une « population » : les nouvelles requêtes ne sont plus lues comme celles de couples où le partenaire masculin est dans une situation inédite (il n’est pas stérile pour les raisons « habituelles ») mais plutôt comme émanant d’un groupe de personnes pour lesquelles la PMA est un recours évident lorsqu’elles souhaitent être parents. Autrement dit, elles ne sont plus perçues comme des demandes singulières, mais comme des « demandes d’espèce » en quelque sorte. C’est sans doute pourquoi les ressources (réflexives, délibératives, expérientielles, etc.) propres à l’équipe ne semblent plus suffire pour les traiter : il faut une mobilisation à l’extérieur et en plus grand nombre pour établir une ligne de conduite assurée. On passe alors d’une prise en charge pionnière conçue comme une « procédure tentative » (éventuellement renouvelée) à une prise en charge expérimentale où l’essai (ce qui est tenté) est inscrit dans une série d’épreuves visant à vérifier et contrôler la démarche en vue d’une éventuelle généralisation. Il est donc important de comprendre ce qu’impose le cadre bio-médico-éthique dans ce contexte, à la fois dans sa dimension légale et dans sa dimension spécifique.
+
+ 1.1. Produire éthiquement l’infertilité des hommes trans
+
+ La loi de bioéthique de 1994 définit, entre autres, les conditions d’accès à la PMA : la demande doit émaner d’un couple hétérosexuel, dont l’infertilité a été médicalement diagnostiquée ; ce couple doit en outre être marié ou justifier d’au moins deux ans de vie commune et être en âge de procréer. Pour répondre à cette contrainte légale, le CECOS de Cochin n’a pris (et ne prend) en considération que les demandes des couples où le changement d’état civil de l’homme a été prononcé. Cette décision renvoie cependant à des aspects implicites qu’il est important d’explorer. Pour les saisir, il faut d’abord rappeler qu’en France, la procédure de modification du sexe à l’état civil se fonde sur une jurisprudence établie au début des années 1990 par la Cour de cassation, qui impose les critères suivants pour faire droit à la demande : présenter un syndrome de transsexualisme et avoir subi un traitement médico-chirurgical induisant des modifications corporelles irréversibles (irréversibilité associée, le plus souvent, par les juges à l’ablation des organes génitaux d’origine). En conséquence, la majorité des hommes trans ayant changé d’état civil ont subi, de façon volontaire ou contrainte, une hystérectomie et une ovariectomie. Ces dernières années cependant, l’exigence de stérilisation pour l’obtention du changement d’état civil n’est plus aussi systématique (pour diverses raisons qu’il serait trop long de développer ici), si bien que certains hommes n’ont pas subi les opérations citées. Cela a d’ailleurs été le cas de deux hommes ayant fait une demande de PMA avec leur compagne. Contrairement aux autres, ces hommes n’étaient donc pas « irréversiblement » stériles, mais la testostérone qu’ils prenaient régulièrement les rendait bien tels ; en outre, ils ne pouvaient de quelque manière que ce soit faire un enfant avec leur partenaire. En ce sens, ils répondaient bien à l’exigence légale d’une infertilité médicalement diagnostiquée, ce que l’équipe médicale ne semble d’ailleurs pas avoir remis en question. Pourtant, celle-ci a été semble-t-il perturbée par leur situation au point de leur demander de subir une hystérectomie-ovariectomie (ce qu’ils ont fait apparemment sans problème) avant d’entamer l’IAD qu’ils souhaitaient. On voit donc l’hystérectomie-ovariectomie devenir ici, très paradoxalement, un critère d’inclusion dans le protocole de PMA, et ce, bien au-delà du simple cadre légal : « le deuxième critère d’inclusion dans le protocole était lié au sens de la démarche faite par cet homme pour devenir père. Afin d’éviter toute ambiguïté ou incohérence, il nous a semblé souhaitable qu’il y ait eu une ovariectomie et une hystérectomie afin d’éviter de mener un projet de maternité similaire à celui de Thomas Beatie » (Jouannet, 2014 : 119). L’idée d’incohérence et d’ambiguïté évoquée ici ainsi que la mention de l’expérience de Thomas Beatie [8] renvoient à la manière dont sont appréhendées les capacités d’engendrement des corps trans, et plus globalement à la manière dont sont pensées les personnes trans. Ces ovaires et ces utérus, pourtant non fonctionnels et a priori non mobilisés, dont on exige l’ablation sont aussi à replacer, me semble-t-il, dans le cadre de la représentation pseudo-thérapeutique habituelle de la PMA (Théry, 2010). Alors même que cette médecine de la reproduction est très largement palliative (car loin de guérir des stérilités ou des infertilités individuelles, elle s’attache plutôt à permettre à des personnes ne pouvant procréer ensemble d’avoir les enfants qu’elles souhaitent), elle s’est depuis l’origine pensée comme thérapeutique, ce que la loi a d’ailleurs entériné. Il se pourrait que l’injonction de stérilisation faite aux hommes trans s’inscrive dans une tentative de préservation de ce modèle pseudo-thérapeutique, au moment même où sa caractérisation est remise en question par de multiples revendications (accès des femmes seules, des couples de même sexe, des femmes ménopausées, etc.). Quoi qu’il en soit, ces réticences et ces exigences des médecins invitent à interroger plus particulièrement l’encadrement bio-médico-éthique des personnes trans demandeuses de PMA. 
+
+ 1.2. Éthique et pathologisation des hommes trans
+
+ De manière générale, les réticences qui sont à l’origine de la réflexion médico-éthique qui s’est développée dans les années 1990 renvoient toutes, d’une part, à la conception pathologique des personnes trans et, d’autre part, à la mise en doute de leur capacité à s’inscrire de manière adéquate dans la filiation et la parentalité :
+
+ Lors des réunions […], les réticences exprimées à l’égard du projet ont pu être levées. La première réticence portait sur la nature du transsexualisme considéré par certains comme une psychose. L’un des participants (Chiland) souligna que, si les transsexuels posaient un problème par le refus de leur sexe biologique en l’absence de tout signe de différences du développement du sexe telles que sont capables de les identifier les moyens actuels d’investigation, ils n’étaient ni de « grands psychotiques », ni des schizophrènes. Une deuxième réticence tenait à l’interrogation sur la capacité des transsexuels FM de se conduire en père ; il fut dit qu’on pouvait augurer au contraire qu’ils pourraient assumer cette fonction à partir des constats faits lors d’une enquête catamnestique (Chiland, 2011) : des transsexuels FM revus longtemps après la transformation hormono-chirurgicale et ayant épousé ou vivant avec des femmes déjà mères se sont révélés des beaux-pères compétents et bien acceptés de leurs beaux-enfants 
+
+ Chiland et al., 2013 : 101 
+
+ Ces réticences ne sont pas propres à l’équipe de Cochin : on les retrouve dans les quelques textes publiés sur la question, notamment celui proposé par Brothers et Ford du Centre de médecine reproductive de l’Université de Bristol (2000). Elles sont également au centre de la controverse qui oppose Patricia Baetens (Centre de médecine reproductive de Bruxelles) et Petra De Sutter (Centre de médecine reproductive de Gand) sur la question des modalités d’accès des hommes trans à la PMA (Baetens et al., 2003 ; De Sutter, 2003). La première étape de toutes ces démarches éthiques s’ouvre ainsi sur une discussion concernant la caractérisation du trouble de l’identité de genre (TIG) [9] et vise à le distinguer de troubles psychopathologiques, notamment la psychose, comme le fait la psychiatre mobilisée par l’équipe de Cochin. On voit bien cependant que le propos de cette dernière, pour rassurer les autres médecins et intervenants, consiste moins à dépathologiser la situation des personnes trans (elles ne présentent pas de troubles) qu’à établir un diagnostic différentiel (le « problème » du transsexualisme ne doit pas être confondu avec d’autres psychopathologies). On comprend alors que la consultation supplémentaire avec un spécialiste du transsexualisme prévue dans le protocole expérimental proposé a pour objectif d’établir ou de réaffirmer ce diagnostic préalable : il faut s’assurer que ces personnes qui ont réalisé une transition et qui de ce fait ont déjà subi diverses évaluations diagnostiques avant d’accéder aux opérations présentent bien un TIG. C’est aussi ce que propose de manière plus explicite l’équipe de Bruxelles en se référant à l’idée développée dans les années 1970 d’un « vrai transsexualisme » : « consequently, it could be argued that a multidisciplinary team of specialists should carry out the diagnosis for gender identity disorder in order to be sure that DI [donor insemination] is requested by true transsexuals » (Baetens et al., 2003 : 282). Autrement dit, comme dans le cas du changement d’état civil, on peut affirmer que l’attestation par un spécialiste de la caractérisation psychiatrique des hommes trans est nécessaire pour obtenir une aide médicale à la procréation ; ce que montre également cette lettre d’un directeur de CECOS à un psychiatre spécialisé dans les TIG [10]  : 
+
+ Tu connais parfaitement bien Camille Coutin [11] que tu as très longtemps suivi pour transsexualisme. Ce patient vit depuis de longues années maritalement et souhaite une insémination artificielle avec sperme de donneur. La position des CECOS était jusqu’à maintenant extrêmement négative. Elle semble évoluer sous l’impulsion de P. Jouannet. Nous entamons localement une réflexion sur ce problème et ton opinion me serait particulièrement utile concernant ce malade que tu connais bien 
+
+ lettre du 19 oct. 1999 
+
+ On voit bien ici les effets concrets de la définition psychopathologique de la transidentité : l’intervention d’un psychiatre devient un élément clé de l’ensemble des projets de vie des personnes trans, qu’il s’agisse de réaliser une transition, de changer d’état civil ou bien encore de faire un enfant. En ce sens, on peut dire que la force du TIG tient moins dans un consensus et une stabilité définitionnelle (puisqu’il est l’objet de controverses renouvelées depuis plusieurs décennies) que dans la manière dont il s’impose, avec régularité et constance, dans la vie des intéressés. Par ailleurs, ce rôle de sésame du TIG donne au psychiatre spécialisé un pouvoir considérable sur les vies trans : il est à la fois l’allié investi (qui a l’autorité nécessaire pour rendre possibles les projets élaborés) et le gardien attentif (qui a de fait un droit de regard sur ces mêmes projets). En alliés investis, ces psychiatres vont être, à l’instar de C. Chiland, des rouages essentiels de l’ouverture de la PMA aux hommes trans, que ce soit individuellement ou collectivement, comme le montre d’ailleurs la réponse du psychiatre interpellé dans la lettre citée précédemment : 
+
+ Je suis très content de l’avis que tu me demandes concernant Camille Coutin, car cela me permet de pouvoir exprimer mon opinion par rapport à l’insémination des transsexuels. J’ai commencé à suivre Camille Coutin en 1989. [Suit une description de son cas et du suivi réalisé.] Je pense qu’à l’heure actuelle, s’il demande une insémination nous sommes dans un cas de sécurité bien plus grand que dans celui de nombreux couples. Ce qui me gêne beaucoup dans la position des CECOS vis-à-vis de cette insémination c’est de remettre en question tout un travail préalable qui a abouti à la décision d’intervention [hormono-chirurgicale]. […] Si la position du CECOS veut bouger, certains d’entre nous qui travaillons sur les transsexuels pourrions participer à une réunion de travail avec le CECOS sur le transsexualisme. Cela serait sûrement fort « fertile ». Je te remercie de me tenir au courant de la suite des évènements et de la décision qui a été prise pour Camille
+
+ lettre du 22 oct. 1999 
+
+ Cette position de facilitateur n’est pas détachable de celle de gardien attentif : les deux vont de pair, comme le suggère le rôle de Colette Chiland dans le protocole de Cochin, où elle intervient dans les groupes de discussion pour lever certaines craintes de ses collègues, mais participe aussi à l’évaluation des demandes des couples et à celle de leurs enfants conçus par IAD. Car les réticences ne concernent pas uniquement, comme nous l’avons vu, le transsexualisme des pères en soi, mais également les effets de celui-ci sur les enfants comme le suggère le texte de Patricia Baetens, qui insiste sur la nécessité d’un suivi des enfants [12]  : « Transsexual parenthood raises a lot of questions about the consequences for the children. Follow-up research of the children raised in households with a transsexual father is therefore essential » (Baetens et al., 2003 : 285). En ce domaine, d’ailleurs, les réticences et les questions s’expriment de manières diverses, mêlant des interrogations sur la capacité paternelle de ces hommes (seront-ils des pères ? de bons pères ?) et sur le développement psycho-affectif et l’inscription sexuée de leurs enfants (seront-ils des garçons et des filles normaux ?). Le suivi mis en place à Cochin pour y répondre est dit qualitatif : il propose des rencontres avec les parents et leur enfant tous les deux ans, rencontres comprenant trois entretiens (avec une psychiatre spécialisée en TIG, une psychologue et une psychomotricienne), une observation des enfants (en interaction avec leurs parents puis seuls) par la psychologue et la psychomotricienne, pendant laquelle sont proposés des jeux interactifs et la réalisation de dessins. Ce suivi, qui est loin d’être anodin puisqu’il met les enfants directement en scène et en situation de consultation, a semble-t-il suscité l’adhésion des couples [13] , bien qu’on puisse s’interroger sur les raisons de celle-ci : volonté de participer à l’expérience pour faciliter l’ouverture de l’ensemble des CECOS aux personnes trans ? Ou bien occasion de soutien dans un rôle parental non encore expérimenté ? Ou encore perspective d’une démarche facilitée en cas de nouvelle demande d’IAD ? Quoi qu’il en soit, c’est bien la capacité paternelle des hommes qui est l’objet de l’attention ainsi que les effets sur les enfants de la pathologie qui serait la leur.
+
+ 1.3. La parentalité des hommes trans à l’épreuve des normes sexuées et de la nosographie psychiatrique
+
+ L’exposé des résultats de l’équipe de Cochin est d’emblée « rassurant » : « Les principaux enseignements de cette étude montrent que les pères transsexuels se conduisent en “nouveaux pères” attentifs et compétents, et que les enfants se développent bien ; en particulier, ils n’ont pas de troubles de l’identité sexuée » (Chiland et al., 2013 : 103). Quand on entre dans le détail de l’évaluation, on voit même que ces hommes sont des pères à la page sachant combiner « une conception traditionnelle et une conception moderne du père : le père pense qu’il doit exercer l’autorité, mais, en même temps, il est un “nouveau père” qui s’occupe beaucoup de son bébé. Lors d’un entretien, nous avons vu l’un d’eux apaiser son petit enfant avec une tendresse et un talent impressionnants » ( ibid . : 109). Il est également mentionné qu’ils s’inscrivent dans la paternité de façon exclusive et qu’il n’y a, pour eux et pour leurs enfants, aucune ambiguïté quant à leur rôle parental : « en aucun cas, le père n’est une seconde mère. […] Les jeux du père avec son enfant sont différents des jeux de la mère avec l’enfant. […] l’enfant ne confond absolument pas père et mère » (id.). En ce qui concerne les enfants, le tableau semble également rassurant : ces enfants sont dits normaux et cette normalité est soigneusement détaillée – « leur développement psychomoteur est normal », « leur développement cognitif se situe dans la norme » ( ibid . : 115) – et réitérée notamment pour ce qui concerne la sexuation :
+
+ Pour l’équipe psychologique qui les a vus, ce fut un plaisir de recevoir des enfants « normaux », tels qu’on souhaite en avoir, sans retard de développement, sans symptômes inquiétants, qui sont vraiment des garçons ou des filles sans […] dysphorie de genre.
+
+ […] Pour tous, nous notons une bonne représentation du schéma corporel, la différenciation des sexes et des générations est bien perçue. 
+
+ […] Quant à l’identité sexuée, nous avons vu des petits garçons et des petites filles, et non pas des androgynes ou des transgenres. Aucun refus de porter des jupes pour les filles, aucun désir de mettre des robes chez les garçons. Ils jouent avec des enfants des deux sexes ou de leur sexe, avec les jouets considérés comme appropriés à leur sexe dans notre culture 
+
+ ibid.  : 114-115 
+
+ Ce qui frappe ici, c’est bien évidemment l’idée exprimée, en filigrane, d’une possible diffusion de la « pathologie » paternelle : les enfants des personnes trans sont apparemment suspectés de pouvoir présenter des « troubles » de l’identité sexuée plus aisément que les autres. C’est pourquoi leur évaluation s’intéresse particulièrement aux comportements qui sont censés être des marqueurs d’androgynie ou de transgenrité selon la nosographie psychiatrique (vêtements portés, jouets privilégiés, inscription dans les groupes de pairs, etc.). Autrement dit, les enfants sont non seulement soumis ici à un contrôle sexué normatif, mais également mis en situation d’être les garants de la « normalité sexuée » de leurs parents, et particulièrement de leur père. Et l’on peut penser que, même si rien ne leur est dit explicitement de l’enjeu de cette évaluation régulière, le fait ne leur échappe pas que des médecins sont en train de questionner la qualification parentale de leurs parents et notamment la manière dont leur père est père. Cette évaluation suggère également que la qualité parentale des hommes trans tient essentiellement dans leur capacité à s’inscrire dans les normes sexuées [14] . Et ce respect attendu est fondamental, comme on va le voir, pour décider de la suite à donner au programme expérimental de Cochin.
+
+ 1.4. De l’expérimentation au protocole : essentialiser et repathologiser les personnes trans
+
+ Si les résultats obtenus par l’équipe de Cochin sont « rassurants », comme on l’a vu, ils sont cependant indirectement relativisés : derrière le constat de la normalité des enfants et de leur père pointe en effet de façon implicite la conception du vrai transsexualisme, comme le suggère cette description qui distingue comme deux espèces les transgenres des transsexuels [15]  :
+
+ Les hommes d’origine transsexuelle qui viennent demander un enfant ne mettent aucunement en avant une « trans-identité », comme le font parfois les militants transgenres. […] ils ne rejettent pas la distinction de genre, ils n’en demandent pas la suppression, ils veulent être reconnus et traités comme appartenant à l’autre genre. Ces transsexuels qui arrivent jusqu’au projet d’enfant et jusqu’au Cecos sont parmi les transsexuels les plus à l’aise avec eux-mêmes, les mieux insérés socialement. Ils assument pleinement leur transsexualisme et leur transition, ils ne les crient pas sur les toits, mais n’en ont pas honte non plus 
+
+ Chiland et al., 2013 : 107 
+
+ Cette mise en perspective n’est pas anodine puisqu’elle amène à penser qu’il n’y a pas simplement une différence entre des gens qui ont réalisé une transition (les trans) et ceux qui n’en ont pas fait (les cisgenres), différence dont le protocole expérimental se proposait de cerner les effets ; il y aurait plutôt une différence entre les trans eux-mêmes. On voit apparaître à travers cette description une catégorie de personnes trans qui sont de bons candidats à la PMA : les personnes qui sont transsexuelles (entendre ici « atteintes d’un TIG dûment diagnostiqué ») et qui s’inscrivent semble-t-il de fait dans une représentation normalisée de la sexuation – celles-là font des enfants normaux et peuvent donc être acceptées dans les CECOS. Autrement dit, si les hommes reçus sont de « vrais bons pères », c’est parce qu’ils sont aussi de « bons vrais transsexuels ». Ainsi, cette distinction implicitement établie entre de bons et de mauvais candidats trans, qui est plus de l’ordre de l’ a priori que le résultat de l’expérience menée, semble justifier la pérennisation du protocole : il faut être capable de sélectionner les candidats, c’est-à-dire de les diagnostiquer. Contrairement à ce qu’on aurait pu attendre (du fait des résultats très positifs de l’évaluation après plus d’une douzaine d’années de fonctionnement), ce n’est pas, en effet, l’arrêt de l’expérimentation qui est envisagé mais plutôt sa pérennisation. Autrement dit, cette expérience n’aboutit pas à la proposition d’un traitement non spécifique des personnes trans ni même à l’arrêt du suivi des enfants (suivi dont les effets sur ces derniers ne sont pas discutés), mais bien au contraire à la validation d’une modalité de traitement particulière des personnes trans en PMA. En une décennie, l’objectif initial semble ainsi s’être transformé : il ne s’agit plus tant de lever des réticences multiples et de favoriser l’ouverture de la PMA aux personnes trans que de pérenniser, voire de généraliser une prise en charge discriminante de personnes dont on dit pourtant qu’elles font famille normalement. 
+
+ On voit bien ici comment la parenté trans est constituée en problème, et ce, de manière pérenne : après avoir été définie comme un objet légitime d’interrogation éthique du fait de la caractérisation pathologique des hommes trans et des risques augurés pour leur progéniture, elle a donné lieu à une quête expérimentale qui s’est transformée en protocole de soins. C’est au fond exactement ce que Petra De Sutter et l’équipe de l’hôpital de Gand en Belgique ont souhaité éviter dès le début des années 2000, en refusant d’emblée toute démarche spécifique concernant les personnes trans, et notamment tout supplément psychiatrique. Faisant face à des couples semblables à ceux de Cochin, elles ont pensé leur intervention sur une autre base : «  we never asked whether these couples had or had not the right to be parents. We strongly believe they have the same basic right to parenthood as any other heterosexual couple in need of donor semen. Psychological counselling should therefore in our view be directed to the same issues as in any other couple » (De Sutter, 2003 : 382). Autrement dit, les principes éthiques de Gand centrés sur la non-discrimination ont des effets à long terme très différents de ceux de la réflexion médico-éthique de Cochin : les premiers déspécifient et déstigmatisent d’emblée les hommes trans demandeurs d’IAD en en faisant des candidats ordinaires, quand la seconde participe à constituer la caractérisation pathologique de ces hommes et de leurs enfants en les inscrivant définitivement dans un protocole de soins particulier. Suivre ces hommes aussi attentivement, c’est signaler qu’ils sont bien atteints d’un TIG (qui les identifierait durant toute leur existence) et que leurs enfants sont susceptibles de l’être également (ce qui justifie leur surveillance à long terme). Leur transition n’est pas seulement ici un élément de leur histoire à prendre en considération parce qu’elle induit leur stérilité, et donc la manière dont ils peuvent constituer leur famille par un recours à l’IAD ; elle devient au contraire, grâce à une quête médicale exigeante et réitérée, une véritable propriété personnelle et même familiale. 
+
+ 2. La préservation de la fertilité des femmes trans
+
+ La mission des CECOS ne se limite pas à la gestion des gamètes entre couples infertiles et donneurs : elle comprend aussi la préservation de la fertilité « pour des hommes, des femmes, des enfants, qui vont avoir un traitement ou une circonstance présentant un risque pour la fertilité future [16]  ». Des femmes trans qui suivent des traitements hormonaux ou souhaitent réaliser une vaginoplastie [17] ont donc récemment fait appel à des CECOS pour la préservation de leur sperme [18] . Ces demandes s’inscrivent dans un contexte international où, depuis une décennie, la santé reproductive des personnes trans et notamment la préservation de leur fertilité avant traitement hormonal et opération est prise en considération, comme le suggèrent les standards de soins de la World Professional Association for Transgender Health (WPATH) [19] , qui encouragent l’information des patients et la mise en oeuvre de la conservation des gamètes :
+
+ Because feminizing/masculinizing hormone therapy limits fertility […], it is desirable for patients to make decisions concerning fertility before starting hormone therapy or undergoing surgery to remove/alter their reproductive organs. […] Health care professionals – including mental health professionals recommending hormone therapy or surgery, hormone-prescribing physicians, and surgeons – should discuss reproductive options with patients prior to initiation of these medical treatments for gender dysphoria. […] 
+
+ MtF patients, especially those who have not already reproduced, should be informed about sperm preservation options and encouraged to consider banking their sperm prior to hormone therapy. […] 
+
+ Reproductive options for FtM patients might include oocyte (egg) or embryo freezing 
+
+ WPATH, 2007 : 50-51 
+
+ En ce qui concerne l’accueil de ces demandes d’autoconservation en France, les données sont là encore très parcellaires. En 2008, Pierre Jouannet [20] disait avoir reçu quelques demandes de préservation de sperme et les avoir refusées, s’interrogeant sur la signification de cette démarche et sur ses conséquences si le sperme était utilisé (Leprince et Taurisson, 2008). En 2013, Jean-François Guérin [21] signalait, dans une séance du comité médical et scientifique de l’Agence de la biomédecine, que « les centres sont confrontés, depuis quelques mois, à une demande croissante d’autoconservation de leurs gamètes par des individus, avant leur changement de sexe » (Agence de la biomédecine, 2013 : 8). Enfin, en 2014, l’Académie de médecine mentionnait une quinzaine de demandes faites auprès des CECOS au cours des dernières années. Il y aurait donc actuellement un petit nombre de demandes, envisagé là encore en termes de multiplication, et ayant conduit très récemment à une réflexion médico-éthique, selon un processus assez différent cependant de ce qu’on vient de voir pour l’accueil des couples en demande d’IAD. Il semble en effet que les CECOS sollicités ont refusé systématiquement les demandes d’autoconservation de sperme des femmes trans, si bien que les intéressées ont interpellé diverses instances pour tenter de remédier à cette fin de non-recevoir : des courriers ont été ainsi envoyés au président de la Fédération française des CECOS, au ministre de la Santé, à ceux de la Justice et des Droits des femmes, ainsi qu’au Défenseur des droits [22] . Des associations se sont également mobilisées pour soutenir le recours de ces femmes auprès des mêmes instances, envisageant les refus des CECOS en termes de discrimination :
+
+ Les personnes Trans dont la prise en charge médicale est susceptible d’altérer la fertilité, ou dont la fertilité risque d’être prématurément altérée [souligné par les auteurs] (loi L2141-11), souhaitant dans ces conditions la conservation de leurs gamètes, voient leurs demandes rejetées et en tout état de cause suspendues à la délibération d’une commission.
+
+ Ces personnes subissent donc un traitement différencié et défavorable pour la seule raison qu’elles sont Trans. Cela s’appelle une discrimination. De plus, cette discrimination n’étant prévue dans aucune loi, décret ou arrêté, elle est illégale (Association Arc en Ciel Toulouse, lettre au président des CECOS, 2013, qui m’a été transmise lors de l’enquête de terrain).
+
+ Cette interprétation se fonde, comme mentionné, sur l’article L 2141-11 du Code de la santé publique [23] , mais également sur la pratique ordinaire des CECOS, qui présentent ainsi leur mission en la matière :
+
+ Quand doit-on envisager une préservation de la fertilité chez l’homme ?
+
+ En cas de traitement médical pouvant altérer de manière transitoire ou définitive la production de spermatozoïdes, comme par exemple les chimiothérapies ou les radiothérapies.
+
+ En cas d’intervention chirurgicale pouvant modifier l’éjaculation normale des spermatozoïdes : sur la prostate, le col de la vessie, certains curages ganglionnaires. 
+
+ En cas de vasectomie, c’est-à-dire une stérilisation chirurgicale à visée contraceptive.
+
+ Quand disposer de sperme congelé augmente les chances de réalisation d’une assistance médicale à la procréation [24] . 
+
+ Cette mobilisation a bien sûr interpellé le Défenseur des droits, qui a répondu aux doléances en proposant une saisine de différentes instances médicales :
+
+ Je reste très attentif à la question que vous avez soulevée. C’est pourquoi, j’ai décidé de saisir le Comité Consultatif National d’Ethique [25] , l’Académie de Médecine [26] , le Conseil national de l’Ordre des Médecins et l’Agence de Biomédecine [27] . Je souhaiterais connaître leur position concernant la demande des personnes transsexuelles qui souhaitent procéder à une autoconservation de leurs gamètes pour éventuellement pouvoir les réutiliser après leur transition dans un projet de parentalité en couple.
+
+ Je considère que cette question soulève d’autres interrogations liées à la problématique de l’assistance médicale à la procréation et aux nouvelles demandes de la société qui vont au-delà des raisons médicales prévues par les textes de loi. Sur ce dernier point, il me semble important que ces institutions mènent une réflexion approfondie sur le rôle de la médecine par rapport aux demandes de la société, quand celles-ci ne sont pas liées à une maladie
+
+ lettre du Défenseur des droits datée du 23 juill. 2013, qui m’a été transmise lors de l’enquête de terrain 
+
+ On voit que, dans sa réponse, le Défenseur des droits traduit la plainte initiale dans un registre autre que celui de la simple discrimination dans lequel il était porté à sa connaissance. Il lui est possible de le faire parce qu’il ne limite pas la question à la préservation des gamètes, mais l’ouvre sur la question de leur usage futur. Cet élargissement est assez inhabituel, car l’accord de préservation, que ce soit dans la loi ou dans la pratique, n’est pas dépendant de clauses particulières quant à l’usage qui en serait fait ultérieurement. Dans l’univers de l’autoconservation, l’usage des gamètes n’apparaît qu’en tant que simple virtualité (c’est une possibilité offerte) qui sera – mais seulement quand la question se posera – rapportée aux conditions définies par la loi et aux capacités médicales du moment. Quoi qu’il en soit, le Défenseur des droits peut, ce faisant, inscrire la requête dans un nouveau cadre, celui de l’éthique médicale, et la sortir (provisoirement ?) du cadre primaire de l’expertise juridique. La plainte ainsi recadrée redéfinit à la fois le lieu de l’interrogation et la façon de poser celle-ci : ce n’est plus le refus qu’il convient d’examiner (est-il juste ?) mais bien plutôt la demande d’autoconservation (est-elle appropriée ?) ; ce n’est plus une question de légalité (le refus constitue-t-il une discrimination ?) mais bien plutôt une question de légitimité (la demande ne s’inscrit-elle pas dans le cadre d’une médecine de convenance ?). Dès lors, la mobilisation des plus hautes instances médicales devient logique. L’Académie de médecine, directement sollicitée, a été l’une des premières à répondre à la saisine du Défenseur des droits en mettant en place un comité ad hoc [28] qui a discuté et auditionné de l’automne 2013 au mois de janvier 2014, et a rendu public son rapport en mars de la même année [29] . Ses conclusions abordent deux points qui sont particulièrement intéressants pour comprendre comment la parenté trans est faite problème : le premier concerne le caractère médical de l’indication d’autoconservation, le second concerne l’usage ultérieur des gamètes et l’éventuelle incohérence identitaire qu’il serait censé générer.
+
+ 2.1. Faire de la stérilité trans une affaire de convenance
+
+ Selon le rapport de l’Académie, « il n’y a pas d’indication médicale à procéder à une autoconservation de gamètes ou de tissus germinaux chez les personnes transsexuelles » (Académie nationale de médecine, 2014 : 14). L’argument est double : il concerne d’une part le caractère réversible de l’infertilité due au traitement hormonal ainsi que le caractère volontaire de la stérilité chirurgicale, et d’autre part l’existence d’autres possibilités de devenir parent, par le recours à une IAD :
+
+ Au total, si les interventions chirurgicales aboutissant au retrait des gonades et de l’utérus sont incontestablement stérilisantes, il n’y a pas d’arguments documentés démontrant que les traitements hormonaux utilisés chez les personnes changeant de sexe entraînent des modifications irréversibles de la gamétogenèse et empêchent la fertilité de pouvoir s’exprimer naturellement ultérieurement. Il n’y a donc pas d’indication médicale évidente pour préserver les gamètes ou les tissus germinaux en l’absence de stérilisation chirurgicale
+
+ ibid.  : 7 
+
+ Les personnes transsexuelles devraient être informées des conséquences des traitements médicaux qu’elles reçoivent sur leur fertilité. En cas de projet parental éventuel, la prise en charge médicale des parcours de transition devrait exclure des actes de stérilisation chirurgicale et devrait favoriser des traitements hormonaux compatibles avec une réversibilité de la gamétogénèse. Dans ces conditions, il n’y a pas d’indication médicale à procéder à une autoconservation de gamètes ou de tissus germinaux chez les personnes transsexuelles
+
+ ibid.  : 14 
+
+ Si la personne choisit malgré tout de subir une stérilisation chirurgicale, elle devrait être informée des autres possibilités de devenir parents, notamment grâce à un don de gamète, en cas de stérilité
+
+ ibid.  : 13 
+
+ On comprend donc qu’en cas de traitement hormonal, l’infertilité n’étant pas irréversible, il n’y a pas lieu de conserver préalablement du sperme, l’arrêt du traitement hormonal pouvant permettre une récupération de la fertilité nécessaire à un éventuel projet parental. Parallèlement, la recommandation d’une information éclairée portant uniquement sur le caractère irréversible de la stérilité associée à la chirurgie génitale dessine une alternative quelque peu tranchée : à celles qui manifesteraient le souhait de fonder un jour une famille, seule l’hormonothérapie serait recommandée ou prescrite ; à celles qui réaliseraient une vaginoplastie en toute connaissance de cause, la stérilité serait le prix à payer pour ce choix librement consenti. On le voit, ces deux arguments font entrer l’autoconservation du sperme des femmes trans dans le cadre d’une médecine de convenance : elle viserait le confort et le bien-être personnel et ne serait pas, de ce fait, médicalement justifiée. Cet argument s’appuie sur une dépathologisation implicite, et quelque peu inattendue, du transsexualisme : la transition elle-même est présentée ici comme une convenance plutôt que comme une option thérapeutique. On peut suivre cette voie qui définit à la fois l’hormonothérapie et la chirurgie génitale trans comme des choix personnels, mais cette caractérisation va à l’encontre de la conception et de la pratique médicales des équipes hospitalières françaises (dûment représentées dans la commission). Dans ces services spécialisés, les prescriptions hormonales et les interventions chirurgicales proposées aux personnes trans ne sont pas réalisées parce que des consultants les demandent, mais parce qu’un diagnostic de transsexualisme a été établi et qu’elles constituent des indications thérapeutiques capables de soulager la souffrance des consultants. C’est aussi la conception développée dans le rapport de la Haute Autorité de santé sur la prise en charge du transsexualisme en France (HAS, 2009). On voit cependant que l’Académie de médecine privilégie une autre option quand elle s’intéresse à l’autoconservation du sperme : le transsexualisme n’est plus ici une pathologie, mais un choix de vie. Ce renversement est en lui-même intéressant, car il suggère que la caractérisation pathologique d’une situation n’est pas seulement une question de critères diagnostiques ou, en tout cas, qu’elle n’est pas stable dans tous les univers médicaux : si, dans les équipes spécialisées dans la prise en charge du transsexualisme, les personnes en demande de transformation chirurgicale sont bien transsexuelles (entendre atteintes d’un TIG dûment diagnostiqué) alors même que nombre d’entre elles souhaiteraient être définies autrement, dans ce rapport de l’Académie de médecine, elles ne le sont plus, dans la mesure où leur décision quant à la chirurgie n’est pas reliée à une pathologie mais relève d’un choix personnel. 
+
+ Cet argument de convenance distingue de fait les femmes trans des autres requérants : leur demande d’autoconservation ne s’inscrirait pas dans un cadre thérapeutique et ce contrairement aux autres pour lesquels il s’agirait bien de restaurer une fertilité pathologiquement défaillante. Pourtant, au regard à la fois du cadre législatif et de la pratique ordinaire des CECOS, il semble que les frontières de la convenance soient plus inclusives ou, plutôt, singulièrement plus floues que ne le suggère cette distinction lapidaire. Reprenons successivement les deux arguments avancés par l’Académie pour justifier le déficit d’indication médicale des demandes des femmes trans : d’abord celui du caractère réversible de la stérilité, puis celui d’une intervention postpathologique. Force est de constater, tout d’abord, que la loi ne fait pas de l’irréversibilité de la stérilité une condition nécessaire à la préservation des gamètes – bien au contraire, puisqu’elle stipule que les personnes concernées sont celles « dont la prise en charge médicale est susceptible d’altérer la fertilité ». Et d’ailleurs, la pratique médicale ordinaire, dans le respect du principe éthique de bienfaisance, favorise l’autoconservation même lorsqu’on sait que l’infertilité peut être temporaire : dans nombre de pathologies cancéreuses, par exemple, où la spermatogénèse a des chances de se rétablir après le traitement, on privilégie tout de même l’autoconservation, car ce rétablissement dépend de variables difficilement maîtrisables, parmi lesquelles le type de cancer, les substances et les doses prescrites, mais aussi les réponses individuelles aux traitements (Berthaut et al., 2008 ; CECOS Midi-Pyrénées, s.d.). Même sans connaissances spécialisées en la matière, on peut supposer que, dans le cadre des hormonothérapies prescrites aux femmes trans, les substances, les dosages et les réponses individuelles restent des variables pertinentes et pourraient entraîner des réversibilités moins assurées que prévu [30] . Quoi qu’il en soit, on voit que ni dans la loi ni dans la pratique ordinaire des CECOS la réversibilité n’est un indice de convenance qui ouvrirait la porte à un refus de conservation. Il en est ainsi parce l’autoconservation est pensée et fonctionne en pratique sur le principe de précaution, et ce, à tel point qu’elle permet ou encourage la préservation non seulement de gamètes, mais aussi de tissus testiculaires (notamment chez les enfants non pubères), tissus dont l’usage n’est pas actuellement possible mais qui pourront peut-être permettre, dans l’avenir, la restauration d’une fertilité défaillante [31] . On peut également remarquer que ce principe de précaution prévaut quelles que soient les autres possibilités offertes par les PMA pour pallier l’infertilité supposée ou probable. C’est pourquoi la proposition de l’Académie qui privilégie, pour les femmes trans, l’indication d’une PMA avec don de gamètes plutôt que l’autoconservation est pour le moins étonnante, car elle met en cause le fondement même de l’autoconservation, à savoir l’idée qu’il est préférable, et sans doute préféré, de procréer avec ses propres gamètes plutôt qu’avec ceux donnés par d’autres. Opposer l’existence du don de gamètes à une demande d’autoconservation est bien sûr possible, mais cela remet en question la pratique même de préservation actuelle. Privilégier le don, le tenir pour suffisant (même si c’est seulement pour certaines personnes), c’est fragiliser en effet tout l’édifice de l’autoconservation : pourquoi préserver puisqu’il y a des donneurs et des possibilités de don? Pourquoi ponctionner des tissus germinaux sur des enfants non pubères, ou pourquoi demander à de jeunes adolescents un recueil de sperme si par la suite ils pourront de toute façon bénéficier d’un don de gamètes ? Poser ces questions, peut-être déstabilisantes, ce n’est pas délégitimer l’autoconservation, c’est seulement montrer que, si elle est privilégiée dans des situations aussi particulières, c’est qu’elle est un choix politique et social assumé qui présume l’existence d’un désir, pensé comme fondamental, d’engendrer « par soi-même ». C’est aussi suggérer qu’en matière de médecine de la reproduction, on est inégalement attentif à l’expression de ce désir pourtant universellement présumé : on est prompt à le prêter à des enfants qui n’ont sans doute guère voix au chapitre, et parfois empressé à le traiter comme négligeable, voire illégitime, chez des adultes qui sont pourtant en mesure de l’exprimer. On voit comment les termes du rapport de l’Académie s’éloignent de l’univers rassurant de la « simple » question d’indication médicale. 
+
+ Cela nous amène au deuxième argument, à savoir l’idée que seule une indication postpathologique de l’autoconservation est prévue et justifiée. Mais, là encore, la loi ne semble pas s’attacher à une définition aussi étroite des situations autorisant une autoconservation : selon elle, les personnes concernées sont celles « dont la prise en charge médicale est susceptible d’altérer la fertilité ». Ce terme de prise en charge médicale n’induit pas un préalable pathologique, mais renvoie seulement à l’idée que l’infertilité doit être nécessairement l’ effet d’un acte médical. Si bien qu’on peut penser que quels que soient les motifs de l’intervention, la préservation est possible dès qu’un risque concernant la fertilité est envisageable. La pratique habituelle des CECOS semble également aller dans ce sens, puisque l’une des indications d’autoconservation mentionnées sur le site de la fédération concerne la « vasectomie, c’est-à-dire une stérilisation chirurgicale à visée contraceptive [32]  ». L’exemple de la vasectomie est intéressant pour notre propos non seulement parce qu’il est comparable dans ses effets à la vaginoplastie réalisée par les femmes trans, mais surtout parce qu’il permet de saisir la manière dont la question du choix est appréhendée dès lors qu’il s’agit de caractériser une démarche en terme de convenance. Dans un avis de la Fédération française des CECOS de janvier 2013 concernant la conservation des ovocytes pour convenance personnelle [33] , la question de la vasectomie est abordée à partir d’un exemple qui sert à montrer qu’elle n’entre pas, quant à elle, dans le cadre des conservations de convenance : 
+
+ Certaines conservations de spermatozoïdes ont été réalisées avant vasectomie […]. L’indication de vasectomie était le plus souvent posée chez un couple qui avait déjà eu des enfants, et qui n’en désirait plus, et chez qui l’utilisation d’une contraception était contre-indiquée chez la femme. Les urologues pratiquant cette intervention souhaitaient atténuer son caractère irréversible en proposant systématiquement une autoconservation de sperme, au cas où le couple changeait d’avis ultérieurement. Il est difficile dans [ce] cas de parler de conservation de convenance personnelle
+
+ Fédération française des CECOS, 2013 : 6, note 1 
+
+ Cet exemple amène à envisager la qualification de convenance (ou de non-convenance) comme une manière de concevoir le parcours d’une personne plutôt que comme une caractérisation d’emblée établie. L’homme mis en scène ici prend, en effet, une série de décisions (ne plus avoir d’enfants, opter pour une forme particulière de contraception, etc.), mais celles-ci sont toutes rapportées à l’impossibilité contraceptive de son épouse, qui devient fondamentale pour classer l’autoconservation réalisée comme n’étant pas une intervention de convenance : au bout du compte, l’homme ne choisit plus la vasectomie, il y semble uniquement poussé par l’incapacité de sa femme. En revanche, le rapport de l’Académie de médecine inscrit implicitement le souhait de vaginoplastie dans une lecture inverse : quels que soient les motifs qui poussent la personne à la réaliser (le mal-être et la souffrance par exemple), celle-ci prend librement la décision de le faire. Son choix ultime prime sur les raisons qui l’ont motivé et apparaît ainsi comme étant de l’ordre de la « pure » convenance. Dans des situations comparables, où une stérilité irréversible est due à une intervention médicale souhaitée touchant des organes sains, on a donc deux acceptions de la « prise en charge médicale » et deux caractérisations de l’autoconservation subséquente : la vasectomie est conçue comme un problème de contraception traité médicalement, si bien que la préservation des gamètes est légitime ; la vaginoplastie, en revanche, est pensée comme une demande de transformation médicalement satisfaite, si bien que la préservation peut / doit être refusée. On remarque également que, dans le rapport de l’Académie, cette caractérisation en termes de convenance n’est pas pensée comme étant fonction des situations individuelles [34] , mais est, bien au contraire, saisie à un niveau supra-individuel ou catégoriel, ce qui interroge l’un des principes essentiels de l’éthique médicale, à savoir celui de l’équité. Est-il juste que les CECOS acceptent par principe l’autoconservation du sperme des hommes réalisant une vasectomie (comme ils l’annoncent sur leur site) et refusent systématiquement (donc, de fait, par principe ) celle du sperme des femmes trans ? On peut toujours penser qu’il y a de la volonté ou un souhait ici et pas là, ou bien le contraire, mais ce qu’il est important de saisir, c’est que le curseur de la convenance est toujours moins assuré, et surtout plus construit, qu’il n’y paraît de prime abord.
+
+ 2.2. Penser l’usage du sperme autoconservé et son illégalité
+
+ L’Académie a pris au sérieux cet aspect de la saisine du Défenseur des droits, à tel point qu’elle affirme que « la conservation éventuelle de gamètes ou de tissus germinaux ne peut être entreprise sans considérer leur utilisation potentielle en fonction des possibilités médicales et législatives existantes » (Académie nationale de médecine, 2014 : 14). C’est d’ailleurs ce qu’elle a fait en envisageant les différents scénarios d’utilisation de gamètes :
+
+ Utilisation de spermatozoïdes conservés avant transition (MtF) 
+
+ Soit l’homme devenu femme vit avec une femme, qu’il s’agisse de la compagne avec laquelle il vivait avant sa transition ou d’une nouvelle partenaire, et a un projet parental avec elle. Cette dernière pourrait bénéficier d’une AMP réalisée avec le sperme conservé (insémination, FIV ou ICSI). Il s’agirait d’une AMP réalisée pour un couple de femmes. Ce type d’AMP n’est pas autorisé actuellement en France et de plus l’AMP serait pratiquée avec les spermatozoïdes d’une des deux femmes qui serait donc à la fois « père biologique » et « mère légale ».
+
+ Soit l’homme devenu femme vit avec un homme et a un projet parental avec lui. Il faudrait alors que le couple envisage de faire porter l’enfant par une autre femme, la conception étant obtenue à partir des ovocytes de la gestatrice ou de ceux donnés par une autre femme qui seraient fécondés in-vitro par les spermatozoïdes conservés. La gestation pour autrui (GPA) n’est pas autorisée légalement en France. De plus on peut se demander pourquoi les spermatozoïdes utilisés devraient être ceux du partenaire féminin et non ceux du partenaire masculin du couple.
+
+ Soit enfin l’homme devenu femme vit avec une femme devenu homme (FtM) et le couple a un projet parental. L’AMP avec les spermatozoïdes conservés serait alors techniquement possible si la femme a conservé ses organes génitaux. Elle serait aussi légalement possible si les deux partenaires ont changé d’état civil car ils formeraient alors un couple hétérosexuel. Cette situation, qui ne peut qu’être exceptionnelle, ne manquerait cependant pas de susciter des interrogations majeures puisque la « mère légale » serait le « père biologique » et le « père légal » serait la « mère biologique ». 
+
+ Au total, d’un point de vue médical, aucune utilisation de tissus germinaux conservés avant un changement de sexe n’est envisageable. L’utilisation des gamètes conservés ne serait « justifiée » que si le nouveau couple est homosexuel. L’AMP pour les couples homosexuels et la GPA ne sont pas autorisés en France. Il n’y a donc actuellement aucune possibilité d’utiliser les gamètes conservés sur le territoire français. Indépendamment de cet aspect législatif les enjeux et les conséquences de cette utilisation ne devraient pas être ignorés 
+
+ ibid.  : 9-10 
+
+ On voit que l’argumentaire se développe dans deux directions, celle des possibilités techniques et légales, et celle du statut et de l’identité des personnes. Le fait d’envisager l’usage éventuel des gamètes autoconservés n’est pas en soi incohérent puisque préserver ceux-ci, c’est par définition être capable de prévoir ce qui en sera fait, voire d’anticiper d’éventuelles utilisations qui ne sont pas encore techniquement possibles, comme le font nombre de médecins de la reproduction (De Sutter, 2014). Mais l’Académie de médecine va au-delà de cet imaginaire productif et « bienfaiteur » dans la mesure où elle fait implicitement de l’usage ultérieur un critère d’inclusion ou d’exclusion  : puisqu’il n’y a actuellement aucune possibilité d’utilisation du sperme conservé en PMA, l’autopréservation pour les femmes trans n’est pas envisageable. Si la loi ne semble retenir, comme critère d’inclusion, que la prise en charge médicale portant atteinte à la fertilité, le rapport de l’Académie affirme qu’il y a là une imprécision que les médecins sont en droit et en devoir d’interpréter : étant donné que la « réglementation ne [peut] appréhender tous les aspects et toutes les conséquences de ce type d’acte, c’est au médecin d’en assurer ou non la mise en oeuvre au cas par cas en fonction des situations des personnes qui le sollicitent et de leurs projets parentaux potentiels » (Académie nationale de médecine, 2014 : 13). On peut cependant se demander si l’ensemble des demandes de préservation ouvrent sur une évaluation de la situation des demandeurs et sur un questionnement systématique de leur projet parental, notamment au regard de sa légalité : interroge-t-on, par exemple, les adolescentes à qui l’on propose une autopréservation d’ovocytes pour savoir si elles ont l’intention de les utiliser avant ou après leur ménopause (puisque pour bénéficier d’une PMA, il faut actuellement être en âge de procréer) ? De même, un jeune homme atteint d’un cancer et se reconnaissant comme gay est-il questionné sur la manière dont il envisage son éventuelle future paternité ? Si oui, peut-il se voir refuser l’autopréservation au motif que la GPA est illégale en France ? On peut penser que non, car en matière de préservation, l’usage n’étant que potentiel et nécessairement futur, il est incongru de le rapporter au cadre législatif actuel, la loi étant par définition susceptible d’être modifiée. C’est d’ailleurs probablement cette dimension imprévisible qui a amené le législateur à se fonder uniquement sur la situation des demandeurs au moment de la mise à risque de leur fertilité, permettant aux médecins d’exercer sans entraves leur devoir de bienfaisance à l’égard de leurs patients. 
+
+ 3. Penser l’usage du sperme autoconservé et ses dangers : l’identité en question
+
+ L’autre préoccupation de l’Académie de médecine concerne, au-delà du simple acte procréatif, les risques encourus quant à la filiation et à la famille. On retrouve ici des interrogations semblables à celles des médecins de Cochin à l’égard de la paternité des hommes trans demandeurs d’IAD et de leur famille, mais avec une différence cependant : il s’agit moins de savoir si ces personnes sont capables de faire famille « normalement » que de déterminer si les filiations ainsi établies ne renvoient pas à une incohérence identitaire socialement bouleversante et psychiquement délétère (pour leurs enfants). Ce n’est donc pas vraiment la parentalité qui est en jeu ici, mais la parenté, si bien que je ne m’attarderai pas sur l’évaluation des enfants recommandée par l’Académie, pour me concentrer sur l’incohérence de filiation soulignée par le rapport. Les craintes évoquées dans ce dernier relèvent de ce qu’on peut appeler « l’effet Thomas Beatie », du nom de cet Américain qui a porté et mis au monde ses trois enfants après sa transition et son changement d’état civil [35] . L’expérience de cet homme a été assez généralement comprise comme déstabilisant les fondements de la parenté, et le rapport de l’Académie de médecine essaie de montrer qu’il en est de même en ce qui concerne l’usage du sperme autoconservé des femmes trans. Pour elle, en effet, « Si la personne ayant changé de sexe souhaite devenir parent en concevant un enfant avec ses propres gamètes, […] [il s’agit] de procréer en exprimant biologiquement un sexe qui n’est pas celui de la personne ni sans doute celui du futur parent » (Académie nationale de médecine, 2014 : 11). Il y aurait ainsi discordance entre ce que le rapport définit comme l’ identité personnelle, l’ identité procréative et l’ identité parentale des personnes. Cette discordance ne serait d’ailleurs que le corollaire de l’incohérence identitaire fondamentale des personnes trans : 
+
+ Si les résultats de ces traitements sont souvent spectaculaires et peuvent contribuer à créer une harmonie entre l’état du corps et l’identité de la personne, ils ne pourront pas changer l’identité corporelle. Chaque cellule du corps reste sexuée en fonction des chromosomes qu’elle contient et le corps peut conserver des fonctions et des dysfonctionnements qui sont discordants de ceux correspondant à l’identité de la personne. C’est ainsi par exemple qu’une femme transsexuelle (MtF) pourra développer une tumeur de la prostate. Il persistera donc toujours une discordance entre l’identité de la personne et l’identité corporelle
+
+ ibid.  : 10 
+
+ L’usage quelque peu inflationniste du terme identité n’est pas anodin : c’est justement celui qui permet de construire l’incohérence des personnes trans et de leur projet parental. Essayons donc d’explorer ce « parler identité » particulier. Tout d’abord, si ces différentes identités sont mobilisées, c’est essentiellement dans leur dimension sexuée : il s’agit avant tout d’une identité personnelle « de genre », qui est vraisemblablement celle de l’état civil, d’une identité corporelle « génétiquement sexuée », d’une identité procréative qui « exprime biologiquement un sexe » et d’une identité parentale de père ou de mère. Cette caractérisation des personnes se fonde sur une partition du biologique et du social que la notion d’identité vient unifier dans une version essentialiste de l’inscription sexuée : un homme est un mâle génétique, un père biologique et un père social. Cette version conduit logiquement à rendre discordantes les personnes trans, qui deviennent par exemple, sous cette description, des femmes-mâles et des pères-mères, comme le souligne le rapport. La confusion semble à son comble, et on comprend que le risque présenté par l’autoconservation est à éviter à tout prix. Pourtant cette confusion est moins réelle que suscitée par ce langage identitaire réifiant. Les différents aspects des personnes et de leur expérience ne sont pas décrits pour ce qu’ils sont ou dans leurs liens complexes, mais plutôt comme des propriétés connexes d’une même et unique « réalité identitaire ». Autrement dit, la question de la manière dont la sexuation se donne dans l’engendrement, qui est effectivement une question importante, est rabattue ici sur l’assertion d’une expression procréative univoque. On ne le voit pas au premier abord tant le langage identitaire est efficace, mais il est tout de même possible de le saisir.
+
+ Tout d’abord, le fait de distinguer le biologique et le social pour mieux ensuite les rapprocher, et surtout pour faire du biologique la boussole du social, est problématique. Faire du corps une entité essentiellement « naturelle » pourvue d’une identité propre, c’est méconnaître (ou vouloir méconnaître) en effet la socialité du corps, à savoir le fait que dans le monde humain le corps n’est jamais hors du social ou du culturel, qu’il est toujours inscrit dans un système de sens et d’attentes. Le corps n’a donc jamais cette voix autonome qui nous est décrite ici, il n’est pas une entité capable de dire indépendamment qui est mâle ou femelle, comme le suggère suffisamment le traitement de l’intersexuation. Les corps ont une réalité, mais leur identification (c’est-à-dire le processus qui conduit à leur donner une identité) est nécessairement sociale et culturelle. En ce sens, dire que « l’identité corporelle » des personnes trans est en contradiction avec leur « identité personnelle », c’est proposer une description de la situation qui non seulement rend incompréhensible leur expérience, mais en outre les « anormalise » d’emblée. En revanche, si l’on sort de ce registre identitaire ontologique, l’appréhension se transforme. L’ histoire corporelle des femmes trans n’est en rien discordante avec leur inscription sexuée, et tout un chacun est capable de le saisir sans changer pour ce faire de biologie : leur prostate et leurs spermatozoïdes ne sont pas des traits « discordants », mais simplement des indices de la façon dont elles se sont inscrites dans la féminité. Leur corps les singularise, certes, mais c’est bien en cela que ce sont des personnes ordinaires. De même l’énigmatique notion d’« identité procréative » mobilisée dans le rapport traduit ontologiquement des aspects de l’engendrement qui sont plutôt de l’ordre de l’action. L’identité procréative rend, là encore, le biologique discursif : il dirait notamment que les femmes trans sont des « pères biologiques ». Cette notion du langage commun est en fait problématique au regard de ce qu’est l’engendrement par une personne. Il n’est pas si facile, en effet, de dire en quoi un « père biologique » est biologique ni en quoi même il est un père . L’implication procréative d’une personne dans l’engendrement d’une autre est suffisamment complexe, comme le montrent justement les PMA, pour nous inviter à la réflexion. Un donneur de sperme dans le cadre d’une IAD est-il un « père biologique » ? Si tout le monde est prêt à reconnaître le lien génétique qui existe entre ce donneur et l’enfant né de son don, force est de constater que personne ne considère cet homme comme le père de cet enfant : ni les médecins des CECOS, ni les parents de l’enfant, ni le notaire qui reçoit par anticipation leur reconnaissance de filiation, ni le donneur lui-même. Tous le considèrent simplement comme un géniteur. Alors faudrait-il parler de « géniteur biologique » ? Cela semble inadéquat, mais peut-être moins – contrairement à ce qu’on pourrait penser – parce qu’il s’agirait d’un pléonasme que parce que ça n’en est pas un. Un géniteur n’est pas plus « biologique » qu’un père ne l’est parce que leur implication procréative, quelle qu’elle soit, n’est jamais réductible à du « biologique », elle est toujours prise dans un faisceau relationnel proprement humain et socialement déterminé. Et si l’on s’aventurait du côté de la « mère biologique », on serait encore plus en peine : dans le cadre d’une PMA avec don d’ovocytes, qui est la « mère biologique » ? La donneuse d’ovocytes ou la femme qui a porté l’enfant et qui a accouché ? On voit bien que la réponse à ces questions ne tient pas dans ce que le « biologique » nous dirait, ou serait censé nous dire, mais renvoie à des attentes sociales et à des décisions politiques qui ne méconnaissent pas la réalité corporelle (bien au contraire) mais qui ne peuvent s’y réduire. Autrement dit, « l’identité procréative » n’est pas une notion très utile pour décrire les engendrements humains, mais elle a un effet, celui de rendre discordant l’agir procréatif des personnes trans. Pourtant, celui-ci n’est guère bouleversant si on veut bien, là encore, le décrire dans le langage des actions et des relations (c’est-à-dire en termes d’histoire et de manière d’agir). Une femme trans qui utilise son sperme pour avoir un enfant engendre à la manière des hommes en tant que femme, ce qui fait d’elle une mère dans notre système de parenté. Elle agit à la manière des hommes non pas seulement parce qu’elle utilise son sperme, mais parce qu’elle se positionne dans cet acte d’engendrement dans un rôle habituellement tenu par les hommes : celui de donner à d’autres, dans un cadre relationnel socialement signifiant, une substance permettant de mettre au monde un être humain. Cet « agir à la manière de » ne fait pas d’elle un père. Comme pour tout un chacun, ce qui fait d’elle un parent, c’est son engagement « en tant que », engagement qui est corrélatif de ses autres statuts dans l’ordre de l’affinité et de la consanguinité (épouse, soeur, fille, etc.). Il n’y a plus ici, comme on le voit, de discordance ontologique (le fameux « père-mère »), mais seulement des registres d’action différents : agir comme et agir en tant que étant des étiquettes qui annoncent le sens de nos actions et les rendent intelligibles. Autrement dit, si l’on cesse de penser le genre comme une propriété des personnes, l’engendrement trans ne met à mal ni notre biologie ni notre système de filiation.
+
+ Conclusion
+
+ Cette exploration succincte de deux aspects de l’expérience trans de la parenté nous amène à saisir comment celle-ci est pensée et traitée dans certaines sphères de l’univers médical français, mais surtout comment elle y est faite problème. Dans les CECOS accueillant les hommes trans en demande d’IAD s’opère une repathologisation des personnes, justifiant la mise en place d’un programme expérimental qui devient, au fil du temps, un protocole discriminant de prise en charge. Dans ce cadre, la légitimité parentale des personnes trans est loin d’être assurée, parce qu’elle est inscrite de façon pérenne dans un dispositif chargé de l’évaluer, voire de la contester. Par ailleurs, l’Académie de médecine essaie d’asseoir l’idée que le refus de l’autoconservation du sperme des femmes trans n’est pas une discrimination, en l’inscrivant dans une médecine de convenance. En outre, en faisant comme si le lien entre parenté et procréation était une question de cohérence identitaire plutôt qu’une question de modalités d’action et de relation, elle anormalise les personnes trans et les liens de filiation qu’elles peuvent constituer.
+
+ Appendices 
+
+ Notes
+
+ [1] Les travaux se sont essentiellement développés ces dernières années, que ce soit en médecine ou en sciences humaines et sociales. Voir entre autres Green (1998), Freedman et al. (2002), Haines et al. (2014), Hines (2006), Pyne (2012), Ryan (2009), Veldorale-Brogan (2012), White et Ettner (2007).
+
+ [2] Les termes trans et transgenre seront considérés ici comme synonymes, dans la mesure où ils sont compris tous les deux comme des termes génériques englobant l’ensemble des personnes ayant expérimenté une transition de genre, quelle qu’elle soit.
+
+ [3] Il existe une vingtaine de CECOS en France, implantés dans des centres hospitaliers universitaires et groupés en fédération. Les CECOS sont chargés de la gestion des dons de gamètes et des PMA.
+
+ [4] En l’absence d’autres travaux, nous nous centrerons sur les publications de cette équipe : Chiland et al.  (2013), Jouannet (2014).
+
+ [5] Sur ces 86 demandes, 20 n’ont pas été confirmées et 5 ont été refusées. Parmi les 57 couples qui ont débuté une insémination avec donneur (IAD), 32 ont eu au moins un enfant ; 46 enfants étaient nés en 2012 (Jouannet, 2014).
+
+ [6] Formé à partir du préfixe cis- (antonyme de trans-), qui désigne ce qui est « en-deçà ou dans la limite de », le terme cisgenre est utilisé de plus en plus souvent pour qualifier les personnes ou les expériences « non trans ».
+
+ [7] Loi n° 94-654 du 29 juillet 1994 relative au don et à l’utilisation des éléments et produits du corps humain, à l’assistance médicale à la procréation et au diagnostic prénatal. Des éléments d’information concernant son contenu seront apportés au fur et à mesure dans le texte.
+
+ [8] Homme trans américain marié à une femme cisgenre qui, entre 2008 et 2012, a porté et mis au monde ses trois enfants après sa transition et son changement d’état civil. Pour plus d’informations sur son expérience voir Hérault (2014a et 2014b).
+
+ [9] Dans le texte de Chiland et al. (2013), c’est le terme transsexualisme qui est utilisé préférentiellement.
+
+ [10] L’échange cité provient d’une enquête de terrain que j’ai réalisée au milieu des années 2000.
+
+ [11] Le nom a été modifié.
+
+ [12] Le texte de De Sutter, en revanche, semble considérer comme inutile ce type de suivi : « Let us not forget that some 30 years ago the exact same discussion took place concerning gay and lesbian couples. These people also were believed not to be fit to be good parents and Society was also very hostile to them. Many studies have now shown that these concerns were not justified. We should not make the same mistake twice » (De Sutter, 2003 : 382).
+
+ [13] Un seul couple a refusé a priori ce suivi, un autre l’a interrompu en invoquant les frais occasionnés par les déplacements à Paris (la mise en place du protocole de Cochin a suscité des demandes de la France entière, si bien que les deux tiers des couples reçus ne résidaient pas à Paris ou en Île-de-France).
+
+ [14] Il ne s’agit pas ici de saisir l’ensemble des capacités particulières développées par ces parents, comme le font d’autres travaux (Pyne, 2012).
+
+ [15] Si l’on compare avec ses autres publications sur le transsexualisme, on peut penser que cette partie de la publication est essentiellement rédigée par Colette Chiland.
+
+ [16] http://www.cecos.org , consulté le 10 mai 2014.
+
+ [17] Opération généralement associée à une labioplastie, qui suppose une orchidectomie.
+
+ [18] La préservation des ovocytes est également possible, mais les demandes émanant d’hommes trans semblent rares. L’Académie de médecine mentionnait, en 2014, les cas de deux hommes adressés au CECOS par leur médecin avant leur transition qui, après un entretien, n’ont pas donné suite au projet (Académie nationale de médecine, 2014). 
+
+ [19] La WPATH publie des standards de soins internationaux depuis la fin des années 1970, dans lesquels est inclus, depuis la sixième version (2001), un chapitre sur la santé reproductive des personnes trans.
+
+ [20] Médecin spécialiste de la reproduction et de l’AMP, ex-directeur du CECOS de l’hôpital Cochin et membre de l’Académie nationale de médecine.
+
+ [21] Chef de service du CECOS Rhône-Alpes Lyon et vice-président du CMS de l’Agence de la biomédecine.
+
+ [22] Le Défenseur des droits est une autorité constitutionnelle indépendante qui a été créée en 2011. Il a pour mission la défense des personnes dont les droits ne sont pas respectés, et l’égalité de tous et toutes dans l’accès aux droits.
+
+ [23] « Toute personne dont la prise en charge médicale est susceptible d›altérer la fertilité, ou dont la fertilité risque d’être prématurément altérée, peut bénéficier du recueil et de la conservation de ses gamètes ou de ses tissus germinaux, en vue de la réalisation ultérieure, à son bénéfice, d›une assistance médicale à la procréation, ou en vue de la préservation et de la restauration de sa fertilité. Ce recueil et cette conservation sont subordonnés au consentement de l›intéressé et, le cas échéant, de celui de l›un des titulaires de l›autorité parentale, ou du tuteur, lorsque l›intéressé, mineur ou majeur, fait l›objet d›une mesure de tutelle » (Code de la santé publique, art. L2141-11).
+
+ [24] http://www.cecos.org , consulté le 10 mai 2014.
+
+ [25] Le CCNE, créé en 1983, est un organisme consultatif indépendant qui donne des avis sur les problèmes éthiques et les questions de société soulevés par les progrès de la connaissance dans les domaines de la biologie, de la médecine et de la santé.
+
+ [26] L’Académie nationale de médecine peut être saisie d’une demande d’avis par les pouvoirs publics, mais elle peut aussi émettre un avis sans demande préalable dans tous les domaines de la santé, notamment les questions d’éthique médicale.
+
+ [27] Agence publique nationale d’État créée par la loi de bioéthique de 2004 qui exerce ses missions dans les domaines du prélèvement et de la greffe d’organes, de la procréation, de l’embryologie et de la génétique humaines.
+
+ [28] Présidé par P. Jouannet et composé de quatre membres de l’Académie, de quatre experts extérieurs dont un médecin de la reproduction et trois médecins appartenant à des équipes spécialisées dans la prise en charge des TIG (un endocrinologue, un psychiatre et un chirurgien).
+
+ [29] L’Agence de la biomédecine a rendu son rapport en juin 2014. Le présent article ayant été rédigé en mai 2014, il n’analyse que le texte de l’Académie de médecine.
+
+ [30] Le rapport de l’Académie note d’ailleurs un déficit de connaissances en la matière : « Différentes études expérimentales ou faites chez des hommes atteints de tumeurs testiculaires montrent que les oestrogènes à haute dose peuvent perturber la spermatogenèse. Il est peu probable qu’aux doses utilisées chez les personnes MtF, ils l’altèrent de manière irréversible mais l’étude n’a pas été faite » (Académie nationale de médecine, 2014 : 6).
+
+ [31] En 2011, 50 conservations de tissus testiculaires ont été réalisées (Académie nationale de médecine, 2014).
+
+ [32] http://www.cecos.org , consulté le 10 mai 2014.
+
+ [33] Il s’agit plus particulièrement de la possibilité de conserver les ovocytes de femmes jeunes pour une utilisation à un âge plus avancé hors de toute situation de prise en charge médicale. Cette question actuelle est très controversée.
+
+ [34] Ce qui n’est déjà pas si simple : il est toujours très délicat de définir ce qui, dans une décision, est de l’ordre d’un choix personnel et ce qui ne l’est pas. Un processus décisionnel est toujours un mélange inextricable de choix et de non-choix.
+
+ [35] Pour une analyse de son expérience et de la réception de celle-ci, voir l’ouvrage collectif intitulé La parenté transgenre (Hérault, 2014a). Voir aussi Ryan (2009).
+
+ Bibliographie
+
+ Académie nationale de médecine. 2014. Autoconservation des gamètes des personnes transsexuelles et projet parental éventuel, Paris, Académie nationale de médecine. Google Scholar 
+
+ Agence de la biomédecine. 2013. Flash du Comité médical et scientifique. Séance du 18 juin 2013, Paris, Agence de la biomédecine. Google Scholar 
+
+ Baetens, P., M. Camus et P. Devroey. 2003. « Should Requests for Donor Insemination on Social Grounds Be Expanded to Transsexuals? », Reproductive Biomedicine Online, vol. 6, no 3, p. 281-286. 10.1016/S1472-6483(10)61846-9 Google Scholar 
+
+ Berthaut, I., C. Ravel, C. Frapsauce, H. Elloumi, L. Levy, V. de Larouzière et J. Mandelbaum. 2008. « Cancer et procréation chez l’homme », MT/Médecine de la reproduction, gynécologie, endocrinologie, vol. 10, no 4, p. 255-264. Google Scholar 
+
+ Brothers D. et W. C. L. Ford. 2000. « Gender Reassignment and Assisted Reproduction: An Ethical Analysis », Human Reproduction, vol. 15, no 4, p. 737-738. 10.1093/humrep/15.4.737 Google Scholar 
+
+ CECOS Midi-Pyrénées. Sans date. Dix réponses à vos questions à propos de l’autoconservation du sperme, Toulouse, Hôpitaux de Toulouse. Google Scholar 
+
+ Chiland, C., A.-M. Clouet, M. Guinot, B. Golse, P. Jouannet et P. Revidi. 2013. « Pères d’un nouveau genre et leurs enfants », Psychiatrie de l’enfant, vol. 56, p. 97-125. 10.3917/psye.561.0097 Google Scholar 
+
+ De Sutter, P. 2003. « Donor Inseminations in Partners of Female-to-Male Transsexuals: Should the Question Be Asked? », Reproductive BioMedicine Online, vol. 6, no 3, p. 382. 10.1016/S1472-6483(10)61861-5 Google Scholar 
+
+ De Sutter, P. 2014. « Transparentalité génétique ou biologique  : rêve ou réalité ? », dans L a parenté transgenre, sous la dir. de L. Hérault, Aix-en-Provence, Presses universitaires de Provence, p. 107-116. Google Scholar 
+
+ Fédération française des CECOS. 2013. Conservation des ovocytes pour convenance personnelle : point de vue de la Fédération française des CECOS, Paris, Fédération française des CECOS. Google Scholar 
+
+ Freedman, D., F. Tasker et D. di Ceglie. 2002. « Children and Adolescents with Transsexual Parents Referred to a Specialist Gender Identity Development Service: A Brief Report of Key Developmental Features », Clinical Child Psychology and Psychiatry, no 7, p. 423. 10.1177/1359104502007003009 Google Scholar 
+
+ Giami, A. 2014. « Procréation et parentalité dans la population trans. Genre, parcours biographique, parcours de transition », dans La parenté transgenre, sous la dir. de L. Hérault, Aix-en-Provence, Presses universitaires de Provence, p. 93-105. Google Scholar 
+
+ Green, R. 1998. « Transsexuals’ Children », The International Journal of Transgenderism, vol. 2, no 4, http://www.symposium.com/ijt/ijtc0601.htm . Google Scholar 
+
+ Haines, B., A. Ajayi et H. Boyd. 2014. « Making Trans Parents Visible: Intersectionality of Trans and Parenting Identities », Feminism Psychology,  vol. 24, no 2, p. 238-247. 10.1177/0959353514526219 Google Scholar 
+
+ Haute Autorité de Santé 2009. Situation actuelle et perspectives d’évolution de la prise en charge du transsexualisme en France, Paris, HAS. Google Scholar 
+
+ Hérault, L. (dir.). 2014a. La parenté transgenre, Aix-en-Provence, Presses universitaires de Provence. Google Scholar 
+
+ Hérault, L. 2014b. « Procréer à la manière des femmes, engendrer en tant qu’homme », dans L a parenté transgenre, sous la dir. de L. Hérault, Aix-en-Provence, Presses universitaires de Provence, p. 79-90. Google Scholar 
+
+ Hines, S. 2006. « Intimate Transitions: Transgender Practices of Partnering and Parenting », Sociology, no 40, p. 353-371. 10.1177/0038038506062037 Google Scholar 
+
+ Jouannet, P. 2014. « Quand les hommes transsexuels souhaitent devenir pères par don de sperme », dans La parenté transgenre, sous la dir. de L. Hérault, Aix-en-Provence, Presses universitaires de Provence, p. 117-125. Google Scholar 
+
+ Leprince, L. et N. Taurisson. 2008. Rapport de la commission sur la transparentalité, Paris, Homosexualité et Socialisme. Google Scholar 
+
+ Pyne, J. 2012. Transforming Family: Trans Parents and their Struggles, Strategies, and Strengths, Toronto, LGBTQ Parenting Network, Sherbourne Health Centre. Google Scholar 
+
+ Ryan, M. 2009. « Beyond Thomas Beatie: Transmen and the New Parenthood », dans Who’s Your Daddy? And Other Writings on Queer Parenting, sous la dir. de R. Epstein, Toronto, Sumach Press. Google Scholar 
+
+ Théry, I. 2010. Des humains comme les autres. Bioéthique, anonymat et genre du don, Paris, Éditions de l’EHESS. Google Scholar 
+
+ Veldorale-Brogan, A. 2012. Adaptation to Parental Gender Transition: Stress and Resilience among Transgender Parents and their Children, thèse de doctorat, Tallahassee, Florida State University, College Of Human Sciences. Google Scholar 
+
+ White, T. et R. Ettner. 2007. « Adaptation and Adjustment in Children of Transsexual Parents », European Child and Adolescent Psychiatry, no 16, p. 215-221. 10.1007/s00787-006-0591-y Google Scholar 
+
+ World Professional Association for Transgender Health. 2007. Standards of Care for the Health of Transsexual, Transgender and Gender Non Conforming People, 7 e version, WPATH. Google Scholar 
+
+ Other Articles From This Journal
+
+ Bifurcations biographiques : l’expérience du dévoilement du diagnostic du point de vue d’adolescents infectés par le VIH en période périnatale
+
+ By Karène Proulx-Boucher, Mylène Fernet, Martin Blais, Joseph Josy Lévy, Joanne Otis, Jocelyne Thériault, Johanne Samson, Guylaine Morin, Normand Lapointe et Germain Trottier
+
+ Famille et travail : constats et propositions des jeunes féministes au Québec
+
+ By Annabelle Seery
+
+ Du père au géniteur en passant par le tiers intéressé : représentations du rôle joué par le donneur de sperme connu dans les familles lesboparentales québécoises
+
+ By Isabel Côté
+
+ Repenser l’alliance matrimoniale avec l’assistance médicale à la procréation en situation migratoire
+
+ By Véronique Duchesne
+
+ Citation Tools
+
+ Cite this article
+
+ MLA 
+ 
+ Hérault, Laurence. "La gestion médicale de la parenté trans en France." Enfances, Familles, Générations , number 23, fall 2015, p. 165–184. https://doi.org/10.7202/1034206ar
+
+ APA 
+ 
+ Hérault, L. (2015). La gestion médicale de la parenté trans en France. Enfances, Familles, Générations , (23), 165–184. https://doi.org/10.7202/1034206ar
+
+ Chicago 
+ 
+ Hérault, Laurence "La gestion médicale de la parenté trans en France". Enfances, Familles, Générations no. 23 (2015) : 165–184. https://doi.org/10.7202/1034206ar
+
+ Export the record for this article
+
+ RIS 
+ 
+ EndNote, Papers, Reference Manager, RefWorks, Zotero
+
+ ENW 
+ 
+ EndNote (version X9.1 and above), Zotero
+
+ BIB 
+ 
+ BibTeX, JabRef, Mendeley, Zotero
+
+ Subscribe to our newsletter 
+ Subscribe to our newsletter 
+
+ About
+
+ Help
+
+ Accessibility
+
+ Research Guide
+
+ Contact us
+
+ Journals
+
+ Theses and dissertations
+
+ Books and proceedings
+
+ Research reports
+
+ Cultivate your knowledge. 
+
+ Follow us
+
+ Privacy policy
+
+ Cookie policy
+
+ Terms and conditions
+
+ © 2026 Érudit Consortium

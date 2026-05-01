@@ -1,0 +1,951 @@
+Préface à la seconde édition (1999) de Gender Trouble.
+Feminism and the subversion of identity
+Judith Butler
+Dans Cahiers du Genre 2005/1 n° 38 , pages 15 à 42
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782747579913
+DOI 10.3917/cdge.038.0015
+Date de mise en ligne : 01/02/2012
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2005-1-page-15?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+Cahiers du Genre, n° 38/2005 
+Préface à la seconde édition (1999) de 
+Gender Trouble. 
+Feminism and the subversion of identity 
+Judith Butler 
+Résumé 
+Qu’est-ce que le genre ? Dans ce livre , publié pour la première fois en 
+1990, Judith Butler affirme que le ge nre n’exprime pas une essence, une 
+disposition naturelle — le sexe —, ma is qu’il est l’effet, naturalisé, sta-
+bilisé et sédimenté d’une performance. Cela veut dire qu’il n’y a pas de 
+genre avant ou en dehors des pratiques qui le produisent, de manière soutenue 
+et répétée. Cette répétition a la fo rce performative d’un rite convenu par 
+l’hétérosexualité obligatoire. Mais c’ est aussi pour cette même raison que 
+la répétition est, en puissance, toujour s subversive. Cette affirmation radi-
+cale a des conséquences fondamentales sur notre manière d’envisager le 
+sexe biologique, les identités de genre, le désir et la sexu alité. La question 
+n’est plus tant d’abolir le pouvoir, le genre, ou même le se xe, de faire table 
+rase, comme si c’était possible, mais de les reprendre « de travers », par le 
+détournement de sens, le foisonnement des pratiques et la subversion des 
+identités. 
+Dans ce livre désormais classique pour les recherches féministes, les 
+études genre, les études gaies et lesbiennes, et fondateur de la théorie queer , 
+Butler cherche à identifier les tactique s, locales, pour subvertir l’hétéro-
+sexualité obligatoire en exploitant les failles de ce régime politique. Elle 
+donne la réplique à Michel Foucault , Sigmund Freud, Luce Irigaray, Julia 
+Kristeva, Claude Lévi-Strauss, Monique Wittig pour repenser, avec et contre 
+eux, les liens entre le sexe, le genre et la sexualité. En jetant le trouble dans 
+nos catégories fondamentales de pensée et d’action, elle explore une voie 
+nouvelle où la subversion des normes hé térosexuelles peut devenir une 
+façon de dénaturaliser ces mêmes nor mes, de résister au pouvoir pour, fi-
+nalement, ouvrir le cham p des vies possibles. 
+GENRE — SEXUALITÉ — QUEER — NORME HÉTÉROSEXUELLE — SUBVERSION 
+— PERFORMANCE — POST -STRUCTURALISME — SUBJECTIVITÉ 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 16
+Dix ans ont passé depuis que j’ai écrit Gender Trouble 1 et 
+soumis le manuscrit aux éditions Routledge. Je ne pensais pas 
+que ce livre serait lu par tant de personnes différentes, ni qu’on 
+y verrait une « intervention » stimul ante pour la théo rie féministe, 
+ni encore qu’on le citerait comme l’un des textes fondateurs de la théorie queer 
+2. Ce livre a commencé à vivre sa vie bien au-
+delà de mes intentions premiè res et cela pourrait venir du fait 
+que les conditions de réception ont changé entre-temps. Quand 
+je l’ai écrit, je m’imaginais êt re en conflit et en opposition avec 
+certaines formes de féminisme, même si je voyais ce livre comme un livre féministe. Je l’ai écrit dans l’esprit de la critique im-manente qui cherche à faire l’examen critique du vocabulaire de 
+base du mouvement de pensée auquel il appartient. Il y avait, et 
+il y a toujours, de bonnes raisons pour entreprendre ce genre de critique et pour distinguer l’autocritique — qui promet une vie plus démocratique et inclusive pour ce mouvement de pensée — 
+de la critique qui cherche à le miner de l’intérieur. Il est bien sûr toujours possible de les confondre, mais j’ose espérer qu’on ne 
+se méprendra pas sur le genre critique de Gender Trouble . 
+En 1989, ce qui m’intéressait le plus, c’était de faire la 
+critique d’un présupposé fort ré pandu dans la théorie littéraire 
+féministe : l’hétérosexualité. Je cherchais à contester les pré-
+supposés sur les limites et les bons usages du genre, dans la 
+mesure où ceux-ci limitent les significations du genre à des 
+idées reçues sur la masculinité et la féminité. Je pensais et continue à penser que toute th éorie féministe qui en vient à 
+limiter les significations du genre pour rendre possible sa propre pratique, érige le genre en norme d’exclusion au sein du fémi-
+nisme, avec pour résultat fréque nt, l’homophobie. Il me semblait 
+ 
+1 Le titre du livre apparaît ici en anglais, car le titre français n’a pas encore été 
+arrêté au moment de la présente tr aduction. Celle-ci est proposée en pré-
+publication à la version française comp lète de l’ouvrage (La Découverte, à 
+paraître en mars 2005) et susceptible d’ être révisée dans ce cadre — le livre 
+faisant référence. J’aimerais remercier ici Danielle Chabaud-Rychter, Catherine 
+Fussinger et Liviu Groza pour avoir relu avec attention la tr aduction de cette 
+préface, pour leurs remarque s et leurs suggestions ( NDLT ). 
+2 Pour quelques définitions, cf., p. ex., « Petit voca bulaire queer », Les lettres 
+françaises du 31 août 2004 , Nouvelle série, n° 6, p. IV) ; entrées « Queer » et 
+« Queer theory », An Encyclopedia of Gay, Lesbian, Bisexual, Transgender, and 
+Queer Culture (http://www.glbtq.com) ( NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 17
+à l’époque, et aujourd’hui encore, que le féminisme doit se gar-
+der d’idéaliser certaines expressions du genre qui produisent en 
+retour de nouvelles formes de hiér archie et d’exclusion. Je tenais 
+en particulier à contester ces régimes de vérité qui stipulaient que certaines formes d’expression genrées étaient simplement 
+fausses ou dérivées, et que d’autr es étaient vraies et d’origine. 
+Loin de moi l’idée de prescrire une nouvelle façon de vivre le 
+genre 
+3 qui pourrait alors servir de modèle pour les lecteurs et 
+lectrices de ce texte. Mon but en écrivant ce livre était d’ouvrir le champ des possibles en matière de genre sans dicter ce qu’il fallait réaliser. Mais à quoi bon, pourrait-on se demander, « ouvrir 
+le champ des possibles » ? Cette qu estion, sans doute ne la pose-t-
+on pas, si l’on a compris ce que c’est de vivre dans un monde 
+où l’on est socialement « impossible », illisible, irréalisable, irréel 
+et illégitime. 
+Gender Trouble est un livre qui cherch ait à dévoiler comment 
+nos façons mêmes de penser ce qui est possible comme « genre de vie » 
+4 sont forcloses 5 par des présupposés courants et vio-
+lents. Ce livre cherchait aussi à saper toute tentative de manier 
+le discours de la vérité pour délégitimer les minorités à cause de leurs façons de pratiquer le genr e et la sexualité. Ce qui ne re-
+vient pas à défendre ou célébrer to utes les pratiques minoritaires, 
+mais cela veut dire que nous de vons être capables de les penser 
+avant d’en conclure quoi que ce soit. Ce qui m’inquiétait le plus, 
+c’était de voir combien ces pratiques suscitaient une panique qui les rendait impensables. La perspective de voir s’effondrer 
+le(s) binarisme(s) de ge nre, par exemple, est-elle si monstrueuse, 
+si terrifiante, qu’il faille la te nir pour impossible par définition 
+ 
+3 Littéralement, « un nouveau mode de vie genré » [ a new gendered way of 
+life] (NDLT ). 
+4 Littéralement, « dans la vie genrée » [ in gendered life ] (NDLT ). 
+5 Le sens de « forclore » [ to foreclose ], terme introduit par Jacques Lacan, 
+s’approche de celui de « répudier » ou de « dénier » à quelques nuances 
+significatives près. Pour plus de détail s, voir sous « Forclusion » dans le 
+Vocabulaire de la psychanalyse de Jean Laplanche et Jean-Bertrand Pontalis 
+(Paris, PUF, 1994 [1967], p. 163-167) ; et dans le Dictionnaire de la psy-
+chanalyse d’Elizabeth Roudinesco et Michel Plon (Paris, Fayard, 1997, p. 313-
+315) ( NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 18
+et, sur le plan heuristique, l’exclure à l’avance de nos efforts 
+pour penser le genre ? 
+De tels présupposés, on pouvait en trouver dans ce qu’on 
+appelait à l’époque le French Feminism , et ils jouissaient d’une 
+très grande popularité parmi les littéraires et certaines chercheuses en sciences sociales. Au moment même où je contestais ce dogme central à la pensée de la différence sexuelle qu’était à mes yeux 
+l’hétérosexisme, je m’inspirais aussi du post-structuralisme 
+français pour formuler mes argum ents. Ce que j’ai fait dans 
+Gender Trouble , c’est finalement un travail de traduction cultu-
+relle. La théorie post-structuraliste a eu une influence sur les théories états-uniennes du genre et le malaise politique au sein 
+du féminisme. Sous certains aspects, le post-structuralisme a 
+tout l’air d’un formalisme qui se désintéresse du contexte social et de tout but politique. Mais ce n’ est pas vrai de la façon dont il 
+fut repris aux États-Unis. Aussi , ce que je voulais faire, ce 
+n’était pas « appliquer » le post-structuralisme au féminisme, mais reformuler cette théorie dans une perspective proprement 
+féministe. Certains tenants et tenantes du formalisme post-
+structuraliste se montrent cons ternés par l’orientation ouver-
+tement « thématique » prise dans des œuvres comme Gender 
+Trouble . Quant aux personnes critiques envers le post-structuralisme 
+au sein de la gauche culturelle ( cultural Left ), elles se montrent 
+des plus sceptiques quand on leur dit que les prémisses post-
+structuralistes peuvent avoir des effets politiques progressistes. 
+Mais de part et d’autre, on considère le post-structuralisme comme s’il s’agissait d’une théorie unifiée, pure et monolithique. Or, durant ces dernières années, cette théorie, ou ensemble de 
+théories, a migré vers deux domaines d’études : les gender and 
+sexuality studies et les post-colonial and race studies . Elle a perdu 
+son formalisme des premières heures et refait sa vie en se trans-plantant dans le domaine de la théorie culturelle. La même ques-
+tion se pose inlassablement : celle de savoir si mon travail ou celui de Homi Bhabha, Gayatri Chakravorty Spivak ou de Slavoj 
+Zizek, relève des cultural studies ou de la théorie critique. Mais 
+le fait de poser pareille questi on pourrait simplement indiquer 
+que la distinction claire et nette entre ces deux types de projets ne tient plus. On trouvera des théoriciens et des théoriciennes 
+pour prétendre que l’ensemble de nos travaux relève des cultural 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 19
+studies , mais on trouvera aussi des chercheurs et chercheuses 
+dans ce domaine pour se définir eux-mêmes contre toute forme 
+de théorie (même si, de manière significative, ce n’était pas le 
+cas de Stuart Hall, l’un des fondateurs des cultural studies en 
+Angleterre). Mais quel que soit le parti pris dans ce débat, les 
+uns et les autres ne se rendent p as toujours compte que la théorie 
+a changé de visage en faisant préc isément l’objet d’appropriations 
+culturelles. La théorie s’est trouvé un nouvel espace, nécessaire-
+ment impur, où elle émerge dans et par la traduction culturelle 
+et comme le fait même de celle-ci. Il ne faut pas y voir un dé-placement de la théorie à travers un retour à l’histoire ni simple-ment une façon d’historiciser la théorie pour dévoiler les limites 
+contingentes des prétentions théoriques les plus généralisables. 
+Ce à quoi l’on assiste, c’est plutôt l’émergence de la théorie au 
+croisement d’horizons culturels, là où le besoin de traduction se 
+fait le plus fortement sentir et où l’espoir de la réussite est 
+incertain. 
+Gender Trouble prend racine dans la French Theory , qui est 
+elle-même une drôle de constructi on américaine. Il n’y a qu’aux 
+États-Unis qu’on aura mis ensemble tant de théories disparates comme si elles formaient une sorte d’unité. Bien que le livre ait été traduit en plusieurs langues et qu’il ait eu, en Allemagne, un impact non négligeable sur la manière dont on parle de genre et 
+de politique, il paraîtra en France — si cela finit par se faire — 
+bien plus tard que dans d’autres pays. Je le dis pour souligner combien l’apparent franco-centr isme du livre le met à bonne 
+distance de la France et de la théorie qui se fait en France. Gender Trouble propose à sa manière une lecture croisée de 
+différents auteurs et auteures fra nçais (Lévi-Strauss, Foucault, 
+Lacan, Kristeva, Wittig) qui, en France, n’ont presque rien à voir les uns avec les autres et qu’on lit rarement, voire jamais, ensemble. Aussi une telle proxim ité intellectuelle rend-elle ce 
+livre précisément américain et étranger au contexte français. Ce qui le rend tel, c’est aussi l’accent qui y est mis sur la tradition 
+sociologique et anthropologique anglo-américaine des études 
+« genre », une tradition bien distincte de celle du discours de la « différence sexuelle » qui vient de l’analyse structuraliste. Alors 
+que le livre risque d’être taxé d’eurocentrisme aux États-Unis, il 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 20
+menace d’« américaniser » la théorie en France pour les quel-
+ques maisons d’éditions françaises qui ont envisagé de le publier 6. 
+Évidemment, ce livre ne parle p as seulement la langue de la 
+French Theory . Il vient aussi de la réflexion que j’ai engagée 
+depuis longtemps sur la théorie féministe et qui a été profon-dément nourrie par de nombreuses discussions sur le caractère socialement construit du genre, sur les liens entre la psycha-
+nalyse et le féminisme, et qui s’est aussi inspirée en partie du 
+formidable travail de Gayle Rubin sur le genre, la sexualité et la 
+parenté, du travail d’Esther Newton sur le drag , pionnier en la 
+matière, des brillants écrits th éoriques et fictifs de Monique 
+Wittig, et des perspectives gaies et lesbiennes qui se sont dé-
+veloppées en sciences humaines. Alors que de nombreuses fé-
+ministes ont, dans les années 1980, supposé que le lesbianisme rejoignait le féminisme dans le féminisme lesbien, Gender Trouble 
+cherchait à réfuter l’idée que le lesbianisme était la mise en pra-
+tique de la théorie féministe pour établir un rapport bien plus troublant entre pratique lesbienne et théorie féministe. Dans ce 
+livre, le lesbianisme ne représente pas un retour à ce qui compte 
+le plus lorsqu’on est femme ; on n’y trouvera nulle consécration 
+de la féminité ni l’annonce d’un monde gynocentrique. Le les-bianisme n’est pas le point éro tique culminant d’un ensemble de 
+croyances politiques — le lien entre sexualité et croyance est 
+bien plus complexe et très s ouvent contradictoire. Au lieu de 
+cela, le livre soulève toute une sér ie de questions : par exemple, 
+comment les pratiques sexuelles qui ne sont pas « normales » 
+7 
+mettent-elles en question la st abilité du genre comme catégorie 
+d’analyse ? Comment se fait-il que certaines pratiques sexuelles 
+ 
+6 Alors que le livre est réédité en angl ais, des maisons d’édition françaises sont 
+en train de considérer la possibilité de le faire traduire en raison de l’actualité 
+politique française — en particulier, pa rce que des arguments développés dans 
+ce livre ont été mobilisés par Didier Er ibon et d’autres dans le cadre des 
+débats sur la ratification légale des partenariats pour couples de même sexe 
+(PaCS). 
+7 Je traduis ici « normative » par « normal » avec des guillemets, bien que 
+l’adjectif « normatif » exis te en français, pour une question d’euphonie. Pour 
+la même raison, je serai s ouvent amenée à traduire « normativity » par 
+« normalité » ou, alternativement, par « normes », des termes qui préservent 
+tous la polysémie — entre norme et normalité — du terme anglais et sur 
+l’usage duquel Butler s’explique plus bas dans cette préface [ NDLT ]. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 21
+nous forcent à nous interroger sur ce qu’est une femme, un 
+homme ? Si l’on cesse de considérer que le genre est consolidé 
+dans et par la sexualité « normale », est-ce à dire qu’il y aurait 
+une crise du genre caractéristique des contextes queer ? 
+L’idée que la pratique sexuelle a le pouvoir de déstabiliser le 
+genre m’est venue en lisant l’article de Gayle Rubin, « The Traffic in Women » (1975) où il s’agissait de comprendre com-
+ment la sexualité « normale » consolidait le genre « normal ». 
+De ce point de vue, et pour le dire vite, on est une femme si l’on 
+fonctionne comme telle au sein du cadre hétérosexuel dominant ; aussi mettre ce cadre en question revient peut-être à perdre quel-
+que chose comme l’impression d’avoir sa place dans le système 
+de genre. C’est à cette occasion, je crois, qu’a pris forme pour la 
+première fois l’idée de « troubl e de genre » développée dans ce 
+livre. Cette expression traduit le souci de mieux comprendre la terreur et l’angoisse de « devenir gai ou lesbienne 
+8 » qui font 
+souffrir certaines personnes, la peur de perdre sa place dans le système de genre ou de ne pas savoir qui l’on deviendra si l’on 
+couche avec quelqu’un qui est soi-disant du « même » genre. 
+Toutes ces peurs constituent une sorte de crise ontologique qui se vit simultanément à deux niveaux : la sexualité et le langage. L’affaire se complique encore davantage si l’on considère diffé-rentes nouvelles formes de mise en genre à la lumière des pra-
+tiques transgenres et de la transsexualité, de l’homoparentalité, 
+des nouvelles façons d’être butch et fem. Quand et pourquoi, 
+par exemple, certaines lesbiennes butch deviennent-elles des 
+« papas » et d’autres des « mamans » en devenant parentes ? 
+Que faire de la suggestion émise par Kate Bornstein selon 
+laquelle il est impossible de décrire un individu transsexuel par 
+la forme nominale « femme » ou « homme », et qu’il convient de l’approcher en recourant à des verbes actifs qui témoignent de la constante transformation qui « est » la nouvelle identité, et même de l’« entre-deux » qui interroge ce qu’est une identité 
+genrée ? Bien que certaines lesbiennes soutiennent que les butchs 
+n’ont rien à voir avec le fait d’« être un homme », d’autres 
+insistent pour dire que leur façon d’être butch n’est ou n’était 
+ 
+8 Le terme anglais « gay » inclut toujours les homme s gais et les lesbiennes 
+pour Butler (communication personnelle). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 22
+qu’une façon d’accéder au statut désiré d’homme. De tels para-
+doxes se sont sûrement multipliés ces dernières années, appor-
+tant la preuve d’une sorte de « trouble dans le/du genre » que le 
+livre lui-même n’avait pas anticipé 9. 
+Mais quel est donc le lien entre le genre et la sexualité que je 
+cherchais à mettre en évidence ? Clairement, mon intention n’était pas de défendre la thèse selon laquelle certains types de pra-
+tiques sexuelles produisaient certains types de genres. Je tenais 
+simplement à dire que, dans le s conditions cadres de l’hétéro-
+normativité 
+10, la régulation du genre pouvait parfois être une 
+façon de maintenir l’ordre hé térosexuel. Catharine MacKinnon 
+propose de formuler ce problème en des termes qui, je crois, 
+sont à la fois proches et éloignés des miens 11. Elle écrit : 
+Figée, comme l’est un attribut attaché à une personne, l’inégalité 
+de sexe prend la forme du genr e ; en mouvement, comme l’est 
+une relation entre personnes, cette inégalité prend la forme de la 
+sexualité. Le genre émerge comme la forme gelée de la sexuali-
+sation de l’inégalité entre les hommes et les femmes (MacKinnon 
+1987). 
+Dans cette conception, la hiérarchie sexuelle produit et conso-
+lide le genre. Ce ne sont pas les normes hétérosexuelles qui 
+produisent et consolident le genre, mais la hiérarchie de genre 
+ 
+9 J’ai traité de cette question dans la postface du livre intitulé Butch/Femme: 
+Inside Lesbian Gender , édité par Sally Munt (Butler 1998a) et dans une autre 
+postface au numéro thématique intitulé « Transgender in Latin America: Persons, 
+Practices and Meanings » de la revue Sexualities (Butler 1998b). 
+10 Littéralement, « hétérosexualité normative » [ normative heterosexuality ] que 
+je traduis par le terme unique d’« hétér onormativité ». Ce terme désigne le sys-
+tème, asymétrique et binaire, de genre, qui ne tolère que deux et seulement 
+deux sexes, où le genre concorde parfait ement avec le sexe (au genre masculin 
+le sexe mâle, au genre féminin le sexe femelle) et où l’hétérosexualité (repro-
+ductive) est obligatoire, en tout cas dési rable et convenable. Je traduirai par 
+contre « heterosexual normativity » par « normes hétérosexuelles » (cf., p. ex., 
+paragraphe infra ) (NDLT ). 
+11 Butler se positionne pa r ailleurs vis-à-vis des thèses développées par 
+MacKinnon dans son fameux livre, The Sexual Harassment of Working Women: 
+A Case of Sex Discrimination (New Haven, Yale Univer sity Press, 1979) dans 
+« Une éthique de la sexualité : harcèl ement, pornographie et prostitution. 
+Entretien avec Judith Butler » (Éric Fassin et Michel Feher), Vacarme , hiver 
+2003, n° 22 ; cet entretien est disponible en ligne : 
+ http://vacarme.eu.org/article392.html ( NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 23
+qui garantit soi-disant les relations hétérosexuelles. Si la hiérar-
+chie de genre produit et consolide le genre, et si la hiérarchie de 
+genre présuppose une notion opérati onnelle du genre, alors c’est 
+le genre qui est la cause du genre, et l’on finit sur une tauto-logie. Il est possible que MacKinnon veuille simplement tracer dans les grandes lignes le mécani sme par lequel la hiérarchie de 
+genre se reproduit, mais ce n’est pas ce qu’elle dit. 
+Suffit-il de parler de « la hiér archie de genre » pour expliquer 
+les conditions de production du ge nre ? Dans quelle mesure la 
+hiérarchie de genre sert-elle une hétérosexualité plus ou moins 
+obligatoire, et combien de fois les normes de genre sont-elles 
+régulées dans le but de consolider l’hégémonie hétérosexuelle ? 
+Katherine Franke, théoricienne actuelle du droit, fait un usage 
+novateur des perspectives à la fois féministes et queer pour 
+relever qu’en admettant la primau té de la hiérarchie de genre 
+sur la production du genre, MacKinnon admet du même coup un modèle qui est, naturellement , hétérosexuel pour penser la 
+sexualité. Franke propose un modè le différent de celui de 
+MacKinnon pour penser la discrimination de genre en soutenant 
+effectivement que le harcèlement sexuel est l’allégorie par excellence de la production du genr e. Pour autant, on ne peut 
+pas considérer que t oute discrimination revi ent à du harcèlement. 
+Le harcèlement pourrait bien relever de ces actes par lesquels 
+une personne est « construite » comme étant d’un certain genre. 
+Mais il est aussi d’autres façons de rendre le genre opérant. C’est pourquoi il importe à Franke de distinguer provisoirement 
+les discriminations liées au genre de celles qui sont liées à la sexualité. Si l’on est gai ou lesbienne, par exemple, on peut se 
+trouver discriminé(e) à l’embauche parce qu’on ne réussit pas à 
+« paraître » conforme aux normes acceptables de genre. Aussi le harcèlement des gais et des lesbiennes pourrait-il bien avoir lieu non pour consolider la hiér archie de genre, mais pour pro-
+mouvoir la « normalité » au niveau du genre. 
+MacKinnon nous livre une criti que puissante du harcèlement 
+sexuel. Mais ce faisant, elle institue une régulation d’un autre 
+ordre : avoir un genre, celui d’un homme ou d’une femme, signifie que l’on est déjà entré dans une relation hétérosexuelle 
+de subordination. Son analyse fait une assimilation fâcheuse en 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 24
+supposant que le genre d’une personne dépend de la position 
+sexuelle qu’elle occupe, ce qui n’est pas sans rappeler les pro-
+pos homophobes les plus souvent tenus. Une telle conception 
+prescrit et justifie l’ordonnancemen t sexuel du genre, maintenant 
+l’idée que les hommes qui sont des hommes seront hétérosexuels 
+et que les femmes qui sont des femmes le seront aussi. Il existe d’autres points de vue sur la qu estion, tel celui de Franke, qui 
+font précisément la critique de ce tte forme de régulation de genre. 
+Il y a une différence entre les conceptions sexistes qui sont criti-quées par les féministes dont MacKinnon et les conceptions fé-ministes elles-mêmes : d’un point de vue sexiste, on affirmera 
+qu’une femme n’exprime sa fémi nité que dans l’acte hétéro-
+sexuel du coït par lequel sa subordination devient source de 
+plaisir (une essence émane de la subordination sexualisée des femmes et celle-ci confirme celle-l à) ; d’un point de vue fémi-
+niste, on soutiendra que le genre devrait être renversé, aboli ou 
+rendu fatalement ambigu, parce qu’il est précisément toujours 
+un signe de la subordination des femmes. Ce dernier point de 
+vue admet le pouvoir qu’a la premiè re description traditionnelle, 
+le fait que la première descrip tion opère déjà comme une idéo-
+logie puissante, si ce n’est qu’il vise à la contrer. 
+J’insiste lourdement sur ce point parce que certaines théori-
+ciennes queer ont fait une distinction analytique entre le genre 
+et la sexualité, rejetant tout lien causal ou structurel entre les 
+deux. Cette distinction fait parfaite ment sens, mais encore faut-
+il préciser dans quelle perspective elle le fait : si l’on veut dire par là que les normes hétérosexuelles ne devraient pas ordon-
+nancer le genre, et qu’on devr ait s’opposer à cet ordonnancement, 
+je suis favorable à cette distinction 
+12. Par contre, si l’on postule 
+qu’il n’y a pas (en termes descriptifs) de régulation sexuelle du 
+genre, un aspect important, mais non exclusif, de la manière 
+dont fonctionne l’homophobie continuera alors à échapper à celles et ceux qui veulent le plus clairement et le plus ardem-ment la combattre. Il me semble toutefois important de recon-
+ 
+12 Malheureusement, Gender Trouble est paru quelques mois avant l’ouvrage 
+magistral d’Eve Kosofsky Sedgwick, Epistemology of the Closet (1991), et 
+mes arguments n’ont pas pu profiter de la manière pleine de finesse dont elle 
+discute du genre et de la sexualité dans le premier chapitre de son livre. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 25
+naître que la subversion du ge nre n’est pas une performance 13 
+qui renseigne nécessairement sur la sexualité ni sur la pratique 
+sexuelle. On peut jouer sur l’ambiguïté au niveau du genre sans pour autant jeter le trouble dans la sexualité « normale » ni la réorienter. Parfois, l’ambiguïté au niveau du genre permet préci-sément de contenir ou de cont ourner la pratique sexuelle qui 
+n’est pas « normale » et par là d’œuvrer à maintenir telle quelle 
+la sexualité « normale » 
+14. Impossible donc d’établir une corré-
+lation entre les pratiques drag ou transgenres, par exemple, et la 
+pratique sexuelle. Il n’est guère pl us facile de cartographier la 
+sexualité à l’aide des préfixes hétéro, bi et homo, compte tenu du caractère mouvant et changeant du genre. 
+Ces dernières années, j’ai consacré l’essentiel de mon travail 
+à clarifier et à réviser la théorie de la performativité que j’ai esquissée dans Gender Trouble 
+15. Il m’est difficile d’en donner 
+ 
+13 C’est dans ce livre que Butler esqui sse sa fameuse théorie de la per-
+formativité du genre ou du genre comme performance. Avec deux idées clés. 
+Dire que le genre est performatif veut d’abord dire que le genre n’exprime pas 
+une essence, une disposition naturell e ou interne, un noyau dur — typique-
+ment le sexe —, mais qu’il est l’effet, naturalisé, stabilisé et sédimenté d’une 
+performance. Cette perform ativité du genre n’implique pas une conception 
+identitaire, volontariste ou exclusivement théâtrale du genre. Butler réfléchit 
+certes à partir d’une performance célébrée dans les cultures gaies et lesbiennes, 
+le travestissement, mais c’est pour mieux mettre en évidence la structure imi-
+tative du genre : une copie sans original. Le genre est acquis, produit, il prend 
+corps, non pas par une action unique, mais à force d’être répété. Le genre, 
+même ou surtout quand il est enfoui dans les couches les plus profondes de la 
+chair ou du sexe, est réalisé par la force performative et la contingence de cette 
+réitération. Celle-ci est un processus régulé, autrement dit stylisé ou ritualisé, 
+par une convention cadre : l’hétérosexual ité obligatoire. Ce qui ne veut pas 
+dire que la subversion du genre est impo ssible. Bien au contraire. Car ce qui 
+est fait peut être, en partie, défait et autrement refait : la question n’est plus 
+tant d’abolir le pouvoir, le genre, ou mê me le sexe, de faire table rase, comme 
+si c’était possible, mais de les reprendre « de travers », par le détournement de 
+sens, le foisonnement des pratique s et la subversion des identités. Voir aussi 
+ce qu’en dit Butler dans La vie psychique du pouvoir. L’assujettissement en 
+théories (2002 [1997], p. 21) ( NDLT ). 
+14 Jonathan Goldberg m’en a convaincue. 
+15 Pour une bibliographie plus ou moin s complète de mes publications et 
+autres références à mon travail, voir l’excellent travail d’Eddit Yeghiayan à la 
+bibliothèque de l’Université de Irvine en Californie : 
+http://sun3.lib.uci.edu/indiv/scctr/Wellek/butler/ 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 26
+une définition exacte, non seulement parce que l’idée que je me 
+faisais de « la performativité » a changé avec le temps — très 
+souvent suite aux excellentes critiques qu’on m’a adressées 16 —, 
+mais aussi parce que cette notion a été reprise et reformulée par de nombreux auteurs et auteures. Pour ma part, tout a commencé en me demandant comment lire la performativité du genre en partant de la lecture que Jacqu es Derrida fait de la nouvelle de 
+Kafka, « Devant la Loi ». Dans cette nouvelle, celui ou celle qui 
+attend la loi est assis(e) devant la porte de la loi, conférant ce faisant, une certaine force à la loi qu’il ou elle attend. Le fait d’attendre le dévoilement autorisé du sens est le moyen par le-quel l’autorité est conférée et ét ablie : l’attente fait advenir son 
+objet. Je me suis demandée si nous n’avions pas affaire à une 
+attente similaire pour ce qui est du genre, s’il opérait comme une essence intérieure qui pourrait être dévoilée, une attente qui finit précisément par produire le phénomène tant attendu. Ce qui laisse voir deux aspects de la performativité du genre : pre-
+mièrement, la performativité du genre tourne autour de cette 
+métalepse 
+17, de la manière dont l’attente d’une essence genrée 
+produit ce que cette même attente pose précisément à l’extérieur 
+d’elle-même. Deuxièmement, la performativité n’est pas un acte 
+unique, mais une répétition et un rituel, qui produit ses effets à travers un processus de naturalisation qui prend corps, un pro-
+cessus qu’il faut comprendre, en partie, comme une durée tem-
+porelle soutenue dans et par la culture 
+18. 
+La théorie de la performativ ité du genre a fait l’objet de 
+plusieurs critiques importantes, et il en est une qui mérite tout particulièrement qu’on la menti onne ici. L’idée que le genre est 
+performatif a été conçue pour montrer que ce que nous voyons 
+ 
+16 Je remercie tout particulièrement Biddy Martin, Eve Kosofsky Sedgwick, 
+Slavoj Zizek, Wendy Brown, Saidiya Ha rtman, Mandy Merck, Lynne Layton, 
+Timothy Kaufmann-Osborne, Jessica Benj amin, Seyla Benhahib, Nancy Fraser, 
+Diana Fuss, Jay Presser, Lisa Duggan et Elizabeth Grosz, pour leurs critiques 
+pertinentes sur la théorie de la performativité. 
+17 Substitution (en particulier, métonymie) d’une figure rhétorique par une 
+autre ( NDLT ). 
+18 L’idée de dimension rituelle de la performativité rejoint en partie la notion 
+d’habitus dans le travail de Pierre Bour dieu, ce que je n’ai réalisé qu’après avoir 
+écrit ce livre. J’ai essayé par la suite d’expliquer cette affinité dans le dernier 
+chapitre du Pouvoir des mots. Politique du performatif (2004 [1997]). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 27
+dans le genre comme une essence intérieure est fabriqué à 
+travers une série ininterrompue d’actes, que cette essence est 
+posée en tant que telle dans et par la stylisation genrée du corps. 
+De cette façon, il devient possible de montrer que ce que nous pensons être une propriété « interne » à nous-mêmes doit être mis sur le compte de ce que nous attendons et produisons à travers certains actes corporels, qu’elle pourrait même être, en 
+poussant l’idée à l’extrême, un effet hallucinatoire de gestes 
+naturalisés. Voulons-nous dire pa r là que nous retirons donc à la 
+psyché tout ce que nous lui voyions d’« intérieur », et que cette intériorité est une fausse métaphore ? Au début de Gender Trouble , 
+j’exploite clairement la métaphore d’une psyché intérieure pour 
+parler de la mélancolie de genre, mais elle n’est plus aussi pré-
+gnante lorsque je me mets à réfléchi r sur la performativité elle-
+même 
+19. Dans La vie psychique du pouvoir (op. cit. ) et dans 
+plusieurs articles récents traitant de questions psychanalytiques, 
+j’ai cherché à me confronter à ce problème, qui, pour beaucoup, réside dans la discontinuité du propos entre les premiers et les 
+derniers chapitres de ce livre. Bien que je refuserais d’admettre 
+que tout le monde intérieur de la psyché n’est autre que l’effet 
+d’un ensemble stylisé d’actes, je continue à penser que l’on commet une erreur théorique grave si l’ on considère que l’« intériorité » 
+du monde psychique va de soi. Certains aspects constitutifs de 
+ce monde, y compris les gens que nous connaissons et perdons, 
+deviennent des attributs internes du self, mais les caractéristiques 
+du monde se trouvent transformées dans et par ce processus d’intériorisation ; aussi, ce monde intérieur, pour utiliser une expression kleinienne, est-il justement un effet consécutif aux 
+intériorisations qui sont le fait d’une psyché 
+20. Ce qui suggère 
+qu’il pourrait bel et bien y avoir à l’œuvre une théorie psychique 
+de la performativité qui ne de mande qu’à être développée. 
+ 
+19 Jacqueline Rose m’a judicieusement fa it remarquer que les premières parties 
+de ce livre étaient fort différentes des dernières. Les prem ières parties inter-
+rogent la construction mélancolique du ge nre, mais tout se passe comme si les 
+dernières oubliaient les dé buts psychanalytiques. Peut -être ceci explique-t-il 
+un peu la « manie » du chapitre final, un état qui, pour Freud, fait partie du 
+déni de la perte propre à la mélancolie. Dans les page s conclusives, il semble 
+que la perte que le livre venait just e d’articuler soit oubliée ou déniée. 
+20 En anglais : « the interiorisations that a psyche performs » (NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 28
+Bien que ce livre ne réponde pas à la question de savoir si la 
+matérialité du corps est entièrement construite, cette question m’a 
+beaucoup préoccupée dans la suite de mes travaux et j’espère 
+avoir fourni aux lecteurs et lectrices quelques éléments de réponse 
+21. La question de savoir s’il était possible ou non de 
+transposer la théorie de la performativité du genre à des ques-tions de race 
+22 a été traitée par plusieurs auteurs et auteures. 
+J’aimerais faire ici deux remarqu es : tout d’abord, les présupposés 
+sur la race soutiennent invariablement le discours sur le genre d’une façon qu’il faudrait explicite r ; ensuite, on ne devrait pas 
+penser la race et le genre comme s’il s’agissait de simples ana-logues. En conséquence, si je devais faire une suggestion, je 
+dirais que la question n’est pas de savoir si la théorie de la per-
+formativité du genre est transposable à la race, mais plutôt de voir ce qui arrive à la théorie quand elle est confrontée à la question de la race. Nombre de ces débats se sont focalisés sur le statut de « la construction », sur la question de savoir si la race était construite à l’instar du genr e. Je suis d’avis que nous avons 
+besoin de plus d’une théorie cons tructionniste, que ces catégories 
+travaillent toujours en arrière-plan l’une de l’autre, et qu’elles 
+font tout leur effet lorsqu’elles s’articulent l’une à l’autre. La 
+sexualisation des normes raciales de genre nous invite donc à voir la chose à travers plusieurs lentilles à la fois, et si l’on 
+analysait ce processus, on sentira it tout de suite les limites d’une 
+analyse qui ne tient compte que du genre 
+23. 
+ 
+21 Voir Bodies that Matter: On the Discursive Limits of « Sex » (1993), de même 
+que la critique intelligente et intéressante de Karen Barad lorsqu’elle articule 
+quelques-unes des questions soulevées ici au domaine des études sociales des 
+sciences (1998, p. 87-126). 
+22 Je dois beaucoup aux travaux de Said iya Hartman, Lisa Lowe et Dorinne 
+Kondo. Dans les recherches actuelles sur le « passing », nombreuses sont 
+celles qui reprennent aussi cette question. Mon chapitre sur Nella Larsen et le 
+« passing » dans Bodies that Matter (1993) est une première tentative d’aborder 
+cette question. Bien sûr, mon travail rejoint sur plusieurs points celui de Homi 
+Bhabba sur le clivage mimétique du su jet postcolonial : non seulement l’idée 
+que le colonisé peut s’approprier la « voix » coloniale, mais aussi celle que 
+l’identification a une condition clivée sont cruciales à la notion de performati-
+vité, laquelle souligne combien les iden tités minoritaires sont à la fois pro-
+duites et démantelées dans le s contextes de domination. 
+23 Les travaux de Kobena Mercer, Kendall Thomas et Hortense Spillers furent 
+extrêmement utiles à la réflexion que j’ai menée sur ce sujet après la publica-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 29
+Je viens d’évoquer quelques traditions universitaires et cer-
+tains des débats qui ont donné vie à ce livre, mais le but de cette 
+préface n’est pas d’en faire l’apologie. Permettez-moi encore de mentionner un aspect qui touche aux conditions de production 
+du livre et qu’on ne comprend pas toujours : c’est qu’il est né d’une rencontre, entre le monde académique et les mouvements 
+sociaux auxquels j’ai participé, et qu’il est le « produit intérieur » 
+d’une communauté gaie et lesbienne sur la côte est des États-
+Unis dans laquelle j’ai vécu pendant quatorze ans avant d’écrire ce livre. Bien que celui-ci ne se contente pas de parler de la dis-location du sujet, mais qu’il la performe 
+24, il y a une personne 
+derrière ce livre : j’ai participé à de nombreuses réunions, mais 
+aussi à des marches, j’ai fréquenté la vie nocturne des bars, et 
+c’est ainsi que j’ai rencontré toutes sortes de gens et presque autant 
+de genres ; cela m’a permis de me comprendre moi-même à l’intersection de certains d’entre eu x et de vivre la sexualité dans 
+la marginalité. J’ai connu beaucoup de personnes qui essayaient de trouver leur chemin au mili eu d’un mouvement important 
+qui luttait pour la reconnaissance et la liberté des sexualités. J’ai 
+aussi ressenti l’exaltation et la frustration qui allaient avec le fait de faire partie de ce mouveme nt avec tous ses espoirs et en 
+même temps ses dissensions internes. Je menais une double vie, académique et extra-académique, et même si Gender Trouble 
+est un ouvrage académique, tout a commencé pour moi par un 
+chassé-croisé, alors que j’étais assise sur la plage de Rehoboth à me demander si je pouvais relier les différents aspects de ma 
+vie. Que je puisse écrire sur un mode autobiographique ne réta-blit pas ce sujet que je suis, mais peut-être que cela réconfortera 
+un peu les lecteurs et lectrices de savoir qu’il y a quelqu’un 
+derrière ce livre — que ce quelqu’un soit donné dans la langue est un problème sur lequel je passe pour l’instant. 
+ 
+tion de Gender Trouble. J’espère aussi bientôt publier un article sur Frantz 
+Fanon qui traite de la mimésis et de l’hyperbole dans son livre, Peau noire, 
+masques blancs (1971). Je remercie Greg T homas, qui a récemment terminé 
+sa thèse en rhétorique sur les sexual ités racialisées aux États-Unis, d’avoir 
+stimulé et enrichi ma compréhension de cette intersection décisive. 
+24 En anglais : « Despite the dislocation of the s ubject that the text performs » 
+(NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 30
+Parmi les expériences les plus gratifiantes de ma vie, j’aime 
+pouvoir compter celle d’avoir vu le livre circuler jusqu’à ce jour 
+en dehors du monde académique : à travers Queer Nation 25, par 
+les modes d’action directe d’Act Up proches de ma manière de penser la théâtralité de la présentation queer de soi, par le biais 
+de l’American Psyc hological Association qui s’est servie de mon 
+livre pour revoir certains de ses dogmes sur l’homosexualité. 
+Dans le domaine des arts plasti ques, la performativité du genre 
+fut reprise de différentes manières, notamment dans le cadre d’expositions au musée Whitney et à la Otis School for the Arts de Los Angeles. La façon dont ce livre pose la question des « femmes » et articule le rapport entre la sexualité et le genre a 
+aussi fait son chemin dans la jurisprudence féministe et la 
+littérature juridique en matière de lutte contre la discrimination 
+avec les travaux de Vicki Schultz, de Katherine Franke et de Mary Jo Frug. 
+En retour, mes propres engagements politiques m’ont forcée 
+à revenir sur certaines positions que j’avais prises dans Gender 
+Trouble . Dans ce livre, j’ai trop tendance à dénigrer la revendi-
+cation à l’« universalité » et ma critique manque de nuance. Or j’ai réalisé que ce terme pouvait, stratégiquement parlant, nous rendre le plus grand service précisément en tant que catégorie non substantive et ouverte en travaillant avec un groupe formi-
+dable de militant(e)s, d’abord en qualité de membre du comité 
+puis de présidente de l’International Gay and Lesbian Human Rights Commission (1994-1997), une organisation qui représente 
+les minorités sexuelles sur tout ce qui touche aux droits humains. 
+Dans ce cadre, je suis arrivée à voir comment le fait de se ré-
+clamer de l’universalité pouvait être une prolepse 
+26 et une dé-
+claration performative, faisant a dvenir une réalité qui n’existait 
+pas encore et offrant la possib ilité de faire converger des hori-
+ 
+25 Mouvement qui a fait son apparition en été 1990 durant la Gay Pride de 
+New York : des militant(e)s des mouvements de lutte contre le sida font passer 
+un brûlot avec des titres tels que « Je hais les hétéros ! » [ I Hate Straights ! ] ou 
+« Queers, lisez ça » [ Queers Read This ! ]. La provocation prend et en quelques 
+jours des groupes Queer Nation se forment à San Francisco et dans d’autres 
+grandes villes ( NDLT ). 
+26 Figure de rhétorique par laquelle on pr évient une objection en la réfutant 
+d’avance ( Petit Robert ) (NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 31
+zons culturels qui ne s’étaient encore jamais croisés. C’est ainsi 
+que j’en suis venue à redéfinir ma conception de l’universalité, 
+cette fois comme un travail de tr aduction culturelle tourné vers 
+l’avenir 27. Plus récemment, j’ai été amenée à mettre mon travail 
+en rapport avec la théorie politique et le concept d’universalité 
+dans un livre que j’ai coécrit avec Ernesto Laclau et Slavoj Zizek 
+sur la théorie de l’hégémonie et ses implications pour les intel-
+lectuels et intellectuelles de gauc he (à paraître chez Verso Books 
+en 2000 28). 
+Ma réflexion s’est aussi développée en lien avec un autre 
+type de pratiques à la fois académ iques et cliniques, celles de la 
+psychanalyse. Je travaille actuellement avec un groupe de théra-
+peutes progressistes d’inspiration psychanalytique pour lancer 
+une nouvelle revue, Studies in Gender and Sexuality , dont le but 
+est de créer un dialogue constructif entre la clinique et la recherche 
+académique sur les questions de sex ualité, de genre et de culture 29. 
+Les personnes qui ont lu Gender Trouble , qu’elles aient aimé 
+ou non le livre, ont trouvé que son style était difficile. Il y a 
+sans doute de quoi s’étonner, et de quoi enrager pour certains, 
+lorsqu’on tombe sur un livre dont la consommation n’est pas assez facile pour le rendre « populaire » au sens où l’entendent les universitaires. L’effet de surp rise vient peut-être de notre ten-
+dance à sous-estimer le grand public, sa capacité et son désir de 
+lire des livres compliqués et qui sont des défis, quand la complexité 
+n’est pas gratuite, quand le défi qu’ils lancent sert à mettre en 
+question des vérités qui vont de soi, quand l’évidence de ces vérités est effectivement oppressante. 
+Je pense que la question du style nous mène sur un terrain 
+difficile, qu’il n’est pas un choix purement individuel ou qu’il 
+suffirait de vouloir pour pouvoir le contrôler à notre guise. C’est 
+ 
+27 Pour des éléments de réflexion sur l’universalité dans la suite de mes 
+travaux, voir en particulier le chapitre 2 du Pouvoir des mots (op. cit. ). 
+28 Paru sous le titre Contingency, Hegemony, Un iversality: Contemporary 
+Dialogues on the Left (2000) ( NDLT ). 
+29 Cette revue existe désormais et la publication la plus récente de Butler dans 
+ce cadre est : « Violence, Mourning, Politics » (2003). Studies in Gender and 
+Sexuality , vol. 4, n° 1. On trouvera une version française, « Violence, deuil, 
+politique » (traduite par no s soins) dans la revue Nouvelles questions féministes , 
+2003, vol. 22, n° 1 ( NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 32
+ce que nous dit clairement Fredri c Jameson dans l’un de ses pre-
+miers livres, celui qui porte sur Sartre. On peut certes s’essayer 
+à des styles, mais vous ne choisissez pas vraiment ceux que 
+vous pouvez avoir. De plus, ni la grammaire ni le style ne sont neutres du point de vue politique . Lorsqu’on nous apprend les 
+règles d’intelligibilité que doit su ivre la langue, on nous fait 
+entrer dans le langage normalisé où le prix à payer lorsqu’on ne 
+s’y conforme pas, c’est la pert e de l’intelligibilité en tant que 
+telle. Comme me le rappelle Drucilla Cornell à la suite d’Adorno : le sens commun n’a rien de radical. Ce serait une erreur de pen-ser que la grammaire que l’on a apprise est le meilleur moyen d’exprimer des vues radicales, étant donné les contraintes que 
+pose cette grammaire sur notre pensée, et même sur ce qui est 
+simplement pensable. Il y a pourta nt des personnes qui s’irritent 
+franchement des distorsions grammaticales ou des formulations qui mettent implicitement en question la nécessité de la struc-ture propositionnelle sujet-verbe 
+30. Cela demande des lecteurs 
+et lectrices plus de travail, et ils se froissent parfois de ces exi-
+gences. Est-ce en toute légitim ité que les personnes offensées 
+exigent le « parler simple », ou est-ce que leur plainte naît d’une attente consumériste de la vie intellectuelle ? Vaut-il peut-être 
+la peine de faire soi-même l’ex périence de la difficulté linguis-
+tique ? Si le genre est lui-même naturalisé par des normes gram-
+maticales, comme le soutenait Monique Wittig, c’est alors en 
+contestant la production grammaticale du genre qu’on pourra at-teindre ce dernier à son niveau épistémique le plus fondamental. 
+L’exigence de lucidité oublie les ruses qui donnent la soi-
+disant « clarté » de vue. Avital Ronell nous rappelle ce moment 
+où Nixon regarda la nation droit dans les yeux et dit : « Que les 
+choses soient bien claires » avant de se mettre à mentir comme 
+un arracheur de dents. Qu’est-ce qui circule sous le signe de la « clarté », et quel serait le prix à payer si l’on suspendait notre faculté à douter lorsqu’on nous annonce en grande pompe l’arrivée de la lucidité ? Qui décide des protocoles de la 
+ 
+30 Les contraintes de la langue française, ou faudrait-il dire les utilisateurs et 
+utilisatrices français de la langue, m’ont parfois, souvent, obligée à rétablir cette 
+structure sujet-verbe. Mais pour garder l’idée (la dislocation du sujet), j’ai 
+recouru dans ces cas et dans la me sure du possible au pronom impersonnel 
+« on » ( NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 33
+« clarté » et quels intérêts servent-ils ? Qu’est-ce qui est forclos 
+lorsqu’on persiste à définir la transparence comme un prérequis 
+de toute communication à partir de critères locaux ? Qu’est-ce que « la transparence » laisse dans l’ombre ? 
+J’ai grandi en me familiarisant si l’on peut dire avec la vio-
+lence qu’exercent les normes de genre : un oncle incarcéré à cause de son corps à l’anatomie anormale, privé de famille, 
+d’amis et d’amies, vivotant jour après jour dans un « institut » 
+dans les prairies du Kansas ; des cousins gais forcés de quitter leur maison familiale à cause de leur sexualité, réelle ou 
+imaginaire ; mon propre coming out fait avec fracas à l’âge de 
+16 ans ; et par la suite, des pertes, d’emplois, d’amantes et de 
+maisons, ont jalonné ma vie d’a dulte. Tout ça m’a fait connaître 
+la condamnation, dure et marqua nte, mais fort heureusement, 
+cela ne m’a pas empêchée de rechercher le plaisir et de conti-nuer à vouloir que ma vie sexuelle soit reconnue comme légitime. Pas facile de voir cette violence comme telle, parce que le genre était précisément la chose la plus normale du monde et en 
+même temps la mieux gardée par la violence. On supposait que 
+le genre était soit une manifest ation naturelle du sexe soit une 
+constante culturelle qu’aucun être humain ne pouvait espérer chan-
+ger par sa capacité d’agir.
+ J’ai fini aussi par saisir quelque chose 
+de la violence liée à la vie forclose, celle dont on ne dit pas qu’elle 
+est « vivante », dont l’incarcération implique la suspension de la 
+vie ou une condamnation à mort prolongée. L’assiduité que je mets à « dénaturaliser » le genre dans ce livre vient, je crois, du désir profond de contrer la violence relevant des normes qui gouvernent le genre — une violence implicite au niveau des 
+morphologies idéales du sexe — et aussi de déterrer les pré-
+supposés prégnants sur le caractère naturel ou allant de soi de 
+l’hétérosexualité, des présupposés pétris par les discours ordi-naires ou académiques sur la sexua lité. Je n’ai pas écrit sur ce 
+processus de dénaturalisation pour le simple plaisir de jouer avec 
+la langue ou pour nous obliger à faire les marionnettes au lieu 
+de la « vraie » politique, comme certains critiques l’ont supputé 
+(comme si le théâtre et la politique étaient toujours des do-maines distincts). Je l’ai fait par désir de vivre, de rendre la vie possible et de repenser le possible lui-même. À quoi aurait dû ressembler le monde pour que mon oncle pût vivre en compa-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 34
+gnie de sa famille, d’ami(e)s, ou de parent(e)s éloigné(e)s ? 
+Comment doit-on repenser les contraintes liées aux morpho-
+logies idéales qui sont posées sur l’humain pour que la personne qui échoue à s’approcher de la norme ne soit pas condamnée au statut de morte vivante ? 
+31 
+Certaines personnes qui ont lu ce livre se sont demandées si 
+Gender Trouble cherchait à élargir le champ des possibles en ma-
+tière de genre pour une raison quelconque : imaginer de nouvelles 
+configurations de genre, mais pour quoi faire, se demandaient-
+elles, et comment devrions-nous en juger ? Pour poser cette question, il faut supposer que le livre n’aborde pas la dimension 
+normative ou directive de la réflexion féministe. Dans ce livre, 
+j’utilise souvent le terme « normati f » dans deux sens principaux, 
+généralement pour décrire la violence ordinaire qu’exercent cer-taines sortes d’idéaux de genre. Le plus souvent, j’utilise le terme 
+« normatif » comme un synonyme pour dire « relevant des normes qui gouvernent le genre ». Mais le terme « normatif » relève 
+aussi de l’ordre de la justification éthique — comment s’établit-
+elle et quelles en sont les conséquences concrètes ? Comment 
+faire pour juger de la manière dont il faut vivre le genre en se basant sur les descriptions théo riques proposées dans ce livre ? 
+Telle fut l’une des critiques que l’on a adressées à Gender Trouble . 
+Il n’est pas possible de s’opposer aux formes « normatives » du 
+genre sans souscrire en même temps à une conception nor-
+mative de la manière dont devrait êt re le monde genré. Cela dit, 
+j’aimerais souligner que la vision normative — au sens positif du terme — qui est proposée dans ce livre dans sa forme ac-tuelle ne revient pas, c’est impossible, à donner des ordres tels 
+que : « Subvertissez le genre comme je le dis et la vie sera 
+belle ». 
+Les gens qui se permettent de donner de tels ordres ou qui 
+sont prêts à décider quelles sont les expressions du genre qui sont 
+subversives et lesquelles ne le sont pas, émettent leur jugement 
+ 
+31 Les publications de l’Inters ex Society of North America (y compris les 
+publications de Cheryl Chase) furent ici d’une importance majeure. Plus que 
+toute autre organisation, l’ ISNA a sensibilisé le public sur l’autorité et la 
+violence qui étaient exercées sur de s nouveaux-nés et nouvelles-nées et des 
+enfants nés avec des anoma lies de genre pour maintenir l’ordre du genre. Pour 
+de plus amples informations, voir leur site : http://www.isna.org 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 35
+sur la base d’une description. Le genre apparaît sous telle ou 
+telle forme, puis vient le jugement normatif sur ces apparences, 
+jugement qui est rendu sur la base de ce qui apparaît. Mais qu’est-ce qui conditionne le domai ne où le genre peut faire son 
+apparition ? Nous pourrions être te nté(e)s de faire la distinction 
+suivante : d’un côté, nous ferions un compte rendu descriptif du 
+genre intégrant des considérations sur ce qui rend le genre intel-
+ligible, une recherche sur ses conditio ns de possibilité ; de l’autre 
+côté, nous tiendrions un discours normatif qui aurait pour but de 
+répondre à la question de savoi r quelles expressions du genre 
+sont acceptables, lesquelles ne le sont pas, donnant des raisons 
+convaincantes de les distinguer de la sorte. Cependant la ques-
+tion de savoir ce qui compte pour du « genre » est déjà en soi 
+une question qui atteste du f onctionnement subtilement norma-
+tif du pouvoir, un fonctionnement imperceptible qui fait passer « ce qui sera » pour « ce qui est dé jà » le cas. La question de la 
+description même du champ du genre ne précède pas la ques-tion de son fonctionnement norma tif : les deux questions sont 
+indissociables. 
+Rendre des jugements sur ce qui distingue le subversif du 
+non-subversif ne m’intéresse pas. Je pense non seulement qu’on ne peut pas juger de la chose indépendamment du contexte, mais aussi qu’on ne peut le faire une fo is pour toutes (les « contextes » 
+sont eux-mêmes des unités postulé es qui changent avec le temps 
+et qui dévoilent leur hétérogé néité interne). Les métaphores per-
+dent leur force métaphorique lorsqu’elles se figent en concepts avec le temps. Il en va de mê me des performances subversives : 
+elles courent toujours le risque de devenir des clichés mortels à 
+force d’être répétées, et chose plus importante encore, répétées 
+dans le cadre d’une économie de marché où « la subversion » a 
+une valeur marchande. Toute tenta tive de définir le critère défi-
+nitif de ce qui est subversif est, et devrait être, vouée à l’échec. Mais alors à quoi bon parler de subve rsion et quel en est l’enjeu ? 
+Les questions qui m’intéressent le plus sont toujours du même 
+ordre : qu’est-ce qui constitue ou non une vie intelligible, et 
+comment des présupposés sur ce qui est « normal » en matière de genre et de sexualité prédéterminent ce qui compte pour « l’humain » et « le vivable » ? Autrement dit : comment les présupposés normatifs sur le genre tendent-ils à circonscrire le 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 36
+champ même de la description que nous pouvons faire de 
+l’humain ? Par quels moyens en venons-nous à voir ce pouvoir 
+de démarcation, et par quels mo yens le transformons-nous ? 
+La manière dont je me propose d’analyser le drag dans 
+Gender Trouble me permet d’expliquer la dimension construite 
+et performative du genre, mais il ne faudrait pas y voir un 
+exemple de subversion. Il sera it erroné de voir le drag comme le 
+paradigme de l’action subversive ou encore comme un modèle 
+pour la capacité d’agir en politique. La question est plutôt 
+ailleurs. Si l’on pense voir un homme habillé en femme ou une femme habillée en homme, c’est qu’on prend le premier terme perçu pour la réalité du genre : le genre qui est introduit par le 
+biais de la comparaison manque de « réalité », et on y voit une 
+apparence trompeuse. Dans ces perceptions où une prétendue 
+réalité va de pair avec une non-réalité, nous pensons savoir ce 
+qu’est la réalité et voyons dans la seconde apparence du genre un simple artifice, un jeu, une fausseté et une illusion d’optique. Mais quel est le sens de « la réalité de genre » qui fonde notre 
+perception de cette façon ? Peut -être pensons-nous savoir quelle 
+est l’anatomie de la personne — parfois nous n’en savons rien 
+et nous n’avons certainement pas encore apprécié à sa juste valeur la variabilité qui existe au niveau de la description ana-
+tomique. Ou nous tirons ce savoir des vêtements portés par la 
+personne, ou encore de la manière qu’elle a de les porter. Il 
+s’agit d’un savoir naturalisé, même s’il est basé sur une série d’inférences culturelles dont certaines sont franchement erronées. En effet, si nous prenons un autre exemple que le drag , disons 
+la transsexualité, nous voyons bien dans ce cas qu’il est im-
+possible de se faire la moindre idée sur l’anatomie stable à par-
+tir des vêtements qui couvrent et articulent le corps. Ce corps 
+peut être préopératoire, trans itoire ou postopératoire ; même le 
+fait de « voir » le corps pourrait ne pas régler la question : car quelles sont les catégories qui nous permettent de voir ? Au 
+moment où nos perceptions cult urelles ancrées au quotidien 
+échouent, lorsqu’on n’arrive pas à lire avec certitude le corps 
+que l’on voit, c’est précisément le moment où l’on n’est plus sûr(e) de savoir si le corps perçu est celui d’un homme ou d’une femme. L’expérience que nous faisons du corps en question consiste précisément à hésiter entre ces catégories. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 37
+Lorsque de telles catégories sont mises en question, la réalité 
+du genre entre aussi en crise : on ne sait plus comment dis-
+tinguer le réel de l’irréel. Et c’est à cette occasion que l’on 
+comprend que ce que nous tenons pour « réel », ce que nous invoquons comme du savoir naturalisé sur le genre est, en fait, une réalité qui peut être changée et transformée. Appelez cela subversif ou autrement si vous voulez. Bien que cette manière 
+de voir ne constitue pas en soi une révolution politique, aucune 
+n’aura lieu sans changement radical de l’idée qu’on se fait du possible et du réel. Et il arrive que ce changement soit produit par certaines pratiques qui sont mises en œuvre avant qu’on les explicite théoriquement, et qui nous poussent à repenser nos 
+catégories fondamentales : qu’est-ce que le genre, comment est-
+il produit et reproduit, et que rend-il possible ? À ce point, on en vient à comprendre que le champ sédimenté et réifié de la « réalité » de genre pourrait être réalisé autrement et, sans doute, 
+moins violemment. 
+Il ne s’agit pas dans ce livre de célébrer le drag comme s’il 
+exprimait ce qui est vrai et typique du genre — même s’il 
+importe de résister au rabaissement dont le drag fait parfois 
+l’objet —, mais plutôt de mont rer comment le savoir naturalisé 
+sur le genre circonscrit, préventivement et violemment, la réa-lité. Les normes de genre (le dimorphisme idéal, la complémen-
+tarité hétérosexuelle des corps, les idéaux et la règle pour ce qui 
+est proprement ou improprement masc ulin et féminin, dont beau-
+coup se trouvent renforcés par des codes de pureté raciale et des tabous sur le métissage) établi ssent ce qui sera intelligiblement 
+humain ou ne sera pas, ce qui sera considéré ou non comme 
+« réel ». C’est en ce sens que l’on peut dire que ces mêmes 
+normes constituent le champ ontologique où les corps trouvent leur expression légitime. S’il est une tâche normative — au sens positif du terme — que se donne Gender Trouble , c’est d’insister 
+pour étendre cette légitimité à des corps qu’on a jusque-là 
+considérés comme faux, irréels et inintelligibles. Le drag est un 
+exemple qui sert à montrer que la « réalité » n’est pas aussi fixe 
+que nous le pensons habituelleme nt. Le but de cet exemple est 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 38
+de dévoiler les fils ténus qui ti ssent la « réalité » de genre pour 
+pouvoir contrer la violence qu’exercent les normes de genre 32. 
+Ici comme ailleurs, j’ai essayé de comprendre ce que pourrait 
+être la capacité d’agir en politique vu qu’on ne peut l’isoler de 
+la dynamique du pouvoir qui la forge. L’itérabilité de la per-
+formativité est une théorie de la capacité d’agir où le pouvoir 
+est indéniablement l’une de ses conditions de possibilité. Ce 
+livre ne rend pas assez compte des dimensions sociales, psy-
+chiques, corporelles et temporelles de la performativité. Sous certains aspects, le souci constant de clarifier ces dimensions, en réponse aux nombreuses et excellentes critiques qui m’on été faites, marque la suite de mes travaux. 
+Ces dix dernières années, le livre a suscité de nouvelles cri-
+tiques et j’ai cherché à y répondre dans diverses publications. Sur le statut de la matérialité du corps, on trouvera ma position, 
+revue et corrigée, dans Bodies that Matter (op. cit. ). Sur la 
+question de savoir si la catégorie « femme » est nécessaire pour l’analyse féministe, j’ai revu et élargi mes vues dans un article 
+intitulé « Contingent Foundations », publié dans Feminists 
+Theorize the Political que j’ai coédité avec Joan W. Scott (1993) ; 
+cet article a été republié dans l’ouvrage collectif, Feminist 
+Contentions (Butler 1995). 
+Je ne crois pas que le post-structuralisme conduise à la mort 
+de l’écriture autobiographique, mais il attire l’attention sur la 
+difficulté du « je » à s’exprimer dans le langage dont il dispose. 
+Car ce « je » que vous lisez est, en partie, la conséquence de la 
+grammaire qui gouverne l’accessibilité des personnes dans le langage. Je ne me trouve pas en dehors du langage qui me struc-
+ture, mais je ne suis pas non pl us déterminée par le langage qui 
+ 
+32 Dans La vie psychique du pouvoir , Butler apporte la clarification suivante : 
+« Le rapport entre les performances des tr avestis et la performativité du genre 
+dans Gender Trouble est le suivant : quand un homme se travestit en femme, 
+‘l’imitation’ que le travesti est dit ac complir est prise comme une ‘imitation’ 
+de la féminité, mais la ‘féminité’ qu’il imite n’est pas comprise comme étant 
+elle-même une imitation. Pourtant, si l’ on considère que le genre est acquis, 
+qu’il est assumé en rapport à des idéaux qui ne sont jamais tout à fait habités, 
+alors la féminité est un idéal que tout le monde se contente toujours d’‘imiter’. 
+Ainsi, le travesti imite la structure imitative du genre, révélant le genre lui-même 
+comme imitation. » (2002, p. 216) ( NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 39
+rend possible ce « je ». Comme je vois les choses, c’est toute la 
+question, difficile, de l’expression de soi qui se pose. Cela veut 
+dire que vous ne me recevez jamais indépendamment de la grammaire qui me rend accessible pour vous. Si je fais comme si cette grammaire était transl ucide, j’échouerai alors précisé-
+ment à attirer l’attention sur ce tte sphère du langage qui fait et 
+défait l’intelligibilité, et cela reviendrait précisément à déjouer 
+mon propre projet tel que je viens de vous le décrire. Je n’essaie 
+pas de rendre les choses plus difficiles qu’elles ne le sont ; je me contente d’attirer votre attention sur une difficulté sans la-quelle aucun « je » ne peut apparaître. 
+Cette difficulté prend une dimension particulière lorsqu’on 
+l’approche dans une perspective psychanalytique. Pour chercher 
+à comprendre l’opacité du « je » da ns le langage, je me suis de 
+plus en plus tournée vers la psychanalyse depuis la parution de 
+Gender Trouble . D’habitude, on essaie d’opposer la théorie de 
+la psyché à la théorie du pouvoir. C’est, me semble-t-il, contre-productif car ce qu’il y a de si oppressant dans les formes so-
+ciales du genre, ce sont notamment les difficultés psychiques 
+qu’elles font naître. J’ai cherché à voir comment mettre Foucault et la psychanalyse en dialogue dans La vie psychique du pouvoir . 
+J’ai aussi eu recours à la psychanalyse pour infléchir les quel-ques moments volontaristes dans ma conception de la perfor-
+mativité, sans rendre impossible pour autant une théorie plus 
+générale de la capacité d’agir. Il arrive que Gender Trouble 
+laisse croire que le genre est une simple invention de soi ou que le sens psychique d’une présentation genrée peut se lire directe-ment à sa surface. Avec le temps, j’ai nuancé ces deux postulats. 
+De plus, ma théorie offre une interprétation tantôt linguistique 
+tantôt plus théâtrale de la perfo rmativité. J’en suis venue à pen-
+ser que ces deux dimensions étaient inévitablement liées en un 
+chiasme. En effet, si l’on reconsidérait l’acte de parole comme une instance du pouvoir, on ne manquerait pas de voir ses di-mensions à la fois théâtrales et linguistiques. Dans le Pouvoir 
+des mots , j’ai cherché à montrer comment l’acte de parole rele-
+vait à la fois de la performance (et qu’il comporte donc une dimension théâtrale, qu’il est présenté à un public, sujet à in-terprétation) et du langage, i nduisant un ensemble d’effets de 
+par sa relation d’implication av ec les conventions linguistiques. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 40
+Si l’on se demande comment une théorie linguistique des actes 
+de parole peut avoir un quelconque rapport avec les actes cor-
+porels, il suffit de penser que parler est en soi un acte corporel avec des effets linguistiques particul iers. Ainsi la pa role ne relève 
+pas uniquement de la présentation corporelle ni du langage, et 
+son statut en tant que dire et faire est nécessairement ambigu. Cette ambiguïté n’est pas sans c onséquences pour la pratique du 
+coming out , pour le pouvoir d’insurrection qu’a l’acte de parole, 
+pour le langage qui est une cond ition de la séduction corporelle 
+avec le risque permanent d’être blessant. 
+Si je devais récrire ce livre aujourd’hui, j’inclurais une dis-
+cussion des pratiques transgenres et de l’intersexualité, de la 
+manière dont le dimor phisme idéal de genre opère dans ces deux 
+types de discours relativement proches, des différents rapports que l’un et l’autre entretiennent aux interventions chirurgicales. 
+J’inclurais aussi une discussion sur la sexualité racialisée et en particulier sur la manière dont les tabous sur le métissage — et l’échange sexuel interracial comm e romance — sont essentiels aux 
+formes naturalisées et dénaturalisé es que prend le genre. Je conti-
+nue de garder espoir en une coalition des minorités sexuelles qui transcendera la simplicité des catégories identitaires, qui se refusera à effacer la bisexualité, qui contrera et dissipera la vio-
+lence imposée par des normes corpor elles restrictives. J’aimerais 
+tant espérer qu’une telle coalition se base sur la complexité ir-
+réductible de la sexualité et son implication dans les différentes 
+dynamiques du pouvoir discursif et institutionnel, que personne n’aille trop vite en besogne en réduisant le pouvoir à la hiérar-
+chie et en refusant ses dimens ions politiques productives. Même 
+si je pense que faire reconnaître son statut de minorité sexuelle 
+est une tâche difficile dans le cadre légal, politique et linguis-tique des discours dominants, je c ontinue à penser que cette re-
+connaissance est d’une nécessité vitale. Mobiliser des catégories 
+identitaires à des fins de politisation, c’est toujours courir le risque imminent de voir l’identité devenir l’instrument du pou-
+voir auquel on s’oppose. Ce n’est pas une raison pour ne pas 
+utiliser, ou être utilisé(e) par, l’identité. Il n’y a pas de position politique qui soit pure de pouvoir, et c’est peut-être cette im-pureté qui fait que la capacité d’agir est, en puissance, une inter-ruption ou un renversement des régimes régulateurs. Celles et 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Préface à la seconde édition (1999) de Gender Trouble 41
+ceux qui sont censé(e)s être « irréels » ont pourtant prise sur le 
+réel, une prise que l’on prend de concert, et une instabilité vitale 
+est produite par cette surprise performative. Ce livre est ainsi écrit comme un chapitre de la vi e culturelle dans une lutte collec-
+tive qui a eu, et continuera à avoir, quelques succès en multi-pliant les possibilités de vivre leur vie pour celles et ceux qui vivent, ou essaient de vivre, leur s sexualités dans la marginalité 
+33. 
+Berkeley, Californie, juin 1999 
+Traduit de l’anglais (États-Unis) par Cynthia Kraus 
+Références 34 
+Barad Karen (1998). « Getting Real: Technoscientific Practices and 
+the Materialization of Reality ». Differences , vol. 5, n° 2. 
+Butler Judith (1993). Bodies that Matter: On the Discursive Limits of 
+« Sex » . New York, Routledge. 
+— (1995). « Contingent Foundations ». In Benhabib Seyla et al. Feminist 
+Contentions: A Philosophical Exchange . New York, Routledge. 
+— (1998a). « Postface ». In Munt Sally (ed). Butch/Femme: Inside 
+Lesbian Gender . London & Washington, Cassell. 
+— (1998b). « Postface ». Sexualities , vol. 5, n° 3 « Transgender in Latin 
+America: Persons, Practices and Meanings ». 
+— (1999). Gender Trouble. Feminism and the Subversion of Identity . 
+New York, Routledge [1re éd. 1990]. 
+— (2002). La vie psychique du pouvoir. L’assujettissement en théories 
+[trad. de l’américain par Brice Matthieussent]. Paris, Léo Scheer 
+[éd. originale (1997). The Psychic Life of Po wer: Theories in Sub-
+jection . Stanford, CA, Stanford University Press]. 
+ 
+33 Je remercie Wendy Brown, Joan W. Scott, Alexandra Chasin, Frances 
+Bartkowski, Janet Halley, Michel Feher, Homi Bhabha, Drucilla Cornell, 
+Denise Riley, Elizabeth Weed, Kaja Silverman, Ann Pellegrini, William 
+Connolly, Gayatri Chakravorty Spivak, Ernesto Laclau, Eduardo Cadava, 
+Florence Dore, David Kaza njian, David Eng et Dina Al-kassim pour m’avoir 
+manifesté leur soutien et leur amitié au printemps 1999 tandis que je rédigeais 
+cette préface. 
+34 La présente bibliographie a été établie par la rédaction de la revue à partir 
+des références dont parle Judith Butler dans cette préface. Les références citées 
+par Cynthia Kraus ont été laissé es en note de bas de page [ NDLR ]. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Judith Butler 42
+— (2004). Pouvoir des mots. Politique du performatif [trad. française 
+par Charlotte Nordmann]. Paris, Éd. Amsterdam [éd. originale 
+(1997). Excitable Speech: A Politi cs of the Performative . New York, 
+Routledge]. 
+Butler Judith, Laclau Ernesto, Zizek Slavoj (2000). Contingency, He-
+gemony, Universality: Contemporary Dialogues on the Left . London, 
+Verso. 
+Butler Judith, Scott Joan W. (eds) (1993). Feminists Theorize the 
+Political . Vol. 1. New York, Routledge. 
+Fanon Franz (1971). Peau noire, masques blancs . Paris, Seuil. 
+Kosofsky Sedgwick Eve (1991). Epistemology of the Closet . Berkeley 
+& Los Angeles, University of California Press. 
+MacKinnon Catharine A. (1987). Feminism Unmodified: Discourses 
+on Life and Law . Cambridge, Mass., Harward University Press. 
+Rubin Gayle (1975). « The Traffic in Women: Notes on the Political 
+Economy of Sex ». In Reiter Rayna (ed). Toward an Anthropology 
+of Women . New York, Monthly Review Press. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

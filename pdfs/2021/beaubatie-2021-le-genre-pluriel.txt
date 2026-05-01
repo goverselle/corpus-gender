@@ -1,0 +1,753 @@
+Le genre pluriel
+Approches et perspectives pour complexifier le modèle
+femme/homme en sciences sociales
+Emmanuel Beaubatie
+Dans Cahiers du Genre 2021/1 n° 70 , pages 51 à 74
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782343241180
+DOI 10.3917/cdge.070.0051
+Date de mise en ligne : 04/11/2021
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2021-1-page-51?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+ 
+ Le genre pluriel 
+Approches et perspectives pour complexifier 
+le modèle femme/homme en sciences sociales 
+Emmanuel Beaubatie 
+ 
+Résumé 
+Un certain nombre de travaux de sciences sociales ont su complexifier 
+le modèle femme/homme. Cet article revient sur la ge nèse et les apports de 
+ces approches, tout en suggéran t une nouvelle voie. Beaucoup de 
+recherches se sont penchées sur l’intrication des rapports sociaux et sur les 
+styles de féminité et de masculinité , mais sans nécessairement décomposer 
+ce que le genre recouvre pour chacun ⋅e ni questionner la bipartition 
+femme/homme. En s’inspirant de la soci ologie des classes sociales et en 
+tenant compte des transformations contemporaines de l’ordre sexué, ce 
+texte invite à concevoir le genre co mme un espace multidimensionnel dans 
+lequel les positions sont à la fois nombreuses et composites. 
+GENRE – ESPACE SOCIAL – DISTINCTION – FÉMINISME 
+INTERSECTIONNALITÉ 
+ 
+Le genre est le plus souvent entendu au sens d’un rapport 
+social – fréquemment employé au pluriel sous la dénomination 
+de « rapports sociaux de sexe » – qui produit, différencie et 
+hiérarchise deux catégories : homme et femme. Toutefois, ce 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 52 
+système de classement a fait l’objet d’un certain nombre de 
+critiques au cours de la dernière décennie. Ces critiques peuvent 
+parfois provenir de personnes enquêtées, pour beaucoup des 
+jeunes revendiquant des identificati ons de genre alternatives. En 
+témoignent les retours qui ont été adressés à l’enquête « Avoir 
+20 ans en 2020 » (Attias-Donfut et Segalen 2021) ou encore à 
+l’enquête « Violences et rapports de genre » de l’Institut 
+national d’études démographiques en 2016, au motif que les 
+modalités du sexe se limitaient à « homme » ou « femme » dans 
+le questionnaire (Trachman et Lejbowicz 2018). La commu-
+nauté scientifique, aussi, en vient à se questionner sur la 
+pertinence de ces catégories qui ne rendent pas nécessairement 
+compte de la diversité des identifications, pratiques et 
+représentations de genre de chacun ⋅e. De tels questionnements ne 
+sont pas nouveaux. Il y a longtemps déjà, des sexologues ont 
+étudié les « intermédiaires se xuels » (Hekma 1994) et des 
+anthropologues ont identifié des « troisièmes sexes » (Handman 
+2008). Quant à la critique féminist e des sciences, elle a maintes 
+fois souligné que ces dernières ne parviennent pas à faire rentrer 
+tous les individus dans les deux cases qu’elles avaient contribué à 
+créer (Fausto-Sterling 2012 [2000]) . Enfin, les travaux portant 
+sur les gays, les lesbiennes, les trans’1 et les non-binaires2 – dans 
+le domaine des études queer notamment – ont indéniablement 
+nourri les réflexions portant sur les nuances du genre depuis une 
+trentaine d’années (Butler 2005 [1990] ; Chauncey 1994 ; 
+Chamberland et al. 2009 ; Chauvin et Lerch 2013 ; Chetcuti 
+2010 ; Halberstam 2018). Mais ce qui caractérise notre époque, 
+c’est que ce questionnement se pr olonge désormais à l’échelle 
+de l’ensemble de la population, autorisant à penser la multi-
+plicité du genre de manière tran sversale en dépit du modèle 
+résolument binaire qui s’est imposé dans – et est depuis imposé 
+par – les pays occidentaux du nord (Laqueur 1992). 
+ 
+1 Les trans’ sont des personnes qui ne se reconnaissent pas dans la catégorie 
+de sexe qui leur a été assignée à la naissance et qui entreprennent d’en 
+changer. 
+2 Les non-binaires sont des personnes qui ne s’identifient ni comme homme, 
+ni comme femme. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 53
+Ce ne sont pas seulement les homosexuel·les, les intersexes, 
+les trans’ et les non-binaires qui habitent le genre d’une 
+diversité de façons. En réalité, cette diversité traverse 
+l’ensemble du monde social. Elle est même présente chez les 
+personnes cis’3 et hétérosexuelles qui, au fond, ne corres-
+pondent jamais à un modèle hégémonique absolu. Les 
+catégories d’homme et de femme ne suffisent pas, et ce pour 
+personne. C’est l’hypothèse que font Laurel Westbrook et Aliya 
+Saperstein, deux sociologues qui, dans le même temps, estiment 
+que la création de nouvelles catégories ne constitue pas 
+nécessairement la solution (Westbrook et Saperstein 2015). 
+Présentant l’écueil potentiel de l’individualisation, ces 
+modalités supplémentaires risque raient d’entraver un certain 
+nombre d’analyses sur les inégalités qui se jouent entre hommes 
+et femmes. Alors, comment étudier la multiplicité du genre en 
+même temps que les hiérarchies qu’implique ce rapport social ? 
+Entre revue de la littérature et proposition théorique, cet article 
+revient sur l’émergence d’approches qui ont su complexifier le 
+schéma « homme versus femme » sans se pencher spéci-
+fiquement sur des minorités sexuelles et de genre. Il développe 
+ce que ces approches ont permis de conceptualiser et surtout de 
+complexifier quant au genre, tout en suggérant une nouvelle 
+voie. Car jusqu’à présent, si un certain nombre de travaux se 
+sont intéressés à l’intrication des rapports sociaux et aux 
+« styles » (Avril 2014) de féminité et de masculinité, ils n’ont 
+pas nécessairement décomposé ce que le genre recouvre pour 
+chacun ⋅e, ni mis en cause la bipartition femme/homme. En 
+sociologie, beaucoup de recherches ont investigué la multi-
+plicité des classes et fractions de classes sociales, mais il n’en a 
+pas été de même pour le genre (Dunezat 2015). 
+Pour cette raison, ce texte propose d’envisager le genre 
+comme une appartenance sociale résolument plurielle. En 
+s’inspirant de la sociologie des classes, il invite à concevoir le 
+genre non comme un rapport social strictement bi-catégoriel, ni 
+même comme une simple échelle allant du féminin au masculin, 
+mais comme un espace en plusieurs dimensions. À partir des 
+ 
+3 Le terme de cis’ est l’antonyme de trans’. Il désigne le s personnes qui se 
+reconnaissent dans la catégorie de sexe qui leur a été assigné e à la naissance. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 54 
+années 1970, des approches féministes matérialistes – parmi 
+lesquelles celles de Christine Delphy (1998) – se sont 
+développées en référence à la théorie marxiste, mais aucune recherche n’a, à ce jour, pensé le genre comme un espace social analogue au modèle introduit pa r Pierre Bourdieu (1979). En 
+allant au-delà d’une lecture binaire, ce concept a permis de montrer que les classes sociales ne se cantonnent pas à une 
+opposition entre deux, et seulement deux classes – l’une 
+bourgeoise, l’autre prolétaire – qui seraient définies uniquement par la place qu’elles occupent dans les rapports économiques de production. Ce raisonnement peut aussi s’avérer hautement heuristique sur le plan du genre. Le genre ne se résume pas à 
+une catégorie de sexe qui assigne à un pôle ou à un autre de la 
+division sexuelle du travail. Il ne se résume pas non plus à une identification subjective figée et univoque. En réalité, il est fait 
+d’une multitude d’identifications, de pratiques et de représentations qui s’entremêlent pour forger des positions singulières. Le concept d’espace social présente un autre intérêt 
+majeur : il permet de prendre au sérieux les luttes sociales et les 
+formes de distinctions qui se jouent entre les individus et les groupes, dont les positions n’existent que par rapport à celle des autres. C’est en cela qu’il autorise à penser la pluralité avec les 
+hiérarchies, parce que ces personnes et ces groupes s’affrontent 
+pour accéder aux ressources de la domination symbolique et 
+matérielle. 
+Se référer à un concept de Pierre Bourdieu implique avant 
+toute chose de revenir sur les critiques qui ont été formulées à l’égard de ses analyses sur le genre. Dans La Domination 
+masculine (1998), ce sociologue analyse la manière dont la 
+domination se perpétue et se trouve incorporée par les femmes elles-mêmes. S’il s’inspire peu des travaux des féministes qui l’ont précédé, il n’adopte pas non plus un raisonnement véritablement analogue à celui qu’ il a mené auparavant sur la 
+classe. D’une part, il se concentre avant tout sur les dimensions 
+symboliques de la domination, éludant l’importance des aspects 
+physiques et matériels qui se trouvaient pourtant au cœur des 
+analyses des féministes matérialistes (Mathieu 1991, Delphy 1998). D’autre part, il semble cons idérer que certaines sphères, 
+telles que l’amour et la conjugalité, échappent en partie aux 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 55
+rapports sociaux de sexe dans le contexte de l’hétérosexualité 
+(Devreux et al. 2002). Mais plus généralement, le problème 
+réside aussi dans le fait que Bourdieu n’envisage pas le genre 
+comme un espace social tout aussi complexe – et mouvant – que celui qu’il a cartographié dans La Distinction . Bien qu’il 
+mentionne à la marge l’histoire des mobilisations féministes et 
+LGBT, il ne prend pas en compte certains changements sociaux 
+décisifs (Perrot 1999, Lagrave 2003, Devreux 2010), pas plus 
+que la multiplication contemporaine des normes sexuelles et de genre qu’ils induisent, contribuant à diversifier les positions de genre, mais aussi à faire émerger de nouvelles formes de distinctions. 
+D’autres travaux que ceux de Bo urdieu s’avèrent utiles pour 
+introduire de telles nuances. Ceux de Claude Grignon et Jean-Claude Passeron (1989) tout d’a bord, permettent de penser la 
+pluralité des pôles de prescripti on qui peuvent coexister dans 
+l’espace social. Du point de vue du genre, la légitimité ne se trouve pas seulement chez celles et ceux qui revendiquent leur 
+conformité à l’ordre établi : se montrer féministe par exemple, 
+peut parfois conférer un certain capital symbolique. Les travaux de Bernard Lahire (1998 ; 2013) ensuite, autorisent à investiguer la diversité et l’enchevêtrement des socialisations qui peuvent advenir du point de vue du genre. Ils permettent 
+d’envisager les mobilisations féministes et LGBT comme des instances de socialisation à part entière, qui produisent des normes que les individus incorporent. Dans le contexte contemporain, les individus sont en effet amenés à concilier et à mettre en cohérence différentes normes de genre, parfois 
+concurrentes, voire contradictoires. En s’inspirant de ces 
+différents travaux, cet article engage un dialogue entre la sociologie du genre et la sociologie des classes sociales, invitant à revenir sur les approches de la première à partir d’outils conceptuels de la seconde. Pour autant, il n’invite pas à une 
+rupture vis-à-vis des approches de la sociologie du genre, qui 
+ont par ailleurs davantage intégré la sociologie des classes dans 
+leurs analyses que l’inverse. Bien au contraire, il retrace leurs apports et suggère de les enrich ir de concepts empruntés à cet 
+autre champ d’études. Après avoir rappelé les approches théoriques permettant déjà de penser les nuances du genre, nous 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 56 
+l’envisagerons de façon multidimensionnelle et cela, en 
+accordant une attention particu lière aux distinctions qui 
+adviennent dans l’espace social. 
+Des approches pour penser les déclinaisons du féminin 
+et du masculin 
+Deux grands courants d’études fournissent déjà des outils 
+théoriques pour analyser les variations du féminin et du 
+masculin. D’abord, les études sur l’intrication des rapports sociaux – autrement appelées études sur la consubstantialité ou l’intersectionnalité – ont pe rmis de mettre en évidence 
+différentes expressions de la domination masculine, qui sont 
+fonction des appartenances de classe et de race des individus. 
+S’inspirant de ces études, les trav aux sur les styles de féminité 
+et de masculinité ont fait appa raître toute la diversité des 
+constructions de soi à une échelle plus individuelle. 
+L’intrication des rapports sociaux 
+Dans les années 1970, l’étude de l’intrication des rapports 
+sociaux émerge en sociologie sous la plume de Danièle 
+Kergoat. Cette sociologue propo se alors un déplacement crucial 
+au sein des approches féministes matérialistes, dans lesquelles 
+elle se reconnaît par ailleurs. D’inspiration marxiste, le 
+féminisme matérialiste est fondé sur une analogie entre genre et classe : dans cette perspective, les hommes et les femmes 
+constituent deux classes de sexe qui s’affrontent dans une lutte 
+antagonique. Pour les sociologues qui ont introduit cette idée, l’analogie était en partie stratégique : il s’agissait alors de désessentialiser le genre et de le faire reconnaître comme un rapport social tout aussi structurant que la classe. Néanmoins, le paradigme de l’analogie présente un écueil de taille. En faisant 
+le parallèle entre différents rapports sociaux, il peut parfois 
+amener à sous-estimer leur articulation, bien que ces deux approches ne soient en rien incompatibles (Juteau 2016). Pour cette raison, Danièle Kergoat (1987 [1982]) s’interroge sur les manières dont le genre structure l’expérience ouvrière (son 
+terrain de l’époque) et inversem ent. Elle observe notamment 
+comment la « division sexuelle du travail » modèle la 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 57
+profession, les femmes étant surexploitées en raison de la 
+dextérité et de la minutie que l’on reconnaît à leur sexe. 
+Toutefois, cette division du travail entre hommes et femmes peut également être préjudiciable pour les hommes, car ces derniers investissent davantage que les femmes dans ce que Kergoat nomme le « travail-institution » (soit le travail rémunéré en dehors de la sphère familiale), tandis que pour les 
+femmes, le travail est également conçu sur le mode domestique 
+et reproductif. En cela, les hommes s’avèrent particulièrement vulnérables à l’exploitation cap italiste, leur masculinité se 
+construisant avant tout entre les murs de l’usine, où les rétributions sont souvent dérisoires et la hiérarchie impitoyable. 
+Danièle Kergoat formule la notio n de « consubstantialité » des 
+rapports sociaux pour désigner le fait que ceux-ci se 
+coproduisent mutuellement, formant un « nœud » indémêlable. L’expérience qui est faite du ra pport de sexe est façonnée par 
+les appartenances de classe et, de manière corollaire, l’expérience qui est faite du rapport social de classe est 
+façonnée par les appartenances de sexe. Cette approche pose les 
+jalons, en France, d’un raisonnement sur l’hétérogénéité interne des classes sociales comme des classes de sexe. 
+Aux États-Unis, les approches de l’intersectionnalité 
+émergent d’abord dans la sphère des mobilisations féministes 
+états-uniennes. Dans les années 1980, le Black feminism 
+commence à dénoncer l’exclusion dont les femmes noires font 
+l’objet au sein des luttes des femmes. Il apparaît alors que, dans ces mobilisations, les femmes sont pensées comme étant blanches par défaut. Tout se passe comme si le fait 
+d’expérimenter d’autres formes de domination venait mettre en 
+question l’appartenance à la catégorie femme. Le titre de l’ouvrage de Gloria Hull, Patric ia Bell-Scott et Barbara Smith 
+(1982) est en cela éclairant : « All the Women Are White, All the Blacks Are Men, But some of Us Are Brave ». In fine , les 
+femmes noires ne trouvent vraiment leur place nulle part, ni 
+dans les mobilisations féministes, puisqu’elles sont noires, ni 
+dans les mobilisations antiracistes, puisqu’elles sont femmes. C’est dans ce contexte que la juriste Kimberlé Crenshaw (2005 [1991]) formule la notion d’intersectionnalité à partir de son travail sur les violences conjugales et la jurisprudence 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 58 
+antidiscrimination aux États-Unis. Ce terme d’intersectionnalité 
+renvoie au fait que l’expérience concrète de la violence est 
+qualitativement différente selon les appartenances sociales des 
+femmes. S’il a pu être interprété comme faisant référence à une intersection de plusieurs domin ations, la définition initiale 
+qu’en donne Crenshaw est en r éalité proche de celle de la 
+« consubstantialité », à savoir non pas un point de croisement 
+mais bel et bien un nœud dans lequel les dominations sont 
+enchevêtrées (Chauvin et Jaunait 2015). Spécialiste des violences conjugales, cette juriste fournit cet exemple à l’appui de sa théorie. L’expérience des violences conjugales, nous dit-elle, n’est pas la même pour les femmes noires et pour les 
+femmes blanches. D’abord parce que les femmes noires ont 
+plus de difficultés à reporter ces violences auprès de la police, les pratiques racistes de cette dernière étant de notoriété publique. Ensuite, parce que la s phère familiale et conjugale 
+présente pour les femmes noires une dimension fondamentale qu’elle n’a pas pour les blanches : pour elles, il s’agit d’un 
+espace où se protéger du racisme de l’extérieur. À travers cette 
+étude de cas, Crenshaw avance que les femmes, leurs expériences sociales et leur façon d’envisager le monde ne se ressemblent pas. Comme Kergoat, Crenshaw démontre que la domination peut prendre bien des visages. Inspiré par ces 
+approches féministes – mais sans nécessairement s’y référer 
+systématiquement –, le champ de la sociologie s’est penché, à une échelle plus individuelle, sur les déclinaisons des styles de féminité et de masculinité. 
+Les styles de féminité et de masculinité 
+Autour des années 1980 et 1990, les études sur la 
+socialisation de genre commencent à investiguer ses variations 
+selon les milieux sociaux. De nombreux travaux sur la 
+socialisation étudiaient déjà la différenciation à l’œuvre entre garçons et filles mais, sous l’influence des études sur la consubstantialité et l’intersectionna lité, le paramètre de la classe 
+sociale est introduit dans les analyses. Diverses études s’attachent dès lors à démontrer que la socialisation est plus ou 
+moins différenciée selon les appartenances de classe. Beaucoup 
+de recherches – trop nombreuses pour être citées ici – avancent, 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 59
+données qualitatives ou quantitatives à l’appui, que l’instance 
+de socialisation fondamentale qu’est la famille fait davantage de 
+différences entre garçons et filles dans les milieux populaires que dans les milieux plus dot és (Rouyer et Zaouche-Gaudron 
+2006 ; Mardon 2011 ; Diter 2015). Les jouets, les vêtements et les comportements des parents s’avèrent moins discriminants dans les familles bénéficiant d’ un important capital culturel, 
+celles-ci évoluant dans un milieu empreint d’un fort ethos 
+égalitaire (Court et al . 2016), bien que ce dernier se retrouve 
+également dans des classes plus populaires (Clair 2011) et que, par ailleurs, il ne se transcrive pas toujours dans la pratique (Hochshild 1989). Il y aurait une forme de distinction des plus 
+instruit ⋅e⋅s à se montrer égalitaires, forgeant des dispositions de 
+genre bien distinctes selon les milieux sociaux. Le constat est le 
+même pour la socialisation scolaire. Dès 1992, Christian Baudelot et Roger Establet ( 1991) notent que les écarts de 
+niveau entre garçons et filles sont bien plus importants dans les classes populaires que dans les classes supérieures. Car là où les garçons de milieux modestes cons truisent leur virilité par la 
+défiance de l’autorité, ceux des milieux plus favorisés sont formés à s’engager pleinement dans la compétitivité scolaire (Felouzis 1992). De telles études m ontrent que la socialisation à 
+la féminité ou à la masculinité est plus ou moins marquée selon les cadres sociaux et qu’elle se décline en différents styles, mais tout en continuant de s’inscr ire dans un modèle dimorphique. 
+C’est également le cas dans le champ des études sur les masculinités ou, plus récemment, sur les féminités. 
+Les études sur les masculinités et les féminités plurielles ont 
+commencé à se développer en sociologie au cours des années 1990. Ce sont les études sur les masculinités qui ont d’abord 
+trouvé un écho, entre autres à partir du travail de Raewyn Connell dans son ouvrage phare, Masculinités (2014 [1995]). 
+À l’époque, il y a un enjeu à s’intéresser au groupe qui domine 
+l’ordre patriarcal : il s’agit d’interroger la catégorie dominante 
+– comme d’autres l’ont fait à propos de la blanchité (Frankenberg 1993 ; McIntyre 1997 ; Cervulle 2013) – et de la déshomogénéiser, d’autant que celle-ci est bien souvent 
+constituée en référent neutre . En 1995, Raewyn Connell 
+propose une typologie dynamique des styles de masculinités. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 60 
+Elle définit d’abord la masculinité hégémonique comme un 
+ensemble de pratiques de genre permettant de maintenir la 
+subordination des femmes à une époque et dans un contexte donné. Elle décrit également trois autres types de masculinités : les masculinités complices (qui relayent les valeurs du patriarcat mais n’adoptent pas toutes les pratiques de la domination, par exemple en ra ison de leur relation avec 
+certaines femmes), les masculinités subordonnées (qui sont associées à la féminité ; c’est le cas pour les homosexuels), et les masculinités marginalisées (elles-mêmes asservies, comme les hommes de classe populaire ou racisés). Dans ce modèle, la diversité masculine est conceptualisée à partir de la prise en 
+compte de plusieurs éléments : l’intrication des rapports 
+sociaux, mais aussi les dominations sexuelles à l’œuvre, ou encore les configurations relationnelles. 
+Un travail comparable sur les féminités a suivi de peu la 
+publication de Raewyn Connell : il s’agit de la recherche de Beverley Skeggs dans Formations of Class and Gender (1997, 
+traduit en 2015 sous le titre Des femmes respectables). Cette 
+sociologue remarque que ses enquêtées – des lycéennes modestes – bâtissent leur respectabilité par des comportements de distinction de classe vis-à-vis de celles qui sont moins dotées en capital. Skeggs observe notamment que la respectabilité 
+passe par le rapport à la sexualité – ce que démontreront ensuite 
+les analyses d’Isabelle Clair (2012) à l’échelle de « l’ordre 
+hétérosexuel » dans son ensemble : pour les femmes des classes 
+populaires, la respectabilité se construit par le rejet de toute sexualisation, bien que certaines adoptent un style glamour 
+mesuré dans le cadre de stratégies matrimoniales. De tels 
+travaux sur les féminités ou sur les masculinités montrent que celles-ci ne sont ni homogènes, ni monolithiques. Mais en portant sur les hiérarchies soit entre hommes, soit entre femmes, 
+ils peuvent avoir tendance à autonomiser ces deux catégories, avec le risque de sous-estimer le rapport de domination qui les 
+fait exister l’une par rapport à l’autre. Pour limiter ce possible écueil, la partie suivante formule une proposition théorique fondée sur une approche relationne lle du genre, qu’elle suggère 
+de penser comme un espace social. Cette approche demeure toutefois indissociable des travaux sur l’intrication entre 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 61
+rapports sociaux. Au fond, ce sont deux formes de pluralité que 
+la suite de ce texte propose d’étudier conjointement : celle des 
+différents rapports sociaux, mais aussi celle des différentes composantes du genre. 
+Envisager le genre comme un espace social 
+Le genre peut être envisagé comme un espace comportant 
+plusieurs dimensions. Irréduc tible aux deux catégories 
+d’homme et de femme, il constitue en quelque sorte une 
+appartenance sociale multidimensionnelle, tant dans la diversité 
+des positions de genre possibles que dans le caractère composite de ces différentes positions. Les identifications, pratiques et représentations des individus n’étant pas toujours en accord, les 
+tensions qui se jouent au sein des parcours de chacun⋅ e 
+trahissent de nombreuses formes de distinctions. En s’inspirant 
+des travaux présentés ci-avant et en les alliant à ce nouveau cadre de pensée, cette seconde partie formule une manière 
+possible de concevoir le genre en sciences sociales. 
+Une multitude de positions 
+Le genre peut être conçu comme un espace. Cette idée a déjà 
+été développée dans les études sur les classes sociales 
+(Bourdieu 1979), dont on sait désormais qu’elles ne se cantonnent pas à une opposition entre deux classes divisées par un seul et unique paramètre d’ordre économique. Complexe, la nomenclature des catégories socio-professionnelles (PCS) qui a accompagné les travaux sur les classes n’a pas d’équivalent en 
+matière de genre (Dunezat 2015). Or, de même que l’espace 
+social de classe se caractérise par une multitude de classes ayant une relative autonomie culturelle, l’espace social du genre se compose de différents pôles dont les configurations en termes d’identifications, de pratiques et de représentations de genre 
+diffèrent et dans lesquels les individus ne présentent pas les mêmes structures de capital. Déjà cartographié statistiquement à l’échelle de la population trans’ et non binaire (Beaubatie 2019a), cet espace a fait apparaître que, selon leurs appartenances sociales, les personnes se reconnaissent plus ou moins dans les standards institutionnels et administratifs de la 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 62 
+différence des sexes et qu’elles ont par ailleurs un goût – ou un 
+dégoût – variable pour l’entre-soi et la non-mixité en matière de 
+genre4. Par ailleurs, toutes ne se représentent pas le genre de la 
+même manière. L’espace social comprend une pluralité de 
+groupes qui ont chacun un pouvoir normatif propre et luttent de diverses manières pour tenter d’imposer la légitimité de leur conception du genre. Pour le dire autrement, il ne s’agit pas de 
+se demander si les individus sont plus ou moins conformes aux 
+normes de genre, mais d’analyser en quoi les normes des un⋅ e⋅s 
+ne sont pas celles des autres. 
+Les normes de genre tendent à se diversifier. L’ordre 
+traditionnel et hétérosexuel qui diffé rencie et hiérarchise deux et 
+seulement deux catégories reste prégnant dans certains milieux, 
+tandis qu’une norme féministe, voire parfois une norme d’indifférenciation entre femmes et hommes, tend à s’affirmer 
+dans d’autres : c’est le fameux ethos égalitaire des plus 
+instruit ⋅e⋅s présent dans les études sur la socialisation. Le 
+pouvoir institutionnel de prescription – qu’il soit étatique, familial, religieux ou médical – cohabite désormais avec d’autres discours sur le genre en provenance d’instances plus 
+nombreuses. Déjà avancée par Michel Bozon à propos de la 
+sexualité (2004), cette hypothèse pe rmet de prendre en compte 
+le fait que les mouvements féministes et LGBT constituent de 
+véritables instances de socialisation. Comme l’a montré Bernard Lahire (1998), les indi vidus connaissent une diversité 
+d’expériences socialisatrices en provenance de multiples 
+instances ; ce postulat vaut également pour le genre. Les 
+mobilisations féministes et LGBT influent par ailleurs sur bon nombre d’institutions et d’organisations, qui en viennent, pour certaines, à promouvoir la parité femme/homme, voire la diversité des orientations sexuelles et de genre. Rares sont les partis politiques qui, de nos jours, briguent le pouvoir sans 
+afficher des mesures favor ables à l’égalité ou à la 
+représentativité des hommes et des femmes. De nouvelles 
+organisations peuvent aussi y être spécifiquement dédiées, 
+ 
+4 Les préférences pour la mixité ou non- mixité avaient déjà fait l’objet de 
+travaux dans le contexte de l’école, où les garçons se montrent davantage 
+favorables à la mixité que le s filles (Duru-Bellat 2010). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 63
+comme le Haut Conseil à l’Égalité entre les femmes et les 
+hommes en France. Dans ce contexte de mutations de l’ordre du 
+genre, le fait d’afficher une posture ouvertement féministe et subversive semble rejoindre la promotion de l’égalité – ou 
+autres politiques de « diversité » (sexuelle ou raciale notamment) – au rang des signes de modernité. 
+L’espace social du genre se caractérise par une lutte entre les 
+adeptes de cette modernité et les défenseur ⋅e⋅s d’un modèle 
+traditionnel qu’ils-elles posent comme une évidence biologique. C’est ainsi que les mobilisations féministes font régulièrement face à des discours ramenant les femmes à une condition 
+biologique jugée fondamentalement distincte de celle des 
+hommes. Les mouvements de lutte contre les violences sexuelles par exemple, se voient opposer une conception différentielle de la sexualité qui attribue aux hommes des 
+besoins naturellement impérieux. De tels discours exercent une 
+violence symbolique sur les femmes, en même temps qu’ils légitiment la violence physique e nvers elles. Mais en réalité, on 
+trouve bien plus que deux logiques d’action dans l’espace social du genre. Il n’y a pas seulement deux formes d’engagement, l’une progressiste, l’autre réactionnaire. La pluralité de l’engagement a déjà été investiguée à propos de différents 
+mouvements sociaux, y compris les mouvements féministes. 
+Laure Bereni (2015) par exemple, cartographie un « espace de la cause des femmes » dans lequel les militantes peuvent lutter pour la parité de bien des façons. Les modes d’action et les priorités politiques dépendent des trajectoires sociales des 
+femmes. Pour revenir au cas des violences conjugales 
+développé par Kimberlé Crenshaw, l’incitation de certaines mouvances féministes à judiciariser de tels épisodes n’est certainement pas un horizon commun à toutes. Toutefois, les positions qui se revendiquent du féminisme sont moins éloignées entre elles que les positions des masculinistes, par 
+exemple, bien que ces dernières soient, elles aussi, hétérogènes. 
+Là où certains hommes tentent activement de regagner un pouvoir qu’ils considèrent perd u mais légitime (Gourarier 
+2017), d’autres se contentent d’estimer que le féminisme va trop loin et – en « complices » (Connell 2014 [1995]) – de ne 
+renoncer à aucun dividende patriarcal. Les individus et les 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 64 
+groupes qui peuplent l’espace social peuvent ainsi lutter sur 
+différents modes pour accéder à différentes choses, une 
+dynamique qui recouvre certaines formes de distinctions. 
+ Stratégies de distinction(s) 
+Dans un espace social du genre où les positions sont plus ou 
+moins légitimes, plusieurs form es de distinctions peuvent 
+advenir. Les défenseur⋅ e⋅s de l’ordre établi se distinguent tout 
+d’abord de celles et ceux qui portent des conceptions 
+alternatives. Il s’agit, souvent, d’individus ayant été socialisés 
+comme des hommes depuis le plus jeune âge (Beaubatie 2019a). Ce constat fait écho à l’enquête « Contextes de la sexualité en France », dans laquelle Nathalie Bajos, Michèle Ferrand et Armelle Andro (2008) remarquent que les hommes 
+croient davantage que les femmes à une différence biologique entre les sexes. Toutefois, les femmes aussi peuvent se retrouver dans ce type de représentations et les mettre en avant dans certains champs matériellement décisifs, comme le monde du travail. Par exemple, celles qui embrassent des carrières 
+autrefois réservées aux hommes peuvent intégrer les 
+fondements d’un ordre social qui est à l’origine de violences envers elles. Nicky Le Feuvre (2008) montre notamment comment certaines femmes entreprennent de se faire une place en utilisant une rhétorique différentialiste, la même rhétorique qui contribue à bâtir le plafond de verre. Lorsqu’ils n’occupent 
+pas les positions les plus légitimes, les individus adoptent aussi parfois des « identités stratégi ques » (Collovald 1988), comme 
+pour prévenir les soupçons, le paternalisme ou les 
+discriminations à leur égard. En matière de genre, chacun ⋅e est 
+amené ⋅e à réfléchir à ce pour quoi il ou elle passe aux yeux des 
+autres. Et dans le passing – terme initialement employé à 
+propos des personnes racisées pouvant passer pour blanches – , 
+différents rapports sociaux se trouvent intriqués. Par exemple, 
+le passing de race ou de classe peut être conditionné par un 
+certain passing de genre (Beaubatie 2019b), celui-ci visant à 
+afficher une masculinité moins « marginalisée » ou une féminité 
+plus « respectable » que celle qui pourrait être lue par défaut. Tout le monde ne peut se permettre d’afficher sa non-conformité au grand jour, surtout lorsque des droits ou des 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 65
+ressources sont en jeu. La transgression assumée de l’ordre 
+établi demeure le privilège de certain ⋅e⋅s qui, s’ils-elles 
+occupent une position minorisée, se distinguent malgré tout par 
+une posture critique qui est socialement située. 
+Ainsi, les individus qui se réclament d’une identification non 
+binaire, par exemple, présentent des caractéristiques sociales 
+bien particulières. Dans leur analyse des critiques reçues lors de 
+l’enquête « Violences et rapports de genre », Mathieu Trachman et Tania Lejbowicz (2018) remarquent que ces critiques proviennent avant tout de jeunes femmes. À l’échelle de la population trans’, on observe également que les personnes qui 
+se disent le plus « non binaires » sont surtout des jeunes 
+initialement socialisé ⋅e⋅s au féminin et disposant d’un important 
+capital scolaire (Beaubatie 2019a). La non-conformité de genre 
+porte d’abord l’empreinte de l’âge et de la génération, les jeunes 
+n’ayant pas reçu la même socialisation de genre – ni la même 
+socialisation féministe – que leurs parents et étant encore, du 
+fait de leur âge, préservé ⋅e⋅s des contraintes matérielles et 
+administratives de la vie adulte. La socialisation de genre 
+constitue un autre facteur décisif, les personnes éduquées au 
+féminin essayant davantage de s’ émanciper de leur position que 
+leurs homologues masculins. Le niveau d’instruction, enfin, 
+constitue un autre paramètre déterminant, les vocations subversives constituant en elles-mê mes des signifiants de classe 
+et ne pouvant être concrétisées que si les individus disposent de 
+suffisamment de ressources pour prendre le risque de cette 
+concrétisation. En définitive, si les jeunes générations se 
+montrent plus souples vis-à-vis du modèle de la différence des 
+sexes, ce sont les femmes qui ont le plus intérêt à s’en défaire et 
+les plus instruit ⋅e⋅s qui aspirent à s’en distinguer. Ainsi, les 
+distinctions de genre sont parfo is aussi des distinctions de 
+classe, qui peuvent se doubler de distinctions sexuelles. Les 
+transformations contemporaines de la « masculinité hégémonique » (Connell 2014 [1995]) en donnent un aperçu. Ce modèle de masculinité est traditionnellement hétérosexuel, 
+blanc et fortement doté en capitaux de différentes natures, mais il connaît des reconfigurations liées à notre époque. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 66 
+Dans un contexte de développement des politiques de 
+l’identité, le fait de compter ses privilèges et de se dire 
+féministe ou encore gayfriendly tend à devenir politiquement 
+correct parmi les masculinités hégémoniques, qui considèrent leurs déclarations comme performatives. Conjointement – et en 
+lien avec un phénomène d’inflation de politiques sécuritaires – l’intolérance est repoussée par ces mêmes hommes vers des 
+figures qui incarnent l’altérité ; c’est ainsi que les classes 
+populaires et les groupes racisés sont souvent représentés comme étant particulièrement sexistes et homophobes. Malgré la visibilité croissante des pratiques articulant féminisme et 
+islam (Mahmood 2009 [2005], Ali 2012), les musulman ⋅e⋅s sont 
+parmi les plus stigmatisé ⋅e⋅s. Or, si Marion Maudet (2017) 
+observe un fort attachement à la famille hétérosexuelle parmi 
+eux et elles, elle remarque que cet attachement se décline aussi 
+chez les catholiques et que, par ailleurs, il se manifeste 
+davantage dans les représentations que dans les pratiques. Pourtant, la défiance se retrouve jusque dans les mouvements 
+féministes, certain⋅ e⋅s militant ⋅e⋅s revendiquant – non sans 
+relents colonialistes – une supéri orité blanche et occidentale en 
+matière de genre (Guénif-Souilamas et Macé 2004 ; Hamel 2006). Elle se retrouve aussi au sein des milieux homosexuels (Puar 2007), où se dire ouvertem ent gay constitue parfois une 
+forme de distinction de classe (Bajos et Beltzer 2008 ; Beaubatie 2019c) comme de race. Le fait de se montrer comme 
+non conforme au modèle qualifié par Catherine Achin et Elsa 
+Dorlin (2008) de « virilité-privilège » peut, dans certains contextes, s’apparenter à des « habits neufs de la domination » 
+(Singly 1993). Les analyses de Demetrakis Demetriou (2015 [2001]) en attestent lorsqu’il affirme que les masculinités 
+« subordonnées » – c’est-à-dire homosexuelles – participent 
+pleinement du maintien de l’hégémonie. En se distinguant, en apparence, d’une masculinité qu’ils jugent archaïque et dépassée, certains hommes – gays, mais aussi et surtout hétérosexuels ayant incorporé des codes gays – contribuent à désarmer la critique féministe de la domination, tout en 
+réassignant les autres hommes à leur statut « subordonné » ou 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 67
+« marginalisé »5 (Connell 2014 [1995]). La légitimité de tel ou 
+tel style de masculinité évolue au gré des transformations des 
+rapports sociaux de sexe, de classe et de race. Si la féminité « respectable » (Skeggs 2015 [ 1997]) connaît peu d’évolutions, 
+la masculinité respectable, elle , est désormais féministe. Au-
+delà des tensions subjectives identifiées par Connell (2019 [2005]) au sein de la masculinité hégémonique, on peut penser 
+qu’il existe pour certains hommes des injonctions – et surtout 
+des bénéfices – à se montrer ég alitaires. Vraisemblablement 
+investie par beaucoup de personnes blanches et fortement dotées en capital scolaire et culturel, la posture d’homme féministe confère des rétributions symboliques. 
+Cependant, cette posture fémi niste ne se retranscrit pas 
+nécessairement dans les conduites. Les études menées par Wilfried Rault (2016) ou par Sylvie Tissot (2018) à propos de la gayfriendliness en attestent. À propos de l’homosexualité, les 
+deux sociologues observent une forte acceptation de principe de 
+la part des plus aisé ⋅e⋅s, mais remarquent aussi que la tolérance 
+ne résiste pas à l’épreuve de la pratique, notamment lorsque leur 
+propre enfant se révèle être gay ou lesbienne. Les milieux 
+populaires ou racisés s’avèrent parfois plus tolérants dans les faits. Les travaux de Salima Amari (2017) auprès de 
+descendant ⋅e⋅s d’immigré ⋅es du Maghreb montrent comment 
+l’acceptation du lesbianisme d’un enfant peut se dérouler 
+tacitement et cela, sans en passer par un coming-out verbalisé 
+que beaucoup associent à une norme blanche et occidentale. Le 
+fait d’accueillir favorablement les positions sexuelles et de 
+genre moins légitimes n’est pas qu’une question de discours, 
+c’est aussi une question de pratiques. C’est également une question de représentations : l es discours d’acceptation pouvant 
+être conditionnés par certains critères de respectabilité, ils sont parfois doublés de représentations stigmatisantes à l’égard de 
+certaines fractions du groupe censé être accepté (Tissot 2018). 
+ 
+5 À propos des représentations exotisantes parmi les hommes gays, 
+voir notamment Désirer comme un homme de Florian Vorös (2020) et 
+autour de « l’homme ar abe » comme figure repou ssoir, voir également 
+Les féministes et le garçon arabe de Nacira Guénif-Souilamas et Éric 
+Macé (2004) et Mâle décolonisation de Todd Shepard (2017). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 68 
+Éminemment relationnel, l’espace social du genre constitue un 
+lieu de luttes au sein duquel les différents rapports sociaux 
+s’avèrent, in fine , indémêlables. 
+ 
+* * 
+* 
+ 
+Les nuances du genre sont depuis longtemps investiguées par 
+les sciences sociales. Les études sur l’intrication des rapports 
+sociaux et sur les styles de féminité et de masculinité ont permis de décrire de multiples façons d’ habiter le genre, qui dépendent 
+notamment des appartenances sociales de classe et de race des personnes. Cependant, ces travaux demeurent généralement 
+fondés sur un modèle bi-catégoriel et surtout unidimensionnel. 
+Cet article invite à déplier le genre en le concevant comme une appartenance sociale résolument plurielle. Le concept d’espace social du genre notamment, permet – par analogie à un espace social de classe qui a été maint es fois cartographié en sociologie 
+– de rendre justice aux différents reliefs du genre et cela, sans 
+renoncer aux différentes approch es qui ont précédé. En effet, 
+cet espace est fait de multiples positions, qui sont elles-mêmes 
+faites de différentes composan tes façonnées par des rapports 
+sociaux. Chaque individu présente une diversité de pratiques, de 
+représentations et d’identifications, dont il n’est pas rare 
+qu’elles soient contradictoires. 
+Au fondement de ces contradictions, il y a la rencontre entre, 
+d’une part, les nouvelles normes produites par les mobilisations 
+féministes et LGBT et, d’autre part, les prescriptions 
+institutionnelles plus anciennes. En matière de genre, chacun ⋅e 
+est désormais amené⋅ e à mettre en cohérence différentes 
+injonctions, selon un équilibre qui est socialement situé du point 
+de vue de l’âge, de la génération, de la classe, de la race et du sexe assigné. Mais ces positions ne sont pas figées pour autant. 
+Elles peuvent évoluer au cours de la vie. Cet article propose 
+d’explorer l’espace social du genre mais, pour aller plus loin, il s’agirait aussi de se pencher sur les mobilités qui prennent place 
+dans cet espace. Les trans’ ne sont vraisemblablement pas les 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 69
+seul ⋅e⋅s à être des « transfuges de sexe » (Beaubatie 2017). Il 
+existe aussi des mobilités plus discrètes. Comme les mobilités 
+sociales de classe (Pagis et Pasquali 2016), les mobilités 
+sociales de sexe peuvent recouvrir une diversité de natures et 
+d’amplitudes. Certaines bifurcations peuvent par exemple advenir chez les femmes à la suite d’un épisode de violence, ou 
+encore à l’occasion d’un changement conjugal ou professionnel. 
+L’espace social du genre se compose d’une diversité de positions, mais aussi de nombreuses formes de circulations. 
+Entreprendre d’étudier la diversité et les mobilités de genre, 
+c’est toutefois se heurter à d’inévitables limites d’ordre 
+épistémologique. Comment catégoriser les individus et décrire 
+leurs déplacements entre catégories, aussi plurielles soient-elles, sans renoncer à prendre en compte toutes les nuances de leurs expériences ? Aussi, comment se faire comprendre sans jamais faire référence aux catégories déjà établies et qui organisent 
+toujours bel et bien le monde social et le champ scientifique ? 
+Le fait de continuer à employer les termes « homme » et « femme » dans cet article est, en soi, symptomatique de telles limites. Si la réconciliation entre approches structuralistes et perspectives intégrant les échelles individuelles constitue une voie pour affiner la lecture d es trajectoires et des vécus en 
+matière de genre, elle ne prétend pas pour autant résoudre ce problème inhérent aux sciences sociales. Néanmoins, l’espace social du genre peut constituer un outil heuristique – bien que, 
+comme tout outil théorique, il ne puisse l’être jusqu’au bout – pour conceptualiser le genre et revisiter son empreinte sur 
+différents terrains et dans de nombreux champs d’études. 
+ 
+Références 
+Achin Catherine et Dorlin Elsa (2008). « Nicolas Sarkozy ou la 
+masculinité mascarade du président ». Raisons politiques , 3 (31) : 
+19-45. 
+Ali Zahra (2012). Féminismes islamiques . Paris, La Fabrique. 
+Amari Salima (2018). Lesbiennes de l’immigration : construction de 
+soi et relations familiales . Paris, Éditions du Croquant. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 70 
+Attias-Donfut Claudine, Segalen Martine (2021). Avoir 20 ans en 
+2020. Le nouveau fossé des générations . Paris, Odile Jacob. 
+Avril Christelle (2014). Les Aides à domicile. Un autre monde 
+populaire . Paris, La Dispute. 
+Bajos Nathalie et Beltzer Nathalie (2008). « Les sexualité homo-
+bisexuelles : d’une acceptation de principe aux vulnérabilités 
+sociales et préventives ». In Bajo s Nathalie, Bozon Michel (dirs.), 
+Enquête sur la sexualité en France : pratiques, genre, santé . Paris, 
+La Découverte : 243-272. 
+Bajos Nathalie, Ferrand Michèle et Andro Armelle (2008). « La 
+sexualité à l’épreuve de l’égalité ». In Bajos Nathalie et Bozon 
+Michel (dirs.), Enquête sur la sexualité en France : pratiques, 
+genre, santé . Paris, La Découverte : 545-578. 
+Baudelot Christian, Establet Roger (1992). Allez les filles ! Une 
+révolution silencieuse. Paris, Points. 
+Beaubatie Emmanuel (2017). « Transfuges de sexe. Genre, santé et 
+sexualité dans les parcours d’hommes et de femmes trans’ en France ». Thèse de sociologie, Paris, EHESS. 
+Beaubatie Emmanuel (2019a). « L’espace social du genre. Diversité 
+des logiques d’action et d’identification dans la population trans’ 
+en France ». Sociologie , 10 (4) : 395-414. 
+Beaubatie Emmanuel (2019b). « L’am énagement du placard. Rapports 
+sociaux et invisibilité chez les hommes et les femmes trans’ en France ». Genèses , 114 (1) : 32-52. 
+Beaubatie Emmanuel (2019c). « Changer de sexe et de sexualité. Les 
+significations genrées des orientations sexuelles ». Revue française 
+de sociologie , 60 (4) : 621-649. 
+Bereni Laure (2015). La Bataille de la parité. Mobilisations pour la 
+féminisation du pouvoir. Paris, Economica. 
+Bourdieu Pierre (1979). La Distinction . Paris, Éditions de Minuit. 
+Bourdieu Pierre (1998). La Domination masculine . Paris, Seuil. 
+Bozon Michel (2004). « La nouvelle normativité des conduites 
+sexuelles, ou la difficulté de me ttre en cohérence les expériences 
+intimes ». In Bastien Danielle, Bozon Michel, Chaumont Jean-
+Michel et Marquet Jacques (dirs.), Normes et conduites sexuelles. 
+Approches sociologiques et ouvertures pluridisciplinaires . 
+Louvain-la-Neuve, Bruylant Académia. 
+Butler Judith (2005 [1990]), Trouble dans le genre : pour un 
+féminisme de la subversion . Paris, La Découverte. 
+Cervulle Maxime (2013). Dans le blanc des yeux. Diversité, racisme 
+et médias . Paris, Amsterdam. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 71
+Chamberland Line, Frank Blye et Ristock Janice (2009). Diversité 
+sexuelle et constructions de genre . Québec, Presses de l’Université 
+du Québec. 
+Chauncey George (1994). Gay New York. Gender, urban culture and 
+the making of the gay male world, 1890-1940 . New York, Basic 
+books. 
+Chauvin Sébastien, Lerch Arnaud (2013). Sociologie de 
+l’homosexualité . Paris, La Découverte. 
+Chauvin Sébastien, Jaunait Alexan dre (2015). « L’intersectionnalité 
+contre l’intersection ». Raisons politiques , 58 (2) : 55-74. 
+Chetcuti Natacha (2010). Se dire lesbienne. Vie de couple, sexualité, 
+représentation de soi. Paris, Payot. 
+Clair Isabelle (2011). « La découverte de l’ennui conjugal. Les 
+manifestations contrariées de l’idéal conjugal et de l’ethos 
+égalitaire dans la vie quotidienne de jeunes de milieux 
+populaires ». Sociétés contemporaines, 83 (3) : 59-81. 
+Clair Isabelle (2012). « Le pédé, la pute et l’ordre hétérosexuel ». 
+Agora débats/jeunesses, 60 (1) : 67-78. 
+Collovald Annie (1988). « Identité(s) stratégique(s) ». Actes de la 
+recherche en sciences sociales , 72 : 29-40. 
+Connell Raewyn (2014 [1995]). Masculinités. Enjeux sociaux de 
+l’hégémonie. Paris, Éditions Amsterdam. 
+Connell Raewyn (2019 [1995]). « Des hommes de raison ». Cahiers 
+du Genre , 67 (2) : 25-48. 
+Court Martine, Bertrand Julien, Bo is Géraldine, Henri-Panabière 
+Gaële et Vaanhée Olivier (2016). « Qui débarrasse la table ? Enquête sur la socialisation domestique primaire ». Actes de la 
+recherche en sciences sociales , 215 (5) : 72-89. 
+Crenshaw Kimberlé W. (2005 [1991]), « Cartographie des marges : 
+intersectionnalité, politique de l’identité et violences contre les femmes de couleur ». Cahiers du Genre , 39 (2) : 51-82. 
+Delphy Christine (1998), L’Ennemi principal 1. Économie politique 
+du patriarcat. Paris, Syllepse. 
+Demetriou Demetrakis (2001). “Connell’s Concept of Hegemonic 
+Masculinity : A Critique”. Theory and Society, 30 (3) : 337-361. 
+Devreux Anne-Marie (2010). « Pierre Bourdieu et les rapports entre 
+les sexes : une lucidité aveuglée ». In Chabaud-Rychter Danielle, 
+Descoutures Virginie, Varikas Eleni, Devreux Anne-Marie (dirs.), 
+Sous les sciences sociales, le genre. Relectures critiques, de Max Weber à Bruno Latour. Paris, La Découverte : 77-93. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 72 
+Devreux Anne-Marie, Fassin Éric, Hi rata Helena, Löwy Ilana, Marry 
+Catherine, Bessin Marc, Jami Irèn e (2002). « La critique féministe 
+et La domination masculine ». Mouvements , 24 (5) : 60-72. 
+Diter Kevin (2015). « « Je l’aime, un peu, beaucoup, à la folie… pas 
+du tout ! » La socialisation des garçons aux sentiments 
+amoureux ». Terrains & travaux , 27 (2) : 21-40. 
+Dunezat Xavier (2015). « L’observation ethnograp hique en sociologie 
+des rapports sociaux : sexe, race, classe et biais essentialistes ». 
+SociologieS [En ligne]. 
+Duru-Bellat Marie (2010). « Ce que la mixité fait aux élèves ». Revue 
+de l’OFCE , 114 : 197-212. 
+Fausto-Sterling Anne (2012 [2000]). Corps en tous genre : la dualité 
+des sexes à l’épreuve de la science . Paris, La Découverte. 
+Felouzis Georges (1993). « Interactions en classe et réussite scolaire. 
+Une analyse des différen ces filles-garçons ». Revue française de 
+sociologie , 34 (2) : 199-222. 
+Frankenberg Ruth (1993). White Women, Race Matters: The Social 
+Construction of Whiteness . Minneapolis, University of Minessota 
+Press. 
+Gourarier Mélanie (2017). Alpha Mâle. Séduire les femmes pour 
+s’apprécier entre hommes. Paris, Seuil. 
+Grignon Claude et Passeron Jean-Claude (1989). Le Savant et le 
+populaire. Misérabilisme et populisme en sociologie et en littérature . Paris, Seuil. 
+Guénif-Souilamas Nacira et Macé Éric (2004). Les féministes et le 
+garçon arabe. La Tour-d’Aigues, L’Aube. 
+Halberstam Jack (2018). Trans. A Quick and Quirly Account of 
+Gender Variability. Berkeley, University of California press. 
+Hamel Christelle (2006). « La sexualité entre sexisme et racisme : les 
+descendantes de migrant ⋅e⋅s du Maghreb et la virginité ». 
+Nouvelles questions féministes , 25 (1) : 41-58. 
+Handman Marie-Élisabeth (2008). « L’anthropologue et le système 
+sexe/genre ». Connexions, 90 (2) : 77-85. 
+Hekma Gert (1994). “ ‛A Female soul in a male body’: Sexual 
+inversion as gender inversion in nineteenth-century sexology”. In Herdt Gilbert (dir.), Thrid Sex, Third Gender. Neyond Sexual 
+Dimorphism in Culture and History . New York, Zone books. 
+Hochschild Arlie (1989). The Second shift. Working families and the 
+revolution at home. Londres, Penguin books. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Le genre pluriel 
+ 73
+Hull Gloria, Bell-Scott Patricia et Smith Barbara (1982). All the 
+Women Are White, All The Blacks Are Men, But Some of Us Are 
+Brave . New York, The Feminist press. 
+Juteau Danielle (2016). « Un paradigme féministe matérialiste de 
+l’intersectionnalité ». Cahiers du Genre , 3 (4) : 129-149. 
+Kergoat Danièle (1987 [1982]). Les ouvrières. Paris, Minerve. 
+Lagrave Rose-Marie (2003). « La lucidité des dominées ». In Encrevé 
+Pierre, Lagrave Rose-Marie (dirs.), Travailler avec Pierre 
+Bourdieu . Paris, Flammarion : 311-320. 
+Lahire Bernard (1998). L’Homme pluriel. Les ressorts de l’action . 
+Paris, Nathan. 
+Lahire Bernard (2013). Dans les Plis singuliers du social. Individus, 
+institutions, socialisations . Paris, La Découverte. 
+Laqueur Thomas (1992). La Fabrique du sexe. Essai sur le corps et le 
+genre en Occident . Paris, Gallimard. 
+Le Feuvre Nicky (2008). « La féminisation des anciens “bastions 
+masculins” : enjeux sociaux et approches sociologiques ». In Guichard-Claudie Yvonne, Kergoat Danièle, Vilbrod Alain (dirs.), 
+L’inversion du genre. Quand les métiers masculins se conjuguent 
+au féminin…et réciproquement. Rennes, PUR. 
+Mahmood Saba (2009 [2005]). Politique de la piété. Le féminisme à 
+l’épreuve du renouveau islamique . Paris, La Découverte. 
+Mardon Aurélia (2011). « La génération Lolita. Stratégies de contrôle 
+et de contournement ». Réseaux, 168-169 : 111-132. 
+Mathieu Nicole-Claude (1991). L’Anatomie politique : 
+catégorisations et idéologies du sexe. Paris, Côté Femmes. 
+Maudet Marion (2017). « Religion et sexualité en France des années 
+1970 aux années 2000. Évolution des pratiques et attachement à la famille hétérosexuelle ». Population , 72 (4) : 701-728. 
+McIntyre Alice (1997). Making Meaning of Whiteness: Exploring 
+Racial Identity in White Teachers. New York, Suny Press. 
+Pagis Julie, Pasquali Paul (2016). « Observer les mobilités sociales en 
+train de se faire. Micro-contextes, expériences vécues et incidences 
+socio-politiques ». Politix, 114 (2) : 7-20. 
+Perrot Michelle (1999). « Autour du livre de Pierre Bourdieu La 
+domination masculine ». Travail, genre et sociétés , 1 : 202-207. 
+Puar Jasbir (2007). Terrorist Assemblages. Homonationalism in Queer 
+Times. Durham, Duke University Press. 
+Rault Wilfried (2016). « Les attitudes “gayfriendly” en France : entre 
+appartenances sociales, trajectoi res familiales et biographies 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Emmanuel Beaubatie 
+ 74 
+sexuelles ». Actes de la recherche en sciences sociales , 213 : 38-
+65. 
+Rouyer Véronique, Zaouche-Gaudron Chantal (2006). « La 
+socialisation des filles et des garçons au sein de la famille : enjeux 
+pour le développement ». In Dafflon-Novelle Anne (dir.), Filles-
+garçons. Socialisation différenciée ? Grenoble, Presses 
+universitaires de Grenoble. 
+Shepard Todd (2017). Mâle décolonisation. L’« homme arabe » et la 
+France, de l’indépendance algérienne à la révolution iranienne . 
+Paris, Payot. 
+Singly François de (1993). « Les habits neufs de la domination 
+masculine ». Esprit , 196 (11) : 54-64. 
+Skeggs Beverley (2015 [1997]). Des femmes respectables. Classe et 
+genre en milieu populaire . Marseille, Agone. 
+Tissot Sylvie (2018). Gayfriendly. Acceptation et contrôle de 
+l’homosexualité à Paris et à New York . Paris, Raisons d’agir. 
+Trachman Mathieu, Lejbowicz Tania (2018). « Des LGBT, des non-
+binaires et des cases. Catégorisation statistique et critique des 
+assignations de genre et de sexualité dans une enquête sur les 
+violences ». Revue française de sociologie , 59 (4) : 677-705. 
+Vörös Florian (2020). Désirer comme un homme. Enquête sur les 
+fantasmes et les masculinités . Paris, La Découverte. 
+Westbrook Laurel, Saperstein Aliya (2015). “New Categories Are Not 
+Enough: Rethinking the Measurment of Sex and Gender in Social Surveys”. Gender & Society , 29 (4) : 534-560. 
+ 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

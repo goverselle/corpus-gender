@@ -1,0 +1,838 @@
+Repenser le sexe, le genre et l’orientation sexue… – Santé mentale au Québec – Érudit 
+
+ Main Menu
+
+ Publication types 
+
+ Journals 
+
+ Theses and dissertations 
+
+ Books and proceedings 
+
+ Research reports 
+
+ Log In
+
+ About 
+
+ Érudit 
+
+ Coalition Publica 
+
+ Open access 
+
+ Annual report 
+
+ Advanced Search 
+
+ EN 
+
+ Français
+
+ English
+
+ My Library 
+
+ Search 
+
+ Breadcrumb
+
+ Érudit 
+
+ Journals 
+
+ Santé mentale au Québec 
+
+ Identités et orientations sexuelles
+
+ Repenser le sexe, le genre et l’orientation sexuelle 
+
+ Numéro thématique 
+
+ Repenser le sexe, le genre et l’orientation sexuelle Rethinking identity 
+
+ Michel
+ Dorais 
+
+ …more information 
+
+ Michel
+ Dorais Sociologue de la sexualité Professeur titulaire, École de service social, Université Laval, Québec
+
+ Online publication: Jan. 29, 2016
+
+ URI 
+ 
+ https://id.erudit.org/iderudit/1034910ar
+ Copied An error has occurred 
+ DOI 
+ 
+ https://doi.org/10.7202/1034910ar
+ Copied An error has occurred 
+
+ An article of the journal
+ Santé mentale au Québec   
+
+ Volume 40, Number 3, Fall 2015 , p. 37–53 Identités et orientations sexuelles 
+
+ Tous droits réservés © Département de psychiatrie de l’Université de Montréal, 2016 
+
+ Browse the articles in this issue
+
+ Les minorités sexuelles : concepts, prémisses et structure d’une approche clinique adaptée
+
+ L’association des dimensions de l’orientation sexuelle, du harcèlement et du suicide : quelles minorités sexuelles sont les plus à risque ?
+
+ Article outline
+
+ Back to top 
+
+ Abstract 
+
+ Introduction 
+
+ L’orientation sexuelle 
+
+ Le genre 
+
+ Le sexe 
+
+ Conclusion 
+
+ Notes 
+
+ Bibliographie 
+
+ List of figures 
+
+ Toolbox
+
+ Save Delete 
+
+ PDF Download 
+
+ Cite this article 
+
+ Share 
+
+ Abstracts
+
+ Résumé
+
+ Des travaux pionniers développés au cours des dernières décennies permettent de concevoir les notions de sexe, de genre et d’orientation sexuelle de façon à dépasser le traditionnel modèle binaire. De manière générale, les professionnels de la santé et des services sociaux tardent toutefois à prendre acte de ce changement de paradigme qui fait une large place à la diversité humaine, et beaucoup moins à la marginalisation ou à la pathologisation des différences. Dans le présent article, seront notamment présentés les travaux d’Alfred Kinsey, de Sandra Bem et d’Anne Fausto-Sterling, portant respectivement sur l’orientation sexuelle, le genre et le sexe. Il sera proposé d’inclure leurs contributions (et celles de leurs successeurs) dans un modèle tenant compte à la fois de la diversité et de la fluidité susceptibles d’être présentes dans les identités et les expressions de soi relatives au sexe, au genre et à l’orientation sexuelle.
+
+ Mots-clés : 
+
+ identité, 
+
+ sexe, 
+
+ genre, 
+
+ orientation sexuelle, 
+
+ diversité
+
+ Abstract
+
+ Pioneering work conducted over the past decades used to design sex, gender and sexual orientation in order to go beyond the traditional binary model. In general, professionals in the health and social services, however, are a little bit slow to take note of this paradigm shift making more space for human diversity, and much less to the marginalization or pathologizing of differences. In this article, the work of Alfred Kinsey, Sandra Bem and Anne Fausto-Sterling will be especially presented, respectively on sexual orientation, gender and sex. It will be proposed to include their contributions (and also those of their successors) in a model taking into account both the diversity and the fluidity that may be present in identities and self-expressions related to sex, gender and sexual orientation.
+
+ Keywords: 
+
+ identity, 
+
+ sex, 
+
+ gender, 
+
+ sexual orientation, 
+
+ diversity
+
+ Article body
+
+ Vignettes cliniques 
+
+ Nathalie, 12 ans, que ses parents décrivent comme « tomboy », refuse depuis son
+ tout jeune âge de se vêtir en fille, ce qui provoque un problème à l’école privée où
+ elle entreprend son cours secondaire. On y exige en effet qu’elle porte la tenue
+ obligatoire réservée aux filles composée d’une jupe et d’un blazer. Or, Nathalie
+ insiste pour porter uniquement le pantalon. 
+
+ Assignée garçon à la naissance, Sacha, 13 ans, affirme être une fille et réclame
+ d’être ainsi considérée par ses parents et par son école. Sacha ne considère pas pour
+ autant être une personne transsexuelle [1] , étant déjà
+ une femme dans son esprit. L’enfant souhaiterait être traitée sur le plan hormonal
+ pour ne pas avoir de puberté masculine et ainsi gagner du temps avant de pouvoir, une
+ fois adulte, entreprendre une transition de sexe. 
+
+ Dominique, 15 ans, est née intersexuée. Sur le conseil de médecins, ses parents
+ l’ont élevée en la considérant comme une fille. À la puberté, sa physionomie se
+ masculinise. Dominique croit que c’est la raison pour laquelle, après avoir fréquenté
+ des garçons, elle est de plus en plus attirée par les filles. Elle se demande si elle
+ ne serait pas un garçon hétérosexuel plutôt qu’une fille bisexuelle. 
+
+ Introduction
+
+ Chercher des réponses et des solutions aux trois situations précédentes exige de
+ remettre en question la logique binaire selon laquelle on serait homme ou femme, masculin
+ ou féminin, hétérosexuel ou homosexuel, exclusivement, le sexe, le genre et l’orientation
+ sexuelle étant définis par opposition de caractéristiques contraires. Les cas de Nathalie,
+ de Sacha et de Dominique montrent en effet que les repères identitaires traditionnels ne
+ collent pas au vécu de nombreux jeunes qui, à bon droit, aspirent à être eux-mêmes.
+
+ Les professionnels de la santé et des services sociaux portent hélas un lourd
+ héritage en ce qui concerne la prise en compte de la diversité sexuelle. C’est
+ respectivement en 1973 et 1974 que l’American Psychiatrical Association et l’American
+ Psychological Association enlevèrent l’homosexualité de la liste des désordres mentaux
+ (Bayer, 1981 ; Terry, 1999). En revanche, une attention accrue fut accordée à partir de
+ ces années-là au diagnostic du « trouble de l’identité de genre [2]  » chez les enfants et adolescents, ce qui donna lieu à une intolérance
+ exacerbée relativement à l’expression de la diversité chez les jeunes. Des dizaines de
+ milliers d’enfants et d’adolescents furent soumis à des thérapies coercitives, parfois
+ même internés (la seule « fuite » possible fut dans certains cas le suicide), afin de
+ corriger leur prétendue déviance aux normes de genre (Burke ,
+ 1996). Ce n’est que tout récemment, en août 2015, que l’American Psychological
+ Association a émis des lignes directrices afin de corriger le tir de façon draconienne,
+ dans un document reconnaissant que la stigmatisation subie par les jeunes non conformistes
+ sur le plan du genre doit être combattue et que ces derniers doivent être soutenus dans
+ l’expression légitime d’eux-mêmes (APA, 2015). 
+
+ Des travaux pionniers menés au cours des dernières décennies peuvent nous aider à
+ changer notre façon de concevoir l’identité de sexe, l’identité de genre, l’orientation
+ sexuelle et leurs expressions respectives. Mieux comprendre ce tournant conceptuel est le
+ propos du présent article. Nous présenterons notamment les travaux d’Alfred Kinsey, de
+ Sandra Bem et d’Anne Fausto-Sterling, lesquels ont respectivement participé à une
+ révolution dans la façon de concevoir l’orientation sexuelle, le genre et le sexe. Nous
+ proposerons d’inclure leurs contributions dans un modèle dit orthogonal, qui tient compte
+ à la fois de la multiplicité et de la fluidité des identités de sexe ou de genre et de
+ l’orientation sexuelle. Le but de cet article est donc d’effectuer une synthèse pour les
+ intervenants dans le domaine de la santé et des services sociaux qui ont à composer avec
+ la diversité sexuelle.
+
+ Afin d’éviter toute confusion, un petit détour s’impose en ce qui concerne les
+ termes choisis, compte tenu des définitions multiples, et parfois contradictoires, de
+ certains d’entre eux. Les notions de sexe et de genre, en particulier, sont souvent
+ confondues. Dans le présent article, le sexe d’une personne désignera essentiellement les
+ caractéristiques physiologiques qui font en sorte qu’elle a été désignée à sa naissance
+ comme étant de sexe mâle, femelle, indéterminé, ou encore comme étant intersexuée.
+ L’identité de sexe [3] fait, quant à elle, référence à la
+ conscience ou la conviction d’appartenir à une catégorie de sexe, qui peut ne pas être
+ celle que l’on nous a assignée, soulignons-le. Le genre, lui, est plutôt d’ordre social et
+ culturel. Il réfère à ce qui est considéré comme masculin ou féminin dans une société
+ donnée à un certain moment de son histoire. Selon le psychiatre Robert Stoller, un des
+ premiers à avoir défini ce terme [4] , l’identité de genre
+ désigne « les degrés différents de masculinité et de féminité que l’on peut trouver chez
+ une personne » (Stoller, 1989, p. 21), y compris du point de vue de cette personne, me
+ permettrais-je d’ajouter. L’identité de genre ne doit pas être confondue avec le rôle de
+ genre, c’est-à-dire les conduites et les attitudes que la personne adopte pour exprimer
+ son identité de genre. En effet, le genre que l’on ressent et celui que l’on exprime
+ devant autrui peuvent être différents : par exemple, un homme peut se sentir très féminin
+ intérieurement et néanmoins se comporter en société de manière très virile afin de ne pas
+ laisser paraître cet aspect de son intériorité. 
+
+ L’orientation sexuelle
+
+ Pionnier de la sexologie et de la sociologie de la sexualité, Alfred Kinsey fonda en
+ 1947 The Institute
+ for Sex Research (qui sera après sa mort rebaptisé Kinsey Institute for Research in Sex, Gender and Reproduction).
+ Grâce à de généreuses subventions de la Fondation Rockefeller, il se lança dans
+ une très vaste enquête sur les pratiques sexuelles de milliers d’hommes et de femmes, une
+ première mondiale qui aboutit à la publication de deux ouvrages marquants (Kinsey, 1948 ;
+ Kinsey, 1954). Afin de tenir compte des réponses de ses milliers de répondants à propos de
+ leurs conduites et leurs attirances sexuelles, Kinsey dut innover sur le plan conceptuel
+ en inventant ce que l’on appelle depuis l’échelle de Kinsey, traduite et reproduite dans
+ la figure 1.
+
+ Figure 1
+
+ Échelle de Kinsey 
+
+ - See the list of
+ figures 
+
+ Cette échelle rompt avec la façon binaire jusque-là en vigueur de penser
+ l’orientation sexuelle. En conformité avec ses données, qui montraient que beaucoup de
+ femmes et d’hommes étaient à divers degrés bisexuels, Kinsey proposa en effet de concevoir
+ l’hétérosexualité et l’homosexualité comme les pôles d’un continuum. Beaucoup de personnes
+ plutôt hétérosexuelles révélaient en effet avoir eu des relations homosexuelles de façon
+ plus ou moins occasionnelle et, inversement, des personnes plutôt homosexuelles avaient eu
+ des rapports hétérosexuels.
+
+ Dans leur ouvrage résultant aussi d’une très vaste enquête, The Social Organisation of Sexuality, les chercheurs Edward
+ O. Laumann, John H. Gagnon, Robert T. Michael et Stuart Michaels (1994) ont, quatre
+ décennies plus tard, montré qu’on pouvait non seulement concevoir l’orientation sexuelle
+ comme un continuum, mais aussi comme la somme de trois composantes : le désir, la conduite
+ et l’identité (prise dans le sens d’une auto-identification selon les affinités érotiques
+ que l’on ressent). Or, désir, conduite et identité ne se recoupent pas forcément : on peut
+ désirer certaines personnes sans nécessairement actualiser ces désirs, comme on peut avoir
+ des rapports sexuels avec des gens qu’on ne désire pas. De surcroît, ni les désirs ni les
+ comportements sexuels ne prescrivent forcément une identité : à la limite, on peut avoir
+ la conviction d’être homosexuel ou hétérosexuel sans jamais avoir eu une relation, ni même
+ un désir, de cette nature. Selon les résultats obtenus par cette équipe de chercheurs,
+ seulement 15 % des femmes et 24 % des hommes interrogés qui avaient des conduites et/ou
+ des désirs homosexuels s’identifiaient comme homosexuels (voir Laumann et al ., 1994 ; p. 298-301). L’homosexualité identitaire ne
+ serait pas une chose qui va de soi.
+
+ L’orientation sexuelle peut désigner en somme les affinités identitaires, les désirs
+ ou les conduites sexuelles d’une personne selon son sexe et le sexe de ses partenaires,
+ fussent-ils fantasmés. Notons que l’expression préférence
+ sexuelle , avec laquelle elle est parfois confondue, possède une signification
+ beaucoup plus large. Cette dernière inclut en effet les goûts et les pratiques qui
+ actualisent l’orientation sexuelle : par exemple, les particularités recherchées chez ses
+ partenaires selon leur âge et leur morphologie, ou encore selon les activités érotiques
+ souhaitées avec eux. Quant aux attirances sexuelles, on pourrait dire qu’elles se situent
+ « en amont », puisque c’est leur émergence et surtout leur directionnalité qui donnent à
+ penser qu’on aurait une orientation sexuelle. Enfin, une orientation sexuelle peut être
+ exprimée ou affirmée (et non « avouée », comme on l’entend trop souvent encore : tous les
+ dictionnaires le confirment, on avoue une faute ou un crime, ce que l’orientation sexuelle
+ n’est absolument pas), ou non.
+
+ Une orientation sexuelle est dite hétérosexuelle si elle porte sur des personnes de
+ « l’autre sexe [5]  » ; homosexuelle, si elle porte sur des
+ personnes du « même sexe » ; bisexuelle, si elle porte sur des personnes des « deux
+ sexes ». On pourrait ajouter à cette liste l’orientation ambisexuelle dans le cas où il y
+ a hésitation ou questionnement sur le sexe qui nous attire, et orientation autosexuelle si
+ l’attirance est centrée sur son propre corps uniquement. Une orientation est asexuelle
+ s’il y a absence d’inclinaison sexuelle, ce qui arrive aussi. Toutes ces inclinaisons
+ peuvent varier en intensité non seulement selon les personnes, mais également selon les
+ différentes étapes de leur vie. En effet, si les changements forcés d’orientation sexuelle
+ sont à proscrire (et le sont nommément par l’APA, 2009), il advient que des individus
+ constatent des changements, fortuits ou graduels, dans leurs attirances sexuelles, que ce
+ soit sur le plan de l’orientation ou des préférences qui en découlent.
+
+ Afin de tenir compte de la diversité et parfois de la fluidité de l’orientation
+ sexuelle, nous proposons le schéma esquissé dans la figure 2. Le modèle suggéré permet non
+ seulement de situer l’orientation sexuelle sur un continuum, comme le proposait Kinsey,
+ mais aussi dans un cadre bidimensionnel comme le suggéra par la suite le psychologue
+ Michael Storms (1980). 
+
+ Figure 2
+
+ Modèle orthogonal de l’orientation sexuelle 
+
+ - See the list of
+ figures 
+
+ Le genre
+
+ Vingt ans après les avancées de Kinsey, une psychologue américaine va à son tour
+ provoquer une petite révolution, cette fois dans la façon de percevoir le genre. En 1974,
+ Sandra Bem (1974) publiait en effet un article pionnier portant sur l’androgynie, dans
+ lequel elle affirme que la masculinité et la féminité ne sont pas des opposés, comme on le
+ croyait jusqu’alors, mais plutôt des continuums, qui peuvent même se superposer. Au même
+ moment, le psychobiologiste Richard Whalen (1974), bien qu’ignorant apparemment les
+ travaux de Sandra Bem, propose, à partir de ses travaux sur des animaux de laboratoire, un
+ modèle dit orthogonal du genre. Les figures 3 et 4 résument ces apports.
+
+ Figure 3
+
+ Modèle des continuums superposés inspiré de Sandra Bem 
+
+ - See the list of
+ figures 
+ Figure 4
+
+ Modèle orthogonal inspiré par les travaux de Richard Whalen 
+
+ - See the list of
+ figures 
+
+ Les retombées des publications de Bem et de Whalen vont s’avérer importantes,
+ notamment en raison du moment où ces idées surviennent, en plein essor de la révolution
+ sexuelle et du mouvement des femmes, qui remettent tous deux en question les stéréotypes
+ de genre. L’androgynie, qui peut avoir divers degrés, apparaît dès lors comme une
+ composante non seulement légitime, mais saine, souligneront des travaux ultérieurs de
+ Sandra Bem (1975).
+
+ Le genre reposant sur des repères et des normes sociales ou culturelles elles-mêmes
+ changeantes, il est plus subjectif et fluide que le sexe biologique. Quant à l’identité de
+ genre, elle découle en somme d’une perception de soi, ou d’autrui, comme possédant, à des
+ degrés divers, des caractéristiques féminines, masculines, ou androgynes. L’identité de
+ genre se manifeste souvent (mais pas forcément, une personne pouvant tenir secret son
+ sentiment intime en ce qui concerne son genre) dans ce que l’on appelle le rôle de genre , qui s’exprime par l’apparence, la gestuelle,
+ l’habillement, et tout ce qu’on donne à voir dans l’expression de soi. Comme le genre
+ masculin et le genre féminin ne sont pas hermétiques, il peut y avoir passage de l’un à
+ l’autre, ce que l’on appelle le transgenrisme. Puisqu’on retrouve une grande diversité de
+ situations sous le terme transgenre , quelques
+ définitions sommaires, dans l’encadré A, permettront de s’y retrouver.
+
+ Encadré A . Quelques types de transgenrisme 
+
+ Gender
+ bender (ou gender
+ queer )  : personne qui
+ transgresse à dessein les normes binaires et les stéréotypes de genre, que ce soit dans
+ un objectif de libération personnelle ou de contestation artistique, sociale ou
+ politique.
+
+ Travesti-e  : personne qui, de façon
+ occasionnelle (par exemple, lors de relations sexuelles ou dans le cadre de sa vie
+ privée uniquement) ou permanente, exprime par son vêtement et son apparence un rôle de
+ genre qui, selon les stéréotypes culturels en vigueur, ne correspondrait pas à son sexe
+ (par exemple, un homme qui porte des robes, une femme qui porte uniquement des vêtements
+ masculins, souvent afin de « passer pour » une personne de « l’autre sexe »). 
+
+ Transformiste  : artiste qui fait comme métier
+ de reproduire, le plus fidèlement possible et à des fins de divertissement, des
+ personnalités ou des personnages qui ne sont pas du même sexe que lui ou elle. Ainsi, un
+ transformiste de sexe masculin imitera par exemple Madonna ou Cher, alors qu’une
+ transformiste de sexe féminin imitera plutôt Justin Bieber ou Elvis Presley. 
+
+ Drag
+ queen et drag king  : artistes comiques qui, dans le cadre de spectacles,
+ imitent ou créent des personnages n’étant pas du même sexe qu’eux en exagérant
+ sciemment, et souvent outrancièrement, la féminité (dans le cas des drag queens) ou la
+ masculinité (dans le cas des drag kings) desdits personnages. 
+
+ Enfin, les personnes non conformistes ou
+ créatives sur le plan du genre , sans doute les plus
+ nombreuses, ne sont pas forcément transgenres. Par leur façon néanmoins de transgresser,
+ sciemment ou pas, et de diverses façons, les normes et les stéréotypes de genre, elles
+ rappellent qu’il existe une infinie variété dans l’expression possible du masculin et du
+ féminin, ou de l’androgynie, chez un être humain. 
+ Ce sont en bonne partie les écrits féministes qui ont mis en vogue, voire imposé, le
+ terme « genre », faisant logiquement suite à la fameuse phrase de Simone de Beauvoir :
+ « On ne naît pas femme, on le devient. » Dans l’introduction de son ouvrage Le deuxième sexe , Beauvoir (1949) suggérait en effet que
+ devenir une femme (entendre : une femme « féminine ») n’est pas un destin lié à la
+ biologie, mais un parcours social, et plus particulièrement une intériorisation de normes
+ et de stéréotypes. Autrement dit, même si le genre semble traduire le sexe, il n’en est
+ rien ; il s’agirait plutôt d’une prophétie autoréalisatrice dans la mesure où l’on
+ s’efforcerait de répondre aux attentes sociales et aux « apparences normales » afin de ne
+ pas être socialement stigmatisé. 
+
+ Toujours dans les années 1970, des sociologues comme Erving Goffman (1977) et
+ Candace West et Don Zimmerman (1987 [6] ) ont précisément
+ voulu montrer le caractère « construit » du genre, lequel résulterait de constantes
+ adaptations à de multiples interactions et conventions sociales. Toutefois, c’est dans
+ doute la théoricienne américaine Judith Butler (2005) qui a le plus influencé la
+ définition du genre ces dernières années. Pour Butler, le genre est le dispositif par
+ lequel le masculin et le féminin sont produits, reproduits et normalisés. Ils le sont à
+ travers une incessante performativité . Par cette
+ expression, Butler suggère qu’il faut comprendre le genre comme une performance
+ socialement apprise et sans cesse répétée. La féminité et la masculinité apparaissent dès
+ lors comme les effets d’un processus d’abord culturel et coercitif (on apprend à être
+ masculin ou féminin, dès la plus tendre enfance, à travers notre socialisation), puis
+ individuel (par exemple, on reproduit ces modèles, ou on les subvertit, comme le font les
+ gender queers, ou encore on les parodie, comme le font les drag queens et les drag kings).
+
+ De ce point de vue, le genre ne traduit nullement une essence particulière, plus ou
+ moins innée ; il serait plutôt le résultat d’un entraînement et d’un conditionnement, mais
+ aussi d’une capacité d’agir, puisque l’on donne à voir notre genre. Comme l’a écrit Éric
+ Fassin dans la préface de Trouble dans le genre ,
+ « le genre est l’effet des normes de genre » (Butler, 2005). Paradoxalement, souligne
+ Judith Butler, notre genre, « c’est une pratique d’improvisation qui se déploie à
+ l’intérieur d’une scène de contrainte » (Butler, 1976, p. 13). Autrement dit, nous pouvons
+ « jouer » notre genre, mais nous le faisons toujours en tenant compte des modèles
+ disponibles et des réactions sociales suscitées ou anticipées. On peut certes choisir de
+ résister aux normes, ou même de les subvertir, mais on ne choisit pas les normes
+ auxquelles on est soumis. 
+
+ Dans la figure 5, inspirée notamment des travaux de Bem et de Whalen, est présenté
+ un modèle orthogonal qui tient compte de surcroît des allers-retours possibles entre le
+ masculin et le féminin. La réalité plurielle des personnes transgenres requiert en effet
+ que l’on puisse se représenter un passage, occasionnel ou permanent, du masculin au
+ féminin, et vice versa.
+
+ Figure 5
+
+ Modèle orthogonal de l’identité de genre 
+
+ - See the list of
+ figures 
+
+ Le sexe
+
+ Il faudra attendre vingt ans après les travaux de Bem et Whalen en psychologie ou de
+ West et Zimmerman en sociologie pour que la binarité des sexes soit à son tour remise en
+ question. Ce sera grâce à un retentissant article paru en 1993 dans The Sciences , signé par la biologiste et historienne des
+ sciences Anne Fausto-Sterling. Le titre même de l’article est assez hardi : Les cinq sexes. Pourquoi mâle et femelle ne sont pas
+ suffisants [7] . Réalisant que jusqu’à 4 % (du
+ moins dans certaines parties du monde ; estimation ramenée depuis à 1,7 % à l’échelle
+ mondiale) de la population serait plus ou moins intersexe, c’est-à-dire née avec des
+ attributs des deux sexes, Fausto-Sterling propose d’ajouter aux sexes « mâle » et
+ « femelle » les hermaphrodites véritables, qui ont à la fois des organes producteurs de
+ spermatozoïdes et d’ovules (elle les appelle les HERMS), les pseudohermaphrodites
+ masculins, qui possèdent des testicules et certains aspects de l’appareil génital féminin
+ (elle les appelle les MERMS) et les pseudohermaphrodites féminins, qui possèdent des
+ ovaires et certains éléments de l’appareil génital masculin (elle les appelle les FERMS).
+ Dans un article ultérieur, Les cinq sexes
+ revisités (Fausto-Sterling, 2013), et surtout dans son ouvrage Sexing the Body (Fausto-Sterling, 2012), l’auteure élabore
+ sa pensée et conclut finalement qu’il y a une infinité de sexes, reprenant en quelque
+ sorte l’idée de continuum que les Kinsey, Bem et Whalen avaient respectivement appliquée à
+ l’orientation sexuelle et au genre. 
+
+ Tenant compte des réflexions de la professeure Fausto-Sterling en ce qui concerne la
+ diversité des sexes, le modèle orthogonal qui suit a l’avantage d’inclure la situation des
+ personnes intersexuées, qui possèdent à la naissance des attributs physiques des deux
+ sexes, et aussi la situation des personnes transsexuelles, qui entendent changer de sexe
+ afin de correspondre à leur profonde conviction de ne pas être nées avec le sexe auquel
+ elles ont le sentiment d’appartenir.
+
+ Figure 6
+
+ Modèle orthogonal de l’identité de sexe 
+
+ - See the list of
+ figures 
+
+ Pour mieux comprendre la réalité spécifique des personnes intersexuées, rappelons
+ qu’il existe 5 critères pour identifier le sexe d’un individu à sa naissance (ou même
+ avant) :
+
+ Les chromosomes (sexe chromosomique ; sexe déterminé dès la fécondation et
+ pouvant être obtenu par un test génétique) ;
+
+ Les hormones (sexe endocrinien ou hormonal ; sexe déterminé par un test sur le
+ taux d’androgènes ou d’oestrogènes, eux-mêmes sécrétés par les glandes pituitaires [au
+ centre du cerveau] et les surrénales [situées au-dessus des reins]) ;
+
+ Les gonades (sexe embryonnaire sur le plan génital ; peut être déterminé par un
+ test pendant la grossesse, à partir de la 8 e semaine environ,
+ alors qu’il y a « différenciation » sur le plan du sexe, car esquisse des canaux de
+ Wolff, embryons des testicules, et des canaux de Müller, embryons des
+ ovaires) ;
+
+ Organes sexuels internes (sexe anatomique ou morphologique selon la présence ou
+ l’absence d’organes internes, par exemple prostate, utérus, etc.) ;
+
+ Organes sexuels externes (sexe anatomique ou morphologique selon la présence ou
+ l’absence d’organes externes, par exemple pénis, testicules, vulve, clitoris,
+ etc.).
+
+ Or, chez les enfants intersexués au moins un de ces éléments est en dissonance avec
+ les autres. L’encadré B décrit brièvement les principaux types d’intersexuation (aussi
+ appelée intersexualité).
+
+ Encadré B . Quelques types d’intersexuation (les plus courants) 
+
+ Hyperplasie congénitale des surrénales .
+ Héritée génétiquement, elle se manifeste chez des enfants XX (filles) en
+ « masculinisant » leurs organes génitaux (on croit parfois que ce sont des garçons
+ et ces enfants sont alors élevés comme tels). 
+
+ Syndrome d’insensibilité aux androgènes 
+ (autrefois appelé le « testicule féminisant »). De source génétique. Ce sont des
+ enfants XY (garçons) nés avec des organes génitaux « imprécis », quoique plutôt
+ féminins : pas d’utérus, vagin très peu profond, testicules non descendus. Ils sont
+ en général élevés en tant que filles. C’est souvent à l’âge de la puberté, vu
+ l’absence de cette dernière, que ces cas seront détectés.
+
+ Syndrome de Turner. Affecte les filles
+ dépourvues d’un second chromosome X (X0). Elles développeront en général une petite
+ stature, plutôt « androgyne ». Elles n’ont pas d’ovaires et peu ou pas de
+ caractéristiques sexuelles secondaires [8] (des
+ hormones, en particulier des oestrogènes, leur sont en général prescrites afin de
+ leur assurer un développement plus « standard »).
+
+ Syndrome de Klinefelter. Affecte des
+ garçons dotés d’un chromosome X supplémentaire (XXY). Ils sont infertiles et peuvent
+ à l’adolescence avoir une poussée mammaire. Ils auront un corps plus grand que la
+ moyenne, très longiligne, peu musclé, avec des organes génitaux peu développés
+ (caractéristiques que des traitements de testostérone peuvent en partie
+ pallier).
+
+ Traditionnellement, les bébés intersexués étaient opérés à la naissance ou peu après
+ afin de donner une apparence dite « normale » à leurs organes génitaux visibles. La norme
+ pour décider du sexe alors assigné était le « phallomètre », comme l’appelle
+ Fausto-Sterling (2000, p. 81). Selon ce critère, un clitoris médicalement acceptable pour
+ un nourrisson serait de 0,2 centimètre à moins 0,85 centimètre et un pénis médicalement
+ acceptable, de 2,5 à 4,5 centimètres. Cela fait en sorte qu’entre 0,85 et 2,5 centimètres,
+ il y aurait une incertitude quant au sexe de l’enfant. Comme il est plus facile
+ chirurgicalement d’enlever que d’ajouter, le plus souvent alors on opère une réduction (on
+ coupe en partie) ou une récession du clitoris (sa dissimulation en le rentrant dans un pli
+ de peau fabriqué à cet effet) pour faire de ces enfants des petites filles répondant aux
+ standards établis.
+
+ Figure 7
+
+ Échelle graduée de ce qui est estimé médicalement acceptable (d’après A.
+ Fausto-Sterling) 
+
+ - See the list of
+ figures 
+
+ Des associations pour les droits des personnes intersexuées et leurs alliés, de plus
+ en plus nombreux, revendiquent aujourd’hui de laisser le libre choix de leur sexe et de
+ leur corps aux personnes intersexuées une fois qu’elles seront devenues adolescentes ou
+ jeunes adultes, et de cesser de les mutiler, dès leur petite enfance. D’autant que les
+ critères utilisés par les médecins pour assigner et « corriger » le sexe laissent place à
+ la subjectivité et ne sont pas forcément prescrits par la santé des personnes concernées
+ (sans compter les problèmes ultérieurs que des opérations précipitées provoquent souvent
+ sur le plan physique et psychologique). À noter que certains États se montrent sensibles à
+ ces revendications : par exemple, l’Allemagne permet depuis 2013 d’inscrire un sexe
+ indéterminé sur les certificats de naissance. 
+
+ Par ailleurs, en ce qui concerne la transsexualité (à ce jour toujours identifiée
+ comme possible « dysphorie de genre »), trois critères servent actuellement à la
+ reconnaître : une identification persistante à l’« autre sexe » remontant à la petite
+ enfance ; un grand inconfort quant à l’identité de sexe assignée ; un fonctionnement
+ personnel, sexuel et social perturbé en raison des deux précédentes caractéristiques. On
+ note toutefois que le DSM V, à ses onglets 302.6 et 302.85, portant sur la dysphorie de
+ genre chez l’enfant, l’adolescent ou l’adulte, tend à confondre l’identité de sexe (être
+ homme ou femme) et l’identité de genre (être masculin et/ou féminin). Parmi les critères
+ de la dysphorie de genre chez un jeune, le DSM V inclut en effet une forte préférence pour
+ les activités, les vêtements et les jeux typiques de l’autre sexe et, à l’inverse, un
+ rejet marqué pour les activités, les vêtements et les jeux typiques de son sexe
+ biologique. Ces critères se réfèrent donc au genre et minimisent par exemple le fait qu’on
+ peut être non conformiste sur le plan du genre sans pour autant aspirer à une
+ réassignation de sexe. 
+
+ En croisant les données disponibles, la chercheure Anne Fausto-Sterling évalue à au
+ moins 1,75 % de la population les personnes transsexuelles. Si on ajoute à ce nombre les
+ personnes intersexuées (1,7 %), cela signifie qu’environ 3,5 % de la population serait
+ soit intersexuée, soit transsexuelle, les deux groupes, quoique distincts, ayant en commun
+ de subir la normativité du modèle binaire en ce qui concerne leur sexe. Sans parler des
+ personnes, nombreuses, qui refusent tout simplement de se conformer aux conventions
+ sociales relatives à l’identité de sexe ou de genre, et l’expression desdites identités.
+ Il y a nécessité de reconnaître davantage leur existence. Notons au passage que le préfixe
+ « trans- » signifie en lui-même changement, passage, traversée. Il peut impliquer non
+ seulement le résultat d’une transition mais aussi un processus d’appropriation de sa vie
+ et d’expression de son unicité.
+
+ Des avancées sont en cours. Depuis 2012, la Nouvelle-Zélande puis l’Australie
+ offrent la possibilité d’obtenir un passeport sans mention de sexe et l’Argentine permet
+ de changer la mention de sexe à l’état civil sans avoir subi préalablement d’interventions
+ chirurgicales, ce qui est perçu comme une percée par les groupes de défense des droits des
+ personnes transidentitaires [9] . Ces changements
+ reconnaissent en effet que l’identité de sexe est un sentiment subjectif, certes, mais
+ néanmoins profond et irrépressible. Comme l’a suggéré l’anthropologue Nicole-Claude
+ Mathieu, qui a proposé le terme au début des années 1990, l’identité de sexe est
+ ultimement la conscience de faire partie d’une communauté d’appartenance [10] .
+
+ Conclusion
+
+ Les recherches et les réflexions théoriques des dernières décennies nous amènent à
+ interroger la façon dichotomique de catégoriser le sexe, le genre et l’orientation
+ sexuelle, qui passait sous silence leur grande diversité et leur possible fluidité.
+ Peut-on encore aujourd’hui se représenter homme et femme, masculin et féminin,
+ hétérosexuel et homosexuel comme des catégories exclusives, fixes et opposées ? Il n’y a
+ rien à gagner pour les professionnels de la santé et des services sociaux à perpétuer une
+ pensée binaire qui tend à ignorer, à sous-estimer ou à exclure une portion non négligeable
+ de la population. 
+
+ Ainsi, pour en revenir aux trois situations présentées en vignette au début du
+ présent article, on pourrait permettre sans problème à Nathalie de porter le pantalon
+ comme tenue vestimentaire à l’école, si c’est dans ce vêtement qu’elle se sent vraiment à
+ l’aise (et en profiter pour faire un peu d’éducation sur l’égalité des sexes et des genres
+ auprès des jeunes de l’école). On pourrait aussi accompagner Sacha afin de faire en sorte
+ qu’elle soit bien dans sa peau, acceptée par son milieu familial et scolaire, et qu’elle
+ puisse prendre en temps voulu et en toute connaissance de cause les décisions qui lui
+ sembleront les meilleures concernant une possible réassignation de sexe. Enfin, Dominique
+ pourrait être incitée à trouver ses propres repères et à définir sa propre identité
+ par-delà les étiquettes concernant son sexe, son genre ou son orientation sexuelle ; on
+ pourrait aussi accompagner ses proches afin qu’ils lui apportent le soutien requis.
+
+ La diversité sexuelle n’est assurément pas un phénomène nouveau (Dorais, 1999). Elle
+ devient toutefois plus visible à mesure que les droits et libertés, les avancées
+ législatives, les mentalités et les connaissances évoluent. Reconnaître cette diversité
+ et, plus encore, apprendre ce qu’elle nous enseigne ne peut qu’améliorer la qualité de
+ toute relation d’aide (Dorais, 2015), quelle qu’en soit la nature. A fortiori , les intervenants en santé mentale ont beaucoup
+ à faire pour sortir définitivement des carcans qui ont produit tant de dégâts par le passé
+ chez les jeunes de la diversité sexuelle. C’est non seulement une question de santé
+ publique, la marginalisation et l’exclusion étant, on le sait, nuisibles à la santé
+ mentale, mais aussi d’équité et de justice sociale.
+
+ Appendices 
+
+ Notes
+
+ [1] Nous utiliserons à dessein dans le présent texte les termes transsexualité et
+ transgenrisme afin d’aider à différencier, lorsque requis, ce qui est de l’ordre du sexe
+ assigné et ce qui est de l’ordre du genre ressenti ou exprimé. Le terme fédérateur de
+ transidentité peut, cela dit, être appliqué aux deux réalités.
+
+ [2] Dans de plus récentes versions du DSM, le terme fut remplacé par « dysphorie de
+ genre ».
+
+ [3] L’expression « identité de sexe » comme conscience de faire partie d’une classe de
+ sexe aurait été proposée pour la première fois par l’anthropologue Nicole-Claude Mathieu
+ (1991, p. 231). Elle est préférable à « identité sexuelle », dont les définitions sont
+ fluctuantes.
+
+ [4] Cela dit, le psychiatre Richard Green utilisait déjà le terme auparavant, mais comme
+ synonyme d’identité sexuelle, dans laquelle il incluait en fait trois choses : la
+ conviction d’être mâle ou femelle, le fait d’avoir une conduite associée à ce qui est
+ culturellement masculin ou féminin, enfin la préférence pour des hommes ou des femmes
+ comme partenaires sexuels (voir Green, 1974, p. XV).
+
+ [5] Dans la mesure où l’on croit qu’il n’y en a que deux, bien sûr (nous y
+ reviendrons).
+
+ [6] À noter que le texte fut publié dix ans après la conférence sur le même thème
+ prononcée par les auteurs au colloque de 1977 de l’American Sociological
+ Association.
+
+ [7] Cet article existe en version française, car repris dans l’ouvrage éponyme Les cinq sexes (Fausto-Sterling, 2013).
+
+ [8] Rappelons que les caractères sexuels primaires désignent en général l’ensemble des
+ organes génitaux externes qui permettent de différencier mâle et femelle d’une espèce ;
+ ils servent à déterminer le sexe biologique à la naissance. Les caractères sexuels
+ secondaires apparaissent plutôt à la puberté, par exemple la pilosité et la mue de la voix
+ chez l’homme ou le développement de la poitrine, la faculté de lactation et l’apparition
+ du cycle menstruel chez la femme.
+
+ [9] Rappelons que le terme « transidentitaire » fédère la grande diversité des façons
+ d’être transgenre ou transsexuel, ou même de refuser ces désignations.
+
+ [10] Mathieu, N.-C., 1991.
+
+ Bibliographie
+
+ APA (2009), Report of the American Psychological Association Task Force on Appropriate Therapeutic Responses to Sexual Orientation , 2009 ; http://www.apa.org/pi/lgbt/resources/therapeutic-response.pdf . Google Scholar 
+
+ APA (2015), Guidelines for Psychological Practice with Transgenders and Gender Nonconforming People. http://www.apa.org/practice/guidelines/transgender.pdf . Google Scholar 
+
+ Bem, S. L. (1974). « The Measurement of Psychological Androgyny ». Journal of Consulting and Clinical Psychology . 42 , 155-162. 10.1037/h0036215 Google Scholar 
+
+ Bem, S. L. (1975). « Sex Role Adaptability : One Consequence of Psychological Androgyny ». Journal of Personality and Social Psychology, 31 (4), 634-643. 10.1037/h0077098 Google Scholar 
+
+ Burke, P. (1996). Gender Shock . New York, N.Y. : Anchor Books. Google Scholar 
+
+ Butler, J. (2006). Défaire le genre . Paris, France : éd. Amsterdam. Google Scholar 
+
+ Butler, J. (2005). Trouble dans le genre . Paris, France : La Découverte (à noter que la première édition en langue anglaise de l’ouvrage date de 1990). Google Scholar 
+
+ De Beauvoir, S. (1949). Le deuxième sexe. Paris, France : Gallimard. Google Scholar 
+
+ Dorais, M. (1999). Éloge de la diversité sexuelle , Montréal : VLB éditeur. Google Scholar 
+
+ Dorais, M. (2015). Le métier d’aider , Montréal : VLB éditeur. Google Scholar 
+
+ Fausto-Sterling, A. (2013). Les cinq sexes . Paris, France : Petite Bibliothèque Payot. Google Scholar 
+
+ Fausto-Sterling, A. (2012). Corps en tous genre. La dualité des sexes à l’épreuve de la science . Paris, France : La Découverte. Google Scholar 
+
+ Goffman, E. (1977). « The Arrangement between the Sexes », Theory and Society , 4 (3) (Autumn 1977), 301-331. 10.1007/BF00206983 Google Scholar 
+
+ Green, R. (1975). Sexual Identity Conflict in Children and Adults. Baltimore, Mar. : Penguin Books. Google Scholar 
+
+ Kinsey, A. (1954) Le Comportement sexuel de la femme . Paris, France : Amiot Dumont. Google Scholar 
+
+ Kinsey, A. (1948), Le Comportement sexuel de l’homme . Paris, France : éd. du Pavois. Google Scholar 
+
+ Laumann, E. O., Gagnon, J.H., Michael R.T. Michael, S. (1994). The Social Organisation of Sexuality, Chicago, Ill. : University of Chicago Press. Google Scholar 
+
+ Mathieu, N.-C. (1991). L’anatomie politique. Catégorisation et idéologies du sexe. Paris, France : Éditions côté-femmes. Google Scholar 
+
+ Stoller, R. (1989). Masculin ou féminin ? Paris, France : PUF. Google Scholar 
+
+ Storms, M. D. (1980). « Theories of Sexual Orientation ». Journal of Personality and Social Psychology , 38 (5), 783-792. 10.1037/0022-3514.38.5.783 Google Scholar 
+
+ Terry, J. (1999). An American Obsession. Science, Medecine, and Homosexuality in Modern Society, Chicago, Ill. : Chicago University Press. 10.7208/chicago/9780226793689.001.0001 Google Scholar 
+
+ West, C. Zimmerman, D. (1987). « Doing Gender ». Gender Society . 1 (2) (June 1987), 125-151. 10.1177/0891243287001002002 Google Scholar 
+
+ Whalen, R.E. (1974). « Sexual Differentiation : Models, Methods, and Mechanisms » in Sex Differences in Behavior (Friedman RC, Richart RH, Wiele RLV, eds). New York, N. Y. : Wiley, 467-484. Google Scholar 
+
+ List of figures
+
+ Figure 1
+
+ Échelle de Kinsey 
+
+ Figure 2
+
+ Modèle orthogonal de l’orientation sexuelle 
+
+ Figure 3
+
+ Modèle des continuums superposés inspiré de Sandra Bem 
+
+ Figure 4
+
+ Modèle orthogonal inspiré par les travaux de Richard Whalen 
+
+ Figure 5
+
+ Modèle orthogonal de l’identité de genre 
+
+ Figure 6
+
+ Modèle orthogonal de l’identité de sexe 
+
+ Figure 7
+
+ Échelle graduée de ce qui est estimé médicalement acceptable (d’après A.
+ Fausto-Sterling) 
+
+ Other Articles From This Journal
+
+ Organisation des soins par cliniques psychiatriques spécialisées ou par cliniques de psychiatrie générale? Un débat entre Louis Guérette et Jean-Pierre Rodriguez
+
+ By David Robitaille
+
+ La clinique externe : comment peut-elle prétendre aux rôles de porte d’entrée et de plaque tournante?
+
+ By André Luyet, Evelyne Giroux et Doris Clerc
+
+ L’intégration des services de santé mentale de première ligne. Étude du modèle développé à la Clinique communautaire de Pointe-St-Charles
+
+ By Michel Perreault, Jocelyne Bernier, Hélène Tardif et Céline Mercier
+
+ Les soins partagés... ou abandonnés...
+
+ By Marcel Wolfe
+
+ Citation Tools
+
+ Cite this article
+
+ MLA 
+ 
+ Dorais, Michel. "Repenser le sexe, le genre et l’orientation sexuelle." Santé mentale au Québec , volume 40, number 3, fall 2015, p. 37–53. https://doi.org/10.7202/1034910ar
+
+ APA 
+ 
+ Dorais, M. (2015). Repenser le sexe, le genre et l’orientation sexuelle. Santé mentale au Québec , 40 (3), 37–53. https://doi.org/10.7202/1034910ar
+
+ Chicago 
+ 
+ Dorais, Michel "Repenser le sexe, le genre et l’orientation sexuelle". Santé mentale au Québec 40, no. 3 (2015) : 37–53. https://doi.org/10.7202/1034910ar
+
+ Export the record for this article
+
+ RIS 
+ 
+ EndNote, Papers, Reference Manager, RefWorks, Zotero
+
+ ENW 
+ 
+ EndNote (version X9.1 and above), Zotero
+
+ BIB 
+ 
+ BibTeX, JabRef, Mendeley, Zotero
+
+ Subscribe to our newsletter 
+ Subscribe to our newsletter 
+
+ About
+
+ Help
+
+ Accessibility
+
+ Research Guide
+
+ Contact us
+
+ Journals
+
+ Theses and dissertations
+
+ Books and proceedings
+
+ Research reports
+
+ Cultivate your knowledge. 
+
+ Follow us
+
+ Privacy policy
+
+ Cookie policy
+
+ Terms and conditions
+
+ © 2026 Érudit Consortium

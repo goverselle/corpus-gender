@@ -1,0 +1,743 @@
+La fabrique moléculaire du genre : hormones sexuelles,
+industrie et médecine avant la pilule
+Jean-Paul Gaudillière
+Dans Cahiers du Genre 2003/1 n° 34 , pages 57 à 80
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782747546010
+DOI 10.3917/cdge.034.0057
+Date de mise en ligne : 01/02/2012
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2003-1-page-57?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+Cahiers du Genre, n° 34 
+ La fabrique moléculaire du genre : 
+hormones sexuelles, industrie 
+et médecine avant la pilule 
+Jean-Paul Gaudillière 
+Résumé 
+L’histoire des hormones sexuelles est le plus souvent discutée en réfé-
+rence à l’invention de la pilule dans les années d’après-guerre. La molécu-
+larisation des sexes a toutefois été beau coup plus précoce, plus complexe et 
+plus contradictoire que cet te vision ne le laisse pe nser. Parce qu’elle a fait 
+intervenir tout à la fois une recher che biomédicale de haut niveau, une 
+industrie pharmaceutique puissante et la biopolitique du régime nazi, la 
+configuration allemande offre un terr ain privilégié pour interroger les 
+dynamiques de cette fabrique molécula ire du genre. Centré sur les rapports 
+entre biologistes, industriels produc teurs d’hormones et médecins spécia-
+listes de la reproduction, cet article aborde trois aspects différents de 
+l’histoire des stéroïdes se xuels avant la pilule : l’idée d’un continuum des 
+sexes biologiques et les discussions qu’elle a suscitées, la médicalisation 
+de la stérilité féminine et de la ménopause, et les multiples usages de la 
+testostérone. 
+Une façon d’introduire la notion de genre consiste à parler de 
+construction sociale ou culturelle du féminin et du masculin pour distinguer celle-ci de la nature biologique des corps. Comme on le dit souvent : le genre est le sexe social. L’opposition entre genre et sex e a des avantages évidents 
+lorsqu’il s’agit de préciser tout ce que les identités doivent à 
+l’histoire. Elle a toutefois un inconvénient, qui est de faire l’impasse sur le fait que les identités de genre ont été au cœur des 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 58
+processus matériels, cognitifs et so ciaux qui ont « fait » les savoirs 
+du sexe. Comme l’a si bien rappelé Thomas Laqueur, l’anatomie 
+n’a pas toujours été duale et pendant longtemps les deux genres n’ont eu qu’un sexe, plus ou moins fort (Laqueur 1992). 
+Rien n’éclaire mieux cette intricat ion du social et du biologique 
+que les transformations qui ont amené à compléter la définition 
+anatomique des sexes par d’autres attributs biologiques dont les 
+plus importants sont le sexe gé nétique et le sexe hormonal. 
+Cette reconfiguration n’a pas seulement ajouté de nouveaux niveaux d’appréhension des organismes. Elle les a aussi orga-nisés en une hiérarchie du naturel, encore dominante aujour-d’hui, et qui veut que les gènes contrôlent les cellules, qui 
+déterminent la physiologie, qui détermine l’anatomie. La 
+découverte des hormones sexuelles a joué un rôle essentiel dans ce processus. Elle a rendu possi ble un ensemble de pratiques 
+expérimentales qui ont amené à voir dans les attributs du fémi-nin et du masculin le résultat des interactions entre les diffé-rentes molécules qui contrôlent la reproduction et les caractères 
+sexuels. 
+Le 
+XXe siècle a été la grande époque de cette fabrique 
+moléculaire du sexe et du genre. La mise à disposition des pra-ticiens — des hommes et des femmes — d’extraits préparés à partir des glandes sexuelles, a, dès avant la première guerre 
+mondiale, ouvert la voie à l’expérimentation. Les pratiques de 
+manipulation biologique des corps sont toutefois restées d’ampleur modeste jusqu’à ce que, dans les années trente, bio-chimistes et ingénieurs de l’industrie pharmaceutique trans-forment les préparations organiques en molécules pures, pour 
+partie synthétisées à l’usine. Cette producti on élargie de stéroïdes 
+sexuels a favorisé le processus de médicalisation et de contrôle des pratiques reproductives, et du même coup modifié la 
+perception du féminin et du mascu lin. L’histoire de la fabrique 
+moléculaire du genre est donc ce lle d’une reconfiguration des 
+identités corporelles qui précède de plusieurs dizaines d’années 
+l’invention de la pilule et qui a pour substrat une conjonction de 
+sciences, d’industrie et de pratiques médicales. 
+Les redéfinitions de l’entre-deux-guerres ne sont pas passées 
+inaperçues des historiens et sociologues (Clarke 1998). Nelly 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 59
+Oudshoorn a, par exemple, analy sé en détail la façon dont les 
+chercheurs des universités hollandaises et la firme Organon ont 
+participé à l’identification et à la sexualisation des hormones stéroïdes (Oudshoorn 1994). L’objectif de l’article qui suit est de revenir sur les dynamiques de cette molécularisation du féminin et du masculin en partant de la configuration alle-mande. L’intérêt de cette dernière est qu’elle a mis aux prises 
+une recherche biomédicale de haut niveau, une industrie phar-
+maceutique puissante, et la biopolitique du régime nazi. De ce fait, l’histoire allemande des stéroïdes sexuels est à la fois parti-culièrement riche et problémati que. Elle offre un terrain privi-
+légié pour discuter la construction scientifique du genre. 
+Les stéroïdes sexuels : une création bio-industrielle 
+Les hormones sexuelles sont apparues à la périphérie des 
+mondes de la médecine, à la croisée du laboratoire et de la fabrique. Comme Christiane Sinding l’a montré, les recherches physiologiques de la fin du 
+XIXe siècle sont à l’origine de cette 
+idée selon laquelle certains organes impliqués dans la repro-duction agiraient sur le reste du corps par le biais de substances 
+chimiques 
+1. Circulant entre les glandes endocrines et les tissus 
+qui sont leurs cibles, les hormones sexuelles ont été mises en relation aussi bien avec la matu ration des cellules reproductrices 
+qu’avec l’apparition des caract ères sexuels secondaires. 
+La première biologie de la reproduction était cependant assez 
+loin de ce que l’imagerie d’un Cl aude Bernard, opé rant lapins et 
+chiens devant une demi-douzaine d’élèves dans cette pure arène académique qu’était le Collège de France, pourrait laisser ima-
+giner. La physiologie des gland es était en prise directe sur le 
+travail de préparation d’extraits à valeur commerciale. Que ce 
+soit en France, en Grande-Bretagne ou en Allemagne, le tour-
+nant du siècle a vu la mise en vente de dizaines de spécialités à usage thérapeutique (Borell 1985 ; Oudshoorn 1994). Celles-ci consistaient en préparations d’or ganes obtenus à partir des tissus 
+d’abattoirs, broyés, séchés, et parfois lyophilisés. Des extraits 
+de foie à ceux d’ovaires en passant par les poudres de pancréas, 
+ 
+1 Voir son article « Le sexe des hormones » dans ce numéro. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 60
+l’organothérapie était alors une pratique globale, une question 
+de savoir-faire dans l’extraction et l’emballage. Pour les petites 
+firmes impliquées dans cette production, les toniques sexuels (comme on parlait des vins toniques) étaient un bon produit d’appel (Ruffat 1996). Ovaires et testicules étaient toutefois d’accès difficile et de nature extrêmement variable quant à leurs teneurs en hormones. Les préparations d’organes étaient par 
+conséquent disponibles en quantités restreintes et dotées d’effets 
+parfois inattendus. Écho de la di vision traditionnelle des corps 
+biologiques plutôt qu’outil de recomposition des identités, l’organothérapie sexuelle eut en conséquence un impact limité tant sur les pratiques médicales que sur l’équation liant le genre 
+au sexe biologique. 
+Les choses commencèrent à changer dans les années vingt, 
+avec l’implication croissante des grandes entreprises de la chimie et l’apparition d’un nouveau type de biologiste. Travaillant à une 
+autre échelle, les biochimistes abordaient les hormones moins 
+pour explorer les interactions en tre organes que pour analyser les 
+compositions des tissus producteurs. Leur horizon était la purifi-
+cation de principes moléculair es dont on pourrait décrire la 
+structure chimique et avec lesquels on pourrait reproduire la tota-lité des effets attribués aux hormones. En Allemagne, où la 
+pharmacie d’officine a moins longt emps résisté à la concurrence 
+de la grande industrie chimi que, le marché des extraits 
+d’organes fut ainsi, dès les années vingt, dominé par les grandes compagnies de ce secteur : 
+IG Farben (Bayer), Boehringer, 
+Merck-Darmstadt, Schering. Cette dernière est la plus intéres-
+sante à suivre à cause du rôle qu’ont joué ses chercheurs dans 
+l’isolement et la caractérisation des principaux stéroïdes 
+sexuels : estrogènes, progestérone, androstérone et testostérone 
+(Gaudillière 2003). 
+Entre 1925 et 1935, Schering remplaça les extraits de tissus 
+par des spécialités supposées ne contenir que les stéroïdes tenus pour caractéristiques des sécrétions des ovaires, du corps jaune 
+et des testicules. Les marques déposées Progynon, Proluton, 
+Proviron et Testoviron devinrent ainsi respectivement syno-nymes d’estrogènes, de progestérone, d’androstérone et de tes-tostérone. Les sources d’approvisionnement changèrent aussi. Même si la manipulation et le découpage des ovaires de truies 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 61
+— une opération délicate nécessitant un doigté typiquement 
+féminin — persistèrent jusque dans l’après-guerre, une bonne 
+partie de ces produits étaient désormais préparés par le traite-ment chimique de quantités massives d’urine de jument et d’urine humaine. La petite histoi re veut ainsi que l’isolement 
+d’un des premiers stéroïdes « mâles », l’androstérone, ait eu pour point de départ le traite ment de plusieurs centaines de 
+milliers de litres d’urine collectés par la firme dans les commis-
+sariats de Berlin. L’introduction de ces spécialités purifiées aurait 
+été impossible sans la constituti on d’un dispositif de recherche 
+original, organisé par les industriels et susceptible de donner les moyens de la purification moléculaire. 
+La place prise par Schering dans l’histoire des stéroïdes 
+sexuels s’explique dans une large mesure par l’association entre les pharmacologues trava illant directement pour la compagnie et 
+les biologistes d’une institution académique, le Kaiser Wilhelm 
+Institut für Biochemie, dirigé, après « l’aryanisation » du milieu des années trente, par le biochimiste Adolf Butenandt (Karlson 
+1990 ; Kaufmann D. 2000). Initiée au milieu des années vingt 
+alors que ce dernier n’était encore qu’un jeune chercheur, cette collaboration dura deux décennies 
+2. Les relations entre spécia-
+listes des molécules biologiques et professionnels de l’ingé-nierie et de la chimie orga nique relevaient d’un système 
+complexe d’échanges. Ceux-ci montrent à quel point la décou-
+verte des stéroïdes sexuels fut, avant la lettre, une affaire de biotechnologie. 
+De leur côté, les chimistes et administrateurs de Schering 
+recevaient des molécules purifiées, des indications sur leur 
+structure, et surtout des protocoles de préparation éventuel-
+lement brevetables. Plus rareme nt, la circulation concernait des 
+demandes de conseils sur telle ou telle direction de recherche. 
+Butenandt fut de plus à plusieurs reprises appelé à témoigner que les produits de Schering n’étaient pas cancérigènes. Dans ce système, l’institut de Dahlem pr ofitait de l’argent de quelques 
+contrats de recherche. Financièrement, le plus important était 
+toutefois que Butenandt et ses collègues bénéficiaient d’une 
+ 
+2 Gaudillière, « Adolf Butenandt and Schering AG : Making Sex Steroids into 
+Drugs », à paraître. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 62
+participation aux ventes réalisées grâce à l’exploitation des bre-
+vets « Schering » concernant les techniques de purification des 
+estrogènes, de la progestérone puis des androgènes que l’institut avait aidé à mettre au point. Parallèlement à ces fonds, la firme envoyait aux biochimistes des composés synthétisés dans son laboratoire de recherche, des informations sur les demandes de brevets, ainsi que de multiples indications concernant les tech-
+niques de synthèse et d’isolement des stéroïdes commerciaux. 
+Cet ensemble de données et de savoir-faire était considéré avec le plus grand intérêt par les biologistes de Dahlem. Raisonnant 
+en termes de structures moléculaires plutôt que de fonctions biologiques et d’effets cellulaires des hormones, ceux-ci pen-
+saient en effet que les voies de synthèse naturelle des stéroïdes 
+devaient être proches , si ce n’est identiques, à ce qu’il était pos-
+sible de faire au laboratoire, qu’ il soit universitaire ou industriel. 
+L’économie naturelle des horm ones et son économie indus-
+trielle étaient, pour les participan ts de ce réseau bio-industriel, 
+une seule et même chose. 
+Exemplaire de l’ancienneté des pratiques de valorisation des 
+connaissances et de commercialisation du vivant, la collabo-ration entre Schering et l’institut de la Kaiser-Wilhelm-Gesellschaft fut non seulement à l’origine des formes purifiées des trois principaux stéroïdes sexuels, mais aussi d’un grand 
+nombre de molécules dérivées que les chimistes obtinrent par 
+addition ou soustraction de petits radicaux sur le socle fourni 
+par la progestérone ou la testos térone. La palette d’expéri-
+mentations réalisées au laboratoire et en usine-pilote permit à Schering de disposer, dès 1937, de protocoles permettant d’aller 
+vers une synthèse partielle des stéroïdes sexuels à partir du 
+cholestérol, un produit a priori beaucoup plus abondant et plus 
+aisé à manipuler que les glandes ou l’urine. Un saut radical dans l’échelle de la production devenait possible. 
+En quoi cette alliance du biologique et de l’industriel 
+changea-t-elle le statut des hormones ? Le travail des cher-
+cheurs de la Kaiser-Wilhelm-Gesellschaft avait pour principal 
+enjeu l’élucidation des structures des substances contenues dans les extraits biologiques et dotées (par les pharmacologues de Schering) de propriétés « mâles » ou « femelles ». En termes opérationnels, ce jugement reposait sur des tests biologiques 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 63
+développés à la frontière entre étude physiologique et contrôle 
+de qualité (Oudshoorn 1994). Ces tests reposaient tous sur le 
+choix d’un phénomène biologique considéré comme exemplaire de la différenciation en un sexe ou l’autre. Un des tests d’activité « mâle » consistait, par exemple, en la mesure de la 
+croissance de la crête chez des poulets castrés avant et après injection de préparation hormona le. Dans le cas d’une activité 
+« femelle », on suivait comment l es inoculations influaient sur la 
+différenciation des cellules utérin es de lapine. La culture indus-
+trielle de standardisation joua un rôle important dans la sélec-
+tion et la stabilisation des protocoles définissant les conditions dans lesquelles chacun de ces essais devait être conduit, et donc 
+dans la définition de ce qu’é tait une substance caractérisée 
+comme une hormone mâle ou une hormone femelle (Butenandt 
+1931). 
+La « molécularisation » des extraits d’organes sexuels signi-
+fiait en premier lieu ramener les effets plus ou moins variables 
+de ces entités à la présence d’une seule catégorie de molécules 
+biologiques. L’opération était loin d’être facile. Elle réussit 
+toutefois. Du moins lorsqu’on la juge à l’aune des essais bio-logiques standards. Moléculariser la différenciation sexuelle ouvrait aussi la voie à la fa brication, par un petit nombre 
+d’étapes chimiques, de dizaines de molécules dérivées des sté-
+roïdes naturels, susceptibles d’être plus ou moins actives que les 
+composés tirés des organes. De la fin des années vingt à la seconde guerre mondiale, ce sont ces composés, à la fois natu-rels et synthétiques, industriels et intermédiaires du métabolisme 
+cellulaire, qui furent à l’origine d’une période d’incertitude durant 
+laquelle la théorie glandulaire des sexes et sa dualité fonda-
+mentale furent mises à mal par la biochimie. 
+La transformation des stéroïd es en produits chimiques indus-
+triels changea l’échelle de leur utilisation. Non que Schering et 
+les autres firmes n’aient pas produit des quantités significatives d’hormones avant les années trente. Mais le marché restait 
+limité par la rareté des matièr es premières, la variabilité des 
+teneurs et les incertitudes de la préparation. Les protocoles de 
+synthèse partielle furent donc considérés comme un moyen pri-
+vilégié pour augmenter les quantités, homogénéiser les lots et diversifier les sources d’approvi sionnement. Logique industrielle 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 64
+et logique médicale étaient liées, au sens où l’augmentation des 
+quantités offertes poussait à élargir les usages, tandis que la 
+demande croissante tirait la production. 
+La transformation des hormones sexuelles en molécules 
+intervint, en Europe comme aux États-Unis, durant la période 1930-1945. Pour en évaluer l’im pact sur la constitution des 
+identités de genre, la suite de cet article en aborde trois aspects 
+différents : les discussions de l’idée de continuum des sexes 
+biologiques, la médicalisation de la stérilité féminine et de la 
+ménopause, et les usages de la testostérone. 
+Le continuum biochimique et ses limites : 
+que faire des hormones bisexuelles ? 
+Dominante durant tout le début du XXe siècle, la conception 
+bipolaire des hormones sexuelles reposait sur la mise en équa-tion de chaque sécrétion interne avec les ovaires ou les testi-cules. Conformément à la dualité anatomique, le paradigme 
+hormonal impliquait l’existence de deux groupes de substances 
+aux propriétés opposées, respec tivement élaborées par les 
+glandes reproductrices mâles et femelles (Hausman 1995). Cette mise en ordre n’était pas qu ’une pratique discursive, elle 
+reposait sur un ensemble d’opérati ons matérielles dont la plus 
+importante était certainement le recours aux tests biologiques 
+d’activité. C’est sans doute à cette inscription dans les dispo-sitifs d’essais qu’il faut attribuer le fait que des résultats bio-
+chimiques ésotériques aient pu, pendant un temps, fragiliser la définition biologique des genres, laissant même brièvement entrevoir la possibilité d’un « troisième sexe » ou plus préci-
+sément l’idée d’un continuum biologique faisant des orga-
+nismes supérieurs des herma phrodites potentiels. Cependant, 
+parce que le genre est aussi affaire de pratiques, médicales en particulier, cette parenthèse des hormones « bisexuelles » fut rapidement refermée. Malgré sa brève existence, elle a l’intérêt 
+de révéler la multiplicité d’inte rprétations qu’autorisent les 
+travaux des biologistes. 
+Comme on l’a souligné plus haut, les années trente ont vu, au 
+sein du réseau de recherche Schering comme dans de nombreux 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 65
+laboratoires de biochimie, une multiplication rapide du nombre 
+de stéroïdes connus. Forts de leur confiance dans l’unité struc-
+turale de la nature et de leur compétence en matière de chimie 
+organique, les biochimistes, en particulier ceux de la sphère 
+culturelle allemande, étaient persuadés que toute molécule fabriquée au laboratoire par légère modification des stéroïdes naturels pouvait avoir une signifi cation physiologique (Karlson 
+1990) 
+3. Concrètement, le travail du chimiste consistait alors à 
+imaginer des voies possibles pour la synthèse naturelle des estrogènes, de la progestérone ou des androgènes. Il s’agissait, à partir de là, de fabriquer certains des intermédiaires correspon-dants à ces étapes postulées, de tester les effets de ces composés 
+dans les essais biologiques standards pour les comparer avec 
+ceux des hormones naturelles, et pour finir de rechercher la pré-
+sence de ces molécules artificielles dans les tissus animaux et humains. La mise en œuvre de ce programme multiplia les molécules — si ce n’est les hormones — à activité mâle ou femelle. La chasse aux nouveaux stéroïdes brouilla aussi les 
+frontières entre sexes biologiques, et ce de deux façons diffé-
+rentes. 
+La première a pour point de départ la reconnaissance de la 
+présence, chez des organismes non pathologiques et anatomi-quement mâles, d’estrogènes et de progestérone ainsi que, 
+inversement, celle d’hormones mâles dans les sécrétions bio-
+logiques de corps tenus pour biologiquement femelles. Un bon exemple des difficultés créées par ces résultats fut la découverte 
+de quantités importantes d’estrogènes à la fois dans les testi-cules et dans les urines de chevaux mâles. Le physiologiste 
+Bernhard Zondek évoquait à ce propos le fait que si l’ordre des 
+découvertes avait été inverse, si l’on avait pour la première fois 
+isolé ces composés à partir de l’urine d’étalons plutôt que dans des extraits d’ovaires — une chronologie directement liée à l’exploitation commerciale de ces derniers —, on aurait certai-nement étiqueté les estrogènes comme hormones mâles (Zondek 
+1941). Zondek n’en déduisait pas que les estrogènes auraient 
+alors eu les mêmes effets que la testostérone, mais simplement qu’il y avait une part d’arbitr aire dans nos dénominations. 
+ 
+3 Butenandt (1937) ; KWG -Archiv, III/84, Vorträge 1933-37. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 66
+La seconde source d’interrogations tenait au chevauchement 
+des effets de ces composés. Dis posant de quantités accrues, les 
+chercheurs multiplièrent les investigations sur l’action des estrogènes, de la progestérone, de la testostérone et des molé-cules dans leurs systèmes d’essai. Les premières hormones se virent ainsi dotées d’effets « mâles » tandis que les dernières y gagnèrent des effets « féminins » (Lillie 1939). 
+Durant la seconde moitié des années trente, les chercheurs 
+tentèrent de sauver la bipolarité moléculaire des sexes en intro-duisant, en amont de la production des stéroïdes typiquement mâles et femelles, un vaste ensemble de métabolites et de pré-curseurs révélateurs d’un gradient de différenciation, par lequel 
+on passait de composés typiquement non sexués comme le 
+cholestérol aux formes finales dotées d’une action spécifique. À la place du modèle bipolaire de s deux physiologies et des deux 
+univers chimiques distincts, il fa llait adopter l’idée selon laquelle 
+la séparation moléculaire des se xes était un problème d’équilibre 
+entre de nombreux composés re levant d’une seule mécanique 
+réactionnelle, d’un métabolisme uni que des stéroïdes. Au lieu de 
+parler d’hormones si mplement mâles — respectivement femelles 
+— on commença à parler d’hormones sexuelles mâles — ou femelles. La différence peut sembler minime, mais le quali-
+ficatif renvoyait à cette nouvelle unicité du métabolisme des 
+stéroïdes. 
+On pourrait a priori imaginer que ces résultats pouvaient 
+conduire les chercheurs à discute r ou même à remettre en cause 
+les spécificités attribuées aux essais biologiques (par exemple, 
+le caractère intrinsèquement mâle de la croissance de la crête de 
+poulet), ou encore — plus radical ement — la stricte polarité des 
+fonctions reproductrices. La théorie des glandes et ses incar-nations expérimentales résistèrent toutefois à l’épreuve. Quoique la différenciation sexuelle ait désormais été considérée comme un processus progressivement inscrit dans les structures ana-tomiques et faisant fond sur un métabolisme commun, elle n’en 
+restait pas moins un système d’opposition binaire. 
+Les tensions entre le continuum biochimique et la polarité 
+des genres sont particulièrement illustrées par la discussion allemande sur les hormones « hermaphrodites ». Pendant près 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 67
+de dix ans, Butenandt et ses collaborateurs, convaincus que 
+l’ensemble des hormones sexuelles étaient des dérivés du cho-
+lestérol, poursuivirent un programme d’exploration systéma-tique des propriétés des stéroïdes présentant une structure comparable à ce dernier. Choi sis pour être des précurseurs 
+potentiels de la progestérone ou de la testostérone, ceux-ci 
+étaient testés dans toute la palette des essais physiologiques dis-
+ponibles. Illustration du brouillage des frontières, tous les 
+intermédiaires androgènes se ré vélèrent ainsi présenter des 
+effets progestatifs. Ceux-ci étaient plus ou moins prononcés. 
+Butenandt entreprit d’ordonner ce foisonnement de molécules 
+en liant structure moléculaire, place potentielle dans la chaîne 
+des réactions cellulaires et variat ions du pouvoir « masculinisant » 
+ou « féminisant ». L’un des premiers androgènes préparés au laboratoire, la déhydroandrostér one, était ainsi conçu comme le 
+substrat métabolique conduisant aussi bien à la testostérone qu’à la progestérone. Butenandt le considérait comme ayant une structure à mi-chemin entre celle de l’androstérone et de celle 
+des estrogènes, un composé interm édiaire entre les substances à 
+activité mâle et à activité femelle 
+4. Pour les chercheurs de 
+l’institut de biochimie de Berlin, les substances à double activité n’étaient pas que des curiosités de laboratoire. Non seulement ils pensaient avoir la possibilité de produire des 
+molécules présentant tous les degrés d’activité mâle, femelle ou 
+bisexuelle, mais les modifications de structure à l’origine de ces 
+effets devaient aussi jouer un rôle dans les organismes vivants 
+5. 
+L’androstènediol, un de ces produi ts « bisexuels » synthétisés 
+en laboratoire, avait des propriétés remarquables en ce qu’il était, 
+chez le poulet, capable d’induire à la fois une croissance de la 
+crête « mâle » et l’apparition d’un plumage « femelle ». Cette 
+molécule, structurellement pr oche de la testostérone, se 
+comportait de surcroît comme un bon progestatif. Intermédiaire de synthèse, l’androstènediol ét ait aussi intermédiaire physio-
+logique. Il devint l’exemple parfait de l’hormone « herma-
+ 
+4 Adolf Butenandt, « Chemische Untersuchungen zur Physiologischen Spezifität 
+in der Gruppe der Keimdrüsenhormone ». KWG -Archiv, III/84, Vorträge 
+1933-37, p.12. 
+5 Butenandt, op.cit. , p. 19. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 68
+phrodite », une zwitterhormone (Butenandt 1936). De telles 
+substances étaient susceptibles de donner une explication 
+chimique aux configurations se xuelles intermédiaires. On se mit 
+donc à les chercher dans les urines de patients jugés peu virils ou souffrant d’intersexualité. 
+De là à en faire la base d’un « troisième sexe » ou d’une 
+bisexualité généralisée, il y ava it toutefois un pas que personne 
+ne franchit. Attribuées aux hommes insuffisamment virils et aux 
+femmes trop masculines, les hormones « hermaphrodites » ne perdirent jamais leur ambiguïté. Normaux lorsqu’ils étaient des 
+intermédiaires métaboliques invisibles, les composés condui-sant à la fois à l’apparition de ca ractères mâles et de caractères 
+femelles devenaient l’indice d’un fonctionnement pathologique 
+lorsqu’ils étaient présents en quantité notable dans les tissus 
+biologiques (Friedrich-Freksa, Bu tenandt 1942). Quoique visible, 
+l’hermaphrodisme moléculaire rest ait une variation aux limites, 
+la manifestation d’un fonctionnement amoindri des glandes, une anomalie éventuellement à corriger par l’administration d’autres 
+hormones. Comme la majorité de ses confrères, Butenandt jux-
+taposa de cette façon le contin uum biochimique et la polarité 
+des sexes. 
+Moléculariser au féminin : 
+du traitement de la stérilité à celui de la ménopause 
+Conformément aux préceptes de la théorie glandulaire, le 
+développement de l’organothérapi e fut, au début du siècle, pro-
+fondément marqué par l’opposition des genres. Les extraits d’ovaires furent d’abord utilisés dans le traitement des troubles 
+de la menstruation et des stérilités, tandis que les extraits de 
+testicules furent administrés pour contrôler l’impuissance. Avec l’industrialisation des préparations, la période suivant la première 
+guerre mondiale vit un déplacement significatif des indications au profit de la prise en charge des maux « féminins ». Les 
+recherches de Nelly Oudshoorn ont mis en rapport ce phénomène 
+avec l’existence d’une spécialité médicale s’occupant exclu-
+sivement des femmes et du c ontrôle de la reproduction 
+(Oudshoorn 1994 ; Hausman 1995). Gynécologues et obsté-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 69
+triciens étant ceux qui définissaient les essais thérapeutiques et 
+les indications pertinentes, ce furent les stérilités féminines qui 
+devinrent les principales cibles d’usage des stéroïdes sexuels. Pertinent au niveau de la littérature médicale et des pratiques de la clinique hospitalière, ce sch éma rend moins bien compte des 
+usages des hormones sexuelles reflétés par les sources adminis-tratives et industrielles. 
+Ainsi, en Allemagne, les stéroïdes sont restés des prépa-
+rations accessibles en dehors des prescriptions de spécialistes jusqu’à la seconde guerre mondiale 
+6. Comme les vitamines et les 
+extraits de plantes, les hormones étaient en vente libre chez les pharmaciens. Leur emploi était li mité en premier lieu par le jeu 
+entre les quantités disponibles sur le marché, les demandes des 
+personnes et les pratiques de vente des propriétaires d’officine. La molécularisation de la méd ecine du genre renvoie donc aussi 
+bien à des pratiques « d’en haut » (celles des professionnels de la 
+reproduction) qu’à des pratiques « d’en bas » (celles des femmes 
+et des hommes « consommateurs »). Les usages des estrogènes 
+et de la progestérone correspondaient au moins autant aux 
+indications privilégiées par les gynécologues et obstétriciens qu’à des utilisations considérées comme sauvages par les spécialistes. Parmi ces pratiques d’en bas, on trouvait les thé-rapies hormonales de la ménopause, aujourd’hui largement 
+médicalisées et regardées avec précaution, si ce n’est suspicion, 
+par de nombreuses femmes. 
+Cette juxtaposition entre usages professionnels et usages 
+profanes est aisément repérable dans les recherches, publi-cations et publicités d’industr iels comme Schering. Paral-
+lèlement à son réseau de biologistes et de chimistes, la firme 
+gérait un ensemble de collabor ations avec des cliniciens. 
+Comparativement aux pratiques contemporaines de l’industrie pharmaceutique, celles-ci étaient d’ampleur modeste, impli-quant une demi-douzaine de ser vices de gynécologie béné-
+ficiant d’apports de molécules, d’information et de fonds. À 
+ceux-ci venaient s’ajouter quelques centaines de médecins 
+recevant Medizinische Mitteilungen , le journal scientifique de la 
+ 
+6 Bundes-Archiv Berlin, R 8/ VIII, Reichstelle Chemie, 330, Organpräparate. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 70
+compagnie. Ce dispositif joua un rôle essentiel dans la défi-
+nition des indications médicales des stéroïdes sexuels féminins. 
+Lorsque furent mises sur le marché les préparations purifiées 
+Progynon et Proluton, la firme privilégia les indications médi-calement les plus légitimes. Les collaborations avec les Frauenklinik portèrent alors sur le traitement de stérilités attri-
+buées à un défaut de fonctionnement des ovaires et sur les 
+troubles du cycle sexuel. La première annonce « choc » fut, en 
+1933, celle du traitement d’une jeune patiente souffrant d’une 
+absence complète de menstruation pour laquelle Carl Kaufmann 
+et ses collègues de la clinique de gynécologie de l’hôpital de La Charité à Berlin avaient inventé un cycle artificiel, induit par 
+injection de Progynon et Proluton (Kaufmann 1933). Basée sur 
+les études des variations de con centrations en stéroïdes sanguins 
+au cours du cycle menstruel, un type de recherches alors en plein essor, l’expérimentation associait quatorze jours de trai-tement aux estrogènes suivis de quatorze jours d’administration de progestérone. L’opération fut un succès au sens où, après 
+quelques mois de ce régime, des règles apparurent. Par la suite, 
+le protocole « Kaufmann » de vint un standard, reproduit et 
+commenté dans des dizaines d’articles et de manuels discutant la prise en charge médicale des femmes suspectes de stérilité 
+« ovarienne » (Kaufmann C. 1935 ; Stoeckel 1947 ; Martius 
+1946). Non seulement le cycle physiologique féminin fut redé-
+fini à partir des courbes de changement des relations de concentration des stéroïdes sanguins, mais la médecine de la reproduction se convertit au médicament chimique. 
+Le marché potentiel était toutefois beaucoup plus large que 
+celui des stérilités. En 1935, réfléchissant aux indications pos-
+sibles des estrogènes, les chercheurs de Schering dressaient une liste incluant non seulement le tr aitement de désordres « de la 
+fonction sexuelle » (c’est-à-dire l’ensemble des anomalies du cycle prises comme indices de l’incapacité reproductive), des pathologies « polyhormonales » (i mpliquant les stéroïdes sexuels 
+et d’autres hormones comme celles de la thyroïde), mais aussi 
+des indications dites générales. Celles-ci comprenaient des maladies de la croissance, de la peau, les rhumatismes, l’athérosclérose, certaines an émies, et les troubles de la 
+ménopause. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 71
+Ce sont ces derniers qui firent l’objet des investissements de 
+recherche les plus significatifs. Durant la seconde moitié des 
+années trente, les contributions publiées par les associés de Schering plaidèrent pour la mise en œuvre de thérapies hormo-nales du vieillissement 
+7. Identifiant la ménopause à une phase 
+particulièrement pr oblématique de la vie biologique des 
+femmes, Carl Kaufmann mettait ai nsi en rapport la réduction de 
+la sécrétion de stéroïdes (due à l’arrêt des fonctions ovariennes) 
+et l’apparition de symptômes incluant les troubles de la circu-lation, les maux de tête, les douleurs articulaires, les bouffées de chaleur, les troubles de l’humeur et la dépression. Pour les soulager, l’administration de Progynon n’était pas la seule solu-
+tion, mais elle pouvait s’avérer d’un grand secours (Kaufmann C. 
+1938). 
+Multipliant les essais, les con seillers médicaux de Schering 
+devinrent de fervents partisans de ce que les cliniciens com-
+mencèrent à appeler des « thérapies hormonales de rempla-cement ». Carl Kaufmann, par exemple, jugeait cette forme 
+d’intervention particulièrement recommandée car elle pouvait 
+être considérée comme « causale », c’est-à-dire fondée sur la 
+connaissance des mécanismes mo léculaires de la ménopause. 
+Le fait que la relation entre arrê t des menstruations, changements 
+hormonaux et symptômes resta t out aussi mystérieuse que le 
+mécanisme d’action des stéroïdes/ médicaments ne changeait rien 
+à un raisonnement qui était avant tout pragmatique. 
+Cette extension des indications officialisa certains des usages 
+profanes des stéroïdes. Elle faisait aussi l’affaire de l’industrie. Mais elle était loin de recevoir l’assentiment de tous les profes-
+sionnels. L’élite des gynécologues était plus que réservée. Leurs 
+inquiétudes rencontrèrent un large écho lorsque l’administration sanitaire nazie s’engagea, au début de la guerre, dans la prépa-
+ration de nouvelles lois natalistes destinées à renforcer la répression contre l’avortement et la contraception. Se saisissant de cette opportunité, la Société de gynécologie et les médecins 
+de la reproduction arguèrent alors du possible usage des estro-
+gènes comme substance abortive, et demandèrent un strict 
+ 
+7 Schering AG, Progynon und Proluton, Reine Ovarialhormonpräparat . Brochure 
+non datée, sans doute 1940. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 72
+contrôle du marché 8. En 1941, les hormones sexuelles devin-
+rent des médicaments à prescription obligatoire. Facilité par une 
+économie de guerre dans laquelle la production pharmaceutique 
+était strictement contrôlée, cet encadrement n’empêcha pas le conflit entre usages recommandés pa r l’administration de santé 
+et usages « sauvages » de persister. 
+En dépit de la complexité du métabolisme des hormones, la 
+mise à disposition des stéroïdes industriels a, en fin de compte, 
+considérablement renforcé l’équa tion liant les fonctions repro-
+ductives à la définition du féminin. Deux processus différents ont pesé dans cette direction. D’une part, les usages des estro-gènes et de la progestérone ont été orientés dans le sens du 
+traitement des stérilités et d’une politique nataliste alors domi-
+nante dans tous les pays d’Eur ope, mais particulièrement pro-
+noncée en Allemagne. D’autre part, si la médicalisation de la ménopause a officialisé des pratiques initiées par les femmes et le tout-venant des praticiens, elle en a aussi renforcé la dimen-sion pathologique. Ce qui n’était qu’une phase, parfois difficile 
+mais normale, de la vie d’une femme, est devenue une perte de 
+fonction biochimique ayant pour conséquence un effacement de l’identité hormonale fondamental e. Redéfinie à partir des sté-
+roïdes, la ménopause devint à la limite comparable à ces ano-malies moléculaires considér ées comme responsables d’une 
+masculinité trop prononcée. À ce tte différence près qu’il 
+s’agissait potentiellement d’un vaste champ de pratiques, 
+exemplaire du fait que la théorie « moléculaire » du genre n’était pas qu’une représentati on ou une interprétation de la 
+nature mais un système d’action susceptible de former le réel. 
+Moléculariser au masculin : 
+traiter les défauts de puissance 
+L’examen des publicités des années trente et quarante consa-
+crées aux stéroïdes par Schering, Ciba-Geigy ou IG Farben 
+réserve une seconde surprise, parallèlement à l’émergence 
+ 
+8 Gesetzentwurfe über den Verkehr mit Mitteln zur Verhinderung von 
+Geburten, zur Schwangerschaftunt erbrechung und Unfruchtbarmachung, 
+1940-41, Reichgesundheitsamt, BAB, R18. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 73
+précoce du traitement de la ménopause. Celle-ci tient à 
+l’importance accordée aux usages de la testostérone et des hor-
+mones mâles. Les rares chiffres livrés par les archives industrielles suggèrent qu’il ne s’agit pas que d’un effet de 
+marketing. Chez Schering, l’ordr e de grandeur de la production 
+de testostérone était, dans les années trente et quarante, le même que celui de la production d’estrogènes : une dizaine de kilos 
+par an (Gaudillière 2003). De plus, si l’on s’en tient aux pla-
+quettes d’information réservées aux médecins, la liste des indi-cations justiciables d’un traitement par les stéroïdes mâles n’était pas moins large que celle des estrogènes. On y trouvait quelques syndromes spécifiques comme l’hermaphrodisme 
+anatomique, mais surtout un ensemble de symptômes généraux 
+incluant les phénomènes de fatigue chronique, de perte d’attention, de dépression, d’impuissance. Entre ces deux extrêmes, les producteurs recomma ndaient leur emploi contre 
+l’équivalent masculin des troubles de la menstruation : les hommes identifiés comme stériles à cause de la quantité insuf-
+fisante ou de la mauvaise qualité de leur sperme. 
+L’absence d’une spécialité médicale masculine jouant le 
+même rôle que la gynécologie n’a donc pas empêché les usages des hormones mâles de constituer , au moins jusqu’à la seconde 
+guerre mondiale et dans une pa rtie importante de l’Europe 
+continentale, un marché équi valent à celui des hormones 
+femelles. On peut rapprocher cette situation du fait que la figure 
+de l’homme stérile avait une visibilité particulière dans l’Allemagne des années vingt et trente (Vienne 2000). Les 
+inquiétudes, suscitées aussi bien par la défaite de 1918 que par 
+l’essor, durant la République de Weimar, de nouvelles pratiques 
+sexuelles et sociales qui remettaient en cause les attributs tra-ditionnels de la masculinité et de la féminité, s’exprimèrent 
+notamment par le biais d’un discours sur la perte de puissance des hommes, sur leur féminisation excessive et sur ses possibles causes biologiques. Le spectre de la dégénérescence biologique 
+associé de longue date au discours eugéniste fut de la sorte 
+rajeuni (Weindling 1989). Une des causes de la crise per-manente que traversait le pays éta it, dans cette perspective, une 
+maladie des glandes ayant pour origine l’affaiblissement des 
+mécanismes de sélection garants du progrès évolutif : 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 74
+l’amollissement des comportements fut de la sorte traduit en 
+crise hormonale. Non limitées aux spécialistes de « l’hygiène de 
+la race », les considérations sur la perte de puissance masculine étaient relayées par une partie des médecins et psychologues revendiquant un regard plus scientif ique sur les problèmes de la 
+sexualité. 
+Cette conjonction n’était pas qu’un phénomène d’écriture, la 
+crainte du développement de l’impuissance masculine prit une 
+signification pratique avec l’organisation d’une forme de dépistage centré sur l’examen microscopique du sperme. Initié 
+dans les consultations pour stér ilité qui étaient le plus souvent 
+conduites par des gynécologues, celui-ci devint plus répandu 
+dans les années trente. Deux tendances s’y développèrent. La 
+première était interne à la profession médicale et tenait au fait que les spécialistes de la reproduction se mirent à préconiser de façon insistante un examen du partenaire masculin du couple avant de procéder à un traitement — hormonal ou autre — du conjoint féminin (Martius 1946). Cette systématisation eut des 
+effets en chaîne : une fois que l’on se mit à chercher les stéri-
+lités masculines, on en trouva, ce qui en retour renforça l’idée de la catastrophe spermatique. La seconde tendance était poli-tique et avait pour point de dé part la politique nataliste du 
+régime nazi (Bock 1986). En systématisant les examens médi-
+caux préalables au mariage, les lois raciales du milieu des 
+années trente créèrent un espace dans lequel le contrôle des capacités reproductives pouvait prendre un caractère de masse, ouvrant ainsi la porte au traitement des hommes suspects de virilité défaillante. 
+Élargir l’usage de la testostérone supposait d’identifier un 
+problème, mais aussi de montrer que les hormones pouvaient le résoudre. Pour l’industrie pharm aceutique, cette démonstration 
+passait par la recherche d’une légitimité clinique. En pratique, les essais de la seconde moitié des années trente furent réalisés 
+par une grande variété de spécialistes incluant des urologues, 
+des psychiatres, des praticiens de médecine interne, des derma-
+tologues. Plutôt qu’une communauté circonscrite, les prescrip-teurs de la testostérone appartenaient à un réseau lâche. Dans le cas de Schering, la plupart des publications émanaient de ser-
+vices associés à une étude ponctuelle et non de collaborateurs 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 75
+au long cours, comme cela éta it le cas pour les responsables des 
+cliniques des femmes. Cela n’em pêchait pas les innovations. En 
+1937, un numéro spécial des Medizinische Mitteilungen offrait 
+ainsi à la réflexion un ensemble de contributions touchant au traitement de l’hypogénitalisme, des cas d’insuffisance sperma-tique, mais aussi de syndromes pl us diffus incluant altérations 
+de la peau, incapacité à se concentrer, troubles du sommeil, 
+fatigue chronique et troubles de l’humeur. 
+Une des conséquences de cette introduction des stéroïdes 
+comme adjuvant de masculinité fut de conférer une existence médicale à la « ménopause mâle ». Le terme surgit à l’occasion (Monetti 1938). On parlait plus s ouvent de syndrome de vieil-
+lissement, d’impuissance progressive de l’homme âgé, ou 
+encore d’andropause. L’idée selon laquelle les hommes présen-taient à partir d’un certain âge un ensemble de symptômes comparables à ceux qui accompagnent l’arrêt des menstruations féminines était toutefois répandue. D’apparition plus progres-sive que la ménopause, cette phase du cycle de vie était aussi 
+considérée comme moins intense. Comme la première, elle 
+reçut, à partir des années trente , une explication moléculaire. La 
+ménopause des hommes avait pour cause une réduction pro-gressive des quantités de testostérone produite par les glandes sexuelles mâles. En conséquence, une thérapie de remplacement 
+pouvait, là aussi, alléger les symptômes : améliorer l’humeur, 
+l’aptitude au travail, le so mmeil et l’appétence sexuelle 
+(Schmidt 1938). 
+La mobilisation technologique et scientifique de la période de 
+guerre changea considérablement les usages des stéroïdes 
+industriels. Entre 1939 et 1943, la production allemande tripla 
+9. 
+Cette croissance était d’abord le résultat d’une extension des usages « non spécifiques » dans le cadre de la médecine mili-taire. Les estrogènes, par exemple, furent largement utilisés comme agents de cicatrisation des plaies et de lutte contre les engelures. La multiplication par trois des quantités de testos-
+térone livrées — et sans doute utilisées — ne s’explique pas 
+seulement par ses propriétés de stimulant de croissance. Dans le contexte de la médecine nazie, le contrôle des corps masculins 
+ 
+9 Schering-Archiv, Notiz des Vors tandsekretariats, 9 Oktober 1945. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 76
+devint, comme celui des corps féminins, la cible de mesures 
+administratives et médicales contraignantes. Les hormones 
+mâles étaient un moyen pour « booster » les forces physiques et morales de la nation. On tenta, par exemple, d’optimiser les 
+capacités reproductives d es soldats de certaines unités d’élite en 
+coordonnant les dates de leur permission avec le cycle mens-truel de leurs épouses et en les faisant bénéficier d’injections de 
+testostérone (Klee 2001). De même, quoique cela soit resté de 
+peu d’incidence par rapport à la politique d’internement et de stérilisation, les tentatives de « normalisation » des homo-sexuels s’appuyèrent sur la théo rie moléculaire du sexe et inclu-
+rent des programmes expérimenta ux de traitement au long cours 
+par les stéroïdes mâles (Grau 1994). 
+Compte tenu de cette association à la biopolitique du régime 
+nazi, on ne s’étonnera pas que la molécularisation du masculin, appuyée sur la production et la manipulation des stéroïdes, soit entrée en crise après 1945. Dans les années d’après-guerre, la médecine de la reproduction allemande se recentra sur les stéri-
+lités précoces plutôt que sur le vieillissement, sur les corps 
+féminins plutôt que sur ceux des hommes. Le phénomène fut d’autant plus rapide que le contexte ne se prêtait plus à un usage 
+aussi massif des stéroïdes sexuels. Avec les destructions de la guerre, la production de ces derniers fut considérée par les auto-
+rités sanitaires et par les dirig eants de l’industrie pharmaceu-
+tique comme secondaire par rapport à celle d’autres médi-caments, en particulier les an tibiotiques (Gaudillière 2002). De 
+plus, dès la fin des années quarante, la discussion sur le baby-boom relativisa l’importance de la lutte contre la dénatalité. 
+* * 
+* 
+L’histoire des hormones sexuelles est le plus souvent dis-
+cutée en référence à l’invention de la pilule. Elle apparaît ainsi 
+comme une saga en deux temps : d’abord une phase de décou-verte en laboratoire avec une recherche sur les bases molécu-
+laires de la physiologie des glandes sexuelles ; ensuite une 
+phase d’application durant laquelle les demandes des femmes poussèrent à l’extension de ce qu’étaient les utilisations sponta-nément développées par les pratic iens de la médecine de la 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 77
+reproduction. La molécularisation des sexes a toutefois été 
+beaucoup plus précoce, plus complexe et plus contradictoire 
+que cette vision ne le laisse penser. 
+La configuration allemande, parce qu’elle a fait intervenir 
+tout à la fois une recherche biomédicale de haut niveau, une industrie pharmaceutique puissante, et la biopolitique nazie, offre un terrain privilégié pour interroger les dynamiques de 
+cette fabrique moléculaire du ge nre. Trois remarques peuvent 
+de ce point de vue être faites. 
+La première — et sans doute la plus importante — concerne 
+la place prise par l’industrie et ses réseaux de recherche. Elle a été fondamentale. Sans Schering, Ciba-Geigy et autres 
+IG Farben, 
+il n’y aurait tout simplement pas eu de stéroïdes sexuels. Cette 
+intervention ne s’est pas limitée à organiser et à fournir les moyens d’investigations biologiques et chimiques. La création active de nouveaux marchés, associ ée à l’usage de molécules de 
+plus en plus variées et produites en quantité croissante, a été un moteur essentiel de diversification des pratiques médicales et de 
+reconfiguration des identités de genre. La médicalisation du 
+genre, caractéristique de la période de l’entre-deux-guerres, 
+apparaît comme étant, dans une large mesure, une question de 
+production, une conséquence de la mise à disposition de nou-
+veaux objets techniques qui ont rendu les sexes manipulables. 
+La seconde remarque concerne la transformation des équa-
+tions de la théorie glandulai re. Il est incontestable que 
+l’introduction des stéroïdes et les travaux qui l’ont permise et accompagnée ont considérablement modifié le paysage scien-tifique et les théories biologiques du sexe. La bipolarité entre 
+corps mâle et corps femelle, la mise en correspondance uni-
+voque entre typologie anatomique des glandes, fonction phy-siologique et caractères sexuels a été rendue plus complexe par 
+les explorations de la fabri que naturelle des hormones. Les 
+arguments et résultats en faveur de l’existence d’un continuum 
+biochimique ont engendré un trouble d’autant plus grand qu’il 
+s’agissait, pour de nombreux biologistes, du niveau le plus fon-
+damental de l’analyse expérimentale. Pourtant, même sous leurs formes les plus développées, ces réflexions sur le continuum moléculaire n’ont que peu modifié la polarité du masculin et du 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 78
+féminin telle qu’elle existait aussi bien en médecine que dans la 
+culture scientifique publique. Les stéroïdes « hermaphrodites » 
+ont ainsi fait une brève apparition avant de devenir une curiosité 
+marginale, assimilable aux phénomènes de changement systé-matique de sexe de certaines espèces animales. En ce sens, le genre a continué à ordonner les différents sexes biologiques. 
+La troisième et dernière remar que porte sur la médicalisation 
+du genre. Celle-ci a été considérablement renforcée par la mise 
+à disposition des stéroïdes. Elle a évidemment porté sur le 
+contrôle de la reproduction, c’est-à -dire avant tout le traitement 
+des stérilités. Mais elle a aussi reposé sur l’apparition, beaucoup 
+plus tôt qu’on ne l’imagine, du traitement moléculaire des 
+ménopauses et d’usages généraux des stéroïdes sexuels. Un des 
+traits particuliers de la médi calisation du vieillissement est 
+qu’elle a eu pour point de dépa rt une conjonction d’intérêts 
+entre consommateurs et industriels, ensuite relayée par la pro-fession. Le dernier paradoxe tient à la diversité des configu-
+rations locales. Dans le contex te de l’Allemagne de Weimar 
+puis de la dictature nazie, la molécularisation du féminin a été 
+beaucoup moins dominante qu’aille urs. Estrogènes et testos-
+térone ont été utilisés de manière comparable, non seulement en quantité mais en qualité. Ce n’est donc que dans l’après-guerre 
+que la dissymétrie ou le biais féminin caractéristique de 
+l’histoire de la pilule est apparu. 
+Références 
+Bock Gisela (1986). Zwangsterilisation im Nationalsozialismus. Studien 
+zur Rassenpolitik und Frauenpolitik . Opladen, Westdeutscher Verlag. 
+Borell Merriley (1985). « Organotherapy and the Emergence of 
+Reproductive Endocrinology ». Journal of the History of Biology , 18. 
+Butenandt Adolf (1931). Untersuchungen über das weibliche Sexual-
+hormone . Göttingen, Abhandlungen der Gesellschaft der Wissen-
+schaften zu Götingen, Heft 2. 
+— (1936). « Chemische Konstitution und Physiologische Wirkung bei 
+Keimdrüsenhormone: die Herstellung eines Bisexuellen Prägung-
+stoffes ». Forschungen und Fortschritte , 12. 
+— (1937). « Über Synthetische Hormone ». Paris, Vortrag. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+La fabrique moléculaire du genre 
+ 79
+Clarke Adele E. (1998). Disciplining Reproduction: Modernity, 
+American Life Sciences and the « Problems of Sex » . Berkeley, 
+University of California Press. 
+Friedrich-Freksa Hans, Butenandt Adolf (1942). « Experimentelle 
+Beitrage zur Frage nach der Möglichkeit des Vorkommens 
+Bisexuell Wirksamer Hormone bei Zwittern ». Biologisches 
+Zentralblatt , 62. 
+Gaudillière Jean-Paul (2002). Inventer la biomédecine. La France, 
+l’Amérique et la production des savoirs du vivant (1945-1965) . 
+Paris, La Découverte. 
+— (2003). Biochemie und Industrie: Der Arbeitskreis Butenandt-
+Schering Während der Zeit des Nationalsozialismus . Berlin, 
+Forschung Programm « Geschichte der Kaiser Wilhelm Gesell-
+schaft im Nationalsozialismus ». 
+Grau Günter (ed) (1994). Homosexualität in der NS-Zeit: Dokumente 
+einer Diskriminierung und Verfolgung . Frankfurt am Main, 
+Fischer Verlag. 
+Hausman Bernice L. (1995). Changing Sex: Transsexualism, Technology 
+and the Idea of Gender in the 20th Century . Durham & London, 
+Duke University Press. 
+Hayes Peter (1987). Industry and Ideology: IG Farben in the Nazi 
+Era. Cambridge, Cambridge University Press. 
+Karlson Peter (1990). Adolf Butenandt: Biochemiker, Hormonforscher, 
+Wissenschaftspolitiker . Stuttgart, Wissenschaftliche Verlaggesell-
+schaft. 
+Kaufmann Carl (1933). « Die Behandlung der Amenorhoe mit hohen 
+Dosen der Ovarialhormone ». Klinische Wochenschrift , 40. 
+— (1935). « Die Therapeutische Anwendung der Weiblichen Keim-
+drüsenhormone ». Deutsche Medizinische Wochenschrift , 22. 
+— (1938). « Therapie des Klimakteriums mit Follikelhormon ». 
+Archiv der Gynäkologie , 166. 
+Kaufmann Doris (ed) (2000). Geschichte der Kaiser-Wilhelm-
+Gesellschaft im Nationalsozialismus. Bestande und Perspektive der Forschung . Göttingen, Wallstein. 
+Klee Ernst (2001). Deutsche Medizin im Dritten Reich . Frankfurt am 
+Main, Fischer Verlag. 
+Laqueur Thomas (1992). La fabrique du sexe: essai sur le corps et le 
+genre en Occident . Paris, Gallimard. [Éd. originale en anglais 1990]. 
+Lillie Frank (1939). Sex and Internal Secretions: A Survey of Recent 
+Research . Baltimore, Williams and Wilkins. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jean-Paul Gaudillière 
+ 80
+Martius Heinrich (1946). Lehrbuch der Gynäkologie . Wiesbaden, Goerg 
+Thieme. 
+Monetti A. (1938). « Das Testosteronpropionat in der Behandlung des 
+männlichen Klimakteriums ». Medizinische Mitteilungen , 10. 
+Oudshoorn Nelly (1994). Beyond the Natural Body: An Archaeology 
+of Sex Hormones . New York & London, Routledge. 
+Ruffat Michèle (1996). 175 ans d’industrie pharmaceutique française : 
+histoire de Synthélabo . Paris, La Découverte. 
+Schmidt Peter (1938). « Zur Behandlung der männlichen Impotenz ». 
+Medizinische Welt , 22. 
+Sinding Christiane (2003). « Le sexe des hormones : l’ambivalence 
+fondatrice des hormones sexuelles ». Cahiers du Genre , n° 34 [ce 
+numéro]. 
+Stoeckel Walter (1947). Lehrbuch der Gynäkologie . Stuttgart, Hirzel 
+Verlag. 
+Vienne Florence (2000). « Volk ohne Jugend » de F. Burgdörfer, 
+Histoire d’un objet du savoir des années vingt à la fin de la 
+Seconde Guerre mondiale . Thèse Paris, EHESS . 
+Weindling Paul (1989). Health, Race and German Politics between 
+National Unification and Nazism, 1870-1945 . Cambridge, 
+Cambridge University Press. 
+Zondek Bernhard (1941). Clinical and Experimental Investigation on 
+the Genital Functions and their Hormonal Regulation . Baltimore, 
+Williams and Winkins Company. 
+ 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

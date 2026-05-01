@@ -1,0 +1,957 @@
+Pourquoi penser la sexualité pour penser le genre en
+sociologie ?
+Retour sur quarante ans de réticences
+Isabelle Clair
+Dans Cahiers du Genre 2013/1 n° 54 , pages 93 à 120
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782343009599
+DOI 10.3917/cdge.054.0093
+Date de mise en ligne : 11/06/2013
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2013-1-page-93?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+ Cahiers du Genre, n° 54/2013 
+Pourquoi penser la sexualité 
+pour penser le genre en sociologie ? 
+ 
+Retour sur quarante ans de réticences 
+Isabelle Clair 
+Résumé 
+Partant d’écrits et de propos d’auteures de référence au sein des études 
+féministes françaises, cet article s’efforce de reconstituer un débat qui n’a 
+jamais eu tout à fait lieu en France, alors qu’il a pu se développer dans 
+d’autres pays ( e.g. la Grande-Bretagne et les États-Unis), concernant la 
+légitimité d’envisager la sexualité comme un objet pertinent de l’enquête 
+sociologique et comme une probléma tique liée de façon spécifique aux 
+conceptualisations féministes. Après av oir exposé les réticences raisonnées et 
+historiquement situées, qui ont été développées en France à l’encontre de 
+l’inclusion de la pensée de la sexualité dans la pensée du genre, on défendra 
+l’intérêt épistémologique et politique de leur articulation. 
+SEXUALITÉ — ÉPISTÉMOLOGIE — INTERSECTIONNALITÉ — SOCIOLOGIE — GENRE 
+(CONCEPT DE ) 
+C’est hors de France qu’on trouve le plus de littérature sur la 
+sexualité en tant qu’objet de recherche sociologique, dans une 
+perspective féministe ou de genre. Mon usage du terme ‘sexualité’ fait d’aill eurs écho à la distinction opérée par la socio-
+logue matérialiste britannique Stevi Jackson entre trois dimen-
+sions qui « dans la pratique [...] sont lié [e]s et se recoupent » : 
+1) la sexualité comme « institution » , c’est-à-dire instituant ou 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 94
+participant à instituer la hiérar chie des sexes et des sexualités ; 
+2) la sexualité comme « expérience », c’est-à-dire l’ensemble 
+des « pratiques érotiques » ; 3) « les identités sociale et politique 
+associées à l’hétérosexualité » (Jackson 1996, p. 14). 
+En France, il existe des text es théoriques désormais anciens 
+qui développent la première de ces dimensions, principalement 
+publiés dans Questions féministes (Guillaumin 1978a, 1978b ; 
+Wittig 1980a, 1980b ; de Lesseps 1980) puis, de façon plus 
+sporadique, dans Nouvelles questions féministes (Rich 1981 
+[1980] ; Franklin, Stacey 1991 ; Jackson 1996). Jusqu’à la fin des années 1990, quasiment rien d’ autre n’a paru sur le sujet, à 
+part des recherches en anthropologie et en psychologie sociale 
+consacrées à la prostitution, centrée s sur le travail et les rapports 
+économiques plutôt que sur la sexua lité en tant que telle (Tabet 
+1987 ; Tabet, Trachman 2009 ; Pheterson 2001 [1996]). D’une façon générale, et pendant longtemps , c’est en dehors de la socio-
+logie que la sexualité a été (un pe u) abordée dans une perspective 
+féministe, comme en témoignent les travaux de l’anthropologue 
+Françoise Héritier. Si cette dernière est une auteure de référence, 
+citée (et critiquée) par de nombreuses sociologues féministes pour sa proposition théorique de la « valence différentielle des 
+sexes » (1996), en revanche son enquê te sur la procréation, et 
+donc sur une facette de la constr uction sociale de la sexualité, a 
+eu peu d’équivalents dans la sociologie utilisant comme analy-
+seurs les rapports de sexe ou le genre 
+1. 
+Dans le contexte d’épidémie de sida, mais en dehors d’une 
+perspective de genre, de premières enquêtes sociologiques sur les pratiques sexuelles — la de uxième dimension définie par 
+Jackson — voient le jour en France à partir de la fin des années 
+1980 (Pollak, Schiltz 1987 ; Lagr ange, Lhomond 1997), jusqu’à 
+progressivement intégrer un questionnement féministe (Hamel 2003). Parallèlement, l’émergence d’une « question sexuelle », 
+autour du mariage gay et de l’homoparentalité, a récemment remis la sexualité dans le débat public (Fassin 2008), et dans des 
+enquêtes informées par le concept de genre. C’est alors la troi-
+sième dimension énoncée par Jackson qui est prise en compte 
+ 
+1 À l’exception des travaux de Michèl e Ferrand dont on verra qu’ils se sont 
+d’abord construits à di stance de la sexualité. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 95
+— les identités construites dans un cadre hétéronormatif — sous 
+l’influence notamment des théorisations queer (Descoutures, 
+Digoix, Fassin, Rault 2008). Ces deux derniers ensembles se sont, pour partie et chacun à sa façon, appuyés sur les travaux de Michel Foucault : longtemps absente des bibliographies des travaux sur les rapports de sexe et le genre, l’ Histoire de la 
+sexualité (1976-1984) tend dès lors à en devenir timidement une 
+référence, y compris en sociologie. 
+Finalement, depuis une petite qui nzaine d’années, les finance-
+ments consacrés à ‘la lutte contre le sida’, la traduction de textes 
+proposant une analyse sociologique des pratiques sexuelles, développée depuis longtemps aux États-Unis (Gagnon 1999 
+[1990], 2008), et la diffusion des théories queer (Butler 2005 
+[1990] ; De Lauretis 2007 ; Se dgwick 2008 [1991]) ont favorisé 
+l’avènement en France de recher ches sociologiques centrées sur 
+l’étude de la sexualité plus souve nt qu’auparavant en lien avec 
+la problématique du genre. 
+Ce bref rappel indique que la sexualité a été durablement 
+délaissée par les études féministes françaises, alors que le mou-
+vement social à leur origine en avait fait l’un de ses principaux enjeux et que cet objet est resté central ailleurs, notamment aux États-Unis et en Grande-Bretagne, pays avec lesquels la France a le plus « échangé » en matière de recherche sur les rapports de 
+sexe depuis les années 1970 (Lhomo nd 2004 [2000]). Aujourd’hui, 
+la sexualité reste un objet suspect au sein des travaux socio-
+logiques français sur le genre, bien que sa problématisation tende à être plus présente et les enquêtes sur les pratiques sexuelles plus nombreuses (Bozon 2009 [2002]). La question 
+posée dans le titre de cet article semble ainsi traverser les qua-
+rante dernières années : mais pourquoi donc penser la sexualité 
+pour penser le genre ? 
+Les raisons de cette réticence, qui ne s’est formulée que par 
+intermittences, sont diverses et ch angeantes dans le temps. Dans 
+une première partie, je rassemb lerai les arguments disséminés 
+dans les écrits de sociologues féministes qui ont expliqué leur 
+choix de mettre la sexualité à dist ance de leurs recherches, voire 
+ont enjoint de ne pas inclure s on étude dans les travaux sur les 
+rapports de sexe ou le genre. Ce tte reconstitution d’un débat qui 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 96
+n’a jamais eu tout à fait lieu nécessitera non seulement de lire 
+entre les lignes les textes d’auteures canoniques en France, mais 
+aussi dans leurs marges (des entretiens publiés, des préfaces). Après une période de silence presque total, ces arguments tendent à faire surface au mome nt où la sexualité devient pro-
+gressivement un objet incontournable dans les recherches sur le genre. Il faudrait mener une enquête historique des institutions 
+et des collectifs de r echerche féministes pour révéler le fond de 
+l’affaire : j’en resterai ici à une relecture des principaux arguments dits ou écrits, pour proposer un cadr e de réflexion sur la question. 
+Je déclinerai ensuite une autre interprétation de ma question 
+de départ, sans point d’interroga tion cette fois, afin de montrer 
+pourquoi, selon moi, il est utile de penser la sexualité pour 
+penser le genre. Je m’appuierai sur des textes anglo-américains importants qui ont mis au jour, selon des cadres théoriques différents, les recoupe ments entre genre et sexualité (Rubin 2010 
+[1975] ; Butler 2005 [1990] ; Jackson, Scott 2007), afin de pré-senter leurs apports à la pensée du genre et les différents usages 
+qui commencent à en être faits dans la sociologie française. Le 
+concept d’intersectionnalité (C renshaw 2005 [1994]) permettra 
+de décrire ces recoupements : conç ue à partir de l’expérience de 
+sujets politiques situés à l’intersection, longtemps impensée et non représentée, de plusieurs rapports de pouvoir, l’inter-
+sectionnalité analyse et cherche à construire des alliances au 
+sein de groupes sociaux hétérogènes, un effort utile pour qui souhaite déconstruire les anta gonismes entre grilles d’analyse 
+au sein des recherches sur le ge nre ; un autre intérêt du concept 
+tient à son ancrage dans les mouvements sociaux : son usage 
+soutient dès lors la prise en compte de l’historicité des 
+conceptualisations (Hill Collins 2000) et encourage à mettre l’accent sur l’appréhension empiri que de situations sociales dont 
+le seul concept de genre ne permet pas toujours de rendre compte et que la pensée de son articulation avec la sexualité est suscep-tible de révéler. À partir des résultats de mes enquêtes ethno-
+graphiques (Clair 2008, 2012a), je défendrai enfin l’idée que la 
+fabrique du genre se nourrit de plusieurs foyers (dont la sexualité) et que son analyse, en dehors de la seule étude des pratiques sexuelles, gagne à inclure une réflexion sur l’hétéro-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 97
+normativité et sur le corps dans la définition des rapports de 
+sexe. 
+Les risques de l’inclusion de la sexualité 
+dans l’étude du genre 
+La sexualité au service de « l’idéologie du genre » ? 
+L’expression est de Christine Delphy. Elle figure dans une 
+analyse réflexive de ses travaux, en introduction de leur publi-cation ramassée dans les deux tomes de L’ennemi principal : 
+Le regard ne peut tout embrasser d’un objet du sens commun 
+qu’au risque de mal l’étreindre : de le laisser retomber dans les 
+tautologies du naturalisme. […] J’ai choisi au départ de 
+m’intéresser à d’autres éléments, et surtout de ne pas tout 
+mélanger, de ne pas inclure forcément la sexualité comme 
+l’idéologie du genre nous pousse à le faire (Delphy 2001, p. 44). 
+C’est le système organisant le rapport d’exploitation entre la 
+classe des hommes et la classe des femmes qui ‘mélange tout’, produisant un amalgame entre « sexe, personnalité, sexualité, 
+procréation ». Imaginer qu’il faille travailler sur la sexualité, 
+comme institution ou comme ensemble de pratiques sexuelles, 
+pour travailler sur le genre reviendrait dès lors à valider cet amalgame, à faire le jeu de « l’idéologie du genre ». Récemment 
+interrogée sur le sujet, Delphy est revenue sur cette phrase : 
+Tout centrer sur la sexualité est une pente glissante car on en 
+arrive à céder facilement à l’idée […] que le rapport sexuel 
+entre les hommes et les femmes serait central. On revient à une 
+question individuelle, car le rapport sexuel est entre deux 
+personnes, et en plus il est conçu comme étant de l’ordre d’une 
+attirance ‘naturelle’ (Delphy, Molinier, Clair, Rui 2012). 
+Le piège théorique (« tout mélanger ») résonne avec un piège 
+politique : aborder la théorisati on du genre par la sexualité ris-
+querait d’entériner la centralité spontanément accordée à cette question dans les sociétés occidentales contemporaines, donc 
+cautionnerait l’argument de la nature, à l’encontre du projet 
+féministe. Un piège académique se profile derrière cette crainte, le milieu de la recherche étant largement traversé par l’idéo-
+logie du genre : en incluant la sexualité dans leurs travaux, les 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 98
+premières chercheuses féministes auraient probablement couru 
+le risque d’enfermer l’objet sociologique des femmes dans des 
+problématiques ‘féminines’, et auraient pu s’y voir enfermées et particulièrement délégitimées, en tant que femmes elles-mêmes. Sans compter que parler de sexualité et donc aussi de lesbianisme, à la croisée de l’institution hé térosexuelle et de l’appartenance 
+au groupe social des femmes, c’était s’exposer à l’anti-
+féminisme « assimilant féministes et ‘mal baisées’ et postulant, 
+chez les féministes, une haine des hommes conduisant au 
+lesbianisme » (Lamoureux 2009). La perception ordinaire de la 
+sexualité, comme d’une pratique ‘naturellement’ et honteusement 
+liée à ‘la féminité’, semble en avoir fait une question impossible 
+à traiter. 
+D’autant que dans les années 1970-80, tout était à inventer 
+pour en faire un objet sociologique, tandis que le cadre marxiste, 
+alors dominant, donnait des outils conceptuels pour penser les groupes de sexe au prisme du trav ail, que lui-même n’avait pas 
+vraiment abordés. La carence théorique et le manque de finan-
+cement des recherches sur la se xualité laissaient les chercheuses 
+féministes « bute [r] sur la difficulté d’allier subjectivité et analyse 
+scientifique » (Ferrand 2003, p. 61). Critiques à l’égard de la 
+famille et du couple, aux prises avec la difficile réduction de l’amour à une idéologie au servi ce de l’exploita tion des femmes, 
+elles ont alors délaissé l’étude de la sphère privée lorsque celle-
+ci débordait de son articulation avec le travail. Bien que centrale dans le mouvement féministe, la sexualité a ainsi été difficile-
+ment formulée au sein de la r echerche, comme d’autres aspects 
+de l’expérience individuelle (Kandel 1991) — une question 
+d’autant plus déniée dans un m onde académique rétif à traiter 
+de la matérialité du corps, jusque dans ses quartiers féministes. 
+Il s’agit là d’un premier niv eau de compréhension d’un silence 
+passé, probablement dépassé aujourd’hui. C’est ce que laissent entendre de récents propos de Delphy (Delphy, Molinier, Clair, Rui 2012, p. 310), ou encore l’orientation prise par Ferrand 
+dans ses recherches désormais di rectement fondées sur l’étude 
+des pratiques sexuelles (Andro, Bajos, Ferrand 2008). Mais les 
+arguments défavorables à la prise en compte de la sexualité dans les études de genre n’appa rtiennent pas tous au passé : 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 99
+certaines craintes anciennes sont renouvelées aujourd’hui, per-
+pétuant les réticences. 
+La réactivation de conflits anciens 
+Ce qui est parfois perçu comme une invasion de la sexualité 
+dans les recherches contemporaines puise dans des conflits dont le mouvement de libération des femmes et ses scènes univer-sitaires ont été le théâtre da ns les années 1970. Du côté 
+notamment de la psychanalyse, la discipline qui a pensé la première et de façon centrale la sexualité humaine, critiquée par 
+les féministes qui ont vu en elle une justification idéologique du 
+patriarcat. Un conflit a pris forme entre les tenantes d’une approche psychanalytique (critique) des relations entre les sexes 
+2 
+et les matérialistes ancrées dans les sciences sociales qui ont qualifié les premières d’‘essentialistes’ parce que ne remettant 
+pas en cause ‘la différence des sexes’ : elles leur reprochaient de 
+ne pas aller à l’encontre du projet ‘vraiment’ féministe de viser la disparition de l’asymétrie en tre les groupes de sexe par la 
+disparition de la signification sociale du sexe (Kandel 2000). 
+Dans la préface à l’édition française de trois essais embléma-
+tiques de Teresa De Lauretis, la psychologue Pascale Molinier 
+revient sur ce conflit et les traces durables qu’il a laissées en France, empêchant selon elle toute réflexion approfondie sur la sexualité, notamment parce que « la virulence et la personnali-
+sation des invectives entre matéri alistes et différentialistes ont 
+brûlé durablement la terre féministe sur laquelle un autre débat 
+critique entre marxisme et psychanalyse aurait pu avoir lieu » 
+(dans De Lauretis 2007, p. 10). Ce débat a eu lieu aux États-Unis et en Grande-Bretagne, où le genre s’est développé au sein 
+de départements d’études littéraires et historiques, alors que les études féministes françaises sont depuis leurs débuts marquées 
+par une « hégémonie des sciences sociales ». Les textes ont dès 
+lors peu circulé sur cette ques tion d’un pays à l’autre et 
+« l’épouvantail du French feminism ‘vu d’ici’ 
+3 a pu constituer une 
+ 
+2 Dans le groupe « Psychanalyse et Po litique » (Hélène Cixous, Chantal Chawaf, 
+Luce Irigaray, An toinette Fouque). 
+3 Molinier se réfère à une controverse au sujet du French feminism ; pour plus 
+de détails, cf. notamment le numéro de Nouvelles questions féministes (1996, 
+vol. 17, n° 1) et Kraus (2005). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 100
+stratégie pour contrer toute velléité de ‘sauver la psychanalyse 
+du discrédit qu’elle avait subi au sein du féminisme et des sciences 
+sociales’, barrant du même coup l’accès à des théorisations qui 
+[…] questionnent les expressions du désir et de la sexualité » 
+(ibid., p. 12). Le diagnostic de Molinier n’est pas tendre, il n’est 
+pas faux non plus : 
+On commence […] tout juste à découvrir que l’histoire du 
+féminisme aux États-Unis ne fut pas moins passionnée et 
+conflictuelle que celle du féminisme français, que s’y développa une authentique critique féministe de la psychanalyse quand la 
+plupart de ses détractrices françaises n’en ont jamais lu une 
+ligne (ibid., p. 15). 
+La comparaison avec la production sur le sujet aux États-
+Unis et en Grande-Bretagne, y compris dans une critique de la psychanalyse, est en effet saisissante. L’absence d’une réflexion comparable et le manque de diffusion de ces débats en France 
+révèlent un silence tenace sur la sexualité comme objet des 
+recherches féministes françaises en sciences sociales. Ce n’est 
+d’ailleurs pas un hasard si l’anthropologue italienne Paola Tabet, dont les travaux sont liés à l’école matérialiste française, 
+n’évoque que des auteures états- uniennes lorsqu’elle explique a 
+posteriori que ses recherches sur la prostitution ont pris forme 
+dans un cadre intellectuel féministe prolifique sur les questions de sexualité : Andrea Dworkin, Kathleen Barry, Gayle Rubin, Carol Vance, Judith Walkovwitz, Joan Nestle (Tabet, Trachman 2009). 
+L’autre conflit historique qui a probablement freiné durable-
+ment toute inclusion de l’étude de la sexualité en France prend 
+ses racines dans les tensions, au sein du mouvement de libé-
+ration des femmes, à propos de la possibilité ou non d’être féministe et hétérosexuelle. Dans le monde académique, cette 
+tension s’est cristallisée dans la scission du collectif de Questions 
+féministes en 1980 à propos de la position des ‘lesbiennes 
+radicales’ ; selon l’édito du numéro 1 de Nouvelles questions 
+féministes , ces dernières auraient dit « que les hétérosexuelles 
+[étaient] des collabos ou » ne se seraient « pas oppos [ées] à ce 
+qu’on le dise » (Collectif 1981, p. 6). Les écrits sur ce conflit 
+sont rares. Pour comprendre ce qui s’est alors passé, on doit se contenter de lire les articles qui ont mis le feu aux poudres : 
+« Hétérosexualité et féminisme » (de Lesseps 1980), « La pensée 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 101
+straight » et « On ne naît pas femme » (Wittig 1980a et b). À 
+part ça, quelques textes reviennent brièvement sur la violence 
+du conflit (Fougeyrollas-Schwebel 2005) et « l’écueil » qu’a 
+constitué l’amalgame entre « analyse critique de l’hétérosexualité 
+et critiques personnelles à l’égard des femmes hétérosexuelles » 
+(Jackson 1996, p. 14). Mais plus que tout, c’est le silence qui 
+s’est imposé : dans la récente réédition de l’intégralité des 
+numéros de Questions féministes (Collectif 2012), pas un mot 
+n’est écrit sur le sujet. 
+Si l’édito de 1981 résonne av ec de nombreuses recherches 
+contemporaines, voyant da ns l’hétérosexualité « à la fois un pro-
+blème et un concept » (Collectif 1981, p. 13), on peut s’étonner 
+de l’absence de publications à sa suite, à l’exception de trois 
+textes traduits de l’anglo-américain répartis sur quinze ans (Rich 1981 [1980] ; Franklin, Stacey 1991 ; Jackson 1996) ; 
+d’autant plus que des suites étaient annoncées : 
+C’est […] aussi pour que [l]e débat [sur hétérosexualité et 
+lesbianisme] qui ne fait que commencer — dans la revue, car il 
+se poursuit depuis longtemps dans le mouvement — ne soit pas étouffé dans l’œuf, que nous avons décidé de créer 
+NQF. Ce 
+débat-ci, et d’autres ; car celui-ci, quoiqu’apparemment 
+‘différent’ des autres et ‘unique’, n’est-il pas le débat sur les différentes formes que prend l’oppression à l’intérieur de la 
+classe des femmes ? (Collectif 1981, p. 11). 
+Là encore, seul un travail d’e nquête permettra it de comprendre 
+le conflit et surtout ses effets en matière de recherche 4, mais on 
+peut se demander si, en définitive, c’est le traumatisme du conflit qui a « étouffé dans l’œuf » la réflexion sur l’institution 
+hétérosexuelle et les pratiques sexuelles. Ou si c’est aussi, et plus largement, la difficile prise en compte non seulement des 
+« différentes formes que prend l’oppression » mais aussi des 
+différences (et donc des hiérarchies) « à l’intérieur de la classe des 
+femmes ». Une question qui traverse les deux points suivants. 
+La sexualité contre le travail ? 
+J’ai proposé ailleurs l’idée que la sociologie française sur les 
+rapports de sexe et le genre pouvait être cartographiée entre 
+ 
+4 Des documents de l’époque ont été publ iés… aux États-Unis : cf. Duchen 
+(1987). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 102
+deux pôles : le travail et la sexualité (Clair 2012b). Non seule-
+ment parce que le mouvement so cial à l’origine des études de 
+genre s’est au départ souvent pol arisé autour de revendications 
+liées aux inégalités économiqu es ou aux oppressions sexuelles 
+(Rochefort, Zancarini-Fournel 200 5) ; non seulement parce que 
+le travail 5, à l’inverse de la sexualité , a été longtemps l’objet 
+dominant des recherches sociologiques sur les rapports de sexe 
+et le genre en France, et qu’il reste son thème de prédilection 
+(Lallement 2003) ; mais aussi parce qu’il existe une réticence de la part des spécialistes de la ‘division sexuelle du travail’ à en-visager la sexualité comme un objet à part entière des études de genre. 
+L’une des plus célèbres, Danièle Kergoat, s’en est expliquée, 
+arguant d’une impossibilité théori que à étendre la séquence ‘classe, 
+race, genre’ à d’autres hiérarchies sociales, dans la mesure où elle pense ces trois-là en te rmes de ‘rapports de production’. 
+Dans l’introduction de l’anthologie rassemblant ses articles majeurs, Kergoat se demande ainsi, à propos de la religion, la 
+sexualité, l’âge, etc. : 
+[...] tous ces points d’entrée renvoient-ils à des rapports sociaux ? 
+Ou, plus exactement : peut-on les mettre tous sur le même plan ? 
+Ont-ils tous les mêmes caractéristiques ? Je pense à la 
+transversalité : c’est une propriété indéniable des rapports sociaux de classe, de genre et de race. Mais pour les autres ? 
+(Kergoat 2012, p. 21). 
+Dans plusieurs écrits des ann ées 2000, où elle évoque la 
+sexualité, Kergoat soit la définit en dehors des rapports sociaux, 
+soit la fond dans une acception élargie du travail selon laquelle, 
+travailler « ce n’est pas seulement transformer le monde, c’est 
+aussi […] se produire soi-même » (définition de Christophe 
+Dejours citée en lien avec la sexualité dans Kergoat 2005, p. 96, et Kergoat 2010, p. 64). 
+La sexualité pose problème parce que, comme institution 
+participant à fabriquer la hiérarchie entre les groupes de sexe, sa prise en compte apparaît comme une remise en cause de l’idée selon laquelle il existerait (ou devrait exister) un « enjeu 
+ 
+5 Au sens large, incluant toutes le s questions relatives aux conditions de 
+travail, à la division sociale du travail, à l’emploi, aux métie rs et professions. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 103
+principal » du genre (Kergoat 2005, p. 96). La crainte de la 
+relativisation du travail dans l’explication sociologique est ren-
+forcée par l’assimilation de l’étude de la sexualité à la diffusion des théories queer , intéressées par des questions d’identité et 
+qui seraient oublieuses des rapports sociaux. En particulier, les théories queer , en se référant à l’articulation entre genre et 
+sexualité, n’ajoutent pas seulement une thématique jusque-là 
+délaissée par la recherche féministe mais adressent à cette der-
+nière une critique fondamentale, déjà pour partie formulée par 
+Wittig dans un cadre matérialiste : la remise en cause du fonde-
+ment de la lutte féministe sur la catégorie ‘femme’ (Wittig 1980b ; Butler 2005 [1990] ; voir aussi Riley 1988). Si Kergoat 
+dénonce depuis longtemps la tenda nce des recherch es féministes 
+à croire en « la valeur explicative universelle » de « la variable 
+‘femmes’ » (Kergoat 1982, p. 6), sa question théorique exposée 
+plus haut (comment articuler les rapports sociaux entre eux ? et tout clivage social est-il un rapport social ?) a bien sûr un corol-laire politique qui est, lui, fondé sur une universalité du rapport 
+social et dans lequel la sexualité n’a pas sa place. Elle rappelle que 
+« l’hétérogénéité du groupe des femmes n’est pas un problème 
+nouveau. Mais le paysage social, politique, théorique a bien chan-
+gé depuis les années 1970 : pour les féministes, la question des rapports de classe a encore perdu de sa centralité, celle-ci étant 
+occupée peu à peu par les questions sur la race, l’ethnicité, la sexualité... » (ibid., p. 19). Un débat récu rrent, déjà longuement 
+évoqué dans l’édito du numéro 1 de Nouvelles questions 
+féministes (collectif 1981, p. 11-12). Comme le résume Eleni 
+Varikas dans un entretien : 
+La sexualité continue à ne pas être considérée comme politique. 
+On le voit bien dans les critiques du multiculturalisme : la pre-mière critique qu’on adresse aux 
+LGBT et aux théories queer , 
+c’est combien de subdivisions leur parole va entraîner (Varikas, 
+Clair 2012). 
+La réactivation du conflit principal 
+En mettant l’accent sur l’injonction pesant sur les individu es 
+à se construire hommes ou femmes, les théories queer sont par 
+ailleurs accusées de mettre en sourdine un aspect fondamental 
+de l’analyse matérialiste : le fait que les hommes ont un intérêt 
+à conserver leur place dominante (Masson, Thiers-Vidal 2002). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 104
+C’est alors une autre question qui émerge : avec l’entrée de la 
+sexualité dans les études de genre, non seulement la classe des 
+femmes est discutée, mais les ho mmes entrent dans le concept, 
+et dans son maniement. Penser l’ensemble des exclusions sociales et des hiérarchies organisées par les normes de genre, c’est faire la place à l’hétéronormativité ainsi qu’à l’ensemble des sexualités, et aux deux groupes de sexe. 
+Là encore, la pièce a déjà été joué e, à plusieurs reprises au cours 
+du 
+XXe siècle, sur la scène des relations difficiles entre mouve-
+ment féministe et mouvement homosexuel, particulièrement 
+dans les années 1970, comme en témoigne l’histoire du FHAR 
+(Front homosexuel d’action révolut ionnaire) rapidement déserté 
+par les lesbiennes pourtant à son origine, excédées par la miso-
+gynie qui s’exprimait dans ses rangs, alors même que son dis-cours dénonçant la hiérarchisation des sexualités était formulé en référence au discours fémini ste (Chauvin 2005 ; Prearo 2010 ; 
+Sibalis 2010). 
+C’est au fond le conflit au cœur des rapports sociaux de sexe 
+qui est en toile de fond : à partir du moment où l’on ouvre la 
+réflexion à l’institution hétérose xuelle et qu’on envisage d’étudier 
+toutes les pratiques sexuelles (en dehors de la seule question des violences), les femmes sont-elles toujours le seul objet de l’étude ? Le seul sujet de la lutte ? Et les seules légitimes à 
+parler de genre ? L’intrusion de la sexualité dans la pensée du 
+genre semble rimer avec l’intrus ion des hommes, d’autant que 
+le terme ‘genre’ lui-même gomme la référence explicite aux 
+femmes et au féminisme. Les risques qui en découlent ont été pointés : de (re)prises du pouvoir dans les institutions de recher-
+ches sur le genre, mais aussi d’affadissement du contenu fémi-
+niste de ces dernières — susceptibles de mettre d’abord l’accent sur « le lourd fardeau d’être un homme » (Mathieu 1999) ou 
+encore tendant à « psychologiser les rapports de genre » (Mac 
+Mahon 2005). 
+Les questions qui se posent al ors sont les suivantes : si 
+l’étude de la sexualité, au sein des études de genre, comporte 
+des ‘risques’, certains d’entre eux n’appartiennent-ils pas désor-mais au passé ? Et les risques qui perdurent ne doivent-ils pas être envisagés en même temps que les apports, théoriques et 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 105
+politiques, que peut revêtir une réflexion commune sur la 
+sexualité et le genre ? 
+Penser ensemble le genre et la sexualité 
+La création en 2009 de la revue Genre, sexualité & société , 
+animée par de jeunes chercheur es en sciences sociales, est un 
+signe de la volonté, de plus en plus forte, d’envisager la sexualité comme un enjeu du genre, et de prouver l’intérêt de 
+leur intersection. De même, il est significatif que les auteur es 
+(sociologues et politistes) d’un manuel récent expliquent apparte-nir à une génération qui manifeste « une volonté de croisement 
+de plus en plus systématique av ec les études gaies et lesbiennes » 
+(Bereni, Chauvin, Jaunait, Revillard 2012 [2008], p. 10). Dans 
+le dernier chapitre, à propos du « triptyque race/classe/genre », 
+il est expliqué sur le ton de l’évidence : 
+Bien entendu, la problématique de l’intersection de différents 
+rapports de domination peut également s’entendre et s’étendre à 
+d’autres rapports et catégories de perception, comme l’âge ou la sexualité par exemple (ibid., p. 279). 
+Si le triptyque l’emporte dans l’ histoire des théories, c’est que 
+ces trois rapports sociaux auraient été « les plus problématisés » 
+dans l’analyse parce que « les plus politisés dans un espace 
+concurrentiel de mobilisations sociales » (ibid., p. 280). 
+Dans cette partie, j’expliciterai les raisons pour lesquelles la 
+pensée de l’intersection entre genre et sexualité, sans doute plus facilement pensable aujourd’hui qu ’il y a trente ou quarante ans, 
+est en effet une pensée fructueuse. Non seulement parce qu’elle éclaire les sexualités diverses que (même) l’analyse féministe a 
+eu tendance à laisser dans l’ombre du privé, mais surtout parce 
+qu’elle éclaire le concept de genr e, révélant des enjeux de défi-
+nition et d’usage que ses versions françaises tendent à laisser en suspens. 
+Une question de générations ? 
+La sexualité est ‘à la mode’, entend-on souvent dans les 
+colloques et les discussions inform elles, dans l’entre-soi des 
+spécialistes du genre. Il serait certes faux de prétendre que les 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 106
+modes ne jouent aucun rôle dans la construction des objets de 
+recherche, tant le souci de la di stinction individuell e et la création 
+de « paradigmes générationnels » sont au cœur des carrières, 
+notamment en sciences humaines et sociales, alors même que « l’idéal cumulativiste » constitue une « tentation irrésistible » 
+de la démarche scientifique (A bbott 2011). Mais l’évocation de 
+la mode est aussi un procédé rhétorique visant à empêcher toute 
+mise en débat des travaux consacrés. 
+D’autant plus que, dans les étud es de genre, la succession des 
+paradigmes est particulièrement liée à la succession des mouve-ments sociaux. Les questions qui animent les plus récents dépen-dent de leur contexte historique d’énoncia tion et reposent souvent 
+sur la reformulation des prior ités de mouvements antérieurs. 
+Ainsi, la sexualité fait l’objet d’une contestation collective qui renouvelle la lecture des hiérarch ies et des normes sociales, et 
+notamment des hiérarchies et des normes de genre, y compris en France. On peut ainsi voir dans la réapparition de la problé-
+matisation de la sexualité et dans l’intérêt pour l’étude de ses 
+pratiques, une façon de renouer avec « ce qui est vraiment incisif 
+dans le féminisme » 
+6 (Varikas, Clair 2012). Une préoccupation du 
+mouvement social laissée en j achère par la recherche pendant 
+longtemps. 
+Par ailleurs, il est important de ne pas confondre renouvelle-
+ment et réitération ignorante du même. Il est vrai que l’enquête 
+sur le passé et la préservation des cadres sociaux de la mémoire féministe sont nécessaires pour ne pas éternellement réinventer l’eau chaude, rejouer les conflits révolus ou occulter des textes 
+passés à la trappe de la reconna issance. Mais est-ce vraiment ce 
+qui se passe ? Comme le souligne Molinier, la redécouverte de 
+la sexualité (et de la race) a pl utôt contribué à redécouvrir des 
+textes qui sont « littéralement passé [s] du statut de l’oubli à celui 
+de ‘texte [s] classique [s]’ », tels que ceux de Guillaumin ou de 
+Wittig (De Lauretis 2007, p. 14) . Le renouvellement et la cri-
+tique ne signifient pas nécessairement la rupture et l’invective, 
+ni la répétition à l’infini des conf lits antérieurs. Et il ne faudrait 
+pas que le regard rétrospectif et le renouvellement des généra-
+ 
+6 Parmi d’autres questions, telles que « les rapports avec la gauche », 
+« l’autonomie des femmes », « la question coloniale » ( ibid.). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 107
+tions ne débouchent que sur la r écitation des ‘classiques’ et la 
+crainte de la part des « dutiful daughters » de trahir les mères 
+fondatrices (Henry 2004) ou de passer pour des « féministe [s] 
+ratée [s] », comme le redoute pour elle-même Jackson du fait 
+qu’elle travaille sur l’hétérosexua lité alors qu’elle s’inscrit dans 
+une filiation matérialiste (Jackson 1996, p. 6). 
+C’est pourquoi, s’il serait naïf (et dangereux) de prendre 
+l’étude de la sexualité comme allant de soi, comme si elle 
+constituait l’avenir du féminisme et l’avenir du genre, dans la croyance que chaque génération améliore nécessairement le modèle hérité, il me semble en re vanche important de contrer le 
+stigmate d’un objet de recherche depuis toujours méprisé dans 
+l’ensemble de la discipline, bien au-delà des travaux sur le 
+genre et les rapports de sexe, et d’envisager les apports de connaissance permis par la pensée de l’intersection entre genre et sexualité. 
+Ce que la pensée de la sexualité apporte 
+à la conceptualisation du genre 
+Quelle que soit la façon d’envisager le recoupement entre genre 
+et sexualité et quelle que soit la dimension qu’on étudie (parmi 
+les trois relevées par Jackson), le seul fait d’introduire la sexua-
+lité dans la réflexion sur le genre oblige à revoir et à préciser les concepts. Ainsi on préfère de plus en plus parler de ‘division sexuée du travail’ plutôt que de ‘division sexuelle du travail’, 
+puisque cette notion sert à décrire la division du travail entre les 
+groupes de sexe, sans aucun lien théorique avec la sexualité, à 
+quoi peut renvoyer l’adjectif ‘se xuel’. Tant que la sexualité était 
+hors sujet, la polysémie était invisible ; à partir du moment où le rapprochement entre genre et sexualité est posé quelque part, il a des effets lexicaux partout. Simplement parce qu’il révèle un 
+impensé. 
+De même, l’utilisation de ‘ma sculin’ et de ‘féminin’ pour 
+décrire des pratiques ou des caract éristiques liées aux groupes des 
+hommes et des femmes ne va plus de soi. Le fait de présenter l’hétérosexualité comme un régime politique participant à défi-
+nir les groupes de sexes, comme le fait Wittig (1980a) et comme 
+a continué de le théoriser Judith Butler (2005 [1990]), a pour 
+effet commun (en dépit de leurs divergences par ailleurs) de 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 108
+déconstruire l’évidence que chacun e serait fait e d’un seul bloc, 
+dans lequel genre, sexe et désir coïncident. Dans un de ses 
+articles fondateurs, Nicole-Claude Mathieu pointe cette question, 
+sans tout à fait la résoudre parce qu’elle mêle sexualité et groupes de sexe sans circonscrire l’intersection entre les deux (il faut dire qu’elle a fort à faire, à l’époque, pour seulement 
+établir l’arbitraire social de l’assignation des individu
+es à un 
+sexe) : 
+A-t-on le droit de penser que tel comportement ou telle capacité 
+que l’on estime couramment ‘masculins’ ou au contraire 
+‘féminins’ ont quelque rapport que ce soit avec le sexe bio-
+logique de l’individu ? Le seul fait, de connaissance courante, qu’on puisse dire de tel homme qu’il est un peu féminin ou de 
+telle femme qu’elle est plutôt masculine suffirait en toute logique 
+[…] à faire pressentir qu’il n’y a pas de rapport intrinsèque 
+entre le substantif ‘femme’ et l’adjectif ‘féminin’. […] Certains 
+s’affolent devant une tendance ac tuelle vers l’indistinction entre 
+les sexes dans l’aspect extérieur (les hommes aux cheveux longs 
+se font traiter de ‘pédales’ et les femmes en chaussures plates et 
+pantalons de ‘moches’ et de ‘mal baisées’, en un mot de ‘féministes’ dont on prétend que ‘ce sont toutes des lesbiennes’) 
+(Mathieu 2012 [1977], p. 77 et 85). 
+Si le propos de Mathieu a pour vocation de contrer le sens 
+commun, et non le sens commun des sociologues, une remarque 
+similaire pourrait être faite à ces dernier es lorsqu’elles (ou ils) 
+associent dans l’écriture, comme si cela allait de soi, l’apparte-nance à un groupe de sexe et l’adjectif qualifiant des propriétés ordinairement associées à ce groupe de sexe. Les sommaires de 
+numéros récents des Cahiers du Genre , par exemple, comportent 
+de nombreux titres faisant cette association : « Le vécu mas-culin de la migration des femmes : le cas des maris philippins restés au pays » (hors-série 2011), « Féminisation de l’armée de terre et virilité du métier des armes » (n° 48, 2010), « Leader au 
+féminin ? » ( ibid.), « La féminisation dans les entreprises du 
+bâtiment : une normalisation soci ale des comportements ouvriers 
+masculins ? » (n° 47, 2009), etc. Lorsqu’on s’en tient aux titres, c’est l’indécision conceptuelle qui semble l’emporter. Par exemple, si l’on attribue à ‘féminisation de l’armée’ le sens de ‘augmentation du nombre de femm es dans un métier d’hommes’, 
+on limite fortement l’usage du terme, ou alors doit-on compren-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 109
+dre que la fin de l’homosociabilité des hommes conduit à une 
+modification des comportements, désormais plus proches de 
+valeurs communément associées au groupe des femmes ? En 
+mettant en question ces associations, la prise en compte de la sexualité, au sens de l’institution hétérosexuelle, oblige à clari-fier des expressions routinières sous la plume des spécialistes du genre. 
+Elle alimente plus largement la réflexion sur la distinction 
+entre sexe et genre, abordée depuis relativement peu de temps au croisement de l’histoire des sciences et des études de genre, 
+via la question de « la matérialité des corps sexués » (Gardey, 
+Löwy 2000 ; Rouch, Dorlin, Fougeyrollas-Schwebel 2005) et 
+d’une définition de la différence des sexes en tant que 
+« phénomène biosocial » (Löwy, Rouch 2003, p. 8). L’étude de 
+la sexualité, comme ensemble de pratiques érotiques et comme système hiérarchique, participe à ouvrir de nombreuses pistes de 
+réflexion sur les intersexes, la transsexualité, la sexologie, etc., 
+qui remettent en cause l’évidence de l’opposition entre nature et 
+culture, et qui lèvent le voile pudique jeté depuis longtemps (par 
+la sociologie notamment) sur la dimension biologique des corps, 
+ouvrant le « bocal » de « la sociologisation du sexe » que les 
+études féministes, depuis leurs débuts, ont eu tendance à garder fermé (Touraille 2009). 
+Se référer à une intersection entre genre et sexualité, c’est par 
+ailleurs décrire les articulations complexes entre les différents régimes de hiérarchisation sociale ; il s’agirait de contrer l’ex-plication arithmétique de l’emp ilement des rapports de pouvoir 
+(Bilge 2010). S’il est désormais banal de réfuter le lexique du 
+‘double handicap’ ou de la ‘démultiplication des handicaps’ 
+lorsqu’il s’agit de croiser le genre avec la race et la classe sociale, le même défaut est b eaucoup moins relevé lorsqu’est 
+évoquée la ‘double invisibilité’ des femmes-lesbiennes — entre 
+autres formulations du même type. Comme dans le cas d’autres expériences minoritaires et hiérarchisations sociales, la sexua-
+lité peut être pensée de façon intersectionnelle, c’est-à-dire ni 
+seulement additive ou démultiplicative. L’intérêt de la distinction en même temps que de l’articul ation entre genre et sexualité 
+consiste à montrer comment se nouent , dans la vie des gens, les 
+effets dus à la sexualité (expéri ence sexuelle, institution hétéro-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 110
+sexuelle et identité sexuelle) et les effets dus au sexe (groupe 
+social des hommes vs groupe social des femmes). Et notamment 
+à étudier les lesbiennes en tant qu’elles appartiennent au groupe social des femmes et en tant qu’elles dévient de la norme 
+sexuelle (Rubin 2010 [1984], p. 240). 
+Enfin le concept de ‘genre’, une fois que la sexualité est 
+interrogée, peut être réexaminé. Se pose alors dans d’autres 
+termes le débat implicite présenté dans la première partie de cet 
+article : le genre renvoie-t-il aux femmes (comme dans des expressions telles que ‘inégalités de genre’ pour dire ‘inégalités hommes/femmes’) ? Ou bien embras se-t-il un ensemble d’acteurs 
+et actrices plus vaste, soumis aux normes de genre et à leurs 
+effets matériels (Butler 2010 [1997]) ? L’enjeu n’est pas seule-
+ment d’ouvrir l’étiquette pour in clure plus de gens, mais de se 
+donner la possibilité de comprendre, y compris en conservant les contours des groupes sociaux hommes et femmes, comment l’institution hétéro sexuelle agit sur tou
+tes. C’est l’idée que je 
+défends dans mes propres recherches, pour comprendre notam-
+ment comment la norme hétérosexuelle, croisée avec la prise en 
+compte de l’asymétrie entre les groupes de sexe, agit sur les individu
+es pour définir leur position dans leurs groupes 
+respectifs : selon l’opposition entre « vrais mecs » (au centre) et « pédés » (à la périphérie) pour les garçons, et entre « putes » 
+(stigmate collectif) et « filles bien » (position distinctive) pour 
+les filles (Clair 2012a). Si la réalité sociale du genre ne peut toute entière être saisie par le pris me de la sexualité, ni la réalité 
+sociale de la sexualité par celui du genre, il est néanmoins important de souligner que les normes de féminité et de 
+masculinité, les déviances sexuelles, les rapports de pouvoir 
+entre sexualité s façonnent de nombreuses manifestations du 
+genre — au-delà des seules pratiques sexuelles. Si la sexualité n’est pas un élément évident de la construction des groupes de 
+sexe comme le laisse croire « l’idéologie du genre », il me 
+semble important d’enquêter sur le lien que cette dernière, pré-
+cisément, décrète, et d’en faire un enjeu de conceptualisation 
+sociologique. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 111
+Diverses façons de penser l’intersection 
+Les apports théoriques permis par la pensée de l’intersection 
+entre genre et sexualité dépendent bien sûr des usages qui en sont faits. Je présenterai le s trois principales positions que 
+j’observe dans les recherches contemporaines françaises et qui 
+ont toutes en commun d’articuler genre et sexualité, selon des 
+acceptions différentes de l’un et l’autre termes. Afin d’illustrer mon propos, je me fonderai sur quelques auteur
+es seulement, 
+qui sont explicites sur le sujet. 
+L’une de ces positions, qui s’ inscrit dans une perspective 
+matérialiste, part de l’idée que la sexualité procède du genre : 
+on pourrait imaginer un monde organisé par la domination masculine sans contrainte à l’ hétérosexualité, mais à l’inverse 
+cette dernière serait inconcevable sans genre (Jackson 2005, p. 27). Cette position se trouve en France sous la plume de Christelle Hamel : à l’inverse de nombreuses matérialistes, elle 
+estime que l’étude de la sexualité doit être un des objets primor-
+diaux de la sociologie féministe, sans pour autant accorder à l’institution (hétéro)se xuelle une antériorité par rapport au genre, 
+compris comme un rapport d’ex ploitation entre hommes et 
+femmes. Dans les pas notamment de Tabet et de Delphy, Hamel 
+tend in fine à soumettre les hiérarchisations sexuelles aux hié-
+rarchisations socioéconomiques f ondant les rapports de sexe : 
+Les rapports de pouvoir les plus agissants dans la construction 
+sociale de la sexualité sont ceux qui structurent les relations 
+entre hommes et femmes […] le genre oriente la sexualité vers 
+l’hétérosexualité et […] il produit des catégories de pratiques 
+sexuelles légitimes et illégitimes (Hamel 2003, p. 14). 
+On retrouve cette hiérarchisati on du côté d’Andro, Bajos et 
+Ferrand (2008, p. 547). Dans leur s travaux à toutes, la sexualité 
+est un thème de recherche qui informe la question transversale 
+du genre puisque ce dernier, compris comme le rapport social 
+entre hommes et femm es, est considéré comme façonnant la 
+sexualité humaine. En enquêtant sur les pratiques sexuelles, ce sont d’abord des manifestations des rapports sociaux de sexe qui 
+sont observées. 
+À l’inverse, s’appuyan t sur les écrits de Wittig et sur un texte 
+fondateur de l’anthropologie féministe états-unienne (Rubin 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 112
+2010 [1975]), la philosophe Elsa Dorlin, dans un ouvrage 
+d’« introduction à la théorie féministe », intitule le chapitre qui 
+fait suite à son analyse de la célèbre phrase de Delphy, « le genre 
+précède le sexe » (2001 [1991], p. 94) : « … mais la sexualité 
+précède le genre » 7. Dorlin explique : « Le concept de genre est 
+lui-même déterminé par la sexualité, comprise comme système 
+politique, en l’occurrence l’hét érosexualité reproductive, qui 
+définit le féminin et le masculin par la polarisation sexuelle so-cialement organisée des corps » (Dorlin 2008, p. 55) ; cette idée 
+provient notamment d’une critique de ‘l’ordre symbolique’ qui 
+pose que « l’hétérosexualité est, à un niveau symbolique, la 
+structure psychique sans dehors dans laquelle chaque individu, 
+non seulement se socialise, mais parvient au statut de sujet » 
+(ibid., p. 56). Si cette perspective est relativement peu mobilisée 
+par les sociologues français es comme un cadre d’analyse de leurs 
+enquêtes, elle est présente dans la sociologie états-unienne, par 
+exemple dans les travaux de Chry s Ingraham (1994) qui voit dans 
+la sexualité une institu tion et une idéologie organisant le genre. 
+Pour ma part, j’ai tendance à privilégier l’intersection sans 
+nécessaire hiérarchisation ou antériorité entre genre et sexualité (ce que me semble d’ailleurs permettre l’idée même d’intersection), faisant mienne la réticence de Rubin : 
+Toute tentative de privilégier un seul dispositif d’instruments 
+d’analyse, toutes ces revendica tions d’omnipotence théorique et 
+politique me laissent sceptique (Rubin, Butler 2001 [1995], p. 49). 
+J’envisage plutôt la sexualité comme un foyer possible de la 
+fabrique du genre : non seulement un de ses « sites privilégiés » 
+(key site ) de manifestation (Jackson 2005, p. 15) mais une source 
+d’organisation de la complément arité (et donc d’asymétrie) entre 
+les groupes de sexe. Cette volonté de ne pas hiérarchiser entre genre et sexualité est visible dans les travaux qui, étudiant les pratiques sexuelles et les effets de l’institution hétérosexuelle, y 
+compris dans un cadre matérialiste 
+8, n’étudient pas que cela, 
+ 
+7 Rubin est plus tard un peu revenue su r cette idée, estiman t qu’une part de 
+l’étude de la sexualité devait être pe nsée « séparément » de l’étude du genre 
+(Rubin 2010 [1984]). 
+8 Le clivage entre les trois postures ne peut en effet se réduire à un clivage entre 
+une approche matérialiste et des approches a/anti/post-matérialistes : les clivages 
+tiennent plutôt à différentes façons de co mbiner divers héritages de la pensée 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 113
+refusent de réduire la sexualité à la domination masculine, tout 
+en maintenant l’idée que les logiques du genre et des rapports 
+de sexe organisent pour une large part les prati ques sexuelles, 
+entre autres pratiques sociales ( e.g. les travaux de Molinier [pour 
+une synthèse : Delphy, Molinier, Clair, Rui 2012] ; Roux 2011 ; Trachman 2013). Il s’agit donc de faire une distinction analy-tique entre genre et sexualité, en pensant aussi que certaines 
+pratiques sociales ne sont compréhensibles qu’en prenant en 
+compte leur intersection. C’est ce qui m’a conduite à proposer la notion d’‘ordre du genre’ dans mon travail sur les relations 
+amoureuses de jeunes vivant dans des cités 
+HLM (Clair 2008), 
+pour rendre compte, dans une même expression, d’une articula-
+tion possible entre la mise en ordre (le classement) hiérarchique 
+des groupes de sexe et le rappel à l’ordre des normes de 
+masculinité et de féminité (re posant notamment sur l’injonction 
+pour les garçons à faire la preuve continue de leur désir hétéro-
+sexuel, et pour les filles de leur réserve sexuelle), dont une des 
+fonctions sociales est d’organiser chaque groupe et la place de 
+chacune dans son groupe attitré. Le fait de travailler sur un 
+moment biographique spécifique, marqué par l’entrée dans la 
+sexualité génitale et dans la conjugalité hétérosexuelles, avait 
+attiré mon attention sur le lien particulier qui existe entre genre 
+et sexualité, très visible dans le cadre restreint de mon objet, 
+mais dont il m’est apparu sur le te rrain qu’il se déclinait dans un 
+ensemble vaste de pratiques social es (au sein des groupes de pairs, 
+à l’école, dans la famille, etc.). 
+Privilégier l’ouverture à la possibilité de plusieurs enjeux qui 
+ne soient pas tous subordonnés à la prééminence de l’un d’entre 
+eux (le travail ou la sexualité) permet par ailleurs de supposer 
+qu’une des résistances du genre (comme système normatif et d’oppression) aux évolutions sociales et aux demandes d’égalité des sexes, et des sexualités, réside dans le fait que ses foyers de fabrication sont pluriels et se nourrissent. Ce ne sont pas les seuls. 
+On pourrait ajouter les ‘rapports politico-religieux’, comme 
+invite à le faire Maurice Godelier (2003, p. 30). Si lui-même n’envisage pas la sexualité comme faisant l’objet d’un rapport 
+ 
+du genre, au-delà des « différends » (c f. Molinier, dans De Lauretis 2007, 
+p. 13-14). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 114
+spécifique (il la conçoit comme « subordonné [e] à la reproduc-
+tion d’autres rapports sociaux qui n’ont rien à voir avec elle » : 
+Godelier 2005, p. 16), et s’il a pu faire preuve d’une grande 
+résistance à penser la sexualité et d’une tendance à renaturaliser 
+le sexe quand il s’est agi de discuter l’évolution contemporaine des politiques sexuelles en France (Godelier 2003, p. 32-34), sa proposition de ne pas réduire les causalités plurielles à une 
+causalité ‘en dernière instance’ me semble transposable à 
+la pensée de l’articulation entre genre et sexualité, et souhaitable à la réflexion comme à l’action. 
+* * 
+* 
+Pour schématiser, on pourrait dire que la sexualité est pensée 
+tantôt : 
+ sans intersection avec le genre ( I) : le genre impensé, 
+l’étude de la sexualité se fait en dehors du genre. 
+ sans intersection avec le genre ( II) : le genre séparé, la 
+sexualité n’est pas un enjeu du genre, et ne doit pas être 
+conçue ainsi au risque de diluer la portée féministe des 
+études de genre. 
+ en intersection avec le genre ( I) : le genre précède la 
+sexualité, c’est lui qui agit sur les formes que prend la sexualité. 
+ en intersection avec le genre ( II) : la sexualité précède le 
+genre. 
+ en intersection avec le genre ( III) : il existe une pluralité des 
+foyers de fabrique du genre, dont la sexualité. 
+Les positions ne sont pas toujours aussi définies dans les 
+usages, notamment parce qu’on peut très bien étudier la 
+sexualité sans avoir un propos t out à fait explicite sur l’arti-
+culation qu’on postule entre le genre et la sexualité. Il faut aussi rappeler que, contrairement aux textes exclusivement théoriques, ou d’abord théoriques, les textes écrits à l’issu e d’enquêtes de 
+terrain sont toujours moins facilement classables dans des 
+options spécifiques. Par exemple, si Hamel s’inscrit clairement 
+dans la filiation des travaux de Delp hy, et si elle tend à dire que 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 115
+le genre précède la sexualité, elle ne fait pas de cette antériorité 
+une condition absolue pour comprendre ce qui se joue sur ses 
+terrains d’enquête et s’attach e d’abord à comprendre les 
+« intrications » entre les différents ra pports sociaux qu’elle 
+observe, notamment au travers des pratiques sexuelles et des discours sur la sexualité (Hamel , Clair 2012). Cett e nuance n’est 
+pas rhétorique : s’il est important de cartographier les prises de 
+position, au regard des débats (et des non-débats) à un moment 
+donné, il est également importa nt de souligner l’heureuse 
+difficulté à faire rentrer les pratiques sociales dans des décisions théoriques abstraites. Elles leur résistent et c’est aussi dans ces 
+résistances que doivent être interrogés les modèles de pensée, et 
+leurs controverses. 
+Références 
+Abbott Andrew (2011). « Des idéaux pour la connaissance. Conférence 
+inaugurale du Congrès de l’Association française de sociologie, 5 juillet 2011 ». Papier non publié, disponible en ligne : 
+http://home.uchicago.edu/~aabbott/Papers/grenoble.pdf (trad. fr. 
+Étienne Ollion). 
+Andro Armelle, Bajos Nathalie, Ferrand Michèle (2008). « La 
+sexualité à l’épreuve de l’égalité ». In Bajos Nathalie, Bozon 
+Michel (eds). Enquête sur la sexualité en France. Pratiques, genre 
+et santé. Paris, La Découverte. 
+Bereni Laure, Chauvin Sébastien, Jaunait Alexandre, Revillard Anne 
+(2012 [2008]). Introduction aux gender studies. Manuel des études 
+sur le genre . Bruxelles, De Boeck [2
+e éd.]. 
+Bilge Sirma (2010). « De l’analogie à l’articulation : théoriser la 
+différenciation sociale et l’inégalité complexe ». L’Homme et la 
+société , vol. 2, n° 176-177. 
+Bozon Michel (2009 [2002]). Sociologie de la sexualité . Paris, Armand 
+Colin. 
+Butler Judith (2005 [1990]). Trouble dans le genre. Pour un 
+féminisme de la subversion . Paris, La Découvert e (trad. fr. Cynthia 
+Kraus). 
+— (2010 [1997]). « Simplement culturels ? » In Bidet-Mordrel Annie 
+(ed). Les rapports sociaux de sexe . Paris, PUF. 
+Chauvin Sébastien (2005). « Les aventures d’une ‘alliance objective’. 
+Quelques moments de la relation entre mouvements homosexuels 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 116
+et mouvements féministes au XXe siècle ». L’Homme et la société , 
+vol. 4, n° 158. 
+Clair Isabelle (2008). Les jeunes et l’amour dans les cités . Paris, 
+Armand Colin. 
+— (2012a). « Le ‘pédé’, la ‘pute’ et l’ordre hétérosexuel ». Agora 
+Débats/Jeunesses , n° 60. 
+— (2012b). Sociologie du genre . Paris, Armand Colin. 
+Collectif (1981). « Édito ». Nouvelles questions féministes , n° 1. 
+Collectif (2012). Questions féministes (1977-1980) . Paris, Syllepse. 
+Crenshaw Kimberlé W. (2005 [1994]). « Cartographies des marges : 
+intersectionnalité, politique de l’identité et violences contre les 
+femmes de couleur ». Cahiers du genre , n° 39 (trad. fr. Oristelle 
+Bonis). 
+De Lauretis Teresa (2007). Théorie queer et cultures populaires. De 
+Foucault à Cronenberg . Paris, La Dispute. 
+Delphy Christine (2001 [1991]). L’Ennemi principal. 2. Penser le 
+genre . Paris, Syllepse. 
+Delphy Christine, Molinier Pascale, Clair Isabelle, Rui Sandrine 
+(2012). « Genre à la française ? » Sociologie , vol. 3, n° 3. 
+Descoutures Virginie, Digoix Marie, Fassin Éric, Rault Wilfried (eds) 
+(2008). Mariages et homosexualités dans le monde. L’arrangement 
+des normes familiales . Paris, Autrement. 
+Dorlin Elsa (2008). Sexe, genre et sexualités . Paris, PUF. 
+Duchen Claire (ed.) (1987). French Connections. Voices from the 
+Women’s Movement in France . Amherst, University of 
+Massachusetts Press. 
+Fassin Éric (2008). « L’empire du genre. L’histoire politique ambiguë 
+d’un outil conceptuel ». L’Homme , n° 187-188. 
+Ferrand Michèle (2003). « Nous aurons la jouissance que nous 
+voulons… La question de la sexualité dans le féminisme français 
+contemporain ». In Ignasse Gérard, Welzer-Lang Daniel (eds). 
+Genre et sexualités . Paris, L’Harmattan. 
+Foucault Michel (1976-1984). Histoire de la sexualité. Tomes 1, 2 et 
+3. Paris, Gallimard. 
+Fougeyrollas-Schwebel Dominique (2005). « Controverses et ana-
+thèmes au sein du féminisme français des années 1970 ». Cahiers 
+du genre , n° 39. 
+Franklin Sarah, Stacey Jackie (1991) . « Le point de vue lesbien dans 
+les études féministes ». Nouvelles questions féministes , n° 16-17-18. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 117
+Gagnon John (1999 [1990]). « Les usages explicites et implicites de la 
+perspective des scripts dans les recherches sur la sexualité ». Actes 
+de la recherche en sciences sociales , n° 128 (trad. fr. Michel 
+Bozon et Christian Cler). 
+— (2008). Les scripts de la sexualité . Paris, Payot (trad. fr. Marie-
+Hélène Bourcier et Alain Giami). 
+Gardey Delphine, Löwy Ilana (eds) (2000). L’invention du naturel. 
+Les sciences et la fabrication du féminin et du masculin . Paris, 
+Archives contemporaines. 
+Godelier Maurice (2003). « Anthropologie et recherches féministes. 
+Perspectives et rétrospectives ». In Laufer Jacqueline, Marry 
+Catherine, Maruani Margaret (eds). Le travail du genre. Les sciences 
+sociales du travail à l’épreuve des différences de sexe . Paris, La 
+Découverte. 
+— (2005). « Femmes, sexe ou genre ? » In Maruani Margaret (ed). 
+Femmes, genre et sociétés. L’état des savoirs . Paris, La Découverte. 
+Guillaumin Colette (1978a). « Pratique du pouvoir et idée de Nature. 
+(1) L’appropriation des femmes. Questions féministes , n° 2. 
+— (1978b). « Pratique du pouvoir et idée de Nature. (2) Le discours 
+de la Nature ». Questions féministes , n° 3. 
+Hamel Christelle (2003). L’intrication des rapports sociaux de sexe, 
+de « race », d’âge et de classe : ses effets sur la gestion des risques 
+d’infection par le VIH chez les Français descendant de migrants du 
+Maghreb . Thèse d’anthropologie sociale et ethnologie, Paris, EHESS . 
+Hamel Christelle, Clair Isabelle (2012). « ‘Dans le même temps, je 
+découvre que je suis blanche…’ Entretien avec Christelle Hamel ». 
+Genre, sexualité & société , n° 7 (en ligne). 
+Henry Astrid (2004). Not my Mother’s Sister. Generational Conflict 
+and Third-Wave Feminism . Bloomington & Indianapolis, Indiana 
+University Press. 
+Héritier Françoise (1996). Masculin-Féminin I. La Pensée de la 
+différence . Paris, Odile Jacob. 
+Hill Collins Patricia (2000). Black Feminist Thought. Knowledge, 
+Consciousness, and the Politics of Empowerment . New York & 
+London, Routledge. 
+Ingraham Chrys (1994). “The Heterosexual Imaginary: Feminist 
+Sociology and Theories of Gender”. Sociological Theory , vol. 12, 
+n° 2. 
+Jackson Stevi (199 6). « Récents débats su r l’hétérosexualité. Une 
+approche féministe matérialiste ». Nouvelles questions féministes , 
+vol. 17, n° 3. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 118
+— (2005). “Sexuality, Heterosexuality, and Gender Hierarchy: Getting 
+Our Priorities Straight”. In Ingraham Chrys (ed). Thinking Straight. 
+The Power, the Promise, and the Paradox of Heterosexuality . New 
+York, Routledge. 
+Jackson Stevi, Scott Sue (2007). Theorizing Sexuality . Buckingham, 
+Open University Press. 
+Kandel Liliane (1991). « Du politique au personnel : le prix d’une 
+illusion ». In GEF. Crise de la société, féminisme et changement . 
+Paris, Tierce/Revue d’en face. 
+— (2000). « Sur la différence des sexes et celle des féminismes ». Les 
+temps modernes , n° 609. 
+Kergoat Danièle (1982). Les ouvrières . Paris, Le Sycomore. 
+— (2005). « Rapports sociaux et divi sion du travail entre les sexes ». 
+In Maruani Margaret (ed). Femmes, genre et sociétés. L’état des 
+savoirs . Paris, La Découverte. 
+— (2010). « Le rapport social de sexe. De la reproduction des rapports 
+sociaux à leur subversion ». In Bidet-Mordrel Annie (ed). Les 
+rapports sociaux de sexe . Paris, PUF. 
+— (2012). Se battre, disent-elles... Paris, La Dispute. 
+Kraus Cynthia (2005). « Anglo-American Feminism made in France : 
+crise et critique de la représentation ». Cahiers du genre , n° 38. 
+Lagrange Hugues, Lhomond Brigitte (eds) (1997). L’entrée dans la 
+sexualité : le comportement des jeunes dans le contexte du sida . 
+Paris, La Découverte. 
+Lallement Michel (2003). « Quelques remarques à propos de la place 
+du genre dans la sociologie du travail en France ». In Laufer 
+Jacqueline, Marry Catherine, Maruani Margaret (eds). Le travail 
+du genre. Les sciences sociales du travail à l’épreuve des diffé-
+rences de sexe . Paris, La Découverte. 
+Lamoureux Diane (2009). « Reno(r/m)mer ‘la’ lesbienne ou quand les 
+lesbiennes étaient féministes ». Genre, sexualité & société , n° 1 
+(en ligne). 
+Lesseps (de) Emmanuelle (1980). « Hétérosexualité et féminisme ». 
+Questions féministes , n° 7. 
+Lhomond Brigitte (2004 [2000]). « Se xualité ». In Hirata Helena, 
+Laborie Françoise, Le Doaré Hélène, Senotier Danièle (eds). 
+Dictionnaire critique du féminisme . Paris, PUF. 
+Löwy Ilana, Rouch Hélène (2003). « Genèse et développement du 
+genre : les sciences et les origines de la distinction entre sexe et genre » [Introduction]. Cahiers du genre , n° 34. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Pourquoi penser la sexualité pour penser le genre... 119
+Mac Mahon Anthony (2005). « Lecture masculine de la théorie 
+féministe : la psychologisation des rapports de genre dans la 
+littérature sur la masculinité ». L’Homme et la société , vol. 4, 
+n° 158. 
+Masson Sabine, Thiers-Vidal Léo (2002). « Pour un regard féministe 
+matérialiste sur le queer . Échange entre une féministe radicale et 
+un homme anti-masculiniste ». Mouvements , n° 20. 
+Mathieu Nicole-Claude (2012 [1977 ]). « Masculinité/féminité ». In 
+Collectif. Questions féministes (1977-1980) . Paris, Syllepse. 
+— (1999). « Bourdieu ou le pouvoir auto-hypnotique de la domination 
+masculine ». Les temps modernes , n° 604. 
+Pheterson Gail (2001 [1996]). Le prisme de la prostitution. Paris, 
+L’Harmattan. 
+Pollak Michael, Schiltz Marie-Ange (1987). « Identité sociale et 
+gestion d’un risque de santé : les homosexuels face au Sida ». 
+Actes de la recherche en sciences sociales , n° 68. 
+Prearo Massimo (2010). « Le moment 70 de la sexualité : de la 
+dissidence identitaire en milieu militant ». Genre, sexualité & 
+société , n° 3 (en ligne). 
+Rich Adrienne (1981 [1980]). « La contrainte à l’hétérosexualité et 
+l’existence lesbienne ». Nouvelles questions féministes , n° 1. 
+Riley Denise (1988). ‘Am I that Name ?’ Feminism and the Category 
+of ‘Women’ in History . London, Macmillan. 
+Rochefort Florence, Zan carini-Fournel Michelle (2005). « Du fémi-
+nisme des années 1970 aux débats contemporains ». In Maruani 
+Margaret (ed). Femmes, genre et sociétés. L’état des savoirs . Paris, 
+La Découverte. 
+Rouch Hélène, Dorlin Elsa, Fougeyrollas-Schwebel Dominique (eds) 
+(2005). Le corps, entre sexe et genre . Paris, L’Harmattan. 
+Roux Sébastien (2011). No money, no honey. Économies intimes du 
+tourisme sexuel en Thaïlande . Paris, La Découverte. 
+Rubin Gayle S. (2010 [1975]). « Le marché aux femmes. ‘Économie 
+politique’ du sexe et systèmes de sexe/genre ». In Rubin Gayle S. 
+Surveiller et jouir. Anthropologie politique du sexe . Paris, Epel 
+(trad. fr. Nicole-Claude Mathieu et Gail Pheterson). 
+— (2010 [1984]). « Penser le sexe. Pour une théorie radicale de la 
+politique de la sexualité ». In Rubin Gayle S. Surveiller et jouir. 
+Anthropologie politique du sexe . Paris, Epel. (trad. fr. Flora Bolter). 
+Rubin Gayle S., Butler Judith (2001 [1995]). « Marché au sexe. 
+Entretien Gayle S. Rubin / Judith Butler ». In Rubin Gayle S., 
+Butler Judith. Marché au sexe . Paris, Epel (trad. fr. Eliane Sokol). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Isabelle Clair 120
+Sedgwick Eve Kosofsky (2008 [1991]). Épistémologie du placard . 
+Paris, Éd. Amsterdam (trad. fr. Maxime Cervulle). 
+Sibalis Michael (2010). « L’arrivée de la libération gay en France. Le 
+Front Homosexuel d’Action Révolutionnaire ( FHAR ) ». Genre, 
+sexualité & société , n° 3. 
+Tabet Paola (1987). « Du don au tarif. Les relations sexuelles impli-
+quant une compensation ». Les temps modernes , n° 490. 
+Tabet Paola, Trachman Mathieu (2009). « La banalité de l’échange. 
+Entretien avec Paola Tabet ». Genre, sexualité & société , n° 2 (en 
+ligne). 
+Touraille Priscille (2009). « Genre et sexe : sortir de l’imbroglio 
+conceptuel ». In Gouyon Pierre-Henri (ed). Aux origines de la 
+sexualité . Paris, Fayard. 
+Trachman Mathieu (2013). Le travail pornographique. Enquête sur la 
+production de fantasmes . Paris, La Découverte. 
+Varikas Eleni, Clair Isabelle (201 2). « Généalogie d’une enquête sur 
+les ‘étranger es du dedans’. Entretien avec Eleni Varikas ». Genre, 
+sexualité & société , n° 7 (en ligne). 
+Wittig Monique (1980a). « La pensée straight ». Questions féministes , 
+n° 7. 
+— (1980b). « On ne naît pas femme ». Questions féministes , n° 8. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

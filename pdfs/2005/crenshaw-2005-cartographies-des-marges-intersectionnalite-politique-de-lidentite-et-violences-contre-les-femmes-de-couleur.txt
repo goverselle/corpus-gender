@@ -1,0 +1,1041 @@
+Cartographies des marges : intersectionnalité, politique
+de l'identité et violences contre les femmes de couleur
+Kimberlé W. Crenshaw , Oristelle Bonis
+Dans Cahiers du Genre 2005/2 n° 39 , pages 51 à 82
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782747593789
+DOI 10.3917/cdge.039.0051
+Date de mise en ligne : 01/02/2012
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2005-2-page-51?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+Cahiers du Genre, n° 39/2005 
+Cartographies des marges : 
+intersectionnalité, politique de l’identité 
+et violences contre les femmes de couleur 
+Kimberlé Williams Crenshaw 
+Résumé 
+Les discours féministes et antiracist es contemporains n’ont pas su repé-
+rer les points d’intersection du racisme et du patriarcat. Face à ces difficultés, 
+cet article propose une approche origin ale : l’intersectionnalité. La première 
+partie traite de l’intersectionnalité structurelle — de la manière dont le po-
+sitionnement des femmes de couleur, à l’intersection de la race et du genre, 
+rend leur expérience concrète de la vi olence conjugale, du viol et des mesures 
+pour y remédier qualitativement diffé rente de celle des femmes blanches. 
+La seconde partie porte sur l’inte rsectionnalité politique : notamment la 
+marginalisation de la question de la violence contre les femmes de couleur 
+induite par les politiques féministes et antiracistes. Enfin, l’article conclut 
+par l’examen des conséquences de l’approche intersectionnelle dans le champ 
+plus large de la politique de l’identité contemporaine.* 
+INTERSECTIONNALITÉ — VIOLENCES CONTRE LES FEMMES — FÉMINISME — 
+BLACK FEMINISM — RACISME — POLITIQUES IDENTITAIRES — ÉTATS -UNIS 
+ 
+* Cet article, dans une version plus longue, a d’abord été publié dans Martha 
+Albertson Fineman, Ri xanne Mykitiuk (eds), The Public Nature of Private 
+Violence (New York, Routledge, 1994), sous le titre « Mapping the Margins: 
+Intersectionality, Identity Politics, a nd Violence against Women of Color » 
+(p. 93-118). Nous remercions Kimberlé Williams Crenshaw de nous avoir 
+permis de le publier en français ( NDLR ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 52
+Introduction 1 
+Au cours des vingt dernières années, les femmes se sont 
+organisées contre la violence presque banale qui structure leurs 
+vies. Fortes d’une expérience partagée, elles ont découvert que les exigences politiques portées par des millions de voix ont une 
+portée bien supérieure aux plaintes isolées. À son tour, cette po-litisation a transformé le regard por té sur la violence qui s’exerce 
+à l’encontre des femmes. Ains i admet-on aujourd’hui que les 
+sévices et le viol, autrefois cons idérés comme des affaires privées 
+(à régler en famille) et des comportements aberrants (déviance sexuelle), participent d’un vaste système de domination qui touche les femmes en tant que classe. Cette reconnaissance pro-gressive du caractère social et systémique de phénomènes long-
+temps perçus comme ponctuels et individuels caractérise égale-
+ment la politique de l’identité dé fendue, entre autres, par les gens 
+de couleur ou les gays et les lesb iennes. Tous ces groupes ont puisé 
+leur force, leur sens de la communauté et leur développement intellectuel dans une politique fondée sur la notion d’identité. 
+L’adoption d’une politi que d’identité se trouve toutefois en 
+contradiction avec les conceptions prépondérantes de la justice 
+sociale. Le discours libéral domin ant traite souvent la race, le 
+genre et les autres catégories de l’identité comme des vestiges 
+des préjugés ou de la domination — autrement dit des cadres d’analyse intrinsèquement négatifs, investis par le pouvoir social 
+pour exclure ou marginaliser ceux qui sont différents. Dans 
+cette optique, pour nous libérer nous devrions d’abord vider ces 
+ 
+1 Je reste redevable aux nombreuses pers onnes qui m’ont soutenue au cours de 
+ce projet. Pour l’aide inappréciable qu’ elles m’ont apportée en facilitant les 
+études de terrain sur lesquelles s’appuie ce t article, je tiens à remercier Maria 
+Blanco, Margaret Cambrick, Joan Creer, Estelle Cheung, Nilda Rimonte et Fred 
+Smith. Je dois beaucoup aux remarque s de Taunya Banks, Mark Barenberg, 
+Darcy Calkins, Adrienne Da vis, Gina Dent, Brent Edwa rds, Paul Gewirtz, Lani 
+Guinier, Neil Gotanda, Joel Handier , Duncan Kennedy, Henry Monaghan, 
+Elizabeth Schneider et Kendall Thomas . Gary Peller et Richard Yarborough 
+ont droit à toute ma reconnaissance. Ja yne Lee, Paula Puryear, Yancy Garrido, 
+Eugenia Gifford et Leti Volpp m’ont apport é un concours précieux dans les tâches 
+de recherche. Je suis aussi très reconna issante d’avoir pu bénéficier de l’aide 
+du Conseil de l’université de l’ UCLA , du Centre d’études afro-américaines de 
+l’UCLA , de la fondation Reed et de la faculté de droit de Columbia. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 53
+catégories de toute signification sociale. Pourtant, certains cou-
+rants des mouvements de libération féministe et antiraciste, par 
+exemple, défendent implicitement l’idée que le pouvoir social qui délimite les contours de la différence ne se confond pas né-cessairement avec un pouvoir de domi nation ; il peut, au contraire, 
+être le moteur de l’émancipation politique 
+2 et de la reconstruc-
+tion sociale. 
+Le problème, avec la politique de l’identité, n’est pas qu’elle 
+échoue à transcender la différenc e — comme l’en accusent cer-
+tains critiques — mais plutôt l’inverse : la plupart du temps, elle amalgame ou ignore les différenc es internes à tel ou tel groupe. 
+S’agissant de la violence contre les femmes, une telle élision 
+s’avère pour le moins probléma tique, car les formes de cette 
+violence sont fréquemment déte rminées par d’autres dimensions 
+de l’identité des femmes — la ra ce et la classe par exemple. 
+Autre problème de la politique de l’identité qui contrarie les 
+tentatives de politiser la violence contre les femmes : le silence 
+entretenu sur les différences internes aux groupes contribue 
+souvent à alimenter les tensions entre groupes. Qu’il s’agisse de 
+la volonté féministe de politiser le vécu des femmes ou de la volonté antiraciste de politiser le vécu des gens de couleur, ces efforts sont souvent engagés comme si les questions et les expé-riences auxquelles ils s’attachent respectivement concernaient 
+des terrains mutuellement exclus ifs. Les recoupements évidents 
+du racisme et du sexisme dans la vie réelle — leurs points d’intersection — trouvent rareme nt un prolongement dans les 
+pratiques féministes et antiracistes. De ce fait, lorsque ces pra-tiques présentent l’id entité « femme » ou « personne de couleur » 
+sous forme de proposition alternative (ou bien…, ou bien…), 
+elles relèguent l’identité des femmes de couleur en un lieu difficilement accessible au langage. 
+ 
+2 Émancipation traduit l’anglais empowerment , soit, dans ce contexte, l’acquisition 
+progressive de capacités qui rendent les i ndividus plus forts, plus indépendants, 
+et leur permettent donc de mieux s’a ssumer ; dans ce sens, émancipation doit 
+donc s’entendre non comme un état abouti, mais comme un processus 
+d’autonomisation. Il était plus diffic ile de trouver un équivalent français à 
+disempowerment , qui désigne une négation de droits, de reconnaissance, et 
+renvoie à une situation de privation, une « dépossession » (terme retenu pour 
+la traduction) qui n’est pas seulement matérielle ( NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 54
+Je voudrais ici me risquer à aller plus avant sur la question en 
+explorant les dimensions raciales et genrées de la violence contre 
+les femmes de couleur. Les discours féministes et antiracistes contemporains n’ont pas su repérer les points d’intersection du racisme et du patriarcat. En m’attachant à deux manifestations de la violence masculine contre les femmes (les coups et le viol), je montre que les expériences des femmes de couleur sont 
+souvent le produit des croisement s du racisme et du sexisme, et 
+qu’en règle générale elles ne sont pas plus prises en compte par le discours féministe que par le discours antiraciste. Du fait de leur identité intersectionnelle en tant que femmes et personnes 
+de couleur, ces dernières ne peuve nt généralement que constater 
+la marginalisation de leurs intérê ts et de leurs expériences dans 
+les discours forgés pour répondre à l’une ou l’autre de ces di-
+mensions (celle du genre et celle de la race). 
+Je dois tout de suite préciser que mon but n’est pas de pro-
+poser avec l’intersectionnalité une nouvelle théorie globalisante 
+de l’identité. Ni d’avancer que seu ls les cadres spécifiques de la 
+race et du genre envisagés ici permettraient d’expliquer la vio-
+lence contre les femmes de couleur. Des facteurs que je n’aborde qu’en partie ou pas du tout, tels que la classe ou la sexualité, 
+contribuent souvent de manière tout aussi décisive à structurer leurs expériences. Cette focalisation sur les intersections de la 
+race et du genre vise uniquement à mettre en lumière la néces-
+sité de prendre en compte les multiples sources de l’identité lorsqu’on réfléchit à la construc tion de la sphère sociale. 
+J’ai divisé les questions exposées ci-dessous en deux caté-
+gories. Dans la première partie, je traite de l’intersectionnalité 
+structurelle — de la manière dont la localisation des femmes de 
+couleur à l’intersection de la ra ce et du genre rend notre expé-
+rience réelle de la violence conjugale, du viol et des mesures pour y remédier, qualitativement di fférente de celle des femmes 
+blanches. La seconde partie porte sur l’intersectionnalité politique : 
+j’y analyse la marginalisation de la question de la violence contre 
+les femmes de couleur induite par les politiques féministes et anti-
+racistes. Pour finir, j’examine les conséquences de l’approche intersectionnelle dans le champ plus large de la politique de 
+l’identité contemporaine. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 55
+L’intersectionnalité structurelle 
+Les coups et blessures 
+J’ai pu observer la dynamique de l’intersectionnalité structu-
+relle à l’occasion d’une brève étude de terrain sur les refuges pour femmes battues, ouverts dans les communautés minoritaires 
+de Los Angeles 
+3. Dans la plupart des cas, l’agression physique 
+qui pousse les femmes à s’y rendre n’est que la manifestation la 
+plus immédiate de la subordina tion dans laquelle elles vivent. 
+Beaucoup sont au chômage ou sous -employées et nombre d’entre 
+elles sont pauvres. Les refuge s qui les accueillent ne peuvent 
+pas se permettre de ne travailler que sur la violence infligée par 
+l’agresseur ; il faut aussi prendre en compte toutes les autres 
+formes composites, quotidiennes, de la domination, dont les effets convergents diminuent la capac ité de ces femmes à trouver des 
+échappatoires à la relation brutale responsable au premier chef de leur arrivée dans les refuges. Trop de fe mmes de couleur sont 
+en effet écrasées par la pauvreté, les responsabilités parentales, 
+le manque de compétences professionnelles. Ces handicaps, lar-
+gement déterminés par l’oppression de classe et de genre, sont encore aggravés par la discrimination raciale en matière d’emploi et de logement à laquelle les femmes de couleur doivent sou-vent faire face 
+4. De plus, le taux de chômage disproportionné 
+qui sévit dans leurs communautés constitue un obstacle supplé-
+mentaire pour celles qui sont en butte à la violence conjugale, 
+ 
+3 L’étude de terrain à Los Angeles (Califor nie) porte sur le refuge Jenessee, le 
+seul de la côte ouest à accueillir en prior ité les femmes noires, et sur le Refuge 
+pour toutes (Everywoman Shelter) qui accueille en priorité des femmes 
+asiatiques. Par ailleurs, j’ai eu des entretiens avec Estelle Cheung à la 
+fondation juridique Asian Pacific, ainsi qu’avec une représentante de La Casa, 
+refuge ouvert dans la communauté majoritairement hispanique de Los Angeles 
+Est. 
+4 Une responsable d’un des refuges expl iquait que près de 85 % des femmes 
+battues retournent vivre avec leur ag resseur parce qu’elles n’arrivent pas à 
+trouver un emploi et un logement. Les A fro-Américains sont plus stigmatisés 
+que les autres groupes raciaux, et cette ségrégation touche toutes les classes 
+sociales. Des enquêtes récentes sur la ville de Washington et sa banlieue 
+montrent que 64 % des Noirs qui cherch ent à louer des appartements dans les 
+quartiers blancs sont vi ctimes de discrimination (Thompson 1991, D1). Si les 
+chercheurs avaient intégré les facteurs genre et situation familiale dans 
+l’équation, les résultats statistiques seraient encore plus accablants. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 56
+dans la mesure où elles ne peuvent guère compter être 
+hébergées, même temporairement, par des amis ou des proches. 
+Ces observations révèlent l’in fluence de l’intersectionnalité 
+sur le vécu des femmes de couleur. Les considérations d’ordre économique — accès à l’emploi, au logement, aux soins de 
+santé — confirment que les structures de classe contribuent lar-gement à déterminer l’expérience des femmes de couleur vis-à-
+vis de la violence. On aurait tort , toutefois, d’en conclure que 
+seule la pauvreté est ici en cause. L’observation des trajectoires de ces femmes révèle qu’elles s ont en fait déterminées par 
+l’entrecroisement de diverses structures, la dimension de classe elle-même n’étant pas indépendante de la race et du genre. 
+Au niveau le plus élémentaire, race, genre et classe sont tous 
+en cause, étant donné la fort e corrélation entre « femme de 
+couleur » et pauvreté. En outre, la disparité de l’accès à l’emploi et au logement — c’est-à-dire la discrimination — est redoublée par leur identité de race et de genre. La race et le genre sont parmi les tout premiers facteurs responsables de cette distribu-
+tion particulière des ressources sociales qui aboutit aux diffé-
+rences de classe observables. Et dès lors qu’elles se trouvent réunies dans une classe sociale défavorisée, les structures de race et de genre déterminent la ma nière singulière, par rapport aux 
+autres groupes, dont les femmes de couleur vivent la pauvreté. 
+Ces systèmes convergents structurent les expériences des 
+femmes de couleur battues sur des modes qui réclament des 
+stratégies d’intervention tenant co mpte de leurs intersections. Si 
+de telles stratégies s’appuient uni quement sur les expériences de 
+femmes n’ayant pas la même origine de classe ou de race, elles 
+n’auront qu’une efficacité limitée pour celles dont l’existence 
+est balisée par un parcours d’ob stacles différent. La politique 
+des refuges pour femmes battues, par exemple, s’inspire souvent 
+d’une vision qui situe la subordina tion des femmes dans les effets 
+psychologiques de la domination ma sculine, et néglige ce faisant 
+les facteurs socioéconomiques en grande partie responsables de 
+l’aliénation des femmes de couleur 
+5. Puisqu’on peut à bon droit 
+ 
+5 Il existe, du fait des différences raciales, un contraste intéressant entre la po-
+litique suivie au refuge Jenessee et celle des refuges extérieurs à la commu-
+nauté noire. Contrairement aux autres centres de Los Angeles, Jenessee accepte 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 57
+soutenir que celle-ci tient moins à leurs attitudes psychologiques 
+qu’aux obstacles spécifiques qu’elles rencontrent, pareille poli-
+tique a toutes les chances de reproduire la domination exercée sur ces femmes au lieu de la combattre efficacement. 
+Si l’expérience de nombreuses femmes noires 
+6 et hispaniques 
+accueillies dans les refuges pour femmes battues est avant tout 
+structurée par les intersections entre race, genre et classe, il est 
+important de bien voir que les structures de pouvoir se recou-
+pent également en d’autres lieux. Le statut des femmes immi-grées, par exemple, les rend vulnérables pour des raisons tout aussi coercitives mais difficilem ent réductibles à la seule dimen-
+sion socioéconomique. Prenons par exemple les amendements 
+sur les faux mariages de la loi de 1986 sur l’immigration ; ils 
+précisent que toute personne ayant immigré aux États-Unis pour épouser un(e) citoyen(ne) américain(e) ou un(e) titulaire du per-mis de résidence doit rester « vraiment » mariée pendant deux ans avant de pouvoir demander le statut de résident permanent 
+7, 
+et qu’une fois ce délai écoulé les démarches doivent être effec-
+tuées conjointement par les deux époux 8. Dans ces conditions, 
+ 
+en effet de travailler avec des hommes. Selon ses responsables, cette ligne de 
+conduite repose sur la conviction que da ns la mesure où les Afro-Américains 
+doivent rester solidaires entre eux pour lu tter ensemble contre le racisme, les 
+programmes de lutte contre la violen ce mis en œuvre dans la communauté 
+afro-américaine ne peuvent pas stigmatiser les hommes. Pour un exposé sur 
+les différents besoins des femmes noire s battues, cf. Richie (1985, p. 40). 
+6 J’utilise indifféremment, tout au long de cet article, les termes « Noir » et 
+« Afro-Américain ». Quand j’emploie Noir comme un substantif, je l’écris avec 
+une majuscule car « les Noirs, de même que les Asiatiques, les Hispaniques et 
+autres “minorités” constituent un groupe culturel spécifique qui, en tant que 
+tel, exige d’être connoté comme un nom propre » (Crenshaw 1988, p. 1332, 
+cit. Mackinnon 1982, p. 516). Conformément à cette logique, je ne mets pas 
+de majuscule au mot « blanc », qui n’est pas un nom propre puisque les blancs 
+ne constituent pas un groupe culturel spécifique. Et pour la même raison 
+j’écris « femmes de couleur » sans majuscules. 
+7 8 U.S.C. + s 1186a, 1988. 
+8 Lesdits amendements stipulent que pour obt enir la levée du statut de résident 
+temporaire, « le conjoint étranger et le conjoint demandeur (s’il n’est pas 
+décédé) doivent adresser ensemble au ministre de la Justice […] une lettre 
+sollicitant la levée de ce statut provisoire et attestant (sous peine de parjure) la 
+réalité des informations fournies » (8 U. S.C. + s 1186a(b)(1)(A)). Les dispenses, 
+laissées à la discrétion du ministre de la Justice, ne sont éventuellement accor-
+dées que lorsque le conjoint étranger pe ut apporter la preuve que son expul-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 58
+il n’est pas étonnant que la crainte d’être expulsées dissuade de 
+nombreuses femmes immigrées de quitter un compagnon pour-
+tant des plus violents. Tenues de choisir entre la protection contre celui qui les maltraite et la protection contre la menace 
+d’expulsion, bien des femmes immigrées se rabattent sur la seconde (Walt 19 90, p. 8). Plusieurs rappor ts sur les conséquences 
+dramatiques de cette double subo rdination ont amené le Congrès 
+à inclure dans la loi de 1990 relative à l’immigration un amen-
+dement aux règles sur les faux mariages, qui prévoit explici-tement d’octroyer une dispense aux victimes de la violence 
+conjugale 
+9. De nombreuses femmes immigrées — de couleur, 
+en particulier — restent cependant très exposées à cette vio-
+lence car elles sont incapables de remplir toutes les conditions 
+fixées pour l’octroi d’une dispense. 
+La barrière de la langue constitue un autre obstacle structurel 
+qui empêche les femmes non anglophones de tirer parti des aides existantes (Banales 1990, p. E5). Leur mauvaise connais-sance de l’anglais les empêche non seulement de se renseigner 
+sur les refuges mais aussi, trop s ouvent, de bénéficier de la sé-
+curité qu’ils sont cens és procurer. Certains de ces établissements 
+invoquent en effet le manque de ressources ou de personnel 
+bilingue pour justifier leur refu s d’accueillir les femmes ne par-
+lant pas anglais 
+10. 
+ 
+sion mettrait ses jours en danger, ou que le mariage qui lui permet de faire cette 
+démarche a été rompu pour des motifs recevables (+ s 1186a(c)(4)). L’octroi 
+de ces dispenses prévues pour les cas d’ extrême nécessité ne suffit pas à assu-
+rer la protection de s femmes battues. 
+9 Loi sur l’immigration de 1990, Pub. L. n° 101-649, 104 Stat. 4978. H.R. Rep. 
+N° 723(i), 101st Cong. 2d Sess. 78 (1990), repris dans USCCAN 1990, 6710, 
+6758. 
+10 Il ne fait guère de doute que leur in capacité à s’exprimer en anglais handi-
+cape gravement la volonté d’indépendance de ces femmes. Certaines de celles 
+qui ont vu leurs demandes d’hébergemen t repoussées étaient encore désavan-
+tagées par le fait qu’elles n’avaient pas la citoyenneté américaine et séjournaient 
+parfois illégalement dans le pays. Le seul moyen trouvé par le personnel du 
+refuge pour les aider consistait, dans ce rtains cas, à les rapprocher de leurs 
+familles d’origine (Pagelow 1981, p. 96-97). Souvent d’ailleurs, les enquêtes 
+sur la violence conjugale ne prennent même pas en compte les femmes non 
+anglophones, en raison notamme nt des difficultés lingui stiques. Témoin cette 
+remarque qui, à propos des données stat istiques d’une enquête, précise qu’une 
+« proportion inconnue des femmes des gr oupes minoritaires ont été exclues de 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 59
+Ces quelques exemples illustrent l’intersectionnalité propre 
+aux schémas de la subordination da ns les situations de violence 
+conjugale. Cette subordination ic i qualifiée d’intersectionnelle 
+n’est pas nécessairement le résultat d’une intention délibérée ; il s’agit plutôt d’un poids qui, co mpte tenu des vulnérabilités exis-
+tantes, vient encore aggraver une situation de dépossession. S’agissant des dispositions de la loi sur l’immigration et la 
+nationalité relatives aux faux mariages, les clauses spécifique-
+ment conçues pour peser sur une classe — les conjoint(e)s 
+immigré(e)s, femmes et hommes, désireux d’obtenir un statut de résident permanent — redouble nt la dépossession de personnes 
+déjà subordonnées par d’autres structures de domination. En né-
+gligeant de prendre en compte la violence conjugale à laquelle 
+sont exposées les femmes immigr ées, le Congrès les place en 
+première ligne de sa politique anti-immigration, et redouble ainsi les effets dévastateurs de la dépendance dans la quelle elles se 
+trouvent. 
+Le viol 
+Les femmes de couleur occupent des positions à part dans les 
+sphères économique, sociale et po litique. Tant que les tentatives 
+de réforme engagées au nom des femmes en général ignoreront cet état de fait, les femmes de couleur auront moins de chances que les femmes privilégiées en raison de leur race de voir leurs besoins pris en compte. Les psychosociologues chargés de four-nir une aide d’urgence aux femmes de couleur victimes d’un viol 
+expliquent ainsi qu’ils/elles doivent consacrer une proportion 
+non négligeable des ressources qui leur sont affectées à régler d’autres problèmes que le viol. Le traitement de ces urgences 
+les place souvent en porte-à-faux par rapport à leurs bailleurs de fonds, lesquels allouent des fina ncements sur la base de critères 
+d’intervention largement définis pour répondre aux besoins des 
+ 
+l’échantillon à cause des difficultés linguis tiques » (Pagelow 1981, p. 96). Pour 
+pallier la non-prise en charge des femmes de couleur par de nombreux refuges, 
+des programmes spécialement conçus à l’ intention des femmes issues de com-
+munautés particulières ont été mis su r pied. Les programmes comportent par-
+fois une assistance téléphonique disponible vingt-quatre heures sur vingt-quatre. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 60
+classes moyennes blanches 11. Ces critères d’assistance unifor-
+misés méconnaissent la nécessité, face à des besoins différents, 
+de définir autrement les priorités budgétaires, et ils diminuent en conséquence la capacité des intervenants à répondre aux be-soins des femmes pauvres non blanches. 
+On vient de le voir, les psychosociologues qui travaillent en 
+direction des groupes minoritaires affirment passer une bonne 
+partie de leur temps à trouver des ressources et des contacts sus-
+ceptibles de répondre aux besoins im médiats (logement et autres) 
+des femmes brutalisées. Parce qu’il ne s’agit là, aux yeux des organismes de financement, que d’un travail « d’information et 
+d’orientation », il est très larg ement sous-estimé dans les budgets 
+en dépit de l’énorme demande pour ce type de services enregis-
+trée dans les groupes minoritaires (Matthews 1989, p. 287-288). Le problème est d’autant plus complexe que l’on attend généra-
+lement des centres d’aide d’urgence aux victimes de viols qu’ils affectent une part importante de leurs ressources à former des conseillers pour accompagner les victimes au tribunal 
+12, ce alors 
+même que tout un faisceau d’éléments indique que les femmes 
+de couleur n’ont que peu de chances de voir leurs cas traités au pénal (Collins 1990 ; Field, Bi enen 1980). Dans ces communautés, 
+les fonds qui devraient être affectés à des services d’aide judi-ciaire sont en fait détournés. 
+Les effets des multiples formes de subordination qui pèsent 
+sur les femmes de couleur, couplés à des attentes institution-nelles fondées sur des contex tes inappropriés car unidimen-
+sionnels, déterminent et en dernier ressort limitent la portée des interventions en leur faveur. Comprendre la dynamique inter-
+sectionnelle de l’intervention d’ urgence permet pourtant, dans 
+une large mesure, d’expliquer la frustration et l’épuisement de celles et ceux qui s’efforcent d’aider concrètement les femmes victimes de violence dans les groupes minoritaires. 
+ 
+11 Le refuge Rosa Parks et la ligne SOS Viol de Compton, tous deux destinés à 
+la communauté afro-américaine, sont ainsi en conflit constant avec leurs bail-
+leurs de fonds sur la part en argent et en heures à consacrer aux femmes à qui 
+ils s’adressent. Entretien avec Joan Greer, directrice générale du refuge Rosa 
+Parks, Los Angeles, avril 1990. 
+12 Entretien avec Joan Greer, avril 1990. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 61
+L’intersectionnalité politique 
+Le concept d’intersectionnalité politique met en lumière la 
+position assignée aux femmes de couleur dans au moins deux 
+groupes subordonnés poursuivant des objectifs politiques souvent 
+contradictoires. Les hommes de couleur et les femmes blanches sont rarement confrontés à cette dimension intersectionnelle particulière de la dépossession qui oblige l’individu à cliver son 
+énergie politique entre deux proj ets parfois antagonistes. En 
+dépit, en effet, du caractère inte rsectionnel de ce qu’ils et elles 
+vivent en raison de leur race et de leur sexe, souvent leurs 
+expériences définissent et limitent les intérêts de leur groupe 
+d’appartenance tout entier. Le racisme tel qu’il est vécu par les personnes de couleur d’un sexe pa rticulier (masculin) détermine 
+ainsi largement les paramètres des stratégies antiracistes, de même 
+que le sexisme tel qu’il est vécu par des femmes d’une race particulière (blanche) est largement à la base du mouvement des femmes. Le problème ne tient pas uniquement à ce que ces deux discours trahissent les femmes de couleur en ne reconnaissant pas le poids « supplémentaire » que représente pour elles le 
+patriarcat ou le racisme : en rè gle générale, ils ne parviennent 
+même pas à analyser toutes les dimensions du racisme et du sexisme. Parce que les femmes de couleur ne vivent pas toujours 
+le racisme sur le même mode que les hommes de couleur, ni le sexisme sur des modes comparables à ceux que dénoncent les 
+femmes blanches, les conceptions dominantes de l’antiracisme 
+et du féminisme restent forcément limitées, y compris au regard de leurs propres exigences. 
+Dans la mesure où les discours antiraciste et féministe 
+défendent les intérêts respectif s des gens de couleur et des 
+femmes, ils ne se reconnaissent mutuellement aucune validité, et 
+c’est là une des conséquences po litiques les plus troublantes de 
+leur échec à prendre en compte les intersections du racisme et du patriarcat. L’impuissance du féminisme à interroger la race aboutit à des stratégies de résistance qui trop souvent repro-duisent et renforcent la subordina tion des gens de couleur, tandis 
+que l’impuissance de l’antiracisme à interroger le patriarcat se 
+traduit par la reproduction trop fréquente de la subordination 
+des femmes au sein de ce couran t. Ces élisions réciproques 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 62
+posent aux femmes de couleur un problème politique parti-
+culièrement difficile. Adopter l’une ou l’autre de ces analyses 
+revient pour nous à nier une dimension fondamentale de notre subordination, autrement dit à empêcher que se développe un 
+discours politique plus résolument axé sur l’émancipation des femmes de couleur. 
+La politisation de la violence conjugale 
+Ce que j’ai moi-même pu cons tater, à l’époque où je me do-
+cumentais pour cet article, illustre combien les stratégies poli-
+tiques aveugles ou hostiles aux questions de l’intersectionnalité 
+peuvent occulter, voire compromettre, les intérêts politiques des femmes de couleur. J’avais pensé consulter les statistiques dres-sées par le 
+LAPD (le service de police de Los Angeles) sur les 
+interventions, quartier par quar tier, motivées par la violence 
+conjugale, car étant donné la ségrégation raciale qui sévit à Los 
+Angeles, ces chiffres permettent de se faire une idée du nombre 
+d’arrestations dans le s diverses minorités 13. Le LAPD a toutefois 
+refusé de me les fournir. Notamment, à en croire les explica-tions avancées par un de ses responsables, parce que les groupes 
+qui tant à l’intérieur qu’à l’ex térieur des services de police 
+dénoncent la violence conjugale craignent que la publication 
+d’une interprétation sélective de ces statistiques — révélatrices de l’ampleur de ladite violence au sein des minorités — vienne saper les efforts de longue haleine engagés pour amener les ser-vices de police à traiter la questi on avec le sérieux qu’elle mérite. 
+Les militants, semble-t-il, sont inquiets à l’idée que leurs adver-
+saires pourraient s’emparer de ces statistiques pour présenter la violence conjugale co mme un problème spécifiq ue aux minorités, 
+et ne méritant donc pas qu’on s’y attaque résolument. 
+Mon informateur m’a précisé que les représentants des diffé-
+rentes communautés s’opposaient également à la communication 
+ 
+13 Généralement classées en fonction so it du sexe, soit de la race, les statis-
+tiques criminelles ne croisent jamais ces deux variables. Sachant que la plupart 
+des personnes violées sont des femmes, la ventilation par race révèle, au mieux, 
+le taux de viol des femmes noires. Au moins, c’est un début, mais les chiffres 
+relatifs aux autres femmes non blanches sont extrêmement difficiles à obtenir. 
+S’il existe des statistiques pour les Hisp aniques, il n’y en a pratiquement pas 
+pour les Asiatiques et les Amérindiennes. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 63
+de ces données. Par crainte, apparemment, qu’en donnant des 
+communautés afro-américaine et hispanique une fausse image 
+de violence exacerbée, elles ne viennent renforcer les stéréo-types servant à justifier la répression policière et les pratiques discriminatoires en général. Ces appréhensions reposent sur l’idée, courante et pas si infondée, que certaines minorités — en particulier les hommes noirs — sont déjà stéréotypées au point 
+d’être assimilées à des foyers de violence pathologique. En 
+somme, les tentatives de faire de la violence conjugale une cible 
+de l’action politique risqueraie nt de simplement conforter ces 
+stéréotypes, et de saper du même coup les efforts pour combattre 
+les opinions négatives entretenu es à propos de la communauté 
+afro-américaine. 
+On peut à juste titre redouter l’exploitation abusive des données 
+statistiques ; cela étant, le refus de communiquer l’information est une solution de facilité tant que les intérêts des femmes de 
+couleur exposées à la violence conjugale ne sont pas pris en compte. Cette rétention délibérée est embarrassante en regard 
+de l’injonction féministe à « briser le silence », ancrée dans la 
+certitude que pour mobiliser contre la violence conjugale il faut 
+d’abord en connaître l’ampleur et la nature. La loi du secret est aussi problématique, compte tenu de la probabilité quasi nulle que les femmes de couleur bénéficient un tant soit peu de la 
+mobilisation féministe contre la violence conjugale, ou de la dé-
+nonciation par leur communauté d’appartenance du crime intra-racial en général. En d’autres termes, l’interdit posé de part et d’autre sur ces informations essentielles diminue encore les 
+chances de voir se constituer dans les communautés de couleur 
+un vaste mouvement contre la violence conjugale. 
+Il ne s’agit là que d’une anecdote, mais suffisamment exem-
+plaire pour illustrer les modalités ordinaires d’effacement de la présence des femmes de couleur dans la contestation politique de la hiérarchie raciale par l’antiracisme, ou du patriarcat par le féminisme. On verra ci-dessous que si cet effacement n’est pas 
+toujours le résultat direct ou délibérément recherché des poli-
+tiques antiracistes et féministes, il est souvent produit par des stratégies rhétoriques et politiques qui ne remettent pas simulta-nément en cause les hiérarchies de race et de genre. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 64
+Violence conjugale et politique antiraciste 
+Dans les communautés de couleur, les efforts pour contrer la 
+politisation de la violence conjuga le découlent souvent de la vo-
+lonté affirmée de garder la coll ectivité soudée. Cette perspective 
+peut s’énoncer de différentes manières. Selon certains, le fémi-
+nisme n’a pas sa place dans l es communautés de couleur, la 
+question du genre est un facteur de division interne et l’aborder dans des communautés non blanches revient à importer les pré-occupations des femmes blanches da ns un contexte où elles sont 
+non seulement déplacées, mais aussi néfastes. Les plus extré-
+mistes de ceux qui cherchent à défendre leurs communautés 
+contre cette agressi on féministe affirment que la violence genrée 
+n’existe pas dans leur groupe, et que c’est la tentative de poli-
+tiser la subordination de genr e qui constitue un problème pour 
+leur communauté. Telle est la position défendue par Shahrazad Ali dans son très controversé Blackman Guide to Understanding 
+the Blackwoman . Sur un ton farouchement antiféministe, elle y 
+établit une corrélation positive entre la violence conjugale et la libération des Afro-Américains. La détérioration des conditions 
+de vie au sein des communautés afro-américaines est à l’en croire le résultat de l’insubordination des femmes noires et de 
+l’impuissance des hommes noirs à affirmer leur autorité sur 
+elles (Ali 1989, p. viii, 76). 
+Ali part du principe que la communauté afro-américaine a 
+tout à gagner du patriarcat (p. 67) et doit donc s’employer à le consolider, au besoin par des moyens coercitifs 
+14. La violence 
+dont s’accompagne cette volonté de contrôle est pourtant dévas-
+tatrice, non seulement pour les femmes noires qui en sont les 
+ 
+14 Les arguments avancés par Ali sont à cet égard très proches de ceux des néo-
+conservateurs, qui attribuent à l’effondre ment des valeurs familiales patriarcales 
+les nombreux fléaux sociaux dont souffre l’Amérique noire (cf. Raspberry 1989, 
+p. C15 ; Will 1986a, p. A23, et 1986b, p. 9). Ils offrent également des ressem-
+blances frappantes avec le trop fameux « Rapport Moynihan » sur la famille noire, 
+dû au sénateur Daniel P. Moynihan (d émocrate, New York). Dans un chapitre 
+tristement célèbre de ce document (« lmbroglio pathologique »), Moynihan 
+déclare notamment que les Noirs se sont vus imposer une structure matriarcale 
+dont le décalage par rapport au reste de la société améric aine retarde grave-
+ment le progrès du groupe dans son ense mble et fait peser sur les épaules de 
+l’homme noir un poids accablant qui, par vo ie de conséquence, écrase aussi la 
+plupart des femmes noires. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 65
+victimes mais encore pour l’ensemble de la communauté afro-
+américaine. Le recours à la violence pour résoudre des conflits 
+constitue un dangereux modèle pour les enfants élevés dans ce 
+contexte, et alimente de plus quantité d’autr es problèmes urgents. 
+On estime ainsi que près de 40 % des femmes et des enfants qui vivent dans la rue ont fui la violence qui sévissait dans leurs foyers, et que 63 % des garçons de 11 à 20 ans condamnés à la 
+prison pour homicide ont tué les hommes qui battaient leurs 
+mères (Sénat 1991, 2
+e partie, p. 142). Alors cependant que la 
+violence des bandes, les meurtres et autres formes de crimes perpétrés par des Noirs contre des Noirs suscitent toujours plus de débats dans les milieux politiques afro-américains, les thèses 
+patriarcales sur le genre et le pouvoir empêchent que la violence 
+conjugale soit elle aussi rec onnue comme une conséquence in-
+contestable de la criminalité qui se développe au sein de la communauté noire. 
+Ceux qui à l’instar d’Ali justifie nt la violence contre les femmes 
+au nom de la libération des Noirs représentent certes des cas 
+extrêmes, mais le fait que les intérêts politiques ou culturels de 
+la communauté soient interprétés de manière à prévenir la re-connaissance publique de la ques tion de la violence conjugale 
+pose un problème récurrent. Même s’il est abusif de prétendre 
+que les blancs, aux États-Unis, reconnaissent plus franchement 
+le niveau de violence qui sévit dans leurs familles, il n’en est 
+pas moins vrai que dans les co mmunautés non blanches, la di-
+mension raciale complique encore le problème du refoulement de la violence conjugale. Face au x questions qui risquent de ren-
+forcer les idées fausses entretenues à propos de leurs commu-
+nautés, les gens de couleur sont souvent obligés de mettre en 
+balance leurs intérêts et la nécessité de reconnaître l’existence des problèmes intracommunautaires pour essayer de les régler. Reste qu’on admet trop rarement que le refoulement a un prix, avant tout parce que l’impuissance à débattre du problème em-pêche d’en percevoir toute la gravité. 
+La polémique autour du roman d’Alice Walker, La couleur 
+pourpre , peut s’interpréter comme un débat intracommunautaire 
+sur le coût politique de la dé nonciation de la violence genrée 
+dans la communauté noire. Certains de ses détracteurs ont du-rement reproché à Walker d’avoir dépeint les hommes noirs 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 66
+comme des brutes irascibles (Early 1988, p. 9 ; Pinckney 1987, 
+p. 17). D’autres l’ont attaquée à cause du portrait de Celie, 
+l’héroïne maltraitée affectivement et physiquement qui triomphe 
+à la fin. Une critique (Harris 1984, p. 155) est allée jusqu’à sou-tenir que Walker avait créé av ec Celie un personnage de femme 
+noire inconcevable dans les co mmunautés noires qu’elle connais-
+sait ou pouvait imaginer. 
+Cette dénonciation du caractère en quelque sorte inauthentique 
+de Celie peut se lire comme une conséquence du silence entre-tenu autour de la violence intracommunautaire. Si Celie ne res-semble à aucune Noire de notre connaissance, n’est-ce pas parce 
+que la terreur bien réelle que les femmes des groupes mino-
+ritaires vivent au quotidien est systématiquement recouverte par 
+des tentatives malheureuses (quoi que peut-être compréhensibles) 
+pour contenir les stéréotypes racistes ? On ne peut bien sûr pas nier que, statistiques ou fictionnelles, la plupart des représenta-tions de la violence noire trouvent leur place dans un scénario plus vaste qui invariablement fait de la violence pathologique la 
+caractéristique par excellence de la communauté noire. Le pro-
+blème tient cependant moins au portrait ainsi brossé de la vio-lence elle-même qu’à l’absence d’autres récits et d’autres images qui donneraient une vision plus co mplète de ce que vivent les 
+Noir(e)s. Taire un certain nombre de ces questions au nom de 
+l’antiracisme se paye d’un prix bien réel. Si les informations sur 
+la violence conjugale dans les groupes minoritaires ne sont pas communiquées, il y a peu de chance que le problème soit pris au sérieux. 
+Les impératifs politiques d’une stratégie antiraciste trop étroi-
+tement ciblée confortent d’autres pratiques ayant pour effet d’isoler 
+les femmes de couleur. Les milita nts qui s’efforcent de fournir 
+des services d’assistance aux femmes des communautés asiatiques et afro-américaines font ainsi état de la résistance farouche que leur opposent parfois les représentants de ces communautés et leurs institutions 
+15. 
+ 
+15 Les sources de cette résistance font apparaître une différence intéressante entre 
+les communautés asiatico-américaine et afro-américaine. Dans cette dernière, 
+la résistance vient généralement de la volonté de ne pas accréditer les stéréo-
+types négatifs qui présentent les Afro-A méricains comme des individus intrin-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 67
+La race et la culture participent de bien d’autres façons à 
+maintenir cette chape de silence sur la violence conjugale. La 
+répugnance de nombreuses femmes de couleur à prévenir les 
+services de police s’explique pr obablement par les réticences des 
+gens de couleur à soumettre leurs vies privées à l’examen et au contrôle de forces de l’ordre réputées pour leur être hostiles. On peut aussi invoquer l’opposition pl us générale à l’intervention 
+des pouvoirs publics, sorte d’éthique communautaire née du 
+désir de se créer un espace privé, protégé des agressions diverses 
+qui dans l’espace public visent les personnes subordonnées en raison de leur race. À cet égard, la maison n’est pas simplement le lieu où l’homme règne en maître, comme le veut le patriarcat ; 
+c’est aussi un havre où vivre à l’ abri des humiliations de la 
+société raciste. Dans bien des cas, les femmes de couleur ont d’autant plus de mal à demander protection contre les violences familiales qu’elles désirent just ement protéger ce havre que re-
+présente la maison contre les ag ressions du monde extérieur. 
+Enfin, le discours antiraciste considère volontiers que le pro-
+blème de la violence contre les femmes de couleur n’est jamais 
+qu’une des manifestations du raci sme. Selon ce point de vue, la 
+domination masculine qui s’exerce dans la communauté appa-raît comme une conséquence de la discrimination raciale dont les hommes sont l’objet. Il est sans doute vrai, bien sûr, que le 
+racisme participe à entretenir le cycle de la violence, étant 
+donné le stress qui dans la sociét é dominante est le lot de la 
+majorité des hommes de couleu r. Raison pour laquelle il paraît 
+ 
+sèquement violents ; les membres des communautés asiatiques ont davantage 
+le souci de ne pas ternir le mythe d’ une minorité exemplaire (Entretien avec 
+Nilda Rimonte, directrice du refuge Ev erywoman Shelter de Los Angeles, 19 
+avril 1991). Le 14 janvier 1991, le sénateur démocrate Joseph Biden (Delaware) 
+a présenté au Sénat le 15e projet de la loi sur les violences contre les femmes 
+adoptée la même année (S15, 102e Cong. 1re session, 1991). Ce texte législatif 
+complet sur la criminalité contre les femmes est assorti d’un ensemble de 
+mesures destinées à assurer leur sécurité dans la rue, à la maison et sur les 
+campus. Plus précisé ment, son titre III institue un recours en droit civil pour 
+les agressions perpétrées en raison du sexe de la victime (+ 52, 301). Les atten-
+dus de cette loi précisent notamment : 1) « Les crimes motivés par le sexe de 
+la victime sont des crimes de haine co mmis en violation du droit de la victime 
+à ne subir aucune discrimination en raison de son sexe », et 2) « La loi actuelle 
+[ne prévoit pas de recours au civil] pour les crimes sexistes commis dans 
+l’espace public ou privé » (S. Rep., n° 197, 102e Cong., 1re session, 27, 1991). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 68
+plus que raisonnable d’étudier de près le lien entre racisme et 
+violence conjugale. Très complexe, la chaîne de la violence com-
+prend toutefois bien d’autres maillons. De plus, les arguments selon lesquels la violence conjugale dans les communautés de couleur serait l’expression des frust rations engendrées par le déni 
+de l’autorité masculine dans d’ autres sphères sont souvent asso-
+ciés à des raisonnements qui règlent la question par la suppres-
+sion définitive des disparités de pouvoir entre hommes de couleur 
+et hommes blancs. Pour autant qu’elle viserait effectivement à résoudre le problème de la vi olence, la démonstration paraît 
+néanmoins contre-productive : d’ abord parce qu’il arrive que des 
+hommes en position de pouvoir et de prestige maltraitent des 
+femmes, ensuite et surtout parce qu’elle valorise des représen-
+tations dominantes et socialement néfastes du pouvoir masculin. Il est plus productif — car davant age dans l’intérêt aussi bien 
+des femmes et des enfants que des autres hommes — de com-battre ces images séduisantes d’un pouvoir masculin fondé sur la menace ultime de la violence en tant que mesure légitime de 
+la capacité d’action des hommes. Un des moyens de remettre en 
+cause la légitimité de cette défi nition du pouvoir et des attentes 
+qu’elle suscite consiste à expo ser les dysfonctionnements et la 
+fragilisation qu’elle implique pour les familles et les communautés de couleur. De plus, si la compréhension des liens unissant le 
+racisme à la violence conjugale est un élément important de 
+toute stratégie d’intervention efficace, à l’évidence les femmes de couleur ne doivent pas attendre que le racisme ait été défini-tivement terrassé pour espérer vivre un jour une vie libérée de la violence. 
+La question de la race 
+et la dénonciation de la violence conjugale 
+Non seulement les priorités défi nies en fonction de la race 
+contribuent à occulter le problè me de la violence contre les 
+femmes de couleur, mais, de plus , les stratégies rhétoriques pour 
+politiser la violence contre les femmes en général ont parfois pour effet de redoubler la marg inalisation politique des femmes 
+de couleur. Les stratégies destinées à sensibiliser l’opinion au 
+problème de la violence conjugale prennent souvent pour point 
+de départ l’hypothèse communém ent admise voulant que ce phé-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 69
+nomène concerne « les autres » — en clair les familles défavo-
+risées ou « immigrées ». Elles s’attachent ensuite à dissiper cette 
+pieuse illusion en insistant sur la fréquence de la violence con-
+jugale dans les communautés de l’élite blanche. Certains auteurs recommandent explicitement d’abandonner les idées toutes faites à propos des femmes battues (Sénat 1991, 2
+e partie, p. 139). 
+D’aucuns, modifiant le message sur le fait que la violence 
+conjugale ne concerne pas exclusivement les groupes défavo-
+risés ou les communautés immigr ées, vont jus qu’à affirmer 
+qu’elle touche également toutes les races et les classes sociales 
+(Borgmann 1990). Il semble d’aill eurs que cette observation soit 
+un thème récurrent des campagnes anti-violence (Sénat 1991, 
+1re partie, p. 101 ; 2e partie, p. 89 et 139). Les anecdotes per-
+sonnelles et les enquêtes revienne nt invariablement sur le fait que 
+la violence se joue autant du niveau d’études que des barrières raciales, ethniques, économiqu es et religieuses (Walker 1989, 
+p. 10-12 ; Straus, Gelles et Steinmetz 1980, p. 31 ; Clark 1987, p. 182, n. 74). Maints témoignage s relatés à la pr emière personne 
+commencent par une déclaration du type « Je n’avais pas le profil 
+d’une femme battue » — formule qui renvoie évidemment à une 
+vision plus plausible de ce que doit être une femme battue : quelqu’un dont les origines raciales ou sociales sont suffisam-ment éloignées de celles de la locutrice pour produire cette iro-
+nie de situation. Jouer du contraste entre les mythes entretenus 
+autour de la violence et ses manifestations réelles permet effec-tivement de remettre en cause quel ques convictions tenaces sur la 
+fréquence de la violence conjugale dans la société américaine. 
+La tactique est pourtant d’un maniement délicat, car en réi-
+fiant ces victimes de la violence que sont « les autres femmes », 
+elle risque du même coup de c onduire à leur effacement. La dé-
+nonciation des stéréotypes véhicu lés par les conceptions domi-
+nantes de la violence conjugale procède certes d’une stratégie à la fois féministe et antiraciste : en soulignant le caractère universel de cette violence, elle prive les élites de leur sécurité 
+illusoire et donne aux familles qui n’en font pas partie une 
+raison de ne pas être tout le temp s sur la défensive. De plus, les 
+femmes battues ont vraisemblablement beaucoup à gagner à savoir qu’elles sont loin de c onstituer chacune des cas isolés. 
+Peu de choses, néanmoins, séparent la démythification des idées 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 70
+reçues sur la violence conjugale (qui serait le propre des classes 
+pauvres et des groupes minoritaires), de leur oblitération au pro-
+fit d’un intérêt exclusif pour des victimes susceptibles d’exciter la compassion des politiciens et des médias. Les défenseurs de cette cause n’ont probablement pa s pour intention de jouer sur 
+ces cordes sensibles — et il n’est d’ailleurs pas sûr que les réactions favorables qu’elles suscitent soient le reflet de telles 
+sensibilités —, mais le discours des élites au pouvoir sur les 
+femmes battues et les représentations dont il s’accompagne ont de quoi inquiéter. Tant que les tentatives pour faire de la vio-
+lence conjugale une question po litique viseront à convaincre les 
+élites que le problème, loin d’être « marginal », les concerne di-
+rectement, il est à craindre qu’une véritable prise en considéra-
+tion des expériences vécues par les femmes « marginalisées » con-tinue de paraître dangereuse pour l’ensemble du mouvement. 
+L’inclusion purement symbolique, objectivante, voyeuriste 
+des femmes de couleur est au moins aussi aliénante que leur exclusion totale. La volonté de politiser la violence conjugale 
+ne leur sera pas d’une grande utilité si les représentations qu’on 
+a d’elles servent simplement à grossir le problème et non à humaniser leurs expériences propres. De même, nier haut et fort la réalité des violences dans les gr oupes minoritaires ne sert guère 
+la cause de l’antiracisme. Les im ages et les stéréotypes qui nous 
+effraient ne demandent en effet qu’ à être exploités, et le sont 
+souvent sur des modes peu faits pour favoriser la compréhension fine de la nature de la violen ce conjugale dans les communautés 
+minoritaires. 
+La question de la race 
+et le soutien aux victimes de la violence conjugale 
+Les femmes qui combattent les violences conjugales repro-
+duisent parfois la subordination et la marginalisation des femmes 
+de couleur en adoptant des politiques, des priorités ou des stra-tégies d’émancipation qui gomment ou négligent complètement les besoins intersectionnels partic uliers des femmes de couleur. 
+Dans la mesure où les recoupements entre genre, classe et race créent le contexte singulier à l’in térieur duquel ces dernières vivent 
+la violence, certains des choix de leurs « alliées » risquent de re-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 71
+produire la subordination intersec tionnelle jusque dans les stra-
+tégies mêmes de résistance élaborées en réponse au problème. 
+Les féministes ne peuvent pas être tenues pour exclusivement 
+responsables des diverses réactions suscitées par leurs initiatives. 
+On exige d’ordinaire bien davantage du pouvoir qu’il ne donne. Il n’en reste pas moins que dans certaines situations les inter-ventions féministes méritent d’ être critiquées parce qu’elles mar-
+ginalisent les femmes de couleur. 
+Ce problème est crûment illustré par le fait que les services 
+d’assistance aux victimes de la violence conjugale restent in-accessibles aux femmes ne parlant pas l’anglais. Dans une lettre adressée au responsable adjoint de la direction des Affaires 
+sociales de l’État de New York, Diana Campos, directrice des 
+services à la personne de 
+PODER (Programas de Ocupaciones y 
+Desarrollo Economico Real) e xpose en détail le cas d’une 
+Hispanique qui malgré sa situation critique s’est régulièrement vu refuser un hébergement en re fuge parce qu’elle ne pouvait 
+prouver sa parfaite maîtrise de l’anglais. 
+En dépit de sa situation désespérée, cette femme n’a pu béné-
+ficier de la protection accordée aux femmes de langue anglaise à cause de la politique d’exclus ion observée par les responsables 
+du refuge. Leur refus d’autoriser un de ses amis ou parents à lui 
+servir d’interprète est peut-être plus troublant encore que le 
+manque de ressources bilingues de l’établissement. Ce cas 
+illustre l’absurdité d’une approc he féministe selon laquelle le 
+fait de pouvoir se passer d’interprè te dans une structure de sou-
+tien est un paramètre plus déterminant pour la distribution des ressources que le risque d’être physiquement agressée dans la 
+rue. Ce qui est ici en cause, ce n’est pas tant l’inconsistance de 
+l’image de l’émancipation priv ilégiée par ce refuge, que la 
+volonté de l’imposer coûte que c oûte, sans voir qu’elle aggrave 
+la situation de dépossession des femmes n’entrant pas dans la catégorie de « clientèle » imaginée par la direction de l’établis-sement. En agissant ainsi, les res ponsables trahissent la priorité 
+fondamentale du mouvement de défense des femmes battues, à 
+savoir les soustraire au danger. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 72
+Une femme objectivement en danger a donc dû supporter les 
+conséquences du refus de ce refuge d’anticiper et de pallier les 
+besoins des femmes non anglophones. 
+Il est injuste, [commente à ce propos Campos] , d’ajouter au stress 
+des victimes en les mettant en demeure de démontrer qu’elles 
+maîtrisent l’anglais pour pouvoir bénéficier de services facile-
+ment accessibles aux autres femmes battues. 
+Il ne suffit pas d’invoquer l’ignorance bien intentionnée pour 
+évacuer le problème. La question bien précise du mono-linguisme et la conception moniste de « l’expérience féminine » qui ont provoqué cette tragédie n’ont rien de nouveau dans 
+l’État de New York. Plusieurs femmes de couleur affirment avoir 
+à maintes reprises interpellé la Coalition contre les violences 
+conjugales à propos de cette exclusion linguistique et d’un cer-tain nombre d’autres pratiques co ntraires aux intérêts des femmes 
+de leurs communautés 
+16. Malgré des pressions renouvelées, la 
+coalition n’a rien fait pour élargir sa vision de l’organisation aux besoins spécifiques des non-blanches. 
+Cette incapacité tiendrait, selon certains, à la vision étriquée 
+qui a inspiré ses relations avec les femmes de couleur. Les efforts pour inclure ces dernières ont toujours, semble-t-il, été engagés après-coup. Beaucoup n’ont été invitées à participer qu’à partir du moment où la co alition a reçu une subvention de 
+l’État pour recruter des femmes de couleur. Ainsi que le précise 
+toutefois une de ces « recrues » : 
+Elles n’étaient pas vraiment prêtes à s’occuper de nous ou de 
+nos problèmes. Elles croyaient qu’elles allaient simplement pou-
+ 
+16 Table ronde sur le racisme et les m ouvements contre la violence conjugale, 
+2 avril 1992 (transcription archivée à la Stanford Law Review ). Les trois inter-
+venantes (Diana Campos, directrice du Projet bilingue en direction des groupes 
+défavorisés proposé par la Coalition de l’État de New Yo rk contre les vio-
+lences conjugales ; Elsa A. Rios, res ponsable du Projet d’intervention en fa-
+veur des femmes victimes de violence mis en place à Harlem Est ; et Haydee 
+Rosario, assistante sociale à Harlem Est et bénévole dans le Projet d’inter-
+vention) ont fait état des conflits d’ordr e racial et culturel dont elles ont été 
+témoins lorsqu’elles travaillaient avec la Coalition contre les violences conju-
+gales de l’État de New York, un organism e de surveillance chargé de répartir 
+les ressources entre les refuges pour femme s battues de l’État et, sur un plan 
+plus général, de fixer les priorités des refuges faisant partie de la coalition. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 73
+voir nous intégrer dans leur organi sation sans réexaminer aucune 
+de leurs certitudes sur les priorités, et que ça nous irait. 
+Même les gestes d’inclusion les plus formels n’allaient pas de 
+soi. Lors d’une réunion à laquelle assistaient plusieurs femmes de 
+couleur venues pour parler de la création d’un détachement de 
+police sensibilisé à leurs problèmes, le groupe a débattu toute la journée de la nécessité d’inscrire la question à l’ordre du jour. 
+Au comité de direction, les rapports entre blanches et femmes 
+de couleur ont été houleux du début à la fin. D’autres conflits 
+ont surgi à propos de définitions divergentes du féminisme. Alors, 
+par exemple, que le comité avait décidé d’engager une personne issue d’un milieu hispanique pour gérer les programmes des-
+tinés à cette communauté, les bl anches qui siégeaient à la com-
+mission de recrutement ont rejeté les candidates ne pouvant se 
+prévaloir de références féministes reconnues, y compris quand 
+ces femmes étaient soutenues par les membres hispaniques de ladite commission. Campos fait justement remarquer qu’en éva-luant les compétences de ces candidates à l’aune de leur propre parcours, les blanches refusaient de reconnaître que le dévelop-
+pement et l’affirmation de la conscience féministe ne se font pas 
+dans les mêmes conditions selon qu’on appartient ou non à un 
+groupe minoritaire. Les femmes qui se sont présentées à ce poste 
+étaient pour beaucoup des militantes en vue, voire des meneuses au sein de leur communauté, ce qui donne à penser qu’elles 
+connaissaient bien la dynamique de genre qui lui est propre et 
+étaient par conséquent mieux qualifiées que d’autres candidates, 
+aux références féministes plus conventionnelles, pour gérer les 
+programmes s’adressant spécifique ment aux plus démunies dans 
+la communauté. 
+La coalition a éclaté quelques mois plus tard, avec le départ 
+des femmes de couleur. La plupart d’entre elles sont retournées 
+travailler dans des organisations à vocation communautaire, car elles préféraient se battre contre les leurs sur la question des femmes plutôt que de s’affronter avec des bourgeoises blanches sur des questions de race et de classe. Comme le montre néan-moins le cas de cette femme hispanique qui n’a pu trouver de 
+place en refuge, les besoins des femmes de couleur sont tou-
+jours marginalisés par la prévalence, manifeste chez les res-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 74
+ponsables des refuges, d’une pers pective particulière et d’un 
+ensemble défini de priorités. 
+La polémique qui oppose les femmes autour des différences 
+jugées ou non importantes n’est ni abstraite ni insignifiante. Les différences, d’ailleurs, ne sont pas seules en jeu dans ces conflits 
+qui soulèvent des questions décisives à propos du pouvoir. Le problème, en l’occurrence, ne vient pas simplement de ce que 
+les femmes qui dominent le m ouvement contre les violences 
+conjugales soient différentes des femmes de couleur, mais de ce qu’elles ont généralement le pouvoi r de déterminer — au moyen 
+de ressources matérielles ou discu rsives — si et dans quelle 
+mesure la formulation de base de la politique va intégrer les 
+différences intersectionnelles des femmes de couleur. Le débat 
+très vif sur la prise en compte de ces différences n’a donc rien d’une rivalité mesquine ou superficielle pour des histoires de préséance. Dans le contexte de la violence, son enjeu, terrible-ment sérieux, est parfois ni plus ni moins de savoir qui va survivre — et qui disparaître. 
+Conclusion 
+Cet article a présenté l’inte rsectionnalité comme un outil pour 
+mieux cerner les diverses interactions de la race et du genre dans le contexte de la violence contre les femmes de couleur. Je me sers de ce concept pour e xposer, sur un plan général, com-
+ment le racisme et le patriarcat s’influencent réciproquement. Je 
+l’utilise aussi pour décrire la s ituation des femmes de couleur, 
+placées à la fois dans des systèmes de subordination qui se re-coupent et aux marges des mouvements féministe et antiraciste. 
+La volonté de politiser la viol ence contre les femmes laissera 
+largement de côté les expériences des non-blanches tant qu’on 
+continuera de fermer les yeux su r les ramifications de la stra-
+tification raciale chez les femmes. Parallèlement, ce n’est pas en gommant la réalité de la violence intraraciale qui frappe les femmes de couleur qu’on fera progresser l’antiracisme. Cette double marginalisation a pour effet d’ôter aux femmes de couleur 
+toute possibilité de rattacher leurs propres expériences à celles 
+que vivent les autres femmes. D’où un sentiment d’isolement, 
+qui non seulement contrarie les efforts pour politiser la violence 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 75
+genrée dans les communautés de couleur, mais entretient qui 
+plus est le silence de mort qui entoure ces questions. 
+Je voudrais suggérer que l’intersec tionnalité permet d’alléger 
+un peu la tension entre les revendi cations de l’identité multiple 
+et la nécessité jamais démentie d’ une politique identitaire. Il est 
+utile, à cet égard, de la distingue r de la perspective très proche 
+de l’anti-essentialisme, à partir de laquelle les fe mmes de couleur 
+mettent doublement en cause le féminisme blanc : parce qu’il 
+s’est construit sur leur absence, et parce qu’il parle en leur nom. Une des interprétations de cette critique anti-essentialiste — soit l’essentialisation de la catégorie « femme » par le féminisme — doit beaucoup à l’idée postmode rne voulant que les catégories 
+tenues pour naturelles ou simplement représentatives soient en 
+réalité construites socialement dans une économie linguistique 
+de la différence 
+17. Si dans l’ensemble le projet descriptif du post-
+modernisme d’interroger les modes de construction sociale du sens est bienvenu, en revanche ce tte critique se méprend parfois 
+sur le sens de la construction sociale et en déforme la pertinence 
+politique. 
+Une version de l’anti-essentialisme — la thèse en quelque 
+sorte vulgarisée de la construction sociale — soutient que puis-que toutes les catégories sont socialement construites, ni les « Noirs » ni les « femmes », par exemple, n’existent, et que re-
+produire sempiternellement ces caté gories en s’organisant autour 
+d’elles ne rime donc pas à grand-chose 
+18. 
+Dire cependant qu’une catégorie telle que la race ou le genre 
+est socialement construite, ce n’est pas affirmer qu’elle compte pour rien dans notre monde. Un projet de longue haleine en 
+faveur des classes subordonnées — l’un de ceux pour lesquels 
+les théories postmodernes se sont d’ailleurs révélées les plus 
+ 
+17 Je fais après d’autres ce lien en tre anti-essentialisme et postmodernisme. 
+Cf., sur un plan général, Nicholson (1990). 
+18 Je ne veux pas insinuer par là que tous les théoriciens et théoriciennes qui 
+ont formulé des critiques anti-essentialis tes donneraient dans ce construction-
+nisme vulgaire. Les anti-essentialistes s’abstiennent d’ailleurs de ces initia-
+tives déconcertantes et seraient sûrement ouverts à l’essentiel de la critique ici 
+avancée. Parler de constr uctionnisme vulgaire me pe rmet de distinguer entre 
+ces anti-essentialistes qui ménagent la politique de l’identité et les autres, qui 
+s’y refusent. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 76
+utiles — consiste au contraire à réfléchir à la façon dont le pou-
+voir se rassemble autour de certaines catégories et s’exerce contre 
+d’autres. Il entend démasquer les processus de subordination et les divers modes sur lesquels ils sont vécus par les subordonnés ou les privilégiés. Il présume donc que les catégories ont à la fois et du sens, et des conséquences. Le problème le plus pres-sant rencontré dans la plupart d es cas, sinon dans tous, n’est pas 
+l’existence des catégories mais bien les valeurs particulières qui 
+leur sont attachées, et la manière dont ces valeurs créent les hiérarchies sociales et les entretiennent. 
+Il ne s’agit pas de nier que le processus de catégorisation soit 
+lui-même un exercice de pouvoir, seulement l’histoire est beau-
+coup plus compliquée et nuancée que cela. Tout d’abord, la 
+catégorisation, ou la dénomina tion pour emprunter au langage 
+de l’identité, ne se fait pas de façon unilatérale. Les subor-
+donnés peuvent y participer, et cela les amène parfois à sub-vertir le processus de dénomination dans le sens de leur éman-cipation. Il suffit de penser à la subversion historique de la 
+catégorie « Noir », ou à la transformation actuelle du mot 
+« queer 
+19 », pour comprendre que la catégorisation ne se fait 
+pas à sens unique. Le pouvoir est à l’évidence inégal, mais cela 
+n’empêche pas les gens d’être capables jusqu’à un certain point d’intervenir dans la politique de dénomination. Il est important 
+de noter que l’identité constitue toujours un lieu de résistance 
+pour les membres de différents groupes subordonnés. Tous nous pouvons faire la distinction entre ces deux déclarations : « Je suis noir(e) » ; « Je suis une personne et il se trouve que je suis noir(e) ». La première, « Je suis noir(e) », s’empare de l’identité 
+socialement imposée pour y amarrer fortement la subjectivité : 
+« Je suis noir(e) » devient ainsi non pas simplement une 
+ 
+19 Queer signifie « bizarre », au sens de « louche », et en argot courant c’est 
+une injure lancée à ceux qu’on veut trai ter de « pédé » ou de « gouine ». Un 
+peu comme ces deux termes en France, il a été repris dans les années quatre-
+vingt par les gays et les lesbiennes des États-Unis, pui s en est venu à désigner, 
+au-delà de l’ensemble des pratiques et comportements sexuels autres que stric-
+tement hétérosexuels, celle s et ceux qui par l’orientation sexuelle ou leur iden-
+tité de genre refusent de se conformer à la norme. J udith Butler (1993), compare 
+d’ailleurs l’évolution de ce term e à celle qu’a connue le mot nigger (« nègre ») 
+tel qu’il est parfois utilisé dans la communauté a fro-américaine ( NDLT ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 77
+déclaration de résistance, mais une affirmation positive de 
+l’identification personnelle, intimement liée à des énoncés valo-
+risants tel le slogan nationaliste Black is beautiful . Dans la 
+seconde, « Je suis une personne et il se trouve que je suis 
+noir(e) », l’identification personne lle réclame le passage par une 
+certaine universalité (« Je suis d’abord une personne ») et le 
+rejet concomitant de la catégor ie imposée (noir(e)), tenue pour 
+contingente, circonstancielle, non déterminante. Ces deux pré-
+sentations contiennent chacune une pa rt de vérité, bien sûr, mais 
+elles fonctionnent très différemment selon le contexte politique. Arrivés en ce point, il nous faut affirmer avec force que pour les groupes maintenus dans une situa tion de dépendance, la stra-
+tégie de résistance la plus fructueuse consiste à occuper le terrain 
+pour défendre une politique de la lo calisation sociale, au lieu de 
+vider les lieux et de saborder cette politique. 
+Le constructionnisme vulgaire déforme par conséquent les 
+possibilités existantes de mener une politique de l’identité qui ait du sens, car il confond au moins deux manifestations dis-
+tinctes, mais étroitement liées, du pouvoir. L’une correspond au 
+pouvoir tel qu’il s’exerce simplement dans le processus de la catégorisation ; l’autre a trait au pouvoir qui induit des consé-quences sociales et matérielles de cette catégorisation. Si la première ouvre la voie à la sec onde, les implications politiques 
+de leur remise en cause récipr oque vont très loin. En examinant 
+les débats sur la subordination raciale qui jalonnent l’histoire, on voit que, dans chaque cas, la contestation pouvait porter soit 
+sur la construction de l’identité soit sur le système de subordi-nation fondé sur cette identité. Prenons par exemple le système 
+de ségrégation au cœur de l’affaire Plessy versus Ferguson (163 
+US 537, 1896), motivée par maintes dimensions de la domina-
+tion raciale dont la catégorisation, le signe de la race, et la su-bordination des personnes ainsi s tigmatisées. Plessy avait deux 
+angles d’attaque possibles : la constr uction de l’identité (« Qu’est-
+ce qu’un Noir ? »), et le système de subordination qui en dé-
+coule (« Noirs et blancs peuvent-ils s’asseoir ensemble dans un 
+même wagon de chemin de fer ? »). Plessy a effectivement sou-
+levé ces deux questions, en dénon çant tant la cohérence de la 
+catégorie de race que la subordination des personnes décrétées de race noire. Pour ce qui est du premier point, il fit valoir 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 78
+qu’étant donné son statut de méti s, la loi sur la ségrégation ne 
+devait pas lui être appliquée. Refusant de voir dans l’argument 
+un coup porté à la cohérence du sy stème racial, la Cour suprême 
+s’est simplement contentée de reproduire la dichotomie Noir/blanc contestée par Plessy : puisqu’il n’était pas blanc, en vertu de ses ancêtres colorés, le fait de n’être pas traité comme un blanc ne lui portait nullement préjudice. On sait que Plessy n’a pas 
+mieux réussi à remettre en cause les pratiques ségrégationnistes 
+à l’encontre des non-blancs. Lors qu’on évalue aujourd’hui les 
+stratégies de résistance possibles, il peut être utile de se deman-
+der lequel des deux combats engagé s par Plessy dans l’affaire il 
+aurait le mieux valu gagner : celui sur la cohérence du système 
+de catégorisation raciale, ou celui contre la pratique de la 
+ségrégation ? 
+La même question se pose à propos de l’affaire Brown versus 
+Board of Education (397 
+US 483, 1954). Entre ces deux argu-
+ments possibles sur l’inconstitutionna lité de la ségrégation, quel 
+est celui qui servait mieux la cause de l’émancipation : imputer 
+cette inconstitutionnalité à l’incohérence du système d’organisation 
+raciale légitimant la ségrégation, ou soutenir qu’en portant tort 
+aux enfants catégorisés comme Noirs elle opprimait l’ensemble de la communauté noire 
+20 ? 
+Même si certains trouvent la qu estion difficile, pour l’essentiel 
+la dimension de la domination raci ale la plus déconcertante, du 
+point de vue des Afro-Américains, n’aura pas été la catégorisa-tion raciale en tant que telle mais les innombrables procédés utilisés pour assurer systématiquement la subordination de ceux d’entre nous qui se voient ainsi définis. S’agissant en particulier 
+des problèmes auxque ls sont confrontées le s femmes de couleur, 
+ 
+20 Cette affaire est un jalon important dans la lutte contre la ségrégation. La 
+Cour suprême a annulé à cette occasion l’ arrêt rendu dans l’af faire précédente 
+(Plessy versus Ferguson), lequel justifiait la ségrégation au nom du principe 
+separate but equal formulé pour contourner le 14e amendement (introduit en 
+1868, ce dernier octroie la citoyenneté à toute personne née aux États-Unis et 
+impose aux États de l’Union d’accorder à tous les citoyens la même protection 
+juridique). Alors qu’en 1896 l’arrêt Plessy versus Ferguson avait entériné la 
+ségrégation en la déclarant conforme à la Constitution, en 1954, les neuf juges 
+de la Cour suprême ont au contraire statué à l’unanimité sur l’inconstitution-
+nalité de la doctrine separate but equal , au moins s’agissant du domaine de 
+l’enseignement. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 79
+lorsque, comme cela arrive souvent, les politiques de l’identité 
+échouent à tenir leurs promesses, ce n’est pas en premier lieu 
+parce qu’elles prennent à tort pour naturelles des catégories so-cialement construites, mais parce que le contenu descriptif de ces catégories et les récits qui les fondent ont privilégié cer-taines expériences au détriment d’autres. 
+Envisageons dans cette optique le scandale Clarence Thomas/ 
+Anita Hill. Lors des auditions or ganisées au Sénat pour confirmer 
+la nomination de Clarence Thomas à la Cour suprême, si Anita 
+Hill, qui accusait Thomas de harcèlement sexuel, s’est vue dépos-sédée de ses arguments, c’est en partie parce qu’elle s’est re-trouvée coincée entre les interpréta tions dominantes du féminisme 
+et de l’antiracisme. Prise entre deux tropes narratifs concurrents 
+— d’un côté le viol, mis en avant par les féministes, de l’autre le lynchage, mis en avant par Thomas et ses partisans —, elle ne pouvait rien dire des dimensions raciale et genrée de sa position. On pourrait présen ter ce dilemme comme la consé-
+quence de l’essentialisation de l’« être noir » par l’antiracisme 
+et de l’« être femme » par le féminisme. Cela ne nous mène 
+cependant pas assez loin, car le problème n’est pas simplement de nature linguistique ou philosophique. Il est spécifiquement politique : ce qui est dit du genre l’est à partir de l’expérience 
+des bourgeoises blanches ; ce qui est dit de la race l’est à partir 
+de l’expérience des Noirs de sexe masculin. La solution ne passe 
+pas simplement par une défense de la multiplicité des identités 
+ou une remise en cause de l’essentialisme en général. Dans le cas de Hill, par exemple, il aurait au contraire fallu affirmer ces aspects fondamentaux de sa positio n (ou de sa « localisation ») 
+qui précisément étaient gommés, y compris par ses défenseurs. 
+En d’autres termes, il aurait fallu préciser quelle différence faisait sa différence. 
+Si, comme je l’affirme, l’histoire et le contexte déterminent 
+l’utilité de la politique de l’identité, comment comprendre cette politique aujourd’hui, notamment à la lumière de la reconnais-
+sance des multiples dimensions de l’identité ? Plus précisément, 
+qu’entendons-nous lorsque nous avançons que les discours anti-
+racistes occultent les identités de genre de même que les discours féministes occultent les identités de race ? Est-ce que cela signi-fie que nous ne pouvons pas parler de l’identité ? Ou que tout 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 80
+discours s’y rapportant doit rec onnaître que la construction de 
+nos identités passe par l’intersection de dimensions multiples ? 
+Pour commencer à répondre à ces qu estions, il faut au préalable 
+reconnaître que les groupes identitaires organisés dans lesquels nous nous retrouvons sont en fait des coalitions, ou à tout le 
+moins des coalitions potentielles qui attendent de se former. 
+Dans le contexte de l’antiracisme, ce n’est pas parce que 
+nous reconnaissons que la politique de l’identité telle qu’elle est 
+couramment comprise marginalise les expériences intersection-nelles des femmes de couleur que nous devons pour autant 
+renoncer à essayer de nous organiser en tant que communautés de couleur. L’intersectionnalité nous offre au contraire une base 
+pour reconceptualiser la race comme une coalition entre hommes 
+et femmes de couleur. Dans le cas du viol, par exemple, elle nous permet d’expliquer pourquoi les femmes de couleur doivent 
+laisser tomber l’argument général qui, au nom des intérêts de la race, recommande d’éviter tout affrontement sur la question du viol intraracial. Elle nous donne aussi les moyens de réfléchir à 
+d’autres formes de marginalisation. Ainsi la race peut-elle être 
+au départ d’une coalition d’hété rosexuels et d’homosexuels de 
+couleur, et servir de la sorte de point d’appui à une critique des églises et des institutions culturelles qui reproduisent l’hétéro-sexisme. 
+Une fois l’identité ainsi r econceptualisée, sans doute 
+comprendrons-nous mieux — et pe ut-être trouverons-nous aussi 
+le courage de contester — la nécessité de ces groupes où après tout, en un sens, nous nous sentons « chez nous », en raison justement de ces parties de nous qui n’ont pas droit de cité 
+« chez nous ». La démarche demande énormément d’énergie et 
+suscite beaucoup d’angoisse. Au mieux nous pouvons espérer 
+oser alors dénoncer les exclusions et les marginalisations internes, 
+attirer l’attention sur la manière dont l’identité du « groupe » tout entier s’articule autour des identités intersectionnelles de quelques-un(e)s de ses membres. Reconnaître que la politique 
+de l’identité se développe au point d’intersection des catégories 
+paraît donc plus fructueux que co ntester la possibilité même de 
+dire quelque chose des catégories. En prenant conscience de l’intersectionnalité, nous devri ons mieux pouvoir identifier nos 
+différences et les justifier, négocier aussi les moyens grâce aux-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Cartographies des marges 81
+quels ces différences trouveront à s’exprimer dans la construc-
+tion de la politique du groupe. 
+Traduit de l’anglais (américain) par Oristelle Bonis 
+Références 
+Ali Shahrazad (1989). The Blackman’s Guide to Understanding the 
+Blackwoman . Philadelphia, Civilized Publications. 
+Banales Jorge (1990). « Abuse Among Immigrants. As Their Numbers 
+Grow So Does the Need for Services ». Washington Post , October 16. 
+Borgmann Caitlin (1990). « Battered Women’s Substantive Due Process 
+Claims: Can Orders of Protection Deflect DeShaney? » N.Y.U. Law 
+Review , n° 65. 
+Butler Judith (1993). Bodies that Matter: On the Discursive Limits of 
+« Sex » . New York, Routledge. 
+Clark Natalie Loder (1987). « Crime Begins At Home: Let’s Stop 
+Punishing Victims and Perpetuating Violence ». William & Mary 
+Law Review , n° 28. 
+Collins Patricia Hill (1990). Black Feminist Thought: Knowledge, 
+Consciousness and the Politics of Empowerment . Boston, Unwin 
+Hyman. 
+Crenshaw Kimberlé W. (1988). « Race, Reform and Retrenchment: 
+Transformation and Legitimation in Anti Discrimination Law ». 
+Harvard Law Review , n° 101. 
+Early Gerald (1988). « Her Picture in the Papers: Remembering Some 
+Black Women ». Antaeus , n° 9, Spring. 
+Field Hubert S., Bienen Leigh B. (1980). Jurors and Rape: A Study in 
+Psychology and Law . Lexington, MA, Lexington Books. 
+Harris Trudier (1984). « On the Color Purple, Stereotypes, and Silence ». 
+Black American Literature Forum , n° 18. 
+MacKinnon Catharine A. (1982). « Feminism, Marxism, Method and 
+the State: An Agenda for Theory ». Signs , n° 7. 
+Matthews Nancy Anne (1989). « Stopping Rape or Managing its 
+Consequences? State Intervention and Feminist Resistance in the 
+Los Angeles Anti-Rape Movement, 1972-1987 ». PhD. dissertation, University of California, Los Angeles. 
+Nicholson Linda (1990). Feminism/Postmodernism . New York, Routledge. 
+Pagelow Mildred Daley (1981). Woman-Battering: Victims and their 
+Experiences . Beverly Hills, Sage Publications. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Kimberlé Williams Crenshaw 82
+Pinckney Daryl (1987). « Black Victims, Black Villains ». New York 
+Review of Books , January 29. 
+Raspberry William (1989). « If We Are to Rescue American Families, 
+We Have to Save the Boys ». Chicago Tribune , July 19. 
+Richie Beth (1985). « Battered Black Women: A Challenge for the 
+Black Community ». The Black Scholar , n° 16. 
+Sénat (1991). « “Women and Violence”: Hearings Before the Senate 
+Committee on the Judiciary on Legi slation to Reduce the Growing 
+Problem of Violent Crime Against Women ». 101st Congress, 2d Session. 
+Straus Murray, Gelles Richard J ., Steinmetz Suzanne K. (1980). 
+Behind Closed Doors: Violence in the American Family . Garden 
+City, 
+NY, Anchor Press. 
+Thompson Tracey (1991). « Study Find s “Persistent” Racial Bias in 
+Area’s Rental Housing ». Washington Post , January 31. 
+Walker Alice (1982). The Color Purple . London, Women’s Press [(1986). 
+La couleur pourpre . Paris, Robert Laffont]. 
+Walker Lenore E. (1989). Terrifying Love: Why Battered Women Kill 
+and How Society Responds . New York, Harper & Row. 
+Walt Vivienne (1990). « Immigrant Abuse: Nowhere to Hide; Women 
+Fear Deportation, Experts Say ». Newsday , December 2. 
+Will George F. (1986a). « Vo ting Rights Won’t Fix It ». Washington 
+Post, January 23. 
+— (1986b). « “White Racism” Does n’t Make Blacks Mere Victims of 
+Fate ». Milwaukee Journal , February 21. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

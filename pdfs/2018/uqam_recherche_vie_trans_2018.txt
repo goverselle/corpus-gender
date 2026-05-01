@@ -1,0 +1,2455 @@
+UNIVERSITÉ DU QUÉBEC À MONTRÉAL 
+LA RECHERCHE SUR LA VIE DES PERSONNES TRANS : 
+LE POINT DE VUE DE PERSONNES CONCERNÉES 
+MÉMOIRE 
+PRÉSENTÉ 
+COMME EXIGENCE PARTIELLE 
+DE LA MAITRISE EN TRA V AIL SOCIAL 
+DE L'UNIVERSITÉ DU QUÉBEC À MONTRÉAL 
+PAR 
+CAROLINE DESROCHERS 
+NOVEMBRE 2018 
+
+UNIVERSITÉ DU QUÉBEC À MONTRÉAL 
+Service des bibliothèques 
+
+Avertissement 
+
+La diffusion de ce mémoire se fait dans le respect des droits de son auteur, qui a signé 
+le formulaire Autorisation de reproduire et de diffuser un travail de recherc he de cycles 
+supérieurs (SDU- 522 – Rév.10- 2015). Cette autorisation stipule que «conformément à 
+l’article 11 du Règlement no 8 des études de cycles supérieurs, [l’auteur] concède à 
+l’Université du Québec à Montréal une licence non exclusive d’utilisation et de 
+publication de la totalité ou d’une partie importante de [son] travail de recherche pour 
+des fins pédagogiques et non commerciales. Plus précisément, [l’auteur] autorise 
+l’Université du Québec à Montréal à reproduire, diffuser, prêter, distribuer ou vendre des 
+copies de [son] travail de recherche à des fins non commerciales sur quelque support 
+que ce soit, y compris l’Internet. Cette licence et cette autorisation n’entraînent pas une 
+renonciation de [la] part [de l’auteur] à [ses] droits moraux ni à [ses] droits de propriété 
+intellectuelle. Sauf entente contraire, [l’auteur] conserve la liberté de diffuser et de 
+commercialiser ou non ce travail dont [il] possède un exemplaire.» 
+
+REMERCIEMENTS 
+D'abord, il est impératif de remercier plusieurs membres de la population trans. Je 
+remercie premièrement les personnes rencontrées dans différents organismes, ainsi 
+que les informateurs clés qui m'ont accueillie et dont les propos m'ont inspirée le 
+concept de cette maîtrise. Un merci tout spécial à Gabrielle Bouchard, qui m'a 
+accompagnée pendant une longue partie de mon processus, me gratifiant de ses 
+commentaires plus que pertinents. Finalement, merci aux personnes qui ont accepté 
+généreusement de prêter leurs voix à ce travail de recherche, m'accordant ainsi leur 
+précieuse confiance. 
+Ensuite, un immense merci à François Huot et Janik Bastien-Charlebois, les directeurs 
+de cette recherche, qui m'ont soutenue et ont cru en mon potentiel, sans cesse, pendant 
+ces quatre années ou j'ai dû faire preuve d'une grande persévérance. Merci pour votre 
+disponibilité, votre suivi rigoureux, votre expérience, vos encouragements et votre 
+ouverture face à de mes idées. Je n'aurais pas pu terminer ma maîtrise sans votre suivi 
+de première classe! 
+Un merci chaleureux à tous et toutes mes collègues de maîtrise, dont la vivacité et les 
+convictions sociales ont égayé mon parcours et coloré spécialement la travailleuse 
+sociale en devenir que je suis. Merci également à ces échanges et réflections entre amis 
+et amies. Merci à Fred et Caro de m'avoir soutenue, même dans mes pires moments. 
+Merci à Pierre-Luc pour ta compréhension et ton soutien pendant la fin de mon 
+parcours. 
+111 
+En terminant, un merci affectueux à mes parents, qui m'ont épaulée pendant ce périple 
+paré d'incertitudes et de maladie ... Merci de vos encouragements continuels et de 
+votre support dans mes prises de décisions. Merci également aux membres de 
+!'Entraide DIJM, sans lesquels je n'aurais jamais eu l'idée de concevoir un tel 
+mémoire. Finalement, merci à ma tante Rachel pour son soutien financier, qui fut plus 
+qu'indispensable à la poursuite et à la finalité de mes activités de maîtrise. 
+DÉDICACE 
+Pour Gabrielle Bouchard, présidente 
+de la Fédération des Femmes du Québec, 
+grande intellectuelle et vulgarisatrice, qui 
+m'a toujours accueillie chaleureusement et 
+envers laquelle j'ai la plus profonde 
+reconnaissance. Elle fait partie de ces 
+personnes lumineuses, dont le seul contact 
+et la richesse intellectuelle ont transformé 
+mon rapport au monde. J'espère devenir une 
+travailleuse sociale aussi bienveillante 
+qu'elle le fut à mon égard ... 
+A V ANT-PROPOS 
+Frequently in situations of political disagreement, one faction assumes that they 
+know what it is like for others, or that they can put themselves in the place of the 
+others, or that they are really just like the others. 
+Iris Marion Young (2000: 77) 
+Ce mémoire vise à ne pas commettre une bévue, si dommageable pour des populations 
+minoritaires telles que celle des personnes trans. Plusieurs chercheurs ont tenté de se 
+mettre à la place de personnes faisant partie d'un groupe minoriraire. Dans le cas des 
+personnes trans, beaucoup de scientifiques se sont intéressés à leurs vécus, sans 
+toutefois tenir compte de leurs préoccupations, de leurs points de vue. Je ne voulais pas 
+assumer mieux comprendre qu'elles ce qui leur importe. J'ai donc choisi d'entendre 
+des personnes trans par le biais d'entrevues non dirigées. J'ai écouté leurs discours à 
+propos de ceux de chercheurs cis, qui, tout comme moi, se sont intéressés à leurs 
+situations et à leurs identités. J'espère ainsi mettre en évidence les critiques des 
+personnes trans à propos des ouvrages de recherche qui les ont abordées. 
+Avant d'accorder l'espace à la voix des participants à cette recherche, il me semble 
+pertinent de faire preuve de transparence en mentionnant pourquoi et comment, -en 
+tant que femme blanche cisgenre et hétérosexuelle, -j'en suis venue à m'intéresser aux 
+vies des personnes trans. Je procède ainsi étant donné ma conscience des rapports de 
+pouvoir entre personnes cis et personnes trans. 
+Vl 
+Au cours d'une expérience de bénévolat dans la communauté del' Arche de Nouvelle­
+Écosse, j'ai habité pendant un mois avec Rodney qui, même s'il 1 avait tout ( apparence 
+physique, timbre de voix grave, posture, etc.) de ce qui m'apparaissait être un homme 
+et se présentait ainsi publiquement, m'a confié qu'il se sentait plus comme une femme. 
+Nous avons longuement échangé à ce sujet. Puis un jour, Rodney m'a dit ceci: 
+« J'aimerais rencontrer quelqu'un qui m'aimera pour la femme que je suis.» Ses 
+paroles m'apparurent extrêmement percutantes à l'époque tant elles m'évoquaient un 
+sentiment de familiarité. En effet, en les entendant, je comprenais qu'en moi était 
+enfoui un désir tout à fait identique, celui d'être aimée pour la femme que je suis. Je 
+découvrais alors que Rodney et moi avions, malgré nos différences, un aspect 
+fondamental en commun. 
+Cette rencontre fut transformatrice en ce qui concerne ma manière de me percevoir, 
+d'assumer mon identité de genre et de vivre ma féminité. Désormais, être une femme 
+n'allait plus de soi. J'avais le pouvoir de me définir en tant que «telle», puis la 
+responsabilité de l'identifier. Je suis née avec un sexe féminin. Je suis devenue une 
+femme cisgenre ... 
+Je repense à la réflexion que j'ai menée, aux questionnements que j'ai eus à propos de 
+mon identité de genre à la suite de ma rencontre avec Rodney. Je suis convaincue que 
+le résultat de mon travail de maîtrise aurait été à cent lieux de celui que je vous présente 
+aujourd'hui si je n'avais pas eu cette réflexion. Je crois qu'il est incontournable qu'un 
+chercheur s'intéressant aux situations trans se retrouve dans des conditions lui 
+permettant de questionner son identité de genre et ait la curiosité de réfléchir à cet 
+aspect de son identité. Il est entre autres primordial que ce dernier se demande en quoi 
+1 Ici, j'utilise un pronom qui renvoit généralement au masculin, parce que la personne à laquelle je fais 
+allusion ne se définisait jamais publiquement autrement. Je respecte donc sa décision d'avoir assumé 
+son identité féminine seulement dans l'intimité, avec moi. 
+Vll 
+son rapport au monde diffère ou non de celui d'une personne trans ou cis. Merci 
+infiniment Rodney. 
+***** 
+Contexte de ce travail de recherche 
+Ce travail de recherche a débuté il y aura bientôt sept ans. Le projet de mémoire ayant 
+été approuvé en septembre 2013, le travail de terrain fut effectué en 2013-2014. 
+Quelques années plus tard, en 2018, j'en écris les dernières lignes. Il est donc à 
+considéré que ce mémoire implique un parcours qui s'étend sur plusieurs années, 
+pendant lesquelles il y eu un long moment d'arrêt en raison d'importants problèmes de 
+santé psychologique vécues par la chercheuse. 
+Par conséquent, bien que du temps ait été investi pour mettre les informations 
+contenues dans ce mémoire à jour, les limites rencontrées dans le temps n'ont pas 
+permis de compléter tous les ajusterments effectués. Particulièrement au niveau de 
+l'ajout des nombreuses nouvelles publications dans la problématique et dans le cadre 
+thérorique ainsi que l'intégration de ces points de vue dans la discussion des résultats. 
+TABLE DES MATIÈRES 
+REMERCIEMENTS ....................................................................................................... ii 
+A V ANT-PROPOS .......................................................................................................... V 
+TABLE DES MATIÈRES ........................................................................................... viii 
+RÉSUMÉ ....................................................................................................................... xi 
+REMARQUES TERMINOLOGIQUES ...................................................................... xiii 
+INTRODUCTION LA RÉSURGENCE DES QUESTIONS « TRANS » ................... 1 
+CHAPITRE I LA CONSTRUCTION DES SAVOIRS TRANS .................................. 7 
+1.1. La recherche en Amérique du Nord ..................................................................... 8 
+1.1.1. Le savoir, une position univoque ...................................................................... 8 
+1.1.2. Le savoir, des positions situées ................................................................... 11 
+1.1.3. La critique trans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+1.1.4. Les savoirs, au-delà des positions ............................................................... 22 
+1.2. État de question : La recherche francophone au Québec ................................... 23 
+1.2.1. Liens avec le travail social .......................................................................... 25 
+1.3. Le projet de recherche ........................................................................................ 27 
+1.3.1. Pertinence sociale et scientifique ................................................................ 27 
+1.3.2. Questions de recherche et objectifs ............................................................. 31 
+CHAPITRE II THÉORIE SITUÉE, CONNAISSANCE SITUÉE ET CONCEPT DE 
+GENRE ......................................................................................................................... 32 
+2.1. La théorie du savoir situé (standpoint) .............................................................. 32 
+2.1.1. Les ancrages théoriques en sciences sociales .............................................. 33 
+2.1.2. La contribution des féministes .................................................................... 35 
+2.2. Le développement des savoirs selon une position située ................................... 37 
+2.2.1. Les tensions théoriques et la perspective « trans » ..................................... 38 
+lX 
+2.2.2. La malléabilité des catégories identitaires .................................................. 41 
+2.2.3. La position située de l'allié ou de l'alliée d'un groupe dominé .................. 42 
+2.3. Les situations trans et le concept de genre ......................................................... 43 
+2 .3 .1. L'approche sociale de l'identité de genre ................................................... 4 5 
+2.3.2. La co-construction des identités trans ......................................................... 46 
+CHAPITRE III LA MÉTHODOLOGIE DE RECHERCHE ...................................... 48 
+3 .1. La stratégie générale de recherche ..................................................................... 48 
+3 .1.1. Recherche féministe .................................................................................... 48 
+3.1.2. Recherche qualitative .................................................................................. 50 
+3.2. L'objet d'étude et de recherche .......................................................................... 52 
+3.2.1. Le contexte spécifique des recherches nord-américaines ........................... 52 
+3.3. Les méthodes de collecte de données ................................................................ 53 
+3.4. Sélection des sujets et modalités de recrutement ............................................... 56 
+3.5. Les instruments de collecte de données ............................................................. 60 
+3.5.1. La technique de l'incident critique et les vignettes de recherche ................ 60 
+3.5.2. Le corpus de texte et les vignettes de recherche ......................................... 62 
+3.5.3. La technique du remue-méninge ................................................................. 63 
+3.6. Méthode d'analyse des données ......................................................................... 64 
+3.7. Les limites de cette étude ................................................................................... 66 
+3.8. Les considérations éthiques ............................................................................... 68 
+CHAPITRE IV PRÉSENT A TION DES RÉSULTATS ............................................. 72 
+4.1. Points de vue sur la recherche présente ............................................................. 73 
+4.1.1. Les critiques adressées aux procédés de recherche ..................................... 74 
+4.1.2. Les critiques adressées à des grilles de lecture de recherche ...................... 74 
+4.1.3. Sujet de la recherche abordé ....................................................................... 80 
+4.1.4. Questionnaires de recherche spécifiques aux enjeux trans ......................... 80 
+4.1.5. Entrevues -manque d'écoute pendant les entrevues .................................. 81 
+4.2. Les critiques adressées à la recherche ................................................................ 82 
+4.2.1. Disponibilité de la documentation .............................................................. 82 
+4.2.2. Le traitement des situations trans ................................................................ 83 
+4.2.3. Retombées de la recherche .......................................................................... 85 
+4.3. Les critiques adressées aux représentations conceptuelles des sujets trans ....... 85 
+4.3.1. Utilisation de« transgenre » comme mot parapluie .................................... 86 
+4.3.2. Utilisation du mot« transidentité » ............................................................. 88 
+4.3.3. Utilisation du mot« transsexuel» ............................................................... 88 
+4.3.4. Utilisation du mot« cisgenre » ................................................................... 89 
+4.4. Standardisation nécessaire des terminologies .................................................... 90 
+4.5. Aspirations pour la recherche future .................................................................. 90 
+4.5.1. Les acteurs de la recherche ......................................................................... 91 
+4.5.2. Visées de la recherche ................................................................................. 93 
+4.5.3. Problématiques et sujets de recherche à privilégier .................................... 98 
+4.5.4. Les approches théoriques et épistémologiques à privilégier ..................... 104 
+4.5.5. Les grilles d'interprétation des personnes et situations trans à privilégier 106 
+X 
+4.5.6. La cueillette des savoirs et des données .................................................... 111 
+CHAPITRE V ANALYSE DES RÉSULTATS ....................................................... 120 
+5.1. D'une« mauvaise objectivité» à une objectivité trans, sensible et subjective 121 
+5.1.1 L'objectivité traditionnelle versus l'objectivité trans ................................ 121 
+5.1.2. Les positions identitaires au cœur d'un large débat.. ................................ 129 
+5.1.3. D'objet de recherche à productrice et co-productrice de connaissances ... 135 
+5.1.4. Être transfriendly, de la reconnaissance ................................................... 138 
+5.2. D'un caractère éminemment étiologique à une meilleure reconnaissance des 
+individualités trans dans la recherche ..................................................................... 139 
+5.2.1. De problèmes individuels à parcours sociaux d'individus ........................ 140 
+5.2.2. La reconnaissance par les chercheurs ....................................................... 142 
+5.3. Donner la parole aux principales personnes concernées, pour contrer les 
+dynamiques d'exclusion des personnes trans ......................................................... 144 
+5 .3 .1. La construction des problématiques d'exclusion des personnes trans ...... 146 
+5.3.2. La matérialisation des discours dominants ............................................... 147 
+5.3.3. Un mémoire, une parcelle d'intervention sociale ..................................... 151 
+CONCLUSION ........................................................................................................... 156 
+ANNEXE A FORMULAIRE DE CONSENTEMENT ............................................ 168 
+ANNEXE B CERTIFICAT D'APPROBATION ÉTHIQUE ................................... 173 
+ANNEXE C VIGNETTES DE RECHERCHE ........................................................ 175 
+ANNEXE D AFFICHES DE RECHERCHE ........................................................... 178 
+BIBLIOGRAPHIE ...................................................................................................... 180 
+RÉSUMÉ 
+Ce travail étudie le point de vue des personnes trans et la manière dont leurs situations 
+sont représentées dans la recherche. Il a pour but de suggérer des pistes 
+méthodologiques, théoriques et éthiques aux chercheurs qui s'intéresseront aux vies 
+trans. L'objectif est d'explorer et de comprendre le point de vue de personnes trans 
+francophones. Il s'agit de se demander comment leurs situations sont traitées dans les 
+ouvrages scientifiques et comment elles aimeraient qu'elles soient considérées dans les 
+travaux qui seront développés au Québec. 
+Les chercheurs cisgenres ont largement pu imposer ce qui est connu et véhiculé dans 
+la recherche sur les vécues trans. Plusieurs théoriciens issus de la communauté 
+militante trans anglophone, notamment Namaste (2009), Dean Spade (2006), et Serano 
+(2007), dénoncent fermement la manière dont certains travaux cis ont constitué les 
+identités trans, relativement à un groupe culturel minoritaire dominé et continuent de 
+contribuer au maintien de la position de vulnérabilité sociale dans laquelle se trouvent 
+plusieurs personnes trans. Au Québec, l'étude des situations trans suscite l'intérêt des 
+chercheurs francophones depuis quelques années. Cet engouement engendre la 
+recrudescence d'inquiétudes au sein de la population trans. 
+Ces inquiétudes peuvent être abordées en regard d'un débat scientifique à propos de la 
+question des savoirs situés (standpoint epistemology), entamé depuis longtemps dans 
+le domaine général des sciences sociales. Dans le contexte d'émergence des sujets trans 
+dans les milieux de recherche francophones, ce débat sert d'ancrage théorique à cette 
+recherche. Celle-ci questionne le lien existant entre les savoirs qui sont légitimés à 
+propos des réalités trans, les positions sociales occupées par les personnes qui sont en 
+mesure de produire et valoriser ces savoirs, ainsi que la manière dont ils sont 
+développés. Treize personnes trans ou ayant un parcours trans ont été rencontrées à 
+l'occasion de deux séries d'entrevues non dirigées, en petits groupes. 
+Cette recherche dévoile quatre principaux constats. D'abord, on dénote une inquiétude 
+générale en raison du manque d'informations de recherche accessibles aux personnes 
+trans sur les situations qu'elles vivent. Ensuite, une critique est adressée à propos de la 
+documentation existante ainsi que de la manière dont elle a été amassée. Puis, il y a un 
+désir très profond que la recherche ait comme visée première d'être utile aux personnes 
+trans, en apportant les réponses nécessaires à la compréhension de leurs vécus. 
+Finalement, il est souhaité que la recherche s'intéresse à la compréhension et à la 
+reconnaissance des différents aspects qui composent les points de vue, les besoins, les 
+Xll 
+individualités et les compétences des personnes trans, en interrelation avec les autres, 
+dans une société cisnormative. 
+Mots clés : savoirs, recherche cisnormative, identités trans, militants trans, point de vue 
+situé, reconnaissance 
+REMARQUES TERMINOLOGIQUES 
+Ce mémoire est conçu avec un souci de sensibilité et de distanciation critique à l'égard 
+du traitement réservé aux catégories identitaires constitutives de son objet de recherche. 
+Préalablement à l'élaboration du problème de recherche, il apparaît nécessaire de 
+clarifier l'emploi qui sera fait des catégories identitaires. Elles seront principalement 
+abordées, en proposant des définitions temporaires pour en faciliter une compréhension 
+commune. Ces définitions catégorielles sont à considérer dans leurs fonctions 
+approximatives et temporaires, sujettes à des remaniements ultérieurs. Les préfixes 
+« cis »et« trans » seront les catégories conceptuelles à l'étude. 
+Au Québec, dans le langage courant et l'univers médiatique, les identités trans sont 
+souvent associées à l'imaginaire des performances« drag» telles que celles qui sont 
+offertes au Cabaret chez Mado2• 11 est possible entre autres de penser aux hommes qui 
+se vêtissent en femmes, souvent de façon exagérée et insolite, ou imitent des femmes 
+célèbres, pour amuser le public à titre d'animation ou de spectacle. Bref, dans la 
+perception populaire l'allusion aux identités trans évoque généralement des personnes 
+qui portent régulièrement ou occasionnellement des vêtements traditionnellement 
+réservés aux personnes de sexe opposé, ou à des personnes qui par l'entremise de 
+traitements chirurgicaux et hormonaux ont obtenu une réassignation sexuelle. 
+2 « Performances suiprenantes et ambiance surchauffée : le Cabaret à Mado est à l'image de la 
+propriétaire, Mado Lamothe, icône dans l'univers des drags queens montréalaises. L'endroit accueille 
+tous les soirs une clientèle mixte attirée par les numéros qui mêlent danse, musique et improvisation. » 
+(Nightlife.ca. [s.d]. Cabaret chez Mado. Récupéré de http://www.nightlife.ca/ou-aller/cabaret-chez­
+mado) 
+XIV 
+Dans les années 1950, le terme transsexuel a été institué par Harry Benjamin, 
+endocrinologist américain. (Billings et Urban, 1982). À cette époque, il désignait 
+toutes les personnes dont la manière d'identifier ou de vivre le genre ne correspondait 
+pas au cadre normatif défini selon l'approche médicale. (Dubois, 2013) Les 
+identités trans ne seront pas ici définies sous l'angle de l'approche médicale. Cette 
+recherche utilisera plutôt une approche constructiviste quant à la définition et à 
+l'analyse de celles-ci. Macé (2010) considère la catégorie identitaire« trans » dans une 
+perspective interactive: 
+[ ... ] le produit et l'objet d'une dynamique conflictuelle et réflexive de 
+recomposition des formes contemporaines d'articulations entre sexes genre 
+et sexualité, dont les principaux acteurs sont [ ... ] les médecins, les trans, et 
+les mouvements qu'ils génèrent au sein de la médecine, du droit, des 
+théories en sciences sociales et des représentations culturelles et jusque 
+dans les médiacultures. (Macé, 2010: 499) 
+Dans cette perspective, le phénomène trans et ses identifications seront considérées 
+sous l'angle de l'évolution des rapports de pouvoir sociaux. 
+Le terme trans est un qualificatif permettant de désigner une diversité de 
+personnes trans, sans pour autant prétendre en faire une catégorie 
+homogène (Bettcher 2006b, 3; Baril 2009b, 265). Ainsi, faire référence à 
+un homme trans peut signifier un homme transsexuel, transgenre, etc. 
+(Baril, 2013: 400) 
+Comme pour Baril (2013), le préfixe trans sera utilisé pour représenter une diversité 
+d'expressions de genre. Il aura donc une fonction représentative de la catégorie 
+identitaire trans. Cette catégorie sera ici inclusive de l'ensemble des pratiques et 
+identités de genre qui se positionnent hors du cadre normatif de genre 
+traditionnellement défini et accepté en occident -homme/femme. (Stryker, 2008) 
+C'est-à-dire que la catégorie trans inclura toutes les personnes qui vivent, performent 
+XV 
+ou sentent le genre d'une manière autre que celle définie à l'intérieur des genres 
+traditionnels (homme/femme). 
+Aussi, tel que mentionné dans la perspective de Enlce (2012), qui explique comment le 
+préfixe trans a remplacé le mot transgender au début des années 90, trans aura 
+également la fonction de catégorie politique représentative d'une résistance à la 
+médicalisation et à la pathologisation: 
+It represented a resistance to medicalization, to pathologization, and to 
+many mechanisms whereby the administrative state and its associated 
+medico-juridical-psychiatric institutions sought to contain and delimit the 
+socially disruptive potentials of sex/gender non-normativity. (Enlce, 2012: 
+63) 
+Ainsi, également à des fins politiques, le préfixe cis, qui réfère selon Baril (2013 :398) 
+à cissexuelle comme à cisgenre, a été instauré en comparaison au préfixe trans. «I 
+learned the words "cissexual," "cissexist," and "cisgender," from trans activists who 
+wanted to turn the table and define the words that describe non-transsexuals and non­
+transgenders rather than always being defined and described by them.» (Enlce, 
+2012 :64) Plus précisément, il à pris racine dans la foulée des actions de militantismes 
+associés au mouvement de libération trans : « Les néologismes cissexuel, cisgenre et 
+leurs dérivés sont apparus au cours des années 1990 sous la plume de transactivistes 
+pour référer aux personnes non transsexuelles (Serano, 2007, p. 33, 364). » (Baril, 
+2013 : 398) Puisque cette recherche s'intéresse spécifiquement à des questions relatives 
+aux identités de genre, le préfixe cis sera employé uniquement en référence au terme 
+cisgenre. 
+En 1994, la biologiste Dana Leland Defosse aurait été, ou plutôt serait reconnue comme 
+ayant été la première à utiliser publiquement le mot cisgender, version anglophone de 
+cisgenre. (Enlce, 2012: 60) et (Baril, 2013 :399). C'est donc dans des termes relatifs au 
+XVI 
+domaine de la biologie que le préfix cis, en comparaison au préfixe trans a d'abord 
+existé. Comme le mentionne Enke (2012), dans son usage commun, le mot cisgenre 
+réfère généralement à ce qui est demeuré dans une certaine position de genre 
+paramètrée, plutôt que de traversser ces paramètres de genre. (Enke, 2012 :61) 
+Tel que le mentionne Stryker (2008: 22) l'idée principale derrière l'utilisation des 
+termes cisgenre et cissexuel en est une de résistance politique. Il est souhaité 
+d'empêcher que les termes « homme » et « femme » soient perçus comme, ou 
+deviennent la référence principale, par défaut, à la norme de genre. Selon Stryker 
+(2008), l'utilisation du préfixe cis est comparable à la logique voulant qu'il soit 
+préférable qu'une femme, par exemple, parle d'elle-même en utilisant les termes 
+« femme blanche» ou « femme noire», plutôt que de seulement utiliser le terme 
+« femme » pour désigner son identité de femme blanche, comme si être blanche référait 
+à la norme et, en opposition, être noire représentait une déviation par rapport à cette 
+norme. « Similarly, "cigendered" or "cissexual" names the usually unstated assumption 
+of nontransgender status contained in the words "man" and "women". » (Stryker, 2008: 
+22) 
+Tel que mentionné précédemment ces définitions préalables et nécessaires à la 
+compréhension du sujet doivent être envisagées comme étant dynamiques et 
+malléables. D'ailleurs, il est déjà possible de soulever un problème relié à l'utilisation 
+de la catégorie identitaire cis mis en lumière par Enke (2012) : 
+Just when queer and trans theory remind us that gender and sex are made 
+and have no a priori stability ("one is not bom a woman"), Cisgender 
+arrives to affirm not only that it is possible for one to stay "a woman" but 
+also that one is "bom a woman" after all. (Enke, 2012: 63) 
+INTRODUCTION 
+LA RÉSURGENCE DES QUESTIONS « TRANS » 
+Souvent traitées à la lueur des théories explicatives des questions de genre, les 
+situations trans ont largement été représentées -et continuent de l'être -par des 
+chercheurs et des chercheuses, puis des théoriciens et des théoriciennes, qui ne 
+s'identifient pas à cette catégorie sans que cette donnée ne soit consciemment prise en 
+compte dans le processus et les résultats de recherche. Bien que ce ne soit pas 
+nécessairement majoritairement des cherheurs cis qui ont produit les savoirs trans, ce 
+sont largement des personnes cis qui ont pu imposer ce qui est plus connu et véhiculé 
+en matière de savoirs trans. Certains scientifiques issus de la communauté militante 
+trans anglophone, dont Namaste (2009), Dean Spade (2006) et Serano (2007) 
+dénoncent fermement la manière dont certains travaux théoriques cis ont constitué les 
+identités trans comme étant relatives à un groupe culturel minoritaire dominé et 
+continuent de contribuer au maintien de la position de vulnérabilité sociale dans 
+laquelle se trouvent plusieurs personnes trans. 
+Au Québec, l'étude des situations trans suscite l'intérêt des chercheurs francophones 
+seulement depuis quelques années. Dans la communauté anglophone, la recherche à 
+propos des situations trans est déjà bien développée. L'engouement qui règne au sein 
+du milieu de la recherche engendre des inquiétudes au sein de la population trans. Plus 
+précisément, lors de mes premiers contacts avec des membres de celle-ci, j'ai pris 
+connaissance d'inquiétudes au sujet de la position identitaire des personnes qui créent 
+les savoirs trans, puis de la manière dont les savoir sont créés et promus. 
+2 
+L'extrait suivant, tiré du discours d'une femme trans, est un exemple évocateur de la 
+manière dont se traduisent les inquiétudes et les questionnements : 
+Trans people have already been studied. We've been interviewed, sampled, 
+tested, cross-referenced, experimented upon, medicated, shocked, 
+examined, and dissected post-mortem. You've looked atour chromosomes, 
+our families, our blood levels, [ ... ] But you've never listened to our voices 
+and you need to do that now. [ ... ] Trans women need, more or less in order: 
+decriminalization, housing, education and employment. [ ... ] Can you 
+provide these? Not as a goddamn researcher and probably notas a member 
+in good standing of whatever professional body you aspire to join. Y ou 
+want to actually do something as good you say you want to do, drop out, 
+abrogate your loans, and become a social worker. Decriminalization, 
+housing, education and employment. [ ... ] We don't need your study, we 
+don't need your thesis, [ ... ] And you? You don't need us either. (ND. Anne, 
+2009) 
+À travers son discours, Anne (2009) critique la manière dont ont été menées la majorité 
+des recherches portant sur les identités et les situations trans. Elle dénonce un manque 
+de considération général de la part des chercheurs à l'égard des conditions matérielles 
+des personnes trans. Il lui apparaît que les chercheurs ont majoritairement fait appel à 
+la participation de sujets trans pour l'avancement de leurs travaux sans porter 
+suffisamment attention aux retombées de ceux-ci, contribuant ainsi, pour certains, à la 
+marginalisation des identités trans. Anne (2009) fait notamment référence aux gains 
+professionnels, sociaux et financiers que les chercheurs -majoritairement cis -
+obtiennent à travers le traitement qu'ils font des situations trans. Elle soutient que la 
+contribution des corps trans, l'existence des identités trans et la collaboration des 
+personnes trans en tant qu'objet de recherche ont donné lieu à de nombreuses 
+découvertes théoriques dans le champ des sciences sociales et humaines. Cependant, 
+elle reproche à ces avancées scientifiques d'avoir eu trop peu de répercussions 
+concrètes en ce qui concerne l'amélioration des conditions de vie des personnes trans. 
+Par conséquent, elle critique les chercheurs de manquer d'écoute à l'endroit des 
+3 
+personnes trans et de ne pas prendre en compte les besoins réels de cette population. 
+C'est pourquoi elle ne voit pas l'utilité de participer à de tels projets de recherche. 
+Aussi dans le milieux de } 'université et de la militance, plusieurs théoriciens et 
+militants trans, dont Namaste (2005), Serano (2007), Baril (2017) et l'activiste 
+Gabrielle Bouchard3, interrogent la façon dont sont créés les savoirs qui représentent 
+leurs situations sociales ainsi que les conséquences que la légitimité accordée à certains 
+discours théoriques occasionne sur leurs conditions de vie. D'ailleurs, Baril (2017) se 
+montre préoccupé par la légitimité accordé au point de vue cis dans comment sont 
+transmis et créés les savoirs francophones qui portent sur les vécus trans. Il fait entre 
+autre état du manque d' enseignant4 trans dans les sphères de recherches s'intéressant 
+aux enjeux trans et aussi de l'absence de recherches faites par et pour les personnes 
+trans. (Baril, 2017 :303)11 mentionne aussi la grande quantité de travaux menés par des 
+personnes cis et parrallèlement, le manque d'inclusion des points de vue trans : 
+Dénonçant le fait que trop souvent les projets de recherche menés par des 
+personnes cis consultent les personnes trans* durant ou à la fin des 
+processus de recherche, Namaste, Burke et Marshall insistent sur le fait 
+que les personnes trans* doivent être partie prenante à tous les stades des 
+projets de recherche. J'ajouterais qu'elles doivent aussi être partie 
+prenante, dans des rôles fondamentaux, à ces projets. (Baril, 2017 :304) 
+En résumé, Baril (2017) vise entre autre à sensibiliser le monde de la recherche et de 
+l'enseignement au plafond de verre qui existe pour les personnes trans et qui nuit à leur 
+possibilité de promovoir la création de savoir trans par et pour des personnes trans. Il 
+traite également de comment les difficultés que vivent les personnes trans en société 
+3 Cette personne est présidente de la Fédération des femmes du Québec depuis 2017. Au cours de la 
+période pendant laquelle je l'ai consulté à plusieurs reprises dans le cadre de mon travail de mémoire 
+( entre autres pendant la phase de préparation et de recrutement), elle travaillait au Centre de lutte contre 
+l'oppression des genres. 
+4 Baril étant la seule personne trans enseignante dans le champs des études trans francophones. 
+4 
+(barrières systémiques) se reflètent dans les modes de création et de transmission des 
+savoirs trans. (Baril, 2017 :305) : 
+Bref, il serait temps de faire le passage de l'enseignement et la recherche 
+sur les personnes trans* à l'enseignement et la recherche par/pour les 
+personnes trans*. Cette critique ne vise aucunement à décourager les 
+personnes cis à faire de la recherche sur les enjeux trans* et à les enseigner. 
+Bien au contraire, ce travail est capital. Néanmoins, il est aussi important 
+de renverser les statistiques qui prévalent afin que la majorité des 
+recherches et de l'enseignement sur les enjeux trans* soit effectuée par des 
+personnes trans* .(Baril, 2017 :309) 
+Les propos de Thomas, Grüsig et Espineira (2015) font échos à ceux d'Anne (2009) et 
+de Baril (2017): 
+Comment se nourrir sans s'approprier, comment relayer sans usurper, 
+comment s'allier avec justesse dans un monde où les rapports de pouvoir 
+nous marquent, dans nos confiances et nos méfiances, et ou nous devons 
+quotidiennement faire face à ceux qui veulent nous faire taire et nous 
+diviser? Les sphères universitaires françaises, dans leurs fonctionnements 
+et dans leurs intentions, ont généré craintes et méfiances chez une bonne 
+partie des militant.e.s non-universitaires tout comme au sein de groupes 
+sociaux qu'elles «étudient». Si elles ne veulent pas accentuer ces 
+mécanismes, il est de leur responsabilité d'avancer vers celles et ceux 
+qu'elles ont déçus, et parfois volés. (Thomas, Grüsig et Espineira, 
+2015 :15) 
+Plusieurs aspects soulevés dans le discours d'Anne (2009), de Baril (2017), ou de 
+Thomas, Grüsig et Espineira (2015) sont représentatifs des points de tension que suscite 
+l'émergence de l'intérêt pour les sujets trans dans les milieux de recherche 
+francophones. Ces tensions peuvent être abordés en regard d'un débat scientifique à 
+propos de la question des savoirs situés (standpoint), entamé depuis longtemps dans le 
+domaine général des sciences sociales. Au Québec, dans le contexte d'émergence des 
+sujets trans dans les milieux de recherche francophones, ce débat questionne le lien 
+5 
+existant entre les savoirs qui sont légitimés à propos des réalités trans, les positions 
+sociales occupées par les personnes qui sont en mesure de produire et valoriser ces 
+savoirs, ainsi que la manière dont ils sont développés. Les positions identitaires -plus 
+particulièrement l'identité de genre en ce qui concerne cette recherche -des chercheurs 
+interviennent dans la création des savoirs trans. Le fait d'occuper une position de genre 
+différente de celle de la population étudiée a le potentiel de nuire à la réalisation d'une 
+recherche à la fois scientifiquement pertinente et bienveillante quant aux retombées de 
+ses résultats sur la situation sociale matérielle et symbolique des sujets concernés. La 
+position de genre des chercheurs influence la manière dont les savoirs sont créés. 
+Dans la perspective de ce débat, cette recherche a pour objectifs d'explorer le point de 
+vue de personnes trans à propos de comment leurs situations sont représentées dans les 
+domaines de recherche qui s'y sont intéressés ainsi qu'à propos de comment elles 
+aimeraient qu'elles soient traitées dans les travaux francophones développés au 
+Québec. 
+Ainsi, la question qui a donné lieu à ces objectifs se divise ainsi : qu'est-ce que les 
+personnes trans pensent de la manière dont leurs situations sont représentées dans 
+l'ensemble des travaux de recherche qui s'y sont intéressés? De quelle manière les 
+personnes trans souhaitent-elles que leurs identités et les situations qu'elles vivent 
+soient représentées dans les travaux de recherche francophones qui seront 
+ultérieurement développés au Québec ? Dans le premier chapitre, la manière dont les 
+situations trans ont été problématisées à travers l'évolution des différents contextes 
+sociohistoriques de la recherche sera explorée. En définitive, l'attention sera portée sur 
+comment la primauté scientifique accordée à certaines de ces problématisations a 
+contribué à la situation symbolique et matérielle actuelle du groupe identitaire trans. 
+Le débat qui concerne la théorie du savoir situé, ravivé dans le contexte d'émergence 
+de l'intérêt pour les études trans et qui constitue l'ancrage de la question de recherche 
+6 
+sera abordé en filigrane de la définition du problème de recherche. Dans le second 
+chapitre, les discours explicatifs de la théorie du standpoint priorisés pour répondre aux 
+questions de cette recherche seront brièvement exposés. Dans le troisième chapitre, la 
+démarche méthodologique privilégiée pour répondre aux objectifs de recherche sera 
+explicitée. Dans le quatrième chapitre, les résultats de la recherche seront présentés. 
+Finalement, dans le cinquième chapitre, les résultats de la recherche seront analysés à 
+la lueur du contenu du cadre d'analyse de recherche. 
+CHAPITRE I 
+LA CONSTRUCTION DES SAVOIRS TRANS 
+Au gré des conjonctures sociohistoriques, sous l'influence des théories et des 
+recherches que les différents domaines scientifiques développent pour les définir et en 
+fonction des rapports de forces politiques qui participent à la légitimation de certaines 
+approches sociales, les situations trans font l'objet de redéfinitions perpétuelles. Dubois 
+(2013) fait allusion au« phénomène trans ». Son chapitre traite de comment la volonté 
+de changement de sexe -ou de genre -a été abordée dans les sociétés de l'occident 
+dans les six dernières décennies : 
+Historiquement associé à l'univers de la santé mentale, le phénomène trans 
+fait aujourd'hui l'objet d'une relecture en termes de minorité sexuelle 
+(comme on parlerait de minorité ethnique) ou encore comme figure de la 
+diversité sexuelle (comme on parlerait de diversité religieuse). (Dubois, 
+2013: 126) 
+Il sera tracé dans les passages suivants le portrait évolutif des théories portant sur les 
+questions de genre, et plus spécifiquement, sur des objets de recherche trans 
+développées dans la communauté scientifique anglophone nord-américaine. 
+L'attention sera portée sur l'établissement de parallèles entre les représentations des 
+situations trans dans la sphère scientifique ainsi que les types d'interventions sociales 
+et politiques offertes en guise de réponse à celles-ci. Ce procédé facilitera l'exposition 
+des enjeux symboliques et matériels résultants de la façon dont la recherche 
+représentent les situations trans. 
+8 
+1.1. La recherche en Amérique du Nord 
+1.1.1. Le savoir, une position univoque 
+Les premières recherches portant sur des pratiques et des situations trans ont été menées 
+principalement aux États-Unis, dans les années mille neuf cent cinquante parallèlement 
+et intrinsèquement aux études portant sur le genre, puis l'identité de genre. 
+Dès le milieu des années 50, Money (Money et autres 1957; Green et 
+Money 1969) commence à employer les termes « genre » et« rôles de genre 
+». Quelques années plus tard, Stoller ( 1968) emploie l'expression« identité 
+de genre ». Bien que ces spécialistes n'aient pas inventé l'idée de la 
+construction sociale de la féminité et de la masculinité, il importe de retenir 
+qu'au milieu du XXe siècle un changement linguistique s'est opéré, 
+impliquant un emploi accru et la diffusion d'un vocabulaire pour discuter 
+des différences comportementales entre hommes et femmes (genres). Cette 
+transformation paradigmatique rompait avec le modèle prédominant, fondé 
+sur un déterminisme biologique (paradigme n° 1). (Baril, 2015 :123) 
+Pendant la période de l'apogée des « sciences dures» qui prévalait du milieu des 
+années soixante jusqu'à la fin des années soixante-dix, le genre et par conséquent, les 
+identités trans, était principalement, mais pas exclusivement perçu selon l'approche 
+«fondationaliste biologique\>. 
+( ... ) les recherches entourant la transsexualité et l'intersexualité ont 
+favorisé une diffusion de la notion de genre conçue comme les attributs, les 
+caractéristiques, les attitudes et les comportements, masculins ou féminins, 
+acquis à travers l'éducation (Oakley 1972; Kessler et McKenna 2006). 
+(Baril, 2015 :123) 
+Donc, comme le démontre Baril (2015), dans cette perspective, bien que le sexe soit 
+considéré comme étant une donnée naturelle, on considère que «le genre est construit 
+5 La référence au paradigme du fondationalisme biologique a été reprise du texte de Baril (2015) 
+9 
+socialement et est juxtaposé au sexe.» (Baril, 2015 : Annexe) Il est à noter que bien 
+qu'il y avait une part de constructivisme dans le paradigme du fondationalisme 
+biologique, les idéaux en matière de catégories de sexe et de genre véhiculés par cette 
+apporche étaient plustôt conservateurs.(Baril, 2015: Annexe) 
+Par conséquent, les recherches scientifiques menées dans les milieux universitaires 
+nord-américains à propos des identités trans « étaient surtout portées par la 
+préoccupation de maintenir le système de genre binaire homme/femme». (Stryker, 
+2008:93) 
+Le point de vue « cis » 
+Selon Stryker (2008), c'est en Amérique du Nord, aux États-Unis, que le premier 
+programme s'intéressant au« problème» trans a été fondé: 
+[ ... ] the Johns Hopkins University opened the first medical pro gram in the 
+United States to combine scientific research into the biology and 
+psychology of gender with the expert evaluation of transgender individuals 
+for hormone treatment and genital surgery. (Stryker, 2008: 93) 
+Dans cette perspective socio-historique, il ne fallait surtout pas remettre en question la 
+fixité de la binarité du système de genre. Donc, les chirurgies de réassignation sexuelle 
+étaient seulement à la portée de la minorité de personnes qui ne remettaient pas en 
+question ce système rigide. (Stryker, 2008: 94) 
+Dans ce contexte scientifique et social, les situations des personnes trans étaient 
+considérées comme socialement problématiques. Elles ont premièrement été « définies 
+à travers un dispositif médicolégal à visée thérapeutique qui reconnaît des "troubles de 
+10 
+l'identité de genre"» (Macé, 2010: 498). Selon cet angle essentialiste, les personnes 
+trans souffrent d'un trouble de l'identité de genre parce qu'elles refusent de reconnaître 
+leur véritable nature. 
+Le diagnostic psychiatrique de ce type de trouble a été institué selon les 
+nomenclatures internationales que sont le Manuel Diagnostic et 
+Statistiques des troubles mentaux de l 'American Psychiatrie Association et 
+la classification internationale des maladies de l'Organisation mondiale de 
+la santé (Macé, 2010: 498). 
+À ce sujet, en se référant à Benjamin (1966) et Money (1988), Lowy (2003) soutient 
+que: « La reconnaissance officielle du "désordre d'identité de genre", comme entité 
+pathologique spécifique et traitable, fut un signe de la stabilisation de l'utilisation du 
+terme "genre" par les médecins (Benjamin, 1966; Money, 1988). » (Lowy, 2003: 96) 
+La constitution des situations trans en tant que problème psychopathologique 
+nécessairement traitable a mis les personnes trans dans une position sociale paradoxale. 
+En effet, l'institutionnalisation des traitements associés à leur« problème» a favorisé 
+leur accès à des soins chirurgicaux et hormonaux, leur permettant ainsi de remanier 
+leur identité de genre, de la définir socialement. C'est-à-dire que ces protocoles leur 
+ont donné la possibilité d'exister socialement, mais absolument en tant que personnes 
+ayant un problème de santé mentale. Par conséquent, en contrepartie à ce remaniement 
+identitaire, il leur a été exigé qu'elles s'astreignent volontairement à une série de 
+prescriptions et de procédures institutionnelles (Macé, 2010: 512). D'ailleurs, la 
+possibilité d'accéder à des soins médicaux était effectivement conditionnelle au 
+consentement à servir le domaine de la recherche. En définitive, les théories 
+majoritairement développées et promues par les scientifiques de cette époque ont 
+contribué à la constitution des situations trans en problèmes d'ordre psychologiques ou 
+physiques guérissables selon différentes approches curatives incluant des 
+transformations physiques et psychologique. (Stryker, 2008) Dans tous les cas, la 
+11 
+situation des personnes trans était de l'ordre d'un problème personnel à traiter 
+absolument. 
+1.1.2. Le savoir, des positions situées 
+Selon Lowy (2003), l'avancement des technologies médicales qui régissaient 
+l'apparition des corps trans a permis la progression et l'accroissement des théories 
+développées à propos du sexe, du genre et de leur lien. « La possibilité technique de 
+moduler les paramètres du sexe biologique rend alors possible une réflexion sur le sexe 
+social comme variable indépendante des structures biologiques. » (Lowy, 2003: 82) En 
+effet, dans le contexte d'effervescence des sciences dures : 
+[ ... ] certains historiens et sociologues des sciences ont affirmé que la 
+science n'est pas uniquement un système d'énoncés et une somme de 
+connaissances, mais aussi une pratique, ou plutôt une somme de pratiques 
+disciplinaires souvent très variables, et une activité collective solidement 
+ancrée dans le temps et dans l'espace (Pickering 1992; Pestre 1995; 
+Hacking 1999). Une telle approche a progressivement déstabilisé la 
+perception de la science comme « point de vue de nulle part » et a ouvert 
+la voie à un examen critique des« faits scientifiques». (Lowy, 2003: 98) 
+À cet égard, le rapprochement des « [ ... ] recherches féministes et des études sur le 
+genre avec les études sociales et culturelles de la science a [ ... ] » mené à l'interrogation 
+de la perception du « sexe biologique » comme élément hors du temps, éternel et 
+constant. (Lowy, 2003: 93) En effet, dès le début des années mille neuf cent soixante­
+dix, plusieurs féministes ont commencé à affirmer la préséance du genre sur le sexe. 
+Selon les nouvelles approches de l'étude de la science, sexe biologique et 
+genre (ou sexe social) sont co-construits. Notre perception des différences 
+sociales et culturelles entre hommes et femmes affecte la perception des 
+corps sexués tandis que celle des corps sexués modifie la culture. (Lowy, 
+2003: 98) 12 
+Des féministes ont ainsi élaboré un cadre d'analyse matérialiste des interactions 
+sociales entre individus genrés. Elles ont proposé de considérer l'accent porté sur les 
+différences biologiques comme un moyen de légitimer des pratiques discriminatoires 
+en ce qui a trait aux rapports de sexe. Ce raisonnement, relevant une emprise oppressive 
+de la part des hommes, a abouti sur une analyse de la « conscience des opprimés » 
+(femmes), que Guillaumin (1981) a appelée« les effets de la colère des opprimés». 
+(Gaussot, 2008: 185) Ci-dessous, en citant Mathieu (1991), Gaussot (2008) explique 
+comment l'émergence de la théorisation à propos des rapports de pouvoir sociaux a 
+mené progressivement au développement des questions de sexe : 
+Et, à partir des années 1970, c'est bien la contestation de ces rapports de 
+pouvoir par le renouveau des mouvements féministes qui, en développant 
+une sorte de« conscience de classe» chez les femmes (conscience d'être 
+déterminées socialement comme femmes), a permis un début de 
+systématisation de la problématique des -sexes -de même que l'apparition 
+d'autres dominés, prolétaires et jeunes, sur la scène publique s'était 
+précédemment accompagnée de la systématisation de la problématique des 
+classes puis des âges (Mathieu: 1991). (Gaussot, 2008: 185) 
+Selon Stryker (2008), à la fin des années soixante-dix et à travers les années quatre­
+vingt, les situations trans étaient généralement abordées sous un angle médical, 
+constituant les personnes trans en tant que patients. Les recherches développées dans 
+le domaine des sciences humaines au sein des milieux universitaires américains étaient 
+donc principalement axées sur le développement de formules standardisés appelés 
+« Standards of Care » devant être appliqués par les différents spécialistes qui œuvraient 
+auprès des patients trans. La contrainte médicale exercées sur ces derniers a atteint son 
+plus haut niveau d'intensité en mille neuf cent quatre-vingts lors de la parution de 
+l'édition révisée du DSM4 à l'intérieure de laquelle figurait le« désordre de l'identité 
+13 
+de genre», en tant que nouvelle catégorie pathologique (Stryker, 2008): « [ ... ] it is 
+possible to see how the social power of science shifted, during the course of a few years 
+in the 1970s, from a concem with sexual orientation to a preoccupation with gender 
+identity. » (Stryker, 2008: 113) 
+Les théories scientifiques développées dans le champ des sciences sociales, 
+parallèlement et relativement aux avancements obtempérés dans le champ médical, ont 
+mené à la considération des « troubles de l'identité de genre » en tant que volonté de 
+vivre le genre d'une manière autre que celle qui avait été socialement construite. Dans 
+cet optique social constructiviste du genre, les circonstances reliées au vécu du genre 
+favorisaient de plus en plus la volonté de certains individus d'explorer de nouvelles 
+perspectives de genre. Par conséquent, contrairement aux décénies précédentes, une 
+plus grande variété de possibilités devenait accessible aux individus trans. 
+Le point de vue féministe 
+Stryker (2008), pour sa part, mentionne que les théories et les recherches féministes 
+développées en Amérique du Nord dans le contexte de remise en question de la 
+perspective essentialiste étaient plutôt réfractaires aux personnes qui optaient pour une 
+transition de genre. 
+Progressive political movements, rather than critiquing the medical system 
+that told transgender people they were sick, instead insisted that 
+transgender people were politically regressive dupes of the patriarchal 
+gender system who, at best, deserved to have their consciousnesses raised. 
+(Stryker, 2008: 101) 
+14 
+Janice Raymond (1979) figure parmi les théoriciennes féministes qui furent le plus 
+défavorables à l'égard des réalités trans. Dans son ouvrage intitulé L'empire 
+transsexuel, elle défini le transsexualisme comme étant en grande partie l'adoption du 
+sexe féminin par des hommes. Plus encore, ce serait pour eux une manière additionnelle 
+de s'emparer de la féminité. Vouloir être une femme se rapporterait donc au désir de 
+certains hommes de se substituer à celles-ci. (Collin, 1981: 16) Baril (2015: 127) 
+mentionne que dans ce contexte, les identités trans étaient, de manière générale, 
+percues comme étant diaboliques. Le féminisme transphobe a contribué à la 
+matérialisation des situations de vulnérabilité sociale dans lesquelles se trouvaient 
+plusieurs personnes trans. 
+En contrepartie, certaines féministes de cette période n'étaient pas haineuses à l'égard 
+des personnes trans. Ce fut entre autres le cas de Shulamith Firestone (1970), une 
+féministe canadienne socialiste radicale qui, bien qu'elle déclarait une divergence 
+biologique irrévocable entre les sexes, en critiquait tout de même les effets coercitifs 
+dans l'optique de l' «humainement» acceptable. Cité dans Stryker (2008), Firestone 
+(1970) envisageait l'accroissement du progrès technique qui distingue la période 
+historique à laquelle elle se rattache comme l'occasion idéale d'aller au-delà de la 
+distinction initialement et essentiellement établie entre les rôles féminins et masculins : 
+[ ... ] so, the end goal of feminist revolution must be, unlike that of the first 
+feminist movement, not just the elimination of male privilege but of the sex 
+distinction itself ... The reproduction of the species by one sex for the 
+benefit of both would be replace by (at least the option of) artificial 
+reproduction: children would be bom to both sexes equally or 
+independently of either. (Stryker, 2008: 108) 
+Donc, la thèse défendue par Firestone (1970) était favorable à l'idée que des personnes 
+transcendent leur genre « naturel » en recourant à des transformations corporelles, 
+facilitées par les avancées de la technologie médicale. 
+15 
+Toujours dans le contexte des années quatre-vingt, Monique Wittig (2007), une 
+féministe radicale lesbienne s'est attardée à la déconstruction de la contrainte à 
+l'hétérosexualité.« Wittig compte parmi les féministes matérialistes -dont Mathieu, 
+Delphy, Guillaumin, Tabet- qui soutiennent que la différence sexuelle est construite 
+et n'a rien de naturel.» (Brossard, 2004: 12) Selon Wittig (2007), la sexualité ne doit 
+pas être comprise comme se rapportant à une pratique. Elle est plutôt relative à un 
+régime hétérosexuel dominant. Ce régime est dévoilé par l'existence de féministes 
+lesbiennes. Wittig (2007) suggère que pour abattre l'agencement hétérosexuel il ne faut 
+pas s'attarder aux pratiques sexuelles minoritaires, mais plutôt à la compréhension du 
+fonctionnement des processus qui contribuent à l'instauration et au maintien de sa 
+position dominante. Son ouvrage intitulé La pensée straight fait partie des 
+contributions qui ont servi d'ancrage théorique à la perspective queer. Sans s'être 
+directement intéressée à la situation sociale des personnes trans, Wittig (2007) figure 
+parmi celles qui ont instauré l'idée de remise en question du système normatif de genre 
+binaire -homme/femme. Plus tard, cette idée a inspiré la perspective queer 
+poststructuraliste de Judith Butler, qui sera abordée dans les passages suivants. 
+Dans un ouvrage où il trace un portrait de l'évolution des définitions féministes du 
+rapport dialectique entre sexe et genre, puis de leur conséquence sur les situations trans, 
+Baril (2015) traite entre autres du constructivisme « social révolutionnaire ». Les 
+féministes qui s'y rattachent, telles que Wittig (2007), précédemment mentionnée, 
+considèrent qu'il existe des différences biologiques entre hommes et femmes. Mais, 
+pour elles ces différences dépendent d'une vision socio-politique. Pour les féministes 
+qui s'y rattachent, il est question d'éliminer les catégories de genre, comme de sexe. 
+(Baril, 2015: 129) Par conséquent, les identités trans qui reproduisent ces catégories 
+posent problèmes à certaines féministes. C'est le cas pour Jeffreys (2010) mentionnée 
+dans Baril (2015: 129): « À ses yeux, les personnes trans, en conservant intactes les 
+catégories sexuées et genrées du système patriarcal considérées en elles-mêmes comme 
+16 
+violentes pour les femmes, constituent des ennemis du féminisme (Jeffreys, 2014: 
+185). (Baril, 2015: 129) 
+Le tournant des années quatre-vingt-dix représente une période charnière en ce qui 
+concerne l'évolution sociale politique des situations trans. Inspirées entre autres par la 
+conception du pouvoir traduite dans les écrits du philosophe français Michel Foucault, 
+plusieurs théoriciennes féministes queer ont imaginé une nouvelle manière de 
+concevoir les identités de genre : 
+Queer feminism reimagined the status "woman" as not simply a condition 
+ofvictirnization to be escape from, and it reconceived gender as a network 
+of"relations of power" that, like language, we don't ever get outside of but 
+always express ourselves through and work within-a situation that gives 
+feminist women a "dual vision" and "split subjectivity". (Stryker, 2008: 
+128) 
+En se référant à l'existence des identités trans, ces féministes se sont attardées à la 
+déconstruction théorique du système normatif de genre binaire -homme/femme. À cet 
+effet, Judith Butler (1990), avec son ouvrage intitulé Gender Trouble: Feminism and 
+the Subversion ofldentity et sa théorie de la performativité du genre, est souvent définie 
+comme étant l'une des théoriciennes s'étant le plus investies dans les nouvelles 
+théorisations queers. (Stryker, 2008) Dans les perspectives queers, le genre représente 
+habituellement une figure de lutte politique contre les idées de binarité et 
+d'essentialisme. 
+Dans la foulée de la remise en question théorique du caractère essentiellement binaire 
+des genres, depuis quelques années, l'insertion et l'appellation des « troubles de 
+l'identité de genre » qui fut intégrée en 1980 dans le manuel diagnostique et statistique 
+des troubles mentaux (D.S.M.) fait l'objet de controverses, autant auprès des militants 
+que des différents spécialistes et chercheurs s'intéressant aux identités trans. C'en est 
+17 
+de même pour les« Standards of Care », qui sont des guides cliniques intemationnaux 
+proposant des barêmes d'action concernant les soins et l'accompagnement des 
+professionnels qui travaillent auprès des individus trans : 
+The classification of gender variance as a mental disorder and the reliance 
+on the diagnosis of gender dysphoria to grant transgender clients access to 
+medical transition services serves as a barrier for individuals who are 
+seeking to determine the terms of their embodied lives outside of the lens 
+ofmedical and psychiatrie pathologization. (Schulz, 2018: 77) 
+En février 2010, l'Association de psychiatrie américaine avait fait part de son intention 
+de réviser les appellations de trouble de l'identité de genre et de trouble de l'identité 
+sexuelle pour la cinquième édition du D.S.M. qui est parue en 2013 (Kamen, 2011). 
+Cette proposition avait mis à jour un débat historiquement controversé à propos des 
+conséquences reliées à l'attribution du diagnostic du trouble de l'identité de genre. 
+Selon Kamens (2011: 37), ce débat est une réflexion à propos des enjeux sociaux reliés 
+au maintien ou à l'enrayement du diagnostic de trouble de l'identité sexuelle, parce 
+qu'il stigmatise en même temps qu'il médicalise les comportements des personnes 
+trans. À ce sujet, plus tard, en 2018, Schulz mentionne différents problèmes rencontrés 
+par les personnes trans relatifs aux modalités d'application et d' octroiement du 
+diagnostic de disphonrie de genre : 
+One, the cause of internai distress that people who are of transgender 
+experience is not necessarily a result of individual pathology, as is 
+suggested by the diagnostic criteria, but is a result of societal non­
+acceptance and discrimination toward the transgender community. Two, 
+the diagnostic model roots the transgender experience in a narrative of 
+distress, while reinforcing the binary system of gender, thus potentially 
+creating conflict about the goals of mental health treatment between the 
+therapist and the client and overshadowing the importance of authenticity 
+in the therapeuthic alliance. Finally, the psychotherapy requirement may 
+result in a significant and unnecessary financial burden to transgendered 
+client seeking care under the diagnostic model. (Schulz, 2018:76) 
+18 
+1.1.3. La critique trans 
+Des théoriciens et des théoriciennes trans se sont intéressés à la position sociale 
+occupée par les personnes qui créent les savoirs à propos des situations trans dans un 
+contexte ou il y a existence de rapports de pouvoir entre chercheurs et sujets de 
+recherche. Elles se sont également attardées aux privilèges reliés à la positions sociale 
+des chercheurs et théoriciens. Pour mieux situer le sujet qui nous intéresse, nous 
+considérerons différentes critiques faites par des théoriciens et des théoriciennes trans 
+à l'endroit de la recherche Nous porterons plus attentivement attention à des critiques 
+adressées par les théoriciennes Viviane Namaste (2000; 2011) et Julia Serano (2007) à 
+l'endroit des théories féministes anglo-américaines, ainsi qu'à l'endroit des ouvrages 
+du domaine des sciences sociales et humaines en général. 
+D'abord, la position de Kamens (2011) peut servir d'exemple représentatif de la teneur 
+des discussions théoriques qui sont actuellement promues au sein de la communauté 
+scientifique trans. Elle a déconstruit le caractère immuable de la perspective 
+essentialiste qui sous-tend la constitution du trouble de l'identité de genre (G.1.D) en 
+trouble psychopathologique. À travers le portrait historique qu'elle trace de la relation 
+existante entre la manière dont le G.I.D. a été abordé dans les différentes versions du 
+(D.S.M.) et les perceptions sociales développées à propos des situations trans, Sarah R. 
+Kamens (2011) témoigne du caractère situé des savoirs qui ont mené à la constitution 
+de cette entité pathologique. Elle soutient que les changements proposés au DSM-5 
+concernant la définition des catégories psychopathologiques ont ravivé les discussions 
+à propos de l'existence d'une vérité scientifique absolue versus l'existence de points 
+de vue scientifiques toujours teintés par les jugements de valeur de ceux qui les 
+émettent. Elle mentionne également comment les contexte sociopolitiuqes influencent 
+ces changements. Elle met ainsi en lumière ce qu'elle considère être le caractère 
+19 
+fortement politique de l'approche réservé aux identités trans dans le champ des sciences 
+humaines et sociales. (Kamens, 2011: 41, 54) 
+Dans cette lignée, Serano (2007) traite de la manière dont les identités et les situations 
+trans ont été abordées dans différentes formes de discours. Elle affirme que les études 
+menées dans le domaine des sciences médicales et humaines ont toujours été 
+majoritairement construites par des scientifiques, qui ont fait des personnes trans leurs 
+objets d'études. (Serano, 2007: 161) Il est à noter que la plupart du temps, les personnes 
+qui ont fait des personnes trans leurs objets d'étude étaient en occurrence des personnes 
+cis. D'ailleurs, Virginia Prince (1976) est l'une des rares chercheuses trans du passé 
+qui fut importante en ce qui a trait à l'orientation des recherches médicales faites à 
+propos des identités trans : « Schooled in transgender issues as part of that emerging 
+network, Prince would eventually found the first enduring organisations in the United 
+States devoted to transgender concems. » (Stryker, 2008: 46) 
+Selon Serano (2007), le contexte des recherches menées par une forte majorité de 
+spécialistes cis a conduit à l'assujettissement des personnes transsexuelles en objets 
+d'étude de prédilection. Pour Stryker (2008) le pouvoir social de déterminer qui est 
+considéré comme malade ou en santé (normal ou pathologique, sain ou malsain) 
+appartient largement aux professionnels médicaux et aux institutions. De ce pouvoir 
+résulte fréquemment la métamorphose d'une simple différence humaine (selon les 
+normes sociales traditionnelles) en un système de hiérarchies sociale. Pour Lôwy 
+(2003), le fait que l'étude des identités trans dans le domaine médical ait permis 
+l'émergence des réflexions féministes à propos de l'existence d'un sexe social, est 
+révélateur de la manière dont les féministes se sont approprié l'exemple des situations 
+trans pour l'élaboration de plusieurs théories de genre visant à appuyer leurs 
+revendications. 
+20 
+Dans cette optique, Namaste (2011) s'interroge sur l'intérêt que des théoriciennes et 
+féministes anglophones nord-américaines ont pour les questions identitaires trans. Elle 
+critique plusieurs théoriciennes féministes anglo-américaines d'avoir instrumentalisé 
+les identités trans au bénéfice des études de genre. Aussi, selon Salamon (2008) il est 
+possible d'ajouter que le féminisme n'a pas été en mesure d'accorder de l'espace aux 
+personnes définissant leur identité de genre à l'extérieur du cadre normatif 
+homme/femme : ( ... ) feminism, particularly but not exclusively in its institutionalized 
+form, bas not been able to keep space with nonnormative genders as they are thought, 
+embodied, and lived. (Salamon, 2008 : 115) 
+Namaste (2011) reproche aux féministes de ne pas avoir porté suffisamment attention 
+aux conséquences que leurs théories pourraient occasionner sur la situation sociale 
+concrète de ces personnes. Elle soutient que les préoccupations des intellectuels 
+concernant les questions identitaires trans déterminent ce qui est connu à propos des 
+situations trans. 
+Elle soulève aussi l'existence d'un problème relié à l'utilisation du terme anglais 
+transgender par des personnes qui s'expriment dans une langue autre que l'anglais: 
+The impossibility of translating these words speaks to the cultural bias of 
+the framework: if you live, work, or think outside the terms of English­
+speaking lesbian/gay politics, you cannot make sense oftransgender theory 
+or activism. (N amaste, 2011: 21) 
+Il lui apparaît que le trop vaste champ discursif de ce terme en vient à lui conférer un 
+caractère exclusif à l'égard de la majorité des personnes transsexuelles. 
+À travers sa critique, Namaste (2011) affirme l'existence d'un modèle implicitement 
+queer, intrinsèque à la majeure partie des discussions à propos des identités trans dans 
+21 
+les milieux de recherche anglophones. Elle est préoccupée par les conséquences que la 
+valorisation de ce paradigme entraîne dans la vie concrète des personnes qui ne s'y 
+identifient pas, notamment plusieurs personnes trans issues de la communauté 
+francophone. Serano (2007) fait aussi référence à cette inquiétude lorsqu'elle fait 
+allusion aux pratiques subversives. Selon elle, le fait de glorifier des identités et des 
+modes d'expression qui bouleversent le cadre normatif de genres entraîne 
+automatiquement la création en parallèle, d'une catégorie inhérente de personnes dont 
+les situations et identités de genre sont représentés comme ayant un caractère 
+conservateur, parce qu'ils sont perçus comme légitimant ou naturalisant le système de 
+genre binaire. 
+Enfin, la difficulté à intégrer réellement et respectueusement les enjeux trans n'est pas 
+seulement le problème des études féministes et des sciences sociales et humaines en 
+général. Elle a aussi été repproché au champs des études LGBT. En effet, Salamon 
+(2008) met en évidence le problème qu'ont les études LGBT à réellement porter 
+attention aux identités trans en rapportant comment Dean Spade a modifié l' accronyme 
+LGBT dans sa forme anglaise pour qu'en résulte: "LGB-fake-T". (Salamon, 
+2008 : 122) Il est possible d'expliquer ce jeu d'accronyme en mobilisant Baril (2017) 
+qui fait référence à Stryker (2008), Namaste (2000;2005;2015) et Connell (2012) dans 
+une critique des recherches utilisant l'acronyme LGBT. Selon eux, même des 
+recherches crées spécifiquement dans le champ des enjeux trans, instrumentalisent les 
+sujets trans pour l'obtention de subventions. C'est-à-dire que plusieur recherches 
+utilisant cet acronyme, qui inclut le T pour trans, ne font pas, ou font à peine mention 
+des enjeux trans, se concentrant plutôt sur les minorités sexuelles alors qu'elles 
+recoivent des subventions, parce qu'elles prétendent traiter des enjeux trans: 
+Plusieurs chercheur.euse.s trans* questionnent le processus de «toketism» 
+sous-jacant à ce regroupement des personnes trans avec les minorités 
+sexuelles, permettant à des chercheur.euse.s cis de se donner bonne 
+conscience par rapport aux enjeux trans* et d'obtenir du financement pour 
+leurs projets de recherche. (Baril, 2017 :298) 22 
+Bref, Namaste (2011), Serano (2007) et autres partagent une commune inquiétude 
+concernant la position sociale occupée par les personnes qui développent et font valoir 
+des connaissances à propos des réalités trans, ainsi qu'à propos des conséquences que 
+les représentations véhiculées par ces connaissances ont sur les moyens qui sont 
+socialement promus et mis en place pour intervenir sur les situations trans. 
+While these latter researchers likely considered themselves well­
+intentioned, they have left a legacy in which naturally occurring, 
+exceptional sex characteristics and gender inclinations are routinely viewed 
+as abnormalities, paraphilias, and pathologies. (Serano, 2007: 115) 
+À ce sujet, Serano (2007) ajoute que dans les contextes sociaux passés et actuels, qui 
+sont imprégnés de sexisme traditionnel binaire, il est impossible pour les chercheurs et 
+les théoriciens de dégager totalement leur vision politique et personnelle dans leurs 
+démarches scientifiques. Cette impossibilité est indépendante de leur souci de 
+bienveillance comme de leurs bonnes intentions. 
+1.1.4. Les savoirs, au-delà des positions 
+Les critiques développées par Namaste (2011) et Serano (2007) posent la question des 
+enjeux reliés aux positions identitaires des personnes qui créent les savoirs trans. Il est 
+notamment question de la manière dont la localisation identitaire des théoriciens 
+intervient -part de subjectivité -dans le développement ainsi que la nature même des 
+savoirs. Les préoccupations de Namaste (2011) et Serano (2007) peuvent être reliées à 
+des discussions théoriques qui portent sur la question du savoir situé (standpoint). Ces 
+23 
+discussions théoriques s'intéressent aux enjeux reliés à la situation sociale occupée par 
+les personnes qui sont en mesure de créer et de faire valoir les savoirs. 
+1.2. État de question : La recherche francophone au Québec 
+L'intérêt pour les sujets relatifs aux questions trans émerge dans les milieux 
+scientifiques francophones, tandis qu'il est déjà relativement bien développé au sein 
+des milieux scientifiques anglophones. Dans le passage suivant, une brève revue de la 
+littérature francophone québécoise sera présentée. 
+Depuis 2005, Alexandre Baril a publié différents articles scientifiques concernant les 
+situations trans. Il a beaucoup abordé les privilèges cis et les privilèges masculins des 
+hommes trans. (Enriquez, Hébert, Chamberland et Dumas, 2012). Jean Dumas, pour sa 
+part, s'intéresse aux usages d'Internet liés à la santé parmi les minorités sexuelles 
+LGBT (les personnes lesbiennes, gaies, bisexuelles et transgenres) depuis 2007. 
+(Enriquez, Hébert, Chamberland et Dumas, 2012) Nathalie Duchesne (2009), quant à 
+elle, s'est intéressée aux situations trans dans le cadre de sa maîtrise en science 
+politique. Son travail portait sur la violence et la résistance concernant l'identité civile 
+des personnes trans. Line Chamberland (2011 ), a entre autres publié une recherche à 
+propos de la transphobie en milieu scolaire, réalisé en collaboration avec Alexandre 
+Baril et Natalie Duchesne. (Enriquez, Hébert, Chamberland et Dumas, 2012) À 
+l 'UQAM, Mickael Chacha Enriquez a rédigé un mémoire à propos du militantisme 
+trans au Québec. Il y a déjà quelques années, il a également coordonné un projet de 
+recherche-intervention auprès des aînés-es trans. (Enriquez, Hébert, Chamberland et 
+Dumas, 2012) Mentionnons également l'article d'Annie Pullen Sansfaçon (2015), à 
+propos de la parentalité et des jeunes transgenres, qui explore : « les connaissances les 
+plus récentes sur l'expérience des jeunes trans et de leur famille, et propose des pistes 
+24 
+d'intervention pour les professionnels travaillant directement ou indirectement avec ces 
+populations.» (Pullen Sansfaçon, 2015: 93). Dernièrement, Pullen Sansfaçon (2016) a 
+également abordé les enjeux de reconnaissance sociale selon Axel Honneth (2010) en 
+lien avec le vécu des jeunes trans. Plus récemment, Jean-Sébastien Sauvé (2016) s'est 
+intéressé aux situations trans dans le domaine du droit. Dans sa thèse de doctorat, il : 
+[ ... ] remet en question ces idées généralement reçues en doctrine selon 
+lesquelles le sexe ainsi catégorisé émanerait en tout ou en partie de la nature 
+humaine. [ ... ]Il défend donc l'idée selon laquelle le sexe des personnes est 
+toujours conditionné par l'action du pouvoir juridique, qui projette sur elles 
+la catégorie sexuelle à laquelle elles sont rattachées. (Sauvé, 2016: i) 
+Au printemps 2016, Maud-Yeuse Thomas et Karine Espineira ont également publié un 
+article dans la revue Nouvelles pratique sociales. L'article est intitulé « Le 
+"transsexualisme", entre normes sociojuridiques, normes de santé et normes de 
+genre. » (Thomas, M. et Espineira, K, 2016) Enfin, il est important de mentionner le 
+tout nouvel ouvrage publié par Maria Nengeh Mensah, Janik Bastien Charlebois, 
+Olivier Vallerand, Sandra Wesley et Ken Monteith (2017), qui aborde« l'expérience 
+du militantisme par le biais des témoignages de personnes qui luttent pour l'inclusion 
+sociale de leurs communautés sexuelles et de genres.» (Nengeh Mensah, Bastien 
+Charlebois, Vallerand, Wesley et Monteith, 2017: 82) 
+Ces travaux de recherche et ces articles scientifiques reconnus de la part des membres, 
+intervenants et militants de la population trans québécoise ont une valeur symbolique 
+et matérielle importante. 
+Effectivement, l'engouement existant depuis environ dix ans pour les sujets de 
+recherche relatifs à des questions trans -qui se fait grandissant sur la scène scientifique 
+francophone -suscite des tensions et des inquiétudes au sein de la population trans 
+québécoise. D'ailleurs, à l'occasion de quelques échanges informels avec des militants 
+25 
+trans, j'ai constaté que plusieurs d'entre eux sont réticents à l'idée de prendre part à des 
+travaux de recherche menés par des personnes cis. Lorsque je faisais allusion au présent 
+travail de maitrise, il était notamment fréquemment question de ma position de genre. 
+La manière dont plusieurs de ces personnes semblaient identifier leurs réticences 
+semble concerner les questions théoriques du savoir situé (standpoint) que Gaussot 
+(2008) décrit comme étant le rapport existant entre la position sociale occupée par les 
+personnes qui mènent des recherches et la valeur scientifique accordée à leurs travaux. 
+Dans le contexte de l'étude des situations trans, les questions du savoir situé concernent 
+l'interrogation de l'identité de genre dans les rapports sociaux ainsi que son effet dans 
+la connaissance et la compréhension de ces rapports. 
+1.2.1. Liens avec le travail social 
+Ce travail de recherche a pour objectif implicite d'aborder le processus de recherche 
+comme étant une pratique d'intervention sociale. Selon Karsz (2000), les théorisations 
+développées au sujet de l'exclusion interviennent dans la création des problématiques 
+d'exclusion. De plus, il est possible d'envisager les discours théoriques relatifs aux 
+sciences sociales comme étant des parcelles d'interventions qui opèrent une activité sur 
+le social en même temps qu'elles l'analysent. « Les sciences sociales et humaines se 
+livrent à un processus d'appropriation cognitive d'un réel donné, de mise en forme et 
+de mise en sens d'un réel donné.» (Karsz, 2000: 156). 
+Les chercheurs qui mènent des recherches dans le champ du travail social sont 
+particulièrement concernés par le travail qu'ils contribuent à actualiser sur l'objet 
+d'étude qu'est la société. Cette actualisation se produit à travers l'utilisation qu'ils font 
+des théories relatives au champ des sciences sociales, ainsi que grâce à la contribution 
+que leurs travaux apportent, qu'elle soit positive, ou négative. En intervenant à 
+26 
+l'intérieur du cadre des sciences sociales, ils ont la possibilité de travailler sur le social, 
+sur l'exclusion. (Karsz, 2000: 162-163) 
+En effet, selon Karsz (2000), les théories élaborées à l'intérieur du champ des sciences 
+sociales ne sont pas désengagées. La façon dont elles décrivent certaines situations, ou 
+comment elles identifient ce qui est considéré comme étant socialement problématique 
+est teintée par des idéologies des théoriciens qui les articulent. Ces théories entrent en 
+ligne de compte dans la manière dont se réalisent les rapports sociaux. (Karsz, 2000: 
+168). « Sont également en cause des modèles culturels, des projets de société, des 
+rapports de domination et de subordination, des enjeux économiques, des 
+positionnements politiques, des conceptions idéologiques.» (Karsz, 2000: 133). Ces 
+modèles culturels et ces projets de société participent à la définition des situations 
+d'exclusion selon l'importance qui leur est accordée. Par conséquent, il peut être 
+pertinent d'aborder les ouvrages théoriques que constituent les mémoires réalisés par 
+des étudiants en travail social dans le cadre de pratiques similaires à celles qui se 
+rapportent au domaine de l'intervention. 
+Ainsi, en ce qui concerne les pratiques de théorisation en travail social, il m'apparaît 
+impératif de maintenir un rapport critique à l'égard des théories utilisées. Il est 
+parallèlement question de la nécessité que les chercheurs en travail social entretiennent 
+un rapport critique à leur formation, aux théories qu'ils puisent au sein des sciences 
+sociales et à la manière dont ils les actualisent dans certains contextes, pour des 
+situations spécifiques. Cette pratique peut s'opérer par l'entremise d'un travail de 
+déconstruction théorique tel que proposé par Karsz (2000). Dans cette perspective, la 
+déconstruction théorique des situations trans est un point de départ pertinent pour 
+l'élaboration de mon mémoire. 
+27 
+De plus, il s'agit également de faire prendre conscience au chercheurs cis des privilèges 
+( cisnormatifs) liés à leur posture sociale, dans le cadre de leurs recherches à propos des 
+vécus trans. Il est aussi question de mettre en lumière les conséquences qui résultent de 
+la nature du rapport réflexif qu'entretiennent les chercheurs à leur pratique de 
+recherche. C'est-à-dire qu'il est question de considérer comment la qualité de ce 
+rapport réflexif peut influencer la nature de la prise de contact des chercheurs, la 
+création d'un lien de confiance avec des personnes, des groupes ou des collectivités qui 
+s'insèrent dans des dynamiques d'exclusion sociale, dont c'est le cas pour plusieurs 
+personnes trans. 
+1.3. Le projet de recherche 
+1.3 .1. Pertinence sociale et scientifique 
+Tel que mentionné en introduction, militants, théoriciens, intervenants et citoyens qui 
+sont concernés par les situations trans se questionnent sur comment sont menées les 
+recherches à ce sujet. Ils s'inquiètent sur les conséquences que peuvent engendrer les 
+représentations et définitions des situations trans. Plus particulièrement, ils craignent 
+l'influence que ces représentations et définitions ont sur les conditions d'existence 
+matérielles et symboliques des personnes trans. Les réticences de la part des militants 
+trans limitent la prise de contact des chercheurs -particulièrement ceux qui sont cis -
+avec les membres de cette communauté. Plusieurs personnes trans expriment d'ailleurs 
+avec fermeté leur position de refus de participer à des projets de recherche sur les 
+réseaux sociaux et les blogues informatiques (Anne, 2009). 
+D'autre part, pour des questions politiques, d'autres militants trans font état d'une 
+nécessité que des liens soient établis entre les membres de la communauté trans et des 
+28 
+alliés cis, reconnus au sein de la communauté scientifique dominante. Effectivement, 
+plusieurs personnes rencontrées lors d'entretiens informels ont mentionné la nécessité 
+que leurs revendications sociales puissent être légitimées à l'aide d'ouvrages 
+théoriques pertinents, afin de bénéficier d'une meilleure prise en considération de la 
+part des décideurs politiques -majoritairement cis. 
+De plus, dans le plan de revendication trans présenté au ministère de la Justice en avril 
+2012, différents membres d'organismes communautaires s'intéressant aux situations 
+trans se sont concertés pour mettre de l'avant une demande concernant la formation 
+universitaire offerte aux futurs professionnels de la santé qui interviendront auprès des 
+personnes trans : 
+Interpeller les milieux universitaires afin que les informations et la matière 
+touchant l'identité de genre qui sont enseignées soient les plus récentes, 
+pour mettre fin au problème éthique par lequel des professionnels de la 
+santé traitent les personnes transsexuelles et transgenres à partir de données 
+scientifiques qui ne sont pas à jour. (Comité trans du CQGL, 2012). 
+Quelques années plus tard, Côté, Charlebois et Bouchard (2016) mentionnent comment 
+les personnes trans qui tentent d' obrenir des soins sociaux et de santé rencontrent 
+encore beaucoup de difficultés, des barrières. (Coté, Charlebois et Bouchard, 2016:27) 
+( ... ) se trouvent une méconnaissance des professionnels de la santé des 
+réalités trans, des expériences de stigmatisations effectives, appréhendées 
+ou vicariantes lors de la demande de service, l'absence de politiques 
+institutionnelles inclusives de même que des lacunes dans le suivi lorsque 
+les personnes trans accèdent aux services.(Coté, Charlebois et Bouchard, 
+2016:27) 
+Les difficultés relatives à la marginalisation et à l'oppression auxquelles se heurtent les 
+personnes trans impliquent : « ( ... ) une gamme de conséquences négatives sur la santé 
+29 
+physique, la santé mentale, les liens socioaffectifs et la trajectoire socioéconomique 
+(Bauer et Scheim, 2015; Fish, 2006; Jones et al., 2016; Peers et Demczuk, 1998).» 
+(Coté, Charlebois et Bouchard, 2016:22) 
+Aussi, lorsque certains secteurs relatifs au milieu de l'intervention portent attention au 
+situations trans, parfois, les approches d'intervention spécialisées qu'ils développent 
+avec leurs visées normatives et correctionnelles, ont un caractère encore plus invalidant 
+pour les identités trans. (Coté, Charlebois et Bouchard, 2016:22): «Dans ces secteurs 
+spécialisés comme dans le milieu de l'intervention en général, les connaissances des 
+réalités spécifiques des personnes LGBTQI sont soit minimes, soit absentes, soit 
+détachées des perspectives et savoirs développées dans ces communautés (Bauer et al., 
+2009; Fish, 2006; Thomas et al., 2013). » (Coté, Charlebois et Bouchard, 2016:22) 
+Enfin, Coté, Charlebois et Bouchard (2016) mentionnent que le peu d'offre de contenu 
+concernant entre autre la diversité de genre dans les formations collégiales ou 
+universitaires contribut à faire en sorte que les services disponibles pour les personnes 
+trans soient inadaptés à leurs situations. (Coté, Charlebois et Bouchard, 2016:22) 
+L'offre d'une formation de qualité aux futurs professionnels de la santé et des services 
+sociaux, aux futures intervenants, sous-entend un renouvellement constant des 
+connaissances portant sur les situations trans. Il est donc nécessaire que le secteur de 
+recherche portant sur celles-ci continue de se développer de manière pertinente au sein 
+des universités québécoises. 
+Dans cette perspective, mieux comprendre comment les personnes trans souhaitent que 
+soient menés les recherches faciliterait l'établissement de relations plus conviviales 
+entre les chercheurs et les intervenants qui travaillent auprès d'elles. Il serait ainsi plus 
+aisé aux chercheurs des milieux universitaires de contribuer au renouvellement de 
+30 
+savoirs plus révélateurs des besoins des personnes trans en ce qui a trait notamment au 
+domaine de la santé, mais également à celui des services sociaux. 
+À ce titre, des chercheurs et professionnels de l'intervention soulignent 
+l'importance de la participation des sujets dans la production des savoirs et 
+l'orientation des pratiques comme mode de reconnaissance sociale. C'est 
+notamment le cas de ceux et celles adhérant à l'approche anti-oppressive 
+(Pullen Sansfaçon, 2013).(Coté, Charlebois et Bouchard, 2016 :25) 
+Nonobstant ces dernières informations il faut prendre en considération la faible 
+proportion de personnes trans qui accèdent actuellement à la possibilité de contribuer 
+au développement de savoirs scientifiques francophones en tant que chercheur6 : 
+( ... ) il n'est pas exagéré d'affirmer que les études trans* faites par/pour les 
+personnes trans* dans la francophonie canadienne sont inexistantes; si le 
+Canada entier ne compte que huit personnes trans* spécialisées dans les 
+enjeux trans* comme professeur.e.s, aucune d'entre elles n'enseigne en 
+français au moment oùje rédige cet article. (Baril, 2017 :302) 
+Par conséquent, le présent mémoire est issu de l'intention d'explorer et de proposer des 
+méthodes pour que les chercheurs -en dépit de leur situation de genre cis ou trans -
+soient en mesure de contribuer à l'amélioration des situations trans. C'est-à-dire à 
+travers la création de savoirs rigoureux, reconnus au sein de la communauté 
+scientifique dominante et également reconnus au sein de la communauté trans pour leur 
+capacité à répondre aux besoins matériaux et symboliques de cette population 
+minoritaire. Pour répondre à cette intention, il apparaît préalablement nécessaire de 
+6 Depuis 2018, Alexandre Baril a obtenu un poste de professeur adjoint francophone à l'École de service 
+social de l'Université d'Ottawa, pour y enseigner notamment des contenus liés à la diversité sexuelle, 
+de geme, et de corps.(Baril, 2017 :302) 
+31 
+mieux comprendre la nature des critiques que les personnes trans font sur comment 
+sont menées les recherches à leur sujet. 
+1.3 .2. Questions de recherche et objectifs 
+Dans cette optique, la question de recherche comporte deux aspects: qu'est-ce que les 
+personnes trans pensent de la manière dont leurs identités et les situations qu'elles 
+vivent sont traitées dans les recherches ? De quelle manière les personnes trans 
+souhaitent-elles que les recherches francophones représentent leurs identités et les 
+situations qu'elles vivent? L'objectif poursuivi à travers le processus de recherche est 
+d'explorer et de comprendre le point de vue de personnes trans à propos des manières 
+dont leurs situations sont représentées dans les ouvrages scientifiques afin de 
+considérer comment elles aimeraient qu'elles le soient dans ceux qui seront développés 
+dans les milieux de recherche francophones. 
+Dans la perspective du débat à propos des savoirs situés, cette recherche vise à mettre 
+le point de vue situé des personnes trans à l'avant-plan. Elle a donc pour premier 
+objectif de comprendre le point de vue de personnes trans à propos comment la 
+recherche représente leurs situations. Dans un deuxième temps, ce travail émane d'une 
+préoccupation pour les besoins et intérêts des personnes membres de la population trans 
+francophone concernant comment sont menées les recherches au sujet de leurs 
+situations. Le deuxième objectif sera donc d'explorer comment des personnes trans 
+veulent que les recherches francophones qui abordent leurs situations soient 
+développées. Tel qu'explicité plus loin, dans le chapitre 3, le processus exploratoire se 
+déroulera en deux étapes de cueillette de données. 
+CHAPITRE II 
+THÉORIE SITUÉE, CONNAISSANCE SITUÉE ET CONCEPT DE GENRE 
+Tel que mentionné précédemment, le développement récent de la recherche sur les 
+situations trans dans les milieux de recherche francophones a ravivé des tensions reliées 
+au débat théorique portant sur les savoirs situés (standpoint). Certains aspects de cette 
+théorie seront abordés dans ce chapitre. Elle orientera l'analyse des données permettant 
+de répondre à la question de recherche. Ensuite, comme cette recherche s'intéresse à 
+comment sont représentées les situations trans, elle soulève intrinsèquement des 
+questions théoriques relatives au concept de genre. Il est donc nécessaire de cerner la 
+façon dont sera abordé le concept de genre relativement aux identités trans. Ce chapitre 
+se terminera par l'explicitation de ce concept, qui sera clarifié dans la perspective des 
+identités trans, observées dans l'optique de situations sociales trans. 
+2.1. La théorie du savoir situé (standpoint) 
+Les critiques relatives aux théories développées dans le champ des sciences sociales et 
+humaines à propos des situations vécuent par les personnes trans se rapportent à un 
+large débat concernant le lien entre la position sociale occupée par les personnes qui 
+font de la recherche à propos des identités trans et la valeur scientifique accordée à 
+leurs travaux. Effectivement, les questions et inquiétudes soulevées par plusieurs 
+membres de la population trans sont reliées à ce que Gaussot (2008) décrit comme 
+étant: 
+[ ... ] un problème ancien, mais encore très central de la sociologie de la 
+connaissance et même plus généralement de la sociologie des sciences 
+sociales : Quelles sont les conditions de possibilité de l'objectivation dans 
+les sciences sociales? Y a-t-il un point de vue privilégié sur lequel fonder 
+l'objectivation de la connaissance? (Gaussot, 2008: 189) 33 
+Dans les pages suivantes, les perspectives théoriques qui sont à l'origine des tensions 
+sous-jacentes à ce débat seront brièvement exposées. L'attention sera toutefois 
+davantage portée sur la manière dont ces tensions ont été reprises et développées par 
+différentes théoriciennes féministes et sur les propositions que certaines d'entre-elles 
+ont apportées pour tenter de les résoudre. Les thèses théoriques défendues par Namaste 
+(2011) et Serano (2007) seront abordées à travers l'exposition de ces tensions. C'est 
+selon les perspectives de ces dernières que sera circonscrit l'objet de cette recherche. 
+2.1.1. Les ancrages théoriques en sciences sociales 
+Pour Gaussot (2008), les questionnements et tensions soulevés par l'épistémologie de 
+la connaissance située trouvent leurs ancrages distinctifs dans les perspectives 
+scientifiques positivistes, marxistes et relativistes. Ces perspectives scientifiques seront 
+brièvement présentées dans le passage qui suit afin de faciliter la compréhension des 
+tensions et des positions théoriques qui se rapportent au débat sur la question du savoir 
+situé. 
+Fondamentalement, le positivisme découle de l'idée que la nature est gouvernée par 
+des lois universelles, des régularités importantes. Par conséquent, cette idéologie 
+soutient qu'il est possible de régir le monde historique et social selon la même rigueur 
+objective que celui de la nature. Grossièrement, le positivisme prône et croit en la 
+34 
+possibilité d'une pleine neutralité de la part du chercheur à l'égard de son objet de 
+recherche. C'est-à-dire que le point de vue situé n'a pas lieu d'être : 
+Dans le cadre de la théorie classique de la connaissance comme « miroir de 
+la nature», il faut se défaire de ses valeurs, intérêts, passions, préjugés, 
+biais idéologiques, pour observer la réalité« telle qu'elle est», considérée 
+comme existant objectivement ou du moins, considérée du seul point de 
+vue de ce quel' observation instrumentalisée nous apprend. ( Gaussot, 2008: 
+188) 
+Le marxisme réagi en quelque sorte au positivisme dont il réfute l'objectivité absolue, 
+qu'il considère plutôt comme étant l'expression scientifique du point de vue dominant. 
+En opposition au positivisme, le marxisme soutient que la position occupée par un 
+chercheur au sein de rapports sociaux est toujours définie par l'exploitation et la 
+domination. Ainsi, cette position comporte des conséquences sur la manière dont le 
+chercheur se représente et présente son objet d'étude. (Gaussot, 2008: 188) Selon le 
+marxisme, les classes réformistes ou contestataires occupant la position d'opprimées 
+au sein des rapports de pouvoir seraient celles dont le point de vue favoriserait la 
+connaissance la plus objective de la vie sociale en regard de leur capacité à la produire. 
+« Le prolétariat serait même la seule classe dans l'histoire à pouvoir accéder à la vérité, 
+fondamentale pour sa praxis et pour l'avènement de l'histoire, parce qu'il est la seule 
+classe capable de penser et de vouloir sa propre disparition.» (Gaussot, 2008: 188) 
+Finalement, la perspective interprétative de la vision relativiste soutient l'impossibilité 
+d'objectiver l'explication des phénomènes historiques et sociaux. Cette impossibilité 
+serait due au fait que la sensibilité et le regard de la personne qui observe ces 
+phénomènes sont nécessairement influencés par ses intérêts, son contexte social et ses 
+préoccupations, ainsi que son point de vue : 
+Le relativisme contemporain repose de même sur l'idée qu'il n'existe pas 
+de critères universels et absolus permettant de départager les connaissances 
+vraies de celles qui sont fausses, donc à la limite« que les débats théoriques 
+et méthodologiques en science ne sont que le reflet de rapports de force 
+entre groupes aux intérêts divergents » (Ollivier et Tremblay, 2000). 
+(Gaussot, 2008 : 188) 35 
+Par conséquent, le chercheur accèderait à l'objectivité non pas malgré son point de vue 
+situé, mais bien selon le fait que sa connaissance y est toujours relative. 
+2.1.2. La contribution des féministes 
+Comme mentionné précédemment, dans le cadre de cette recherche, la théorie du savoir 
+situé sera envisagée dans l'optique d'un large débat impliquant de multiples positions, 
+dont celles développées par la critique féministe. Elles seront brièvement exposées dans 
+les passages suivants. En dépit de la divergence de leurs positions, les féministes qui 
+contribuent au développement des théories sur le savoir situé se rallient autour de la 
+production d'analyses critiques des relations entre les expériences matérielles, le 
+pouvoir, l'épistémologie et les effets que ces relations de pouvoir occasionnent sur la 
+nature des connaissances produites, ainsi que sur la manière dont elles sont produites. 
+L'articulation théorique de la connaissance située fonctionne selon trois principes de 
+base, qui seront développés ci-dessous. 
+D'abord, l'épistémologie de la connaissance située abandonne l'idée d'objectivité 
+théorique ainsi que celle de désintéressement du chercheur vis-à-vis de son sujet, pour 
+proposer que « toute connaissance est nécessairement située dans le temps et l'espace » 
+et ancrée« dans les conditions matérielles d'existence spécifiques à un groupe et à une 
+époque donnée (Ollivier et Tremblay, 2000). » (Gaussot, 2008: 190) Il est question de 
+considérer la position sociale et historique des agents de production de connaissances 
+36 
+comme étant déjà en soi partie prenante du processus de production de connaissances. 
+C'est à dire que l'emplacement social d'une personne ou plus particulièrement d'un 
+chercheur est révélé par ses pratiques et choix épistémiques. Ce faisant, cet 
+emplacement modélise la manière dont il comprend le monde, mais également la 
+manière dont le monde lui est présenté à travers son expérience. Bref, du point de vue 
+des théories de la connaissance située, les savoirs théoriques développés supposent 
+toujours la mobilisation d'hypothèses, dont sont constitutifs «les circonstances 
+sociales, les valeurs et les intérêts» des chercheurs qui les développent. (Gaussot, 2008: 
+189) 
+Ensuite, la théorie du savoir situé postule qu'il y a certaines positions sociales qui 
+peuvent devenir des positions épistémologiques privilégiées pour questionner les 
+rapports sociaux existants entre ceux qui sont marginalisés et ceux qui occupent une 
+position d'oppresseurs en raison des privilèges sociaux et politiques dont ils 
+bénéficient. En occurrence, selon cette théorie, la position située des groupes 
+marginalisés est à privilégier. Effectivement, l'idée d'une position de standpoint 
+suggère que la position des groupes marginalisés leur permet de considérer les 
+problèmes relatifs aux enjeux de rapports de pouvoir sociaux avec un meilleur 
+discernement que les groupes dominants. (Bowell, 2011) 
+Finalement, la théorie du savoir situé souligne que les recherches à propos de questions 
+et d'enjeux relatifs aux rapports de pouvoir sociaux devraient prioriser le point de vue 
+des gens qui se trouvent dans ces positions de vulnérabilité sociale. Il s'agit d'une thèse 
+selon laquelle les relations de pouvoir créent la connaissance. Selon Bowell (2011), il 
+est important de ne pas la comprendre comme étant arbitraire. Au contraire, des 
+théoriciennes de la connaissance située ont revendiquée, puis repensé l'objectivité. À 
+ce propos, en réponse aux théoriciennes qui nommaient que l'épistémologie de la 
+standpoint faisait un glissement épistémologique dangereux, Sandra Harding (2004) à 
+37 
+instauré le concept de « strong objectivity ». C'est-à-dire que l'objectif épistémique 
+ultime de la théorie du savoir située serait d'inclure tous les points de vue internes à un 
+groupe marginalisé, et donc de reconnaître les croisements des différentes variations 
+identitaires (genre, sexe, classe, origine culturelle, etc.) des gens qui le composent. 
+2.2. Le développement des savoirs selon une position située 
+Pour que les savoirs développés selon la position située soient jugés valides 
+relativement à cette perspective théorique, ils doivent entre autres avoir été acquis dans 
+un état de conscience de la position sociale qui sous-tend leur acquisition. En ce sens, 
+la position privilégiée de création de savoirs ne vient pas simplement du fait d'occuper 
+une position sociale, mais plutôt de la conscience collective qu'un groupe a du fait que 
+sa position s'ancre dans un contexte politique et social (Harding, 2004: 8 dans Bowell, 
+2011). De plus, avoir conscience collectivement de sa position sociale et politique ne 
+suffit pas. Effectivement, cette conscience collective doit être accompagnée par une 
+position, un état de lutte : « [ ... ] a standpoint is eamed through the experience of 
+collective political struggle, a struggle that requires, as Nancy Hartsock puts it, both 
+science and politics [Harding 2004: p. 8]. » (Bowell, 2011: 4) Pour survivre à l'intérieur 
+des configurations sociales où elle est opprimée, une personne doit et peut comprendre 
+l'entrelacement des pratiques d'oppression à la fois de son point de vue et de celui de 
+l'oppresseur. Cette position privilégiée n'est pas accessible à ceux qui occupent la 
+localisation de dominants. (Bowell, 2011 : 5) 
+Le savoir situé d'un groupe social donné nécessite donc que ses membres prennent 
+conscience de comment les groupes dominants les représentent. Puis, il nait de la 
+volonté (la position de lutte) que les membres de ce groupe social ont d'en révéler les 
+aspects identitaires d'une manière plus nuancée afin de contrer les effets (négatifs) 
+38 
+engendrés par la représentation identitaire unique créée par les groupes dominants. 
+Ainsi, en définitive, pour un groupe social dominé, l'objectif de développement du 
+savoir selon le point de vue situé est de devenir son propre objet de connaissance en 
+établissant ses propres conditions, ses propres règles plutôt que d'être un objet de 
+connaissances compris par d'autres groupes (dominants), selon leur mode de 
+découverte et de valorisation spécifique de la connaissance. (Bowell: 2011) 
+Bowell (2011) traite également de la position du« Outsider within », qui serait celle de 
+féministes noires occupant à la fois une position privilégiée au sein du milieu 
+universitaire et à la fois une position marginale, étant des femmes noires. Selon Bowell 
+(2011) cette position de création de savoirs serait très privilégiée en raison de la double 
+perspective de connaissance de la réalité qu'elle permet. 
+2.2.1. Les tensions théoriques et la perspective « trans » 
+Comme présenté ci-dessus, au départ, les théories du savoir situé représentaient des 
+thèses descriptives. Puis, des féministes matérialistes en s'inspirant de la perspective 
+marxiste, ont contribué à la définition de normes promouvant l'idée du statut 
+épistémique privilégié, voire supérieur des groupes marginalisés. Ce déplacement 
+normatif a donné lieu à différentes prises de position de la part des féministes. Les 
+tensions théoriques sous-jacentes à celles-ci alimentent les questions relatives au débat 
+sur les savoirs situés. Les auteures intéressées et concernées par les questions trans ont 
+formulé des critiques qui s'inscrivent dans ce débat théorique. Parmi celles-ci, on 
+retrouve notamment le postulat du point de vue féministe matérialiste, selon lequel les 
+groupes marginalisés occuperaient une position épistémologique privilégiée pour le 
+développement de connaissances comptant une meilleure validité pour l'analyse des 
+relations de pouvoir entre différents groupes sociaux. On retrouve également le point 
+39 
+de vue de féministes postmodernes telles que Butler (2005), qui ont revendiqué l'idée 
+d'une identité fluide, et donc du caractère perméable et malléable des catégories 
+identitaires situées. Cette revendication amène un déplacement de l'idée d'une réalité 
+matérielle partagée, vers l'idée qu'il n'y a pas de réalité matérielle unique et absolue. 
+Dans les passages suivants, quelques-unes de ces tensions théoriques seront brièvement 
+présentées. Les enjeux théoriques et politiques qui sont propres aux thèses défendues 
+par Namaste (2011) et Serano (2007), deux théoriciennes trans, qui se posent en 
+quelque sorte en réponse aux thèses défendues par certaines féministes anglo­
+américaines telles que Judith Butler seront nommés. Ces propositions théoriques ont 
+servi de point de départ pour la modélisation du présent projet de recherche. 
+Selon le postulat féministe matérialiste, les groupes sociaux marginalisés occupent la 
+position épistémologique la plus intéressante pour la production de connaissances 
+théoriques valides en ce qui concerne l'analyse des relations de pouvoir entre les 
+différents groupes sociaux : « [ ... ] some social locations, specifically marginalized 
+locations, are epistemically superior in that they afford hitherto unrecognized epistemic 
+privilege, thereby correcting falsehoods and revealing previously suppressed truths. » 
+(Bowell, 2011: 3). Donc, comme mentionné précédemment, il est possible d'observer 
+dans cette citation un glissement, un déplacement des théories du standpoint. En effet, 
+elles présentaient d'abord des thèses descriptives à propos du savoir situé. Puis, elles 
+ont graduellement présenté des thèses normatives concernant la meilleure manière de 
+définir les objectifs de transformation sociale d'un monde plus juste. (Bowell, 2011) 
+Des théories féministes ont opté pour la thèse selon laquelle le meilleur point de départ 
+pour la production de connaissances consiste à débuter avec l'expérience matérielle des 
+groupes marginalisés en raison de la richesse du savoir qui émerge de leur position. 
+Celles-ci ont parfois été interprétées comme mettant en valeur un essentialisme 
+40 
+universel selon lequel une personne aurait un privilège épistémique simplement en 
+raison de son appartenance à un groupe marginalisé. 
+D'autre part, en faisant la promotion de la position située d'un groupe, d'une catégorie 
+identitaire spécifique, les théories féministes du savoir situé ont parfois été qualifiées 
+d'être uniformisantes, voire de représenter le point de vue situé dominant à l'intérieur 
+d'un groupe identitaire dominé, camouflant ainsi la variété des positions identitaires à 
+l'intérieur de ce même groupe. (Bowell, 2011) Il est possible d'observer cette critique 
+de la part de certaines théoriciennes du black feminism telles que Patricia Hill Collins 
+et Bell Hooks, qui ont critiqué les savoirs créés à partir de la position située des femmes 
+comme étant majoritairement représentatifs de la position des femmes blanches 
+occidentales, dissimulant, par exemple, la perspective sociale des femmes noires 
+occidentales. (Harding, 2004 dans Bowell, 2011) Cette critique met de l'avant l'idée 
+qu'à l'intérieur même d'une position de savoir située, se trouve une variété d'autres 
+positions identitaires. À ce problème, des théoriciennes féministes ont d'abord répondu 
+que les théories féministes du savoir situé considèrent la pluralité des points de vue. 
+Aussi, certaines ont proposé des modifications de cette théorie, afin qu'elle tienne 
+compte du fait que comme les expériences des femmes impliquent le croisement de 
+diverses structures sociales oppressives, elles engendreront forcément des points de vue 
+différents. (Bowell, 2011 : 7a) 
+Dans l'optique du problème d'homogénéité mentionné précédemment, selon Namaste 
+(2011), la construction et l'application de théories du genre de manière universelle, 
+faite par certaines féministes, a eu comme contrecoup d'entrainer l'exclusion de 
+certaines formes d'identités trans, telles que les identités transgenres et transsexuelles, 
+ne correspondant pas aux modèles de genre promus par les perspectives queers: « To 
+state that one is neither a man nor a woman, or that one is a third gender, or that gender 
+is only a social construct so one is, in fact, nothing, ignores the very fundamental reality 
+41 
+of being in the world. » (Namaste, 2011 : 22) À ce propos, ailleurs, dans le même 
+ouvrage, elle ajoute : 
+Transsexuality is about the banality of buying some bread, of making 
+photocopies, of getting your shoe fixed. [ ... ] it is not about starting the 
+gender revolution. [ ... ] queer theory and much transgender theory do not 
+respect transsexuals because they do not understand transsexuality on its 
+own terms. (Namaste, 2011: 20) 
+Tel que déjà mentionné, pour répondre à ces biais universalistes, des théoriciennes 
+féministes de l'épistémologie du standpoint ont essayé d'y incorporer la considération 
+de la différence. Toutefois, les féministes des théories du savoir situé et celles qui 
+priorisent un féminisme de la« différence» s'entendent difficilement. Ce litige vient 
+du fait que, pour occuper une position de savoir situé, une personne doit avoir une 
+conscience partagée d'une situation d'oppression communément vécue et un désir de 
+lutter contre cette situation. Cependant, avec l'idée d'une conscience partagée 
+occasionnée par le vécu concret relié au fait d'appartenir à un groupe dominé vient le 
+risque de dissimuler des dissemblances épistémologiques très pertinentes, voire 
+primordiales, entre les membres de ce groupe. (Bowell, 2011 : 7a) 
+2.2.2. La malléabilité des catégories identitaires 
+Des féministes postmodernes telles que Butler (2005) ont revendiqué l'idée d'une 
+identité fluide et donc du caractère perméable et malléable des catégories identitaires 
+situées. Cette revendication amène un déplacement de l'idée d'une réalité matérielle 
+partagée, vers l'idée qu'il n'y a pas de réalité matérielle unique et absolue. Cette 
+proposition est critiquée de fragiliser l'idée du pouvoir politique d'un groupe identitaire 
+42 
+dominé. C'est qu'elle remet en question d'idée d'une commune expérience matérielle 
+reliée à la position située qui est propre à cette catégorie identitaire : 
+[ ... ] the risk of occlusion of difference remains but, more fatally with 
+respect to the possibility of reconciliation, the categories upon which 
+feminist standpoint theory depends -woman, feminist, knowledge -are 
+fluid and in a state of socially influenced flux and contestation, making it 
+impossible ever properly to capture experiences and identities within 
+standpoint. (Bowell, 2011: 7a) 
+Pour répondre de cette impasse théorique, Sandra Harding (2004) a proposé de tenter 
+de représenter toutes les variétés de positions de savoirs situés (strong objectivity) 
+relatives à une situation sociale donnée, afin de révéler les différents aspects de cette 
+situation. « The ultimate epistemic goal of enquiry based on this model would be the 
+inclusion of all standpoints, enabling the revelation of different aspects of truth. » 
+(Bowell, 2011: 7b) 
+Helen Longino (1993) et Susan Hekman (1997) ont soulevé que deux des principes 
+cruciaux de la théorie du savoir situé divergent (Bowell, 2011: 7c) : « the claim that 
+knowledge is socially situated and the claim that marginalized standpoints (but not 
+perspectives) offer epistemic advantage-are in deep tension with each other. » 
+(Bowell, 2011: 7c) Il est donc possible d'y observer une tension entre l'idée que le 
+savoir est socialement situé et celle que le savoir situé des groupes marginalisés leur 
+donne un avantage épistémologique. 
+2.2.3. La position située de l'allié ou de l'alliée d'un groupe dominé 
+Puis, d'autres théoriciennes telles que Enke (2012) ont soulevé des questionnements 
+quant au statut épistémologique associé au fait d'occuper la position d'allié d'un groupe 
+43 
+dominé. Cette position se situe à la fois à l'intérieur et à l'extérieur du cadre 
+académique de production du savoir. Ceux et celles qui sont favorables à cette position 
+suggèrent que la réflexivité inhérente à la position d'allié a l'avantage épistémique 
+potentiel d'établir une connexion entre la pratique féministe et la théorie féministe : 
+The dual perspective available to someone in this position leaves her well­
+placed to recognize the underlying assumptions and evaluative 
+commitments that drive and shape the dynamics of power within the 
+Academy, while at the same time providing her with a critical frame of 
+reference derived from her own experience of the Academy, within which 
+to potentially gain a better understanding of its power structures and 
+dynamics. (Bowell, 2011: 6) 
+De nos jours, les féministes continuent de donner forme au débat à travers leurs 
+contributions théoriques. Cette tension concerne en quelque sorte une divergence de 
+positions concernant les points de vue qui sont à privilégier pour la production d'une 
+connaissance jugée plus valide.« L'idée est donc qu'hommes et femmes, oppresseurs 
+et opprimés, ne sont pas des sujets à conscience identique, mais des sujets à conscience 
+située, et que la place dans les rapports sociaux de domination a une incidence 
+dissymétrique sur la conscience même et donc sur la science.» (Gaussot, 2008: 192) 
+2.3. Les situations trans et le concept de genre 
+Tel que souligné par Dubois (2013), « depuis les années 1960, le phénomène trans s'est 
+principalement vu problématisé à la lumière de différentes théories de l'identité, plus 
+particulièrement, mais sans s'y restreindre, à partir des concepts d'identité de genre et 
+d'identité sexuelle. » Dubois (2013: 131) Il décrit comme étant le« phénomène trans » 
+l'évolution de la problématisation de la situation sociale des personnes trans. Dans le 
+cadre de ce mémoire, l'utilisation du concept d'identité de genre et la manière dont il 
+sera défini permettront de traiter des situations sociales trans. L'appellation de 
+44 
+« situations trans » sera utilisée pour mettre en lumière l'aspect socialement contextuel 
+des différentes manières dont ont été et dont continuent d'être problématisées les 
+situations sociales des personnes trans. 
+Les situations des personnes trans ont largement été identifiées comme étant propres à 
+des personnes ayant un problème d'identité de genre. Au départ, elles ont été abordées 
+selon le cadre de référence unique de la médecine qui a fait une mise en problème de 
+l'identité. Robert Stoller a d'ailleurs été le premier à lier les concepts d'identité et de 
+genre dans le cadre de ses travaux de recherche. Selon Dubois (2013), les travaux 
+effectués dans le cadre de l'approche médicale ont mené à la définition et à la 
+classification du transsexualisme et du trouble d'identité de genre selon un registre 
+psychiatrique, puis à la mise en place d'un mécanisme thérapeutique et légal pour 
+répondre de ces identités à l'intérieur de normes spécifiques. (Dubois, 2013: 13 3) Dans 
+un tel contexte, les situations trans ont donc été premièrement abordées comme étant 
+propres à des individus ayant un problème d'identité, parce que la manière dont ces 
+personnes identifiaient et vivaient leur genre ne correspondait pas à ce qui avait été 
+défini comme étant normal par les différents spécialistes. (Dubois, 2013: 134) 
+Dubois (2013) affirme ailleurs que dans les années 1970, la définition en termes 
+uniquement psychopathologiques des identités de genre trans a évolué vers une 
+classification en termes de déviance sociale. Cette perception des genres trans « [ ... ] a 
+redoublé l'effet de vérité de l'identité comme vecteur de mise en problème, tout en 
+laissant la condition dans une zone grise, entre trouble psychique et normativité sociale 
+(Castel, 2003: 154) » (Dubois, 2013: 135). 
+Aujourd'hui encore, certains chercheurs, spécialistes et individus trans s'inspirent de 
+l'angle d'approche médicale pour définir les identités de genre trans. Bien qu'elle 
+continue de jouer un rôle important dans leurs définitions, cette approche ne sera pas 
+45 
+préconisée pour en traiter dans le cadre de ce travail de recherche. Ce mémoire ne 
+considèrera pas le phénomène trans sous l'angle d'une pathologie tel qu'il fut 
+historiquement défini, pas plus que sous l'angle d'une démocratisation des normes en 
+matière de sexualité. (Dubois, 2013) Dans le passage qui suit, le phénomène trans sera 
+abordé selon la définition du concept de genre, comme étant construit socialement et 
+contextuellement à travers l'évolution des rapports de pouvoir sociaux. 
+2.3.1. L'approche sociale de l'identité de genre 
+Dubois (2013: 13 6) mentionne que la façon dont ont été représentées les identifications 
+de genre et de sexe dès les années 1960 et 1970 a suscité des réflexions théoriques qui 
+ont mené, dans les décennies suivantes, vers le développement d'une vision plus 
+introspective du genre. Il s'agit d'une vision du genre à mi-distance entre 
+constructivisme et individualisme. Le fait d'avoir mis le phénomène trans en problème 
+d'identité (de genre) l'a constitué en question centrale des débats modernes à propos 
+de la« construction sociale» du genre: « D'essence idéale à construction sociale, le 
+genre allait devenir le cœur d'une problématisation de l'individualité sexuée 
+éminemment réflexive, d'un individu sujet du genre, attaché "à sa propre identité par 
+la conscience et la connaissance de soi" (Deleuze, 2004 : 110). » (Dubois, 2013: 136) 
+C'est-à-dire que l'identité de genre n'est plus ici abordée dans une perspective 
+théorique essentialiste à travers la recherche de ce qui fonde la validité de l'identité 
+sexuelle, en regard d'une essence biologique ou psychologique, mais plutôt selon une 
+approche introspective, en tant qu'arrangement personnel. (Dubois, 2013: 136) 
+Judith Butler (2005) insiste sur l'importance de prendre en considération le fait que le 
+sexe et le genre sont des constructions sociales qui renvoient à des catégories poreuses : 
+[ ... ] Butler s'éloigne des objectifs d'une majorité de féministes de la 
+deuxième vague (notamment matérialiste), qui cherche à s'extirper 
+totalement des relations de pouvoir et qui souhaite l'abolition des 
+catégories de sexe, de genre et d'orientation sexuelle considérées comme 
+construites dans et par le système dominant. (Baril, 2007: 76-77) 46 
+La manière de concevoir le genre est intimement reliée à l'évolution de la conception 
+théorique et sociale de l'identité. Dubois (2013) parle de l'époque actuelle comme étant 
+le terreau d'une crise des identités. Ce serait l'avènement d'une société où ces identités 
+marqueraient la dispersion de ce qui constitue un problème social à l'ensemble du 
+social. « Pour le dire autrement, l'identité serait devenue, dans cette perspective, l'un 
+des axes de déploiement d'une perversion ordinaire généralisée». (Dubois, 2013: 128) 
+Selon Dubois (2013: 130), la perspective introspective de l'identité de genre émane 
+d'une nouvelle façon de normaliser, mondifiant du même coup la perception du 
+phénomène trans : 
+La normalité du phénomène, ni perversion ordinaire ni diversité ordinaire, 
+répondrait plutôt de la mise en place de partages normatifs qui font de 
+l'individualité (Otero, 2003) et de la singularité (Martuccelli, 2010) deux 
+fictions régulatrices caractéristiques d'un nouveau mode de régulation 
+normative. (Dubois, 2013: 130) 
+2.3.2. La co-construction des identités trans 
+Selon l'approche sociale de l'identité de genre exposée dans les passages précédents, 
+le phénomène trans est désormais décrit par l'entremise de termes tels que 
+transidentités, de transgender, ou d'identités transgenres. (Dubois, 2013: 135) 
+La figure de l'identité pathologique que dessinait le transsexualisme est ici 
+appelée à faire l'objet d'une lecture tout autre, à la lumière d'un tout autre 
+partage entre le normal et l'anormal, dressant les contours d'une 
+individualité sexuée (ou gendérifiée) résolument normale, ouverte à la 
+déconstruction normative du genre et à la construction de soi à travers le 
+genre. (Dubois, 2013: 136) 47 
+Ainsi, dans le cadre de ce travail de recherche, les personnes trans ne sont pas 
+représentées comme souffrant de leur propre déviance comme ce fut généralement le 
+cas dans le cadre de l'approche médicale. En raison de la position qu'elles occupent au 
+sein des rapport de pouvoir sociaux, elles sont plutôt représentées comme s'insérant 
+dans différentes situations de vulnérabilité sociales dans lesquelles elles sont sujettes à 
+éprouver diverses formes de souffrance. 
+Finalement, tel qu'il en a été mentionné précédemment, les situations trans seront 
+abordées à la lueur du concept de genre, en tant que construit social. Elles seront 
+abordées comme étant le résultat dynamique d'une co-construction sociale interactive 
+et contextuelle impliquant les personnes trans et les différents acteurs qui s'intéressent 
+à leurs situations : 
+L'histoire du transsexualisme laisse apparaître une importante 
+particularité : si trouble il y a, il s'agit d'un trouble qui « résulte d'un 
+autodiagnostic, son traitement est autoprescrit et le résultat autoévalué » 
+(Castel, 2003: 48). La catégorie officielle s'est vue construite dans un 
+dialogue entre praticiens et« patients» (Namaste, 2011). (Dubois, 2013: 
+138) 
+CHAPITRE III 
+LA MÉTHODOLOGIE DE RECHERCHE 
+Cette recherche a été menée selon une stratégie méthodologique féministe et qualitative 
+pour offrir un vaste espace d'expression critique à des personnes trans au sujet de la 
+manière dont leurs situations ont précédemment été abordées dans la recherche, et ce, 
+afin de proposer des repères méthodologiques, théoriques et éthiques pour les 
+recherches francophones menées au Québec. Au total, six groupes focus d'environ 
+deux heures chacun ont eu lieu. Dans un premier temps, la stratégie générale de 
+recherche féministe qualitative sera explicitée. L'objet d'étude, les méthodes de 
+collecte de données, de sélection et de recrutement des participants, puis les instruments 
+de collecte ainsi que d'analyse des données seront définis. Dans un deuxième temps, 
+les limites et les considérations éthiques propres à cette recherche seront exposées. 
+3 .1. La stratégie générale de recherche 
+3 .1.1. Recherche féministe 
+Ce travail se situe dans une optique méthodologique féministe. Les notions d'égalité et 
+de justice sociale sont sous-jacentes à l'adoption d'un paradigme féministe. Selon 
+Descarries (1992: 20) dans Olivier et Tremblay (2000), il s'agit d' « un champ 
+pluridisciplinaire de production de connaissances, qui vise l'analyse de la dimension 
+sexuée des rapports sociaux à la lumière des conditions symboliques, matérielles et 
+sociales de leur reproduction ». (Olivier et Tremblay, 2000: 10) Ce type de stratégie 
+49 
+méthodologique s'oppose à l'idée d'existence d'objectivité et de neutralité dans 
+l'activité scientifique, en suggérant plutôt le questionnement de la légitimité du 
+«masculin» comme représentant l'étude de l'humain. Ainsi, les recherches féministes 
+ont la particularité d'assumer que la personne impliquée dans un processus de 
+recherche endosse à la fois les postures de chercheur et d'observateur. 
+Dans le cadre de ce travail, la méthodologie féministe a été orientée de manière à 
+s'interroger sur la dimension « genrée » des rapports sociaux relatifs au domaine de la 
+recherche. Par conséquent, il s'agissait de demeurer sensible aux questions concernant 
+la légitimité du point de vue cisgenre comme unique représentant de l' études de 
+l'humain. Plus encore, il était aussi question de favoriser l'inclusion du point de vue 
+trans comme représentant d'une de ses facettes. Afin que les personnes trans puissent 
+acquérir un plus grans pouvoir face aux recherches et, éventuellement, aux 
+interventions qui les concernent, l'accent a été accordé à la parole de personnes trans 
+au sujet de la manière dont sont traitées leurs situations dans le domaine de la recherche. 
+Plus particulièrement, la ligne directrice qui a sous-tendu les choix méthodologiques a 
+été inspirée de la réponse de Butler (2006) à l'invitation de Gayatri Chakravorty 
+Spivak, théoricienne féministe : 
+Les féministes doivent elles aussi se demander si la représentation dans 
+l'Université de l'indigène, du pauvre, et de la personne privée de droits est 
+une tentative condescendante et colonisatrice ou si c'est un effort de 
+reconnaissance des conditions de la traduction qui rendent cette 
+« représentation » possible. (Butler, 2006: 258) 
+Compte tenu du contexte dans lequel j'ai endossé le rôle de chercheur dans le cadre de 
+ce mémoire, la position d'alliée de la communauté trans n'a pas été adoptée d'emblée. 
+Ce choix a été motivé par la prise de conscience que la réalisation de cette recherche a 
+50 
+initialement été motivée par la volonté d'obtention d'un diplôme de maîtrise, d'un titre 
+de travailleuse sociale et d'un emploi relatif au champ du travail social. La volonté 
+d'être ancrée dans un processus de prise de conscience à l'égard de mes privilèges 
+cisnormatifs a motivé mon refus de me positionner en tant qu'alliée, dans une situation 
+où le gain sous-jacent à la réalisation d'une activité est susceptible de solidifier ma 
+position privilégiée au sein des rapports de pouvoir sociaux. Par conséquent, j'assume 
+le rôle d'alliée des personnes trans dans une dimension processuelle (de prise de 
+conscience) plutôt qu'en tant que position fixe. C'est-à-dire que plus je chemine dans 
+la prise de conscience de mes privilèges cis, plus ma conception d'une position d'alliée 
+de personnes trans se complexifie, si bien que mon malaise augmente à l'idée de me 
+positioner moi-même en tant qu'alliée. Il m'apparait évident que pour les personnes 
+cis, la position d'allié trans ne peut jamais être définitivement acquise, puisqu'elle est 
+relative à une attitude, un savoir être acquis à travers le temps. De plus, je considère 
+que ce savoir être s'actualise grandement au niveau relationnel, dans les interractions 
+des personnes cis avec des personnes trans. Voilà pourquoi je laisse la liberté aux 
+personnes trans que j'ai croisées avant, pendant et après ma maitrise, de juger de mon 
+positionnement. 
+3 .1.2. Recherche qualitative 
+Selon Fortin et Gagnon (2010), les recherches qualitatives ont l'objectif global de 
+décrire et circonscrire des phénomènes méconnus ainsi que d'explorer intensément la 
+complexité des concepts, afin de mieux dépeindre une expérience ou de lui attribuer un 
+sens. Ainsi, le choix d'adopter une stratégie de recherche qualitative est d'abord motivé 
+par le contexte québécois de la recherche à propos des thématiques trans. L'intérêt pour 
+l'exploration de celles-ci émerge au sein des milieux de recherche francophones du 
+Québec. Peu d'ouvrages théoriques abordant les situations spécifiques de la population 
+51 
+trans francophone existent. Aucun des ouvrages existants n'aborde la question de la 
+théorie du standpoint dans la perspective des recherches trans. Par conséquent, une 
+stratégie de recherche qualitative a favorisé une exploration plus approfondie et plus 
+nuancée du point de vue de personnes trans sur comment sont menées les recherches 
+qui portent sur les situations qui les concernent. 
+De plus, en complémentarité à l'approche féministe, le choix d'une stratégie de 
+recherche qualitative de type exploratoire a fait écho à une volonté visant à rendre le 
+point de vue des participants partie prenante et même à l'avant-plan du processus de 
+recherche. La recherche qualitative de type exploratoire possède justement l'avantage 
+d'être utile lorsqu'il s'agit de « se familiariser avec les gens et leurs préoccupations» 
+(Deslauriers et Kérisit, 1997: 88). C'est pourquoi il a été demandé aux personnes qui 
+s'identifient aux situations trans de contribuer activement à la production des données 
+à travers le partage de leurs interprétations et de leurs perceptions. 
+Effectivement, des personnes trans ont été invités à explorer leur point de vue sur 
+comment les situations trans ont été représentées, de façon générale, dans l'ensemble 
+des ouvrages scientifiques qui s'y sont intéressés. Il leur a été demandé de développer 
+et d'expliciter leurs points de vue. Ils y sont parvenus en établissant des parallèles 
+concrets entre des représentations théoriques des situations trans et des exemples, en 
+ce qui a trait aux interventions politiques et sociales réalisées à leur endroit, de la 
+matérialisation sociale concrète de celles-ci. Dans un deuxième temps, selon leurs 
+interprétations et à travers la recherche d'un consensus, les personnes ont été invitées 
+à proposer des recommandations sur les procédés de représentation des situations trans 
+pour les ouvrages qui seront prochainement initiés au Québec. 
+52 
+3.2. L'objet d'étude et de recherche 
+Ce mémoire a pour objet la manière dont la recherche traitent des situations trans. Il a 
+été question de demander à des personnes trans d'exposer leurs positions à propos de 
+la manière générale dont les recherches ont abordé les situations sociales trans, dans la 
+globalité des disciplines scientifiques qui s'y sont intéressées. En s'inspirant des 
+critiques dégagées et en regard de leurs connaissances quant aux besoins spécifiques 
+des membres de la population trans francophone, les participants ont été invités à 
+proposer des pistes d'orientation méthodologiques, théoriques et éthiques pour les 
+recherches qui seront prochainement développées au Québec. 
+3.2.1. Le contexte spécifique des recherches nord-américaines 
+Le corpus de recherches à propos duquel les personnes trans ont été invitées à explorer 
+et proposer leurs points de vue a nécessairement été restreint à l'ensemble des ouvrages 
+scientifiques nord-américains. Le choix de cette restriction à une région spécifique est 
+conséquent à la divergence existante quant aux manières, dont les situations trans ont 
+généralement et abordées en France et en Amérique du Nord, à travers les différents 
+contextes sociaux historiques. Ensuite, le territoire de recherche nord-américain a été 
+spécifiquement retenu parce que le présent projet de recherche est effectué au Québec, 
+région dont les orientations sociales politiques sont plus similaires à celles de 
+l'Amérique du Nord que de la France : 
+[ ... ] la question trans s'est longtemps présentée en France de façon inverse 
+de celle des États-Unis. Alors qu'aux États-Unis le mouvement a été celui 
+d'une dissociation et d'une libération du diagnostic psychiatrique, des 
+opérations hormonales chirurgicales, du remboursement des frais 
+médicaux et du changement d'état civil, la France a configuré un bloc tout 
+à la fois homogène et restrictif, conjuguant ainsi la rigidité du diagnostic et 
+des protocoles avec un malthusianisme de 1' offre de traitements hormonaux 
+chirurgicaux. C'est cette conjoncture qui a conduit au débordement 
+contemporain du modèle depuis la fin des années 1990. À l'exemple des 
+États-Unis, les personnes trans insatisfaites des protocoles français ont 
+libéralisé et dissocié le diagnostic psychiatrique des traitements hormonaux 
+chirurgicaux. (Macé, 2010: 510) 53 
+Ainsi, le corpus général de recherche a été restreint aux ouvrages nord-américains en 
+regard de cette divergence sociale et scientifique en ce qui concerne les manières nord­
+américaines et françaises d'aborder l'existence des situations trans. 
+3.3. Les méthodes de collecte de données 
+Comme l'a mentionné Poupart (1997), les entretiens de groupes sont un instrument de 
+cueillette de données approprié pour des recherches participatives. Ils sont nécessaires 
+notamment lorsqu'il faut traiter en profondeur d'une question particulière. (Poupart, 
+1997) C'est le cas pour ce projet de recherche. Les participants ont été invités à 
+participer activement à la construction des données. En tout, treize personnes ont pris 
+part à cette recherche. Les points de vue qu'elles ont élaborés et formulés, à travers leur 
+participation aux groupes de discussion, ont constitué les données sous-jacentes aux 
+analyses qu'elles ont réalisées conjointement avec l'initiatrice de cette recherche. 
+La collecte de données a été effectuée par 1' entremise de six entretiens de groupe non 
+directifs, plus précisément de groupes focus structurés comme des groupes de 
+discussion et fait auprès de petits groupes de participants. Ils se sont déroulés en deux 
+étapes. À l'occasion d'un premier focus groupe, les participants ont été invités à 
+explorer leur point de vue concernant la manière dont les situations trans ont été 
+abordées dans la recherche. À l'occasion d'un second groupe focus, selon les résultats 
+des analyses qui ont été produits à la suite des premiers focus groupe, les groupes de 
+54 
+participants ont été invités à proposer des pistes de réflexions théoriques, 
+méthodologiques et éthiques qu'ils aimeraient voir considérés pour les recherches 
+ultérieures. Des chercheurs ayant choisi les focus groupe pour leur collecte de données 
+dans le cadre de projets similaires à celui-ci ont fait le choix d'accorder une période 
+d'une à deux heures pour chacun des entretiens de groupe. (Onwuegbuzie et al., 2009 
+: 3 ; Guillemette, Luckerhoff, Baribeau, 2010; Touboul et al., 2011) Dans le cadre de 
+la présente recherche, une période d'environ deux heures a été accordée à chacun des 
+groupes focus. 
+Boutin (2007) reconnaît les convenances de l'utilisation de l'entretien de groupe 
+lorsqu'il s'agit d'étudier à fond l'intelligibilité d'une problématique vécue 
+mutuellement par un ensemble d'individus. « L'apport positif de l'interaction entre les 
+participants [ ... ] permet à chacun de comparer son point de vue à celui des autres et 
+ainsi de l'affiner. Le recours au groupe fait également ressortir les points d'accord et 
+de désaccord.» (Boutin, 2007: 30) Les entretiens de groupe ont donc permis aux 
+participants de partager leurs points de vue expérientiels sur comment la recherche est 
+menée au sujet des situations trans. En étant sensible aux expériences partagées par les 
+autres participants aux groupes focus, chacun a pu relancer des questionnements et 
+préciser ses commentaires critiques. (Geoffrion, 2009) Ce procédé a favorisé 
+l'élaboration des perspectives de chacun des membres, tout en contribuant à la 
+construction d'une position critique de groupe à la fois nuancée et axée sur la recherche 
+d'un accord collectif. 
+Ensuite, le choix de recourir à une méthode d'entretien non directif était tout indiqué 
+pour faciliter les échanges avec les participants, parce qu'il s'agissait d'un type de 
+recherche qui donnait en quelque sorte lieu à la reproduction d'un contexte social et 
+politique plus délicat : 
+Les participants peuvent donc prendre le temps nécessaire pour nuancer 
+leurs réponses, énoncer les conditions d'un « oui » ou d'un « non», ou 
+expliquer le pourquoi d'un «peut-être». [ ... ] Cette flexibilité, contrôlée 
+par l'animateur, génère une richesse de données qu'il est difficile d'obtenir 
+par l'utilisation d'autres techniques. (Geoffrion, 2009: 392) 55 
+Les entretiens de groupe non directifs ont contribué à minimiser les effets de censure 
+possibles reliés aux perceptions des rapports de pouvoir sociaux habituels existant entre 
+chercheurs cis et participants trans. 
+À ce sujet, Poupart (1997) affirme que les entretiens de groupe peuvent être 
+particulièrement utiles dans les domaines politiques ou sociaux. Cette utilité vient du 
+fait que ce type d'entretien permet de vérifier comment une action (politique ou sociale) 
+peut être entreprise avec de meilleures chances de succès. Ainsi, cette méthode était 
+particulièrement à propos en ce qui concerne la finalité sous-jacente de cette recherche. 
+Elle consistait à comprendre dans quelles conditions les personnes trans accepteraient 
+de participer aux recherches qui seront menées au Québec. Cette finalité évoque la 
+reconnaissance d'enjeux qui font entre autres référence aux relations entre chercheurs 
+cis, appartenant à un groupe identitaire dominant, et participants trans, appartenant à 
+un groupe identitaire dominé, dans un contexte social général de rapports de pouvoir 
+sociaux. À partir des réflexions et des analyses critiques ayant été formulées lors des 
+entretiens de groupe, ont émergé des pistes d'orientation concrètes sur comment des 
+personnes trans souhaitent que leurs situations soient abordées dans la recherche. De 
+plus, selon Boutin (2007) : 
+Le recours au groupe fait également ressortir les points d'accord et de 
+désaccord dans une population donnée. Autrement dit, ce dispositif permet 
+à certains participants d'exprimer des sentiments et des opinions qu'ils 
+avaient jusque-là occultés. Entraînés par l'exemple des autres, ils se 
+montrent confiants et s'extériorisent davantage. Boutin (2007: 30) 
+56 
+Le recours au groupe a également été particulièrement utile en ce sens. En effet, en 
+filigrane, la recherche consistait entre autres à comprendre les opinions et les 
+sentiments des personnes trans à promos de l'enjeu très sensible de l'identité de genre 
+des personnes qui mènent la recherche et de comment elles la mènent pour mieux savoir 
+dans quelles conditions des personnes trans accepteraient de participer aux recherches 
+qui seront ultérieurement menées au Québec. Par conséquent, le recours à l'entretien 
+de groupe a eu l'avantage de créer cet effet d'entrainement entre les participants. 
+Influencé positivement les uns par les autres, ils ont été plus à l'aise de confier leurs 
+opinions et leurs sentiments à propos des questions plus sensibles. 
+3.4. Sélection des sujets et modalités de recrutement 
+Il était question d'explorer la plus grande variété possible de points de vue de 
+personnes trans à propos de la recherche qui aborde leurs situations. Les participants 
+recrutés pour la réalisation de cet objectif étaient des personnes trans qui militent au 
+sein d'organismes communautaires. En s'appuyant sur la méthodologie proposée par 
+Boutin (2007), chacun des groupes focus a été constitué d'environ 3-4 militants trans 
+(intervenants, employés, bénévoles, membres de conseil d'administration, membres 
+participants, etc.) impliqués au sein d'organismes communautaires qui ont pour mandat 
+d'intervenir à l'intérieur de champs relatifs aux situations trans. (Boutin, 2007: 30-34) 
+Le choix de participants spécifiquement militants a été motivé par le fait que la majorité 
+des théories portant sur les questions de savoirs situés traitent de la nécessité que des 
+individus aient une conscience et une reconnaissance politiques de leur appartenance à 
+une catégorie identitaire socialement située pour être en mesure de développer un point 
+de vue critique vis-à-vis des enjeux reliés au fait d'occuper cette position au sein des 
+rapports de pouvoir. (Gaussot, 2008) 
+57 
+Donc -puisque ce mémoire s'intéresse au point de vue des personnes trans à propos 
+de la manière dont sont menées les recherches qui portent sur les situations trans -, les 
+participants ont été premièrement recrutés en fonction de leur sentiment d'appartenance 
+personnelle à la catégorie identitaire trans, ou, de manière plus nuancée, de leur 
+sentiment de non-appartenance identitaire au système de genre traditionnel -
+homme/femme. À ce sujet, Boutin (2007) mentionne que le genre et la position sociale 
+sont constitutifs des éléments à considérer dans l'organisation des groupes de 
+participants à un projet de recherche. 
+Ensuite, toujours à propos des modalités de la conscience identitaire selon la théorie du 
+standpoint, les participants à ce projet de recherche ont été recrutés en fonction de leur 
+implication -conscience politique et sociale des enjeux trans -dans des activités de 
+militantisme reliées aux enjeux trans. En s'appuyant sur les propos de Boutin (2007), 
+cette position de militantisme a été mesurée selon leur investissement à titre 
+professionnel ou personnel (intervenants, employés, bénévoles, membres de conseil 
+d'administration, membres participants, etc.) au sein d'un des différents organismes 
+communautaires québécois qui ont pour mandat d'intervenir à l'intérieur de champs 
+relatifs aux situations trans. (Boutin, 2007: 32) 
+Geoffrion (2009) suggère qu'il soit souvent mieux de rassembler des inconnus pour 
+mener des collectifs de discussion. (Geoffrion, 2009: 400) Par conséquent, des efforts 
+ont été faits pour le recrutement de personnes provenant de différents milieux. 
+Cependant, considérant la position de genre cis de la chercheuse et étant sensible aux 
+enjeux politiques relatifs aux rapports de pouvoir sociaux existant entre les 
+chercheurs cis et les participants trans, le choix de regrouper autant que possible des 
+individus ayant le lien commun de graviter autour d'un milieu communautaire a été 
+fait. L'hypothèse qui a motivé ce choix était que le fait de regrouper des individus qui 
+ont des liens d'appartenance communs faciliterait la création d'une dynamique plus 
+58 
+favorable aux échanges et aux prises de position critique. Toutefois, étant donné les 
+enjeux politiques relatifs aux rapports de pouvoir sociaux entre chercheurs cis et 
+participants trans, les démarches de recrutement menées par des chercheurs cis 
+s'avèrent particulièrement ardues et ce particulièrement pour la recherche menée par 
+des étudiants dans le cadre de mémoire de maîtrise. Parce que cette recherche a été 
+menée par une chercheuse cis et dans le cadre d'un mémoire de maîtrise, il était à 
+prévoir que le recrutement serait difficile. Le recrutement étant déjà limité dans le 
+temps, il était ardu de se restreindre en plus à recruter uniquement des personnes qui 
+ne se connaissaient pas. Le bassin de militants trans francophone étant relativement 
+restreint, il était probable que plusieurs participants aux groupes focus auraient déjà été 
+en présence les uns des autres à l'occasion d'évènements de militantisme. Ainsi, il y a 
+eu plusieurs participants qui se connaissaient les uns les autres. 
+En terminant, comme mentionné précédemment, l'objectif de cette recherche consistait 
+à explorer la perspective des personnes trans sur comment sont menés les travaux de 
+recherche qui portent sur leurs situations. Il importait donc que les participants soient 
+disposés à communiquer leurs points de vue à partir de connaissances expérientielles 
+ou théoriques des recherches abordant des thématiques trans, qu'elles soient 
+personnelles ou relatives aux expériences rapportées par d'autres individus. De plus, 
+comme mentionné par Geoffrion (2009), cette disposition ne devait pas être seulement 
+expérientielle, mais aussi psychologique, intellectuelle et physique : 
+De plus, il faut s'assurer que les participants aient la capacité de discuter 
+du sujet visé à l'intérieur des paramètres désirés. Ils doivent donc avoir 
+l'expérience, les connaissances ou, tout simplement, la capacité 
+intellectuelle ou physique pour bien comprendre les questions, manipuler 
+les produits et participer aux discussions. (Geoffrion, 2009: 400) 
+Une limite a été rencontrée en ce qui concerne cette dernière indication. En effet, 
+quelques participants -et non l'ensemble d'entre eux -manquaient de connaissances 
+59 
+pour bien participer aux premiers groupes focus. Ils ne connaissaient pas suffisamment 
+bien l'univers de la recherche, les thèmes et les problématiques abordés, les documents 
+de recherche existants. Aussi, l'utilisation des vignettes de recherche, qui avaient été 
+spécialement prévues pour pallier ce manque, n'a pas assez permis de contrer les 
+limites en ce qui concerne les connaissances des participants. C'est pour cette raison 
+qu'il y a moins de données de présentation des résultats et d'analyse qui portent sur le 
+contenu des premiers groupes de discussion, celui-ci étant plus restreint. 
+Les participants ont été recrutés par le biais de différentes activités de réseautage, à 
+travers les échanges informels faits à l'occasion d'évènements relatifs aux situations 
+trans, en recourant à la technique boule de neige. Donc, des participants potentiels ont 
+pu être recrutés par l'entremise d'autres participants potentiels. Il a aussi été question 
+d'aller à la rencontre de personnes trans, dans les milieux communautaires, afin de 
+susciter leur participation à ce projet de recherche. Étant donné la conscience des 
+difficultés que rencontre généralement les chercheurs cisgenres à recruter des 
+participants trans, la décision a été prise de s'adresser directement à certaines personnes 
+étant reconnu comme plus engagés au sein du réseau de militantisme. Pour le 
+recrutement, des affiches de recherches ont été conçues, adaptées selon les milieux 
+visés par le recrutement et distribuées dans ceux-ci (Voir Annexe D). 
+En totalité, treize personnes trans ont été recrutées. Sur les treize, deux n'ont participé 
+qu'à une des deux entrevues. Les participants, six femmes trans, six hommes trans, 
+ainsi qu'une personne queer étaient âgés entre vingt-trois et soixante ans. Pour la 
+plupart, le français était leur langue maternelle. Six d'entre eux étaient étudiants au 
+moment du recrutement. Les autres étaient sur le marché du travail, ou retraités. Une 
+seule personne ne détenait pas de diplôme d'études collégiales. La majorité avait fait, 
+ou effectuait des études universitaires. Le revenu d'environ la moitié du groupe se 
+situait à moins de 20 000$ par année, tandis que celui de l'autre moitié se situait entre 
+60 
+20 000$ et 40 000$. Tous, excepté une personne, possédaient un bagage d'expériences 
+de militantisme. C'est-à-dire que la grande majorité des participants étaient ou avaient 
+été impliqués au sein d'organismes communautaires engagés dans des luttes pour la 
+reconnaissance des enjeux LGBT, ou, plus spécifiquement, trans. Quelques un, 
+gravitant autour du milieu universitaire, était même sensibilisé à l'existence du 
+transféminisme et du débat concernant le point de vue situé. Tous étaient des personnes 
+qui se sentaient concernées par les enjeux trans. 
+3.5. Les instruments de collecte de données 
+Les participants à la recherche n'ont pas été recrutés en regard de leur bagage de 
+connaissances relatives au contexte académique de la recherche. Par conséquent, il n'a 
+pas été exigé d'entrée de jeu qu'ils énumèrent des exemples de projets de recherche 
+pour explorer leurs points de vue expérientiels à propos de la manière dont sont menées 
+les recherches qui les concernent. Une telle exigence aurait pu s'avérer insuffisamment 
+concrète. Il a donc été utile de recourir à quelques techniques d'animation afin de 
+faciliter le processus de collecte des données, qui a été effectué à travers les focus 
+groupes. Geoffrion (2009) mentionne d'ailleurs l'utilité d'employer des méthodes de 
+récolte d'informations pour simplifier l'énonciation des opinions des participants à 
+propos de thèmes plus intellectuels, ou théoriques. (Geoffrion, 2009: 409) 
+3.5.1. La technique de l'incident critique et les vignettes de recherche 
+D'abord, en prenant appui sur les travaux d'autres chercheurs (Rainville, 2009; 
+Lapierre, 2012) qui ont entrepris des projets de recherche similaire à celui-ci, 
+l'utilisation de vignettes de recherche a été choisie pour faciliter l'exposition des 
+61 
+thèmes à explorer. Selon Lapierre (2012), la réalisation d'un nombre d'environ six 
+vignettes pourrait convenir dans le cadre d'un projet de maîtrise. Les vignettes de 
+recherche ont été conçues selon une méthode inspirée des vignettes cliniques : 
+Outil particulièrement employé en médecine et en psychologie, les 
+vignettes cliniques résument une histoire de cas qui présente certaines 
+particularités jugées intéressantes : "A clinical vignette is a concise 
+presentation of an interesting or challenging patient encounter." {UTMB, 
+2001). (Lapierre, 2012: 59) 
+Le recours à des vignettes de recherche a eu l'avantage d'offrir des référents communs, 
+à la manière d'incidents critiques, desquels les participants ont pu s'inspirer pour puiser 
+dans leur bagage de références expérientielles et proposer au groupe d'autres exemples 
+à explorer. Ils ont ainsi pu formuler leurs réflexions critiques à propos de comment la 
+recherche traite les situations qui les concernent : 
+[ ... ] la technique de l'incident critique, telle que décrite par Pourtois et 
+Desmet (1988), utilise un support -une image ou la relation d'un 
+événement -pour susciter une discussion entre des membres d'un groupe. 
+Les membres du groupe sont ensuite invités à « exprimer spontanément 
+leur vécu, leurs manières d'agir habituelles et/ou leurs opinions face à la 
+situation proposée ou encore à imaginer leur réaction si la situation n'a 
+jamais été rencontrée» (Pourtois et Desmet, 1988: 182). (Lapierre, 2012: 
+60) 
+Il est à préciser que: « La méthode est utilisée aujourd'hui, non plus pour décrire ou 
+modifier un comportement de manière objective, mais pour mieux comprendre et 
+considérer différents construits psychosociaux contenus dans l'expérience subjective 
+et intersubjective des acteurs (Butterfield et al., 2005) ». (Leclerc et al., 2010: 15) Les 
+chercheurs qui ont recours à cette technique ont comme occupation importante 
+d'encourager les personnes à approfondir et expliciter leurs réflexions, ainsi que leurs 
+raisonnements. 
+62 
+3.5.2. Le corpus de texte et les vignettes de recherche 
+Tel que mentionné précédemment, les participants ont eu pour tâche d'exposer leurs 
+positions critiques sur comment la recherche a traité des situations sociales trans, dans 
+la globalité des disciplines scientifiques. Donc, un extrait de textes puisés dans le 
+corpus de recherches menées en Amérique du Nord, dans les différents champs 
+scientifiques disciplinaires intéressés par les situations trans, a été inscrit à titre 
+exemplaire sur chaque vignette de recherche. Dix vignettes de recherche ont été 
+conçues (voir Annexe C). Les dix extraits de texte ont été puisés dans différents projets 
+de recherche reconnus au sein des communautés scientifiques cis et trans. Les textes 
+étant reconnus au sein de ces deux communautés ont été privilégiés. Ce choix a été 
+motivé par la volonté d'aller au-delà d'une dichotomie catégorielle des genres trans 
+versus cis, c'est-à-dire qu'il était souhaité que des personnes trans explorent leurs 
+points de vue à propos des travaux de recherche réalisés en Amérique du Nord, sans 
+que la prise en considération de l'identité de genre -cis ou trans -des chercheurs 
+oriente leur jugement critique. La reconnaissance des textes sélectionnés a été jugée 
+selon la fréquence à laquelle ils ont été cités au sein des travaux d'autres auteurs. Il n'a 
+pas seulement été question de travaux ayant bénéficié d'une reconnaissance 
+scientifique à la suite d'un apport jugé positif. La moitié des textes employés pour la 
+réalisation des vignettes de recherche ont été des travaux dont l'apport a été jugé 
+négatif. Les extraits de textes ont été choisis en fonction de leur capacité à exposer 
+clairement les thèmes qui ont été explorés dans le cadre des entretiens de groupe. 
+Les thématiques qui ont guidé la recension des extraits de projets de recherche 
+précédant la constitution d'une banque de vignettes cliniques sont les suivants : le 
+rapport du chercheur à son objet d'étude, les termes employés pour décrire les identités 
+ou les situations trans, les définitions associées aux termes employés pour décrire les 
+identités ou les situations trans, la manière dont sont problématisées les identités ou les 
+63 
+situations trans, les théories mobilisées, les principaux concepts mobilisés, les 
+définitions associées aux principaux concepts mobilisés, la méthodologie utilisée, la 
+stratégie générale de recherche, les méthodes de collectes et d'analyse des données, les 
+outils de collecte de données, l'objet à l'étude, les méthodes de recrutement des 
+participants, les objectifs et les questions de recherche, les conditions sociopolitiques 
+dans lesquelles ont été menés les projets de recherche et les dispositions éthiques mises 
+en place pour le projet de recherche. 
+3.5.3. La technique du remue-méninge 
+À la suite du partage de leur appréciation critique de comment les recherches 
+représentent les situations trans il a été demandé aux participants de proposer des pistes 
+d'orientation concrètes pour expliciter leurs attentes concernant comment seront 
+communiquées les situations trans dans les recherches. La cueillette de ces données a 
+été facilitée par le recours à la technique du remue-méninge. Cette technique 
+d'animation de groupe a l'avantage de favoriser la production spontanée d'une grande 
+variété de données. Effectivement, elle donne lieu à la production d'une liste exhaustive 
+d'idées, de problèmes ou de solutions par rapport à un thème, une situation ou un 
+problème donné. (UQAM. 2007) Ainsi, les participants aux focus groupes ont pu 
+mentionner leurs attentes spontanément, dans un mouvement continu et sans respecter 
+de tours de parole, au sujet de l'orientation de la théorie trans développée dans les 
+milieux de recherche francophone. Les thèmes énumérés pendant la période de temps 
+accordé au remue-méninge ont été inscrits sur un tableau par l'animatrice des focus 
+groupes. Lorsque la période de temps accordée au remue-méninge a été terminée, les 
+participants ont été invités à expliciter les thèmes qu'ils avaient précédemment 
+proposés. Finalement, à partir d'un consensus de groupe, il fut question de choisir 
+parmi l'ensemble des thèmes énumérés, les principaux, qui devaient être retenus pour 
+64 
+la constitution d'un court document de référence à propos des attentes des personnes 
+trans. Malheureusement, en raison d'un important problème de santé rencontré par la 
+chercheuse et des contraintes de temps qui s'en sont suivies, il fut impossible de 
+constituer ce document. 
+3.6. Méthode d'analyse des données 
+Tel que mentionné précédemment, les sujets de cette recherche ont participé activement 
+à la production des données. De plus, dans l'intérêt de mettre de l'avant la parole de 
+personnes trans, ils devaient également être invités à participer activement à l'analyse 
+des données par l'entremise d'un processus continu de restitutions initié par la 
+chercheuse. Cependant, comme mentionné précédemment, en raison d'un problème de 
+santé rencontré par la chercheuse, ainsi que de contraintes de temps à respecter cette 
+dernière étape fut impossible à effectuer. 
+Les données recueillies pendant les entretiens de groupe ont été analysées selon une 
+méthode d'analyse par thématiques (Van Campenhoudt et Quivy, 2011: 209). Cette 
+méthode rend possible le traitement de manière systématique des informations, de 
+corpus de recherche qui présentent un certain degré de profondeur et de complexité. Le 
+recours à l'analyse par thématique est avantageux, puisqu'il facilite la prise de recul du 
+chercheur à l'égard de ses spéculations intuitives. Il peut prendre une certaine distance 
+relativement à ses balises idéologiques ou normatives. Cette distanciation lui permet 
+de juger des références idéologiques ou normatives de ceux dont il recueille les 
+témoignages dans le cadre de la recherche, selon des critères particuliers à 
+l'organisation interne des discours, plutôt qu'à partir de leur teneur explicite. (Van 
+Campenhoudt et Quivy, 2011) Cette possibilité a légitimé le choix de la méthode 
+d'analyse par thématiques, considérant l'objet de recherche. Effectivement, comme 
+65 
+mentionné dans le premier chapitre, l'objet de recherche concerne de manière plus 
+générale les questions relatives au point de vue situé des chercheurs dans les différentes 
+disciplines scientifiques. Ce travail de recherche puise sa raison d'être dans une prise 
+de conscience relative à la position des chercheurs -majoritairement cis -au sein des 
+rapports de pouvoir sociaux, ainqi qu'à l'avantage que leur statut leur confère pour la 
+définition et la promotion de certaines représentations des situations trans. À ce sujet, 
+les critiques faites par des théoriciens et des théoriciennes trans à propos des 
+conséquences engendrées par la manière, dont les chercheurs -majoritairement cis -
+représentent les situations trans dans leurs travaux ont été brièvement exposées dans la 
+problématique. 
+La méthode d'analyse par thématique à l'avantage de reconnaître la position située des 
+chercheurs et donc la part de subjectivité inhérente à toute recherche menée dans le 
+domaine des sciences sociales et humaines. Elle était donc pertinente dans le cadre de 
+ce projet issu d'une volonté de prendre conscience à l'égard de ses propres repères 
+idéologiques en tant que chercheur et de s'en distancier. 
+Les thèmes ont été inscrits sur un support papier selon le mode d'inscription inséré et 
+dans une démarche ininterrompue, en faisant appel à un code de couleur. C'est-à-dire 
+que les thèmes ont été introduits au-dessus des passages de texte pertinent. Ce procédé 
+permet de travailler directement sur le texte. Il s'agit d'un avantage, puis que ce procédé 
+facilite les opérations de sélection de passage, de recherche et de regroupement. (Paillé 
+et Muchielli, 2016) Bien-sûr, l'inscription des thèmes sur un support papier a été 
+facilité par le petit corpus. Avec un corpus plus volumineux, il aurait été plus indiqué 
+d'utiliser un logiciel, tel que recommandé par Paillé et Muchielli (2016: 239) La 
+procédure d'assignation de thèmes sans interruption, ainsi que de constitution de l'arbre 
+thématique permet une analyse plus raffinée, subtile et fructueuse du matériel de 
+66 
+données. (Paillé et Muchielli, 2016: 241) « [ ... ] Cet arbre est construit 
+progressivement, tout au long de la recherche, et n'est véritablement parachevé qu'à la 
+toute fin de l'analyse du corpus.» (Paillé et Muchielli, 2016: 241) L'analyse 
+thématique en continu consiste à identifier, puis à noter les thèmes graduellement, 
+pendant la lecture du texte. Ensuite, il faut les regrouper et lorsqu'opportun, les 
+amalgamer. En fait, il est incontournable de fusionner certains thèmes en inscrivant des 
+synonymes, des concepts qui les englobent. Finalement, les idées doivent être classées 
+hiérarchiquement. À partir de thèmes centraux sont regroupés des thèmes additifs, 
+similaires et opposés. (Paillé et Muchielli, 2016: 241) 
+3.7. Les limites de cette étude 
+Cette recherche s'intéresse à comment la recherche représente les situations trans. Elle 
+est issue de la prérnissse que ce qui est véhiculé dans la recherche à propos des 
+personnes trans à des conséquences concrètes sur les manières dont leurs situations 
+sont traitées en société. Nous croyons, comme Baril (2017), que le traitement des 
+situations trans dans la recherche reflète le traitement des situations trans en société : 
+« La cisgenrenormativité qui règne dans l'enseignement et la recherche 
+universitaires au Canada reflète celle qui prévaut dans nos sociétés. ( ... ) Le 
+monde universitaire n'est qu'un reflet de nos sociétés. Il est traversé par les 
+mêmes -ismes (hétérosexisme, racisme, colonialisme, capacitisme, 
+cisgenrisme, etc.) qui façonnent ses structures et modes de fonctionnement. 
+» (Baril, 2017 : 289-290) 
+En nous appuyant sur Karsz (2000) il est également à proposer qu'il est fort probable 
+que les traitements des situations trans dans la société reflète la manière dont son 
+traitées les situations trans dans la recherche et vis et versa. 
+67 
+Par conséquent, cette recherche sous-tend la conscience d'enjeux relatifs aux rapports 
+de pouvoir sociaux inégaux entre des groupes de personnes ayant des positions 
+identitaires situées, catégorisées. Cette prise de conscience a motivé le désir de 
+valoriser le savoir situé de personnes trans. Il a été spécifiquement fait appel au point 
+de vue de personnes trans à propos de la manière dont la recherche représentent leurs 
+situations sociales. Dans ce contexte, le fait que la présente recherche soit menée par 
+une étudiante cisgenre comportait des contraintes non négligeables. Effectivement, la 
+validité objective des résultats obtenus en aval de cette démarche de recherche était 
+tributaire de la capacité de la chercheuse à entretenir un rapport très critique vis-à-vis 
+de la manière dont ont été menées les différentes étapes de ce processus de recherche. 
+Cette nécessité venait de la reconnaissance que tout ouvrage scientifique fait appel à la 
+subjectivité du chercheur et par conséquent n'est jamais absolument objectif. En 
+contrepartie, la conscience du point de vue situé par la chercheuse et la prise de position 
+critique à l'égard de ce point de vue ont contribué au renforcement de la valeur 
+scientifique de ce projet. 
+Au tout début de son travail de recherche, la chercheuse n'était pas d'emblée une 
+spécialiste des situations trans. Elle ne connaissait pas, ou peu les enjeux trans. Elle 
+n'avait presque jamais eu de contacts avec des personnes trans et connaissait encore 
+moins les auteurs trans. Si la conscience de sa position située à contribué à aiguiser sa 
+sensibilité quand aux choix méthodologiques effectués pour chacunes des étapes de ce 
+mémoire, son manque de connaissances des enjeux trans et des théories qui y sont 
+relatives transparait dans l'ensemble de son ouvrage. Au début de son travail, pour 
+palier à son manque de connaissances, la chercheuse à fait appel à l'aide de personnes 
+très impliquées dans les milieux trans et connaisseuses des théories relatives aux enjeux 
+trans. Un des premiers problèmes qui s'est présenté fut que la majeure partie des 
+ouvrages pertinents existants à propos sur sujet de recherche ont été publiés en anglais. 
+L'instigatrice de ce travail de recherche ne maitrisait pas l'anglais, encore moins les 
+68 
+mots spécifiques aux champs des études trans. Une grande faiblesse de ce travail vient 
+dont des difficultés quelle a eu à comprendre et articuler les théories anglophones. 
+Ensuite, pour réellement faire place aux points de vue trans, il aurait été souhaitable 
+que ce mémoire mobilise d'avantage d'auteurs trans. 
+Enfin, les différentes étapes de réalisation de ce mémoire on étées effectués dans un 
+délai d'environ 6 ans. La majeure partie du texte et les citations qui s'y retrouvent 
+souffrent donc d'être démodés par rapport aux enjeux trans actuels. Aussi, plusieurs 
+écrits forts pertinents d'auteurs trans qui abordent des questions relatives aux savoirs 
+situés, ne figure pas dans ce travail, puisqu'ils ont été publiés après que la majeure 
+partie de ce mémoire ne soit écrite. 
+3.8. Les considérations éthiques 
+Comme mentionné précédemment, la manière dont les identités trans ont été dépeintes 
+dans les projets de recherche a un impact concret sur les dispositifs politiques et légaux 
+ainsi que sur les stratégies d'intervention sociale qui sont déployées pour encadrer les 
+situations trans. 
+Ainsi, la façon dont les situations trans ont été représentées par plusieurs chercheurs -
+en majorité cis -a contribué à la constitution et au maintien de la position de 
+vulnérabilité du groupe identitaire trans au sein des rapports de pouvoir sociaux. Pour 
+cette raison, ce mémoire se situe dans la mouvance d'un processus de prise de 
+conscience des privilèges sociaux qui sont reliés au fait d'occuper une position cisgenre 
+en tant que chercheuse. Par conséquent, il a été construit avec le souci de demeurer 
+sensible au fait qu'il est plus ardu pour les groupes qui occupent une position de 
+69 
+vulnérabilité au sein des rapports de pouvoir d'avoir la possibilité de définir eux-mêmes 
+leurs situations sociales et leurs besoins en termes de réponse à ces situations. Il a donc 
+été conçu dans l'intention de développer et de maintenir une sensibilité et une 
+distanciation critique constante à l'égard de la manière dont la catégorie 
+identitaire trans y est définie et traitée. Nous avons entre autres choisi de nous inspirer 
+de la réflexion soulevée par Megan E. Davidson en avant-propos de son mémoire : 
+She questioned me about the use of an anthropological study of trans 
+activism in the US. Stating that in the end I would get a Ph.D. and likely a 
+job from it, while all of this did "not one god dam thing for me," she 
+explained: "1 just want you to realize that you are sucking off my life 
+experiences and reaping the rewards without having to actually experience 
+any of it. Y ou just listen to someone else who does not have the civil rights 
+and opportunities you have and then you benefit. Nothing personal, but 
+what is the use? (Davidson 2007: 3) 
+Ce souci de vigilance s'est également manifesté par l'entremise d'un travail rigoureux 
+afin de considérer la valeur politique de l'opérationalisation des choix 
+méthodologiques, mais également en ce qui concerne les dispositions éthiques prévues 
+pour assurer le bien-être des sujets participants à la recherche. 
+D'abord, afin de minimiser la reproduction des inégalités sociales qui contribuent à 
+positionner certaines personnes trans dans différentes situations de vulnérabilité, les 
+participants à ce projet de recherche devaient être disposés à choisir librement d'y 
+prendre part, après avoir dument consulté et rempli un formulaire de consentement, qui 
+a été rédigé à leur attention (Voir Annexe A). 
+Pour permettre aux participants de s'exprimer librement, sans crainte que les 
+informations divulguées lors de la tenue des entrevues entrainent des représailles, la 
+possibilité de préserver leur anonymat a notamment été mentionnée dans le formulaire 
+de consentement. Ainsi, ils ont eu la liberté de choisir que certaines informations 
+70 
+personnelles, telles que leurs noms et leur milieu de militance demeurent anonymes 
+dans le projet de recherche. 
+De plus, ils ont été assurés que tous les documents audios et visuels regroupant des 
+informations personnelles au sujet des participants ont été enregistrés sur une clé USB 
+à laquelle seuls la chercheuse et ses codirecteurs ont pu accéder. Ce support est 
+conservé dans un classeur verrouillé. Tous les documents audios et visuels regroupant 
+des informations personnelles nécessaires seront effacés à l'intérieur d'un délai de six 
+mois après le dépôt de la version finale de cette recherche. 
+Ensuite, il importe de rendre justice aux critiques faites par les personnes trans dans la 
+reconnaissance et le respect des conditions sociales qui rendent possible la réalisation 
+de ce travail. Donc, l'acte de restitution heuristique, comme constitutif du processus de 
+recherche avait été envisagée pour faire preuve de transparence et de rigueur dans la 
+manière dont ont été analysées et communiquées les données de la recherche. « Une 
+telle restitution nécessite qu'autrui soit reconnu comme objet à connaitre et 
+connaissant, c'est-à-dire comme objet et sujet de recherche. Il s'agit alors pour le savant 
+de renoncer au monopole du sens construit [ ... ]. » (Bergier, 2000: 17) Cependant, un 
+important problème de santé rencontré par la chercheuse a grandement retardé la 
+recherche. Ainsi, étant impossible de la mener à terme dans le délai prévu, l'acte de 
+restitution heuristique a dû être abandonné. 
+Finalement, l'objet de cette recherche interpelle le savoir expérientiel de personnes 
+trans à propos de la relation qu'elles entretiennent à l'égard de la manière dont sont 
+traitées et représentées les situations trans dans la recherche. Comme les participants à 
+la recherche devaient s'identifier à la catégorie trans, il était fort possible que des 
+thèmes abordés pendant le processus d'entrevue interpellent leurs situations 
+personnelles, ce qui a pu occasionner la résurgence de tensions reliées à des souvenirs 
+71 
+difficiles. Par conséquent, les participants ont été informés à l'écrit et verbalement, via 
+le formulaire de consentement et en début de chaque entrevue de recherche, de leur 
+entière liberté de se retirer du processus de recherche s'ils en ressentaient le besoin. Il 
+leur a aussi été mentionné que dans l'éventualité d'une telle prise de décision, leurs 
+données personnelles ayant été colligées pendant le processus de recherche, seraient 
+détruites. Aussi, aucune des informations qu'ils auraient divulguées lors des entrevues 
+de recherche n'aurait été considérée pour l'analyse des données. Des précautions ont 
+aussi été prises afin d'assurer un suivi psychosocial aux participants qui en ressentaient 
+le besoin. Effectivement, à la suite de l'approbation de ce projet de recherche, pendant 
+la période de recrutement des participants, qui militent au sein de différents organismes 
+trans montréalais, des professionnels intervenants au sein de ces milieux ont aussi été 
+interpelés afin de s'assurer que l'un d'eux serait disposé à offrir un support 
+psychosocial aux participants, si ceux-ci en ressentaient le besoin. 
+CHAPITRE IV 
+PRÉSENTATION DES RÉSULTATS 
+Dans ce chapitre, les résultats de recherche seront présentés selon deux axes principaux. 
+D'abord, nous explorerons les points de vue des participants à propos de la recherche. 
+Ensuite, nous porterons attention aux recommandations de ceux-ci concernant la 
+recherche future. Le premier axe regroupe davantage des réponses à la première 
+question de recherche: qu'est-ce que des personnes trans pensent de la manière dont 
+leurs identités et les situations qu'elles vivent sont traitées dans les recherches ? Le 
+deuxième grand axe regroupe des réponses à la deuxième question de recherche : de 
+quelle manière des personnes trans souhaitent-elles que les recherches francophones 
+représentent leurs identités et les situations qu'elles vivent? Pour procéder à la 
+présentation des résultats, les rubriques suivantes seront énumérées, puis définies dans 
+la première section de ce chapitre : les critiques adressées aux procédés de recherche, 
+les critiques adressées à la recherche et les critiques adressées aux représentations 
+conceptuelles des sujets trans. Dans la seconde section de ce chapitre, qui correspond 
+à l'axe des aspirations pour la recherche future, les rubriques suivantes seront abordées, 
+puis définies : les acteurs de la recherche, les visées de la recherche, les problématiques 
+et sujet de recherche à privilégier, les approches théoriques et épistémologiques à 
+privilégier, les grilles de lecture ou d'interprétation des personnes et réalités trans à 
+privilégier, la cueillette des savoirs et des données. 
+Pour la présentation des résultats des deux axes de recherche, la préoccupation a été 
+portée sur la mise en valeur de la diversité des voix des participants. Le premier axe 
+qui sera abordé correspond aux données recueillies à l'occasion de la première entrevue 
+73 
+de recherche. Il est à noter que les personnes ayant participé à cette entrevue étaient 
+peu familières avec la recherche existante à propos des situations trans. Par conséquent, 
+ce premier axe a été moins bien développé que le second, celui portant sur les 
+recommandations pour la recherche. Aussi, comme beaucoup de matériel a été amassé 
+concernant les résultats de recherche, il n'a pas été possible de tout retenir pour le 
+présent chapitre. C'est donc l'essentiel des résultats ayant été retenus qui sera exploré. 
+C'est-à-dire que les résultats qui faisaient d'avantage consensus au sein des groupes de 
+participant ont été priorisés. D'ailleurs, sachez que ces résultats ne sont nullement 
+représentatifs de la population trans dans son ensemble. La représentativité se restreint 
+aux personnes 7 qui ont participé à cette recherche. Finalement, au cours de la lecture, 
+vous constaterez que certains résultats relatifs à l'axe des recommandations se 
+retrouvent plutôt dans l'axe des points de vue sur la recherche présente et vice versa. 
+Nous avons ainsi procédé parce que certains résultats de recherche recoupaient à la fois 
+le premier et le second axe. La structure du texte a été construite de la sorte pour 
+faciliter la compréhension de certaines critiques adressées à la recherche. 
+4.1. Points de vue sur la recherche présente 
+Tel que mentionné précédemment l'objectif de cette recherche était double. Dans un 
+premier temps, il était question de recueillir les points de vue des participants à propos 
+de la recherche. Dans un second temps, il était question de connaître leurs aspirations 
+à propos de la recherche future. En ce qui concerne le premier volet de la question de 
+recherche, trois dimensions ont été explorées : les critiques adressées aux procédés de 
+7 Dans le texte, la référence aux « personnes trans » réfère uniquement aux participants à cette recherche 
+et non à l'ensemble de la population trans. 
+74 
+recherche, les critiques adressées à la recherche et les critiques adressées aux 
+représentations conceptuelles des sujets trans. 
+4.1.1. Les critiques adressées aux procédés de recherche 
+Comme nommé dans le chapitre portant sur la méthodologie de recherche (voir chapitre 
+3), lors de la première série d'entrevues de groupe les participants devaient répondre à 
+la question ouverte suivante : quel est votre point de vue à propos de la recherche qui 
+traite des situations trans? Parmi les réponses à la première partie de la question de 
+recherche, de nombreuses critiques, surtout négatives, ont été adressées à propos de la 
+recherche qui traite des situations trans. 
+4.1.2. Les critiques adressées à des grilles de lecture de recherche 
+Tel qu'il a été dit, le premier volet de ce chapitre vise à recueillir les points de vue des 
+participants à propos de la recherche passée et présente. La dimension des critiques 
+adressées à des grilles de lecture de recherche sera ici explorée. Parmi les grilles de 
+lecture de la recherche ayant été énumérés on retrouve : les critiques adressées aux 
+grilles de lecture féministes ; les critiques adressées à la grille de lecture binaire ; les 
+critiques adressées au prestige immense de la grille de lecture des sciences naturelles ; 
+les critiques adressées à l'approche médicale ; la critique adressée à la grille 
+cisnormative ; la critique adressée aux grilles idéologiques et les critiques adressées à 
+la grille des activistes visibles. 
+75 
+Les critiques adressées aux grilles de lecture féministes 
+De nombreuses critiques ont été adressées au féminisme. Elles ont été regroupées sous 
+différents thèmes. D'abord, l'invalidation du statut de « femme » des femmes trans est 
+déplorée. Effectivement, il a été soulevé que le féminisme radical ne reconnaît pas le 
+statut de femme des femmes trans. C'est-à-dire que puisque les femmes trans ne 
+possèdent pas d'utérus, elles ne sont pas admises par les féministes en tant que sujet 
+femme et que sujet du féminisme. Certains écrits disqualifient complètement les 
+femmes trans en leur reprochant d'être des hommes qui se font passer pour des femmes 
+afin d'infiltrer les milieux féministes et la société en tant que femme, pour promouvoir 
+la montée du patriarcat. 
+L'argumentaire a fait en sorte qu'on a dit que nous n'étions pas des vraies 
+femmes. Il y en a même qui sont allés dire que moi j'étais comme le loup 
+qui rentre dans la bergerie pour déstabiliser les femmes et injecter le 
+patriarcat, la domination du mâle dans mon entourage féminin. 
+-Charli( e) -
+D'ailleurs, une des personnes participantes considérait que la recherche québécoise a 
+été contrôlée par le féminisme. Elle considère que plusieurs recherches existantes à 
+propos des situations trans ont été menées par des féministes, qui ne reconnaissaient 
+pas le statut de « femme » des femmes trans. Par conséquent, elle soutient que la 
+recherche menée au Québec est occultée. 
+En contrepartie, la pertinence des principes de la recherche féministe, lorsqu'il est 
+question de mener des recherches à propos des enjeux trans, a été soulignée par 
+plusieurs personnes. Puis, la satisfaction à l'égard du féminisme qui est solidaire envers 
+les enjeux trans a été nommée par la majorité. 
+76 
+Les critiques adressées à la grille de lecture binaire 
+En second lieu, la recherche a été critiquée d'être biaisée par la grille de lecture du 
+genre binaire. Plus spécifiquement, il a été soutenu que la recherche est faussée par le 
+système de genre binaire (homme/femme) qui accorde l'exclusivité aux genres 
+hommes et femmes. 
+Les critiques adressées au prestige immense de la grille de lecture des sciences 
+naturelles 
+Troisièmement, la recherche a aussi été critiquée d'être altérée par le prestige immense 
+des sciences naturelles. Ce biais est décrit comme étant relié à l'influence des sciences 
+naturelles dans le domaine de la recherche. Par conséquent, ceci occasionne une 
+préférence pour l'accord de subvention dans le domaine des sciences naturelles plutôt 
+que dans le domaine des sciences humaines. Cette manière de procéder à des 
+conséquences péjoratives sur les représentations qui sont majoritairement faites des 
+personnes trans. En effet, il a été soutenu que les représentations dégagées par le 
+domaine des sciences naturelles sont souvent biaisées. 
+Puis, il y a un biais plus général qui est beaucoup lié aux situations 
+institutionnelles de subvention qui renforce ça. C'est le biais du prestige 
+immense des sciences naturelles qui font que tout ce qui est neuro 
+psychologie et psychologie évolutionnaire ... en gros, tous les programmes 
+de recherche qui prennent des méthodes et les sciences naturelles pour 
+rentrer de manière un peu barbare dans des questions de sciences humaines. 
+Je ne dis pas que c'est tout le temps de la merde, mais c'est très souvent de 
+la merde. 
+-Charli (e)-
+77 
+Les critiques adressées à l'approche médicale 
+Quatrièmement, à première vue, il semblait que la recherche relative à l'approche 
+médicale avait suscité de nombreuses critiques péjoratives. Toutefois, après une 
+observation approfondie des résultats de recherche, il fut constaté que c'est plus 
+particulièrement, la référence au diagnostic de dysphorie de genre8 présent dans les 
+anciennes versions du DSM9 qui est critiqué négativement à travers cette approche. Il 
+a été observé que les critiques que suscite cette approche sont variables. Considérons 
+donc les différents thèmes qui ressortent des critiques qui lui sont adressées. 
+D'abord, le thème de la désapprobation de la médicalisation des identités trans a été 
+relevé. La vision de l'identité trans comme étant une maladie qu'il faut guérir est 
+condamnée sévèrement : 
+C'est l'idée qu'il y ait quelque chose de mal avec le fait que ça ne soit pas 
+le kit habituel. C'est comme s'il fallait que ce soit une erreur qu'il faut 
+corriger. Je ne me sens plus comme un humain. Je me sens comme une 
+espèce de cas médical, seulement ça et rien d'autre. 
+-Kim(e)-
+Ensuite, une importance excessive accordée à la médicalisation a été dénotée. Ici, ce 
+n'est donc pas l'approche médicale en tant que telle qui est accusée d'être 
+problématique, mais plutôt la surutilisation qui en est faite. 
+8 « Le trouble de l'identité sexuelle confirme de manière officielle un désaccord entre le sexe biologique 
+et l'identité de genre d'une personne. La dysphorie de genre a été retirée du DSM-5, le manuel 
+diagnostique et statistique des troubles mentaux de l'association américaine de psychiatrie. »Radio­
+Canada (3 décembre 2015). « Identité sexuelle : C'est quoi ton genre? ». Récupéré de http://ici.radio­
+canada.ca/ sujet/ genres-identites-sex uelles/2015/ 12/03/001-lexigue-genres-identite-sex uelle.shtml 
+9 Le manuel diagnostique et statistique des troubles mentaux de l'association américaine de psychiatrie. 
+78 
+Puis, un peu plus nuancé dans la critique de l'approche médicale, le thème suivant a 
+émergé: la pertinence varie selon l'application qui est faite de la recherche. C'est-à­
+dire qu'il était considéré qu'il pouvait être adéquat d'avoir recours à l'approche 
+médicale dans la recherche, pourvu que l'utilisation de la recherche qui se situe dans 
+ce courant soit jugée convenable par la population trans : 
+Je trouve les recherches neuro-scientifiques et neurobiologiques 
+intéressantes et pertinentes. C'est les applications qu'on en fait après 
+justement ... c'est sûr qu'il faut faire attention à ce que les gens ne soient 
+pas ... ça rejoint un peu par quel angle on veut faire des recherches. 
+-Rafael-
+En somme, il a été convenu que l'appréciation de l'approche médicale dans la 
+recherche est relative à l'identification de genre. Plus exactement, il ressort de cela que 
+si les gens se positionnent dans un genre binaire, ils seront plus enclins à l'apprécier, 
+tandis que s'ils s'identifient à un genre qui s'éloigne en partie ou en totalité du cadre 
+de genre binaire, ils auront tendance à lui être défavorables : 
+Ça dépend tellement de comment on se sent, de son propre corps. Il y a 
+tellement une variété de ressentis face au genre. Il y a les gens pour qui les 
+opérations sont super cruciales pour se sentir mieux et reconnues dans le 
+genre pour lequel ils s'identifient. Il y a aussi des gens pour qui ce n'est pas 
+si important, pour qui c'est quelque chose à explorer, mais qui n'est pas 
+super viscéral comme besoin de le faire. 
+-Kim(e)-
+Comme précisé précédemment, il fut constaté que c'est plus particulièrement le 
+diagnostic de dysphorie de genre qui est critiqué négativement à travers l'approche 
+médicale. Il est ressorti que ce diagnostic ne convient pas à la communauté trans 
+activiste et intellectuelle. 
+79 
+La critique adressée à la grille cisnormative10 
+Cinquièmement, la recherche a été critiquée d'être biaisée par une grille de lecture 
+cisnormative des situations trans. La critique de ce biais était reliée à la sensation qu'il 
+est toujours nécessaire pour les personnes trans de justifier leur identité en raison de 
+leur position de marginalité. La manière dont certaines questions de recherche sont 
+posées a également été blâmée d'être cisnormative. C'est-à-dire que des questions ont 
+tendance à réprimer les individus qui franchissent la frontière du genre et donc à 
+encourager la plupart des personnes à s'accommoder du genre assigné à leur naissance. 
+La critique adressée aux grilles idéologiques 
+Sixièmement, la recherche a été qualifiée de contenir des biais idéologiques. Plus 
+précisément, il est soutenu que contrairement à certains autres objets de recherche, les 
+situations trans sont chargées de valeurs, ce qui entraine des penchants idéologiques de 
+la part des chercheurs : 
+Je pensais à des troubles tels que l'ostéoporose par exemple qui est quelque 
+chose qui n'est pas chargé de valeur alors que lorsqu'on fait des recherches 
+à propos de nous j'ai l'impression que forcément il y a toujours un petit 
+penchant d'idéologie même si on espère qu'il y en ait le moins. 
+-Raphaëlle -
+10 « Inspiré du concept d'hétéronormativité, je définis pour ma part la cis(genre)normativité comme la 
+dimension normative du système dominant cisgenriste qui « [ ... ] postule que les personnes qui 
+s'accommodent du sexe et du genre assignés à leur naissance sont plus normales que les personnes qui 
+décident de vivre dans un autre genre et qui effectuent des transitions de sexe » (Baril, 2009b: 284). « Ce 
+système normatif dominant favorise les jugements négatifs, les discriminations et les violences envers 
+les personnes trans, en plus d'occulter leurs expériences et leurs réalités.» (Serano, 2007: 7-8, 12-13, 
+161-173; Baril, 2009b). Pour en savoir plus àce sujet, voir Alexandre Baril (2013). 
+80 
+Les critiques adressées à la grille des activistes visibles 
+Finalement, pendant la première entrevue de recherche, l'existence de deux types 
+d'activistes a été soulignée avec insistance : les visibles et les invisibles. Il a été 
+mentionné que la recherche qui a été faite jusqu'à maintenant est biaisée par l'ampleur 
+de l'espace réservé au point de vue des activistes visibles, faisant à tort office de 
+représentants à la fois du discours des activistes visibles et des activistes invisibles. 
+4.1.3. Sujet de la recherche abordé 
+Toujours en ce qui concerne les critiques adressées aux procédés de recherche, il fut 
+amplement discuté des types de sujets que la recherche choisit d'explorer. Cependant, 
+il fut davantage question des sujets que les participants aimeraient voir présentés dans 
+la recherche. Ce deuxième aspect sera traité dans la section 2.3. Ceci étant dit, en ce 
+qui concerne les sujets abordés dans les travaux, les critiques reprochaient 
+majoritairement le manque d'attention accordé à la situation des hommes trans : 
+Ce que j'ai remarqué aussi c'est que la plupart des recherches parlent au 
+féminin. C'est comme si elles parlaient seulement des femmes. 
+-Frédéric (que) -
+4.1.4. Questionnaires de recherche spécifiques aux enjeux trans 
+Puis, pendant les entrevues, certains participants ont nommé avoir déjà pris part à des 
+projets de recherche relatifs aux personnes trans et à leurs situations. À propos des 
+questionnaires de recherche spécifiques aux enjeux trans, l'appréciation de la 
+81 
+possibilité de s'identifier à une variété de genres non binaires a été soulevée. Plus 
+spécifiquement, la liberté de se reconnaître dans différents genres autres qu'homme et 
+femme était affectionnée. Cependant, une insatisfaction à l'égard de cette perspective 
+a été relevée par certains. Effectivement, il apparaît à quelques-uns que l'offre d'une 
+variété de perspectives de positionnements de genre non binaire est encore insuffisante 
+pour traduire le réel senti de genre individuel. De plus, la rareté des questionnaires de 
+recherche qui offrent la possibilité d'identification d'une variété de genre non binaire 
+a été soulignée : 
+Oui, j'ai participé à quelques recherches qui ont des questionnaires, ou des 
+trucs comme ça. Souvent il y a vraiment plein de cases. Vous sentez-vous 
+MtF, FtM. Il avait plein de cases. Je me disais que c'était bien d'ouvrir à 
+plus de possibilités que juste homme et femme, ou juste homme trans et 
+femme trans, mais encore là tu peux ajouter le nombre de cases que tu veux. 
+Il est fort probable que la personne ne se sente pas concernée quand même. 
+Dans le sens que c'est propre à chacun comment tu te sens. 
+-Fal-
+4.1.5. Entrevues -manque d'écoute pendant les entrevues 
+Finalement, comme indiqué précédemment, certains participants ont pris part à des 
+projets de recherche relatifs aux personnes trans et à leurs situations en tant que sujets 
+de recherche. Il a été indiqué que les interviewers manquaient d'écoute pendant les 
+entrevues spécifiques aux enjeux trans en raison de la minimisation des difficultés 
+rencontrées qui a été faite: 
+J'ai constaté ça à chaque fois. À la fin, la personne minimise tout le temps 
+ce qui s'est passé. La personne est là. Elle pose des questions. C'est 
+enregistré. Je suis seul avec le chercheur. Ça dure environ une heure trente. 
+Après ça la personne me dit que finalement ça s'est bien passé. Je venais de 
+lui dire que je n'avais plus d'emploi, etc. 
+-Frédéric (que)-
+4.2. Les critiques adressées à la recherche 82 
+Dans la première section de la présentation des résultats, nous avons observé les 
+critiques adressées aux procédés de recherche. Maintenant, il sera question de 
+l'appréciation de la recherche qui se concentre plus spécifiquement sur la recherche en 
+tant que production culturelle. Les aspects suivants seront abordés : la disponibilité de 
+la documentation; le traitement des situations trans et les retombées de la recherche. 
+4.2.1. Disponibilité de la documentation 
+Premièrement, le manque de traduction des documents de référence à propos des 
+enjeux trans a été critiqué d'être problématique et préoccupant. D'abord, le fait que la 
+plupart des ouvrages de référence existants à propos des enjeux trans soient en langue 
+anglaise est jugé problématique. Il a d'ailleurs été indiqué que ceci a pour conséquence 
+d'amener les gens du grand public québécois francophone à accorder beaucoup de 
+crédit au DSM, un des seuls documents de référence importants disponibles en français. 
+Ensuite, le manque d'informations existantes à propos des situations trans a été qualifié 
+d'inquiétant. Il est soutenu qu'il y a peu de documentation accessible pouvant répondre 
+aux questions qui émergent des différentes problématiques auxquelles les personnes 
+trans font face dans leur vie quotidienne : 
+Ça devient problématique parce que les gens aimeraient s'informer, mais la 
+seule chose qu'ils ont c'est le DSM : « AH ! Gang de fous eux autres ! » 
+C'est dommage, mais parfois c'est catégorisé comme ça. 
+-Healy (e)-
+La recherche ne s'intéresse peut-être pas assez à ce que je vie avec ma 
+famille et avec mes proches. La recherche devrait s'intéresser à la vie intime 
+des transsexuels. 
+-Alexandrie -
+4.2.2. Le traitement des situations trans 83 
+Deuxièmement, un malaise a été évoqué quant à la manière dont les situations trans 
+sont traitées dans la recherche. Il a été nommé selon différents aspects, dont le premier 
+est la confusion (inconfortable) existant entre l'identité de genre et l'orientation 
+sexuelle. En ce sens que la recherche confond à tort ces deux notions. 
+Un second aspect est l'appréhension reliée au diagnostic de trouble d'identité de genre 
+qui figure dans les versions antérieures au DSM5. En effet, un inconfort à l'égard du 
+recours à l'appellation et au diagnostic qui s'en suit a été signalé. 
+Une troisième facette est l'évacuation du vécu émotif. Il a été mentionné que la 
+recherche en tant que production scientifique a tendance à privilégier l'objectivité au 
+détriment de l'émotivité au sein du discours que les personnes portent sur leur vécu: 
+Ça c'est moche parce que ça fait en sorte que les chercheurs, au niveau de 
+la transidentité, entre autres, on est tellement dans le désir de ne pas colorer 
+qu'on dirait qu'on évacue tout l'aspect émotif dont on vient de parler, parce 
+qu'on se dit que c'est trop subjectif, donc que c'est trop coloré. 
+-Charli (e)-
+Une quatrième perspective est l'exotisation. Ce thème fait référence à l'engouement, 
+ou plutôt à l'excès d'enthousiasme parfois rencontré dans certains écrits à l'égard des

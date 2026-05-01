@@ -1,0 +1,2154 @@
+UNIVERSITÉ DU QUÉBEC À RIMOUSKI 
+DON'T BE GAY!: ÉTHIQUE ET POLITIQUE 
+DE LA RÉSISTANCE QUEER 
+MÉMOIRE PRÉSENTÉ À 
+L'UNIVERSITÉ DU QUÉBEC À RIMOUSKI 
+COMME EXIGENCE PARTIELLE 
+DU PROGRAMME DE 
+MAÎTRISE EN ÉTHIQUE 
+PAR 
+SÉBASTIEN PELLETIER 
+MARS 2009 
+UNIVERSITÉ DU QUÉBEC À RIMOUSKI 
+Service de la bibliothèque 
+
+Avertissement 
+
+La diffusion de ce mémoire ou de cette thèse se fait dans le respect des droits de son 
+auteur, qui a signé le formulaire « Autorisation de reproduire et de diffuser un rapport, 
+un mémoire ou une thèse ». En signant ce formulaire, l’auteur concède à l’Université du 
+Québec à Rimouski une licence non exclusive d’utilisation et de publication de la totalité 
+ou d’une partie importante de son travail de recherche pour des fins pédagogiques et non 
+commerciales. Plus précisément, l’auteur autorise l’Université du Québec à Rimouski à 
+reproduire, diffuser, prêter, distribuer ou vendre des copies de son travail de recherche à 
+des fins non commerciales sur quelque support que ce soit, y compris l’Internet. Cette 
+licence et cette autorisation n’entraînent pas une renonciation de la part de l’auteur à ses 
+droits moraux ni à ses droits de propriété intellectuelle. Sauf entente contraire, l’auteur 
+conserve la liberté de diffuser et de commercialiser ou non ce travail dont il possède un 
+exemplaire. 
+ 
+ « Heterosexuality is the opiate of the masses» 
+Bruce Labruce, The Raspberry Reich 
+REMERCIEMENTS 
+Je tiens tout d'abord à remerCIer mon directeur Bernard Gagnon pour ses 
+encouragements, sa présence et ses commentaires éclairants tout au long de la production 
+de ce mémoire. Merci de ta patience, de ton aide et de ton esprit analytique qui m'ont 
+poussé et permis de penser différemment. Je voudrais aussi souligner l'apport des 
+professeurs du programme d'éthique de l'UQAR, madame Dany Rondeau , directrice du 
+programme ainsi que messieurs Bruno Leclerc et André Mineau. Ces personnes m'ont 
+laissé le champ libre quant au choix du sujet qui porte sur l'identité du genre. Il m'est 
+nécessaire aussi de souligner le réconfort apporté par ma famille, ma mère France Royer et 
+mon père Maurice Pelletier qui, malgré les hauts et les bas, n'ont pas cessé de croire à la 
+réalisation de ce mémoire. Je dois aussi signaler l'encouragement constant promulgué par 
+ma sœur Mélanie et ma tante Céline Pelletier. Je veux aussi remercier mon partenaire de vie 
+Jonathan Paquette pour son soutien moral et sa présence constante dans le cheminement 
+réflexif nécessaire à la production de ce mémoire. Nos nombreuses discussions et 
+l'exposition de points de vue divergents ont produit des effets bénéfiques qui ont permis 
+d'enrichir ma pensée. Enfin, et non les moindres , je tiens à souligner ma gratitude à mes 
+camarades et complices Pierre-Benoit Fortin, Janie Théorêt, Rachel Paiement pour leur 
+appui, leur originalité et leur amitié inconditionnelle. Alors merci à vous tous sans quoi ce 
+mémoire n'aurait jamais vu le jour. 
+RÉSUMÉ 
+Nourrie par plusieurs penseurs souvent disparates, la théorie queer s'affirme comme champ 
+distinct de l'étude du genre au cours des années 1990, notamment au travers des travaux 
+critiques de Judith Butler sur le mode catégoriel des identités genrées, son ouvrage Gender 
+Trouble: Feminism and the poUties of subversion (1990) a eu un effet séminal. Cette 
+dernière théorie en date qui investit le champ de la résistance du sexe et du genre souffre 
+toutefois d'une mauvaise presse que l'on réserve aux dernières venues voulant contribuer 
+au discours savant. La théorie queer doit donc mener sa bataille dans un champ social et 
+politique dans lequel les discours établis de la théorie féministe de l'après Deuxième 
+Guerre et des études gaies et lesbiennes , bisexuelles et transgenres (GLBT), font figure de 
+référence. Par ailleurs, parce qu'il bouscule l'ordre des résistances, le discours politique de 
+la théorie queer est méconnu et ses postulats et prétentions politiques sont écartés 
+injustement par des critiques qui se fondent davantage en démagogie qu'en substance 
+(Nussbaum, 2003). Pour les tenants de la théorie queer, il ne s'agit pas de s'aménager une 
+place dans le régime hétérosexuel, il n'est pas question de rechercher une acceptation ou 
+tolérance d'autrui, mais bien de contester les fondements sur lesquels repose le régime 
+oppressif de l'hétérosexualité. D'un ton engagé, mais sans rien compromettre pour autant à 
+la nuance et à la rigueur, le présent mémoire a comme objectif d'explorer les stratégies de 
+résistance queer par le truchement d'outils théoriques tirés des écrits de Michel Foucault et 
+Judith Butler. Avec l'aide de l'archéologie et de la généalogie foucaldienne, le mémoire 
+s'ouvre sur la critique du régime hétérosexuel qui conduit à repenser, avec Butler, les 
+modes de constitution des identités genrées. Cette critique conduit vers une autre 
+dialectique sexe-genre, une transgression du mode binaire de catégorisation et aussi vers 
+des stratégies de résistance. Le mémoire explore trois de ces domaines de la résistance 
+queer, à savoir le champ culturel, le monde de l'éducation et le développement 
+international. En somme, l'examen du discours académique et des espaces de production 
+spécifique du discours de subversion queer doit rallier théorie et pratique. Loin d'être 
+apolitique, la théorie queer propose un dialogue à la fois universitaire et populaire qui fait 
+office de manifeste pour une rupture de la liaison sexe-genre. 
+TABLE DES MATIÈRES 
+Page titre ................................................................................................ . 
+Pensée.... ..................................... .............. .......................................... 11 
+Remerciements .................................................... ................. ,. . . . . . ... . . . . ...... III 
+Résumé................. ....... ............. ........................ ..... .............. .......... ........ IV 
+Table des matières... ... ... ............................... .......................... .............. ..... V 
+Introduction ................................... ............... ............. ........................... . 
+Chapitre 1 -De l'activisme homo.sexuel au mouvement queer: fractures et 7 
+divergences d'un discours politique du genre .............. .................................... . 
+1.1 L 'histoire de la pensée: problématiser le sexe, problématiser le genre.. . ... ......... .. 8 
+1.2 Le terme queer : définition et usages d'une notion........... .... ........................ 20 
+1.3 Le mouvement queer et le mouvement gai et lesbien: fractures d'une résistance 23 
+identitaire ................................ .......................................................... . 
+1.3.1 Une autre résistance, une autre politique....................................... ..... 24 
+1.3.2 Aux fondements d'un discours idéologique: une autre problématisation de 29 
+l'identité ................................................................ ...................... . 
+1.3.3 Une lutte et des stratégies méconnues.. ...... ...... ........ .................... ..... 31 
+Chapitre II -Les fondements sociaux d'un discours de résistance: vers une analyse de 33 
+discours ............................................... ................................................ . 
+2.1 La tradition et la pratique de l'analyse de discours.................. ...................... 34 
+2.1.1 L'analyse de discours critique.............. .......................... ................ 35 
+2.2 L'archéologie du savoir: la pratique discursive.. ........ ...................... ...... ..... 38 
+VI 
+2.3 Le tournant généalogique... ............................ ..... .......... ...................... 42 
+2.3.1 Les ruptures.. ...................... .................................... ..... ......... ... 45 
+2.3.2 Les hiérarchies des savoirs/pouvoir. . . . . . . . . . . . . . . . . . . . . . . . . . . . . ....... . . . . . . . . . . . ... 46 
+2.4 Du discours éthique et politique à ses incarnations sociales...... ... ... ............. .... 48 
+Chapitre III -Les fondements philo-politiques d'un mouvement social atypique : 52 
+autour de Judith Butler ........................................................... ........................................ . 
+3.1 Un retour sur la problématique... ........................ .................................. 54 
+3.2 La performativité : des signes au sens............... .................................... ... 56 
+3.3 Pour une vraie dialectique sexe-genre.. ........................... ... ........... ........ ... 61 
+3.3.1 L'héritage de Simone de Beauvoir.. . ... . .. .. . . . . . . . .. . .. . . ...... . . .. . ...... . .. . . .. 62 
+3.3.2 La dialectique sexe-genre chez Butler......... ................. .......... ......... 63 
+3.4 La performance: la drag, figure emblématique et archétype de la résistance 65 
+queer .......................................................................................... . 
+3.5 L'ontologie politique de Judith Butler.......................... ....................... ... 68 
+3.5.1 L'identité et l'action politique .................. ...................... ...... ......... 71 
+3.5.2 Les éléments de la grammaire politique de Butler......... .............. ........ 74 
+Chapitre IV -Au cœur du champ de bataille: trois domaines spécifiques de l'action 76 
+collective queer ......................................................................... ............ . 
+4.1 La résistance culturelle queer: décoloniser la culture populaire comme action 77 
+politique ......................... ............... ............................................... . 
+4.1.1 Une production culturelle éclatée... ... .. .. .. ... . . . ......... . . . . .. .. . .. . .. .......... . 81 
+4.1.2 La pop-culture, la musique et la résistance: l'émergence du queercore....... 82 
+4.1.3 Queer dans la violence... .................... .......................................... 87 
+4.1.4 Cultiver l'ambiguïté dans la performance du genre: du dandysme à la 89 
+métrosexualité ............... .......................................................... . 
+4.1.5 Décoloniser le grand art.............................. ............................... ... 92 
+4.2 L'éducation: un terrain contesté...... ...................................... .. .............. 95 
+4.2.1 La « queerisation » du curriculum........................................ ............ 97 
+Vil 
+4.2.2 La « queerisation» de l'éducation , une action sociale distincte de 100 
+l'approche gaie et lesbienne .......................................................... . 
+4.3 De la « queerisation» du développement international au renforcement du 1 0 1 
+discours queer ........................................................... ..................... . 
+4.4 Résistance biographique et politique: conclusion sur les jeux et transactions 104 
+entre un SOI public (performance) et un SOI privé (performativité) ................. . 
+4.5 Critique et dépassement post-butlérien. ........ ... ............ ............................ 115 
+Conclusion. .. ..... .. . .. .. . . . ... . . .. . . . . . . . .. .. . .. . ... .. . . .. ... .. . . .. .. ...... . . . .. ...... . .. . . . ....... .... 119 
+Bibliographie..... .......................... .................. ................. .... .............. ....... 125 
+INTRODUCTION 
+Née du croisement entre les théories féministes et les études gaies et lesbiennes, la 
+théorie queer fait son apparition dans le monde universitaire au début des années 1990. 
+Bien moins connue et souvent amalgamée aux théories du mouvement gai et lesbien, la 
+perspective queer véhicule une nouvelle conception de la libération identitaire et elle 
+entraîne dans son sillage une action collective qui n'a pas de commune mesure avec le 
+mouvement libérationniste gai qui la précède. La théorie queer se distingue du mouvement 
+gai et lesbien et représente, en quelque sorte, une poursuite radicale du projet féministe. La 
+perspective queer est bien plus soucieuse du genre que de la sexualité. De fait, elle suppose 
+que le champ de la sexualité est un terrain miné et un vecteur qui s'est avéré jusqu'ici trop 
+peu efficace pour effectivement produire une libération identitaire. Avec la théorie queer, il 
+ne s'agit pas de négocier sa place au sein d'une institution hétérosexuelle, mais bien 
+d'aborder ces mêmes institutions avec suspicion, de les contester afin de produire des 
+espaces de reconnaissance sociale qui dépassent la tolérance et l'acceptation, au profit 
+d'une reconnaissance radicale pour tous. 
+Comme beaucoup de discours académiques et politiques aux visées radicales ou 
+utopiques, la théorie queer a souvent mauvaise presse et alimente malgré elle, certains 
+2 
+mythes à son sujet. Jugée trop universitaire, on la taxe d'être trop hermétique et aride pour 
+être le ferment d'une véritable action de résistance . La rectitude hétérosexuelle dépassée 
+par l'univers discursif et politique révolutionnaire queer met donc au défi la science 
+hétérosexuelle basée sur des mythes fondateurs justement ébranlés par la théorie queer. 
+Personne ne fera des reproches similaires aux différentes néo-disciplines libératrices telles 
+les études féministes, gaies et lesbiennes, afro-américaines, voire autochtones. Toutes ces 
+disciplines sont après tout des prises en charge d'un discours identitaire minorisé, mais 
+ancrées dans les schèmes du régime de l 'hétérosexualité obligatoire et, en ce sens, le 
+discours queer est bien plus qu'un empowerment. La théorie queer renferme pourtant les 
+germes d'une résistance sociale riche et originale et, si elle choque, c'est justement parce 
+qu'elle ne cherche pas la production d'un discours sur l'homosexualité et le lesbianisme 
+mais la production d'une critique parodique du régime de l 'hétérosexualité. Si la théorie 
+queer -tout comme les études gaies et lesbiennes et le féminisme - a un ancrage 
+épistémologique et académique très important; il n'en demeure pas moins, qu'elle est la 
+source d'actions, tantôt discrètes tantôt choquantes, qui cherchent bien concrètement une 
+décolonisation du monde vécu. 
+Ce mémoire a pour objectif de rendre justice et d'explorer deux aspects moins connus 
+et moins abordés de la perspective queer. D'abord, il s'agit de reconnaître la dimension 
+éthique et politique de ce discours. Comme beaucoup de productions savantes 
+émancipatrices visant la résistance identitaire, le discours queer en vient à posséder une 
+3 
+véritable portée idéologique au sens où il renferme un projet de société, il permet à des 
+acteurs-sujets de se reconnaître, il coalise et mobilise pour l'action et le changement social. 
+Ensuite, si le travail de la théorie queer ne s'opère pas tant dans une sphère légale, 
+institutionnelle et étatique, nous sommes portés à nous demander quels sont les espaces, les 
+moyens et les méthodes de production, de circulation et de consommation de ce discours 
+libérationniste. Au final, nous estimons pouvoir retrouver un certain modèle d'action 
+collective et de résistance politique bien distinctif, qui se reconnaît dans la fracture que la 
+perspective queer opère en rapport avec le courant gai et lesbien qui tente le plus souvent 
+d'ignorer l'approche queer, la contester, voire de la subsumer. 
+Au travers de ce mouvement social très récent, on reconnaît l'importance d'un 
+discours phare qui enrichit l'action collective. À ce titre, l'œuvre de Judith Butler est une 
+pièce maîtresse de l'architecture de cette nouvelle approche de résistance identitaire. La 
+somme des travaux de Butler témoigne bien des mouvements itératifs qui prennent forme 
+entre la philosophie politique engagée et l'action sociale dirigée vers le changement, voire 
+la révolution. L'œuvre de Butler est séminale et plusieurs éléments nous poussent à 
+observer son discours philosophique à la recherche d'une compréhension plus fine. 
+D'abord, c'est dans un continuum que Butler traite de la philosophie politique du genre, de 
+la littérature, de la culture populaire , de l'actualité et même du droit. Son style rend bien 
+compte du caractère hétérogène du discours de résistance identitaire qu'est celui du 
+discours queer. Dans un deuxième temps, Butler est intéressante en ce qu'elle est plus 
+4 
+qu'une observatrice , mais bien une participante à la lutte. Ce faisant, Butler s'est attiré les 
+foudres des mouvements féministes. De plus, du point de vue théorique , sa critique de la 
+notion de genre peut avoir des effets émancipateurs qui dépassent largement la théorie 
+queer et féministe. De même, Butler est la seule théoricienne queer à s'être intéressée à la 
+dimension philo-politique de la théorie queer. Parmi les auteurs inspirés par ce courant, 
+c'est chez Butler que l'on retrouve une plus grande densité de travaux traitant directement 
+de la question queer. Par ailleurs, l'interprétation que l'on se fait de son affiliation 
+théorique ne pose aucune ambiguïté; Butler est résolument queer et cette recherche ne 
+saurait s'assimiler aux travaux des études Gaies, Lesbiennes , Bisexuels, Transgenre s 
+(GLBT). 
+L'objectif de ce mémoire consiste à saisir les espaces de production du discours 
+queer et de faire une illustration des points de fracture qui s'opèrent dans ce discours 
+comme distanciation d'un militantisme gai et lesbien. C'est du côté de l'analyse 
+foucaldienne du discours que nous retrouvons les inspirations d'une démarche analytique 
+pour accomplir ce travail. Analyse du discours social et politique, l'approche foucaldienne 
+insiste notamment sur les points de fracture. Ainsi, l'histoire de la pensée politique et 
+sociale est saisie par ses revers et retournements, bien plus que par une trame diachronique 
+qui mettrait les discours dans une séquence d'innovation et de découverte évolutive. À en 
+prendre l'histoire de la médecine pour exemple, Foucault (1963) illustre bien l'émergence 
+d'une médecine clinique -marginale et émergente -qui prend assise dans les luttes de 
+5 
+pouvoir, dans les stratégies et les nouveaux modes de production du discours. En somme, 
+cette perspective foucaldienne est parfaitement arrimée à la contribution que nous attendons 
+de ce mémoire , c'est-à-dire de mettre en reliefles points, passages et espaces par lesquels le 
+discours queer opère un repli, une distanciation et une négociation sur le terrain de bataille 
+des luttes identitaires. 
+Dans le cadre de notre premier chapitre, nous tenterons de mettre en perspective les 
+objectifs inhérents à ce mémoire. D'abord, il s'agit de comprendre le contexte du 
+développement académique et social de la théorie queer. À partir de ces constats, il nous 
+sera alors possible de la mettre en contraste avec les approches libérationnistes cousines ou 
+concurrentes. Pour ce faire, nous analyserons la problématisation , la politique et les 
+stratégies queer pour faire ressortir son originalité par rapport aux études GLBT et 
+féministes classiques. Dans un second chapitre, nous expliciterons notre position 
+méthodologique au regard de l'histoire de l'analyse du discours. Au delà des perspectives 
+plus naïves de l'herméneutique classique -se limitant à l'interprétation comme activité de 
+genèse du sens -notre approche se situe du coté critique afin de révéler les logiques 
+inhérentes aux espaces de production discursive. Nous poursuivrons dans un troisième 
+chapitre avec Judith Butler qui mettra en évidence les deux concepts principaux de sa 
+pensée retenus dans ce mémoire, à savoir la performativité et la performance. Ces concepts, 
+joints à la notion de genre, apportent un éclairage nouveau quant aux identités sexuelles. 
+Les notions de sexe-genre de même que l'ontologie politique de Butler alimenteront ce 
+6 
+chapitre. Ce troisième chapitre a pour objectif de présenter le versant académique de cette 
+philosophie politique du changement social. Enfin, nous terminerons dans un quatrième 
+chapitre par trois approches de l'action collective queer à savoir la résistance culturelle 
+queer, la « queerisation» de l'éducation et du développement international. Au travers de 
+ces actions de résistance au régime de l'hétérosexualité, nous pourrons découvrir la grande 
+variété de l'action collective queer. Il nous sera alors possible d'exposer et d'analyser les 
+stratégies mises en place par les activistes queer. 
+CHAPITRE 1 
+DE L'ACTIVISME HOMOSEXUEL AU MOUVEMENT QUE ER : 
+FRACTURES ET DIVERGENCES D'UN DISCOURS 
+POLITIQUE DU GENRE 
+La recherche féministe des années 1970 a fait émerger la réflexion sur le genre et la 
+sexualité. Suivant cet effort pionnier des féministes , nous voyons s'institutionnaliser un 
+nouveau programme de recherche critique sur le genre, particulièrement axé sur les modes 
+de constitution des identités sexuelles. Ainsi, voit-on apparaître les études gaies et 
+lesbiennes dans la plupart des pays occidentaux. Essentiellement sociologiques, ces études 
+se constituent en complémentarité avec les sciences sociales universitaires . Au cours des 
+années 1990, apparaît une nouvelle approche de l'étude du genre et de la sexualité : la 
+queer theory. En rupture avec le sociologisme ambiant des études gaies et lesbiennes, cette 
+théorie se tourne vers la chasse gardée de la philosophie. À son tour, elle ambitionne de 
+construire au plan philosophique une nouvelle conception des rapports entre l'identité, la 
+sexualité et le genre. Ainsi émerge dans les milieux universitaires une pensée politique 
+radicale qui, peu à peu, nourrit une nouvelle vision des modes de pensée du genre et de la 
+sexualité. En opposition aux études GLBT, la théorie queer est un champ d'études qui 
+s'intéresse davantage aux genres et à ses diversifications qu'à la sexualité. Avec 
+l'émergence du courant queer apparaît ainsi une nouvelle problématisation de l'identité et 
+8 
+de la nonne, beaucoup plus axée sur les enjeux du genre. Selon Judith Butler, une des 
+principales protagonistes de ce courant de pensée: 
+Homosexuality in particular leaves gender behind. The two are not only separable but 
+persist in a mutually exclusive tension in which queer sexualities aspire to a utopian 
+life beyond gender [ ... ] The Vatican seeks to undo gender in a effort to rehabilitate 
+sex, but method-oriented queer theory seek to undo gender in an effort to foreground 
+sexuality. (2004, p. 184) 
+Pour bien aborder ce nouveau courant, il nous apparaît dès lors utile de faire l'éventail des 
+différentes approches de la problématisation de la sexualité et du genre. Cette cartographie 
+des problématisations nous pennettra alors de mettre en relief la réflexion et la praxis 
+queer. 
+1.1 L'histoire de la pensée: problématiser le sexe, problématiser le genre 
+De tout temps, le sexe et le genre ont eu leur place au sein des discours 
+philosophiques et politiques . Que l'on pense aux sagesses grecques et aux philosophies 
+chrétiennes, les rapports homme-femme ont été au cœur des problématisations classiques 
+du sexe et du genre allant même jusqu'à fonder les prescriptions relatives à l'ordre social. 
+Les dernières décennies ont porté quelques fois en concurrence , en continuité ou en 
+symbiose , divers courants qui ont eu une influence non négligeable sur la façon de penser 
+les relations de personnes de même sexe. En ce qui nous concerne, nous souhaitons faire un 
+survol liant les approches essentialistes aux autres approches plus contemporaines . Les 
+deux premières catégories que nous aborderons relèvent de la tradition philosophique. Il 
+sera question de situer l'existentialisme et l'essentialisme. À ces classifications , nous 
+9 
+ajouterons trois paradigmes épistémologiques de la tradition des SCIences sociales: le 
+constructivisme, le post-modernisme et la théorie queer. La problématisation du sexe et du 
+genre est un terrain de recherche qui se partage entre la philosophie et les sciences sociales. 
+Dans un premier temps, les approches essentialistes reconnaissent 1 'homosexualité 
+comme un fait à la fois transhistorique et transculturel qui est plus ou moins bien accepté 
+selon la structure sociale dans laquelle elle s'insère. Line Chamberland souligne que 
+[l]a tendance essentialiste conçoit l'homosexualité comme une forme prédéterminée 
+de la sexualité humaine échappant largement aux influences extérieures, une 
+orientation particulière du désir sexuel dont les causes restent à déterminer, une 
+réalité en soi, constante et « naturelle » en quelque sorte, que les sociétés gèrent de 
+diverses façons. (1997, p. 10) 
+L'homosexualité est naturalisée, produite et problématisée dans le meilleur des cas 
+comme une constante marginale présente dans la nature quand elle n'est pas purement et 
+simplement associée à une déviance de l'essence de l'être humain. En approfondissant ce 
+contraste, l 'homosexualité est souvent abordée -médicalement et socialement -comme 
+une détermination déviante de la nature et qui, de ce fait, dénaturerait une nature humaine 
+jugée « vraie» et « juste ». L'orthodoxie du discours chrétien, le discours médical et les 
+penchants eugénistes des théories de l'évolution sont toutes des théories et des formes 
+d'essentialisation d'une homosexualité qui serait contre-nature. À la fois au plan théorique 
+et praxéologique, on peut penser au DSM (Diagnostic and Statistical Manual of Nervous 
+and Mental Disorders) utilisé par les psychiatres et qui a inclus l'homosexualité comme 
+expression contre-nature (contre-essence) de la sexualité humaine jusqu'à sa troisième 
+10 
+édition en 19801• L'homosexuel y est décrit comme une identité médicalement et 
+psychologiquement considérée comme déviante et marginale. Contrairement à cette 
+acceptation négative et très répandue de 1 'homosexualité, on retrouve également une 
+version essentialiste plus positive selon laquelle 1 'homosexualité serait ainsi un trait animal 
+marginal que l'on retrouve au sein de plusieurs espèces. Dans l'une ou l'autre de ces 
+versions de l'essentialisme, on retrouve néanmoins un postulat de base commun: le genre 
+et le sexe sont les produits de la nature. (voir Tableau 1) 
+La pensée essentialiste recouvre donc en elle des tensions paradoxales faisant tantôt 
+de 1 'homosexualité une identité contre-nature -erronée -tantôt cette homosexualité est 
+problématisée comme un trait marginal des espèces, sans pour autant y attacher un sens 
+négatif. Cette tension est fondatrice pour le mouvement gai et lesbien qui trouvera dans 
+l'essentialisme les sources d'une oppression identitaire ainsi que des arguments faisant de 
+l'identité une donnée non négociable issue de la nature, qu'ils souhaitent faire reconnaître 
+comme légitime. Le droit devient l'instrument d'une action collective destinée à appuyer 
+une quête de justice et de légitimité sociale fondée sur le caractère naturel de cette identité 
+1 En 1973, les passages sur l'homosexualité seront « dé-psychiatrisés» en cours d'usage du DSM-II. 
+Il 
+Tableau 1 
+Courants philosophiques et paradigmes épistémologiques 
+VISION DU VISION DE LA ACTION 
+THÉORIES POSTULATS COLLECTIVE / GENRE SEXUALITÉ RÉSISTANCE 
+COURANTS 1 
+PHILOSOPHIQUES 
+Christianisme Légalisme 
+Positivisme Continuum sexe-genre Reconnaissance de la 
+ESSENTIALISME Darwinisme Déterminisme Normal/contre-nature ou diversité naturelle de 
+Psychologie statistiquement normal/marginal l'être humain comme 
+(DSM 1-11) animal 
+Sartrien Genre produit et Identité sexuelle Révolte EXISTENTIALISME Heideggérien Volontarisme reproduit dans les produite dans l'acte Quête de l'authenticité actes 
+PARADIGMES 
+ÉPISTÉMOLOGIQUES 
+Sociologie 
+CONSTRUCTIVISME compréhensive L'interaction reproduit la société et ses membres , y compris le sexe et le NIL (Neutralité 
+Phénoménologie genre. La société est un univers de sens, de signes et de valeurs. axiologique) 
+schützienne 
+POST -MODERNISME Critique des méta- Identité construite Binarité sexe-genre constitue un continuum qui Déconstruction récits de la modernité socialement peut être opprimant 
+Identités Actes régulés 
+-Théorie queer Théorie queer contraignantes et Opprimant légalement et de façon Multitude 
+normative par le Souci de soi opprimantes régime hétérosexuel 
+- -
+12 
+comme expressIOn de la diversité humaine au même sens que la diversité ethnique : 
+l'homosexuel naît gai, ce n'est pas un choix2. 
+Dans un deuxième temps, l'existentialisme constitue le second terme de la paire 
+philosophique de la réflexion sur l'identité . Ainsi, «sous l'influence de la philosophie 
+existentialiste et des écrits classiques anticoloniaux (Fanon, Memmi) , l'homosexualité est 
+appréhendée comme une expérience existentielle, centrée sur la recherche d'une identité 
+authentique à travers la lutte contre l'oppression sexuelle » (Chamberland , 1997, p. 10). 
+L'identité se révèle dans l'acte et l'existence devient l'espace d'une expression de soi. Dans 
+une perspective existentialiste, l'identité n'est pas le fruit d'une essence déterminante . Au 
+sens général, au travers de leurs actes, les êtres humains repoussent sans cesse les frontières 
+de l 'humanité. Dans une logique chère aux tenants de l'existentialisme , comme Sartre ou 
+Camus, nos actes engagent l'humanité. En effet, c'est dans l'acte que l'identité , et de 
+surcroît l'identité sexuelle, advient et se réalise. 
+La conduite idéalisée (praxis) serait de privilégier le dévoilement de cette nature 
+homosexuelle. Dans cette recherche d'authenticité, l'individu se révèle à lui-même , mais 
+aussi aux autres. Il répond à sa « nature », identifiée au préalable , par un acte social qui 
+2 Cette essentialisation identitaire par le biais de la nature nous apparaît comme une approche fataliste qui 
+peut conduire à certaines dérives. L'identité homosexuelle par nature peut sembler apaisante pour fournir 
+une réponse aux attaques formulées par les discours religieux orthodoxes voulant que l'homosexualité soit 
+un choix faible, déviant et contre-nature . Seulement , l'acceptation par nature de l'identité nous semble 
+potentiellement plus sujette aux stigmatisations, elle ne fait que renforcer l'hétérosexualité dominante . On 
+passe d'une homosexualité immorale à une homosexualité statistiquement marginale aux côtés d'une 
+distribution normale de la sexualité . 
+13 
+implique l'importance de se dévoiler et de se reconnaître tel qu'il est. Les variantes de cet 
+acte délibéré de déclaration de soi sont multiples. Chez Heidegger (1986), la quête de 
+l'authenticité se fait sur le mode d'une prise de conscience d'une dictature du « On », c'est-
+à-dire d'un monde préexistant et contraignant pour l'être qui devrait se révolter contre ce 
+monde fait pour tout le monde et personne à la fois. Chez Sartre, la résistance se fait dans la 
+situation3. Prenant conscience de soi, l'existant est condamné à être libre et la situation -
+comme limite à sa liberté et à ses désirs -devient un moment révélateur qui est propice à 
+un acte de conquête de cette liberté. La situation renforce la dimension volontariste de 
+l'identité entendue ici comme projet. Contrairement à l'approche essentialiste , ici personne 
+ne naît homosexuel. Nul n'est homosexuel avant d'avoir consommé l'acte. 
+Dans une conception existentialiste , le geme est également construit et reproduit 
+socialement dans les actes. Comme nous le rappelle Simone de Beauvoir, on ne naît pas 
+femme, on le devient! Le geme attribué est une construction par autrui qu'il devient 
+nécessaire de contester et de questionner plutôt que d'accepter et d' enacter. Cette manière 
+de penser le geme sera inspirante pour le mouvement féministe des années 1960 et 1970. 
+L'action collective préconisée par le courant existentialiste passe par une reconnaissance 
+individuelle de sa propre liberté. 
+3 L'impossibilité d'amener un partenaire de même sexe à un bal de finissant constitue un exemple de 
+situation au sens sartrien du terme. 
+14 
+Au plan épistémologique, nous retrouvons trois paradigmes post-positivistes ayant 
+profondément marqué l'étude de la pensée sur l'identité en fonction du sexe et du genre. Le 
+constructivisme est l'aîné de ces courants de pensée et prend racine dans les années 1960. 
+La pensée constructiviste est inspirée par la phénoménologie et nous y retrouvons 
+notamment des auteurs tels Berger et Luckman (1966). Suivant cette conception du 
+constructivisme , la réalité sociale est construite et reproduite par l'interaction des acteurs. 
+Berger et Luckman (1966) diront que la vie en société est habilitée par la production et la 
+mise en commun d'expériences et de repères partagés par les membres d'une même société. 
+Ce « stock» de connaissances disponibles construit dans l 'histoire humaine constitue le 
+repère des actions sociales et des constructions identitaires, conçues, ici, comme rôle. 
+L'hétérosexualité est construite comme la sexualité dominante, l'homosexualité pour sa 
+part se retrouve dans la marginalité. Le constructivisme 
+[ ... ] reproche notamment [à l'essentialisme] de reproduire les schémas 
+psychomédicaux hérités du XIXe siècle qui ont créé de toutes pièces des catégories 
+du désir sexuel et fait de l'Homosexuel, de la Lesbienne, un personnage qui se 
+distingue par un ensemble de caractéristiques découlant de manière inéluctable de 
+son orientation sexuelle. (Chamberland, 1997, p. Il) 
+Le sexe et le genre sont des construits sociaux comme autant de « rôles» prêts-à-porter. 
+Inspirés par la sociologie compréhensive wéberienne, ces sociologues constructivistes se 
+sont intéressés au sexe et au genre sur le plan de leur valeur en tant qu'expérience humaine, 
+sans pour autant suggérer de mode de résistance ou d'action politique orientée vers le 
+changement social. 
+15 
+Quatrièmement, nous retrouvons le postmodernisme , paradigme épistémologique lié 
+à une conception de la société: la postmodernité. Nous entendons ici la postmodernité , telle 
+que proposée par Lyotard, comme « [ ... ] incrédulité à l'égard des métarécits» (1979, p. 7). 
+La modernité, avec sa liberté positive et son intention de créer un « homme nouveau », a 
+mené tout droit aux camps de concentration et aux pires abus despotiques par des partis, 
+dirigeants et mouvements politiques se réclamant tantôt de la gauche ou de la droite 
+politique . Le post-modernisme se caractérise aussi par son tournant linguistique. Le pouvoir 
+des mots dans la construction du monde est ainsi habilité. Conséquemment, la réalité est 
+construite au travers du langage qui devient le seul niveau d'analyse crédible aux yeux des 
+postmodernes . La conception du geme postmoderne en est une essentiellement de la 
+critique de la binarité moderne. La modernité a figé le geme en fonction du sexe, et ce, sur 
+le mode binaire. 
+Dans la même veine, la liberté négative4 est caractéristique de la pensée postmoderne 
+trop souvent suspecte des récits libérateurs et de leur dérive. Pour autant, ceci n'implique 
+pas que la pensée postmoderne n'assume pas la critique, au contraire. Dans une logique 
+postmoderne, la critique se fait dans les limites du « je », c'est-à-dire qu'elle se réalise dans 
+la conscience que la critique sociale qui est à l'œuvre est le fruit d'une position et de 
+4 Pour Isaiah Berlin, il existe deux conceptions de la liberté, une liberté positive et une liberté négative. 
+Nous empruntons à Berlin ces deux conceptions de la liberté qui sont utiles pour différencier les divers 
+paradigmes sociologiques, notamment en ce qui concerne leurs postulats et conceptions de la nature 
+humaine. La liberté négative est une liberté libérale voulant que chacun se réalise en tant qu'être humain en 
+fonction de son propre destin, et ce, tout en respectant les limites de sa propre liberté. La liberté positive 
+pour sa part correspond à une conception idéale de la liberté. Les projets socialistes par exemple cherchent 
+à rendre l'être humain libre. La liberté est une quête et un projet à accomplir. 
+16 
+préférences personnelles. Ainsi, la critique se réalise dans les limites assumées et 
+individuelles. En bref, la critique postmoderne ne veut pas Imposer de projets en 
+contrepartie pour ne pas retomber dans la violence totalitaire d'une liberté imposée, d'une 
+société et d'un être humain idéal à construire. Ceci étant dit, l'action collective demeure 
+possible dans les limites d'une déconstruction de la société et du langage et, pour ce faire, il 
+suffit d'adhérer personnellement au projet de déconstruction. La postmodernité se limite 
+toutefois, politiquement, aux frontières d'une « reconstruction », que les leaders 
+postmodemes ne souhaitent pas assumer, encore une fois pour ne pas tomber dans la 
+tentation des métarécits . 
+La théorie queer est, pour sa part, à la fois une critique du régime binaire des genres, 
+mais aussi de la société patriarcale. La pensée queer mise sur l'auto-identification et se 
+garde bien de définir précisément ce qu'est un queer. Critique des catégorisations , la 
+théorie queer cherche par ce concept ouvert à ébranler les catégorisations de genre et de 
+sexualité pour en montrer leur impéritie à cerner la diversité. Cette critique du régime 
+binaire des genres veut rendre possible la multiplication des identités dans un effort de 
+diversification des horizons de libération et de liberté, au sens positif du terme. Ainsi 
+Foucault, en analysant la bio-politiqueS, amorce dans les années 1970 les bases de réflexion 
+5 Foucault (1976) présente le bio-pouvoir de cette façon: « les disciplines du corps et les régulations de la 
+population constituent les deux pôles autour desquels s'est déployée l'organisation du pouvoir sur la vie. 
+La mise en place au cours de l'âge classique de cette grande technologie à double face -anatomique et 
+biologique, individualisante et spécifiante, tournée vers les performances du corps et regardant vers les 
+processus de la vie -caractérise un pouvoir dont la plus haute fonction désormais n'est peut-être plus de 
+tuer mais d'investir la vie de part en part ». (p. 183) 
+17 
+de la pensée queer. Bien qu'il ait été utilisé par les auteurs des autres paradigmes présentés , 
+c'est au cœur de la théorie queer qu'il a été le plus mis à profit dans les études sur le sexe et 
+le genre. Les régimes discursifs (la psychologie , la psychiatrie , la médecine, la théologie) et 
+l'épistémè6 hétérosexuelle conditionnent et construisent l'identité masculine , féminine, la 
+famille et gèrent l'organisation sociale structurante pour ces entités. En fait, pour Foucault, 
+les disciplines -pratiques et techniques qui établissent le fonctionnement d'un régime 
+savoir/pouvoir -sont autant de méthodes et de techniques qui habilitent la production d'un 
+discours du vrai, discours qui devient déterminant dans la création des objets et entités 
+. sociales. À titre d'illustration , Foucault s'inspire notamment de l'apparition d'une 
+association entre un acte sexuel (la sodomie) et une identité sociale qui prend racine dans le 
+droit: 
+la sodomie -celle des anciens droits civil ou canonique -était un type d'actes 
+interdits; leur auteur n'en était que le sujet juridique . L'homosexuel du XI Xe siècle 
+est devenu un personnage : un passé, une histoire et une enfance, un caractère, une 
+forme de vie; une morphologie aussi, avec une anatomie indiscrète et peut-être une 
+physiologie mystérieuse. (Foucault , 1976, p. 59) 
+À l'instar de Foucault, les tenants de la théorie queer aborderont l'étude de la 
+problématisation « liante» du sexe et du genre par le biais de ce regard archéologique qui 
+s'intéresse aux différents points de rupture, aux tournants et aux genèses qui font advenir 
+certaines réalités sociales. L'individu ne correspondant que faiblement à ce régime des 
+6 « Par épistémè, on entend, en fait l'ensemble des relations pouvant unir, à une époque donnée, les pratiques 
+discursives qui donnent lieu à des figures épistémologiques, à des sciences, éventuellement à des systèmes 
+formalisés ; le mode selon lequel, dans chacune de ces formations discursives , se situent et s'opèrent les 
+passages à l'épistémologisation , à la scientificité , à la formalisation ; la répartition de ces seuils, qui 
+peuvent entrer en coïncidence , être subordonnés les uns aux autres, ou être décalés dans le temps; les 
+rapports latéraux qui peuvent exister entre des figures épistémolo giques ou des sciences dans la mesure où 
+elles relèvent de pratiques discursives voisines mais distinctes . » (Foucault , 1969, p. 250) 
+18 
+genres se trouve alors dans une position délicate. Suivant la critique des régimes de 
+savoir/pouvoir entreprise par Foucault, 
+[ ... ] l'approche queer déplace le point de mire des sexualités marginales vers une 
+analyse critique des discours et représentations culturelles, y compris scientifiques, 
+portant sur les sexualités. Mais elle ne se contente pas de dévoiler le caractère 
+idéologique des catégories d'analyse ni de dénoncer l'arbitraire des règles du 
+discours scientifique: elle en fait son leitmotiv épistémologique, questionnant sans 
+relâche la possibilité et la pertinence d'un savoir scientifique sur le phénomène de 
+l'homosexualité. Autrement, [l'approche queer] s'inscrit d'emblée dans la logique 
+d'un désir qui refuse d'être nommé, catégorisé, analysé, contrôlé. (Chamberland, 
+1997, p. 13) 
+Cette critique du mode binaire de catégorisations ne s'arrête pas seulement à un refus d'être 
+catégorisé, mais il s'étend aussi à des stratégies politiques d'ébranler au cœur même le 
+régime hétérosexuel en retournant sur lui-même la stratégie du savoir/pouvoir qui régit les 
+sexualités marginales. Il appert que la théorie queer est épiphyte. C'est d'ailleurs ce que 
+soutient Judith Butler (2004, 2005 [1990]) qui critique vigoureusement l'humanisme 
+régnant. En s'appuyant sur Althusser et Foucault (Goldstein, 2005), elle remet en question la 
+pensée féministe. Ainsi comme le souligne Goldstein : 
+while traditional feminists assume that the term « male» and « female» identify 
+biologically distinct groups with equally distinct interests, experiences, and social 
+organizations, she [Judith Butler, 1990, 2005] argues that gender is not a matter of 
+hum an nature or biological traits but, as Althusser and Foucault imply, a 
+performance imposed by established cultural norms. (2005, p. 68) 
+Au sens où on l'entend dans le monde universitaire, le terme queer est introduit aux 
+études gaies et lesbiennes en 1991 par Teresa de Laurentis. Associé à l'analyse de ces 
+différences qui dérangent, entre autres, la couleur de la peau et l'orientation sexuelle 
+19 
+(Butler, 1993), le terme queer questionne la naturalisation des comportements 
+hétéronormatifs . Bien qu'enracinée dans le mode d'analyse foucaldien, la théorie queer ne 
+saurait être réduite à cette seule contribution philosophique. Théorie du paradigme 
+postmodeme, la théorie queer assume une position plus politique que la démarche 
+foucaldienne qui s'apparente plutôt à une analytique du pouvoir qu'à un projet de 
+changement social défini et orienté. Ainsi, « at its roots, queer theory is a critique of the 
+dominant cultural theories of the self (or subject) as defined by the industrialized West. » 
+(Bacha, 2005, p. 81) En ce sens, la théorie queer est une pensée politique enrichie d'une 
+démarche d'analyse sociale qui questionne la liaison systématique sexe-genre dans la 
+pensée politique et sociale contemporaine. Bien qu'elle soit de la famille postmodeme de 
+par son incrédulité à l'égard des métarécits, la théorie queer n'assume pas le silence 
+postmodeme soutenu par une conception de la liberté au sens négatif du terme. En fait, la 
+théorie queer est libérationniste et elle se propose de mettre à l'examen les constructions 
+hétérosexistes des identités sociales. Cette dimension de la théorie queer -sa pensée 
+politique et son actualisation dans les résistances contre 1 'hégémonie hétérosexuelle -
+demeure toutefois un aspect moins bien connu que son ancrage dans les stratégies d'analyse 
+d'inspiration foucaldienne. 
+Ainsi, l'approche queer prend ses distances des modèles et schémas institutionnalisés 
+et ouvre la voie à la multiplication des identités sexuelles , à la critique de la sémantique 
+sexe-genre et de classes qui structurent l'univers hétérocentré . Bref, le discours queer 
+20 
+permet la mise en place d'une multitude de stratégies nécessaires à une critique subversive 
+radicale, ludique et révolutionnaire du régime oppressant des genres de l'idéologie 
+hétérosexuelle . 
+1.2 Le terme queer : définition et usages d'une notion 
+À l'origine, le terme queer7 est porteur de plusieurs significations, dont plusieurs 
+soulèvent la controverse. Il s'apparente d'abord à l'expression anglaise odd, dans le sens 
+d'« étrange », de «bizarre », de « singulier ». Queer est aussi synonyme de l'insulte 
+adressée plus spécifiquement aux gais et lesbiennes pour les désigner de « pédé » et/ou de 
+« gouine» 8. Sa première utilisation comme référent à un désordre ou à une déviance 
+sexuelle est apparue en 1922 aux États-Unis. En effet, l'Oxford English Dictionary Online 
+nous donne cette première définition: « 1922 Pract. Value of Scientific Study of Juvenile 
+Delinquents (Children's Bureau, U.S. Dept. of Labor) : A young man, easily ascertainable 
+to be unusually fine in other characteristics, is probably 'queer' in sex tendency »9. Par la 
+suite, le terme est repris par les militants et intellectuels qui le dépouillent de toute 
+signification péjorative. C'est ici un choix subversif et d'autodérision que les tenants de 
+cette théorie assument pleinement. 
+7 On peut faire remonter l'étymologie du terme à l'année 1508. L'Oxford English Dictionary nous donne 
+une première référence : « 1. a. Strange, odd, peculiar, eccentric, in appearance or character. Also, of 
+questionable character, suspicious, dubious. queer fellow, an eccentric person; also used, esp. in Ireland 
+and in nautical contexts, with varying contextual connotations (see quots.) Cf. QUARE a». 
+8 Dictionnaire Le Robert et Collins Sénior, 4< édition, 1996. 
+9 Oxford English Dictionary Online. Consulté le 15 novembre 2006 de 
+http://dictionary .oed.com/cgi/entry /50 1 94683?guery type=word&gueryword=gueer&first= 1 &max to sho 
+w=10&sort type=alpha&result place=2&search id=Vj91-kn5tBA-6668&hilite =50 194683 
+21 
+On se doit de distinguer, à au moins deux niveaux, les études gaies et lesbiennes de la 
+théorie queer. Alors que les premières, plutôt de nature sociologique, s'intéressent à la 
+reconnaissance et à l'insertion des homosexuels dans le schème hétéronormatiflO, le 
+questionnement théorique queer, pour sa part, est plus subversif et de nature plus 
+philosophique. Le courant queer s'intéresse aux modes de construction du modèle 
+hétéronormatif et à la constitution du sexe-genre et de la sexualité qui en découle. Car 
+d'après Foucault et Wittig, le sexe-genre disparaîtrait avec le sabordement de la matrice 
+hétéronormative (Butler, 2005 [1990]). Bref, on s'intéresse ici au caractère quasi donné de 
+la socialisation primaire (Berger et Luckmann, 1966). Nous pouvons donc voir dans la 
+pensée queer un amalgame des études féministes et des études gaies et lesbiennes. Nous y 
+reviendrons ultérieurement. 
+L'intérêt particulier porté à cette théorie nous vient de la prolifération des 
+publications sur le sujet et de son exploration philosophique dans le champ de la 
+déconstruction de l'ontologie sexuelle (Butler, 2005 [1990]). Les questionnements 
+personnels relativement à l'avancement politique des droits des gais et lesbiennes nous ont 
+également porté à présenter une analyse critique de la théorie queer au plan éthique. En 
+d'autres mots, l'avancement sociopolitique du mariage des personnes de même sexe et des 
+accommodements, comme le P ACS en France, nous ont conduit à poser un questionnement 
+critique de l'acculturation hétéronormative des individus aux sexualités marginales. 
+10 On peut définir le tenne hétérononnatif comme la propension dans nos sociétés à considérer comme un fait 
+« naturel» l'union civile ou sexuelle d'un homme et d'une femme. En effet, la normativité hétérosexuelle 
+comme le patriarcat est une des valeurs sur lesquelles se construit la vie en société. 
+22 
+Partie prenante de l'invention de modes de vie extra-hétéronormatifs, la théorie queer 
+prétend donc à une ouverture et à une construction de nouveaux modes d'être. 
+Essentiellement réflexive et critique, cette théorie présente une pertinence philosophique 
+non négligeable , en ce sens qu'elle s'inscrit et, en même temps enrichit, le corpus post-
+structuraliste et constructiviste d'une réflexion sur le corps et les plaisirs. Ainsi, les 
+questionnements sur les concepts de genre, de sexe et de plaisir se trouvent augmentés et 
+porteurs d'une nouvelle perspective. Théorique et politique, une telle théorie se veut encore 
+vecteur de changements sociaux, voire d'une réinvention des modes de vie et des 
+performativités sociales différentes des relations identifiées comme hétérosexuelles. Par le 
+truchement d'un regard bien foucaldien, la théorie queer contient tous les aspects d'une 
+discipline dans la mesure où elle rassemble un ensemble de pratiques discursives 
+susceptibles de produire un savoir pour l'action et le changement social. 
+Malgré l'importance des propositions critiques suggérées par les théoriciens queer, 
+des questions demeurent cependant en suspens. Ainsi, quelle est la nature du projet 
+mobilisé par les auteurs du mouvement? Aussi tenterons-nous de saisir les différentes luttes 
+de pouvoir amorcées au sein même du discours queer. Dans une perspective généalogique 
+foucaldienne, nous tenterons donc de comprendre ce que propose la nouvelle théorie; 
+autrement dit, quel nouveau régime de vérité cherche-t-elle à instituer et au moyen de 
+quelles pratiques discursives? Cette perspective généalogique loin de chercher à 
+comprendre l'apparition du discours queer comme la continuité d'une longue 
+23 
+transformation du discours sur le genre, cherche plutôt à déceler les discontinuités et les 
+ruptures qui ont habileté et permis l'apparition du discours queer en question (Dreyfus et 
+Rabinow, 1982). Par ailleurs, comme la plupart des discours sur l'identité, le sexe et le 
+genre, le discours philosophique queer se transpose également dans le terrain de la lutte 
+politique et sociale. Or, cet aspect de la fracture des discours de résistance identitaire 
+demeure jusqu'à ce jour bien méconnu. 
+1.3 Le mouvement queer et le mouvement gai et lesbien: fractures d'une résistance 
+identitaire 
+Le mouvement queer et le mouvement GLBT sont en concurrence non seulement en 
+ce qui concerne la construction de leur objet d'étude à savoir l'homosexuel ou le queer, 
+mais aussi dans leurs stratégies respectives face au régime hétérosexuel. Les résistances et 
+les actions politiques mises en place par le mouvement GLBT semblent avoir failli à la 
+tâche, car elles n'ont pas réellement brisé le cycle de l'homophobie ou de la discrimination. 
+Une étude récente présentée à l' ACF AS 2008 montre entre autres que 18,2 % des jeunes 
+d'écoles secondaires de la région de Montréal ont des comportements homophobes envers 
+d'autres adolescents 1 1. Statistique Canada ne tient pas de statistiques précises sur la 
+violence homophobe. Toutefois , dans l'Enquête Sociale Générale de 1999, la catégorie 
+« autre» qui compte pour 37 %, comprend les crimes haineux et, en ordre de fréquence, 
+ceux liés à l'orientation sexuelle se classent en deuxième position de cette catégorie. Des 
+statistiques américaines , référées dans un document de Statistique Canada produit en 
+Il Voir Le Soleil, mardi 6 mai 2008, p. 8. 
+24 
+200112, nous informent qu'en 1998 au moms quatre meurtres et quelques 1070 cnmes 
+contre la personne liés à l'orientation sexuelle ont été rapportés au Federal Bureau of 
+Investigation. Il faut tout de même garder à l'esprit que ce ne sont pas tous les incidents qui 
+ont été rapportés à la police. Ainsi, la ville de Londres qui note, en 2005, une baisse de 4 % 
+des crimes en général, connaît, la même année, une augmentation de 8,5 % des crimes 
+homophobes 13. 
+1.3.1 Une autre résistance, une autre politique 
+Bien que les approches existentialistes et essentialistes aient tenté de proposer des 
+lectures différentes de l'homosexualité, celles-ci n'ont pu que confirmer la position 
+dominante de l'hétérosexualité: existentialisme (le choix d'être gai) et l'essentialisme (gai 
+par nature). Ainsi, le discours homophile bien institutionnalisé dans l'académie 
+universitaire semble avoir failli à contrer l'homophobie et le régime patriarcal dans la 
+société. Les différentes stratégies GLBT ont souvent été reprises par les discours médicaux, 
+religieux, psychologiques et psychiatriques pour en montrer l'anormalité et l'aspect contre-
+nature. Malgré que l'on puisse penser que les discriminations et les ostracismes se soient 
+amoindris avec le temps, l 'hétérocentrisme et le régime de 1 'hétérosexualité obligatoire se 
+réifient toujours dans les écoles, églises, cours de justice et autres institutions sociales. 
+Ainsi, les cours de justice, avec l'aide des psychiatres, psychologues, criminalistes et 
+12 Statistique Canada, Les crimes haineux au Canada: Un aperçu des questions et des sources de données, 
+2001, p. 15. 
+13 http://www.tetu.com/ rubrique/infos /infos detail.php?id news= 1 243&date info=2005-04-27 . Consulté le 
+Il mai 2008. 
+25 
+avocats, ont développé comme défense, pour souvent amoindrir les pemes ou plaider 
+. l'aliénation, les désordres mentaux reliés aux paniques causées à la vue d'homosexuels. 
+Comme le note Dunbar (1999), sur quatre stratégies de défenses psycho-légales reliées aux 
+crimes haineux, deux sont spécifiquement construites pour défendre les assaillants accusés 
+de crimes homophobes. La «maladie» de Kempf, connue aussi sous les vocables 
+homosexual panic et sexual self-defens e, causée par une menace homosexuelle, 
+(homosexual threat) est utilisée en cour de justice. Ainsi, 
+[t]raditionnally , homosexual panic referred to the avers ive response of an individual 
+to a presumed same-sex attraction , which reflected the repressed and latent 
+homosexuality of the individual (Chuang & Addington , 1988). [ ... ] Furthermore , in 
+many cases in which the notion of homosexual panic is employed , the defense fails 
+to consider the issue of the defendant's supposed latent or repressed homosexuality. 
+Rather, the homosexual panic defense is simply used as an excuse for gay bashing. 
+(Dunbar, 1999, p. 68) 
+De même, la stratégie légale de l'autodéfense sexuelle (sexual self-defense) est 
+employée la plupart du temps dans les cas où l'agresseur croit ou prétendait croire que la 
+victime lui faisait des avances. Des cas d'acquittement reliés au trouble de la menace 
+homosexuelle (homosexual threat) et de la panique homosexuelle (homosexual panic) sont 
+très bien documentés . À titre d'exemple , Dunbar (1999) nous informe d'un cas ou 
+l'agresseur fut acquitté de meurtre sur la base de l'autodéfense sexuellel4• De plus, 
+14 « In a recent case tried in the Washington D.C. area, an admitted assailant of a gay man was acquitted of 
+first -and second -degree murder charges due to the supposed sexual demands made by the victim who 
+had supplied the assailant with crack cocain. After the murder, the assailant stole the victim's car and was 
+in possession of the vehicule a month later when he was charged with the crime. The assailant claimed he 
+panicked and in self-defense stabbed his victim -an opinion found credible by the jury even though the 
+defense was limited to the presentation of the statement the de fendant gave to police at the time police 
+charged him with murder (Chibarro, 1998). » (Dunbar, 1999, p. 68-69) 
+26 
+plusieurs lois américaines régissant la sodomie sont toujours en vigueur dans certains États 
+et la plupart du temps utilisées à l'endroit d'homosexuels. Et plus étonnant encore, 
+certaines lois régissant la sexualité et la sodomie entre adultes consentants s'appliquent 
+seulement aux couples de même sexe, le couple hétérosexuel étant protégé des poursuites et 
+arrestations . Ainsi, «five states (Arkansas , Kansas, Maryland , Missouri and Oklahoma) 
+expressly (de jure) prohibit same sex relations, while fifteen states prohibit sorne kind of 
+sex for consenting adult heterosexual or homosexuals . » (Reasons et Hughson, 2000) 
+On voit donc émerger une garde du régime hétérosexuel dans le système judiciaire 
+protégeant non seulement les agresseurs en psychiatrisant l 'homophobie , mais à un plus 
+large niveau protégeant le régime hétéronormatif. L'assimilation au régime hétérosexuel 
+prôné par le mouvement GLBT semble avoir eu comme effet de rétablir « l'homosexuel» 
+aux yeux de la loi sur les crimes haineux au même niveau que tout autre citoyen. Des écoles 
+et institutions scolaires licencient des professeur( e )s, des églises propagent des discours 
+haineux 1 5. Malgré les lois contre les crimes haineux, comment se fait-il que la Sûreté du 
+Québec n'ait pas de politique et procédure ni d'unité de lutte contre les crimes haineuxl6 et 
+ne tienne même pas de statistiques? (Janoff, 2007) À cette question, on peut répondre qu'il 
+Plus près de nous, en 1995, à Vancouver « Kenneth Gaspard, 35, died September 29 from multiple stab 
+wounds inflicted by Gary Gilroy, 27. Gilroy met Gaspard in a gay bar and accompanied him home. Gilroy 
+c1aimed he was having a shower when Gaspard launched an agressive , unwanted homosexual attack upon 
+him, provoking his very violent response.» L'assaillant eut une peine réduite à 5 ans de prison pour 
+homicide involontaire malgré le fait qu'il eut assailli 60 coups de couteau avec 6 couteaux différents. 
+(Reasons et Hughson, 2000, p. 154). 
+15 Voir entre autres: http://www.godhatesfags.com . 
+16 Voir aussi, Statistique Canada, Les crimes haineux au Canada: Un aperçu des questions et des sources de 
+données,2001,p .19. 
+27 
+devient apparent que les institutions hétérosexuelles occultent les CrImes qUI visent les 
+identités minoritaires. Faut-il en déduire que la politique assimilationniste prônant la 
+tolérance tout en justifiant l'omnipotence du régime de l'hétéronormativité ait failli à sa 
+tâche? Il semble alors que le discours et les stratégies mises en place dans le cadre de 
+l'hétéronormativité n'aient pas atteint leurs buts et que cela se soit même retourné contre 
+les principales personnes visées. Notre but ici est donc de voir dans quelle mesure la 
+politique queer et ses stratégies diffèrent de l'approche légaliste assimilationniste17 associée 
+aux études GLBT. Quelles sont les stratégies de subversion du régime hétérosexuel mises 
+en place par la théorie et la praxis queer? Comment peuvent -elles désactiver la répression 
+hétérosexuelle envers les personnes ayant des sexualités marginales? 
+La théorie queer questionne la stratégie GLBT sur une autre de ses actions qu'est la 
+sortie du placard. Les mouvements de la fierté et des gay pride s'inspirent aussi de ce 
+besoin d'affirmation que les groupes GLBT ont perçu comme une stratégie émancipatrice. 
+Toutefois, la théorie queer soulève des questions pressantes au mouvement GLBT quant à 
+la sortie du « placard» car, comme le démontre Kosofsky-Sedgwick (1990), peu importe 
+que l'on soit à l'intérieur ou non, le « placard» place celui qui y est ou celui qui en sort (le 
+placard étant par définition non-hétérosexuel) dans une double contrainte. Celle-ci se trouve 
+17 Ces stratégies associées aux groupes GLBT, qui par l'instrument des lois protégeant contre les 
+discriminations , ont essayé de faire abolir des lois restrictives, pensons aux lois interdisant la sodomie ou 
+bien de faire passer des lois comme les lois sur le mariage de personnes de même sexe. Ces stratégies sont 
+critiquées par les mouvements queer, car elles s'insèrent dans le schème du régime hétérocentré et, loin de 
+promouvoir la multiplication des identités sexuelles et de genre ne fait que renforcer les institutions 
+hétérosexuelles. 
+28 
+encore une fois appuyée par le système de justice. On retrouve un exemple de cette double 
+contrainte chez Halperin (1995). Ainsi, comme il le note, un enseignant au primaire fut 
+transféré à des tâches administratives après que le conseil de l'éducation de son État eut 
+vent qu'il était gai. Il décida alors d'aller sur la place publique pour dénoncer la situation 
+comme étant un cas flagrant de discrimination. À la suite de son apparition dans les médias, 
+il a été privé du renouvellement de son contrat. Il poursuivit donc son ancien employeur , il 
+perdit sa cause sur l'argumentaire qu'il avait par sa sortie publique attiré l'attention sur sa 
+sexualité et sur lui-même de façon délétère, et ainsi nui au système éducatif. Il est allé en 
+appel et il gagna selon le premier amendement. Toutefois, il ne lui fut pas permis de 
+retourner à l'enseignement , car la cour considéra qu'il avait omis de mentionner dans son 
+contrat d'embauche qu'il avait fait partie d'une organisation homophile, ce qui aurait fait en 
+sorte qu'il n'aurait jamais été engagé à ce poste si les autorités en place avaient eu droit à 
+cette information. Ainsi, le fait de révéler de l'information à propos de sa sexualité lui a 
+coûté son poste, le manque d'information à ce même propos le met également dans la 
+même situation. Ceci est un bel exemple de la double contrainte reliée au « placard ». 
+Malgré les différentes manifestations de la fierté GLBT pour faire avancer la tolérance 
+envers les personnes vivant une sexualité marginale, il semble que cette stratégie 
+d'affirmation par la « sortie du placard» constitue un cul de sac. De fait, cette stratégie 
+GLBT de la « sortie du placard» met l'individu devant le piège d'institutions 
+hétéronormées et normalisantes. 
+29 
+Or, dans une perspective queer, la « sortie du placard» ne doit pas être entendue 
+comme la profession d'une définition figée d'un SOI, elle cherche à répondre au piège 
+d'une confession publique qui pourrait avoir des conséquences fâcheuses . Il s'agirait alors, 
+selon Kosofsky-Sedgwick (1990) -une des tenants de l'approche queer et épistémologue 
+du placard (closet) -de comprendre les règles de l'hétéronormativité , de prendre une 
+position d'observateur et de former une action collective qui évite le piège de la double 
+contrainte. Il s'agit pour nous d'identifier , dans l'action collective , une autre forme de 
+l' outing et ses précautions , comme le propose le mouvement queer. 
+1.3.2 Aux fondements d'un discours idéologique: une autre problématisation de 
+l'identité 
+Bien que les recherches féministes , les études gaies et lesbiennes et la théorie queer 
+soient associées au milieu universitaire et à des négociations paradigmatiques et 
+épistémologiques , elles ont toutes une vision différente de l'identité . À titre d'exemple, les 
+études féministes ont pour objet le genre, mais elles annoncent aUSSI une position 
+scientifique qui est politiquement réflexive au sens épistémologique du termel8. Pour la 
+chercheure, il s'agit alors d'intégrer sa position de sujet à son étude et d'enrichir la 
+recherche et la responsabilité sociale de celle-ci par le biais de sa connaissance personnelle 
+et de son expérience propre. À ces aspects épistémologiques , suivent et s'ajoutent des 
+18 La recherche féministe tout comme les recherches queer se distinguent des recherches positivistes pour 
+lesquelles le chercheur serait absolument neutre et désintéressé dans sa pratique. Cela dit, les recherches se 
+situant dans un paradigme post-positiviste ne sont pas moins objectives, mais elles assument le caractère 
+politique et engagé, c'est-à-dire qu'il est possible d'être subjectivement engagé sans pour autant manquer 
+d'objectivité. C'est en ce sens que l'on peut dire que ces approches sont plus réflexives sur le plan 
+politique de la recherche . 
+30 
+considérations qui sont plus fondamentalement politiques, ancrées dans l'action collective, 
+la résistance et le changement social. En ce sens, ces différents discours sont critiques et 
+émancipateurs. Considérant qu'ils cherchent l'adhésion, le changement , la mobilisation et 
+l'identification à la cause et au projet dans leur articulation sociétale, ces discours ont un 
+véritable versant idéologique. 
+Or, ces différents discours idéologiques s'appuient sur des problématisations bien 
+différentes pour fonder les assises de l'identité. Pour le mouvement gai et lesbien, l'identité 
+est fixe et fondée sur la sexualité. On est gai ou lesbienne par choix ou par naissance . Au 
+terme de l'action collective , le travail s'opère sur les institutions existantes afin de trouver 
+une place, une légitimité sociale et une reconnaissance identitaire . Il faut alors coexister 
+avec l'hétérosexualité , se faire une place et être accepté ou toléré. L'objectif est donc d'être 
+inclus au sein de ces institutions hétéronormées. La perspective queer semble annoncer une 
+approche différente de la question. Elle privilégie le genre et la multiplicité des jeux de 
+construction identitaire entre sexe et genre. Comme nous le verrons, la résistance queer 
+cherche moins les aménagements à la société hétérosexuelle et à ses institutions qu'un 
+changement plus radical, voire révolutionnaire de la société. Il ne faut pas travailler avec les 
+institutions hétérosexuelles et chercher en elles un moyen d'acquérir une reconnaissance , 
+mais il est plutôt bel et bien question de subvertir ces institutions. La production de 
+discours sociaux et la résistance aux discours institutionnels de l 'hétérosexisme constituent 
+un terrain de bataille. 
+31 
+1.3.3 Une lutte et des stratégies méconnues 
+L'objectif de cette recherche est de faire émerger les différentes stratégies mises en 
+place pour ébranler le régime de l'hétérosexualité obligatoire ce qui, à notre avis, n'a pas 
+été concluant avec la stratégie des études GLBT. Comme nous l'avons exposé plus haut, les 
+actions et les stratégies de style légaliste bien qu'elles aient permis l'avancée de certains 
+droits, n'ont pas permis d'enrayer l'homophobie et la violence à l'endroit des personnes 
+ayant des sexualités marginales. 
+Il s'agit pour nous de bien comprendre les styles et les modalités de l'articulation de 
+cette résistance queer. Cette dernière doit encore faire l'objet d'un travail exploratoire 
+privilégiant la reconnaissance de la production des discours de résistance queer et de leurs 
+champs d'expression, et cela, pour en déduire une stratégie d'ensemble. Si les travaux 
+queer sont abondants dans le milieu universitaire, les tentatives de comprendre les liens 
+entre le discours philo-politique, la position éthique, les stratégies et le style d'action 
+collective mis en œuvre pour la résistance identitaire, semblent avoir été écartées au profit 
+de recherches discrètes, privilégiant le plus souvent les réflexions épistémologiques. 
+Considérant les origines académiques de ce mouvement, il n'est pas surprenant que ces 
+travaux occupent un tel poids. De plus, dans certaines recherches, on observe souvent un 
+usage indistinct du vocable de la théorie queer pour parler des causes, des enjeux et de la 
+situation des gais et lesbiennes. Il s'en suit un gommage des distinctions importantes entre 
+les différentes positions: a) épistémologie; b) formulation des projets politiques; c) 
+32 
+articulation concrète de la résistance identitaire. Dans le cadre de ce travail, nous 
+souhaitons donc mettre en évidence ce qui jusqu'ici semble avoir été abordé sous l'angle de 
+la nuance. 
+CHAPITRE II 
+LES FONDEMENTS SOCIAUX D'UN DISCOURS DE RÉSISTANCE: 
+VERS UNE ANALYSE DE DISCOURS 
+En tant qu'objet d'étude, la théorie queer est un discours social et politique. 
+Approche toute désignée pour la recherche que nous entreprenons , l'analyse de discours 
+puise ses sources dans une longue histoire de l'interprétation philosophique et des sciences 
+humaines. Issue de la tradition herméneutique , l'analyse de discours est le versant 
+contemporain de la tradition interprétative et son renouvellement est rendu possible par les 
+travaux de Heidegger , notamment à partir de sa conception du Dasein qui limite l'ambition 
+de la recherche d'une vérité historique transcendante et indépendante de l'horizon de 
+l'interprète (Caputo, 1987). Cependant, nous pouvons dire que l'analyse de discours, telle 
+que pratiquée aujourd'hui, est généralement plus une renégociation de l'analyse des 
+idéologies proposée par Althusserl9. Nous présenterons donc dans ce deuxième chapitre 
+19 L'idéologie au sens althussérien du terme correspond à une tentative de dissimulation de la réalité, elle 
+masque la conscience de classe. L'idéologie est le fruit d'un appareillage sophistiqué qui habilite la 
+production de ce discours social et politique . Chez Althusser, on parle d'appareil idéologique d'État pour 
+désigner les acteurs et institutions qui accompagnent l'appareil répressif d'État (police, armée) dans la 
+régulation de la société et pour préserver le statu quo. L'idéologie interpelle l'individu comme sujet, elle 
+participe à sa définition identitaire. Dans une même veine, on retrouve une composition conceptuelle 
+similaire dans l'œuvre de Foucault. Bien que Foucault ne traite pas directement d'idéologie, sa pensée 
+suggère que l'épistémè remplisse cette même fonction d'interpellation . Là où Althusser identifierait une 
+dérive de l'idéologie capitalisme dans l'injonction à l'hétérosexualité obligatoire , Foucault identifie les 
+régimes de savoir/pouvoir qui légitiment par le savoir l'hétérosexualité . En outre, alors que l'idéologie au 
+sens althussérien du terme opère comme un voile sur la conscience , ce sont les savoirs qui fondent les 
+assises de la domination et du contrôle social sous l'angle de l'approche foucaldienne . 
+34 
+ces différentes renégociations de l'approche de l'analyse des idéologies , afin de nous 
+permettre de bien situer le parcours et les traditions contemporaines de l'analyse de 
+discours. Nous ferons ici l'économie du long détour de l'histoire du problème 
+philosophique de l'interprétation et de l'herméneutique au profit d'une cartographie des 
+traditions récentes de l'analyse du discours qui découlent du tournant heideggérien. En 
+particulier , considérant les filiations foucaldiennes de notre approche de l'analyse du 
+discours, nous traiterons de la tradition discursive qui s'est développée avec Foucault et 
+Althusser. L'approche théorique de l'analyse de discours a été choisie pour analyser les 
+textes de Judith Butler, porte-étendard du mouvement queer et représentante influente de 
+cette théorie. 
+2.1 La tradition et la pratique de l'analyse de discours 
+Comme nous l'avons mentionné, l'analyse de discours tire une de ses sources de 
+l'analyse de l'idéologie entreprise par Althusser. À cet effet, sans vouloir grossièrement 
+vulgariser cette notion, on peut voir dans le concept de l'idéologie althussérienne une 
+connexion avec la notion d'épistémè foucaldienne . Ainsi, pour Althusser, la matrice 
+marxiste s'exécute en fonction du rôle de classe à laquelle l'individu est associé. On peut 
+donc comprendre le structuralisme marxiste althussérien comme une épistémè au sens où 
+Foucault l'explicite . Ce n'est donc pas un hasard si l'analyse de discours/formations 
+discursives est associée aux études post-marxistes , car elle s'alimente des travaux de 
+penseurs d'approche marxiste. 
+35 
+2.1.1 L'analyse de discours critique 
+Avant d'aller plus en profondeur avec l'analyse archéologique et généalogique 
+foucaldienne, il est pertinent de présenter quelques autres approches complémentaires et 
+voisines que l'on qualifie aussi parfois d'approches post-marxistes de l'analyse de discours. 
+Ceci nous permettra de mettre en perspective les différents modes d'approche de cette 
+analyse depuis l 'herméneutique, de voir les continuités/ruptures entre les différents auteurs 
+et, finalement , de mieux comprendre les choix méthodologiques effectués. Entendons-nous 
+ici sur une définition du discours qui rejoint ces auteurs. C'est en ce sens que nous pouvons 
+dire que le discours produit le sujet sur lequel il « parle ». Foucault est très explicite sur ce 
+point. C'est ainsi que le discours psychiatrique produit le « fou », de même que le discours 
+sur l'homosexualité crée l'homosexuel (Foucault, 1963, 1966, 1969, 1972, 1975, 1976, 
+1984). Plus généralement, on peut même dire, suivant Foucault, que l'homme est un 
+produit des sciences humaines. Ainsi, « l'homme est une invention dont l'archéologie de 
+notre pensée montre aisément la date récente. Et peut-être la fin prochaine» (Foucault, 
+1966, p. 398). On peut appliquer cette logique à l'ensemble des sciences dites pures ou 
+sociales. C'est donc le constat à cet instant précis, le discours produit le sujet sur lequel il 
+s'étend. Nous verrons donc plus loin qu'il n'en va pas différemment quand nous 
+aborderons le sujet de cette recherche à savoir le discours queer. 
+J0rgensen et Phillips (2006) peuvent ici nous aider en identifiant quatre points sur 
+lesquels les auteurs que nous présenterons s'entendent: 
+36 
+1 -Language is not a reflection of pre-existing reality. 2 -Language is structured in 
+patterns or discourses -there is not just one general system of meaning [ ... ] but a 
+series of systems or discourses , whereby meanings change from discourse to 
+discourse . 3 -Theses discursive patterns are maintained and transformed in 
+discursive practices . 4 -The maintenance and transformation of the patterns should 
+therefore be explored through analysis of the specifie contexts in which language is 
+in action. (p. 12) 
+En un sens, ces quatre éléments synthétisent bien la tradition d'analyse de discours qui se 
+développera autour et à partir de l'œuvre de Foucault . Nous nous devons alors de 
+mentionner l'approche de Laclau et Mouffe (1990), l'approche de l'analyse critique du 
+discours de Fairclough (1995) et la psychologie discursive (J0rgensen et Phillips, 2006). 
+L'approche de Laclau et Mouffe (1990), comme une grande partie de leur théorie, est 
+influencée par les travaux du marxiste Gramsci et plus précisément sur sa conceptualisation 
+de l'hégémonie . Penseur et militant anti-fasciste italien, Gramsci a développé une approche 
+intéressante de l'hégémonie (capitaliste) que ces deux auteurs reprennent et adaptent aux 
+sociétés post-industrielles. De plus, nous pouvons mentionner que Laclau et Mouffe ont été 
+très influencés par Zizek (Torfing, 1999). 
+La conception du rôle de l'idéologie présente une différence importante entre les 
+auteurs de la tradition de l'analyse de discours. L'emphase et le rôle accordés à l'idéologie 
+constituent donc un point central des divergences entre les approches (J0rgensen et Phillips, 
+2006). L'approche de Laclau et Mouffe (1990) considère que l'idéologie au sens où 
+Althusser l'entend ne laisse pas assez de place aux ré-identifications et à la renégociation 
+des identités, ce qui ne laisse d'autres choix qu'une révolution léniniste ou maoïste 
+37 
+(Torfing, 1999) laissant peu de place au rôle du politique. Ainsi, le marxisme structurel à 
+tendance essentialiste « is responsible for the creation of the paradox according to wich the 
+political theory of Marxism invoke the disappearance of politics. This disappearance 
+become literaI and complete in the Marxist vision of the proletarian revolution , which is the 
+political act to end aIl politics » (Torfing, 1999, p. 19). Nous pouvons aussi noter que ces 
+approches divergent en ce qui concerne la place que prend le discours dans la constitution 
+du monde dans lequel se forge le sujet. D'après Jorgensen et PhiIlips (2006), nous pouvons 
+camper Laclau et Mouffe (1990) dans une position où le discours est tout à fait créateur 
+(constitutif) de la construction du monde. Ce courant opère une relecture de la mécanique 
+du concept althussérien d'idéologie. L'idéologie ici entendue comme discours devient 
+l'instanciation constitutive du réel. Pour ainsi dire, il n'y a plus cette division du travail 
+d'oppression althussérienne entre appareil répressif et appareil idéologique , pour ceux-ci le 
+discours est le point de synthèse des deux instances. 
+En somme, l'analyse de discours constitue un vaste champ de pratiques qui dépasse 
+largement le caractère naïf des analyses interprétatives trop souvent tournées vers la seule 
+idéation. Selon nous, le tournant contemporain de l'analyse de discours, inspiré des 
+traditions dites foucaldiennes, constitue un point de repère et un cadre de référence 
+correspondant aux besoins de cette recherche à plus d'un égard. Dans un premier temps, 
+nous devons reconnaître que le discours queer en est un de nature académique, c'est-à-dire 
+qu'il est partiellement produit, consommé et disséminé dans le cadre d'une production de 
+38 
+nature savante. Considérant l'option foucaldienne de l'analyse de discours que nous 
+privilégions, le discours est inscrit dans un processus agnostique, il véhicule des rapports de 
+pouvoir, mais surtout, des effets de vérité sur le genre. Reprises par les approches 
+contemporaines de l'analyse du discours, les notions foucaldiennes d'archéologie et de 
+généalogie sont d'une importance fondamentale pour bien aborder notre démarche 
+d'analyse . 
+2.2 L'archéologie du savoir: la pratique discursive 
+En tant que pratique de l'analyse du discours, la pensée archéologique de Foucault 
+« désigne le thème général d'une description qui interroge le « déjà-dit» au niveau de son 
+existence : de la fonction énonciative qui s'exerce en lui, de la formation discursive à 
+laquelle il appartient , du système général d'archive dont il relève» (Foucault , 1969, p. 173). 
+Un peu au sens où on entend généralement la pratique anthropologique, l'archéologie au 
+sens foucaldien veut creuser parmi les strates des formations discursives afin d'en faire 
+émerger les modes de production du savoir concret au sein des institutions. Ce n'est pas au 
+niveau des grandes profondeurs du sens à faire jaillir ou à déceler, que le travail 
+archéologique s'accomplit. En effet, contrairement aux pratiques interprétatives anciennes, 
+ce n'est pas la « vérité» du texte que Foucault chercherait à la manière de l'herméneute 
+« biblique », tels un Dilthey et un Schleiermacher , mais plutôt à rendre compte des 
+conditions de production des savoirs et de leurs effets de vérité. Le mouvement archéo-
+discursif foucaldien s'attache en quelque sorte à la compréhension des tactiques, des 
+39 
+découpages et des modes de découpage et de construction de l'objet du discours. Ce sont 
+les formations discursives. Celles-ci ne sont pas évidemment neutres ou objectives: 
+« [ elles] sont de véritables pratiques, et leurs langages [loin de sous-tendre] un universel 
+logos, sont des langages mortels, aptes à promouvoir et parfois à exprimer des mutations » 
+(Deleuze, 1986, p. 22). 
+Dans son archéologie du regard médical, Foucault identifie l'émergence d'un 
+nouveau discours. De fait, celui-ci ressort des mutations au niveau des modes de « voir et 
+savoir» de la maladie et du malade et des conditions dans lesquelles le savoir clinique était 
+rendu possible2o (Foucault , 1963). Autrement dit, deux éléments sont essentiels et chers aux 
+tenants de l'approche foucaldienne de l'analyse de discours : le savoir et l'institution. C'est 
+dans le contexte institutionnel que se produisent les discours du vrai, et c'est aussi par le 
+contexte institutionnel que ces discours sont légitimés. À cet effet, le travail archéologique 
+de Foucault s'est essentiellement porté à l'analyse des modes d'apparition et de constitution 
+de deux discours institutionnels du vrai, soit le discours psychiatrique de l'asile et le 
+discours médical de la clinique. 
+La clinique de même que l'asile sont donc pour Foucault des lieux exceptionnels pour 
+déchiffrer le discours qui crée et fonde ces institutions. Dans Naissance de la clinique, 
+Foucault documente la transformation historique de l'institution médicale, décelant dans 
+20 Foucault fait référence aux médecins Bichat et Broussais et à leurs travaux cliniques. 
+40 
+l'idée de réforme de l'hôpital une apparition qui, bien plus qu'institutionnelle , est limitée à 
+l'émergence de la seule clinique. En fait, Foucault voyait bien advenir dans cette réforme 
+l'émergence d'un nouveau discours, d'un nouveau savoir. En somme, de nouvelles 
+formations discursives apparaissent. Ainsi, 
+ce qui caractérise cette réforme, c'est que la rééquilibration de la médecine autour de 
+la clinique y est corrélative d'un enseignement théorique élargi. Au moment où on 
+définit une expérience pratique faite à partir du malade lui-même , on insiste sur la 
+nécessité de lier le savoir particulier à un système général de connaissances . (1963, 
+p.71) 
+Un peu de la même manière que l'asile, la clinique est certes un nouveau type 
+d'intervention sur les corps, mais aussi une nouvelle façon de le penser et de le normaliser. 
+Par ailleurs, par la naissance de l'État moderne et des États-nations, d'où émerge le bio-
+pouvoir, que nous explorerons plus en détail ultérieurement , « la médecine ne doit plus être 
+seulement le corpus des techniques de la guérison et du savoir qu'elles requièrent; [bien au 
+contraire] , elle enveloppe une connaissance de l'homme en santé, c'est-à-dire à la fois une 
+expérience de l 'homme non-malade, et une définition de l 'homme modèle» (Foucault , 
+1963, p. 35). Ce processus de normalisation et de gestion des corps n'est pas un phénomène 
+isolé. Les règles de formation discursive autour de la folie et de la sexualité sont là, entre 
+autres, pour en exprimer l'avènement. Malgré les ruptures et le caractère spécifique du 
+développement de ces formations discursives (épistémè) , une tendance s'observe dans la 
+normalisation et le dressage des corps pour lesquels Foucault développe le bio-pouvoir. 
+41 
+Dans la naissance de l'asile, Foucault identifie l'émergence d'un nouveau discours et 
+d'un nouveau savoir normalisateur . En effet, la création de la folie et du discours 
+psychiatrique assujettit le fou, mais contribue également à raffiner les frontières et les 
+critères de définition de la normativité . Sur cette question, Foucault propose que: 
+l'asile bâti par le scrupule de Pinel n'a servi à rien, et n'a pas protégé le monde 
+contemporain contre la grande remontée de la folie. Ou plutôt il a servi, et il a bien 
+servi. S'il a libéré le fou de l'inhumanité de ses chaînes, il a enchaîné au fou 
+l'homme de sa vérité. De ce jour, l'homme a accès à lui-même comme être vrai; 
+mais cet être vrai ne lui est donné que dans la forme de l'aliénation . (1972, p. 653) 
+Or ce discours sur la déviance et la marginalité a une double fonction: par sa positivité , il 
+décrit et définit le « sujet» en cause et, par sa négativité, il normativ e son contraire. Au 
+niveau des formations discursives , 
+l'unité des discours sur la folie ne serait pas fondée sur l'existence de l'objet 
+« folie », ou la constitution d'un horizon unique d'objectivité; ce serait le jeu des 
+règles qui rendent possible pendant une période donnée l'apparition d'objets: objets 
+qui sont découpés par des mesures de discrimination et de répression , objets qui se 
+différencient dans la pratique quotidienne , dans la jurisprudence dans la casuistique 
+religieuse, dans le diagnostic des médecins , objets qui se manifestent dans des 
+descriptions pathologiques, objets qui sont cernés par des codes ou recettes de 
+médication, de traitement, de soins. (Foucault , 1969, p. 46) 
+Par ailleurs, dans ce même mouvement archéologique , l'asile est aussI une institution 
+permettant de mettre en œuvre un savoir et un discours sur la marginalité et la déviance. Ce 
+mouvement isolé ou indépendant de l'émergence d'un bio-pouvoir qui, loin de chercher à 
+s'affirmer dans sa surpuissance, contrôle et protège les corps et les individus. Mais ces 
+formations non-discursives que sont la prison, l'asile et la clinique sont pour Foucault de la 
+généalogie. Comme le souligne à juste titre Deleuze, 
+42 
+l'archéologie proposait la distinction de deux sortes de formations pratiques, les unes 
+« discursives» ou d'énoncés, les autres «non-discursives» ou de milieux. 
+L'archéologie avait donc un rôle de charnière: elle posait la ferme distinction des 
+deux formes, mais, comme elle se proposait de définir la forme des énoncés, elle se 
+contentait d'indiquer l'autre forme négativement comme le « non-discursif». (1986, 
+p.39) 
+Ainsi, « la folie tient maintenant un langage anthropologique : visant à la fois, et dans une 
+équivoque d'où elle tient, pour le monde moderne, ses pouvoirs d'inquiétude, la vérité de 
+l'homme et la perte de cette vérité, et par conséquent , la vérité de cette vérité» (Foucault, 
+1972, p. 637). 
+2.3 Le tournant généalogique 
+Le tournant généalogique s'effectue avec l'ouvrage Surveiller et punir (Foucault, 
+1975). Pour autant, l'avènement du tournant généalogique dans l'œuvre de Foucault 
+n'annonce pas la fin, voire l'abandon de l'approche archéologique. C'est en concomitance 
+avec la généalogie que l'archéologie prend aussi tout son sens. Autrement dit, les approches 
+archéologiques et généalogiques sont dans un rapport de complémentarité dans la pratique 
+foucaldienne de l'analyse du discours. En quoi consiste ce tournant généalogique et quelles 
+en sont ses principales caractéristiques? 
+Le pouvoir et l'explicitation de son fonctionnement occupent une place de choix au 
+terme de l'analyse généalogique. L'idée ici n'est plus seulement de voir l'émergence des 
+pratiques (voir/savoir) qui habilitent la production d'un discours du vrai, mais de voir les 
+43 
+jeux de pouvoir à l'intérieur de l'épistémè à partir duquel s'impose un discours vrai sur la 
+chose. Car le tournant généalogique en est un de la généalogie du pouvoir. La généalogie 
+montre l'importance du pouvoir/savoir, c'est-à-dire de toute l'importance du pouvoir et des 
+luttes de pouvoir dans la constitution des sujets: 
+the genealogist does not seek to discover substantial entItIes (subjects, virtues, 
+forces) or to reveal their relationships with other su ch entities. Rather he studies the 
+emergence of a battle which defines and c1ears a space. Subjects do not pre-exist and 
+later enter into combat or harmony. In genealogy subjects emerge on a field ofbattle 
+and play their role, there and there alone. The world is not a play which simply mask 
+a truer reality that exists behind the scenes. It is as it appears. (Dreyfus et Rabinow, 
+1982, p. 109) 
+Prenant assise sur une analytique du pouvoir (pouvoir/savoir), l'analyse généalogique 
+s'intéresse donc aux techniques du pouvoir. Chez Foucault, le pouvoir n'est pas un attribut. 
+Il se différencie de la domination. L'analytique du pouvoir de la généalogie foucaldienne 
+prend pour point d'appui les luttes de pouvoir concrètes , et cela, afin d'identifier et de 
+révéler les tactiques et stratégies constituant les effets de vérité. Une compréhension de la 
+notion de pouvoir chez Foucault est importante dans la mesure où c'est sur celle-ci que se 
+construisent sa généalogie et plus largement l'originalité de sa pensée philosophique. Nous 
+pouvons dire que ce pouvoir en est un diffus, sans véritable détenteur. Ainsi, nous sommes 
+tous détenteurs et sujets du pouvoir. On est alors sujet/objet du pouvoir. Tout dépendant des 
+situations, nous nous assujettissons au pouvoir ou nous sommes assujettis par le pouvoir. 
+C'est en ce sens que l'on ne peut distinguer le pouvoir de la notion de résistance. Cette 
+redéfinition du pouvoir est importante dans la mesure où elle entre en ligne de compte dans 
+l'instauration de jeux de vérité. Ces jeux de vérité sont en fait le couple savoir/pouvoir ou 
+44 
+bien celui de pouvoir/savoir. Le savoir/pouvoir n'est pas une relation de détermination, 
+c'est en fait pour Foucault la seule et même chose. Nous ne pouvons pas dire alors que le 
+savoir détermine ou définit le pouvoir, pas plus que le contraire, c'est de cette manière que 
+la généalogie du pouvoir prend tout son sens. 
+Quand nous pensons aux discours du vrai, nous devons voir l'effet des jeux de 
+pouvoir qui les instituent. Les savoirs, mais surtout leurs tenants, sont dans une lutte 
+perpétuelle pour leur reconnaissance comme discours du vrai, pour leur instauration en 
+régime de la vérité. Les discours institutionnels universitaires, les discours philosophiques, 
+les discours de cuisine, nul n'y échappe. Dans cette lutte à la reconnaissance de la vérité, 
+les discours disqualifient, encensent, usent de stratégies par des jeux d'alliances pour le 
+savoir, la science. C'est en ce sens que le projet généalogique 
+[ ... ] s'agit en fait, de faire jouer des savoirs locaux, discontinus, disqualifiés, non 
+légitimés, contre l'instance théorique unitaire qui prétendrait les filtrer, les 
+hiérarchiser, les ordonner au nom d'une connaissance vraie, au nom des droits d'une 
+science qui serait détenue par quelques-uns. (Foucault, 1997, p. 10) 
+L'histoire de la pensée alors considérée comme un évolutionnisme, une histoire de 
+successions qui est en fait une histoire de ruptures et de discontinuités qu'il faut recouvrer 
+et identifier. Car comme Foucault le suggère, il n'est pas possible de discourir de ce que 
+l'on veut quand on veut. Sont donc exclus de cette histoire les discours qu'il utilise. Ces 
+discours « secondaires» sont exclus de l 'histoire de la pensée, ces ruptures, ces savoirs 
+assujettis. Pour mieux comprendre, nous devons expliciter ces savoirs assujettis. 
+45 
+2.3.1 Les ruptures 
+Le livre Les mots et les choses annonçait déjà le rôle essentiel des ruptures et des 
+discontinuités dans la trame de la pensée classique. C'est en fait le point central des 
+recherches entreprises par Foucault. Comment d'une pensée classique, le système de 
+l 'histoire des idées en est venu à se métamorphoser? Car « dans une culture et à un moment 
+donné, il n'y a jamais, écrit Foucault, qu'une épistémè, qui définit les conditions de 
+possibilité de tout savoir» (Foucault, 1966, p. 179). Toutefois , certains autres savoirs, 
+différents des savoirs dominants, réussissent à s'imposer. La méthode généalogique s'est 
+opérationnalisée et se rapproche considérablement des travaux de Michel CaHon (1986) et 
+Bruno Latour (200 1, 2005). En effet, selon Clegg (1989), ces chercheurs en sociologie de la 
+traduction et de l'acteur réseau ont développé une théorie qui s'apparenterait beaucoup à 
+celle de Foucault; elle constituerait en quelque sorte une synthèse des approches post-
+marxistes, approche privilégiant une analytique liant pouvoir/savoir et identité dans la 
+construction et dans l'analyse des stratégies d'acteurs. Toutefois en ce qui nous concerne, il 
+s'agit là d'un traitement plus systématique des discours de la science, qui peuvent nous 
+donner une bonne idée du style de recherche d'inspiration foucaldienne. Ainsi, certaines 
+conditions de luttes sociales permettent à certains savoirs de s'imposer et d'assujettir bon 
+nombre de discours concurrents. Alors, 
+[s]'est dessiné ce qu'on pourrait appeler une généalogie, où se sont ainsi dessinées 
+plutôt des recherches généalogiques multiples, à la fois redécouvertes exactes des 
+luttes et mémoires brutes des combats; et ces généalogies, comme couplage de ce 
+savoir érudit et de ce savoir des gens, n'ont été possibles, et on n'a même pu les 
+tenter, qu'à une condition: que soit levée la tyrannie des discours englobants, avec 
+46 
+leur hiérarchie et avec tous les privilèges des avant-gardes théoriques. (Foucault , 
+1997, p. 9) 
+Les généalogies permettent donc de recouvrer l'histoire de ces luttes et de ces ruptures dans 
+les régimes de vérité. Ces ruptures, ces résistances aux discours totalisants, sont à la fois 
+contestation de ces régimes de vérité, mais aussi des luttes pour leurs accessions au titre de 
+régimes de vérité. Et on le sait, ce sont les régimes de vérité qui permettent et ordonnent la 
+hiérarchie des savoirs. 
+2.3.2 Les hiérarchies des savoirs/pouvoir 
+La généalogie est aussi l'histoire des luttes pour une place de choix dans la hiérarchie 
+des savoirs. Cette hiérarchie , résultat des différentes luttes sociales et discursives , fait partie 
+intégrante de l'épistémè. Nous ne pouvons différencier les hiérarchies et les ruptures de la 
+généalogie du pouvoir, car elles sont en fait sa composante dont nous essayons de recouvrer 
+les effets de pouvoir dans la pensée de l'air du temps. Ainsi, 
+la généalogie , ce serait donc, par rapport au projet d'une inscription des savoirs dans 
+la hiérarchie du pouvoir propre à la science, une sorte d'entreprise pour désassujettir 
+les savoirs historiques et les rendre libres, c'est-à-dire capable d'opposition et de 
+lutte contre la coercition d'un discours théorique unitaire, formel et scientifique. 
+(Foucault , 1997, p. Il) 
+La place dans la hiérarchie des savoirs permet ainsi de mieux analyser l'instauration des 
+nouveaux régimes de vérité. La généalogie analyse donc la hiérarchie des savoirs pour en 
+faire émerger les discours enfouis, disqualifiés . L'œuvre de Foucault est à cet égard un 
+foisonnement de ces discours dit secondaires. 
+47 
+Dans l'histoire de la sexualité , Foucault illustre bien le cas du savoir psychanalytique 
+qUI rend particulièrement saillant l'organisation hiérarchique des différents discours et 
+savoirs suivant leurs configurations historiques . Le savoir sur le sexe, la scientia sexualis, 
+est en effet un savoir basé sur une morale dont la construction se fonde sur les perversions , 
+les anormalités, les bizarreries (Foucault, 1976). Dans son histoire de la sexualité , Foucault 
+dénaturalise les pratiques sexuelles en entreprenant une analyse dans l'espace et dans le 
+temps, suivant le caractère non universel et hautement diversifié des savoirs et pratiques 
+sexuelles . Ce retour historique sur les mœurs sexuelles, leurs transmissions et leurs 
+légitimations , offre un regard critique sur la diversité sexuelle. Foucault oppose donc deux 
+régimes de constitution de la vérité sur le sexe, d'une part, l'ars erotica oriental et, d'autre 
+part, la scientia sexualis occidental. L'entreprise foucaldienne sera séminale pour les 
+théoriciens queer qui en feront une lecture résolument plus engagée. De plus, c'est la 
+preuve du génie de Foucault, cette approche généalogique (savoir/pouvoir) n'est pas limitée 
+au seul corpus de la sexualité. Par ailleurs, nous pouvons faire ce même travail à partir de la 
+Naissance de la clinique, ouvrage attestant des luttes de pouvoir entre différentes castes 
+professionnelles du secteur médical. Autrement dit, le travail généalogique , avec toutes les 
+nuances qu'il s'impose, peut s'avérer comme une tâche quasi-critique , s'approchant de 
+l'approche symétrique proposée par Latour (1988) : « [ ... ] rétablir une totale symétrie de 
+traitement entre les vaincus de l 'histoire des sciences et les vainqueurs , ces fameux 
+rectificateurs et révolutionnaires brandissant toujours la guillotine de la coupure 
+épistémologique» (Latour, 1988, p. 20). 
+48 
+2.4 Du discours éthique et politique à ses incarnations sociales 
+Vers la fin de sa vie, Foucault entreprit un parcours vers une analyse des discours 
+éthiques. En effet, deux volumes de l'histoire de la sexualité ouvrent sur la perspective 
+d'une éthique de soi, à savoir: L'usage des plaisirs et Le souci de soi. Il en est de même de 
+son Herméneutique du sujet qui traite des discours enfouis dans les sagesses grecques. 
+L'ouvrage s'articule autour d'une analyse généalogique qui montre bien les contours d'une 
+analyse de discours éthique chez Foucault. 
+Le parcours d'une analytique de l'éthique chez Foucault aura conduit ce dernier à une 
+exploration de la notion de souci de soi, le cura sui romain, ou l'epimeleïa heautou grec. 
+Foucault aborde ces notions avec l'œil de l'archéologue et du généalogiste . Cette éthique de 
+soi est dans les pensées grecque et romaine un point important de la réflexion 
+philosophique. Toutefois, il ne faudrait pas pour autant attribuer un sens trop philosophique 
+à la notion de souci de soi. En effet, bien que le souci de soi était une pratique assez 
+répandue, qui jouissait d'une forte estime à l'intérieur des sociétés antiques, il ne faut pas y 
+voir là une pratique strictement individuelle et individualiste, car qu'on ne puisse pas 
+s'occuper de soi sans l'aide d'un autre est un principe très généralement admis (Foucault, 
+1984). Cependant, « pour comprendre l'éthique comme rapport à soi, il faut du coup 
+remonter à ce qui a conduit l 'homme occidental à se reconnaître comme sujet de désir» 
+(Marietti, 1985, p. 248). Ce qui atteste de toute l'importance que Foucault aura apportée à 
+la sexualité dans son investigation des champs de l'éthique. 
+49 
+L'analytique du discours éthique recouvre pour Foucault deux aspects essentiels sur 
+lesquels se profile l'homme problématisé comme lieu de désir. Foucault écrit d'ailleurs 
+qu'une telle: « [ ... ] analyse de 1 'homme de désir se trouve au point de croisement d'une 
+archéologie des problématisations et d'une généalogie des pratiques de soi» (1984, p. 21). 
+Autrement dit, l'analyse de 1 'homme de désir est une compréhension de sa propre 
+problématisation éthique. Chez les Grecs, l'éthique sexuelle, dont la nôtre découle en 
+grande partie, « [ ... ] a été problématisée dans la pensée comme rapport pour un homme 
+libre entre l'exercice de sa liberté, les formes de son pouvoir et son accès à la vérité» 
+(Foucault, 1984, p. 326). Il en va de même pour le moment généalogique complémentaire 
+de ce premier mouvement archéologique. 
+Dans une perspective foucaldienne, la théorie queer constitue en elle-même un 
+discours fondé sur une pratique discursive de nature critique. Ainsi fondé sur plusieurs 
+pratiques de recherche et d'observation des pratiques sexuelles, le discours de la théorie 
+queer vise un affranchissement des répressions de l'expérience de la sexualité dans ses 
+liaisons avec l'identité. Au sens d'une approche archéologique, il n'y a pas de savoir sans 
+pratique discursive (Foucault, 1969 p. 238). On peut parler d'une « académie queer » dans la 
+mesure où le discours queer en lui-même prend ses assises dans la production de 
+recherches savantes fondées partiellement sur des observations de l'action collective , 
+appropriées pour la recherche universitaire . Or, on peut parler d'une « disciplinarisation » 
+académique de la critique sociale des genres. 
+50 
+Aux yeux des pratiques discursives et de la construction d'une théorie et d'un 
+discours queer, la queer theory apparaît alors comme étant peu originale et fondée, comme 
+beaucoup de ses concurrentes , sur des pratiques discursives propres à la recherche 
+universitaire et à la vie savante. La recherche en cours veut donc donner plus de profondeur 
+à ce constat trop souvent reproduit, elle suggère de raffiner l'approche de la queer theory 
+par le biais de la perspective généalogique, perspective complémentaire à celle de 
+l'archéologie. Ce que le regard généalogique recherche, ce sont les luttes discursives, les 
+transformations dans les discours qui proposent un changement dans le régime de la vérité 
+(Foucault, 1997). Ainsi, quels sont les discours que la théorie queer cherche à assujettir ou 
+à privilégier? Quelles sont les stratégies et les tactiques mises en œuvre par les principaux 
+tenants du discours queer afin de contester l'éthique traditionnelle et de légitimer un nouvel 
+ordre des choses? Comment le discours queer problématise les genres, quels mondes 
+mobilisent-ils? Quels sont les points de passage obligés et les trahisons que les auteurs de la 
+queer theory mettent en œuvre pour légitimer leur entreprise et devenir les représentants 
+légitimes de la libération des genres (Callon, 1986; Latour, 2005). 
+Notre démarche de recherche nous conduit donc à questionner le discours éthique 
+queer tel qu'il se présente. Si les tenants d'une éthique queer appellent parfois à la filiation 
+de leurs discours avec l'approche foucaldienne, il demeure néanmoins que les prémisses de 
+leurs discours s'appuient sur une thèse réfutée par Foucault. En fait, tout le projet de 
+l'histoire de la sexualité est plutôt construit comme une remise en question de l'hypothèse 
+51 
+répressive, pièce centrale et récit fondateur de plusieurs discours de libération sexuelle. À 
+cet effet, Foucault est très explicite: « la question que je voudrais poser n'est pas: 
+pourquoi sommes-nous réprimés, mais pourquoi disons-nous, avec tant de passion, tant de 
+rancœur contre notre passé le plus proche, contre notre présent et contre nous-mêmes, que 
+nous sommes réprimés?» (1976, p. 16) En fait, Foucault conteste même l'hypothèse 
+répressive, selon laquelle certaines pratiques seraient réprimées, non pas parce qu'il n'y 
+aurait aucune violence, voire aucune discrimination à l'égard de certaines pratiques, mais 
+parce que cette hypothèse présuppose un discours de la libération, discours qui inhibe toute 
+transformation réelle de discours et de régime de la vérité sur la sexualité. Autrement dit, 
+pour Foucault, parler de répression des discours de libération ne fait que renforcer les 
+énoncés d'oppression. Ainsi, et à la manière de Foucault, sommes-nous amenés à nous 
+questionner sur la nature et la composition de ces discours de libération qui s'appuient sur 
+une économie et sur ce que Foucault qualifie d'« intérêts» discursifs (Foucault, 1976, p. 16). 
+CHAPITRE III 
+LES FONDEMENTS PHILO-POLITIQUES D'UN MOUVEMENT 
+SOCIAL ATYPIQUE: AUTOUR DE JUDITH BUTLER 
+Professeure de rhétorique et de littérature comparée à l'Université Berkley, Judith 
+Butler est docteure de Yale en philosophie. La philosophe , dont la thèse s'intitule Reeovery 
+and Invention : the Projeet of Desire in Hegel, Kojève, Hyppolite , and Sartre, s'intéresse 
+très tôt à la question du désir. De plus, en début de carrière, elle s'intéresse aux questions 
+de genre, aux études GLBT et à la philosophie d'Althusser , de Foucault et d'auteures 
+féministes. Avec une feuille de route impressionnante de près d'une centaine de 
+publications, l'auteure est pour le moins reconnue comme étant très prolifique . 
+Parmi ses productions intellectuelles les plus remarquées, on retrouve notamment: 
+Trouble dans le genre: pour un féminisme de la subversion (2005), version française de 
+Gender Trouble: Feminism and the polities of subversion (1990); Bodies that matter. On 
+the discursive limits of "sex" (1993); Giving an aeeount of oneself (2005). On reconnaît 
+généralement Trouble dans le genre comme étant le premier ouvrage à lui avoir conféré 
+une certaine célébrité et crédibilité dans le champ des études du genre. Par ailleurs, on peut 
+penser que cette triade constitue le ferment du manifeste politique de la queer the ory dont 
+Butler est l'une des fondatrices les plus connues. 
+53 
+Dans Trouble dans le genre, Butler développe la notion de performance où elle 
+s'affaire à exposer les signes et symboles qui servent à la contestation des rôles sociaux 
+structurant l'univers hétéronormatif. L'ouvrage subséquent, Bodies that matter, prolonge la 
+réflexion, cette fois-ci en stabilisant le discours et la pensée politique de Butler dans la 
+perspective des philosophies du langage; ce livre annonce le tournant linguistique dans la 
+pensée de Butler. Cet ouvrage constitue un point tournant majeur pour la pensée queer, 
+puisqu'en prenant la direction d'une étude politique du langage, Butler entre dans un 
+sentier peu exploré des théoriciens queer21. 
+Enfin, plus récemment , l'ouvrage Giving an account of oneself veut faire taire les 
+détracteurs du postmodernisme /poststructuralisme en évacuant la propension à juger ces 
+approches comme nihilistes , voire insouciantes de toute réflexion sur la responsabilité . En 
+ce sens, ce troisième livre conduit la réflexion libérationniste queer vers un travail de 
+« reconstruction », en proposant une réponse éthique et politique à la question : dans 
+quelles conditions le lien social pourrait-il se constituer comme inclusif sans pour autant 
+être universaliste? Dans le présent mémoire, nous nous pencherons plus particulièrement 
+sur les deux ouvrages reliés aux deux concepts majeurs de la pensée de Judith Butler à 
+savoir la performativité (Bodies that malters. On the discursive limits of "sex' ') et la 
+performance (Gender Trouble: Feminism and the politics of subversion). C'est à partir de 
+ces concepts que nous aborderons l'apport éthique et politique de la théorie queer. 
+21 Si ce sentier était jusqu'alors peu exploré des théoriciens queer, il demeure que les études féministes 
+avaient investi cet aspect dans la construction de leurs discours politiques . Voir notamment, Michèle 
+Causse (2000) qui développe un langage propre à subvertir l'organisation patriarcale . 
+54 
+3.1. Un retour sur la problématique 
+Que l'on pense à la théologie de la libération , aux discours socialistes tiers-mondistes 
+ou encore aux études postcoloniales , le plus souvent, ces discours politiques sont critiqués 
+par leurs détracteurs qui les trouvent abusifs. Relativement, ces discours n'en demeurent 
+pas moins défendus par leurs tenants qui justifient ces discours à la lumière du contexte 
+social oppresseur. Malheureusement , il semble que l'on accorde trop peu d'attention aux 
+dimensions qui n'en demeurent pas moins cruciales : la structure du discours, les jeux 
+d'alliances , les acteurs et la hiérarchie des savoirs, c'est-à-dire les éléments qui constituent 
+le fondement du projet politique de ces discours. Il est important de prendre un recul pour 
+comprendre comment tous les éléments mentionnés en amont prennent tout leur sens en 
+aval, là où convergent ces différentes composantes. 
+Le discours émancipateur queer contient les germes d'un projet politique de plein 
+droit. Or, jusqu'ici, on a accordé que trop peu d'importance à la portée proprement 
+politique de ce projet qui contient en lui les doubles contraintes du discours politique 
+émancipateur, à savoir: comment peut-on produire un discours politique qui soit apte à 
+mobiliser l'action collective, la résistance et le changement d'un groupe qui est opprimé; 
+peut-on s'assurer que ce discours et cette action collective ne soient pas à leur tour 
+dominateurs , répressifs pour un autre groupe? Autrement dit, comment penser le 
+changement politique de sorte qu'un groupe opprimé devienne maître de son destin, sans 
+55 
+que celui-ci devienne à son tour le maître d'un nouveau régime de répression et 
+d'exclusion? 
+Créer un discours mobilisateur qui soit une force d'unité pour l'action collective 
+n'est pas une mmce tâche. Que l'on pense au droit au manage gai, à l'adoption, à 
+l'éducation publique, à la diversité sexuelle ou encore aux clauses non discriminatoires à 
+l'embauche, on ne peut que constater que l'action collective et la résistance gaie, lesbienne 
+et transgenre sont considérablement fracturées. Le discours politique queer est 
+libérationniste et cherche à relever le difficile pari de l'unité pour la mobilisation et le 
+changement, et cela, en limitant l'oppression, en ménageant les nuances des différentes 
+factions. En scrutant le discours d'une des fondatrices de la queer theory, nous souhaitons 
+ici mettre en évidence la dimension politique qui n'a pas été réalisée jusqu'ici. Au plan 
+analytique, nous souhaitons aborder la trame et les différentes composantes de ce discours 
+politique émancipateur. 
+Pour bien comprendre le discours politique, nous allons mettre en relief les quatre 
+grandes composantes qui s'entrecroisent dans les ouvrages de Butler. Premièrement, nous 
+allons aborder la notion de performativité telle que Butler la développe et l'utilise dans son 
+tournant linguistique . Alors que la performance renvoie au living theatre (Goffman, 1959), 
+la performativité est une notion directement liée au langage et au pouvoir dans les 
+constructions sociales. Par la suite, nous nous pencherons sur la dialectique sexe-genre. Ce 
+56 
+deuxième aspect est absolument important dans la mesure où cette opposition constitue le 
+nœud et la binarité qui est au cœur du problème queer de l'hétérononnativité selon Butler 
+(2005 [1990]). Après avoir été au cœur de la structuration du problème, nous aborderons le 
+troisième aspect à savoir la perfonnance du genre. La drag sera ici analysée comme la 
+quintessence de l'action politique queer chez Butler. Interprète parodique et artistique de la 
+culture populaire gaie, la drag constitue le repère conceptuel et opératoire pour le discours 
+de résistance politique développé par Butler. Enfin, nous explorerons comme dernier aspect 
+l'ontologie politique de Butler où il nous sera possible de replacer les éléments et notre 
+analyse dans une synthèse qui rend justice à la dimension politique du discours. 
+3.2 La performativité : des signes au sens 
+Après son ouvrage Gender Trouble: Feminism and the politics of subversion, Butler 
+(1990) amorce un tournant linguistique. Ce passage à une linguistique radicale, trouve son 
+paroxysme dans l'ouvrage Bodies tha! matter. On the discursive limits of "sex". C'est 
+donc dans le cadre de ce prolongement linguistique de sa théorie critique que Butler 
+s'attaque aux régimes discursifs hétérosexuels qui construisent la réalité sociale. La 
+perfonnativité renvoie à une fonne d'énonciation dans laquelle s'accomplit une action dans 
+l'acte même de l'énonciation. Butler explore les dimensions multiples de la création de la 
+réalité sociale par le langage. Ainsi, le langage se donne comme ressource, comme boîte à 
+outils, mais aussi comme contrainte dans la création du sens, dans la construction de la 
+réalité sociale et des rôles sociaux. Le langage est l'espace de médiation de la socialité. 
+57 
+Dans une certaine mesure, on peut dire que le langage habilite la construction des rôles 
+sociaux, mais aussi, qu'il donne vie à des actes sociaux. Pour Butler, une approche critique 
+et queer du langage s'impose et c'est par le truchement de la notion de performativité que 
+Butler amorce ce prolongement de la théorie queer. Dans son ouvrage Bodies that matter, 
+Butler décortique et explicite son interprétation de la notion de performativité. 
+As a result of this reformulation of performativity, Ca) gender performativity cannot 
+be theorized apart from the forcible and reiterative practice of regulatory sexual 
+regimes; (b) the account of agency conditioned by those very regimes of 
+discourse/power cannot be conflated with voluntarism or individualism, much less 
+with consumerism, and in no way presupposes a choosing subject; (c) the regime of 
+heterosexuality operate to circumscribe and contour the "materiality" of sex, and that 
+"materiality" is formed and sustained through and as a materialization of regulatory 
+norms that are in part those of heterosexual hegemony ; Cd) the materialization of 
+norms requires those identificatory processes by which norms are assumed or 
+appropriated, and these identifications precede and enable the formation of a subject, 
+but are not, strictly speaking, performed by a subject; and (e) the limits of 
+constructivism are exposed at those boundaries of bodily life where abjected or 
+delegitimated bodies fails to count as "bodies". If the materiality of sex is 
+demarcated in discourse, then this demarcation will produce a domain of exc1uded 
+and delegitimated "sex". Hence, it will be as important to think about how and to 
+what end bodies are constructed as is it will be to think about how and to what end 
+bodies are not constructed and, further, to ask after how bodies which fail to 
+materialize provide the necessary "outside," if not the necessary support, for the 
+bodies which, in materializing the norm, qualify as bodies that matter. (1993, p. 15-16) 
+Il nous apparaît essentiel ici de revenir sur les composantes de cette définition. La 
+première proposition réitère une idée bien foucaldienne : (a) « La performativité du genre 
+ne peut être théorisée indépendamment des forces et des pratiques réitératives engendrées 
+par le régime de régulation sexuelle. »22 Tout comme Foucault , Butler (1993) estime 
+essentiel que la résistance ne se développe pas a contrario des pratiques et techniques du 
+22 Notre traduction. 
+58 
+pouvoir. En effet, il s'agit bien ici de poser que la résistance queer ne peut que mettre en 
+œuvre des pratiques similaires à celles qui sont à l'œuvre pour la constitution de l'ordre 
+hétéronormatif. La seconde proposition est intéressante en ce qu'elle positionne la 
+reconfiguration de la performativité proposée par Butler (1993) dans une approche nuancée 
+du post-structuralisme: (b) « L'agent conditionné par ces régimes de discours/pouvoir ne 
+peut être réduit au volontarisme ou à l'individualisme et encore moins au consumérisme, 
+dans toutes circonstances il ne présuppose une existence d'un sujet omnipotent. »23 En 
+vérité, cette proposition situe Butler dans une perspective co-déterministe . L'acteur et les 
+conditions du changement politique et social sont donc pris dans un réseau de discours et de 
+pouvoir qui les dépassent et dans lequel il doit négocier. Pour sa part, le point de définition 
+énoncé en (c) est plutôt exposé sous forme de postulat. Pour Butler, le régime 
+savoir/pouvoir de l'hétérosexualité est construit sur la matérialité du sexe. Or, ce postulat 
+annonce la proposition (d) selon laquelle cette matérialité du sexe sert de base au discours 
+d'identification du genre. On retrouve ici le nœud central du problème, c'est-à-dire le 
+rapport sexe-genre . Pour combattre l'hétérosexisme , il faut donc s'attaquer aux dispositifs 
+et technologies qui permettent de parler du sexe afin de construire la norme du genre. La 
+dissociation sexe-genre est en ce sens loin d'être triviale pour la résistance queer. Enfin, la 
+dernière proposition énoncée au point (e) fournit un indice du champ dans lequel s'engage 
+la stratégie politique proposée par Butler (1993) : « [d]ès maintenant, il sera aussi important 
+de penser comment et de quelle manière les corps sont construits qu'il sera important de 
+penser comment et à quelle fin les corps ne sont pas construits, et plus précisément 
+23 Notre traduction . 
+59 
+demander pourquoi les corps qui font échec à la matérialisation voulue agissent en tant 
+qu'extérieur pour la norme du sexe. »24 Pour Butler, il existe un espace qui ne répond pas 
+aux dispositifs linguistiques et aux dispositifs de savoir/pouvoir développés dans les 
+discours sur le sexe-genre. À titre d'exemple , les cas d'hermaphrodisme constituent une des 
+multiples failles apparentes et une des nombreuses déficiences de ces dispositifs de 
+normalisation , fournissant cet extérieur sur lequel la lutte pourrait potentiellement 
+s'appuyer et s'amorcer. 
+La notion de performativité utilisée par Butler tire ses racines en philosophie et fut 
+développée par John Langshaw Austin (1970). Le philosophe analytique anglais à qui l'on 
+doit Quand dire c'est faire, fut l'initiateur du développement de la speech act the ory, dont 
+Butler s'inspire pour développer sa théorie autour de la performativité du genre. Ainsi, pour 
+Austin (1970), il existe des actes de langage performatifs au même titre qu'il existe des 
+impératifs. Ces actes de langage comme parier ou les paroles prononcées par un prêtre lors 
+d'un mariage sont en fait des actes de langage performatifs. Ils inscrivent comme une 
+nouvelle réalité ce qui a été dit. Alors, le pari est « fait» et l'on perd ou gagne à la suite de 
+ces mots, il en est de même pour le mariage, les fiancés deviennent alors mariés. C'est en 
+ce sens que Butler veut promouvoir l'usage de la notion de performativité du genre. 
+24 Notre traduction. 
+60 
+Comme nous l'avons noté, Butler propose la fluidité des identités en ce sens que la 
+catégorisation « femme» confine cette identité féminine à une certaine définition qui 
+délimite la notion, et ainsi devient contraignante à la multiplication et fluidité des identités. 
+S'inspirant de Derrida (1973), elle en vient à questionner les modes de production du sujet. 
+En effet, « le pouvoir juridique « produit» incontestablement ce qu'il prétend simplement 
+représenter; c'est pourquoi la politique doit s'occuper de cette double fonction du pouvoir: 
+juridique et productive» (Butler, 2005 [1990], p. 61). Ainsi, cette unité universelle des 
+femmes est remise en question par l'aspect culturellement construit du genre en relation 
+avec l'aspect généralement reconnu comme naturel du sexe. Alors, par une généalogie, « si 
+l'on mettait en cause le caractère immuable du sexe, on verrait peut-être que ce que l'on 
+appelle « sexe» est une construction culturelle au même titre que le genre; en réalité peut-
+être le sexe est-il toujours déjà du genre et, par conséquent, il n'y aurait plus vraiment de 
+distinction entre les deux» (Butler, 2005 [1990], p. 69). La dénaturalisation de ces deux 
+termes conduit l'auteure vers la notion de performativité. Le sexe de même que le genre 
+sont des réalités qui tirent leur contenu matériel des constructions discursives qui les 
+engendrent. Ces constructions discursives sont constitutives, bien que leurs conséquences à 
+long terme demeurent toujours incertaines. 
+[ ... ] since speaking is always in sorne ways the speaking of a stranger through and 
+as oneself, the melancholic reiteration of a language that one never chose, that one 
+does not find as an instrument to be used, but that one is, as it were, used by, 
+expropriated in, as the unstable and continuing condition of the "one" and the "we", 
+the ambivalent condition of the power that binds. (Butler, 1993, p. 242) 
+61 
+Le passage plus haut est très évocateur de l'importance et de la complexité de la résistance 
+par le langage. Bien qu'étant un outil critique et un instrument de lutte sociale, le langage 
+est déjà investi par le pouvoir, et il est aliénant. Le langage est un moyen d'échange social 
+avec lequel il importe de prendre des précautions pour ne pas réitérer la domination , la 
+reproduire par défaut d'une trop grande naïveté politique. 
+3.3 Pour une vraie dialectique sexe-genre 
+Depuis le développement de la pensée féministe, plus particulièrement à partir des 
+analyses de Simone de Beauvoir sur lesquelles nous reviendrons ultérieurem ent, plusieurs 
+auteures féministes ont tenté de démontrer la construction culturelle du genre sans toutefois 
+dénier au sexe son statut biologique naturel. Ainsi, cette dichotomie sexe-genre s'est 
+institutionnalisée comme étant une notion distincte, à savoir le sexe étant une réalité 
+biologique. Le genre sert ici à montrer le pouvoir de la construction performative . La 
+notion est donc comprise ici comme naturelle (sexe) et construite (genre). Il nous est dès 
+lors possible de dégager quelques réflexions éthiques de ce constat. Alors, en excluant les 
+cas d'hermaphrodisme, le sexe est pour le corps une réalité constante , naturelle et 
+naturalisée. Le sexe constitue donc ici la matière de formation du genre, le point d'appui 
+sur lequel le genre peut se construire. En ce sens, il est impossible de dépasser le sexe avec 
+la notion de genre car ces catégorisations se recoupent , c'est-à-dire qu'il n'est point 
+possible dans l'optique actuelle d'avoir les attributs socialement définis comme 
+mâle/femme , à savoir un pénis/vagin, et de s'identifier du genre opposé féminin/masculin. 
+62 
+L'enjeu plus précisément philosophique du positionnement de Butler réside dans la 
+question: la relation sexe-genre permet-elle une diversification et une multiplication des 
+identités sexuelles? Quels rôles joue le sexe dans la construction hétéronormative, cette 
+hétérosexualité obligatoire? Ce second enjeu est aussi important que le premier, car il est à 
+la base des catégories binaires à savoir homme/femme, hétéro/homo, sain/malade dont nous 
+avons discuté avec Foucault. 
+3.3.1 L'héritage de Simone de Beauvoir 
+Simone de Beauvoir a facilité une prise de conscience collective sur les thèmes et les 
+enjeux du sexe et du genre. La célèbre phrase « on ne naît pas femme: on le devient» en 
+est certes une qui a favorisé la conscientisation et la consolidation de cette notion qu'est le 
+genre. Ainsi, pour de Beauvoir, le sexe n'est pas porteur de valeurs spéciales ou de 
+caractères donnés. La féminité et tout ce qui y est associé sont ce que l'on pourrait dire des 
+constructions qui n'ont pas trait au sexe biologique. Ainsi, l'infériorité de la femme n'est 
+pas une donnée naturelle venant d'un corps enfantant ou de contraintes de l'éducation et du 
+soin des enfants, mais bien le résultat du patriarcat , soit un système social où les hommes 
+ont exclu et construit un monde meublé de leurs représentations. Il est aussi intéressant de 
+voir dans le Deuxième sexe l'analyse que de Beauvoir fait de l'homosexualité. Pour elle, au 
+même titre que les caractères donnés par la biologie, l 'homosexualité est totalement 
+indépendante de toute biologie et est une situation choisie, une construction. 
+63 
+C'est au nIveau de cette construction que nous pouvons voir les liens entre la 
+situation dans laquelle Beauvoir décrit des femmes et la position que Butler développe au 
+sujet de la théorie queer. À l'instar de Simone de Beauvoir , avec Butler nous pourrions dire 
+que l'on ne naît pas avec un sexe, un genre ou une préférence sexuelle, mais que nous les 
+construisons en fonction de plusieurs situations , et plus précisément par les registres 
+discursifs à notre portée et leurs influences dans notre construction identitaire. Toutefois , 
+Butler se distancie des notions de genre, en ce sens qu'elle fait de ce concept un synonyme 
+du sexe, ce que nous verrons dans les lignes qui suivent. 
+3.3.2 La dialectique sexe-genre chez Butler 
+Il existe une relation évidente entre le sexe et le genre qui, malgré les apports de 
+Simone de Beauvoir , mène à une réalité sociale qui conserve la collusion entre le sexe 
+femelle et le genre féminin et entre le sexe mâle et le genre masculin . Cette dialectique 
+sexe-genre trouve chez Butler son apogée, mais aussi une reconstruction originale qui, en 
+passant dans la matrice du constructivisme linguistique, en vient à une synthèse pour le 
+moins surprenante au terme des idées reçues. Ainsi, dans son ouvrage Bodies that matter. 
+On the discursive limits of "sex ", Butler (1993) amorce un prolongement de sa pensée 
+critique. Avec cet ouvrage, à la performance des signes, symboles et rituels du genre, 
+s'ajoute la dimension discursive et linguistique du genre: la performativité. Comme nous le 
+verrons plus tard, la performativité comme approche théorique du genre ira jusqu'à mettre 
+64 
+au défi le sexe entendu jusqu'ici comme allant naturellement de sm, via les attributs 
+biologiques de la naissance. 
+Pour Butler, il n'existe pas une seule réalité de femme, car en catégorisant celle-ci, on 
+contraint ses multiples expressions. Pour cette auteure, les genres sont construits 
+culturellement et donc il n'y aurait pas UNE mais DES femmes. Elle remet donc ici en 
+cause la binarité du genre en faisant émerger la possibilité de l'extension de cette dualité en 
+apportant la multiplicité de l'identité féminine. Donc, pour Butler, le genre est un construit 
+culturel et social qui, tout dépendant du contexte dans lequel il se forme, peut diverger 
+d'une femme à l'autre. Mais elle va aussi plus loin que de Beauvoir quand elle prend, ce 
+que nous avons nommé plutôt, son tournant constructiviste linguistique radical. 
+"Sex" is, thus, not simply what one has, or a static description of what one is: it will 
+be one of the norms by which the "one" become viable at aIl, that which qualifies a 
+body for life within the domain of cultural intelligibility. (Butler, 1993, p. 2) 
+En effet, pour Butler, le genre est un simulacre du sexe, en ce sens que le sexe et le genre 
+sont tellement confondus (le pénis = genre masculin, le vagin = genre féminin) et s'auto-
+construisent dans les jeux discursifs, que le sexe et le genre sont des constructions 
+discursives, dont les matérialités subséquentes reposent intégralement sur leur origine 
+discursive. Ainsi, pour Butler, la norme du « sexe» s'impose comme une tautologie, 
+puisque le sexe est à la fois le référent et le référé. 
+65 
+La pertinence de cette critique de la dialectique sexe-genre se trouve donc dans la 
+promiscuité incestueuse que ces deux concepts entretiennent. Le genre, à tout le moins en 
+Occident, n'a pas permis la multiplication de ces expressions et n'a donc fait que renforcer 
+le binarisme du sexe sur lequel se construit l'homosexualité comme soutien et faire-valoir 
+du régime discursif hétérosexuel. Il ne fait alors que renforcer et réifier le régime de 
+l 'hétérosexualité obligatoire. 
+3.4 La performance: la drag, figure emblématique et archétype de la résistance 
+queer 
+Jusqu'ici, nous avons vu l'importance du langage tel qu'exploré dans la 
+performativité ainsi que la liaison historique et occidentale qu'est celle du sexe-genre. La 
+troisième notion, la performance du genre, est un point d'ancrage important dans la pensée 
+de Butler. Le genre étant une parodie sans original (Butler, 2005 [1990], p. 261), alors 
+si l'anatomie de l'acteur ou l'actrice de la performance est déjà distincte de son 
+genre, et si l'anatomie et le genre de cette personne sont tous deux distincts du genre 
+de la performance, alors celle-ci implique une dissonance non seulement entre le sexe 
+et le genre, mais aussi entre le genre et la performance. Si le drag, produit une image 
+unifiée de la « femme» (ce qu'on critique souvent), il révèle aussi tous les différents 
+aspects de l'expérience genrée qui sont artificiellement naturalisés en une unité à 
+travers la fiction régulatrice de la cohérence hétérosexuelle. En imitant le genre, le 
+drag révèle implicitement la structure imitative du genre lui-même -ainsi que sa 
+contingence. (Butler, 2005 [1990], p. 261) 
+La notion de performance du genre recoupe celle de la dissonance d'où émerge la fiction du 
+genre et du sexe. Ébranlant la matrice hétérosexuelle, cette dissonance des genres peut alors 
+permettre de fragmenter et de multiplier différentes façons de vivre le genre. Nous nous 
+66 
+trouvons alors à performer dans le social des rôles un peu à la manière du comédien dont 
+les performances sont multiples , mais Butler s'intéresse plus spécifiquement à la 
+performance du genre dans les cabarets queer. Ainsi, nous nous trouvons à agir et à 
+répondre aux attentes et construits sociaux dans lesquels nous construisons nos identités. 
+Pour Butler, on peut aussi performer par la négative et faire violence aux symboles et aux 
+codes qui sont associés aux rôles sociaux et à leurs constructions . C'est dans la figure 
+emblématique de la drag que l'on retrouve l'archétype de la résistance queer. Il nous 
+apparaît alors important d'aborder la performance chez Butler afin de mieux comprendre 
+les modes de construction de la résistance identitaire queer telle qu'elle l'a étudiée chez les 
+drags des cabarets queer. 
+Après avoir mis en avant plan la notion de performativité , il est important de mettre 
+en lumière le jeu de la performance explorée par Butler qui est à la base de sa réflexion sur 
+la construction sociale du sexe-genre . En effet, une partie de son premier ouvrage Trouble 
+dans le genre : pour un féminisme de la subversion (2005 [1990]), porte sur les 
+performances données par les drags et leurs effets troubles pour le genre. Une drag pour les 
+néophytes est un personnage souvent loufoque et presque toujours démesuré. Mieux 
+connue dans les milieux queer, la drag personnifie et exagère les attributs biologiques , mais 
+aussi les attitudes et comportements souvent associés à un sexe-genre particulier. La drag 
+n'est pas une travestie ou transgenre , sa performance est souvent ludique et loufoque , et ces 
+personnages donnent une performance au sens artistique du terme. Ainsi, il est courant de 
+67 
+VOIr ces personnages lllcamer tel chanteur ou telle chanteuse en faisant du lipsync. 
+Habituellement, on appelle les personnages féminins des drag queen et les personnages 
+masculins des drag king. 
+La drag est donc pour Butler un icône de la subversion25. En effet, on pourrait voir 
+dans la drag une construction iconographique entreprise par Butler pour s'allier les 
+éléments les plus militants du mouvement GLBT et queer. L'analyse généalogique que 
+nous avons entreprise ici a pour objectif de faire émerger les différentes stratégies par 
+lesquelles les auteurs essaient de s'acculturer par leurs formations discursives les 
+intervenants, et ainsi faire émerger leurs points de vue comme étant les plus légitimes. On 
+peut donc penser que la drag, dans Trouble dans le genre, représente un élément important 
+dans la construction de ce régime de la vérité. 
+En effet, la drag joue un rôle symbolique important dans la mise en place de la notion 
+de performance que Butler développe au fil de son argumentation. En somme, la drag 
+constitue un archétype de la résistance queer, et elle contient en elle les germes d'une 
+25 Le caractère subversif de la drag n'a rien à voir avec une essentialisation de cette dernière comme forme 
+identitaire du genre. La drag annonce plutôt une pratique (parodique) temporaire et ciblée de la norme du 
+genre ici prise au ridicule. Il ne faudrait pas croire à tort que la drag serait subversive au sens où il s'agirait 
+d'une identité qu'un sujet pourrait choisir dans le plus pur des volontarismes. Le pastiche du genre pour 
+reproduire, épouser, et se mettre en cohérence avec la norme ne serait qu'un pastiche qui participerait à 
+réitérer la norme du genre. Autrement dit, il y a subversion seulement lorsque performance et 
+performativité persistent dans leur esprit politique et subsistent, voire s'érigent, contre l'appareil 
+hétérosexuel qui voudrait les voir domestiqués. À juste titre, dans un commentaire récent sur sa propre 
+œuvre, Butler met en garde le lecteur contre une acceptation automatique et sans esprit critique de la drag. 
+Pour Butler, la drag doit résolument déranger. Voir page 45 Trouble dans le genre: pour un féminisme de 
+la subversion (2005, [1990)). 
+68 
+pédagogie, VOIre une heuristique de la lutte contre l 'hétéronormativité . Dans la 
+performance, la drag recompose les rôles sociaux hétérosexuels en brouillant les codes afin 
+de produire un malaise. Bien qu'un idéal type extrême de la résistance, la drag symbolise 
+cet appel à la contestation des rôles et codes sociaux hétérosexuels . Ceci étant dit, Butler ne 
+s'arrête pas à 1'« enaction» et à la reproduction symbolique des rôles sociaux. La pensée 
+émancipatrice queer s'intéressera aussi au langage, point de passage obligé de la lutte selon 
+Butler en ce que le langage constitue une des matrices, voire un des dispositifs de la 
+création et du maintien de l'ordre hétérosexuel. 
+3.5 L'ontologie politique de Judith Butler 
+Le lien social chez Butler est essentiellement langagier. Nous ne percevons pas chez 
+Butler un mythe fondateur du lien social. Selon elle, nous vivons dans un monde discursif: 
+la réalité est langage. Le langage acquiert donc le statut de fondation et de construction de 
+la réalité sociale. Il permet de comprendre, mais encore plus de construire nos réalités. 
+Ainsi, dans le sujet qui nous intéresse, le langage est à la fois un mode d'inclusion et/ou 
+d'exclusion. Le langage a construit une réalité sociale de l'hétérosexualité obligatoire qui 
+est un régime discursif spécifique, mais qui tend à l'universalité. Ainsi, le régime discursif 
+queer qui veut subvertir ce régime de l'hétéronormativité se trouve dès lors exclu de la 
+réalité langagière dominante. Situé à l'intérieur de la tradition prise au sens du naturalisme, 
+le langage confirme le statut de l'individu comme inclus ou exclu des régimes de la 
+« normalité» qui se fondent sur une binarité, à savoir le régime discursif hétéronormatif 
+69 
+versus le régime discursif queer qui veut le mettre au défi, et qui implacablement construit 
+le « nous» et le « eux ». Il est donc à double sens, il exclut d'une part la normalité mais 
+l'inclut d'autre part dans son contraire. 
+Pour Butler, la construction d'une rationalité politique fondée sur la conception 
+hétérosexuelle et renforcée par le discours biologique ouvre les possibilités de création d'un 
+discours hégémonique et répressif duquel il est fondamental de s'affranchir. Autrement dit, 
+il existerait un contrat social, un mythe fondateur du vivre ensemble, mais celui-ci serait 
+nécessairement erroné puisqu'il contiendrait en lui les germes d'un langage discriminateur, 
+car il construit et délimite en son sein les possibilités de ce qui peut être dit. Dans Excitable 
+Speach, on constate notamment cet aspect dans la critique du légalisme suggérée par 
+Butler: « If existing and accepted conventions of universality constrain the domain of the 
+speakable, this constraint produce the speakable, marking a border of demarcation between 
+the speakable and the unspeakable» (Butler, 1997, p. 90). Si le langage sur lequel se 
+fondent l'ontologie politique et le lien social est fondamentalement vicié puisque construit 
+sur des registres langagiers différents, et si l'universalisme du lien social actuel construit 
+une injustice de fait puisqu'il pousse à une homogénéisation, sur quelles bases est-il 
+possible de penser à nouveau l'espace public? Quelles sont les conditions et les possibilités 
+de la politique? Ces deux interrogations sont primordiales dans la pensée de Butler. En fait, 
+c'est pour répondre à ce dilemme que notre auteure développe la théorie queer. Cette 
+70 
+théorie étant non catégorielle , en ce sens qu'elle ne crée pas de catégorie de genre ou de 
+En fait, Butler postule que l'universel peut seulement être articulé en réponse à un 
+défi posé à cette universalité même. En un sens, Butler suggère que c'est par le langage que 
+s'opère la médiation de l'universalité, comme intention, à la sphère du politique. Cela dit, 
+Butler suggère que l'universel est illusoire, sinon rien d'autre que l'expression de 
+l'hégémonie, d'un discours dominant marqué par une impression de consensus. L'universel 
+est problématique en ce sens qu'il vise à normaliser les différences et à les intégrer dans 
+une configuration politique unique, ce que la théorie queer veut ébranler. Plus 
+spécifiquement, il appert que le consensus est lui-même problématique chez Butler. Il ne 
+peut ainsi pas être utilisé comme technique valable du politique ou encore pour re/fonder le 
+mythe fondateur du vivre ensemble . Le consensus, selon Butler et la théorie queer, est 
+illusoire et réducteur de la panoplie des idées et individus. Butler rejette le 
+conventionnalisme ainsi que la logique du consensus , jugeant celui-ci comme une 
+reproduction des relations de pouvoir. 
+26 Il est certain que la catégorisation est un propre de l'effort de conceptualisation . Toutefois , malgré le fait 
+que l'on puisse voir dans la théorie queer la création d'une nouvelle catégorisation, celle-ci est tout de 
+même produite en opposition aux catégories sexe-genre généralement admises. De plus, le queer est une 
+catégorie ouverte d'auto-identification, ainsi nous y retrouvons des gais et lesbiennes, mais aussi des 
+hétérosexuels aux pratiques marginales . 
+71 
+Pour Butler, les possibilités d'un espace public viable se fondent sur une éthique de la 
+différence radicale, contre-hégémonique , qui se réalise sur le front du langage. Selon Salih, 
+AIl writers, whether "difficult" or not, are vulnerable to what Butler here calls 
+"expropriation ", and it may well be the case that "the difficult future terrain of 
+community " to which she alludes will be widened rather than narrowed by 
+commentaries on "difficult" theorists. (2003, p. 49) 
+Ainsi, les configurations actuelles du sexe, du genre et les prescriptions identitaires qui en 
+découlent , constituent le terrain de la bataille pour un renouvellement politique. Rejetant les 
+« mythes fondateurs » comme fondements de la politique , c'est vers une autre modalité de 
+l'agir (de l'action politique) et du coup, d'une nouvelle forme du lien social dont il est 
+question. 
+3.5.1 L'identité et l'action politique 
+La question de la lutte identitaire est ainsi au cœur du projet politique proposé par 
+Butler et, de toute évidence , ce sont les questions du sexe et du genre qui sont au cœur de 
+cette pensée du changement politique . Cette lutte identitaire est la lutte par laquelle se 
+construisent les identités de sexe et de genre par le langage. Le discours philo-politique de 
+Butler se fonde sur plusieurs radicalités , et l'auteure prend ses distances vis-à-vis des 
+catégories héritées des discours philosophiques traditionnels sur l'être humain, s'éloignant 
+des conceptions essentialistes et existentialistes. Ce discours est précisément radical, car le 
+projet queer appuyé par Butler se fonde en opposition à un sujet politique unitaire 
+monolithique . L'appartenance à une identité sexuelle n'est pas le symbole d'une allégeance 
+72 
+politique ou de vues sociales semblables partagées au sein d'un même groupe. De plus, 
+pour Butler, le langage même de l'épistémologie , celle de la dualité sujet/objet , annonce 
+une réflexion marquée par l'hégémonie de la pensée occidentale. L'action politique 
+appliquée au travail identitaire, suggérée par l'auteur de Trouble dans le genre, est 
+annoncée et amorcée par une question inaugurale : les féministes peuvent-elles faire de la 
+politique sans « sujet» pour la catégorie « femme »? (Butler, 2005 [1990], p. 267). Car 
+pour cette auteure, la catégorisation est dangereuse en ce sens qu'elle en restreint le sujet: 
+elle s'applique à des identités fixes alors qu'elle tente de démontrer justement la fluidité de 
+ces mêmes identités. Alors, à la question, Butler répondra par l'affirmative, ce qui lui 
+vaudra le reproche de dénaturer le féminisme . En ce sens, Butler maintient une cohérence 
+entre son action politique et sa théorie, puisqu'elle applique symétriquement sa critique des 
+catégorisations binaires aux modalités de l'action politique. 
+Déconstruire l'identité n'implique pas de déconstruire la politique, mais d'établir la 
+nature politique des termes mêmes dans lesquels la question de l'identité est posée. 
+Cette forme de critique ébranle le cadre fondationnaliste dans lequel le féminisme 
+s'est développé en politique identitaire. Ce fondationnalisme contient un paradoxe 
+interne qui est de présupposer, de fixer et de contraindre les « sujets» qu'il souhaite 
+précisément représenter et libérer. (Butler, 2005 [1990], p. 275-276) 
+De fait, Butler opte pour une action politique qui dépasse les catégorisations initiales 
+et imposées comme point de départ de toute réflexion. En fait, pour Butler, la question n'est 
+pas tant de négocier sa place et les constructions sociales car, selon elle, tous les sujets 
+négocient toujours leur place au sein de leur culture et société. Le fondement de l'action 
+politique orientée vers le changement et le bouleversement des normes imposées par 
+73 
+l 'hégémonie hétérosexuelle passe par la performativité: la critique de l'hétérosexualité 
+obligée et la contestation de l'authenticité de cette catégorisation hégémonique. La parodie 
+revient donc à un acte politique subversif qui se joue des catégorisations dominantes en les 
+reproduisant dans l'effet pastiche, dans des copies ratées, révélant ainsi le caractère factice, 
+mimétique, voire fantasmatique deces catégorisations (Butler, 2005 [1990], p. 273). Cette 
+action parodique, comme mode de devenir politique subversif, est politique, en ce qu'elle 
+oblige à penser au vivre ensemble. 
+La perte des normes de genre aurait pour conséquence de faire proliférer les 
+configurations du genre, de déstabiliser l'identité substantive et de priver les récits 
+naturalisants de l 'hétérosexualité obligatoire de leurs personnages principaux : 
+l' « homme» et de la « femme ». De même, la répétition parodique du genre révèle 
+l'illusion de l'identité comme une profondeur irréductible et une substance 
+intérieure. En tant qu'effet d'une performativité subtile, soutenue politiquement , le 
+genre est en quelque sorte un : « acte» qui ouvre sur des clivages, la parodie du soi, 
+l'auto-critique et des présentations hyperboliques du « naturel » qui, dans leurs 
+exagérations même, en révèlent le statut fondamentalement fantasmatique . (Butler, 
+2005 [1990], p. 273) 
+En concordance avec l' ontologie politique discursive suggérée par Butler, cette 
+action politique est dès lors compréhensible et identifiable dans les actes langagiers sur 
+lesquels cette action s'inscrit. Il faut bien comprendre également que ces actes langagiers 
+sont entendus au sens large des théories du discours et des actes de langage et qu'elles ne 
+sont pas absolument indépendantes de toute condition et action matérielle ou concrète. 
+74 
+3.5.2 Les éléments de la grammaire politique de Butler 
+Bien que critiquée pour son usage d'Austin pour expliquer le performatif , Butler y 
+voit tout de même un acte politique et subversif. La performativité lui permet de contester 
+l'aspect hétéronormatif et la normativité de la grammaire et du langage ordinaire comme 
+étant des paramètres fermés à l'invention de nouveaux modes discursifs, et, par là, elle 
+dénonce l'impossibilité d'une construction d'un soi « autre », qui serait jugé trop 
+excentrique aux yeux des normes imposées . De plus, ce langage et cette grammaire 
+hétéronormative cooptent les « anormaux » dans des schèmes de vie essentiellement hérités 
+du mode de vie binaire. Prenons les exemples tels que le couple, le mariage, la parentalité 
+qui sont des discursivités hétérosexuelles dont on accole aux modes de vie excentriques à 
+l'idéologie hétérosexuelle les mêmes qualificatifs. Ces efforts d'assimilation discursive 
+restent toutefois, soit des stratégies hégémoniques ou des stratégies de statu quo. 
+En effet, l'utilisation de ces régimes discursifs hétérosexuels constitue une réalité qui 
+au mieux assimile le couple gai à des pratiques hétérosexuelles. Le langage réifiant ainsi 
+une réalité sociale oppressante pour les individus ne correspondant pas à l'idéal 
+hétérosexuel, Butler prône donc la production d'un discours défiant 1 'hégémonie discursive 
+hétéronormative. C'est en ce sens que nous pouvons comprendre le style opaque et parfois 
+jugé trop aride par le lecteur. Comme le montre bien Salih (2003), Butler veut se distancier 
+des régimes discursifs normatifs à savoir le registre du langage hétérosexuel. Ainsi, 
+[ ... ] "the critical relation to ordinary grammar has been lost in this call for radical 
+accessibility", and while she claim that she is not in favor of difficulty for 
+75 
+difficulty's sake, she point out that ordinary language and received grammar 
+undoubtedly shape and limit our thinking about subjectivity, gender, sex, sexuality, 
+race and politics. (Salih, 2003, p. 44-45) 
+Ainsi, par ces jeux de langage, Butler offre une résistance aux régimes discursifs 
+hétéronormatifs qui construisent dans le réelle régime de 1 'hétérosexualité obligatoire. Plus 
+spécifiquement, la grammaire politique subversive et parodique de Butler se construit par le 
+biais de quelques notions, soit le sexe, le genre, la drag et la performativité. Cette nouvelle 
+utilisation politique des mots a pour but de subvertir les usages courants et donc de leur 
+enlever leur contenu hétéronormatif. 
+CHAPITRE IV 
+AU CŒUR DU CHAMP DE BATAILLE: TROIS DOMAINES 
+SPÉCIFIQUES DE L'ACTION COLLECTIVE QUEER 
+Dans le cadre de ce chapitre, nous expliciterons ce qui nous est apparu comme les 
+trois principaux champs d'action politique d'une résistance queer au régime de 
+l'hétérosexualité obligatoire. De prime abord, il devient évident que la résistance queer ne 
+s'articule pas dans les sphères juridiques et étatiques, mais dans les champs et pratiques de 
+production et de reproduction culturelles. Le jeu des institutions hétérosexistes déplait, et 
+une intrusion en son sein et une adhésion à ces codes de valeurs est jugée peu appréciable. 
+En somme, c'est du côté de la production discursive que l'on retrouve l'expression de cette 
+résistance . 
+Musique, littérature, recherche, curriculum et généalogie interculturelle des genres 
+dans les sociétés pré ou non occidentales, sont autant de pratiques discursives qui 
+permettent la production, la circulation et la consommation de ce discours du changement 
+social. Parmi les trois champs assimilables aux actions de résistance créatrices queer, on 
+examinera d'abord le champ de la production artistique et culturelle, de la pop culture aux 
+registres les plus raffinés. C'est un travail de production et de relecture qui est mis en 
+77 
+branle afin de multiplier un flux généralisé et une contestation vive de la norme sexe-genre. 
+Loin de vouloir présenter le bon « homosexuel » domestiqué , il faut choquer, provoquer et 
+susciter le débat. Dans un deuxième temps, nous aborderons le territoire de l'éducation . 
+Contrairement aux approches GLBT qui favorisent l'éducation à la différence sexuelle, il 
+faut s'en prendre à l'institution en récusant le principal acteur de cette action publique . Il 
+s'avère important de contester son privilège de production discursive et de reproduction de 
+l'hétérosexualité pour en faire un acteur réflexif, mais surtout un vecteur de la révolution . 
+Enfin, le troisième territoire de la production d'un discours de résistance queer se situe au 
+niveau des réflexions sur le développement international et valorise notamment un 
+développement émergeant et local. Ce dernier élément habilite et enrichit la réflexion queer 
+d'expériences du genre post-colonial , facilitant du même coup la critique de 
+l'hétérosexualité dans son hégémonie occidentalisée . 
+4.1 La résistance culturelle queer: décoloniser la culture populaire comme action 
+politique 
+Contrairement aux luttes gaIes et lesbiennes qui s'en prennent à l'État et à ses 
+institutions afin d'obtenir une reconnaissance sociale et politique27
+, la résistance queer 
+prend forme sur des assises différentes. En fait, c'est plutôt du côté de la culture populaire 
+que se sont construites les luttes politiques récentes. Ainsi, c'est d'une autre lutte politique, 
+mais surtout d'un autre espace public, dont il est question. Par culture populaire , on doit 
+27 Effectivement , la stratégie GLBT s'en prend aux institutions non pas pour contester leur fondement même, 
+mais bien dans une optique d'intégration et d'assimilation . La perspective queer de son côté s'en prend aux 
+institutions pour contester leur fondement arbitraire et leur mode d'exclusion basés sur l'hétéronormativité. 
+78 
+entendre ici une fonne d'expression culturelle qui ne correspond pas au « grand art », mais 
+bien aux fonnes d'expressions mineures associées à la production culturelle de masse, à la 
+production industrielle et lou « folk » des biens culturels. La culture populaire se situe à 
+l'intersection des pratiques locales -disqualifiées et qui ne sont pas associées à un grand 
+capital culturel jugé aristocratique -et d'une diffusion de masse. Elle n'est pas l'expression 
+d'un grand art, mais bien d'une pseudo-individualité. « La particularité du moi est un 
+produit breveté détenniné par la société, et que l'on fait passer pour naturel» (Horkheimer 
+et Adorno, 1974, p. 163). 
+Selon Horkheimer et Adorno, cette fonne de production et d'expression culturelle si 
+typique du capitalisme avancé en arrive à effacer les lignes et les frontières d'une 
+individualité et du « génie» de l'œuvre. La production culturelle est alors destinée à un 
+public toujours plus large qui en retour s'approprie et métisse cette production de masse. 
+De toute évidence, ces auteurs de l'École de Francfort sont pour le moins critiques de cette 
+transfonnation sociale. 
+Le culte des produits à bon marché implique que les individus moyens soient élevés 
+au rang de héros. Les stars les mieux payées ressemblent à des images publicitaires 
+pour articles de marque non spécifiés. Ce n'est pas un hasard si elles sont souvent 
+choisies panni la masse des modèles commerciaux . Le goût dominant emprunte son 
+idéal à la publicité, à la beauté, objet de consommation . (Horkheimer et Adorno, 
+1974, p. 165) 
+Or, c'est précisément sur ce terrain que la lutte queer prend ses assises et sa fonne dans le 
+champ culturel. Il ne faudrait pas croire pour autant, et c'est ce que nous aborderons plus 
+79 
+loin, que ce champ de contestation empêche une relecture des productions culturelles 
+associées à la haute-culture, au grand art littéraire ou à la peinture. Seulement , le terrain de 
+la culture populaire, loin des conventions de style et des habitus trop rigides, demeure le 
+plus accessible et celui dans lequel peut s'exprimer la lutte et une authentique production 
+queer. Ironiquement, l'action culturelle queer est une quête pour un plus grand accès à cet 
+espace public associant culture à consommation de masse. 
+Parmi les acteurs d'une action culturelle queer, on retrouve notamment Teresa de 
+Laurentis. Fondant sa compréhension de la situation culturelle sur les ténors de la théorie 
+critique, dont Gramsci, de Laurentis estime qu'il est essentiel de reconnaître toute 
+l'importance de la culture et de ses influences. Les formes expressives (de l'expression 
+culturelle) sont des technologies à la fois sociales et personnelles permettant aux individus 
+d'obtenir un peu de bonheur et de plaisir. Il n'en demeure pas moins que l'expression 
+culturelle détient le potentiel de reproduire pouvoir et norme. 
+Alors qu'elles [formes expressives] permettaient aux gens du peuple d'échapper à 
+« ce qu'ils estiment être bas, mesquin, méprisable dans leur vie» et de pénétrer « une 
+sphère plus choisie de sentiments élevés et de nobles passions » et donc de produire 
+une vision artificielle, clichée, illusoire des relations sociales, ces formes populaires 
+fournissent aussi des structures de connaissance aussi bien que de sentiments, « des 
+sortes de matrice dans lesquelles la pensée prend forme quand on l'y coule ». (de 
+Laurentis , 2007, p. 124-125) 
+Précisément , de Laurentis suggère une action culturelle queer, opérant en marge de la 
+production instituée afin d'en dépister les effets de normalisation dans l'expression du 
+genre, mais aussi, à l'instar de plusieurs penseurs de l'action culturelle queer (Sinfield, 
+80 
+1994, 2005), cette action doit être accompagnée d'un travail culturel concret. Le mode de 
+vie queer doit donc être visible et public, il doit pouvoir trouver sa légitimité publique dans 
+cette sphère de la vie en commun, toute aussi « dégradée » qu'elle soit. 
+Ainsi, on peut parler d'une politique culturelle queer. Cette politique n'a rien 
+d'officiel et ne repose sur aucune légitimation institutionnelle autre que l'accès du discours 
+queer aux mass media. Le défi est de taille, car il faut rendre visible, non pas des gais et des 
+lesbiennes, non pas des sexualités, mais des manières subversives de vivre et de construire 
+le genre. Sur la question, Anderson ne pourrait être plus explicite sur la portée, mais aussi 
+sur la tension queer versus Gai et Lesbienne , qu'une telle démarche peut engendrer : 
+[ ... ] it is also against 'identities', inc1uding gay and lesbian ones, which are 
+prescriptive or monolithic , which do not allow for the complex crossing and 
+interruption of other 'identity -constituting, identity-fracturing discourses ', 
+inc1uding the ones we may not yet know. (Anderson , 2000, dans Alderson et 
+Anderson , 2000, p. 69) 
+La production culturelle queer est loin de la représentation du gai hétéronormatif, de 
+l'homosexuel(le) socialement acceptable ou encore, des difficultés d'intégration familiale 
+d'un couple gai. En fait, il s'agit de montrer le genre dans sa performance sociale et dans 
+les tensions entre performance publique et performativité privée, d'un genre en négociation 
+pour le sujet, que ce soit dans une biographie purement fictive ou réelle et mise à l'écran, 
+en musique, en peinture ou en publicité. 
+81 
+4.1.1 Une production culturelle éclatée 
+Les traditions et les pratiques selon lesquelles, le plus souvent, des hommes se 
+déguisent en femmes ne sont pas nouvelles. Que ce soit au théâtre ou à l'opéra, cette 
+tradition n'avait rien de subversif en ce qu'elle constituait plutôt: a) une humiliation pour 
+l'homme; b) un acte misogyne associé à une représentation négative du genre féminin 
+(Sinfield, 2005). C'est dans l'angle et le positionnement du discours véhiculé dans 
+l'expression culturelle que se fonde la posture culturelle queer (de Laurentis , 2007). Par 
+exemple, le discours sur le genre d'un film qui ferait d'une personne qui se travestit un 
+homme ou une femme déviante ne saurait s'assimiler à une approche queer faute de 
+projeter une image positive des individus mis en scène. Encore, si la personne vit son 
+expérience queer dans l'adversité, la production culturelle (film28, peinture ou chanson) 
+doit pouvoir livrer un message, un apprentissage qui fait de cette personne , cette altérité 
+queer, un soi potentiel. La posture culturelle queer doit donc projeter la possibilité de 
+sexualités autres que la sexualité reproductive institutionnalisée et l'actualiser comme une 
+subjectivité viable et même positive. On pourrait y voir là un processus propagandiste , mais 
+c'est toutefois dans cette affirmation critique de l'idéologie hétérosexuelle que se situe la 
+28 Produit par Stephan Elliott en 1994, le film australien The A dventures of Prisci/la Queen of the Desert se 
+situe parfaitement dans le cadre de ce message et de cette logique. Dans le cadre de ce scénario, Mitzi deI 
+Bra, une drag queen, part en tournée dans les villages du désert australien . On peut penser ici, à l'image 
+extrême et subversive d'une colonisation queer du désert, de l'espace non cosmopolite et hostile. Avec sa 
+caravane nommée « Priscilla », Mitzi est désenchantée de la vie à Sydney et décide de fuir avec ses amis 
+dans une quête initiatique et de redécouverte de soi. Elle part loin de Sydney et de sa femme, à qui elle n'a 
+pas donnée de nouvelles depuis plus de six ans. Le film renvoie ici bien davantage à une réflexion sur le 
+corps et le genre comme une prison qu'à une réflexion fondée sur la sexualité. Ce film montre un 
+témoignage de l'existence d'une production culturelle fondée sur le genre et les performances subversives . 
+82 
+résistance queer, c'est-à-dire contrecarrer cette propagande omnipotente du régime de 
+l 'hétérosexualité obligatoire. 
+4.1.2 La pop-culture, la musique et la résistance: l'émergence du queercore 
+La musique constitue au même titre que les autres sphères culturelles un espace de 
+diffusion du discours de la résistance queer. Le queercore né comme sous-culture et 
+segment de la musique punk des années 1980, constitue un geme revendicateur et critique 
+de l'autorité hétérosexuelle, mais aussi de l'organisation capitaliste du pouvoir, des gemes 
+et de l'industrie . Le genre se développera plus particulièrement à partir des années 1990 où 
+il coexiste avec le punk et sa « réforme}) ou son inclination grunge. Le discours et la sous-
+culture queercore de la musique prennent forme dans les paroles et chansons de plusieurs 
+groupes et circulent dans des magasines de musique punk et branchée. Au cœur de l'unité 
+de cette formation discursive se retrouve la volonté de vivre la diversité des gemes et 
+investir les ghettos hétérosexuels. Une des phrases slogan de ce mouvement est 
+particulièrement évocatrice: « Don't be gay! }) (Maximum Rock and Roll, 1983). Cette 
+phrase évoque une construction et un agencement de la sexualité et du geme qui demandent 
+à être contestés. Le slogan remet en question la binarité du sexe et du geme qui lui est 
+corrélatif. Parmi les représentants les plus connus on retrouve de ce courant musical des 
+groupes comme Pansy Division, Kids on TV ou encore Lesbians on Ecstacy. Tirée de 
+l'album Undressed (Pansy Division, 1993), la chanson Anthem évoque bien la portée et 
+l'orientation politique et engagée du groupe. 
+ANTHEM 
+We're here to tell you, ya better make way 
+We're queer rockers in your face today 
+We can' relate to Judy Garland 
+It' s a new generation of music calling 
+We're the buttfuckers of rock & roll 
+We want to sock it to your hole 
+With loud guitars, we're gay and proud 
+We're gonna get ya with your pants down 
+Closeted rockers, we've heard of a few 
+They won't risk their careers to come out to you 
+We have no such deceptions, no such ploys 
+We make it clear we want to sleep with boys 
+We're the buttfuckers of rock & roll 
+We want to sock it to YOur hole 
+We don't care ifyou're top or bottom 
+Just use your butthole, everyone's got 'em 
+We do love rock & roll, it' s true 
+But that boy meets girl stuffjust won't do 
+We got our condoms, we got our lube 
+We know how to use 'em, how 'bout you? 
+We're the buttfuckers of rock & roll 
+We want to sock it to your hole 
+Latino, Asian, white or black 
+We're gonna getcha on your back 83 
+Cette pièce de Pansy Division exprime bien l'aspect subversif de ce groupe califomien . 
+Pansy, terme utilisé pour définir un homosexuel efféminé, produit une musique souvent 
+identifiée par l'idéologie hétérosexuelle comme réservée aux groupes rock-métal. Pansy 
+Division s'approprie donc le droit d'être queer et de décoloniser l'image du rocker. Anthem 
+de Pansy Division revendique donc le droit pour des queer de faire de la musique métal et 
+de baiser queer ouvertement. En fait, Anthem renvoie à un hymne, à un chant rassembleur . 
+Les premiers couplets scandent un slogan qui est inspiré directement par le mouvement 
+Queer Nation: « we're queer, we're here Get used to it ». Queer Nation, un mouvement 
+84 
+d'activistes voués à l'action directe dérivé de Act Up29, vise à contrer les discours haineux 
+et la violence homophobe. Les paroles renvoient aussi à des préférences sexuelles de 
+certains queers. Ainsi,« we don't care ifyou're top or bottom », on s'enfout si tu es sur le 
+dessus ou en dessous3o, «just use your butthole, everyone's got 'em » utilise seulement ton 
+trou de cul, tout le monde en a un. On perçoit dès lors l'esprit séditieux à J'endroit de 
+l'idéologie hétérosexuelle: exposer à la face du monde la sexualité queer telle qu'elle se 
+vit, cela dans un mouvement artistique souvent machiste, à savoir la musique rock-métal. 
+Déclamation publique d'une authenticité autobiographique, ces paroles sont l'expression 
+d'une performativité discursive qui permet de saper le discours hétérosexuel en présentant 
+une performance (mise en scène) et une performativité (lyrique discursive) permettant dans 
+une holistique relayée par d'autres canaux culturels de construire une épistémè mettant au 
+défi le régime discursif actuel. On veut ici s'approprier le droit de subvertir et même 
+d'imposer31 la «queerisation ». Cette « queerisation » du mouvement artistique comme 
+pour les autres domaines que nous explorerons se fait dans une logique révolutionnaire de 
+décolonisation du monde vécu surreprésenté , réifié et reproduit par l'idéologie 
+hétérosexuelle. Le but ici est certes d'imposer une nouvelle vision des genres et des 
+sexualités dans une optique de décloisonnement des modes catégoriels binaires. La 
+subversion s'opère à deux niveaux: ébranler en son sein même les codes hétéronormatifs 
+en proposant des modes alternatifs d'organisation du sexe-genre, mais aussi imposer un 
+29 Act Up (AIDS Coalition to Unleash Power) est aussi un groupe d'action directe voué à la lutte contre la 
+propagation du sida. 
+30 Notre traduction. 
+31 Imposer non pas des identités fixes mais une critique sans cesse renouvelée des identités et l'idée que 
+celles-ci loin d'êtres figées se renouvellent et se négocient dans l'espace-temps. 
+85 
+discours queer qui ultimement se réifierait dénaturalisant le régime de l'hétérosexualité 
+obligatoire dans un but avoué de multiplication des genres et des identités sexuelles . 
+« God is my co-pilot» est également très exemplaire des premiers artistes de cette 
+mouvance. La chanson Straight not! de l'album du même nom lancé sur le marché en 1993 
+atteste du style parodique du groupe. En voici les paroles: 
+STRAIGHT NOT! 
+My mom thinks l'm @ the movies -
+My friends aIl think l'm straight -
+1 think 1 just stopped thinking -
+1 don 't think 1 can wait... 
+1 can hear myself talking, 
+1 can't understand a thing 1 say -
+1 want to take the cIothes off of her... 
+Maybe this means l'm umm ... 
+Experiencing sorne kind of umm ... 
+Same gender attraction or something 
+1 guess 1 don't know ... 
+1 can hear myself talking, 
+1 can't understand a thing 1 say -
+1 can't take my eyes off ofher... 
+Maybe this means l'm 
+Straight Not 
+Straight Not 
+Straight Not 
+Not Not Not Not Not Not 
+La chanson et l'album revendiquent, il faut le remarquer, une contestation virulente, mais 
+qui demeure néanmoins accessible tant dans le message que dans le ton. Autrement dit, les 
+86 
+artistes du groupe privilégient ainsi une diffusion accrue contraire aux excès d'ésotérisme 
+que l'on retrouve dans le « chic avant-gardiste » que l'on pourrait retrouver dans le cinéma 
+queer par exemple. La chanson Straight not! s'en prend à un travail de contestation local: 
+la mère, la famille, les amis. 
+Dans la même veine, les groupes Kids on TV et Lesbians on ecstasy sont plutôt des 
+groupes électroniques , mais ceux-ci s'inscrivent aussi -de par leurs paroles et vidéoclips 
+provocateurs -dans le renouvellement récent du genre queercore et célèbrent aussi la cause 
+avec un message politique queer. Il s'agit certainement d'ébranler le sexe-genre , mais aussi 
+de parler du sexe queer. Dans son expression artistique, la musique permet de créer un 
+espace dans lequel adviennent des possibilités divergentes et fantasmatiques facilitant ainsi 
+par l'imaginaire une contestation du régime hétérosexuel. Devant la réalité dominée et 
+inapte, l'imaginaire a pour fonction de stimuler les utopies de résistance afin d'en faire un 
+portrait cohérent et concret. Cependant, leur impact est limité car ces groupes underground 
+sont souvent sous contrat avec des maisons de disques indépendantes. 
+En somme, le mouvement queercore est certainement marginal, mais il puise dans les 
+forces vives de la culture populaire afin de livrer un message et des paroles revendicatrices . 
+Les paroles simples et le style carnavalesque des artistes de ce mouvement musical font de 
+cette forme d'expression artistique un champ important de la lutte culturelle queer. 
+87 
+4.1.3 Queer dans la violence 
+Le cinéma queer, contrairement au cinéma gai et lesbien, cherche à provoquer et à 
+déranger l'ordre établi. Alors que le cinéma gai et lesbien abonde en récits racontant les 
+difficultés rencontrées pour intégrer une société hétéronormative , le cinéma queer, loin de 
+la négociation , cherche un impact frontal et une critique radicale de la performance sociale 
+des genres. Selon Mulheisen (2005), la figure forte du viol est apte à révéler cet autre 
+cinéma queer qui conteste en faisant preuve d'une esthétique qui est à la fois ahurissante et 
+révélatrice, car elle révèle la répression des genres dans l'horreur du sexe. C'est dans un 
+cinéma et plus largement dans une production de contre-culture , qui réplique aux 
+conventions pour mieux les contester, que la critique s'opère. Ainsi, pour Mulheisen , « the 
+heteronormative is script is either repeated through a gendered realism of convention or 
+challenged through a realism of queering » (Mulheisen, 2005, p. 116). En fait, le 
+mouvement critique s'affirme dans une esthétique performative de la « perversité ». Cette 
+« perversité » devient un opérateur pour le· discours cinématographique qui devient un 
+élément, ici sexuel, qui évoque le genre. Il ne faut pas s'y tromper. La sexualité n'est ici 
+qu'un outil de la critique, qu'une opération discursive qui est mise de l'avant pour mieux 
+dissocier le sexe-genre. 
+Réalisé par Virginie Despentes et Coralie Thrin Thi, le film français Baise moi 
+interpelle l'auditoire en initiant cette réflexion. Les conventions hollywoodiennes sont ici 
+sabotées par plusieurs éléments du scénario et de la mise en scène. Les personnages Manu 
+88 
+et Nadine -Manu victime de viol et Nadine une prostituée en cavale -se rencontrent et font 
+équipe pour se venger des hommes. Le schéma du film conventionnel hétéronormatif est 
+brisé dès le début du film où Manu est, elle aussi, assaillie par un agresseur dans une scène 
+de viol collectif. En effet, comme le souligne Mulheisen , Manu est loin de réifier le rôle de 
+victime, car elle reste impassible ce qui choque même son agresseur. Elle ose même mettre 
+en doute la virilité du voyou. En l'insultant de la sorte, elle bloque donc le schéma usuel de 
+la représentation du viol dans les médias. Cette contre-stratégie montre un renversement 
+des rôles et «désérotise» l'agression dans l' œil de l'agresseur. Comme le souligne 
+Bourcier, les réalisatrices de Baise moi 
+[ ... ] font subir à la phrase « Baise moi» ce que les lesbiennes , les gays ou les trans 
+ont infligé à des termes initialement injurieux comme «pédé» «gouines» ou 
+« queer ». En se réappropriant la sentence porno, en la faisant tomber, elles 
+déstabilisent l'identité même de la femme qu'elle indique et les privilèges de la 
+masculinité dominante : parce que Baise moi veut dire à la fois Fuck me! et Fuck off? 
+C'est là que réside la prouesse du film: constituer une resignification opérée par des 
+femmes, féministe et politique, qui ne fait pas l'économie de la sexualité. (2006, 
+p. 13) 
+Le schéma queer du film se réalise dans le contraste de deux personnages aux « corps 
+féminins» performant un genre et une identité qui contrastent avec la norme 
+hétérosexuelle. Cette rencontre qui suscite l'amitié devient ici la trame d'un parcours 
+initiatique dans lequel les deux amies, par l'usage d'une sexualité débridée, par la violence 
+qu'elles mettent en scène, manifestent une performance inattendue du genre. Manu et 
+Nadine baisent avec leurs victimes selon les conventions du sexe masculin, pour ensuite les 
+assassiner. En somme, la «queerisation» du cinéma implique une désocialisation des 
+nonnes du sexe et du genre; une dissociation du trait d'union sexe-genre. Mais ce 
+89 
+mouvement de «queerisation» du cinéma va plus loin si l'on se fie à Bourcier. 
+L'avènement depuis un certain temps des films comme Baise moi participe à un 
+mouvement de déconstruction du film pornographique traditionnel et ferait ainsi partie d'un 
+mouvement cinématographique post-porn (Bourcier, 2006). 
+4.1.4 Cultiver l'ambiguïté dans la performance du genre: du dandysme à la 
+métrosexualité 
+Aujourd'hui, la mode est un espace de création de soi et de souci de soi. L'apparence 
+et le travail sur le corps constituent une esthétique de soi, une place dans laquelle l'identité 
+sociale et politique se construit. Il va de soi que la mode est affaire de genre, qu'il existe 
+une mode féminine et une mode masculine. Or, de plus en plus, les codes se mêlent et se 
+métissent. L'homme se soigne autant au plan corporel que vestimentaire, il s'applique à soi 
+dans le cadre de pratiques que l'on associait le plus souvent aux pratiques de mode 
+féminines. Un terme s'est forgé dans la culture populaire et on parle désormais 
+de « métrosexualité ». La métrosexualité constitue une réécriture contemporaine de la 
+figure du dandy, celle-là plus appliquée à l'âme qu'au corps. 
+Du dandysme d'Oscar Wilde et de Beaudelaire souvent réservé à l'aristocratie ou à la 
+haute bourgeoisie, nous pouvons percevoir dans ces temps post-modernes une 
+démocratisation de cette idée de l 'homme qui prend soin de lui. Surtout liée au 
+consumérisme ambiant, l'idée de l'homme à la mode s'est démocratisée . Toutefois, les 
+90 
+dandys du monde aristocratique non seulement se parent à la mode avec le soin souvent 
+associé aux femmes, mais ils véhiculent aussi un mode de vie plus qu'une simple apparence 
+de beauté et de jeunesse, qu'on associera aujourd'hui à la notion de « métrosexualité ». 
+Ainsi, le dandy, cette ascète du XIXe siècle, s'impose un mode de vie de l'esprit et du corps 
+qui tient du raffinement intellectuel, mais plus, de l'image qu'il projette. Le dandy se 
+construit et se projette dans les autres. Faire de sa vie une œuvre, là est son essence. 
+Brummell , un fils de domestique à la cour anglaise, parvient donc par son intelligence , sa 
+parure, sa distinction et son excentricité à amuser les victoriens. L'ambiguïté du dandy 
+quant à ses préférences pour un sexe ou l'autre souvent jumelées à une certaine excentricité 
+sans toutefois dépasser à outrance les codes sociaux, est aussi un élément qui permet de 
+comprendre cet être hors-norme . Le Dictionnaire international des termes littéraires cite 
+Beaudelaire qui discourra largement sur le dandysme. Sa philosophie nous donne ainsi ces 
+mots « qui voit dans le dandysme" le dernier éclat d'héroïsme dans les décadences" et, 
+dans les dandys, "une espèce de nouvelle aristocratie" de l'époque moderne» (Charles 
+Baudelaire, Le Peintre de la vie moderne. Curiosités esthétiques, 1962, p. 485). Le dandy 
+se pose comme héros qui se dissocie de l'époque tout en insistant sur sa propre 
+modernité. )} De même: « le dandysme apparaît surtout aux époques transitoires où la 
+démocratie n'est pas encore toute-puissante, où l'aristocratie n'est que partiellement 
+chancelante et avilie)} (Charles Baudelaire, Œuvres complètes 1. Pléiade, 1968, p. 711). 
+La métrosexualité est, tout comme le dandysme , une forme de vie, un habitus et une 
+esthétique de soi. Chez le métrosexuel comme chez le dandy, l'esthétique constitue un 
+91 
+mode de critique de son époque et de ses eXIgences. Cette relecture contemporaine du 
+dandysme est toutefois plus accessible, plus tournée vers le corps que vers le pathos de 
+l'âme. Le métro sexuel ne nie pas sa masculinité, mais il utilise la mode pour contester le 
+« sexage ». On attribue l'apparition de ce thème (et non de la pratique) à un épisode de la 
+populaire série américaine Sex and the City (Saison 3, Épisode 14i2, émission qui a une 
+facture queer dans la mesure où elle rassemble quatre femmes qui vivent, tantôt réifient et 
+posent en ridicule, tantôt contestent les normes de la sexualité et du genre imposées. Le 
+métrosexuel , c'est l'homme cosmopolite de New York qui brise le cycle de la transmission 
+générationnelle des genres en assumant des soins et un souci de soi qui repoussent les 
+construits binaires. 
+Mark Simpson qui écrit dans un magazine en ligne salon. corn voit en la personne de 
+David Beckam l'icône métro sexuel parfait. Toutefois, l'idée que l'homme hétérosexuel 
+puisse jouer sur son apparence non pas pour se « masculiniser» mais pour « s'émasculer » 
+est récente. 
+Y ou see, "Becks" is almost as famous for wearing sarongs and pink nail polish and 
+panties belonging to his wife, Victoria (aka Posh from the Spice Girls), having a 
+different, tricky haircut every week and posing naked and oiled up on the cover of 
+Esquire, as he is for his impressive baIl skills. (Simpson, 2002) 
+Il est certain que de voir un joueur de soccer adopter ce comportement n'est pas très usuel, 
+mais à en voir les commandites et les contrats publicitaires qui s'accumulent, il a très bien 
+su utiliser sa visibilité pour servir les intérêts marchands. Toutefois, que ce soit au nom de 
+32 Cet épisode a été présenté pour la première fois en septembre 2000. 
+92 
+l'argent, de la gloire ou du narcissisme, il n'en demeure pas moins qu'il a su jouer avec les 
+codes de l'identité. On peut ainsi percevoir dans l'image du métro sexuel une renégociation 
+de la construction de l'identité masculine. Cette identité masculine colonisée par l'image de 
+l'homme hétérosexuel a certes été ébranlée par la sous-culture gaie Bear qui, par une 
+réappropriation des codes masculins par définition hétérosexuels , en font pourtant un point 
+tournant de leur identité gaie. 
+En somme, la mode nous indique quelques poches de lutte et de résistance à 
+l 'hétérononnativité. Ceci étant dit, de tous les modes de résistance que l'on observe et que 
+l'on identifie à des pratiques queer, seuls la mode et les arts de vivre constituent des 
+pratiques de résistance émergentes et individuelles. Autrement dit, cette résistance est 
+émergente, car elle n'est pas le fruit d'une action politique dirigée et organisée . 
+4.1.5 Décoloniser le grand art ... 
+Les classiques de la littérature de même que les classiques de l'art ont subi au cours 
+des années des interprétations variées, selon les époques et cultures dans lesquelles ils ont 
+été analysés. Toutefois, une constante demeure à savoir l'analyse et l'interprétation de ces 
+œuvres diverses ont souvent comme point d'appui une vision hétéronormative . Ainsi, avec 
+le développement de la théorie queer, on a vu émerger de nouvelles relectures ou mises en 
+scène tenant compte d'une vision queer. Ce que Sinfield nomme Cultural PoUtie est un 
+essai critique sur l'histoire de la production culturelle des textes littéraires classiques.

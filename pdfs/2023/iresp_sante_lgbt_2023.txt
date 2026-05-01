@@ -1,0 +1,1144 @@
+1
+N°47 - décembre 2023
+https://doi.org/10.1051/qsp/2023047
+La prise en compte de la santé des minorités de genre s’est souvent limitée aux enjeux liés aux opé-
+rations de réassignation et à l’idée d’une pathologie psychiatrique. Or, depuis quelques années, un 
+glissement s’est opéré : il ne s’agit plus seulement d’évoquer un « transsexualisme » et une popula-
+tion « souffrante », mais bel et bien des citoyens et des citoyennes devant accéder pleinement à leurs 
+droits, notamment concernant leur santé. Pourtant, en contexte français du moins, les connaissances 
+en la matière restent quelque peu lacunaires. Ce numéro de « Questions de santé publique » propose 
+alors un état de lieux de la santé des personnes trans en rassemblant des données nationales et inter -
+nationales afin de mieux cerner les enjeux autour de cette population.
+La santé des personnes trans
+Arnaud Alessandrin*
+1 La non-binarité pourrait se définir selon la typologie suivante : il s’agit là de personnes pouvant se reconnaître « parfois » dans le féminin, « parfois » dans le masculin ; ou bien des personnes pouvant s’identifier masculines « et » féminines (on employait jadis le terme 
+d’androgynie), ou bien encore des personnes ne se projetant « ni » dans le masculin « ni » dans le féminin. (Lire à cet égard : Alessandrin, A. (2023). Chapitre 4. Les catégories de genre à l’épreuve de la non-binarité ou encore Patricia Lemarchand éd., Qu’est-ce qu’une femme : 
+Catégories homme/femme : débats contemporains (p. 93-106). Paris : Éditions Matériologiques).« Transidentités » : de quoi parle-t-on ?
+Afin de comprendre ce qui se noue du 
+côté de la prise en compte de la santé 
+des personnes trans, certaines définitions 
+semblent nécessaires. D’une part, parler 
+de « personnes trans » ou de « personnes 
+transidentitaires », c’est souligner un écart 
+vis-à-vis de l’assignation de sexe faite à la 
+naissance et, simultanément, une déprise 
+avec le terme de « transsexualisme » 
+dont nous verrons qu’il renvoie principa-
+lement à une pathologie psychiatrique. 
+Autrement dit, parler de transidentités 
+c’est insister sur le fait qu’il ne s’agit plus 
+aujourd’hui d’évoquer les vécus de genre 
+minoritaires sous le registre de la patho-
+logie. Cette dépathologisation des termes 
+s’accompagne d’une reconnaissance de la 
+dimension « intime » et « identitaire » du 
+genre des personnes, ce que l’on nomme 
+plus généralement « l’identité de genre ». Cette dernière se définit comme une façon 
+d’être au genre, un équilibre toujours sin-
+gulier, qui peut se superposer parfaitement 
+ou s’éloigner radicalement de l’assigna-
+tion de sexe faite à la naissance. Aussi, le 
+terme de « transidentités » peut s’appré-
+hender comme un terme parapluie, qui 
+héberge tout autant les personnes trans, 
+que « non-binaires »1 ou fluides dans leur 
+genre. Dans la suite du texte, on utilisera 
+les termes « trans » ou « transgenre » par 
+soucis d’inclusion.
+Du point de vue des définitions médicales, 
+le vocabulaire utilisé a également connu 
+de nombreuses modifications. La psychia-
+trie internationale a récemment aban-
+donné le terme de « transsexualisme » 
+et s’accorde aujourd’hui sur le terme de 
+« dysphorie de genre ». Cette terminologie 
+est présente dans le DSM-5-TR [1], et qui 
+se divise en deux sous-ensembles de cri-tères diagnostiques : l’un à destination des 
+enfants et adolescents, l’autre des adultes. 
+Contrairement aux versions précédentes, 
+le DSM ne considère plus la « dysphorie 
+de genre » comme un trouble mais comme 
+une variante normale de l’identité et de 
+l’expression de genre humain. Néanmoins, 
+un diagnostic peut être approprié en cas 
+de détresse pouvant apparaître dans le 
+cas d’une dissonance entre le sexe attri-
+bué à la naissance et l’identité de genre 
+de la personne. Toutefois, ce changement 
+de nomenclature ne saurait être présenté 
+comme suffisant à la dépathologisation 
+des parcours de santé, encore bien souvent 
+soumis au diagnostic psychiatrique.
+Enfin, du point de vue chiffré, il est très 
+compliqué de mesurer la taille démo-
+graphique de cette population. En effet, 
+si la mesure s’effectue à partir des files 
+actives hospitalières, ou bien si la mesure 
+* Sociologue de l’université de Bordeaux, chercheur associé au LACES (EA 7437). A notamment publié « Santé LGBT » (Bord de l’eau, 2020) et « Sociologie des transidentité » (Cavalier bleu, 2023).
+
+2
+Décembre 2023Questions de santé publiqueest effectuée sur la base des prises en 
+charges (ALD pour Affection Longue 
+Durée), une grande partie des personnes 
+concernées tombent dans le chiffre noir 
+du décompte. Une récente étude tente 
+d’apporter un éclairage plus précis sur 
+cette mesure [2]. Les statistiques font 
+alors le grand écart. Selon les chiffres de 
+la Caisse Nationale d’Assurance Maladie 
+(CNAM), dévoilés par l’Inspection Géné-
+rale des Affaires Sociales (IGAS) en 2022 
+[3], il y aurait, en France, 8 952 sujets 
+titulaires d’une ALD pour transidentité 
+dont 3,3 % de mineurs (soit 294). Selon 
+cette mesure, la part pour 100 000 s’éta-
+blit comme suit : voir Tableau 1.
+Néanmoins, des études démographiques 
+en population générale tendent à faire 
+croitre cette proportion à près de 1 % 
+de la population [4]. Mais cette tentative 
+de chiffrage se confronte à un « halo » 
+définitionnel ne prenant pas toujours en 
+compte l’ensemble des personnes faisant 
+l’expérience d’oscillations, de change-
+ments, de négociations avec leur genre. 
+C’est pourquoi, quantifier la part des per -
+sonnes non-binaires dans la population 
+est également un enjeu [5].
+Mais cette multiplication des appella-
+tions de genre et cette augmentation sta-
+tistique sous-tend une autre dynamique, 
+plus générationnelle celle-ci. En effet, 
+certains recensements comme ceux 
+réalisés au Canada en 2021 témoignent 
+des différences générationnelles rela-
+tives à l’expression de ces identités.
+On retrouve les mêmes tendances du 
+côté des études plus spécifiques autour 
+des personnes non-binaires [6]. Ces don-
+nées nous permettent d’établir plusieurs 
+constats sociologiques. D’une part, nous 
+sommes certes sur une augmentation de 
+l’expression de ces « nouvelles » identi-
+tés de genre mais en aucun cas dans une 
+« épidémie », pour reprendre les termes 
+de la psychanalyste Elisabeth Roudinesco 
+[7]. D’autre part, les visibilités (médiatiques 
+notamment) et la création de termes adé-
+quats semblent ouvrir des possibilités 
+d’identification originales. Enfin, corré-
+lativement, s’opère une banalisation qui n’aboutit toujours pas pour autant à une 
+pleine intégration comme le montre le 
+maintien élevé d’un taux de transphobie [8].
+Des traitements et des protocoles
+L ’histoire des transidentités est intime-
+ment liée à celle des protocoles hospi-
+taliers de prise en charge et des cadres 
+définitionnels du « transsexualisme ». 
+En 1953, Harry Benjamin définit ce 
+trouble selon trois critères précis : le 
+dégout de son sexe, la volonté de chan-
+ger anatomiquement de sexe et la per -
+sistance de cette volonté depuis l’en-
+fance [9]. À travers cette définition ori-
+ginelle, des protocoles de santé seront 
+progressivement mis en place afin de 
+1 – diagnostiquer le trouble de « trans-
+sexualisme », 2  –  mettre en place les 
+conditions d’une hormonothérapie et 
+3  –  accompagner la personne vers une 
+opération. C’est notamment le cas dans 
+les « gender clinics » américaines dès 
+1970. Mais, en France, il faudra attendre 
+les années 1980 pour que la CNAM 
+reconnaisse des équipes hospitalières 
+(d’abord à Paris puis à Bordeaux, Lyon et Marseille) qui se spécialisent dans les 
+parcours de changement de genre [10].
+Inspirés par la définition d’Harry Ben-
+jamin, ces protocoles se structurent 
+autour de trois spécialités médicales : la 
+psychiatrie, l’endocrinologie et la chirur -
+gie [12]. Mais les associations [13] comme 
+les recherches en santé publique [14] 
+mettent en lumière la sélection effectuée 
+par ces protocoles et, in fine, l’errance 
+diagnostique et thérapeutique à laquelle 
+sont soumises bon nombre de per -
+sonnes trans. En effet, dès les premiers 
+protocoles mis en place, les nombreux 
+critères d’inclusion des patientes et des 
+patients éloignent les personnes trans 
+de l’offre de soins (des critères d’âge, de 
+sexualité, de taille, de complétude dans 
+la transition…). De plus, l’injonction au 
+suivi psychiatrique (parfois très long) est 
+vécue par les personnes trans comme 
+un « maltraitance clinique » [15].
+Depuis 2010, plusieurs rapports sou-
+lignent donc la nécessité de repenser 
+la prise en charge des personnes trans 
+en matière de santé. C’est le cas notam-
+ment du rapport de la Haute Autorité 
+de Santé (HAS) en 2010 qui percevait la 
+nécessité de créer des centres de réfé-
+rences respectueux de la diversité des 
+parcours de santé [16], ou de celui de 
+l’IGAS en 2022. Ce dernier rappelle que 
+« l’accès aux soins des personnes trans 
+en général et leurs parcours médicaux 
+de transition en particulier, restent 
+semés d’embuches. […] Les parcours de 
+transition pâtissent à la fois des aléas 
+dans les décisions de prise en charge 
+par les CPAM (Caisses primaires d’Assu-
+rance maladie) et des lacunes de l’offre Les aspects des transitions
+Parler de « transition » revient en réalité à prendre en compte une multitude de modifi-
+cations, plus ou moins définitives, qui ne sont pas toutes souhaitées par les personnes 
+trans. L ’une d’entre elles consiste en une modification du prénom d’usage ou du prénom 
+légal (ce qui nécessite une démarche à l’état civil). Une autre modification est celle de la 
+mention de sexe (ce qui nécessite une démarche juridique). Depuis 2016 [11], il n’est pas 
+nécessaire d’avoir suivi un traitement médical ou d’avoir été opéré pour obtenir cette modi-
+fication. Mais il est demandé au requérant de démontrer que le sexe indiqué sur l’état civil 
+ne correspond pas à son identité de genre par une somme de témoignages notamment. 
+Par conséquent, toutes les personnes trans ne demandent pas d’intervention génitale pour 
+obtenir une modification de leur mention de sexe. À l’inverse, d’autres interventions chirur -
+gicales ou esthétiques permettent aux personnes trans de mettre en accord leur genre 
+vécu avec leur expression de genre, comme par exemple la torsoplastie, la mammoplastie, 
+l’épilation ou la reconstruction du visage.
+Mais les possibilités de changements passent aussi par le prise d’hormonothérapies ou de 
+bloqueurs hormonaux qui viennent modifier ou ralentir l’apparition des signes secondaires 
+de sexuation (voix, pilosité, poitrine, etc.).
+Enfin, les transitions mobilisent également les codes vestimentaires et les normes sociales 
+du genre afin d’accompagner au mieux les personnes dans l’affirmation de leur genre. Loin 
+d’être binaires (féminin vs masculin), ces codes du genre brillent par leur inventivité.
+Tableau 1.
+Tranches d’âgeMoins 
+de 18 ans18-35ans 36-50 Plus de 50 Total
+Nombre de sujets titulaires 
+d’une ALD pour transidentité294 6,148 1,519 991 8,952
+Répartition par âge 3,3 % 68,7 % 17,0 % 11 % 100 %
+Proportion pour 100 000 2,2 42,11 12,11 4,3 14,09
+Source : CNAM (2020).
+3
+La santé des personnes trans
+N°47
+de soins. Ces difficultés compliquent 
+l’accès aux traitements hormonaux et à 
+la chirurgie d’affirmation et génèrent de 
+l’incertitude, des délais et de fortes iné-
+galités géographiques ».
+Au niveau international, au-delà des 
+évolutions de DSM, notons que la Clas-
+sification Internationale des Maladies 
+CIM-11 a également tenté de dépsychia-
+triser « l’incongruence de genre » en la 
+transposant des catégories liées à des 
+troubles psychiatriques vers celles rela-
+tives à la santé sexuelle des personnes. 
+Ainsi, la CIM-11 définit aujourd’hui « l’in-
+congruence de genre de l’adolescence 
+et de l’âge adulte » comme suit : « L ’in-
+congruence de genre de l’adolescence 
+et de l’âge adulte se caractérise par 
+une incongruité marquée et persistante 
+entre le genre vécu par un individu et le 
+sexe assigné, ce qui conduit souvent à 
+un désir de « transition », afin de vivre 
+et d’être accepté en tant que personne 
+du genre ressenti, par le biais d’un trai-
+tement hormonal, d’une intervention 
+chirurgicale ou d’autres services de 
+soins de santé pour aligner le corps de 
+l’individu, autant que souhaité et dans la 
+mesure du possible, avec le sexe vécu. 
+Le diagnostic ne peut être attribué avant 
+le début de la puberté. Le comportement 
+et les préférences de genre variant ne 
+sont pas à eux seuls une base pour attri-
+buer le diagnostic ».
+Par ailleurs, les critères de prise en 
+charge de la WPATH (World Professional 
+Association for Transgender Health) enté-
+rinent également cette dépsychiatrisa-
+tion et mettent l’accent sur la participa-
+tion des patients aux décisions qui les 
+concernent [17]. En France, l’association 
+« Trans santé » France (Anciennement 
+SOFECT pour Société Française d’Étude et 
+de prise en Charge du Transsexualisme) 
+regroupe un grand nombre de praticiens 
+et de praticiennes autour de la prise en 
+charge des transidentités. Réceptionnant 
+tardivement les évolutions internationales 
+en la matière, l’association se déclare 
+aujourd’hui en faveur d’une autodétermi-nation éclairée des patients, et reprend à 
+son compte le concept d’« auto-determi-
+nation » soutenu par la WPATH.
+Un rapport à la santé marqué par 
+la défiance et les discriminations
+La psychiatrisation des parcours de 
+santé des personnes trans aura pro-
+fondément marqué leur rapport aux 
+instances de santé. La sociologue de la 
+santé Anastasia Meidani en conclura que 
+les personnes trans ont trop longtemps 
+été situées « trop près du diagnostic, 
+trop loin du soin » [18].
+Au-delà des sphères de la psychiatrie, 
+méfiance et défiance, sont des senti-
+ments fortement partagés à l’égard des 
+professionnels de santé. Plus encore, 
+des discriminations dans l’accès aux 
+soins et dans les parcours de soins 
+apparaissent. Depuis une dizaine d’an-
+née, des enquêtes associatives, sociolo-
+giques ou médicales nous éclairent sur 
+ce phénomène. En 2011, l’association 
+trans « Chrysalide » rend publique une 
+première étude portant sur 187 per -
+sonnes [19]. Au total 16 % des répon-
+dant.e.s déclarent avoir subi des refus 
+de soins de la part de professionnel.le.s 
+de santé et 35 % déclarent avoir renoncé 
+à des soins du fait de comportements 
+transphobes. Une enquête de 2015 
+menée en France auprès de 384  per -
+sonnes trans aura par ailleurs montré 
+que plus de 40 % des personnes trans 
+se sont limitées dans leurs parcours de 
+soins ou dans l’accès à des parcours de 
+soins de peur d’un acte ou d’un propos 
+discriminant. Plus encore, 65 % d’entre 
+elles ont eu le sentiment d’avoir été dis-
+criminées au cours de leurs entretiens 
+de santé (tous médecins confondus). 
+À l’inverse, seules 15 % d’entre elles 
+osaient parler de leur identité de genre 
+à leurs soignant·e·s [20]. En 2020 une 
+autre étude portant sur la santé des per -
+sonnes LGBT souligne la même ampleur dans les phénomènes de censure, de 
+méfiance et de discriminations dans les 
+soins à l’égard des personnes trans [21]. 
+Dans cette étude, plus de 60 % des per -
+sonnes trans interrogées se déclarent 
+victimes de discriminations dans les 
+soins, dans les 12 derniers mois.
+Enfin, dans sa thèse portant sur la « santé 
+des personnes transgenres 2021 », Mar -
+gaux Cosne [22] étudie les comporte-
+ments de santé des populations trans à 
+travers une étude de 633 questionnaires. 
+La chercheuse relève alors que « plus 
+d’une personne sur deux avait été victime 
+de transphobie dans des lieux de soins et 
+que 45 % des interrogé.e.s évitaient les 
+lieux de soins en raison de la transpho-
+bie ». Plus encore, les résultats de son 
+étude démontrent que « 3 personnes 
+interrogées sur 4 rapportaient avoir peur 
+de subir de la transphobie en consulta-
+tion » et que « plus de 2  personnes sur 
+3 avaient déclaré avoir changé de pro-
+fessionnel·le·s de santé à cause de la 
+transphobie ».
+Il en découle des pratiques de santé qui 
+éloignent les personnes trans des offres 
+de soins. On assiste alors à des auto-
+médications, notamment dans la prise 
+d’hormones féminisantes ou masculini-
+santes ; phénomène que souligne notam-
+ment le rapport de l’IGAS sur la prise en 
+charge des personnes trans en France. 
+En retour, on assiste également à la créa-
+tion de réseaux de santé organisés par 
+les personnes trans elles-mêmes (ex : le 
+ReST reseausantetrans.fr). Les initiatives 
+locales se multiplient (parfois soutenues 
+par des maisons des adolescents ou par 
+des Agences Régionales de Santé) afin 
+de combler la distance entre une offre 
+de soin symboliquement, matériellement 
+et géographiquement éloignée des per -
+sonnes, et une population désireuse d’ac-
+céder à des soins de qualité. Une récente 
+publication portant sur la promotion de la 
+santé des personnes transgenre met en 
+lumière la nécessité de rapprocher les 
+savoirs communautaires des pratiques 
+cliniques afin d’assurer la mise en place 
+d’une politique de santé « pragmatique et 
+collaborative » [23].
+Mais au-delà des espaces de santé, il 
+demeure nécessaire de souligner le 
+« continuum » des violences transphobes 
+qui éloigne les personnes trans des insti-
+tutions, qu’il s’agisse des administrations 
+publiques [24], de l’espace public [25] ou de 
+l’école [26]. Dans une récente publication 
+du Bulletin Épidémiologique Hebdoma-
+daire, Annie Verter et Mogan Dumond Tableau 2.
+Transgenres et non binaires : la différence générationnelle
+Générations % de répondant.e.s trans ou non binaires
+Generation Z (née entre 1997 et 2006) 0,79
+Millennials (née entre 1981 et 1996) 0,51
+Generation X (née entre 1966 et 1980) 0,19
+Baby boomers (née entre 1946 et 1965) 0,15
+Personnes nées avant 1946 0,12
+Source : recensement canadien (2021).
+4
+Décembre 2023Questions de santé publiquesoulignent également que « trop peu 
+d’études françaises rendent compte de la 
+transphobie et de ses conséquences en 
+santé publique » [27].
+La santé psychique des personnes 
+trans
+Pourtant, la nécessité d’une prise en 
+charge globale des transidentités ne 
+fait plus aucun doute, et les chiffres en 
+matière de santé mentale sont alarmants. 
+Il serait alors vain de croire que l’impor -
+tance des soutiens médicaux (mais aussi 
+familiaux et scolaires) ne sont que des 
+questions de tolérance ou d’ouverture 
+d’esprit. Il s’agit là en réalité d’une ques-
+tion de santé publique. Une récente étude 
+danoise pointe du doigt la sur-suicidalité 
+des personnes trans : sur 3 759 personnes 
+trans interrogées, le taux de mortalité par 
+suicide s’éleva à 75 pour 100 000 pour les 
+personnes transgenres contre 21 pour les 
+personnes non transgenres [28].
+Mais la vulnérabilité psychique des per -
+sonnes trans ne renvoie pas uniquement 
+à une potentialité de la discrimination 
+(qui souvent s’avère réelle). Elle s’inscrit 
+aussi durablement dans d’autres traits 
+de la souffrance psychique comme la 
+dépression. La population des jeunes 
+trans est particulièrement touchée 
+par ceci. Ils et elles ont par exemple 
+un risque plus élevé de dépression 
+que leurs pairs cisgenres2 en raison 
+de la discrimination, du rejet social et 
+du manque de soutien. Une étude de 
+2018 menée aux États-Unis a révélé 
+que 51 % des jeunes trans âgés de 13 
+à 17  ans avaient présenté des symp-
+tômes dépressifs au cours de la dernière 
+année, contre « seulement » 13 % des 
+jeunes non-trans [29].
+D’autres éléments de la santé psychique 
+des personnes trans nous permettent 
+d’éclairer conjointement leur santé glo-
+bale. En outre, les troubles anxieux propres 
+à la communauté trans sont également 
+bien documentés. L ’étude de Heylens 
+et al. de 2013 [30] sur les différences 
+de prévalence de troubles psychia-
+triques chez les personnes trans-
+genres aura par exemple démontré 
+que 60 % des participants et parti-
+cipantes ont un trouble de l’humeur 
+(incluant les troubles dépressifs et les 
+2 Cisgenre : personne se reconnaissant dans le genre qui lui a été attribué à la 
+naissance.troubles bipolaires) et 28 % des troubles 
+anxieux. Ces chiffres se retrouvent égale-
+ment chez les plus jeunes parmi la popu-
+lation trans. Parmi les mineurs trans-
+genres, on note notamment une forte 
+prévalence de troubles anxieux (21 %), 
+de troubles de l’humeur (12 à 64 %), de 
+risques de comportement auto-agressif 
+(53 %) [31].
+En santé générale : des expériences 
+spécifiques
+Au-delà des enjeux de santé men-
+tale, la question des parcours de santé 
+générale des personnes trans se pose. 
+Qu’en est-il de la santé sexuelle des 
+minorités de genre ? Que savons-nous 
+de la santé scolaire des jeunes trans et 
+non-binaires ? Ou bien encore des effets 
+des hormonothérapies (notamment en 
+termes de cancérologie) ?
+Les personnes trans sont régulièrement 
+confrontées à des défis spécifiques en 
+matière de santé sexuelle en raison de 
+facteurs tels que la stigmatisation, la 
+discrimination ou bien encore les inéga-
+lités d’accès aux soins. La surcontami-
+nation au VIH et aux infections sexuel-
+lement transmissibles (IST) est attestée 
+par une très dense revue de la littérature 
+[32] qui met notamment en avant des 
+profils de population dites « à risques ». 
+C’est notamment le cas des personnes 
+en situation de prostitution ou bien 
+encore des migrantes et des migrants 
+trans qui subissent un éloignement vis-
+à-vis des structures de santé ainsi que 
+des pratiques à risques augmentées. 
+Les politiques de prévention [33] ou d’ac-
+cès aux soins [34] sont alors pointées du 
+doigt pour leurs lacunes en matière d’in-
+clusion des personnes trans, mais aussi 
+non-binaires.
+La question de la santé sexuelle des 
+personnes trans est à mettre en réso-
+nance avec les enjeux reproductifs qui 
+traversent cette population. En France, 
+l’accès à la conservation des gamètes 
+demeure un enjeu particulièrement cen-
+tral des politiques de santé publiques 
+à destination de cette population. À cet 
+égard, le rapport relatif à la santé et 
+aux parcours de soins des personnes 
+trans, publié par l’IGAS en 2022, préco-
+nise d’« Intégrer dans tous les parcours 
+de transition, une information sur l’im-
+pact des traitements sur la fertilité et 
+les démarches de préservation de cette dernière, à adapter dans le cas des 
+mineurs » et à « développer dans tous 
+les CECOS3 les démarches d’accompa-
+gnement de la préservation des gamètes 
+pour les personnes trans ».
+Mais d’autres spécificités apparaissent 
+dans les parcours de santé des per -
+sonnes trans. C’est le cas chez les 
+mineurs notamment et plus précisément 
+en matière de santé scolaire. La revue 
+de la littérature aura mis l’accent sur les 
+risques accrus de décrochage scolaire, 
+de phobies scolaires et de harcèlement, 
+aussi bien subis par les mineurs trans 
+et non-binaires au collège qu’au lycée 
+[35]. Du côté des enjeux de santé, les 
+conséquences du vécu scolaire de ces 
+jeunes s’esquissent progressivement : 
+troubles du comportement alimentaire 
+[36], comportements à risques [37]… Mais 
+là encore, les données demeurent très 
+massivement étrangères et très peu de 
+recherches, quantitatives, proviennent 
+de France.
+Dans la même dynamique, des 
+recherches plus récentes ont mis en 
+avant les expériences spécifiques des 
+personnes trans dans des parcours de 
+santé ciblés comme la cancérologie. 
+Ainsi, une récente étude portant sur 
+les différents types de cancer et sur les 
+risques associés aux transitions hor -
+monales, souligne que si « les preuves 
+actuellement disponibles ne montrent 
+pas une augmentation du risque oncolo-
+gique pour les personnes transgenres », 
+les publications restent « lacunaires » et 
+« des initiatives complètes de dépistage 
+et de prévention du cancer centrées sur 
+les hommes et aux femmes transgenres 
+sont nécessaires » [38]. Cette conclusion, 
+non spécifique aux parcours en cancéro-
+logie, est partagée par de nombreuses 
+publications internationales [39] comme 
+nationales [40]. L ’article de Leone et Tra-
+pani en 2023 conclue alors que « les 
+besoins des personnes transgenres et 
+de genres divers dans le continuum des 
+soins contre le cancer ne sont pas pris 
+en compte de manière optimale. Des 
+solutions efficaces sont nécessaires 
+pour offrir les meilleurs soins à chaque 
+patient dans un environnement centré 
+sur la personne et sensible à la diversité 
+des genres ». On notera néanmoins à cet 
+égard un nombre croissant d’études sur 
+la cancérologie appliquée aux personnes 
+trans, révélant l’innocuité oncologique 
+des traitements hormonaux [41].
+3 Centre d’Études et de Conservation des Œufs et du Sperme.❙ Directeur de publication : Rémy Slama ❙ Rédactrice en cheffe : Marion Cipriano ❙ Coordination : Laura Quéré, Caroline Beyer ❙ Comité de relec-
+ture interne : Marie Dinh, Caroline Beyer ❙ Questions de sant é publique est une publication de l’Institut pour la Recherche en Sant é Publique. 
+❙ Éditeur : EDP Sciences, 17, avenue du Hoggar, 91944 Les Ulis Cedex, France. Tél. : 06 09 34 98 84. E-mail : francois.flori@edpsciences.org. 
+❙ Éditrice : Martine Krief-Fajnzylberg. ❙ Création/maquette : Isabelle Benoit. Infographie/mise en page : Desk ❙ Dépôt légal : à parution – 
+ISSN : 1967-5615
+5
+La santé des personnes trans
+N°47
+Au-delà des idées reçues : prendre 
+en compte les mineurs trans
+Aujourd’hui, les controverses portent 
+moins sur l’accès aux soins des adultes 
+trans que sur les mineurs. En 2021, 
+plusieurs collectifs vont voir le jour 
+pour s’opposer à la prise en charge des 
+mineurs trans, notamment à leur médi-
+calisation. « L ’observatoire de la petite 
+sirene » est l’un d’entre eux. Fondé par 
+les psychanalystes Céline Masson et 
+Caroline Eliacheff, il postule dès ses pre-
+mières médiatisations que les mineurs 
+trans sont principalement touchés par 
+des troubles psychiatriques qui les font 
+confondre transidentité et orientation 
+sexuelle ou bien encore désir de chan-
+ger de genre et depression. Les jeunes 
+trans sont alors perçus comme des vic-
+times d’une prise en charge trop rapide, 
+conduisant à des regrets massifs. L ’une 
+des principales objections formulée par 
+ces opposants pourrait se formuler de la 
+sorte : les jeunes personnes trans sont 
+trop jeunes pour savoir ce qui relève de 
+leur réel désir. S’ils sont « trop jeunes » 
+c’est, d’une part, qu’ils ne peuvent pas 
+discerner le vrai du faux de leur identité. 
+D’autre part, leur jeune âge les sou-
+met à différentes formes d’influences 
+qui altèrent leur discernement. Au 
+total, prendre en charge des demandes 
+de transition ou des interrogations de 
+genre avant 18 ans relève, pour certains 
+auteurs, à une précipitation. Pour Caro-
+line Eliachef ou Céline Masson [42], on 
+assiste à une « fabrique de l’enfant trans-
+genre » sous la pression d’une « idéolo-
+gie trans » portée par des militantes et 
+militants trans bien trop écoutés par les 
+institutions (qu’il s’agisse de l’école ou 
+des institutios sanitaires). Pour Claude 
+Habib, la « question trans » [43] prend la 
+forme aujourd’hui d’une toute puissance 
+de l’enfant quitte à confondre identité de 
+genre et orientation sexuelle.
+À l’inverse, les associations trans 
+mettent en avant la nécessité d’une prise 
+en compte des mineurs trans ou non-bi-
+naires. Dans une publication soulignant 
+l’importance des démarches trans-af-
+firmatives (c’est-à-dire respectueuses 
+de l’identité de genre des personnes) 
+la pédopsychiatre Agnès Condat revient 
+sur les protocoles existants en France 
+(notament à Paris) et sur les contro-
+verses autour de l’accompagnement 
+de ces jeunes trans [44]. La chercheuse 
+souligne les nombreux fantasmes véhi-
+culés autour de cette question (notam-ment médiatiquement) et le sérieux des 
+équipes de prise en charge. Loin des 
+fictions laissant croire que ces équipes 
+endigueraient les jeunes personnes 
+trans ou non-binaires vers des interven-
+tions uniquement physiques (par chirur -
+gie, bloqueurs hormonaux ou hormo-
+nothérapie), nous assistons plutôt à la 
+réalisation de réseaux de santé, incluant 
+des médiations avec les parents, des 
+partenariats avec l’éducation nationale 
+ou des ateliers permettant de saisir les 
+conséquences des traitements proposés 
+mais jamais imposés.
+Aussi, une revue de la littérature per -
+met de mettre en lumière le fait que les 
+variances de genre chez les mineurs ne 
+sont ni réductibles à une mode, ni à des 
+influences médiatiques, ni à une confu-
+sion totale entre identité de genre et 
+orientation sexuelle [45].
+Ainsi, la CIM-11 définit l’incongruence 
+de genre chez les mineurs comme suit : 
+« L ’incongruence de genre de l’enfance 
+se caractérise par une incongruité 
+marquée entre le genre vécu/exprimé 
+d’un individu et le sexe assigné chez les 
+enfants prépubères. Cela inclut un fort 
+désir d’être d’un genre différent du sexe 
+assigné ; une forte aversion de la part de 
+l’enfant pour son anatomie sexuelle ou 
+ses caractéristiques sexuelles secon-
+daires anticipées et/ou un fort désir pour 
+les caractéristiques sexuelles secon-
+daires primaires et/ou anticipées qui 
+correspondent au sexe vécu ; et des jeux, 
+des jouets ou des activités et des cama-
+rades de jeu ou imaginaires qui sont 
+typiques du sexe expérimenté plutôt que 
+du sexe assigné. L ’incongruence doit 
+avoir persisté pendant environ 2  ans. 
+Le comportement et les préférences de 
+genre variant ne sont pas à eux seuls 
+une base pour attribuer le diagnostic ». 
+Mais là encore, cet effort de prise en 
+compte de cette population, ne peut pas 
+faire l’économie d’une critique portant 
+notamment sur la repathologisation des 
+identités de genre minoritaires (son-
+geons par exemple au terme d’« aver -
+sion » dans les éléments diagnostics 
+susmentionnés).
+En France, la prise en charge des 
+mineurs trans reste néanmoins très 
+problématique, du fait de l’absence 
+d’équipes de prise en charge sur l’en-
+semble du territoire et de la non harmo-
+niation des pratiques entre les équipe 
+existantes. D’autre part, les controverses 
+médicales récentes (comme l’accès aux 
+bloquants hormonaux ou à la torsoplas-tie pour les mineurs trans4) ont entrainé 
+une augmentation des propos et des 
+comportements transphobes5, éloignant 
+un peu plus encore les mineurs trans 
+d’une prise en charge optimale.
+Conclusion
+Dans son rapport d’analyse prospec-
+tive « Sexe, genre et santé », publié en 
+décembre 2020, la HAS soulignait l’impor -
+tance de prendre en compte la diversité 
+des genres afin de ne pas aggraver les iné-
+galités en santé. La HAS défend alors l’idée 
+d’une « formation qui permettrait à tous 
+les professionnels de santé d’avoir une 
+connaissance de base sur l’intersexua-
+tion6 et la transidentité et leur impact sur 
+la santé, ainsi que sur les comportements 
+à adopter pour une relation de soins en 
+confiance, serait nécessaire » (p. 149). 
+Les éléments exposés dans ce numéro 
+tendant à également insister sur l’impor -
+tance d’une meilleure sensibilisation à 
+ces questions au sein du monde médical, 
+mais aussi à encourager et soutenir les 
+recherches portant sur la santé des mino-
+rités de genre. À ce titre, de nombreuses 
+parts d’ombre demeurent, notamment 
+en matière de recherches quantitatives 
+comme qualitatives portant sur les expé-
+riences de santé particulières des per -
+sonnes trans et non-binaires (en géria-
+trie, en bariatrie ou en addictologie). Mais 
+au-delà de ces connaissances lacunaires, 
+le maintien de préjugés et de propos dis-
+qualifiant à l’égard des personnes devrait 
+pareillement nous interroger. Dans une 
+perspective de santé globale, la lutte 
+contre les discriminations transphobes ne 
+saurait être mise sous silence.
+4 Sollicitée par l’Assistance Publique des Hôpitaux de Paris, la section Éthique 
+et Déontologie du Conseil National de l’Ordre des Médecins a rendu son avis sur 
+la prise en charge chirurgicale des mineur·es trans. Cet avis renforce le droit 
+des adolescent·es trans à bénéficier de chirurgies, et plus particulièrement, des 
+torsoplasties (janvier 2023).
+5 L’étude de l’association des journalistes LGBT menée en 2022 sur 16 
+semaines auprès de 21 médias et 434 articles souligne « l’obsession » autour de 
+la question trans (et notamment des mineurs trans) et rapporte que seulement 
+51 % des articles étudiés sont de « bonne qualité » vis-à-vis de la question trans 
+respectueux des personnes trans.
+6 On définira l’intersexuation comme l’état d’une personne née avec des 
+caractéristiques sexuées primaires ou secondaires ne correspondant pas aux 
+attentes normatives du corps masculin ou féminin. Qu’il s’agisse de caractères 
+chromosomiques, endocriniens, physiques ou gonadiques, l’intersexuation 
+démontre qu’il existe un continuum entre les sexes et que les formes minoritaires 
+ne sont pas des « anomalies » mais des variations normales dans la sexuation 
+humaine. Lire à cet égard : Michal Raz, Intersexes : du pouvoir médical à 
+l’autodétermination, Cavalier Bleu, 2023.Remerciements
+L ’IReSP remercie tout particulièrement le 
+relecteur extérieur qui a accepté de mettre à 
+profit son expertise sur la thématique déve-
+loppée afin de relire ce numéro.
+6
+Décembre 2023Questions de santé publiqueRÉFÉRENCES
+1. Diagnostic and Statistical Manual, 5e version révisée.
+2. Tugaye Amélie, et al . Évolution de la prévalence et de l’incidence de 
+la dysphorie de genre en France depuis 2013 à partir des bases médi-
+co-administratives. Santé Publique 2022 ; vol. 34, n°HS2 : 145-50.
+3. IGAS, Rapport relatif à la santé et aux parcours de soins des per -
+sonnes trans, 2022.
+4. Zucker KJ. Epidemiology of gender dysphoria and transgender iden-
+tity. SexHealth 2017 ; 14(5) : 404-11
+5. Pour aller plus loin dans les écueils méthodologiques face à la 
+mesure de l’ensemble des minorités de genre et de sexualité : Trach-
+man Mathieu et Tania Lejbowicz. « Des LGBT, des non-binaires et des 
+cases. Catégorisation statistique et critique des assignations de genre 
+et de sexualité dans une enquête sur les violences ». Revue française de 
+sociologie 2018 ; vol. 59, n° 4 : 677-705.
+6. Alessandrin Arnaud et Anastasia Meidani. Santé des personnes non 
+binaires : de quoi parle-t-on ? Santé Publique 2022 ; vol. 34, n°HS2 : 97-102.
+7. Elisabeth Roudinesco. Soi-même comme un roi . Pars : Seuil, 2021.
+8. Alessandrin Arnaud. La transphobie en France : insuffisance du droit et 
+expériences de discrimination. Cahiers du Genre 2016 ; vol. 60, n° 1 : 193-212.
+9. Benjamin Harry. Transvestism and transsexualism. International 
+Journal of sexology 1953 ; n° 7 : 12-4.
+10. Sur l’histoire des transidentités, lire par exemple Beaubatie Emman-
+uel. Transfuges de sexe. Passer les frontières du genre . La Découverte, 
+2021 ; ou bien Alessandrin, Arnaud. Sociologie des transidentités . Cav-
+alier Bleu, 2023 (réed.).
+11. Décret n° 2017-890 du 6 mai 2017 relatif à l’état civil.
+12. Cordier Bernard, Chiland Colette, Gallarda Thierry. Le transsexual-
+isme, proposition d’un protocole malgré quelques divergences. Annales 
+Médico-Psychologiques 2001 ; n° 159 : 190-5.
+13. Tom Reucher. Quand les trans deviennent experts. Le devenir trans 
+de l’expertise. Multitudes 2005 ; n° 20 : 159-64.
+14. Giami Alain, Beaubatie Emmanuelle, Le Bail Jonas. Caractéristiques 
+sociodémographiques, identifications de genre, parcours de transition médi-
+copsychologiques et VIH/sida dans la population trans. Premiers résultats 
+d’une enquête menée en France en 2010. BEH 2011 ; n° 42 : 433-7.
+15. Françoise Sironi. Psychologie des transgenres et des transsexuels. 
+Paris : Odile Jacob, 2011.
+16. HAS. Situation actuelle et les perspectives d’évolution de la prise en 
+charge médicale du transsexualisme , 2010.
+17. Giami Alain et Lucie Nayak. Controverses dans les prises en charge 
+des situations trans : une ethnographie des conférences médico-scien-
+tifiques. Sciences sociales et santé 2019 ; vol. 37, n° 3 : 39-64.
+18. Meidani Anastasia et Arnaud Alessandrin. Cancers et transidentités : 
+une nouvelle population à risques ? Sciences sociales et santé 2017 ; 
+vol. 35, n° 1 : 41-63.19. Enquête Chrysalide. Santé Trans 2011 [en ligne].
+20. Arnaud Alessandrin, Karine Espineira. Sociologie des transidentités. 
+MSHA, 2016.
+21. Arnaud Alessandrin, Johanna Dagorn, Anastasia Meidani, Gabrielle 
+Richard et Marielle Toulze. Santé LGBT . Bord de l’eau, 2020.
+22. Margaux Cosne, Santé des personnes transgenres 2021. Étude 
+quantitative explorant la santé, l’accès aux soins et les discriminations 
+vécues par les personnes transgenres en France en 2021, Université de 
+Médecine, Montpellier (sous la dir. de Cyril Perrollaz).
+23. Baleige Anna, Mathilde Guernut et Frédéric Denis. Promouvoir la 
+santé des personnes transgenres et de genre divers au sein des sys-
+tèmes de santé : une revue systématique de la littérature communau-
+taire. Santé Publique 2022 ; vol. 34, n°HS2 : 197-211.
+24. Beaubatie Emmanuel. Apprendre à faire genre. Discriminations et 
+stratégies d’usagers·ères trans dans les services publics. Gouvernement 
+et action publique 2022 ; vol. 11, n° 1 : 109-30.
+25. Trachman M, Lejbowicz T. Lesbiennes, gays, bisexuel.le.s et trans 
+(LGBT) : une catégorie hétérogène, des violences spécifiques. In : Brown 
+E, Debauche A, Hamel C, Mazuy M (eds). Enquête sur les violences de 
+genre en France . Paris : Ined, Grandes enquêtes, 2020 : 335-90.
+26. Alessandri Arnaud. La prise en compte des élèves trans à l’école en 
+France. La nouvelle revue - Éducation et société inclusive 2022 ; vol. 93, 
+n° 1 : 229-44.
+27. Velter A, Dumond M. Focus. Encore trop peu d’études françaises 
+rendent compte de la transphobie et de ses conséquences en santé pub-
+lique. Bull Épidémiol Hebd 2021 ; (6-7) : 128-9.
+28. Erlangsen A, Jacobsen AL, Ranning A, Delamare AL, Nordentoft M, 
+Frisch M. Transgender Identity and Suicide Attempts and Mortality in 
+Denmark. JAMA 2023 ; 329(24) : 2145-53.
+29. Russell ST, Pollitt AM, Li G, Grossman AH. Chosen Name Use Is Linked 
+to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior 
+Among Transgender Youth. J Adolesc Health 2018 ; 63(4) : 503-5.
+30. Heylen G, et al. Psychiatric characteristics in transsexual individu-
+als: multicentre study in four European countries. The British Journal of 
+Psychiatry 2013 ; 204(2) : 151-6.
+31. Thomas D. Steensma, Baudewijntje P .C. Kreukels, Annelou L.C. de 
+Vries, Peggy T. Cohen-Kettenis. Gender identity development in adoles-
+cence. Hormones and Behavior 2013 ; vol. 64(2) : 288-97.
+32. Lire par exemple : Poteat TC, Radix A. HIV antiretroviral treatment 
+and pre-exposure prophylaxis in transgender individuals. Drugs 2020 ; 
+80 : 965-72. Andrzejewski J, et al . Medical Gender Affirmation and HIV 
+and Sexually Transmitted Disease Prevention in Transgender Youth: 
+Results from the Survey of Today’s Adolescent Relationships and Transi-
+tions. LGBT Health 2021 ; 8(3) : 181-9.
+33. Neumann MS, Finlayson TJ, Pitts NL, Keatley J. Comprehensive HIV Pre-
+vention for Transgender Persons. Am J Public Health 2017 ; 107(2) : 207-12.34. Harb CYW, Pass LE, De Soriano IC, Zwick A, Gilbert PA. Motivators 
+and Barriers to Accessing Sexual Health Care Services for Transgender/
+Genderqueer Individuals Assigned Female Sex at Birth. Transgend Health 
+2019 ; 4(1) : 58-67.
+35. Lire par exemple : Richard, Gabrielle et Clément Reversé. La vul-
+nérabilité scolaire des jeunes LGBTQI en France. Penser la marginalisation 
+accrue des élèves trans, non binaires et intersexes. Agora débats/jeu -
+nesses 2022 ; vol. 91 (n° 2) : 21-35. Ou bien encore : Alessandrin Arnaud. 
+La prise en compte des élèves trans à l’école en France. La nouvelle revue 
+- Éducation et société inclusives 2022 ; vol. 93 (n° 1) : 229-44.
+36. Pistella J, Ioverno S, Rodgers MA, Russell ST. The contribution of 
+school safety to weight-related health behaviors for transgender youth. 
+J Adolesc 2020 ; 78 : 33-42.
+37. Rutherford L, Stark A, Ablona A, Klassen BJ, Higgins R, Jacobsen H, 
+Draenos CJ, Card KG, Lachowsky NJ. Health and well-being of trans and 
+non-binary participants in a community-based survey of gay, bisexual, 
+and queer men, and non-binary and Two-Spirit people across Canada. 
+PLoS One 2021 Feb 11 ; 16(2).
+38. Sterling J, Garcia MM. Cancer screening in the transgender popula-
+tion: a review of current guidelines, best practices, and a proposed care 
+model. Transl Androl Urol 2020 Dec ; 9(6) : 2771-85.
+39. Leone AG, Trapani D, Schabath MB, et al . Cancer in Transgender and 
+Gender-Diverse Persons: A Review. JAMA Oncol 2023 ; 9(4) : 556-63.
+40. Alessandrin Arnaud, Anastasia Meidani, Jean Pierre Droz. Minorités 
+de genre et minorités sexuelles : des inconnus du parcours de soins en 
+cancérologie. Bulletin du Cancer 2023 ; 110/1 : 129-35.
+41. De Nie I, Wiepjes CM, De Blok CJM, Van Moorselaar RJA, Pigot GLS, 
+Van Der Sluis TM, et al . Incidence of testicular cancer in trans women 
+using gender‐affirming hormonal treatment: a nationwide cohort study. 
+BJU International 2022 Apr ; 129(4) : 491-7.
+42. Caroline Éliacheff et Céline Masson. La fabrique de l’enfant trans -
+genre . L’observatoire, 2022.
+43. Claude Habib. La question trans . Paris : Gallimard, 2021.
+44. Condat et al. La prise en charge des enfants, adolescentes et adoles-
+cents transgenres en France : controverses récentes et enjeux éthiques. 
+Neuropsychiatrie de l’enfance et de l’adolescence 2022 ; 70/8.
+45. Lire notamment : Annie Pullen Sansfaçon, Denise Medico. Jeunes 
+trans et non binaires : de l’accompagnement à l’affirmation. Éditions 
+Remue-ménage, 2021. Ou bien : Arnaud Alessandrin. Jeunesse : de nou -
+velles identités de genre . Paris : Documentation française, 2023.
+L ’Institut pour la Recherche en Santé Publique 
+(IReSP) est un groupement d’intérêt scientifique 
+(GIS) associant 12 membres. Depuis le 29 mai 2020, 
+il est placé sous la direction de Rémy Slama.
+L ’IReSP a pour objectif le développement, la struc-
+turation et la promotion de la recherche française 
+en Santé Publique afin de renforcer les interventions 
+et politiques visant à l’amélioration de l’état de santé 
+et de bien-être de la population. L ’Institut soutient 
+notamment la recherche en promotion de la santé 
+et prévention, la recherche sur les services et poli-
+tiques de santé, la recherche en santé publique et 
+sciences humaines et sociales relatives à l’autono-
+mie en lien avec l’âge et en lien avec le handicap.
+L ’objectif général se décline au travers de 5 missions :
+❙ développer et animer les échanges entre les déci-
+deurs publics, les institutions impliquées dans la 
+recherche et la surveillance en santé publique, les chercheurs et les autres acteurs intéressés aux 
+enjeux de santé publique ;
+❙ contribuer à l’animation et à la coordination des
+communautés de recherche en santé publique ;
+❙ élaborer et gérer des Appels à Projets ;
+❙ accroître la visibilité et faciliter l’accès aux résultats 
+de la recherche en santé publique à un large public ;
+❙  promouvoir l’association des parties prenantes 
+aux démarches de recherche notamment dans une 
+ perspective de recherche participative.
+Afin de pallier le manque de visibilité des résul-
+tats de la recherche en Santé Publique en France, 
+l’IReSP a décidé de créer ce bulletin trimestriel à 
+large diffusion intitulé Questions de Santé Publique. 
+Chaque trimestre, un sujet de recherche en Santé 
+Publique intéressant le grand public est traité par 
+un ou plusieurs chercheurs.Membres du GIS IR esP
+Caisse Nationale de l’Assurance Maladie des Tra-
+vailleurs Salariés (CNAM), Caisse Nationale de 
+ Solidarité pour l’Autonomie (CNSA), Centre National 
+de la Recherche Scientifique (CNRS), Direction 
+Générale de la Santé (DGS), Direction de la recher -
+che, des études, de l’évaluation et des statistiques 
+(DREES), Direction générale de la Recherche et de 
+l’Innovation (DGRI), Institut National de la Santé et 
+de la Recherche Médicale (Inserm), Institut National 
+du Cancer (INCa), Institut National d’Études Démo-
+graphiques (INED), Institut de Recherche pour le 
+Développement (IRD), Mission Interministérielle de 
+Lutte contre les Drogues et les Conduites Addictives 
+(Mildeca), Santé publique France.
+Cet article ainsi que les précédents numéros de Questions de Santé Publique sont téléchargeables sur le site internet de l’IReSP : www.iresp.net
+7
+La santé des personnes trans
+N°47
+Recommandations de l’auteur pour aller plus loin
+Alessandrin, Arnaud. Sociologie des transidentités. 
+Le Cavalier Bleu, 2023
+La revue du crieur, 
+La puissance des savoirs trans’ , n° 22, 2023
+Santé publique, Santé des minorités sexuelles, 
+sexuées et de genre, 2022/HS2 (Vol. 34)
+Beaubatie, Emmanuel. Transfuges de sexe. 
+Passer les frontières du genre. La Découverte, 2021
+8
+* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.netOui je souhaite me ré-inscrire pour continuer à recevoir gratuitement en format papier* le bulletin
+de l’IReSP « Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+OU
+→ informations d’inscription à renvoyer directement par e-mail
+à l’adresse suivante : qsp@edpsciences.org* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.netOui je souhaite me ré-inscrire pour continuer à recevoir gratuitement en format papier* le bulletin
+de l’IReSP « Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+OU
+→ informations d’inscription à renvoyer directement par e-mail
+à l’adresse suivante : qsp@edpsciences.org
+* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.netOui je souhaite me ré-inscrire pour continuer à recevoir gratuitement en format papier* le bulletin
+de l’IReSP « Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+OU
+→ informations d’inscription à renvoyer directement par e-mail
+à l’adresse suivante : qsp@edpsciences.org
+* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.netOui je souhaite me ré-inscrire pour continuer à recevoir gratuitement en format papier* le bulletin
+de l’IReSP « Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+OU
+→ informations d’inscription à renvoyer directement par e-mail
+à l’adresse suivante : qsp@edpsciences.org* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.netOui je souhaite me ré-inscrire pour continuer à recevoir gratuitement en format papier* le bulletin
+de l’IReSP « Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+OU
+→ informations d’inscription à renvoyer directement par e-mail
+à l’adresse suivante : qsp@edpsciences.org
+* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.netOui je souhaite me ré-inscrire pour continuer à recevoir gratuitement en format papier* le bulletin
+de l’IReSP « Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+OU
+→ informations d’inscription à renvoyer directement par e-mail
+à l’adresse suivante : qsp@edpsciences.org
+* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.net 
+Bulletin d'inscription 
+IReSP - Institut pour la Recherche en Santé Publique 
+Paris Biopark Bâtiment A – 1er étage 8, rue de la croix Jarry , Paris, 75013
+info@iresp.netOui je souhaite m'inscrire pour recevoir gratuitement en format papier* le bulletin de l’IReSP 
+« Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+ 
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+ 
+OU
+ 
+→ informations d’inscription à renvoyer directement par e-mail 
+à l’adresse suivante : qsp@edpsciences.orgLa revue Questions de Santé Publique existe aussi en format numérique ! 
+Si vous souhaitez continuer de recevoir la revue en form at papier, veuillez vous inscrire à l'aide de ce formulaire. 
+Si vous souhaitez recevoir la revue en format numérique, veuillez vous renseigner sur notre site internet www.iresp.net 
+* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.netOui je souhaite me ré-inscrire pour continuer à recevoir gratuitement en format papier* le bulletin
+de l’IReSP « Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+OU
+→ informations d’inscription à renvoyer directement par e-mail
+à l’adresse suivante : qsp@edpsciences.org
+* Du fait de sa gratuité l’abonnement papier est limité à une impression en 3 000 exemplaires. En cas de dépassement de ce nombre, les
+abonnements papiers pourront faire l’objet d’un tri avec priorité donnée aux inscrits appartenant à des institutions publiques de recherche
+ou prévention et établissements scolaires et limitation du nombre d’abonnés pour une même institution. L'abonnement à la revue en
+format numérique reste disponible sans limite de nombre d'inscrits directement depuis notre site internet www.iresp.netOui je souhaite me ré-inscrire pour continuer à recevoir gratuitement en format papier* le bulletin
+de l’IReSP « Questions de Santé Publique »
+Informations d’inscription : 
+NOM……………………………………………………………………………………………..
+Prénom…………………………………………………………………………………………
+Institution…………………………………………………………………………………..
+Fonction…………………………………………………………………………………….
+Adresse ………………………………………………………………………………………..
+Ville…………………………………..…………….Code Postal…………………………
+Pays ……………………………………………………………………………………………..
+Mail de contact ……………………………………………………………………………
+→ Bulletin à retourner par voie postale à cette adresse :
+Questions de santé publique
+EDP Sciences
+17, avenue du Hoggar, PA de Courtaboeuf
+91944 Les Ulis Cedex A, France
+OU
+→ informations d’inscription à renvoyer directement par e-mail
+à l’adresse suivante : qsp@edpsciences.org

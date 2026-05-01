@@ -1,0 +1,2812 @@
+HAL Id: hal-03562909
+https://hal.science/hal-03562909v1
+Submitted on 9 Feb 2022
+HAL is a multi-disciplinary open access archive
+for the deposit and dissemination of scientific re-
+search documents, whether they are published or not.
+The documents may come from teaching and research
+institutions in France or abroad, or from public or pri-
+vate research centers.L’archive ouverte pluridisciplinaire HAL , est des-
+tinée au dépôt et à la diffusion de documents scien-
+tifiques de niveau recherche, publiés ou non, émanant
+des établissements d’enseignement et de recherche
+français ou étrangers, des laboratoires publics ou
+privés.
+Copyright - All rights reserved
+Devenir non-binaire en français contemporain
+Vinay Swamy, Louisa Mackenzie
+To cite this version:
+Vinay Swamy, Louisa Mackenzie (Dir.). Devenir non-binaire en français contemporain. Le Manuscrit, 2022,
+Genre(s) et création, Sylvie Brodziak, 9782304052428. ⟨hal-03562909⟩
+Durant ces dernières années, la visibilité des personnes non-
+binaires qui revendiquent publiquement en anglais et en 
+français leur identité au-delà du genre binaire s’est largement 
+accrue. Alors que le singulier «  they  » a gagné la faveur de 
+nombreuses personnes dans les espaces anglophones, les 
+personnes francophones non-binaires ont dû faire face à 
+d’autres défis concernant la langue et la syntaxe, étant donnée 
+la nature binaire de la grammaire française elle-même. Ce 
+volume collectif examine les tentatives récentes visant à mettre 
+à la disposition de tout le monde une langue et des identités 
+équitables, inclusives et expansives au sein des espaces 
+linguistiques, culturels et pédagogiques francophones. De ce 
+fait, Devenir non-binaire en français contemporain conteste 
+l’idée reçue du genre non-conforme comme simple importation 
+d’outre-Atlantique, d’un modèle identitaire à la base américaine.
+Vinay Swamy est professeur d’études françaises et francophones 
+à Vassar College, New York. 
+Louisa Mackenzie est professeure associée d’études françaises à 
+l’Université du Washington, Seattle.
+27,90 €
+ISBN 978-2-304-05242-8
+Devenir non-binaire 
+en français contemporainVinay Swamy et Louisa MackenzieSous la direction de Vinay Swamy et Louisa Mackenzie
+Devenir non-binaire 
+en français contemporain
+Devenir non-binaire 
+en français contemporainSous la direction de 
+Vinay Swamy et Louisa Mackenzie 
+Savoirs
+Savoirs
+GENRE(S) ET CRÉATION
+GENRE(S) ET CRÉATIONCouverture : Alexis Amen
+Devenir non-binaire 
+en français contemporain
+Dans la même collection
+Fictions documentées , Amarie Petitjean, 2020
+Le Féminin chez J.-M.G Le Clézio, Christelle Sohy, 2010
+Noirs secrets , Christiane Chaulet Achour, 2009
+Féminité et expression de soi , Brigitte Riéra, 2008
+Le corps à l’œuvre , Sylvie Brodziak, 2007
+Pères en textes - Médias et Littérature , Christiane Chaulet Achour, 2006
+Frontières des genres , Christiane Chaulet Achour, 2006
+Conte et narration au féminin , Christiane Chaulet Achour, 2005
+ 
+ISBN 978-2-304-05242-8 
+© janvier 2022
+SouS la direction de 
+Vinay Swamy et louiSa mackenzie
+Devenir non-binaire 
+en français contemporain
+Collection Genre(s) et création
+Éditions Le Manuscrit 
+Paris
+vii
+La collection 
+Genre(s) et création
+À l’heure du combat pour la reconnaissance du droit à 
+l’autodétermination de l’identité de genre, la création, sous 
+toutes ses formes, demeure le lieu privilégié pour la révéler 
+et l’affirmer. Qu’elle soit littéraire, artistique ou scientifique, 
+il s’agit de questionner, de déconstruire, de subvertir les 
+classifications sociales et culturelles du féminin et du masculin 
+fabriquées par le système sexe/ genre binaire et normatif. 
+Cette collection se propose d’une part de publier en langue 
+française des ouvrages théoriques fondamentaux pour la 
+réflexion, d’autre part de faire connaître des travaux de 
+recherche susceptibles d’enrichir les savoirs et de dynamiser 
+les pratiques.
+ix
+Sommaire
+Avant-propos
+Karine Espineira xiii
+Introduction 
+Vinay Swamy et Louisa Mackenzie 1
+1. « Le masculin l’emporte » : stratégies linguistiques et 
+politiques de genre dans les associations LGBT+ en France
+Flora Bolter 21
+2. Briser le silence, occuper l’absence : transféminismes 
+francophones et (in)justices épistémiques
+Alexandre Baril 45
+3. « Faut-il choisir ? » : non-binarité et transidentité dans les 
+cours de langue française
+Blase A. Provitola 73
+Devenir non-binaire en français contemporain4. Réflexions transnationales sur la corporéité des pronoms 
+non-binaires
+Logan Natalie O’Laughlin 103
+5. Variation interculturelle de la perception du spectre 
+masculin-féminin : indexation française et américaine 
+de la voix genrée
+Maria Candea et LeAnn Brown 127
+6. Par-delà la pensée binaire franco-américaine 
+sur le genre non-binaire
+Louisa Mackenzie 155
+7. Un déclic Gestalt pour la langue française : 
+arguments pour un genre non-binaire.
+Vinay Swamy 187
+8. Devenir non-binaire : un entretien avec Alpheratz 
+Louisa Mackenzie et Vinay Swamy 221
+Glossaire
+xi
+Remerciements
+La publication de ce volume n’aurait pas été possible 
+sans la bienveillance et le soutien de plusieurs personnes et 
+institutions.
+Notre reconnaissance profonde va à Simona Crippa 
+d’avoir présenté ce projet au comité scientifique des Éditions 
+Le Manuscrit, et à Sylvie Brodziak et ses collègues pour avoir 
+reconnu la pertinence du sujet, ce qui nous a permis de le 
+publier sous sa présente forme.
+Notre gratitude va aussi à Domitille Carlier et à Clarisse 
+Faganello des Éditions Le Manuscrit pour nous avoir 
+accompagné·es tout au long de la préparation à la publication 
+du manuscrit, et à Alexis Amen pour avoir conçu la couverture 
+pour ce livre.
+Les chapitres 2, 4, 5, 7 et 8 ont été publiés dans une 
+version antérieure en 2019 dans H-France Salon (n° 11, 14). 
+Nous tenons à remercier les éditeurs de H-France, David 
+Kamerling, Patrick Bray et Lia Brozgal, de nous avoir donné 
+la permission pour reprendre ce travail. Ces chapitres ont été 
+Devenir non-binaire en français contemporainentièrement revus et mis à jour avant d’être traduits, le cas 
+échéant, en français. 
+Une partie du chapitre 2, d’Alexandre Baril, a paru en 
+anglais en 2016 dans TSQ : Transgender Studies Quarterly, publié 
+par Duke University Press.
+Nous voudrions aussi remercier Catriona LeBlanc et 
+Églantine Morvant dont la bonne volonté et l’esprit ouvert 
+ont tant enrichi nos échanges et nous ont permis d’établir 
+de manière collaborative la traduction en français des textes 
+parus dans les chapitres 2, 3, 4, 6 et 7.
+Les fonds établis par Gabrielle Snyder Beck à Vassar 
+College, et ceux fournis par le doyen des humanités à 
+l’Université du Washington ont rendu possible la traduction 
+des chapitres rédigés en anglais. Pour ce soutien de nos 
+universités respectives, nous sommes très reconnaissant·es. 
+Nos remerciements sincères vont aussi à la commission 
+franco-américaine Fulbright pour avoir accordé à Vinay 
+Swamy le temps nécessaire pour travailler sur ce projet, et 
+au Simpson Center for the Humanities à l’Université de 
+Washington pour avoir accordé à Louisa Mackenzie une 
+bourse de recherche pour l’année universitaire 2021-22.
+Avant tout, nous tenons à remercier nos étudiant·es, sans 
+qui cet ouvrage n’aurait jamais vu le jour.
+Vinay Swamy et Louisa Mackenzie
+Décembre 2021
+xiii
+Avant-propos
+Karine Espineira
+Pour une généalogie de la non-binarité : « trans-former » 
+l’utopie en réalité
+Il est courant d’entendre ou de lire que telle mode ou tel 
+mouvement venu des États-Unis, influence en mal ou en 
+bien, la culture française. Ces discours sont inscrits dans la 
+culture politique et populaire, et entretiennent une forme 
+de tension avec l’idée d’une spécificité culturelle française, 
+depuis la création du ministère de la Culture confié à André 
+Malraux en 1959, par le Premier ministre Michel Debré, 
+sous la présidence du Général de Gaulle. On a interrogé 
+les anglicismes en termes d’enrichissement ou de danger 
+(Pergnier, 1989) tout en les inventoriant (Bonnaffé, 1920), 
+questionné l’influence du cinéma américain en termes 
+d’impérialisme et de culturalisme (Dupond, 2007 ; Bidaud, 
+2017 ; Conesa, 2018) ou encore pensé « l’américanisation » du 
+monde (Boltanski, 1981 ; Bossuat, 1992 ; Kuisel, 1993, 2001 ; 
+Sauvageau, 1999 ; Lescent-Giles, Barjot, Ferrière, 2002). On 
+xiv
+Devenir non-binaire en français contemporainen oublierait presque que le cinéma français, comme « passeur 
+culturel » et « agent d’influence » (Dubosclard, 2004), a 
+inspiré le cinéma américain, ou encore que la French Theory est 
+apparue dans les universités françaises dans les années 1960, 
+avant d’investir les universités américaines grâce à Simone de 
+Beauvoir, Hélène Cixous, Gilles Deleuze, Jacques Derrida, 
+Michel Foucault, Félix Guattari, Julia Kristeva ou encore 
+Monique Wittig, entre autres.
+Ces dernières années, parmi les phénomènes qu’on pense 
+venus des États-Unis, le genderfluid (oscillation entre masculinité 
+et féminité), la cancel culture (culture de l’effacement) ou 
+call out culture (culture de la dénonciation), le « wokisme » 
+(conscience des injustices et des oppressions sur les 
+minorités). Dans les médias généraux, tous ces mouvements, 
+courants ou phénomènes, donnent lieu à des débats sur leurs 
+bienfaits ou leurs dérives. La non-binarité ne semble pas 
+connaître le même sort, pour l’instant du moins, en l’état de 
+nos connaissances1. Que des professeur·es états-unien·nes2 
+enseignant la langue française et les cultures francophones, 
+s’intéressent à nous, pays traversé par un certain complexe 
+(« c’est mieux ailleurs » ou « on est toujours en retard sur les 
+USA ») et par une certaine arrogance (« l’exception culturelle 
+française »), montre à quel point un phénomène est à la fois 
+individuel et collectif, général et spécifique, et que, de fait, 
+il n’y a pas de porte-drapeau ni de meneur quand les idées 
+dépassent les frontières réelles et symboliques.
+Si la terminologie non-binaire est récente, doit-on dater 
+l’émergence des personnes et cultures non-binaires en 
+conséquence, et de fait, l’appréhender comme un phénomène 
+1 La polémique déclenchée par l’inclusion, dans l’édition en ligne du 
+dictionnaire Le Robert, de « iel » et quelques variantes, s’est produite trop 
+tard dans l’édition de ce texte pour en parler ici.
+2 C’est l’occasion de remercier chaleureusement Louisa Mackenzie et 
+Vinay Swamy.
+Avant-propos
+xvgénérationnel et concernant uniquement la génération Z 
+(personnes nées entre 1997 et 2010) ? Pour donner une 
+perspective à ce questionnement, on peut se référer à la 
+chercheure indépendante transféministe non-binaire Maud-
+Yeuse Thomas, qui met à mal ce postulat, selon nous formulé 
+trop hâtivement par des sociologues dans les médias généraux 
+et communautaires, dans le contexte francophone.
+Entre 2005 et 2007, Maud-Yeuse Thomas étend le 
+paradigme trans, le plus souvent cantonné à des perspectives 
+médicales et juridiques. Dans une communication intitulée 
+« La société binaire en question » donnée au colloque 
+international Les LGBTI : Évolution des représentations sociales 
+et révolutions culturelles3, elle interroge la société binaire et 
+fait usage du terme « intergenre », non pas pour se placer 
+dans un « 3e genre », mais pour déborder le système binaire 
+d’identification de genre, inapte en l’état, à traduire son vécu 
+et ses expériences de vie. Au-delà de cet exemple, il existe 
+probablement d’autres réflexions et pensées susceptibles 
+de s’inscrire dans une généalogie de la non-binarité. La 
+pertinence de cette généalogie s’affirme d’ailleurs avec des 
+études récentes sur la non-binarité, menées par de jeunes 
+chercheur·es parfois trans et/ou-binaires, dont Luciole 
+Cantournet, avec un travail intitulé La non-binarité au prisme des 
+trans studies (2021)4.
+L’enquête de Bianca D.M. Wilson et d’Ilan H. Meyer 
+(William Institute, au sein de la faculté de Droit de l’Université 
+de Californie à Los Angeles)5, estime qu’aux États-Unis, sur 
+3 Dans le cadre des Universités d’été euroméditerranéennes des homo-
+sexualités (UEEH), 2007.
+4 Il s’agit de l’une de mes étudiantes, qui a proposé cette étude dans un 
+mémoire du master 1 Études de genre, Université Paris 8. Ayant dirigé ce 
+travail, en partie inédit, il me semble important de lui attribuer l’idée de 
+cette généalogie. 
+5 Le Williams Institute est un centre de recherche sur l’orientation 
+sexuelle, l’identité de genre et les politiques publiques. Il se donne pour 
+xvi
+Devenir non-binaire en français contemporainune population de 328 millions, environ 1,2 million seraient 
+des personnes non-binaires. L’enquête a notamment intégré 
+la génération X (personnes nées entre 1965 et 1980) et une 
+partie des baby-boomers (personnes nées entre 1946 et 1965). 
+En considérant la tranche d’âge des 52-59 ans, on relativise 
+à nouveau l’idée que la non-binarité ne concernerait que la 
+génération Z. 
+La question « qu’est-ce que le genre quand il n’est ni 
+exclusivement masculin ni exclusivement féminin ? », ne suffit 
+plus pour nommer et décrire les personnes non-binaires, qui 
+ne sont pas apparues soudainement. Le vécu non-binaire a 
+aussi une histoire qui dépasse l’émergence des terminologies, 
+à l’image de l’expérience de vie trans qu’on ne peut se 
+contenter d’expliquer par les progrès de la médecine. Les 
+travaux du médiéviste Clovis Maillet (2020) et de l’historienne 
+Gabrielle Houbre (2012) démontrent que, sans tomber dans 
+le piège des anachronismes, des vécus transgenres existent 
+depuis des siècles suivant des conditions sociohistoriques 
+données. Les « franchissements de genre » (Thomas, 2014) 
+ne peuvent donc se réduire aux opérations de Lili Elbe en 
+1930 ou de Christine Jorgensen en 1953 ni aux transitions 
+« homme vers femme ».
+Comment nommer l’entre-deux, le mélange des deux ou 
+aucun des deux, sinon en engageant une entreprise de 
+déconstruction de la cisnormativité (Bauer & al., 2009), et 
+plus précisément de l’idée que toutes les personnes sont 
+cis (Buijs, 19956 ; Schilt et Westbrook, 2009 ; Enke, 2012 ; 
+Aultman, 2014) ? Est-ce que toutes les personnes deviennent 
+uniquement hétérosexuelles ? La réponse est négative bien 
+objectif de veiller « à ce que les faits – et non les stéréotypes – éclairent les 
+lois, les politiques et les décisions judiciaires qui touchent la communauté 
+LGBT ».
+6 Communément, le terme est attribué au hollandais Carl Buijs, sur un 
+fil d’échanges (newsgroup). Voir par exemple : https://bit.ly/3DeOrMp.
+Avant-propos
+xviientendu. Il en va de même, pour la réponse à la question : 
+est-ce que tous les mâles et toutes les femelles deviennent 
+inéluctablement et irrémédiablement des garçons et des filles, 
+des hommes et des femmes ? 
+Les questions non-binaires entretiennent des liens avec les 
+questions trans, mais pour autant, on ne peut les confondre 
+au risque de plier les unes aux autres. Patricia Porchat indique 
+qu’avec le terme non-binaire il ne s’agit pas « de considérer 
+une transition d’un sexe vers un autre » (Porchat, 2020, 
+123), mais plutôt « l’idée d’un cheminement identitaire 
+vers un genre alternatif au genre assigné à la naissance » 
+(Poirier et al., 2019, 2)7. De son côté, Maud-Yeuse Thomas 
+questionne la définition que l’on retrouve couramment sur 
+Internet, se résumant à un « ni exclusivement masculin ni 
+exclusivement féminin », estimant que l’on entérine alors 
+« un fait, phénomène ou processus dans un jeu négatif à 
+somme nulle : ni-ni »8. Elle pose la question du risque du 
+cantonnement de la non-binarité à un artefact linguistique 
+socialement construit, pour les « contre » (les détracteurs), 
+sur l’idée d’un échec à être exclusivement dans le masculin 
+ou exclusivement dans le féminin. À sa suite, posons la 
+question : « que sont les masculinités et les féminités vues de 
+l’espace non-binaire ? » Afin de mettre l’accent non pas sur 
+l’exclusivité (être exclusivement l’un ou l’une), mais plutôt sur 
+la mise à distance de cet « autre genre » ou cet espace « hors 
+du genre », qui ne sont ni un échec, ni un arrachement, ni un 
+opposé, ni une idée folle, ni un effet de vogue ou de mode.
+7 Cités par Patricia Porchat (2020).
+8 Propos recueillis dans un entretien informel courant août 2021, dans le 
+cadre de deux projets. Celui de cet avant-propos et d’une co-écriture d’un 
+ouvrage à paraître aux éditions du Cavalier Bleu en 2022, ouvrage consa-
+cré aux idées reçues sur la transidentité et comportant plusieurs parties 
+sur la non-binarité.
+xviii
+Devenir non-binaire en français contemporainMaud-Yeuse Thomas indique qu’à coups d’hypothèses 
+et d’hyperfocales, on risque de ne plus appréhender que 
+des microphénomènes des questions TNBI+9, réduits à 
+des questions d’individus, perçus comme contestataires, 
+perplexes ou perdus, éveillés ou délirants, etc. Ne risque-
+t-on pas de passer à côté des phénomènes sociaux, des 
+questions sociales ? Pour illustrer cette idée, rappelons les 
+mots du psychologue-clinicien Tom Reucher : « La théorie 
+psychanalytique pense que la transsexualité est une question 
+individuelle et intérieure – ignorant donc les groupes et 
+mouvements politiques trans » (Reucher, 2005, 161). Ramené 
+à l’individu, sans héritage et donc sans mémoire et sans outil, 
+s’institue le « point zéro » où chacun·e est amené·e à penser 
+être le point de départ de « quelque chose d’impensé » dans 
+l’histoire d’une transgression (parfois infantilisée : « l’effet de 
+mode », « ça va passer ») de la société patriarcale. Les attaques 
+contre les personnes trans et non-binaires10, comportent 
+aussi des voix en faveur des mutilations sur les enfants 
+intersexes. On attribue aux TNBI+ les dégâts générés par la 
+mondialisation et les régimes ultra-libéralistes en les accusant 
+de mettre à mal les repères identitaires dont la civilisation 
+ne pourrait se passer. C’est oublier que les TNBI+ sont 
+aussi parties prenantes contre les effets du néolibéralisme, 
+9 Maud-Yeuse Thomas propose cet acronyme TNBI+ (trans-non- 
+binaire-intersexe et au-delà) pour redéfinir un agrégat politique et onto-
+logique centré sur les questions de genre. L’insertion du I dans l’acro-
+nyme, n’efface pas les spécificités de l’intersexuation et ne doit pas être 
+considérée comme une assimilation, mais plutôt comme une marque de 
+solidarité.
+10 On retrouve des actions et rhétoriques « anti-tnbi+ » dans des tri-
+bunes dans les médias, dans la constitution d’organismes et de guérillas 
+sur les réseaux sociaux, aussi bien en France qu’aux États-Unis, qu’en 
+Argentine, au Canada, ou encore en Espagne, entre autres pays. Dans un 
+sondage international récent mené par YouGov dans 8 pays, la France 
+s’impose comme l’état le moins tolérant face aux questions LGBT+ (voir 
+Neonmag.fr : https://bit.ly/2WZPUXE).
+Avant-propos
+xixdes dégâts de l’activité humaine sur la planète, etc., car ces 
+générations sont souvent engagées sur plusieurs sujets.
+Pour les tenants d’un ordre moral et d’un ordre des 
+genres, plutôt que de suivre une analyse des déconstructions 
+(de nos modes de vie, du patriarcat, des discriminations, 
+etc.) et envisager un nouveau point de départ, de nouvelles 
+réflexions et de reconstructions, on préfère parler de dérives 
+narcissiques et de déviances à la fois individuelles et sociales, 
+dont l’usufruit (narcissique) va à celui qui « poussera toujours 
+plus loin la négation du donné naturel et culturel » (Levet, 
+2014, 84).
+La non-binarité et les personnes non-binaires, militantes 
+ou non, proposent donc des vécus différents auxquels 
+correspondent aussi une grande créativité lexicale et des 
+formes pronominales, dont les sciences sociales, les études 
+de genre et les études transgenres11, entre autres, prennent la 
+mesure. Il faut donc composer avec la langue française, qui 
+est une « technologie de genre », pour nous appuyer/inspirer 
+de la notion de Teresa de Lauretis ([1987] 2007), considérant 
+que cette langue binaire utilisant deux genres grammaticaux : 
+le masculin et le féminin, représente le genre, le produit et 
+reproduit continuellement. La célèbre règle grammaticale 
+aux accents de norme et de maxime (une règle morale) : « le 
+féminin l’emporte toujours sur le masculin », a décidément la 
+peau dure.
+Dans l’article « Binarité du genre grammatical – binarité 
+des écritures ? », Daniel Elmiger écrit : « Autrefois, c’étaient 
+d’abord les femmes qui dénonçaient un excès de marques au 
+masculin ; aujourd’hui, ce sont d’autres groupes (personnes 
+trans*, intersexes, etc.) qui remettent en question plus 
+fondamentalement la dimension binaire du système des 
+11 Les trans studies francophones sont émergentes, mais donnent lieu à 
+des confusions sur lesquelles je reviens dans de nombreux travaux, cer -
+tains sont référencés en bibliographie.
+xx
+Devenir non-binaire en français contemporaingenres » (2017, en ligne). La langue est « un outil de médiation 
+non-neutre entre représentations, formes linguistiques 
+et société » (Chetcuti & Greco, 2012, 11) et le théâtre de 
+glissements du lexique médiatique (Espineira, 2015), qui sont 
+des illustrations des tensions entre les mots et discours de 
+ceux·celles qui nomment et des mots et discours de ceux·celles 
+qui sont nommé·es au fil des constructions culturelles et des 
+luttes pour l’égalité des droits. Pour ainsi dire, rien de plus 
+normal que différents groupes investissent « la face cachée 
+du genre » (Chetcuti & Greco, 2012) pour « atteindre l’utopie 
+que le français inclusif ne fait pour l’instant que pointer du 
+doigt : une langue sans hiérarchie entre les représentations 
+symboliques et sociales qui sont associées aux genres 
+grammaticaux » (Alpheratz, 2019, 19).
+Dans le même temps, les résistances à l’écriture inclusive 
+comme à une réforme grammaticale s’affirment toujours 
+davantage. Le 26 octobre 2017, l’Académie française, 
+institution créée en 1634 (officialisée en 1635 par le cardinal 
+de Richelieu), définit la langue française par l’élaboration de 
+son dictionnaire et fixe [ou « fige » ?] l’usage du français, publie 
+une déclaration concernant « l’écriture dite “inclusive” ». À 
+l’unanimité, « les immortels » s’opposent à la diffusion de 
+« l’écriture inclusive » et surtout à ce qu’elle devienne une 
+norme. Au-delà des bancs de l’Académie française, les 
+arguments convoqués sont souvent les mêmes : prolifération 
+des marques orthographiques, nouvelles syntaxes, langue 
+inutilement complexifiée, illisibilité, inapprentissable ou 
+encore incompréhension des objectifs poursuivis par des 
+militant·es. L’institution, qui se veut garante de la codification 
+des évolutions et innovations de la langue, se dit moins 
+préoccupée par la norme que par l’avenir. On parle même 
+d’un « péril mortel » pour la langue française que l’on va 
+jusqu’à placer sur l’échiquier d’une concurrence culturelle, 
+puisqu’accepter cette évolution serait contre-productif et 
+Avant-propos
+xxiseul « au bénéfice d’autres langues qui en tireront profit pour 
+prévaloir sur la planète » (academie-francaise.fr, 2017).
+L’année 2021 a été riche en positionnement contre 
+l’écriture inclusive, et pour mémoire, dans le même temps, 
+proliféraient des tribunes antitrans dans la presse. 
+Le 4 février 2021, Le Figaro publie l’enquête « Comment 
+l’écriture inclusive prend le pouvoir à l’université » (Claire 
+Conruyt et Wally Bordas). Dans les grandes lignes, on indique 
+que les syndicats, les organisations étudiantes, les militants, 
+les enseignants, des administrations, sont autant d’acteurs de 
+l’enseignement supérieur faisant « pression pour que cette 
+graphie, jugée “plus inclusive” pour les femmes, devienne la 
+norme ». On souligne une pratique ne faisant pas l’unanimité. 
+On ne peut ne pas penser aux nombreuses attaques dont 
+l’université française est l’objet depuis les débats sur « la 
+théorie de genre » (depuis le début des années 2000) jusqu’aux 
+mises en cause des approches intersectionnelles et la chasse à 
+l’islamogauchisme12. 
+Quelques jours plus tard, le 17 février 2021, la presse se 
+fait cette fois l’écho de la proposition de loi de 60 députés 
+pour interdire l’usage de l’écriture inclusive dans les 
+documents administratifs. Par la voix du député de la 
+majorité François Jolivet, cette écriture est qualifiée de 
+« choix personnel et militant ». Sont mobilisés des arguments 
+identifiés précédemment, dont celui d’une langue dont 
+l’apprentissage serait complexifié. Par ailleurs, l’écriture 
+inclusive n’est pas seulement renvoyée à de la militance, mais 
+aussi à un phénomène minoritaire (« en rien majoritaire ») 
+brouillant les messages. L’appel s’appuie sur une expertise de 
+12 Pour prendre la mesure de ce phénomène, je recommande fortement 
+les captations et actes du colloque international « La savante et le poli-
+tique. Défense et illustration des libertés académiques » (7-10 juin 2021), 
+organisé par Caroline Ibos et Éric Fassin (LEGS, Université Paris 8). 
+L’ensemble des documents sera librement disponible sur mediapart.fr.
+xxii
+Devenir non-binaire en français contemporainla dyslexie, dyspraxie et dysphasie inquiète des « difficultés 
+supplémentaires engendrées par cette forme d’écriture ».
+Le troisième temps d’une histoire toujours en train de se 
+faire, a lieu le 6 mai 2021. Jean-Michel Blanquer, ministre 
+de l’Éducation nationale entre en scène avec autorité sur la 
+base d’une circulaire parue au Bulletin officiel de l’éducation 
+nationale. Il a « tranché » reprend la presse : l’écriture inclusive 
+n’a pas lieu d’être, ni dans les pratiques d’enseignement, ni 
+dans les documents administratifs ministériels. Sa « pratique 
+linguistique » est interdite à l’école et le point médian reste 
+cantonné à un débat politique, comme le souligne le linguiste 
+Christophe Benziton, auteur de l’ouvrage Qui veut la peau du 
+français ? et invité dans les médias à cette occasion.
+À la suite de beaucoup d’autres, il indique que l’écriture 
+inclusive ou « l’écriture non-sexiste » ne doit pas être 
+impliquée dans la question des enjeux de l’apprentissage, 
+mais plutôt l’orthographe de la langue elle-même, qui reste 
+figée dans sa norme écrite depuis des siècles, contrairement 
+à la forme orale qui ne cesse d’évoluer et dont ne prend pas 
+acte de l’évolution. Dans une interview pour le quotidien 
+Les Échos, Caroline Paboeuf (experte linguiste) écrit « une 
+langue doit avant tout ressembler à son pays, et non pas 
+devenir le symbole d’un temps et d’une mentalité révolus » 
+(2018). Dans le climat conservateur actuel, qui ne se limite 
+pas aux questions de la langue, comment envisager que les 
+gardiens de la langue et les politiques prennent connaissance 
+du « système al » (pronom de genre neutre al)13 proposé par 
+Alpheratz ? 
+À la fois conclusion et ouverture, les propos de Marie 
+Loison-Leruste, Gwenaëlle Perrier, Camille Noûs, dans leur 
+introduction du dossier « Le langage inclusif est politique : 
+une spécificité française ? » des Cahiers du Genre , nous 
+13 Lire Alpheratz, Grammaire du français inclusif , éditions Vent Solars, 
+2018.
+Avant-propos
+xxiiiparaissent important pour résumer les enjeux de la langue et 
+du genre : « il est important d’éclairer les conditions politiques 
+et sociales dans lesquelles le langage non-sexiste devient 
+l’objet de débats publics » et elles précisent avec optimisme : 
+« Quels que soient les pays ou les époques, les résistances à ce 
+langage s’expriment en effet dans des contextes où la norme 
+d’égalité des sexes progresse » (Loison-Leruste, Perrier 
+& Noûs, 2020, 9). En attendant que langue et esprits se 
+« défigent », les didacticiels de l’écriture inclusive, « les petits 
+dicos » du français inclusif, les guides, etc., sont nécessaires 
+pour peser sur le langage et défaire ses dimensions sexistes, 
+tout comme pour créer des espaces lexicaux, sémantiques et 
+de représentations aux personnes non-binaires, entre autres, 
+afin de refléter la diversité des vécus et des expériences de vie. 
+Références citées
+AlpherA tz, 2018. « Français inclusif : conceptualisation 
+et analyse linguistique », SHS Web of Conferences , n° 46. 
+DOI : 10.1051/shsconf/20184613003.
+AultmAn B. Lee, 2014. « Cisgender », Transgender Studies 
+Quarterly, 1, n°1, 1-2, p. 61-62.
+BidAud, Anne-Marie, 2017. Hollywood et le rêve américain – Cinéma 
+et idéologie aux États-Unis , Paris, Armand-Colin.
+Bolt Anski , Luc, 1981. « America, America... Le Plan Marshall 
+et l’importation du “management” », Actes de la Recherche 
+en Sciences Sociales , p. 19-41.
+BonnAffé , Édouard, 1920. L’Anglicisme et l’angloaméricanisme 
+dans la langue française : dictionnaire étymologique et historique des 
+anglicismes , Paris, Delagrave.
+xxiv
+Devenir non-binaire en français contemporainBossu At, Gérard, 1992. La France, l’aide américaine et la construction 
+européenne , 1944-1954, Paris, Imprimerie nationale/
+Comité pour l’histoire économique et financière de la 
+France.
+CAntournet , Luciole, 2021. La non-binarité au prisme des trans 
+studies , Master 1 Études de genre, Université Paris 8, sous 
+la direction de Karine Espineira.
+ChetCuti , Natacha et GreCo , Luca (dir.), 2012. La Face 
+cachée du genre : Langage et pouvoir des normes , Paris, Presses 
+Sorbonne nouvelle.
+ConesA , Pierre, 2018. Hollywar : Hollywood, arme de propagande 
+massive , Paris, Robert Laffont.
+duBosClArd , Alain, 2004. « Le cinéma, passeur culturel, 
+agent d’influence de la diplomatie française aux États-
+Unis dans l’entre-deux-guerres », 1895. Mille huit cent 
+quatre-vingt-quinze , n° 42, p. 57-75.
+dupont , Nathalie, 2007. « Le cinéma américain : un 
+impérialisme culturel ? », Revue LISA/LISA e-journal, 
+volume 5, n° 3, p. 111-132.
+elmiGer , Daniel, 2017. « Binarité du genre grammatical 
+– binarité des écritures ? », Mots. Les langages du politique , 
+n° 113, p. 37-52.
+enke, Anne, 2012. Transfeminist Perspectives In and Beyond 
+Transgender and Gender Studies , Philadelphie, Temple 
+University Press.
+espineirA , Karine, 2015. « Un exemple de glissement du 
+lexique médiatique : le sujet trans dans les productions 
+audiovisuelles », Essais , n° 7, p. 48-64.
+Avant-propos
+xxvespineirA , Karine et thomAs , Maud-Yeuse, 2019. « Études 
+Trans Interroger les conditions de production et de 
+diffusion des savoirs », Genre, sexualité & société [En ligne], 
+DOI : https://doi.org/10.4000/gss.5916.
+espineirA , Karine et thomAs , Maud-Yeuse, 2022. Transidentités. 
+Défaire les idées reçues , Paris, éditions Le Cavalier Bleu (à 
+paraître).
+houBre , Gabrielle, 2012. « François et Jean, nés filles au 
+xixe siècle », L’Histoire , n° 372, p. 82-86.
+kuisel , Richard F., 2001. « The Gallic Rooster Crows Again. 
+The Paradox of French Anti-Americanism », French 
+Politics, Culture and Society, volume 19, p. 3-16.
+kuisel , Richard F. [1993], Le Miroir américain. 50 ans de regard 
+français sur l’Amérique, Paris, J. C. Lattès, 1996.
+lAuretis , Teresa de [1987], 2007. Théorie queer et cultures 
+populaires : de Foucault à Cronenberg, Paris, La Dispute, coll. 
+« Le genre du monde ».
+lesCent -Giles, Isabelle, BArjot , Dominique et de ferrière , 
+Marc (dir.), 2002. L’Américanisation en Europe au xxe siècle : 
+économie, culture, politique. Volume 1, Lille, Publications de 
+l’Institut de recherches historiques du Septentrion.
+levet, Bérénice, 2014. La Théorie du genre ou Le monde rêvé des 
+anges, Paris, Grasset.
+loison -leruste , Marie, perrie , Gwenaëlle et noûs, Camille 
+(dir.), 2020. « Introduction. Le langage inclusif est 
+politique : une spécificité française ? », Cahiers du Genre , 
+volume 2, n° 69, p. 5-29.
+mAillet , Clovis, 2020. Les Genres fluides : de Jeanne d’Arc aux 
+saintes trans , Paris, Éditions Arkhê.
+Devenir non-binaire en français contemporainperGnier , Maurice, 1989. Les Anglicismes , Paris, Les Presses 
+Universitaires de France, coll. « Linguistique nouvelle ».
+poirier , Fanny, Cond At, Agnès, lAufer, Laurie, rosen Blum, 
+Ouriel, Cohen , Ouriel et David, 2019. « Non-binarité et 
+transidentités à l’adolescence : une revue de la littérature », 
+Neuropsychiatrie de l’enfance et de l’adolescence , n° 67, p. 268-285.
+porChA t, Patricia, 2020. « Transidentité, non-binarité et 
+parentalité. De quoi parle-t-on ? », Recherches en psychanalyse , 
+n° 30, p.122-130.
+reuCher , Tom, 2005. « Quand les trans deviennent experts. 
+Le devenir trans de l’expertise », Multitudes , volume 1, 
+n° 20, p. 159-164.
+sAuvAGeA u, Florian (dir.), 1999. Variations sur l’influence culturelle 
+américaine. Québec, Presses de l’Université de Laval.
+sChilt , Kristen et WestBrook , Laurel, 2013. « Doing Gender, 
+Determining Gender: Transgender People, Gender 
+Panics, and the Maintenance of the Sex/Gender/
+Sexuality System », Gender & Society, p. 32-57.
+thomAs , Maud, 2007. « La société binaire en question », 
+Colloque international « Les LGBTI : Évolution des 
+représentations sociales et révolutions culturelles », 
+Universités d’été euroméditerranéennes des 
+homosexualités, Marseille, France.
+thomAs , Maud-Yeuse et espineirA , Karine, 2014. « Les trans 
+comme parias. Le traitement médiatique de la sexualité 
+des personnes trans en France », Genre, sexualité & société 
+[En ligne], DOI : https://doi.org/10.4000/gss.3126
+Wilson , Bianca D.M et meyer, Ilan H, 2021. Nonbinary 
+LGBTQ adults in the United States , Los Angeles, UCLA 
+School of Law.
+1
+Introduction 
+Vinay Swamy et Louisa Mackenzie
+Comment dit-on « they » en français ? Au cours des 
+dernières années, nos étudiant·es américain·es, anglophones 
+et inscrit·es dans les cours de français à l’université ont 
+commencé à poser cette question apparemment simple. 
+Une question qui ne se réfère pourtant pas au sujet pluriel 
+à la troisième personne, mais plutôt – suivant l’usage de 
+plus en plus courant, surtout dans les cercles universitaires 
+et/ou militants, aux État-Unis et ailleurs dans le monde 
+anglophone – au pronom singulier à la troisième personne 
+qui désigne un sujet non-binaire1. Toutefois, le défi en français 
+est clair : la nature rigoureusement bigenrée de la grammaire 
+1 Pour désigner un genre vécu et éprouvé en dehors du schéma mascu -
+lin/féminin, il existe de nombreuses étiquettes – neutre ou neutrois, agen-
+re, genderqueer/genderfluid (souvent en anglais – détail qui ne passera pas 
+inaperçu dans les contributions qui suivent), androgyne, et bien d’autres. 
+Sans vouloir niveler ces différences, nous avons privilégié « non-binaire » 
+aussi bien comme terme générique qui englobe les mots mentionnés 
+ci-dessus, que par souci d’économie, et par stratégie puisque c’est le terme 
+le plus susceptible d’être reconnu par un grand public.
+2
+Devenir non-binaire en français contemporainfrançaise moderne semble rendre littéralement inexprimable 
+le genre en dehors du binaire, et c’est ce que la plupart des 
+professeurs expliquent à leurs étudiant·es. Ainsi, comme le 
+dit de façon humoristique Sophie Labelle2, parler en français, 
+c’est se genrer soi-même ainsi que « chaque objet dans la 
+pièce, et tout le monde dans un rayon de vingt kilomètres »3. 
+En cherchant à répondre à ce qui s’était présenté, de 
+prime abord, comme une question de langue (il s’agissait 
+tout simplement de traduire « they »), nous nous sommes 
+vite trouvé·es confronté·es à d’autres enjeux de grande 
+envergure, d’ordre culturel et politique. Autrement dit, le fait 
+qu’il n’y ait pas de réponse toute faite à cette question de la 
+traduction révèle nécessairement d’autres pistes d’enquête. 
+Les innovations linguistiques comptent, bien sûr, et font 
+partie intégrante de notre projet. Mais elles sont loin d’en 
+être le point de mire. Une exploration des expressions et des 
+revendications non-binaires dans ces multiples registres nous 
+a conduit·es à mener à terme plusieurs itérations du projet 
+décrites plus loin, dont ce livre, Devenir non-binaire en français 
+contemporain constitue le développement le plus récent.
+S’est ajoutée à la première, pour devenir la pierre 
+angulaire du projet, la question suivante : comment les 
+personnes non-binaires francophones pensent-elles, vivent-
+elles, expriment-elles leur genre ? Notre point de départ est 
+ontologique : les personnes non-binaires existent, depuis 
+longtemps, et vivent dans plusieurs espaces géographiques et 
+culturels4. Leur existence précède les formations identitaires 
+2 Artiste trans et bilingue d’origine québécoise, Sophie Labelle est la plus 
+connue pour ses bandes dessinées publiées en ligne : Assignée garçon , et la 
+version en anglais Assigned Male .
+3 Sophie Labelle, Assignée garçon . Planche 118.
+4 On peut reconnaître, parmi de nombreux groupes culturels tradition-
+nellement non-binaires – ou de troisièmes genre surtout dans d’autres 
+cultures non-européennes – les Hijras en Asie du Sud (Bangladesh, Bhu-
+tan, Inde, Népal, Pakistan, Sri Lanka), les Bissus d’Indonésie, les Fa’afa-
+Introduction
+3contemporaines qui, vues de l’extérieur, semblent être une 
+mode, en l’occurrence une mode américaine. Or, quand on 
+se met à l’écoute des personnes non-binaires, on comprend 
+que leur genre leur est essentiel , avec toutes les résonances de 
+ce mot, et qu’iels5 ne font que trouver dans la culture non-
+binaire émergente des possibilités rétroactives d’expression 
+(« j’ai toujours été non-binaire, mais ce n’est que récemment 
+que je l’ai reconnu »). Un important travail de la part 
+d’historien·nes commence à démontrer que ce que nous 
+appellerions aujourd’hui un trouble, ou un non-conformisme 
+dans le genre, a toujours été connu, sous d’autres noms bien 
+sûr : Clovis Maillet (2020) par exemple voit dans le régime 
+de genre médiéval européen une « non-binarité binaire » ou 
+une fluidité de genre ; un ouvrage paru récemment sur le 
+genre des hagiographies évoque à plusieurs reprises la non-
+binarité (Spencer-Hall et Gutt, 2021), pour ne pas parler de 
+nombreuses recherches sur les figures de l’androgyne ou de 
+l’hermaphrodite (Closson et al., 2013). Des autrices telles que 
+Monique Wittig (1973), Anne Garréta (1986) et autres, ont 
+exploré la gamme du genre dans leurs projets littéraires, et 
+Thierry Hoquet, ayant déjà proposé le pronom ille en 2011, 
+ajoute un sérieux poids biophilosophique à la question du 
+genre non-binaire (2016).
+fines de Polynésie ou bien les personnes autochtones d’Amérique du 
+Nord, dites bispirituelles ( two-spirit).
+5 Dans ce volume, nous adoptons en règle générale l’écriture inclusive 
+binaire ; cependant par moments les lectaires avertiz remarqueront des 
+formes grammaticales alternatives qui sont des formes proposées ou en 
+usage chez les personnes non-binaires. En novembre 2021, à l’heure de 
+la correction des épreuves de ce texte, les Éditions Le Robert ont inclus 
+pour la première fois dans leur dictionnaire en ligne une définition du 
+terme iel, citant l’usage en croissance (quoique toujours rare) ; cette re-
+connaissance a déclenché une polémique en France. Voir la définition au 
+site suivant : https://dictionnaire.lerobert.com/definition/iel. Pour une 
+analyse de ce débat à droite et à gauche, voir entre autres, les articles pa-
+rus dans Le Figaro (Develey et al, 2021) et dans Libération (Moysan 2021).
+4
+Devenir non-binaire en français contemporainSi elle a toujours existé, mutatis mutandis, la non-binarité 
+semble plus que jamais à l’ordre du jour (Müller, 2020). 
+Désormais, même les médias grand public en Europe 
+francophone (Belgique, France, Suisse) et au Canada 
+couvrent – surtout sur leurs plateformes en ligne – le point 
+de vue des individus non-binaires pour révéler les défis 
+auxquels ces personnes sont confrontées (Quentel, 2018), 
+même si leurs explications restent parfois ancrées, comme 
+le fait remarquer le collectif non-binaire, dans un cadre de 
+compréhension binaire, « entre confusions majeures et 
+irrespect » (CNB, 2021). Karine Espineira, dans son avant-
+propos à ce volume, fait remarquer que cette visibilité s’ajoute 
+à la longue histoire du militantisme trans sans s’y opposer : le 
+neutre, le non-binaire, l’agenre etc. n’invalident pas le devenir 
+des personnes trans dites « binaires », mais s’y ajoutent en 
+tant qu’autre genre tout aussi valable. Pour exprimer ce 
+genre, malgré les contraintes linguistiques imposées par la 
+grammaire et la binarité de la langue – et peut-être même à 
+cause d’elles –, depuis quelques années, les personnes non-
+binaires francophones confrontent le défi de la visibilité de 
+manière créative. Certaines d’entre elles ont commencé à 
+adopter des néo-pronoms tels que iel, al, ul ou ille dans des 
+espaces trans-positifs et même au-delà. Iels emploient les 
+outils culturels, sociaux et linguistiques à leur disposition afin 
+de concevoir et d’exprimer leurs genres, et pour revendiquer 
+une certaine visibilité jusqu’à présent occultée par les normes 
+sociales. Ces expressions prennent une grande variété de 
+formes : des interventions savantes et linguistiques aux 
+artefacts littéraires ; des bandes dessinées sur le Web aux blogs 
+analytiques ; des communautés activistes aux documentaires 
+et à d’autres interventions médiatiques. Il suffit de se pencher 
+sur ces espaces publics émergents – virtuels ou réels – pour 
+observer ce discours débattu, sinon déjà adopté, et pour 
+assister à une mutation profonde en cours de l’expression 
+francophone vers la possibilité d’une reconnaissance et 
+Introduction
+5légitimité des identités non-binaires. Ainsi visons-nous à 
+décrire et à analyser un processus social de formation et 
+d’affirmation identitaire qui est déjà en cours, et à fournir 
+à notre public une gamme diverse d’idées, de perspectives 
+et de ressources qui pourraient être utiles dans les espaces 
+anglophones et francophones, et entre les deux.
+Les voies de « légitimation » des identités non-binaires 
+s’étendent très vite au-delà des simples questions linguistiques 
+pour révéler des enjeux plus profonds sur la construction et 
+sur la légitimité de l’identité francophone non-binaire : enjeux 
+à la fois contestés et traçables dans la culture populaire tout 
+comme dans le champ académique. Ces développements sont 
+certes liés à la non-binarité anglophone, ce qui rend impératif 
+que toute considération de ces questions en contexte 
+francophone soit consciente de ces éléments comparatifs et 
+transnationaux. Toutefois, les déclinaisons de la revendication 
+promue par ses adeptes en français restent immanentes et 
+spécifiques à la culture et à la politique française ; ainsi nous 
+a-t-il semblé important, après avoir publié en anglais sur le 
+sujet, non seulement de présenter le projet directement à un 
+lectorat français, mais aussi, par moments, de le repenser. 
+Nous ne visons pas une voix « authentiquement » française 
+ni anglaise d’ailleurs ; telle n’est pas notre vision de l’échange 
+intellectuel. Nous ne voulons pas non plus consolider le 
+cadre oppositionnel qui consisterait à toujours chercher ce 
+qui sépare les sphères anglophone et francophone, préférant 
+une vision plus hybride des rapports transatlantiques. Notre 
+projet propose ainsi un modeste contrepoids conceptuel 
+à celui, plus abstrait et ambitieux, d’Éric Marty (2021) qui 
+met en contraste la théorie de genre avec ce qu’il appelle, en 
+anglais dans le texte, le gender , qui reste pour lui une « invention 
+américaine » d’ailleurs « intraduisible » en français (12). Les 
+propos de Marty nous interpellent d’autant plus qu’il accorde 
+un rôle important au « Neutre », articulé comme une sorte 
+6
+Devenir non-binaire en français contemporainde « silence du genre » (32), une façon de penser au-delà de 
+la binarité, une figure conceptuelle ; mais le neutre n’est pas 
+chez Marty un genre vécu sauf, peut-être, en ce qu’il trouble 
+le devenir des personnes trans (496). Par contre, nous nous 
+intéresserons ici aux identités vécues des personnes qui se 
+disent non-binaires en français : pour nous, le neutre est un 
+genre vécu .
+Nous restons sensibles au risque que nous courons 
+d’être rejeté·es comme étant nous-mêmes des avatars du 
+gender , pragmatiques et militant·es avant tout. Il est vrai 
+que le présent ouvrage trouve sa genèse dans un contexte 
+anglophone et que nous nous intéressons au vécu matériel 
+des personnes trans et non-binaires (souci partagé quand 
+même par bien des francophones !) Or, nous avons comme 
+objectif de respecter, de souligner et d’analyser aussi bien 
+les différences et les divergences que les confluences 
+interculturelles. Ainsi, si nous ne privilégions pas une pensée 
+analogique qui chercherait simplement des « équivalents » en 
+français d’un discours d’ores et déjà établi en anglais, nous 
+indiquerons aussi et parfois des convergences, des moments 
+où une personne francophone pourrait se reconnaître dans 
+les discours non-binaires anglais, et vice-versa ; nous avons 
+pour but de mettre en relief plutôt les espaces hybrides entre 
+langues, cultures vécues, et traditions intellectuelles.
+Force est de constater que le point de départ du projet 
+lui-même était une tentative de troubler la proposition qu’il 
+existe de simples équivalents en français des pronoms non-
+binaires anglais, et que cette tentative elle-même répondait à 
+un moment culturel assez particulier aux États-Unis. Tout a 
+commencé pour nous en 2015, à un moment où la transition 
+dramatique et très publique de la star de télé-réalité Caitlyn 
+Jenner captivait les médias états-uniens, et la législature de 
+l’État du Tennessee débattait formellement de la possibilité 
+de restreindre le financement de ses universités publiques 
+Introduction
+7qui permettaient aux étudiant·es de choisir des pronoms 
+neutres (Somaiya, 2015 ; Tamburin, 2015). Dans ce contexte 
+de visibilité trans accrue6, les étudiant·es de Vassar College 
+ont fait une demande apparemment simple au département 
+d’études françaises et francophones : iels voulaient la 
+possibilité d’assumer les équivalents français de « they », 
+« them » et « theirs », les trois pronoms à la troisième personne, 
+alternatives les plus populaires au singulier pour les pronoms 
+conventionnels « she », « him/her » et « his/hers ». Bien que 
+les professeur·es du département aient été favorables à la 
+demande, la nature bigenrée de la langue française (masculine 
+ou féminine uniquement) a rendu impossible de fournir une 
+réponse facile, sans adopter de nouveaux pronoms (tels qu’iel, 
+yel, al, ul ou ille), avec tous les changements grammaticaux 
+associés. Outre ce défi, nous étions également confrontés 
+à la question de notre propre autorité à changer le français, 
+car cette langue est, tout simplement, notre objet d’étude. 
+S’ajoutaient à cette question les considérations pratiques de 
+pédagogie : tous·tes les étudiant·es devraient-iels apprendre 
+les néo-pronoms ? Que se passerait-il lorsqu’iels étudiaient 
+à l’étranger dans des contextes francophones ? En 2018, à 
+l’initiative de Vinay Swamy, le département d’études françaises 
+et francophones de Vassar Collège a parrainé un symposium 
+de deux jours au cours duquel étudiant·es, militant·es, 
+chercheur·es et artistes se sont réuni·es pour réfléchir à 
+ces questions d’expression non-binaire en français surtout 
+dans les domaines pédagogiques et culturels. L’événement 
+a été bien reçu par les étudiant·es et les professeur·es 
+de plusieurs universités du Nord-Est des États-Unis, ce 
+qui nous a poussé·es à fonder un forum de discussion en 
+ligne regroupant les ressources pédagogiques pour les 
+professeur·es de la langue française aux États-Unis. En outre, 
+6 Nous n’opposons pas trans et non-binaire, tout en reconnaissant que 
+ces deux groupes ont plus de convergences que de divergences dans leurs 
+revendications sociales, malgré les tensions possibles entre eux.
+8
+Devenir non-binaire en français contemporainle symposium a porté ses fruits en nous permettant de publier 
+en ligne Legitimizing iel ?, un numéro spécial de H-France 
+Salon, comme deuxième avatar de notre collaboration7.
+Tout en se basant sur cette dernière itération en anglais, 
+Devenir non-binaire renouvelle les approches développées dans 
+les versions antécédentes pour offrir un nouveau regard sur 
+les questions non-binaires. De ce fait, il a comme objectif 
+principal de donner accès à un public francophone des propos 
+jusqu’à présent inédits dans la langue française. Il comprend 
+sept contributions dont trois entièrement nouvelles, et 
+d’autres mises à jour par leurs autaires. Chaque contribution 
+met en avant différents enjeux – linguistiques, culturels, voire 
+politiques – des revendications des personnes trans et non-
+binaires. Finalement, pour compléter ce volume, li linguiste et 
+autaire Alpheratz8 a accepté de répondre à des questions dans 
+un entretien écrit, ce qui met en avant les réflexions d’une 
+personne non-binaire francophone engagée à la fois dans la 
+création culturelle et linguistique.
+Une partie de notre lectorat verra des parallèles entre ces 
+conversations et les débats autour de l’écriture inclusive9. Afin 
+7 H-France Salon no 11, 14 juillet 2019. Aux USA, dans le cadre d’une ré-
+flexion sur la pédagogie du FLE en particulier, les travaux de Kris Knisely 
+offrent de nombreuses stratégies d’enseignement inclusives en français. 
+En plus de ses publications dans les revues scientifiques, Knisely met 
+à disposition au public intéressé de nombreuses ressources sur son site 
+Web, https://www.krisknisely.com.
+8 Sur son site et sous la rubrique « Linguistique », Alpheratz propose 
+un système inclusif et neutre avec de différents néologismes, y compris 
+autaire , et l’article défini « li ». https://www.alpheratz.fr/.
+9 Comme l’explique Vinay Swamy dans son chapitre dans ce volume, 
+l’écriture inclusive fait polémique depuis 2017, surtout en France, il s’agit 
+d’un mouvement féministe pour la réforme de la langue française qui 
+prône la féminisation explicite comme correctif à une surmasculinisation 
+introduite en français moderne depuis le xviiie siècle. Cette forme d’écri -
+ture insiste sur la féminisation des professions (cheffe, professeure, au-
+trice), l’inclusion des mots épicènes (qui ne changent pas de forme selon 
+Introduction
+9d’embrasser, socialement et linguistiquement, les identités de 
+genre ni masculines ni féminines, le langage non-binaire fait 
+appel aussi, à certains égards, à une extension des principes 
+de l’écriture inclusive. Certes, le français inclusif non-binaire 
+soulève la question de savoir comment la langue reflète et crée la 
+réalité sociale, tout comme les partisan·es de l’écriture inclusive 
+pensent que la préférence grammaticale pour le masculin dans 
+une langue bigenre a des conséquences réelles pour les individus 
+de sexe féminin dans la société française. Plusieurs de nos 
+contributions abordent les comparaisons et les contrastes entre 
+l’écriture inclusive et le langage non-binaire. Il est important de 
+garder à l’esprit l’extraordinaire pouvoir socioculturel du modèle 
+prescriptif de la linguistique dans le monde francophone, 
+et le statut particulier de l’Académie française. La première 
+réponse de l’Académie du 26 octobre 2017 à « l’écriture dite 
+“inclusive” » indiquait clairement qu’elle considérait toute 
+refonte du genre grammatical au nom du changement social 
+comme un « péril mortel » pour la langue (Académie française, 
+2017). Néanmoins, l’institution a par la suite voté pour adopter 
+la féminisation des titres et des professions le 28 février 2019. 
+Dans cette optique, il est clair que la lutte pour étendre 
+l’inclusion au-delà du binaire sera confrontée à des défis 
+institutionnels encore plus difficiles. Bon nombre des réponses 
+hostiles au projet non-binaire d’Alpheratz pour une grammaire 
+inclusive du genre ainsi que la polémique déclenchée par la 
+récente entrée des néo-pronoms dans Le Petit Robert en ligne, 
+donnent une idée de la résistance enracinée que rencontrerait 
+une telle démarche. Si la légitimation institutionnelle n’est pas 
+nécessairement l’objectif de toutes les personnes francophones 
+le genre des individus désignés comme « les personnes », ou « les élèves ») 
+et aussi sur les signes pour signaler toute hétérogénéité (binaire, pour la 
+plupart), dans la composition de sujets pluriels mixtes (par exemple au 
+lieu d’écrire « les étudiants », l’on préfère « les étudiants et les étudiantes », 
+ou « les étudiant·es » pour faire court la double flexion qui se lirait toujo-
+urs à l’oral avec la conjonction « et »). Pour plus de détails, voir le Manuel 
+d’écriture inclusive de Raphaël Haddad (2019).
+10
+Devenir non-binaire en français contemporainnon-binaires, celles qui souhaiteraient au moins voir une 
+reconnaissance formelle d’une option de pronom non-binaire 
+doivent réfléchir tactiquement à la manière de procéder. À la 
+lumière de ces évolutions, les contributions de cet ouvrage 
+se penchent sur divers aspects liés aux débats politiques et 
+culturels évoqués par la perspective d’une reconnaissance 
+linguistique des identités non-conformes de genre de part et 
+d’autre de l’océan Atlantique afin de développer, nuancer et 
+enrichir notre compréhension des enjeux.
+Si les essais rassemblés ici soulèvent plus de questions 
+qu’ils n’en résolvent, c’est par dessein ; la « légitimation » sous-
+entendue dans le mot « devenir » du titre est à la fois ironique 
+et interrogative, marquant une distance critique, quoique 
+troublée, par rapport aux implications conventionnelles. 
+Toutefois, la légitimité n’est pas tant un état stable qu’un 
+« devenir », comme le reconnaissent les Deleuziens parmi 
+nous, un processus contesté plutôt qu’un résultat atteint. 
+En français et en anglais, et particulièrement entre les deux, 
+les contributions à ce livre collectif tracent diversement le 
+devenir-légitime de l’inclusivité de genre au-delà du binaire et 
+au-delà de l’écriture inclusive. Il nous incombe à chacun·e de 
+reconnaître le pouvoir constitutif qu’ont les discours publics 
+et les institutions sociales sur la confiance et le bien-être 
+matériel des individus, quel que soit le rapport perçu entre 
+ces individus et les processus d’identification sociopolitique. 
+Ainsi, alors que les contributions à ce volume soutiennent 
+diversement une acceptation sociale plus large du langage 
+non-binaire, elles le font avec la conscience que de tels 
+changements linguistiques comportent leurs propres risques 
+de hiérarchisation.
+Alors que les politiques queer et de genre ont reçu, de 
+manière générale, une attention bien méritée dans les espaces 
+académiques francophones, moins d’attention a été accordée 
+aux effets des limitations linguistiques d’une langue comme 
+Introduction
+11le français sur la politique du discours queer10. Contrairement 
+à l’expérience anglophone américaine, le manque de 
+pronoms non-binaires similaires répandus en France peut 
+éventuellement être attribué en partie au rôle important que 
+joue la langue dans la formation de l’identité républicaine 
+française. Ainsi, les essais de ce volume exploreront dans 
+quelle mesure la préférence linguistique hégémonique pour 
+le genre masculin, et l’attachement linguistique aux structures 
+grammaticales binaires du genre, ont pesé sur les intérêts 
+variés de la communauté trans et non-binaire francophone 
+dans la promotion du choix des pronoms en particulier, et 
+l’inclusivité en général, au-delà du binaire. De plus, cela soulève 
+la question plus large de savoir dans quelle mesure de tels outils 
+linguistiques sont fondamentaux à la légitimation d’ un espace 
+politique pour les membres non-binaires (et trans) au sein de 
+la société française ou américaine. Les contributions à cette 
+édition française représentent des explorations de ces questions 
+qui comprennent une variété d’approches disciplinaires.
+Flora Bolter, dans le premier chapitre intitulé « “Le masculin 
+l’emporte” : évolution des stratégies linguistique et politiques 
+de genre dans les associations LGBT+ en France », présente 
+un aperçu de la situation actuelle en France et préconise 
+l’ouverture d’un dialogue sur l’inclusivité à la fois pour les 
+groupes traditionnellement genrés ainsi que pour les individus 
+non-conformes. Compte tenu du cadre linguistique rigide de 
+la langue française, elle considère les différentes stratégies 
+utilisées par les associations LGBTQ+ en France dans leurs 
+tentatives de créer une langue équitable pour tout individu, 
+10 Des exceptions existent pourtant ; voir par exemple les contribu-
+tions de Barbara Bullock (2001) ; Alexandre Duchêne & Claudine Moïse 
+(2011) ; Marie-Emile Lorenzi (2017) et Luca Greco (2018). De même, on 
+peut compter dans ce groupe, entre autres, les ouvrages créatifs de Mo -
+nique Wittig (1973) ; Anne Garréta (1986) ; Thierry Hoquet (2011) ; Katy 
+Barasc & Michèle Causse (2014) et Alpheratz (2015).
+12
+Devenir non-binaire en français contemporainquel que soit son genre. Elle conclut par des observations 
+sur les réponses individuelles des personnes de genre non-
+conforme aux défis posés par la binarité linguistique française 
+afin de dévoiler les nuances contextuelles (professionnelles, 
+familiales, sociales, intimes) dans leurs façons de créer un 
+espace linguistique inclusif.
+Dans « Briser le silence, occuper l’absence : transféminismes 
+francophones et (in)justices épistémiques » Alexandre Baril 
+nous fournit une réflexion à deux temps sur les enjeux 
+linguistiques et politiques des questions trans en(tre) 
+deux langues, et dans différents espaces institutionnels et 
+militants. Lui-même chercheur transféministe bilingue dans 
+un pays ayant deux langues officielles, Baril trace l’origine 
+et le parcours de son texte traduit et retraduit en différents 
+contextes et espaces, pour réfléchir aux différences, aux 
+tensions, non seulement entre les langues, mais aussi entre 
+les espaces féministes et les revendications trans. À partir 
+du cadre offert par les études du handicap, il propose que 
+même si les personnes trans sont souvent « accommodées » 
+dans les espaces féministes, ces derniers demeurent toutefois 
+« inaccessibles », car non accueillants. Il se penche sur la 
+spécificité des politiques féministes francophones qui, 
+même au niveau des changements linguistiques, rend visible 
+l’exclusion des féministes de genre non-conforme ou 
+masculin. On ne dépassera pas les tensions entre féminisme 
+et transféminisme, selon Baril, tant qu’on n’aura pas avoué les 
+façons dont les exclusions se reproduisent au sein des langues 
+et des institutions.
+La contribution de Blase Provitola, « “Faut-il choisir ?” : 
+non-binarité et transidentité dans les cours de langue 
+française », offre une perspective multisituée sur l’accès 
+et l’inclusion des personnes trans dans la salle de classe 
+française, en France et aux États-Unis. Provitola montre 
+le besoin urgent d’alliances des individus trans et cisgenres 
+Introduction
+13dans les établissements d’enseignement et au-delà, et partage 
+des stratégies spécifiques issues de sa propre pratique 
+pédagogique qui pourraient aider à contourner les défis posés 
+par le gouffre entre le binaire et le non-binaire. Provitola 
+nous rappelle les conséquences réelles de l’exclusion pour les 
+personnes transgenres, affirmant que les pronoms sont un 
+signifiant essentiel de l’inclusion et que les meilleures pratiques 
+concernant les pronoms et les noms doivent s’accompagner 
+d’un engagement plus large envers la justice trans.
+Dans son chapitre « Réflexions transnationales sur la 
+corporéité des pronoms non-binaires », Logan O’Laughlin 
+réfléchit aux implications de l’imagerie corporelle utilisée 
+pour décrire le langage. Si le langage est un corps qui 
+peut être marqué, qu’en est-il de ces vrais corps que le 
+langage interpelle ? Intercalant des registres académiques et 
+personnels, O’Laughlin remet en question la frontière entre 
+les deux et dévoile les nombreuses façons dont « le langage 
+genré a des effets matériels incarnés », en l’occurrence sur un 
+individu non-binaire qui navigue entre les espaces publics et 
+privés dans plusieurs langues. Le débat sur les pronoms est 
+à la fois matériel et sémiotique, et O’Laughlin rappelle aux 
+lectaires les effets et les affects des pronoms sur la vie située 
+des personnes concernées.
+Pour Maria Candea et LeAnn Brown, étendre un 
+paradigme de genre au-delà des catégories binaires nécessite 
+de nouveaux outils perceptifs, qui peuvent être implicites 
+ou explicites. Dans leur chapitre intitulé « Variation 
+interculturelle de la perception du spectre masculin-féminin : 
+indexation française et américaine de la voix genrée », les 
+deux sociolinguistes mè nent une étude sur la perception 
+de la voix humaine pour discerner la possibilité d’une 
+reconnaissance de genre non-binaire. La production de 
+la voix est en partie dépendante de paramètres individuels 
+physiologiques comme l’appareil phonatoire humain ne 
+14
+Devenir non-binaire en français contemporainprésente pas de dimorphisme (masculin, féminin) : il existe 
+toute une variation dans les tailles et dans les formes des 
+cordes vocales et des cavités de résonances. De ce fait, le son 
+qu’elles produisent ensemble se distribue sur un continuum, 
+ce qui vaut pour les voix aussi, même si nous leur accordons 
+une certaine binarité par convention culturelle. Pour analyser 
+l’identification de la voix, Candea et Brown proposent à 
+leurs sujets d’étude une échelle mobile afin de discerner s’ils 
+sont capables de reconnaître la voix d’une personne selon 
+son identification comme masculin, féminin ou non-binaire. 
+Les résultats de leur enquête indiquent que la majorité des 
+auditaires11 utilisent une stratégie non-binaire pour situer la 
+voix examinée sur ladite échelle, ce qui permet de penser la 
+possibilité de l’émergence dans l’imaginaire collectif d’une 
+nouvelle catégorie de voix (neutres, ou agenres).
+La contribution de Louisa Mackenzie explore le genre 
+non-binaire en invitant son lectorat à dépasser l’opposition 
+qui s’impose d’habitude entre les cultures dites « française » 
+et « américaine ». Les questions dites « identitaires » de genre 
+sont souvent considérées comme une sorte d’importation 
+idéologique des États-Unis, par leurs adversaires bien 
+entendu, mais aussi par celles et ceux qui s’y intéressent. 
+Ce réflexe oppositionnel nie implicitement les choix des 
+personnes trans francophones elles-mêmes. Mackenzie remet 
+en cause cette association entre « l’Amérique » (en tant que 
+construction française) et l’activisme des personnes de genre 
+non-conforme. Plutôt d’y voir une opposition, il est plus 
+fructueux de penser en termes d’échange, de dialogue, et de 
+transformations partagées. Si les francophones s’inspirent 
+parfois des discours anglophones sur le genre, le contraire 
+est vrai aussi ; c’est une sorte d’interlangue dynamique qui en 
+émerge. Mackenzie s’intéresse particulièrement au potentiel 
+des médias populaires français et des communautés en ligne 
+11 Voir note 8 ci-dessus.
+Introduction
+15pour défendre et représenter la non-conformité de genre en 
+dehors des espaces sanctionnés par les institutions.
+Avec son chapitre intitulé « Un déclic Gestalt pour la 
+langue française », Vinay Swamy apporte le point de vue 
+d’un professeur de français basé aux États-Unis pour 
+explorer comment la France et les Nord-Américain·es 
+francophones ont répondu à l’appel à l’inclusivité. Il plaide 
+en faveur d’une analyse non didactique de l’invention des 
+néo-pronoms non-binaires (tels que « iel » ou « ille »). Swamy 
+nous invite à considérer ces néologismes sans préjugés et à 
+les analyser dans leur contexte de production (académique, 
+artistique, politique) tout comme on devrait le faire avec le 
+mouvement féministe de l’écriture inclusive. Ces démarches 
+nous permettent d’effectuer un recadrage bien nécessaire de 
+nos a priori sur la langue française et son usage. Ceci nous 
+permet de reconnaître les forces idéologiques qui sous-
+tendent la production culturelle, politique, philosophique de 
+divers·es intellectuel·les, artistes et activistes trans tel·les que 
+le philosophe franco-espagnol, Paul Preciado et la bande-
+dessinatrice québécoise, Sophie Labelle. En analysant leurs 
+œuvres en parallèle avec les réponses de l’État français à 
+l’écriture inclusive, Swamy met en lumière les réponses 
+divergentes des acteurs institutionnels et non étatiques, 
+et expose les enjeux potentiels de ce débat linguistique et 
+culturel.
+Pour terminer, nous présentons un entretien avec 
+Alpheratz, autaire et linguiste francophone qui a consacré 
+sa carrière à une œuvre alliant création littéraire et recherche 
+linguistique, afin d’imaginer et de créer un monde accueillant 
+aux personnes de genre « spectral », neutre, non-binaire, ou 
+autre. Alpheratz vise un monde dans lequel le neutre ne serait 
+pas une seule notion abstraite, mais bien un vécu et un parler. 
+Parler de la langue, pour Alpheratz, c’est nécessairement 
+parler des significations sociales de ses silences. Car si les 
+16
+Devenir non-binaire en français contemporainmots ont un sens, comme al12 nous rappelle en tête de son site 
+Web, leur absence en a un aussi. Pour Alpheratz, le français 
+standard n’existe qu’en tant qu’outil de hiérarchisation ; ainsi 
+se trouve-t-on dans l’acceptation radicale de toute forme 
+linguistique utilisée dans des contextes réels, que ce soit les 
+dialectes, les sociolectes, les prétendus accents ou variantes… 
+et les formes genrées, voire neutres. Recadrant l’idée de la 
+nouveauté du « français neutre » – l’idée reçue qui veut que ce 
+ne soit qu’une mode ou une curiosité abstraite – Alpheratz 
+insiste sur l’existence pérenne du neutre. Si al reconnaît que 
+les formes neutres du français contemporain se trouvent le 
+plus souvent dans les nouveaux médias (réseaux sociaux, 
+etc.), ces formes, créées par des locutaires dans des échanges 
+réels, représentent et répondent à un besoin communicatif 
+et identitaire qui leur précède, rappelant même parfois les 
+structures grammaticales de l’ancien français (Maillet , 2020, 
+146). Aux linguistes alors de tracer et de décrire, plutôt 
+que de prescrire, ces formes du neutre pour changer les 
+représentations mentales et ainsi, sortir du binaire.
+En annexe, nous incluons un glossaire non exhaustif dans 
+le but de présenter quelques éléments du lexique trans et non-
+binaire qui commence déjà à se faire légitimer dans certains 
+espaces culturo-linguistiques plus ou moins accueillants. 
+Enfin, nous espérons que les sujets explorés dans ces 
+essais, et les références qu’ils fournissent, ouvriront la porte 
+à la construction de ressources pédagogiques – que plusieurs 
+de nos collègues ont recherchées – concernant les questions 
+non-binaires dans la classe francophone.
+L’origine du projet se trouvait certes dans un cadre 
+pédagogique ; or, les contributions à ce livre montrent de 
+toute évidence que les questions vont bien au-delà de la salle 
+12 Pronom neutre de troisième personne préféré par Alpheratz.
+Introduction
+17de classe et des changements au niveau linguistique. Les 
+réflexions dans ce livre étendent l’échange fructueux initié en 
+avril 2018 à Vassar College et invitent un dialogue soutenu avec 
+un public international plus large. Ce faisant, nous espérons 
+que les questions que nous soulevons collectivement seront 
+prises dans un esprit d’enquête ouverte.
+Références citées
+ACAdémie frAnçAise , 2017. « Déclaration de l’Académie 
+française sur l’écriture dite “inclusive” », Site Web de 
+l’Académie française. https://bit.ly/3mCJUhH, dernière 
+consultation le 27 août 2021.
+ACAdémie frAnçAise , 2019. « La féminisation des noms de 
+métiers et de fonction, rapport adopté le 28 février ». 
+Site web de l’Académie française. https://bit.ly/3jlDl17, 
+dernière consultation le 27 août 2021.
+AlpherA tz, 2015. Requiem, CreateSpace Independent 
+Publishing Platform.
+AlpherA tz, monneret , Philippe (préface), 2018. Grammaire 
+du français inclusif, Châteauroux, Éditions Vents Solars.
+BArrAs , Katy, et CAusse, Michèle, 2014. Requiem pour il et elle , 
+Paris, iXe éditions.
+BulloCk , Barbara, 2001. « On the Use of Ils for Elles: Gender 
+Syncretism in the History of French », The French Review 
+Vol. 74, no 4, p. 700–09.
+Closson , Marianne, dir, 2013. L’Hermaphrodite de la Renaissance 
+aux Lumières , Paris, Garnier.
+CnB , 2021. « M6 et la non-binarité : entre confusions majeures 
+et irrespect », Nonbinaire.org, le 27 janvier. https://bit.
+ly/3hcdven. Dernière consultation le 6 septembre 2021.
+18
+Devenir non-binaire en français contemporaindeveley , Alice , G estAs, Maguelonne et miChAlik , 
+Marie-Liévine , 2021. « L’idéologie woke à l’assaut du 
+dictionnaire Le Robert », Le Figaro.fr, le 15 novembre. 
+https://bit.ly/3HyBm3t. Dernière consultation le 
+27 novembre 2021.
+duChêne , Alexandre, et moïse, Claudine (dir.), 2011. Langage, 
+genre et sexualité , Montréal, Nota Bene.
+GArrét A, Anne, 1986. Sphinx, Paris, Grasset.
+GreCo , Luca, 2018. Dans les coulisses du genre : la fabrique de soi 
+chez les Drag Kings , Limoges, Lambert-Lucas.
+hAdd Ad, Raphaël, dir., 2019. Manuel d’écriture inclusive , 
+Paris, Mots Clés, Édition augmentée . https://www.
+motscles.net/ecriture-inclusive. Dernière consultation le 
+25 août 2021.
+hoquet , Thierry, 2011. Cyborg Philosophie , Paris, Seuil.
+lorenzi , Marie-Emile, 2017. « “Queer”, “transpédégouine”, 
+“torduEs”, entre adaptation et réappropriation, les 
+dynamiques de traduction au cœur des créations 
+langagières de l’activisme féministe queer », GLAD , 
+n° 2. www.revue-glad.org/462. Dernière consultation le 
+25 août 2021.
+mAillet , Clovis, 2020. Genres fluides, de Jeanne d’Arc aux saintes 
+trans, Paris, Arkhê.
+mArty, Éric, 2021. Le Sexe des Modernes : pensée du Neutre et 
+théorie du genre, Paris, Seuil.
+moysAn , Eva, 2021. « Mauvaises langues, un député LREM 
+et Jean-Michel Blanquer assurent la promo du pronom 
+neutre iel », Libération.fr, 17 novembre. https://bit.
+ly/32elz9W . Dernière consultation le 27 novembre 2021.
+Introduction
+müller , Olaf, 2020. Sexe et identité, au-delà de la binarité, 
+documentaire télévisuel, ARTE, Allemagne, 52 min.
+quentel , Amélie, 2018. « Qu’est-ce que la non-binarité ? 
+Entretien avec la sociologue Karine Espineira », Les 
+Inrockuptibles , 8 juillet. https://bit.ly/3zDwrdh. Dernière 
+consultation le 25 août 2021.
+somAiy A, Ravi, 2015. « Caitlyn Jenner, Formerly Bruce, 
+Introduces Herself in Vanity Fair », The New York 
+Times , le 1er juin. https://nyti.ms/3DzMOdj. Dernière 
+consultation le 25 août 2021.
+spenCer -hAll, Alicia, et Gutt, Blake, 2021. Trans and 
+Gender-Queer Subjects in Medieval Hagiography, Amsterdam, 
+Amsterdam University Press.
+tAmB urin, Adam, 2015. « Lawmakers challenge UT’s 
+diversity funding », Tennessean, le 14 octobre. https://bit.
+ly/3BBPPI2. Dernière consultation le 25 août 2021.
+WittiG , Monique, 1973. Le Corps lesbien, Paris, Minuit.
+21
+« Le masculin l’emporte » : 
+stratégies linguistiques et politiques de genre 
+dans les associations LGBT+ en France
+Flora Bolter 
+Comment sortir de la binarité féminin/masculin dans 
+une langue comme le français qui n’envisage pas de genre 
+grammatical tiers et propose des dissemblances souvent très 
+marquées dans les formes adjectivales ? C’est à cette difficulté 
+que se confrontent les personnes qui sortent des identités 
+de genre traditionnelles ou cherchent à s’abstraire de toute 
+notion de genre en France et, plus encore, les associations qui 
+les rassemblent et qui tentent donc de défendre leurs intérêts 
+auprès d’un public généraliste encore peu marqué par les 
+interrogations sur le genre. Comment dire une identité qui 
+se dérobe aux codes grammaticaux qui gouvernent l’usage 
+courant de la langue ? Au regard de la rigidité grammaticale et 
+lexicale du français tel que le voudrait l’Académie française, 
+plusieurs stratégies ont émergé pour semer « le trouble dans 
+le genre » grammatical, dans le sillage des interrogations 
+22
+Devenir non-binaire en français contemporainféministes. Les associations LGBT+1 se sont diversement 
+saisies de ces nouvelles stratégies linguistiques pour participer 
+à ce mouvement, refléter leurs perceptions différenciées des 
+relations de genre et créer un chemin permettant de critiquer 
+les hiérarchies binaires charriées par l’usage traditionnel. 
+Les personnes qui ne se retrouvent ni dans le féminin ni 
+dans le masculin, confrontées à la difficulté de se dire dans 
+un univers linguistique binaire, ont quant à elles investi ces 
+mêmes stratégies, initiées autour des réflexions féministes, 
+pour proposer de nouvelles formes et ainsi créer un nouvel 
+horizon de lecture des pratiques langagières non-binaires. 
+Le présent chapitre, qui propose un bref tour d’horizon de 
+la question, est le reflet d’un travail exploratoire réalisé en 
+avril 2018. Partiel, sans prétention à la représentativité en 
+l’état actuel des entretiens réalisés, il peut néanmoins servir 
+d’ébauche d’une réflexion sur les stratégies grammaticales et 
+lexicales qui rendent visible l’épaisseur politique de la langue 
+d’un point de vue du genre.
+1 L’acronyme LGBT pour « lesbiennes, gais, bi·es et trans » est d’emploi 
+relativement courant en France, et c’est celui qu’utilisent les associations 
+dans leurs intitulés le plus souvent (l’interassociative organisant la Marche 
+des fiertés parisiennes est ainsi, en 2018, l’Inter-LGBT, le plus grand 
+centre communautaire est le Centre LGBT de Paris et d’Île-de-France, 
+la fédération des associations et centres partout en France est la Fédéra-
+tion LGBT). En revanche, le périmètre exact des autres lettres à rajouter 
+pour mettre en avant les revendications et droits d’autres minorités de 
+genre et d’orientation sexuelle n’est pas complètement stabilisé, certaines 
+associations de création plus récente rajoutant le Q de queer, d’autre pri -
+vilégiant le I d’intersexes comme c’est l’usage à l’échelle des associations 
+de l’ILGA-Europe, d’autres rajoutant encore le A pour asexuel·les ou/
+et agenres et F pour féministes (ainsi le collectif pour la création d’un 
+Centre d’archives se nomme Collectif Archives LGBTQI, et le centre 
+« J’en suis, j’y reste » est le centre LGBTQIF de Lille). Face à la plastici -
+té des usages exprimés par les personnes concernées et les associations, 
+l’acronyme « parapluie » LGBT+ est utilisé ici pour dénoter cette ouver -
+ture au-delà des seules questions et personnes LGBT, sans pour autant 
+clore la liste artificiellement.
+« Le masculin l’emporte » : 
+23I. Le genre grammatical, ce douloureux problème
+Dans le cadre historique et social très particulier marqué 
+par le caractère central de l’Académie française et son rapport 
+ambivalent à la normativité, la question du genre grammatical 
+des mots se présente de prime abord comme une non-
+question, ce alors même que le genre neutre issu du latin a 
+totalement disparu du français moderne. En effet, comme 
+Georges Dumézil et Claude Lévi-Strauss l’ont rappelé lors 
+d’une déclaration en séance le 14 juin 1984 à l’Académie 
+française :
+En français, la marque du féminin ne sert qu’accessoirement à 
+rendre la distinction entre mâle et femelle. La distribution des 
+substantifs en deux genres institue, dans la totalité du lexique, un 
+principe de classification permettant éventuellement de distinguer 
+des homonymes, de souligner des orthographes différentes, de 
+classer des suffixes, d’indiquer des grandeurs relatives, des rap -
+ports de dérivation, et favorisant, par le jeu de l’accord des adjec -
+tifs, la variété des constructions nominales… Tous ces emplois du 
+genre grammatical constituent un réseau complexe où la désigna -
+tion contrastée des sexes ne joue qu’un rôle mineur. (Dumézil et 
+Lévi-Strauss, 1984)
+Le genre grammatical ne serait ainsi qu’une convention 
+de fait, qui recoupe certes la distinction masculin/féminin, 
+elle-même recoupant le dimorphisme mâle/femelle et 
+les classifications sociales qui y sont traditionnellement 
+surimposées, mais de manière secondaire, voire anecdotique. 
+Cette lecture, classique, s’appuie sur l’absorption du neutre 
+latin par le masculin français ; c’est-à-dire que les mots qui 
+étaient de forme neutre en latin sont pour la plupart devenus 
+des masculins en français. Dans cette optique, le masculin 
+devient le genre grammatical « non-marqué » recouvrant 
+aussi bien le proprement masculin que le ni l’un ni l’autre, et 
+le féminin le genre « marqué ».
+24
+Devenir non-binaire en français contemporainCependant, ainsi que le montre Lucy Michel (2017) – en 
+citant les propos de Bescherelle (2012), Bled (2015), Grammaire 
+méthodique du français (GMF, 2011) et La Grammaire du français 
+(GF, 1997) – cette distinction classique ne correspond en 
+aucune façon à la manière dont le genre grammatical est 
+enseigné ou appréhendé en France, notamment parce que la 
+différence est systématiquement référée aux noms animés :
+Bescherelle « Grammaire » : « Le genre des noms animés corres-
+pond en général à une distinction de sexe » (§ 62)
+Bescherelle « Orthographe » : « Le genre des noms de personnes 
+correspond presque toujours au sexe. » (§ 265)
+Bled : « [L] es noms d’êtres animés sont ordinairement du mascu -
+lin ou du féminin suivant le sexe » (14).
+GF : « Pour les noms référant à des animés (humains ou non), 
+l’opposition des sexes conduit parfois à une opposition en genre » 
+(349-350).
+GMF : « Les noms animés constituent une sous-classe où la dis-
+tinction des genres correspond en règle générale à une distinction 
+de sexe ». (329)
+La question de la sexuisemblance, c’est-à-dire l’idée que le 
+genre grammatical des noms inanimés correspond à une 
+division qui pourrait se rattacher à la division des sexes, relève 
+certes de l’hypothèse. Mais s’agissant des personnes, la règle 
+est en principe sans équivoque.
+Lorsque l’on s’intéresse non aux objets ou aux personnes 
+physiques, mais aux fonctions que ces dernières occupent, 
+émerge une question cruciale qui motive une bonne 
+partie des échanges sur ce sujet : celle des mots épicènes, 
+correspondants généralement à des neutres latins (et donc 
+à des masculins génériques en français). De nombreux 
+« Le masculin l’emporte » : 
+25mots, correspondant le plus souvent à des professions, ne 
+se retrouvent ainsi que sous forme masculine, sans forme 
+féminine dans le dictionnaire. Ainsi que le dit Henri Morier : 
+« C’est la tête qui fait l’ingénieur, le médecin, le docteur ès 
+sciences, l’écrivain, l’auteur, et le professeur. Dans ce cas, la règle 
+est constante : le nom de fonction est épicène, il est neutre ; et 
+puisque c’est le masculin qui assume ce rôle, le nom de fonction 
+est masculin » (Morier, 1993, 90). 
+Cette citation illustre fort bien la règle qui régit les usages 
+classiques de la langue, mais aussi l’impensé particulièrement 
+choquant qui régit cet usage lexical : la « tête » est une affaire 
+masculine et tout ce qui relève de cette dernière ne peut 
+s’accorder qu’au masculin puisqu’il s’agit pour ainsi dire du 
+« neutre » de la pensée. Ce d’autant plus que cet absolu a 
+une histoire, et une histoire assez discriminatoire : le français 
+du Moyen-Âge connaissait par exemple très bien le mot 
+« présidente » pour désigner une femme qui préside, mais 
+ce mot est devenu méprisant à partir du xvie siècle pour ne 
+désigner ensuite que la femme d’un président. Au xxe siècle, 
+une femme qui préside est ainsi nécessairement « un président » 
+pour l’Académie française. Pour les métiers utilisant « la 
+tête », c’est-à-dire les métiers socialement valorisés, la forme 
+épicène/masculine s’est ainsi imposée au détriment d’usages 
+antérieurs plus égalitaires, aboutissant à ce que Anne-Marie 
+Houdebine appelait « l’invisibilité linguistique des femmes » 
+(1990, 40). 
+Cette invisibilité est d’autant plus forte que même lorsque 
+le féminin existe, il est censé se subsumer au masculin dans 
+un groupe selon la règle traditionnelle « le masculin l’emporte 
+sur le féminin », toujours enseignée et toujours en vigueur. 
+Cette règle est une création du xviie siècle et obéit à des 
+raisonnements franchement sexistes : « Parce que le genre 
+masculin est le plus noble, il prévaut seul contre deux ou 
+plusieurs féminins, quoiqu’ils soient plus proches de leur 
+26
+Devenir non-binaire en français contemporainadjectif » selon Dupleix (1651) (Viennot, 2014, 68) ou « Le 
+genre masculin est réputé plus noble que le féminin à cause 
+de la supériorité du mâle sur la femelle » selon Beauzée (1767, 
+cité par Michel Arrivé [2013, 1]). Comme le montre très bien 
+Eliane Viennot (2014), derrière la neutralité officielle des 
+règles grammaticales, la réalité d’une grammaire codifiée 
+en fonction d’une vision sexiste des relations de genre est 
+démontrée au regard de l’histoire. De même que les limitations 
+de la créativité lexicale, les règles d’accord trahissent cette 
+réalité, puisque l’accord masculin prépondérant ne s’impose 
+qu’avec Vaugelas, disqualifiant ainsi la règle de l’accord de 
+proximité, pourtant d’emploi fréquent auparavant.
+Dès les années 1970, le mouvement féministe a pointé 
+du doigt la fausse neutralité grammaticale du français, et a 
+cherché à proposer ou redécouvrir des mots qui soulignent 
+la présence des femmes dans le secteur professionnel et 
+plus généralement dans la société française, à rebours des 
+règles instaurées pour les invisibiliser2. C’est ainsi que se 
+sont imposées ou réimposées de multiples formes féminines 
+des professions traditionnellement épicènes : écrivaine pour 
+écrivain, auteure ou autrice pour auteur et ainsi de suite.
+Mais cette créativité ne s’est pas arrêtée aux substantifs. 
+Au-delà des formes épicènes invisibilisant les femmes, 
+une interrogation plus profonde s’est posée sur l’usage 
+grammatical lui-même qui fait disparaître le féminin, même 
+majoritaire, derrière le masculin. « J’aime pas que tu me 
+gommes ! » disaient les résidentes du foyer féministe Fit, Une 
+femme un toit, illustrant par un slogan et une saynète ce que 
+représente concrètement de s’entendre dire qu’on ne compte 
+pas dans un groupe (Collao, 2014). De même, plus largement, 
+2 Même si « rendent invisible » serait préférable du point de vue de la 
+langue française, les néologismes « invisibilisation » et « invisibiliser » sont 
+désormais les termes employés surtout dans les milieux militants pour 
+souligner le fait qu’il s’agit d’une disparition délibérée.
+« Le masculin l’emporte » : 
+27le mouvement féministe du début du xxie siècle se retrouve 
+désormais dans les constats et les propositions formalisées 
+par le Haut-Commissariat à l’égalité entre les femmes et les 
+hommes dans sa publication Pour une communication publique 
+sans stéréotypes de sexe (2016). Proposant l’usage de l’accord 
+de proximité ou de nombre, ainsi que l’usage systématique 
+du féminin et du masculin pour les groupes mixtes, avec 
+une alternative marquée par le point médian (noms de 
+fonction, participes et adjectifs sont fléchis aux deux genres 
+grammaticaux lorsqu’il s’agit de désigner un groupe mixte, 
+avec un point médian pour séparer les formes du masculin 
+et du féminin : on parle ainsi d’un·e sénateur·rice lorsque ce 
+singulier désigne une de ces personnes de manière abstraite, 
+et des sénateur·rices au pluriel), les règles du français inclusif 
+permettent de rendre visible la différence entre groupes de 
+personnes de même sexe et groupes mixtes, afin d’assurer une 
+plus grande transparence et une meilleure prise de conscience 
+des inégalités et exclusions existantes.
+Promues par un organisme public sans autorité particulière 
+pour régenter les usages linguistiques, ces règles ont dans 
+un premier temps été encouragées et suivies par plusieurs 
+ministères, entre autres. Mais le gouvernement Édouard 
+Philippe a adopté une circulaire le 21 novembre 2017, validée 
+par le Conseil d’État le 28 février 2019, pour décourager « les 
+pratiques rédactionnelles et typographiques visant à substituer 
+à l’emploi du masculin, lorsqu’il est utilisé dans un sens 
+générique, une graphie faisant ressortir l’existence d’une forme 
+féminine », visant donc explicitement les pratiques d’écriture 
+« inclusive ». Si de nombreuses collectivités, rédactions et 
+associations ont au contraire adopté avec enthousiasme ces 
+pratiques, elles font au niveau de la représentation nationale 
+encore l’objet d’atermoiements, voire de rejet politique : le 
+23 février 2021 était ainsi déposée une proposition de loi 
+« portant interdiction de l’usage de l’écriture inclusive pour 
+28
+Devenir non-binaire en français contemporainles personnes morales en charge d’une mission de service 
+public », signée par une soixantaine de parlementaires3. 
+II. Féminisation, inclusion, sublimation : stratégies linguistiques des 
+associations LGBT+ en 2018 en France
+La formalisation de règles grammaticales féministes en 
+France ne s’est donc pas faite sans opposition, en particulier 
+de la part de l’Académie française qui rejette, au nom des 
+usages reçus, les « barbarismes » du français inclusif.
+Mais du côté des associations LGBT+, la réception de ce 
+débat a recoupé d’autres interrogations : serait-il possible, au-
+delà de la binarité homme/femme, de rendre visible d’autres 
+identités de genre ? Ou de trouver des formulations pouvant 
+inclure toute forme de mixité et tout type de rapport aux 
+identités de genre classiques ? En d’autres termes, le français 
+inclusif permet-il de faire abstraction de la binarité femme/
+homme ou cette dernière est-elle si prégnante dans ce cadre 
+qu’elle empêche de penser d’autres identités de genre ?
+Les règles du français inclusif reposent sur l’articulation 
+du féminin et du masculin dans les groupes mixtes par le 
+biais du point médian, ce qui peut être lu comme une 
+systématisation de l’alternative homme/femme dans une 
+optique hétéronormative. Mais il s’agit aussi d’une visibilisation 4 
+alternative des rapports de genre qui peut être lue comme 
+une tentative de dépasser les genres grammaticaux existants.
+Ces lectures sont particulièrement adaptées aux formes 
+d’engagement des associations LGBT+, dont l’histoire a 
+partie liée avec le mouvement féministe, malgré de réelles 
+3 Proposition de loi nº 3922. Accessible en ligne sur le site de l’As-
+semblée nationale : https://www.assemblee-nationale.fr/dyn/15/textes/
+l15b3922_proposition-loi.
+4 Voir note numéro 2 pour la logique de ce néologisme. 
+« Le masculin l’emporte » : 
+29divergences. Ainsi que le disait le Front homosexuel d’action 
+révolutionnaire dans son manifeste de 1971 : « Le F.H.A.R., 
+qui veut unir lesbiennes et pédés, rejette cependant dans 
+sa composition l’oppression des femmes contre laquelle il 
+entend aussi lutter. Mais il est de fait que les hommes y sont 
+actuellement en majorité ».
+Cette majorité est d’autant plus réelle, dans de nombreuses 
+organisations, que les associations proprement lesbiennes 
+se sont graduellement séparées des associations LGBT+ 
+généralistes, notamment dans les années 2010 avec le retrait 
+de la Coordination lesbienne en France de l’Inter-LGBT, la 
+fédération associative gérant la Marche des fiertés parisienne.
+Dans les associations LGBT+, cependant, cette séparation 
+ne s’est pas assortie d’une masculinisation apparente des 
+usages langagiers des associations : plus ou moins minoritaires 
+dans les associations LGBT+ « généralistes », les femmes ont 
+néanmoins acquis une visibilité nette dans les textes en lien 
+avec la prise de conscience par les associations de la portée 
+politique des usages langagiers et de la nécessité de revaloriser 
+l’investissement des femmes plus généralement.
+Cependant, comme les associations gaies et lesbiennes 
+puis LGBT+ n’ont pas attendu la stabilisation des usages 
+proposée par le Haut-Commissariat à l’égalité entre les 
+femmes et les hommes promouvant l’usage du point médian, 
+elles ont engagé au fil de leur histoire, en fonction de leur 
+positionnement, leurs propres usages, et ce legs impacte les 
+stratégies retenues actuellement.
+Le tableau suivant ( Figure 1) illustre les choix grammaticaux 
+et lexicaux faits par cinq grandes associations LGBT au 
+début de l’année 2018, appréciés à l’aune des communiqués 
+de presse indiqués sur leur page, en fonction de la prévalence 
+des formes féminines.
+30
+Devenir non-binaire en français contemporain
+Figure 1. Stratégies de l’usage du féminin de quelques associations LGBT, 
+début 2018.
+Une seule association (Act Up-Paris) se démarque par 
+son choix d’utiliser systématiquement non seulement le 
+féminin (appliquant donc la règle « le féminin l’emporte »), 
+mais de signifier la portée politique de ce choix y compris 
+par le biais de la casse, en mettant la marque du féminin 
+en majuscules. Dans un contexte où la double flexion se 
+généralise (y compris dans les administrations publiques), 
+son emploi par les associations LGBT+, bien que de rigueur, 
+ne suffit plus à distinguer ces dernières de l’ensemble des 
+associations progressistes ; mais l’inversion radicale de la 
+règle reçue traduit une stratégie d’inversion clairement 
+assumée et suffit à marquer un engagement. Il faut souligner 
+paradoxalement que l’association en question n’est pas en 
+2018 marquée par une proportion forte de femmes dans 
+son personnel militant (le conseil d’administration annoncé 
+le 1er avril 2018 comporte cinq personnes, toutes genrées 
+au masculin malgré la féminisation en majuscules de leurs 
+intitulés de fonctions).
+Une limite se pose cependant pour toutes les associations 
+s’agissant de l’intégration des problématiques liées à la non-
+binarité. Les règles égalitaires reposent en effet jusqu’ici 
+« Le masculin l’emporte » : 
+31sur la déclinaison aux deux formes des noms de fonctions 
+et autres adjectifs. Mais ce faisant, elles valident la division 
+binaire en deux genres grammaticaux, d’autant plus associée 
+au dimorphisme sexuel humain et aux rapports sociaux qui 
+en découlent que le règne de l’épicène se réduit. En effet, 
+dire que des formes féminines s’imposent pour les fonctions 
+jusqu’alors considérées comme épicènes, c’est dire que la 
+forme présentée traditionnellement comme « non marquée » 
+est bien masculine : c’est à la fois dénoncer le caractère 
+de fait genré de « l’universel » masculin, et proposer pour 
+sortir de cette fausse neutralité une alternative binaire 
+masculin/féminin qui referme le champ des possibles. On 
+se retrouve donc ainsi dans un choix paradigmatique qui 
+rejoint la division présentée par Eric Fassin et Michel Feher 
+(2001) entre universalisme de Rousseau et universalisme de 
+Condorcet : rééquilibrer la place du féminin dans un cadre de 
+réflexion qui le disqualifie implique une polarisation des rôles 
+sociaux de sexe, ce qui peut renforcer une lecture binaire et 
+hétéronormative de ces derniers ; tandis que généraliser la 
+forme présentée comme non-genrée reviendrait à ignorer la 
+réalité d’une inégalité de genre que cette forme rend invisible.
+Or de nombreuses personnes ne se retrouvent pas dans 
+la binarité traditionnelle des genres grammaticaux et sociaux. 
+Se sentent-elles incluses dans les usages actuels de la langue 
+française ? Comment les désigner dans un cadre grammatical 
+à deux genres ?
+Dans le sillage de la réflexion engagée autour de l’usage 
+égalitaire du français ont émergé plusieurs tentatives de 
+dépasser la binarité et de chercher une plus grande égalité 
+linguistique non pas dans la polarisation des deux genres, 
+mais dans l’émergence de formes nouvelles qui s’extraient de 
+cette dichotomie.
+En s’inspirant de formes anciennes, Céline Labrosse (1996) 
+a ainsi créé de nouvelles formes neutres comme professionnèles 
+32
+Devenir non-binaire en français contemporainet les participes passés appelez, avertiz, venuz… D’autres 
+proposent des formes neutres issues de la juxtaposition des 
+formes : nombreuxses (Greco, 2014), amoureureuse (Abbou, 
+2011). C’est un travail plus systématique et radical que 
+propose Alpheratz dans sa Grammaire du français inclusif (2018), 
+ouvrage lié à un travail universitaire réalisé sous la direction de 
+Philippe Monneret, linguiste et professeur à Paris Sorbonne 
+Université. L’ouvrage d’Alpheratz inclut en particulier la mise 
+en avant du pronom neutre al.5 Il ne s’agit pas là de la seule 
+proposition en matière de pronoms neutres. Si iel combine 
+les formes existantes et semble d’emploi majoritaire dans 
+d’autres contextes nationaux, les variantes al (qui ne présente 
+ni le i ni le e des pronoms féminins et masculins, mais ne se 
+distingue pas fortement en termes de prononciation), ou les 
+formes plus radicales ol or ul (Barasc et Causse, 2014) restent 
+concurrentes dans le contexte français.
+Les associations, bien que la plupart aient globalement 
+pris le pli de demander aux personnes avec qui elles sont 
+en contact les pronoms que ces dernières préfèrent, n’ont 
+jusqu’ici pas encore fait de choix net entre ces formes, 
+notamment parce que les usages individuels restent très divers. 
+S’agissant de la reconnaissance des formes non-binaires, une 
+forme d’expectative semble donc se dessiner, en 2018, parmi 
+les associations généralistes LGBT+ françaises.
+III. Individuation et indifférenciation : les stratégies divergentes des 
+personnes non-binaires en France en 2018
+C’est pour mieux appréhender les souhaits et usages au 
+quotidien des personnes non-binaires qu’est né le projet 
+qui fait l’objet des présentes pages. Pour informer l’action 
+associative, plusieurs entretiens ont été menés auprès de 
+5 Pour une discussion plus élaborée sur ces termes, voir l’entretien avec 
+Alpheratz dans ce recueil, p. 221-240.
+« Le masculin l’emporte » : 
+33personnes s’identifiant comme non-binaires, dans l’optique 
+de dégager par la multiplication des entretiens les préférences 
+majoritaires des personnes concernées s’agissant de pronoms 
+et de choix grammaticaux.
+Cette démarche ne vise pas à disqualifier un pronom ou 
+un choix par rapport à un autre, ou à en préempter. Il s’agit 
+simplement de mieux comprendre quelles sont les attentes 
+de personnes non-binaires en France en ce qui concerne les 
+usages de pronoms et d’accord. Au mois d’avril 2018, quatre 
+entretiens semi-directifs ont pu être réalisés. Ce nombre 
+ne permet aucune extrapolation, et le caractère limité de 
+l’échantillon, constitué par boule de neige dans un contexte 
+très parisien, confirme cette limitation. Exploratoires, ces 
+premiers entretiens visaient à mieux cerner par une approche 
+qualitative différentes stratégies possibles pour adapter un 
+questionnaire plus quantitatif dans un deuxième temps, 
+mais la seconde partie de ce travail a été suspendue, le projet 
+associatif dont il dépendait étant lui-même interrompu, mais 
+des contacts ont été pris pour le reprendre après la crise 
+sanitaire liée au coronavirus.
+Ces premiers entretiens permettent néanmoins de mettre 
+en avant la notion de stratégie linguistique qualifiée par les 
+choix rapportés par les personnes entretenues en matière 
+de pronoms et de présentation de soi. Tous les entretiens 
+réalisés mettent en avant une distinction entre plusieurs 
+sphères, concentriques, de relations avec les personnes, et de 
+choix délibérés faits par les personnes pour chaque sphère. 
+Les Figures 2 à 5 ci-dessous offrent une représentation 
+de la stratégie pronominale employée par les personnes 
+interviewées pour parler de soi dans différents contextes 
+sociaux.
+34
+Devenir non-binaire en français contemporain
+Figure 2. W : La généralisation des doublets
+Dans un cas, le choix effectué est le même pour toutes 
+les sphères. « L’écriture inclusive inclut tout le monde : je 
+m’inclus donc dedans » dit W , qui utilise au quotidien un 
+doublet de son prénom à l’état civil (c’est-à-dire les formes 
+masculines et féminines d’un même prénom, ici avec un 
+trait d’union comme s’il s’agissait d’un prénom composé, 
+comme pourrait l’être « Jean-Jeanne » pour le prénom Jean), 
+avec pour la forme féminine une graphie alémanique, reflet 
+de ses origines alsaciennes. W utilise indifféremment « il » 
+ou « elle » pour parler de soi, et privilégie pour les accords 
+l’usage de la double flexion avec point médian (« Ce qui me 
+vient spontanément, c’est d’écrire “désolé·e” »). Il·elle est 
+ouvert·e sur son identité de genre auprès de tous les publics, 
+et jusque sur les listes syndicales pour lesquelles il·elle est 
+candidat·e, avec demande de la suppression de la civilité 
+« Monsieur ». Pour autant, il·elle ne se formalise pas du 
+choix de pronoms fait par les autres à son sujet : « W’ [forme 
+« Le masculin l’emporte » : 
+35masculine du prénom] ou W* [forme féminine], les 2 me 
+vont et vous vous démerdez ». Si n’importe quel pronom 
+peut convenir, notamment en lien avec les habitudes des 
+personnes qui le·la connaissent depuis longtemps, pour 
+parler de soi, en revanche, il·elle utilise indifféremment il, 
+elle, iel ou d’autres pronoms neutres, et s’interroge sur la 
+complexité de reconnaître dans la langue française d’autres 
+identités que le féminin ou le masculin.
+Figure 3. X : Le féminin est politique
+X suit en large mesure l’usage du doublet ou de 
+n’importe lequel des pronoms dans la sphère intime et 
+proche. S’agissant de l’entourage professionnel, X préfère 
+le féminin pour des raisons politiques, mais préfère les 
+formules détournées lorsqu’il s’agit d’interagir avec des 
+personnes moins familières : « Avec mes collègues, je me 
+genre au féminin. Quand ce sont des personnes que je 
+ne connais pas bien, je trouve des formules détournées, 
+36
+Devenir non-binaire en français contemporainépicènes ». Utilisant un prénom à double flexion masculine 
+et féminine séparée par un trait d’union (pour reprendre 
+l’exemple du prénom Jean, cela donnerait « Jean-ne »), 
+et non par un point médian (« J’utilise le tiret […] parce 
+que le point médian n’était pas connu du tout quand j’ai 
+commencé à le faire »), la visibilité de X est claire y compris 
+dans la sphère professionnelle. S’agissant d’interlocuteurs 
+et d’interlocutrices plus distant·es, X préfère l’usage 
+du féminin, notamment pour des raisons d’affirmation 
+politique. Conscient·e des difficultés « de bonne foi » de 
+certaines personnes avec le point médian ou le E majuscule, 
+X ne se formalise pas nécessairement quant aux formes 
+utilisées par les autres, dès lors qu’aucun jugement n’y est 
+associé. Il·elle déclare utiliser spontanément « Je soussigné·e 
+X » et avoir parfois utilisé iel comme pronom, même si ce 
+n’est pas systématique. La question de la civilité est esquivée, 
+mais reconnue comme un enjeu d’égalité au quotidien, y 
+compris dans une perspective de classe (« Monsieur ou 
+madame renvoie à une position de haut en bas, je ne me 
+sens pas de rentrer dans ce jeu à la con »… « Mais le fait 
+de dire Monsieur ou Madame aux gens est requis par les 
+patrons. On est tous côtoyé·es par le commerce donc il y a 
+vraiment un travail à faire. Il faudrait frapper sur les centres 
+de formation »). 
+« Le masculin l’emporte » : 
+37
+Figure 4. Y : Neutraliser les marqueurs binaires et ouvrir le champ des pronoms
+Y privilégie un usage encore plus diversifié des pronoms, 
+reposant sur la superposition et le décalage : « Je fonctionne 
+par superposition du prénom masculin et d’une vie au genre 
+féminin », tout en revendiquant pour soi le pronom ol par 
+refus des deux pôles binaires. Ayant demandé et obtenu un 
+changement de prénom grâce aux récentes lois assouplissant 
+quelque peu la reconnaissance de l’identité de genre et des 
+prénoms des personnes, Y n’a pour autant pas choisi un 
+prénom classiquement vu comme mixte (mais il s’agit d’un 
+prénom rare et perçu comme moins marqué). Y accepte 
+l’usage du pronom masculin de la part des membres de sa 
+famille. Pour autant, ce pronom est, dans la bouche d’autres 
+personnes, perçu comme plus violent que le pronom féminin, 
+revendiqué par défaut auprès du public le plus général : « Pour 
+moi, partir sur le contraire du pronom de naissance est une 
+bonne stratégie. Je ressens plus de violence quand on me 
+mégenre sur l’assignation garçon ». Avec d’autres personnes 
+non-binaires, Y a monté une association et cherche à faire 
+38
+Devenir non-binaire en français contemporainémerger des recommandations de bonnes pratiques en la 
+matière, une initiative utile et attendue de la part de nombreux 
+acteurs associatifs. Un point sur lequel se réunissent ses 
+ami·es est le rejet de la lecture des formes masculines des 
+mots comme « non marquée » : « On est bien d’accord que le 
+masculin neutre est un problème. Dans notre association, on 
+n’a pas de charte, mais on a des usages : les adjectifs en – eux 
+deviennent –euxse, et les mots comme “lecteur” deviennent 
+“lecteurice” ».
+Figure 5. Z : Choisir ses combats
+Enfin, Z pour sa part choisit un positionnement plus en 
+demi-teintes, en lien avec son cheminement personnel. « Je 
+suis né·e avec un seul prénom [un prénom mixte]. J’ai détesté 
+ce prénom parce qu’on m’associait aux filles et qu’on se 
+moquait de moi. » En lien avec l’affirmation de son orientation 
+sexuelle et avec un cheminement personnel l’amenant à 
+Paris, Z a privilégié un prénom masculin plus affirmé dans 
+« Le masculin l’emporte » : 
+39les dernières années, tout en rejetant l’assignation à un genre 
+en particulier. « Il n’y a aucun accord, aucun pronom qui 
+satisfasse mon identité (…) Il ou elle te force à choisir, je ne 
+veux pas renoncer ». Reconnaissant une « bienveillance » de 
+la part de son entourage professionnel, Z ne pense pas pour 
+autant possible de faire valoir une identité de genre non-
+traditionnelle auprès de ce cercle, et choisit donc d’utiliser le 
+pronom attribué à la naissance, tout comme dans la sphère 
+familiale. Dans la sphère amicale et proche, les pronoms 
+masculins ou féminins sont également acceptés et rejetés, 
+et aucune forme non-genrée ne semble se dégager. En 
+responsabilité associative, Z préfère l’usage du point médian.
+Ces différentes stratégies, pour parcellaire que soit la 
+sélection d’entretiens, montrent une richesse et une créativité 
+personnelle dans les choix effectués, et pointent une réalité 
+plus complexe que le simple choix d’un pronom unique, dans 
+laquelle différents positionnements, dans différents contextes, 
+se traduisent par des stratégies qui sont en elles-mêmes autant 
+de modalités d’expressions de soi et de son rapport au genre. 
+Cette réalité est également instruite du caractère très normatif 
+des usages linguistiques en France, où le « bon usage » est un 
+marqueur social important, et où l’Académie française qui en 
+est réputée garante a pris fait et cause contre toute évolution 
+des genres grammaticaux. Là où, en 2017, 314 membres du 
+corps professoral ont signé un manifeste par lequel elles et 
+ils refusaient d’enseigner la règle « le masculin l’emporte » 
+(Slate.fr, 2017), symbole sine qua non du caractère différencié 
+et hiérarchisé des genres grammaticaux, l’Académie française, 
+elle, voyait dans l’écriture inclusive « un péril mortel » pour la 
+langue française (Académie française, 2017).
+40
+Devenir non-binaire en français contemporainConclusion
+Dans une démarche de dépassement de la binarité, les 
+personnes non-binaires interrogées se retrouvent également 
+dans les revendications d’égalité du français inclusif et 
+reprennent à leur compte la double flexion avec point médian, 
+ou parfois l’usage stratégique ou politique de l’un des deux 
+genres, dans les cadres publics où cette revendication est 
+possible, par exemple dans le cadre associatif. En revanche, 
+ce choix n’est pas nécessairement le leur dans le cadre du 
+rapport à soi, où les formes nouvelles sont préférées, avec 
+une certaine variation dans les choix entre la forme plébiscitée 
+au Canada, iel, et les formes sans doute plus hexagonales al, 
+ol ou ul. Porteuses de nombreux développements langagiers 
+possibles, ces stratégies donnent des indications et soulignent 
+l’importance de prendre en compte plusieurs niveaux de sens 
+et plusieurs possibilités de présentation de soi. Si les pronoms 
+non-binaires rencontrent un certain succès, ils sont loin de 
+constituer l’ensemble des enjeux linguistiques associés, dans 
+le contexte politico-linguistique particulier à la France, aux 
+identités de genre non-binaires. Respecter les choix et stratégies 
+de chacun·e suppose une prise en compte plus large, qui 
+laisse la place à des évolutions et à des usages différenciés en 
+fonction des sphères et l’émergence de préférences issues de 
+collectifs autoportés par les personnes concernées, aujourd’hui 
+faiblement constituées au niveau associatif ou collectif. Pour 
+autant, la revendication d’une reconnaissance est exprimée 
+et demande une réponse de la part des associations LGBT+ 
+en premier lieu : cette réponse doit se faire dans le respect du 
+mouvement poïétique actuellement à l’œuvre en la matière, 
+ce qui signifie l’acceptation des différentes formes existantes 
+et d’une nébuleuse de possibilités qui ne se traduit pas par 
+un seul et même registre et un seul pronom à l’heure actuelle 
+dans le cadre français.
+« Le masculin l’emporte » : 
+41Références citées
+ABBou , Julie, 2011. L’Antisexisme linguistique dans les brochures 
+libertaires : Pratiques d’écriture et métadiscours , Aix, Université 
+de Provence.
+ACAdémie frAnçAise , 2017. « Déclaration de l’Académie 
+française sur l’écriture dite inclusive ». https://bit.
+ly/2YMzgLr. Dernière consultation le 12 septembre 2021.
+AlpherA tz, 2017. « Un Genre neutre pour la langue française ». 
+https://bit.ly/2GUy2m7. Dernière consultation le 
+6 septembre 2021.
+AlpherA tz, 2018. Grammaire du français inclusif , Châteauroux, 
+Vent solars Éditions. 
+Arrive , Michel, 2013. « Le masculin l’emporte sur le 
+féminin » : peut-on y remédier ? », Féminin, masculin : la 
+langue et le genre, Langues et cité (Bulletin de l’observatoire des 
+pratiques linguistiques) . Repris de http://www.elianeviennot.
+fr. https://bit.ly/2SS2Fes. Dernière consultation le 
+6 septembre 2021.
+BArAsC , Katy et CAusse, Michèle, 2014. Requiem pour il et elle , 
+Donnemarie-Dontilly, Paris, Éditions iXe.
+Centre nAtionAl de lA reCher Che sCientifique /institut 
+nAtionAl de lA lAnGue frAnçAise . 1999. « Femme, 
+j’écris ton nom... Guide d’aide à la féminisation des 
+noms de mé tiers, titres, grades et fonctions » , Paris, La 
+Documentation française. https://bit.ly/2SRK9TE . 
+Dernière consultation le 6 septembre 2021.
+CollA o, Claudia (dir.), 2014. J’aime pas que tu me gommes ! 
+FIT. Youtube.com, Janv. 22. https://www.youtube.com/
+watch?v=HUOZzJDrnMw. Dernière consultation le 6 
+septembre 2021
+42
+Devenir non-binaire en français contemporaindumezil , Georges et lévi-strAuss, Claude, 1984. 
+« Déclaration de l’Académie française sur la féminisation 
+des titres et des fonctions. » 14 juin. https://bit.
+ly/1xlVTh4. Dernière consultation le 6 septembre 2021.
+elmiGer , Daniel, 2015. « Le statut du genre neutre en français 
+contemporain et les propositions de “neutralisation” de la 
+langue », Implications philosophiques , le 29 juin. https://bit.
+ly/2ZHL1yV . Dernière consultation le 6 septembre 2021.
+fAssin , Éric et Michel Feher, 2001. « Parité et pacs : anatomie 
+politique d’un rapport », Au-delà du Pacs : l’expertise familiale 
+à l’épreuve de l’homosexualité , dirigé par Daniel Borillo et 
+Eric fAssin , Paris, PUF, p. 11-43.
+front homosexuel d’ACtion révolutionnAire (FHAR), 
+1971. « Rapport contre la normalité ». https://inventin.
+lautre.net/livres/FHAR.pdf. Dernière consultation le 
+6 septembre 2021.
+GreCo , Luca, 2014. « Les Recherches linguistiques sur le 
+genre : un état de l’art », Langage et société , no 148, p. 11-29.
+Groult, Benoîte, 1975. Ainsi soit-elle . Paris, Grasset.
+hAut-CommissAriA t à l’éGAlité entre les femmes et les 
+hommes . 2015. « Guide pratique pour une communication 
+publique sans stéréotype de sexe ». https://bit.
+ly/1PccmRa. Dernière consultation le 6 septembre 2021.
+houdeBine , Anne-Marie, 1990. « La féminisation des noms 
+de métiers en français contemporain », La différence sexuelle 
+dans le langage, Actes du Colloque ADEC – Université Paris 3, 
+décembre 1988 , Nice, Z’éditions, p. 39-77.
+miChel , Lucy, 2017. « Les genres décrits n° 1 », GLAD ! n° 3, 
+10 décembre. http://www.revue-glad.org/902. Dernière 
+consultation le 6 septembre 2021.
+« Le masculin l’emporte » : 
+morier , Henri, 1993. « Ah ! la belle professeure ! Où nous 
+mène le désir d’une sexuisemblance généralisée », Cahiers 
+Ferdinand de Saussure , n° 47, p. 83-105.
+slAte.fr, 2017. « Nous n’enseignerons plus que “le masculin 
+l’emporte sur le féminin” », Slate.fr, le 7 novembre. 
+https://bit.ly/2jroVA3. Dernière consultation le 
+6 septembre 2021.
+viennot , Éliane, 2014. Non, le masculin ne l’emporte pas sur le 
+féminin ! Petite histoire des résistances de la langue française, Paris, 
+Éditions, iXe.
+45
+Briser le silence, occuper l’absence : 
+transféminismes francophones et (in)justices 
+épistémiques
+Alexandre Baril
+Traduire ou ne pas traduire, telle est la question…
+En tant que chercheur qui travaille aussi bien en français 
+– ma langue d’origine – qu’en anglais, il arrive souvent que 
+certains de mes textes soient publiés simultanément en deux 
+langues ou encore que ceux publiés en anglais soient par la suite 
+republiés en français, comme c’est le cas de l’article « Trans/
+féminismes francophones : Absence, silence, émergence » 
+présenté dans les pages qui suivent. Lorsque Vinay Swamy 
+et Louisa Mackenzie m’ont approché pour la traduction 
+et l’inclusion de ce texte dans le présent ouvrage collectif, 
+mon premier instinct aurait été de décliner l’invitation ou 
+de les guider vers d’autres de mes travaux, comme ceux à 
+l’intersection de la transitude, du handicap et du langage 
+(Baril, 2016) qui, bien que produits à la même période, 
+semblaient plus actuels au regard de croisements théoriques 
+46
+Devenir non-binaire en français contemporainqui demeurent à ce jour sous-documentés, comme ceux entre 
+les études trans, les études du handicap et la sociolinguistique, 
+alors que le trans/féminisme dans la francophonie traité 
+dans l’article traduit ici s’est développé de manière plus 
+importante depuis la publication de mon article original. Je 
+me disais ainsi que la traduction et la republication de ce texte 
+sembleraient obsolètes étant donné tous les développements 
+qui ont eu lieu depuis 2016 en études trans francophones, 
+particulièrement en ce qui concerne les mondes possibles qui 
+ont été ouverts sur le langage non-binaire et inclusif par de 
+jeunes chercheur·es qui commencent à laisser leur trace sur 
+ces thématiques (ex. : Ashley, 2017; 2019; Crémier, 2021). 
+Toutefois, en relisant attentivement le texte original 
+et en réalisant que l’accent était moins sur le langage non-
+binaire et inclusif – un champ qui, je l’avoue, a évolué si 
+rapidement que je me sentirais à la remorque pour en discuter 
+en profondeur – que sur les impacts qu’être francophone 
+implique sur la manière de conceptualiser les enjeux trans et 
+les rapports qu’entretiennent spécifiquement les féministes 
+francophones à l’égard des enjeux trans, j’ai été rapidement 
+convaincu que non seulement une traduction de ce texte était 
+pertinente, mais actuelle. Pour résumer en une phrase ce que 
+je développerai dans les pages qui suivent : il m’a semblé 
+que la publication de ce texte était criante d’actualité au 
+regard de ce que je considère comme une situation toujours 
+stagnante et problématique relative aux enjeux trans dans les 
+féminismes francophones, alors que les mouvements et les 
+études trans ont, de manière autonome, connu une explosion 
+fulgurante dans la dernière décennie. C’est précisément ce 
+clivage entre, d’une part, l’évolution rapide et multiforme de 
+ce mouvement social et ce champ d’études et, d’autre part, 
+la relative absence de prise en considération de ceux-ci dans 
+les études féministes francophones, qui m’a persuadé de la 
+pertinence de publier la traduction de ce texte et de réitérer 
+Briser le silence, occuper l’absence
+47le cri du cœur et l’appel que j’avais alors lancés aux féministes 
+francophones d’inclure les enjeux et les perspectives trans 
+dans leurs épistémologies, théories, méthodologies et actions 
+politiques. De fait, si aujourd’hui les activistes et chercheur·es 
+trans intègrent le féminisme à leurs réflexions et à leurs 
+praxis, ce qui donne lieu à des trans/féminismes pluriels dans 
+la francophonie, le contraire est encore trop peu fréquent. 
+Il semble donc que mon appel aux féministes francophones 
+soit resté lettre morte, ou presque, et j’espère que la nouvelle 
+parution de ce texte sera une occasion renouvelée pour saisir 
+cette opportunité. La présente introduction à la traduction 
+de ce texte propose d’abord une courte historicisation et 
+brève contextualisation de la production originale de cet 
+article publié en 2016 dans TSQ : Transgender Studies Quarterly, 
+pour ensuite analyser l’évolution depuis 2015 du Congrès 
+international des recherches féministes dans la francophonie 
+(CIRFF) qui constituait l’étude de cas au cœur de l’article 
+dans TSQ, avant de conclure sur quelques réflexions plus 
+générales quant à la place que prennent désormais les trans/
+féminismes dans la francophonie.
+I. Contexte de production de l’article original dans TSQ
+Certaines personnes auront peut-être remarqué, en 
+consultant l’article original publié en anglais dans TSQ en 
+2016, que celui-ci avait été traduit par Catriona LeBlanc, la 
+même traductrice qui a traduit la version française de ce texte 
+pour le présent ouvrage collectif. Il s’agit d’une situation pour 
+le moins rare et particulière ; si l’article original publié était 
+traduit du français à l’anglais, pourquoi devions-nous avoir 
+recours, pour la présente version dans cet ouvrage français, 
+à une traductrice pour retraduire le texte ? Autrement dit, 
+pourquoi n’avons-nous pas utilisé le texte original français à 
+partir duquel la traduction vers l’anglais avait été faite pour 
+la revue TSQ ? La réponse est que ce texte original français 
+48
+Devenir non-binaire en français contemporainn’existe pas, du moins pas dans un format définitif. Pour 
+lancer une boutade et paraphraser Judith Butler (2001, 154) 
+affirmant que « le genre est une sorte d’imitation qui ne renvoie à 
+aucun original » [italique dans la citation], je dirais que le présent 
+texte est au final la traduction (ici française) d’une traduction 
+(anglaise dans TSQ) sans aucun original. Toujours en s’inspirant 
+de Butler, on pourrait dire que la traduction et subséquente 
+retraduction de ce texte réifient l’idée d’une source originale 
+qui n’a jamais à proprement parler existé, mais qui demeure 
+performative. 
+Pour contextualiser cette affirmation, rappelons que 
+j’avais soumis en 2015 à Catriona LeBlanc, qui traduisait alors 
+plusieurs de mes textes, un article pour TSQ qui n’était ni 
+en français ni en anglais, mais à mi-chemin entre les deux 
+langues et même d’une troisième langue, comme on l’appelle 
+souvent dans la capitale du Canada à Ottawa, le « franglais » 
+(une combinaison de français et d’anglais dans une même 
+phrase ou un même discours). Le texte comprenait donc 
+des passages en anglais à réviser, puisqu’il ne s’agit pas de 
+ma langue première ; des passages en français à traduire vers 
+l’anglais ; puis des passages en « franglais » à traduire/réviser, 
+puisque les idées, les théories et les concepts dont je discutais 
+en contexte francophone n’existaient encore que peu ou 
+pas dans la langue française. Il serait possible de dire que les 
+chercheur·es francophones en études trans vivaient à cette 
+époque pas si lointaine une pauvreté épistémique importante 
+sur le plan des savoirs et des connaissances dues à des 
+formes d’injustices épistémiques (Fricker, 2007) découlant 
+de l’absence marquée du développement des études trans 
+francophones, ce qui les plaçait devant deux situations. D’un 
+côté, accepter dans une certaine mesure l’impérialisme culturel 
+et linguistique anglophone et emprunter les outils conceptuels 
+et le vocabulaire dérivés des études trans anglophones. D’un 
+autre côté, briser le silence entourant les enjeux trans dans 
+Briser le silence, occuper l’absence
+49la francophonie et occuper cette absence en jouant des rôles 
+de passeur·euses d’idées et de termes en provenance des 
+milieux anglophones, mais aussi en faisant des traductions 
+linguistiques et culturelles dans leur contexte propre pour 
+mobiliser ces notions au regard des communautés trans 
+spécifiquement francophones. 
+C’est dans ce contexte de relative absence de termes 
+propres aux études trans francophones qu’est apparue cette 
+traduction sans original ; il y avait tant de termes inexistants 
+en français et pourtant très utilisés en études trans en anglais 
+(ex. : stealth , passing , cisgenderism , etc.) que le texte que j’avais 
+écrit et qui devait être traduit par Catriona en anglais pour 
+TSQ contenait de grands passages et de nombreux termes en 
+anglais ; ce n’était donc pas un texte en français à proprement 
+parler. C’était le cas notamment du terme transness , pour 
+lequel j’avais dû créer un néologisme en français pour l’une 
+des deux communications présentées au CIRFF auxquelles 
+fait référence l’article dans TSQ. Transness fût traduit par 
+« transitude », un terme qui a largement circulé au cours 
+des dernières années au point de devenir un terme de 
+prédilection de plusieurs personnes dans les communautés 
+trans francophones et d’être adopté par l’Office québécois 
+de la langue française (OQLF, 2019). Catriona et moi nous 
+étions alors consulté·es à de nombreuses reprises (et avions 
+réfléchi pendant quelques semaines sur ce mot seulement !) 
+afin de déterminer les meilleures options pour traduire le 
+concept de transness en français. Catriona me proposait alors 
+un ensemble de suffixes (rappelons que le suffixe « -itude » 
+sert à qualifier un état, donc le terme « transitude » réfère 
+à l’état d’être trans) et moi, en m’inspirant d’auteur·es dans 
+d’autres champs du savoir aux prises avec des problèmes 
+similaires, notamment en études du handicap – je pense ici 
+à l’activiste et auteure Sourde Véro Leduc (2017) qui avait 
+traduit dans sa thèse deafness par « sourditude » et qui m’avait 
+50
+Devenir non-binaire en français contemporainservi de point de référence – j’avais décidé de proposer 
+le néologisme « transitude » lors de la soumission de ma 
+proposition de communication pour le CIRFF en 2014. Le 
+terme a rapidement été disséminé dans les communautés 
+grâce à son usage par la populaire bédéiste trans et féministe 
+Sophie Labelle dans ses bandes dessinées et lors d’entrevues 
+accordées aux médias (Labelle, 2015). Cet exemple de la 
+création « forcée » de néologismes en français, un parmi tant 
+d’autres, démontre à quel point, dans un passé pas si lointain 
+(2014 !), des termes désormais officialisés et si populaires en 
+lien avec les enjeux et identités trans étaient tout simplement 
+absents du paysage francophone, ce qui explique en partie 
+l’absence d’un texte original français qui aurait pu être, dans 
+le présent ouvrage, simplement reproduit plutôt que retraduit . 
+Il aura donc fallu passer par une première traduction, puis 
+une retraduction, pour créer au final un texte « original » en 
+français, d’où le caractère performatif du texte proposé dans 
+cet ouvrage collectif…
+II. Le CIRFF : évolution ou stagnation ?
+Le texte publié dans TSQ avait d’abord fait l’objet d’une 
+présentation au CIRFF en 2015. Dans cette présentation, 
+comme le texte republié ici le décrira en détail, je critiquais 
+particulièrement la cisnormativité et les politiques exclusives 
+du CIRFF à l’égard des personnes trans, non-binaires et 
+non-conformes de genre, notamment dans son appel à 
+contributions et dans le vocabulaire utilisé pour parler de 
+la conférence (ex. : site Web). Suite à ma critique articulée 
+pendant ma présentation au CIRFF en 2015, qui avait d’ailleurs 
+soulevé de nombreuses réactions tant dans la salle que dans 
+les échanges informels qui ont suivi le panel, les extraits du 
+site Web du CIRFF dont je ciblais le caractère cisnormatif 
+et exclusif ont été adoucis ou changés, des transformations 
+subtiles que j’avais tôt fait de remarquer dans l’une des notes 
+Briser le silence, occuper l’absence
+51de bas de page du texte publié dans TSQ. Il est difficile 
+d’attribuer ces changements du CIRFF et de l’information 
+que le comité organisateur diffuse au sujet du congrès à ma 
+simple critique, mais il est clair que des critiques comme la 
+mienne ou similaires ont trouvé écho chez les organisatrices 
+(qui étaient alors toutes des femmes) qui avaient jugé pertinent 
+de modifier l’information au sujet du congrès afin de le rendre 
+plus inclusif. Ces changements demeuraient cependant, selon 
+moi, plutôt cosmétiques. Qui plus est, ils constituaient des 
+réajustements et des réorganisations superficielles effectuées 
+a posteriori (en anglais on parlerait de retrofit ) et qui ne relèvent 
+pas véritablement d’une accessibilité universelle et d’une 
+inclusion des personnes trans, pour reprendre les critiques à 
+l’égard de la notion d’« accommodement » faites en études du 
+handicap, qui font davantage la promotion d’une accessibilité 
+universelle impliquant une transformation des structures 
+existantes plutôt que de simples ajustements après coup 
+(Dolmage, 2017). 
+C’est donc dans cette perspective des théories 
+critiques du handicap et de leurs réflexions sur les notions 
+« d’accommodement versus accessibilité » que j’ai consulté 
+les plus récentes informations disponibles sur le site Web du 
+CIRFF, qui a tenu son huitième congrès en 2018 à l’Université 
+Paris Nanterre. Je cherchais à savoir si, lors de la plus récente 
+édition de ce congrès, la place faite aux enjeux et aux 
+personnes trans relevait d’une logique d’accommodement 
+(ajustement individuel qui tient pour acquis qu’une personne 
+ou un groupe doit faire l’objet de mesures spéciales) ou 
+d’une logique d’accessibilité universelle, qui se voudrait en 
+soi adaptée à un ensemble d’individus et de groupes et qui 
+ne requiert pas d’ajustement. Force est de constater que 
+le CIRFF semble toujours penser les réalités trans comme 
+extérieures aux féminismes plutôt que partie prenante de 
+ceux-ci, ce qui le situe dans une logique d’accommodement. 
+52
+Devenir non-binaire en français contemporainComme je le mentionne ailleurs au sujet des liens entre 
+féminismes et enjeux trans et du caractère ciscentré du 
+féminisme : « À moins d’une précision, lorsque les féministes 
+réfèrent au genre, elles ne parlent aucunement de l’identité 
+de genre (cis/trans*), mais des genres masculins/féminins, et 
+ceux-ci, à moins qu’ils soient identifiés comme trans*, sont 
+“naturellement” compris comme cis » (Baril, 2017, 287). Il est 
+possible de dire que c’est le cas du CIRFF ; sa notion de genre 
+demeure fondamentalement cisnormative. Bien que le comité 
+organisateur du CIRFF ait fait des efforts dans son appel 
+à contributions pour le congrès de 2018 – les perspectives 
+transféministes y sont mentionnées à une reprise ; dans la 
+rubrique « Accueil » sous l’onglet « Langue épicène » le comité 
+organisateur encourage un langage épicène ou inclusif dans 
+les communications (CIRFF, 2018a), contrairement au style 
+féminin valorisé dans le congrès de 2015 et compris comme 
+incluant le masculin ; et on y demande aux participant·es 
+d’éviter tout langage transphobe – les activités entourant le 
+congrès, le programme lui-même et les vidéos qui en ont été 
+faites suite au congrès demeurent plutôt ciscentrés. 
+Par exemple, l’édition 2018 du CIRFF comporte un total 
+de 176 événements : 49 colloques, 21 tables rondes, 45 ateliers, 
+25 sessions thématiques, 7 expositions, 8 performances, 
+5 projections de films et 16 débats (CIRFF, 2018b, 8). Après 
+un examen minutieux du programme de 316 pages (et une 
+recherche informatisée par mots-clés dans le document), il 
+ressort qu’il n’y a que trois ateliers, une table ronde, un débat 
+et un colloque qui sont focalisés sur les enjeux et perspectives 
+trans, auxquels s’ajoutent un demi-colloque, une session 
+particulière dans un colloque et quelques communications 
+libres. Pour résumer, 6 événements sur 176 constituent à 
+peine 3,4 % du congrès dédié aux enjeux trans. Mentionnons 
+également que parmi ces événements, certains des mêmes 
+noms revenaient, démontrant ainsi la très faible participation 
+Briser le silence, occuper l’absence
+53des personnes trans activistes ou universitaires à ce congrès 
+féministe. Lorsque l’on sait que, contrairement aux milieux 
+anglophones dans lesquels se tiennent plusieurs congrès 
+internationaux sur les enjeux trans, donnant ainsi l’occasion 
+aux personnes trans de présenter leurs réflexions ailleurs que 
+dans des espaces féministes, aucun congrès dédié aux enjeux 
+trans ne se tient dans la francophonie, il est raisonnable de 
+croire que la majorité des travaux trans francophones sont 
+présentés dans des congrès et des colloques féministes, étant 
+donné les affinités conceptuelles et méthodologiques entre 
+les études féministes et trans. Si les personnes trans n’ont 
+pas répondu à l’appel de contributions du CIRFF malgré sa 
+reconnaissance pour la première fois en 2018 de l’existence de 
+la transphobie sur son site Web et d’un langage inclusif dans 
+ses communications, c’est peut-être parce que les personnes 
+trans ne s’y sentaient pas les bienvenues et que l’événement 
+n’était pas trans inclusif et trans accessible, pour le dire 
+simplement. C’est une chose que de changer le langage que 
+l’on déploie ou de mentionner au passage les enjeux trans, 
+mais c’est une autre chose que de repenser en profondeur 
+les aspects cisgenristes et cisnormatifs d’un espace et d’un 
+événement. En somme, c’est la différence entre la logique 
+d’accommodement et celle d’accessibilité. 
+À partir de mon expérience au CIRFF en 2015 que je 
+décris dans le texte publié dans TSQ, j’avais personnellement 
+décidé de ne pas participer à l’édition de 2018. De plus, tous 
+les échos que j’ai eus de la communauté trans qui y a participé 
+sont négatifs. Je précise que je ne prétends pas que l’expérience 
+des personnes trans à ce congrès a été unilatéralement 
+négative ; il existe probablement des personnes qui ont trouvé 
+le congrès intéressant et enrichissant. J’insiste simplement 
+sur le fait que les propos qui m’ont été rapportés à travers 
+les réseaux trans critiquaient des aspects très similaires à 
+ceux que je critiquais au regard de l’édition 2015 du congrès 
+54
+Devenir non-binaire en français contemporaindans mon texte publié dans TSQ. En ce qui concerne les 
+enjeux et les personnes trans, bien qu’il serait réducteur de 
+qualifier de pure stagnation les pas dans la bonne direction 
+qu’a accomplis le CIRFF entre 2015 et 2018, il me semblerait 
+simultanément prématuré de parler de révolution. Sous cet 
+angle, les changements apportés aux politiques linguistiques 
+du congrès et à ses communications me semblent nécessaires, 
+mais non suffisants et le comité organisateur aurait avantage 
+à réfléchir en profondeur aux actions qui doivent être 
+entreprises afin d’améliorer le véritable accès des personnes 
+trans à cet important événement féministe francophone.
+III. Trans/féminismes en émergence : quelques mots sur la situation 
+actuelle
+S’il est possible de penser que l’exemple du CIRFF quant 
+à son manque d’inclusion relatif aux enjeux et aux personnes 
+trans est un cas isolé, un examen des faits et des chiffres nous 
+indique le contraire. Comme je l’ai démontré dans d’autres 
+travaux (ex. : Baril, 2017a), les études trans demeurent sous-
+développées dans la francophonie à l’échelle internationale, 
+notamment canadienne, et les personnes trans demeurent 
+exclues des postes d’importance, comme ceux de professeur·es 
+permanent·es dans les universités. Comme indiqué dans cette 
+recherche, je suis devenu la première personne publiquement 
+auto-identifiée comme trans spécialisée en études trans à 
+travailler dans une université francophone ou bilingue au 
+Canada, toutes disciplines confondues. Comme l’indiquent 
+l’article de TSQ et cette recherche (2017a), plusieurs 
+personnes trans sont embauchées, mais celles-ci ne sont pas 
+nécessairement publiquement identifiées comme trans ou 
+ne se spécialisent pas en études trans, ou encore elles sont 
+bilingues, mais travaillent dans des universités anglophones 
+(comme Viviane Namaste à Concordia University). En 
+France, la situation est similaire ; alors qu’un auteur bien 
+Briser le silence, occuper l’absence
+55connu comme Sam Bourcier (Espineira et Bourcier, 2016) 
+occupe un poste de professeur, il avait été embauché en 
+sociologie bien avant de faire une transition et de focaliser 
+ses travaux sur les enjeux trans. Des chercheur·es de renom 
+en études trans qui s’intéressent à des perspectives trans/
+féministes, comme Karine Espineira (2015a ; 2015b ; 2017 ; 
+2020) et Emmanuel Beaubatie (2016), sont toujours sans 
+poste ou viennent de décrocher un poste récemment. La 
+relève émerge rapidement, en France comme au Canada, 
+mais ces personnes demeurent généralement dans des statuts 
+précaires. 
+Au Canada, la situation s’améliore, lentement mais 
+sûrement. En fonction des recherches récentes que j’ai 
+effectuées, de même que des appels lancés sur les réseaux 
+sociaux afin de m’aider à identifier de potentielles personnes 
+auto-identifiées comme trans et spécialistes dans ce champ qui 
+travaillent notamment en français au Canada, j’ai pu recenser 
+deux nouvelles personnes. Une première, professeure à 
+l’Université de Montréal, se définit comme queer ni cis ni trans 
+et inclut les études trans parmi les champs de spécialisation 
+qu’elle développe au département d’histoire de l’art et d’études 
+cinématographiques. L’autre, un professeur trans anglophone 
+et bilingue, Samuel Singer, a récemment été embauché à la 
+Faculté de droit de l’Université d’Ottawa pour enseigner dans 
+d’autres champs de spécialisation que le droit trans, mais il 
+poursuit tout de même ses travaux de recherche sur les enjeux 
+trans (Singer, 2019 ; 2020). Surtout, dans les divers contextes 
+nationaux francophones, ces rares cas d’embauche ne relèvent 
+pas de départements, de programmes ou d’instituts féministes 
+et de genre, mais bien de disciplines diverses (par exemple, 
+le travail social comme c’est mon cas). En d’autres termes, 
+les rares personnes trans qui se spécialisent en études trans et 
+travaillent dans des institutions francophones ou bilingues ne 
+sont pas embauchées par les départements d’études féministes, 
+56
+Devenir non-binaire en français contemporainune situation qui reflète d’ailleurs celle que l’on retrouve chez 
+nos collègues anglophones (Baril, 2017). Les embauches, ou 
+plutôt l’absence d’embauches des personnes trans – pensons 
+notamment à l’un des plus grands départements en études de 
+genre au pays, celui de l’Université d’Ottawa, qui compte une 
+douzaine de professeur·es en études féministes sans aucun·e qui 
+se spécialise en études trans et/ou s’identifie comme personne 
+trans – n’est qu’un indicateur parmi d’autres. De fait, lorsque 
+l’on regarde les programmes en études féministes et de genre 
+des universités canadiennes francophones ou bilingues, leurs 
+offres de cours et les auteur·es qui figurent dans leurs syllabus, 
+force est de constater la pauvreté au regard de la représentation 
+des personnes ou des enjeux trans, et ce, malgré l’explosion des 
+thématiques trans dans les médias, la culture, la société, les lois 
+et même dans les universités. Mentionnons également, comme 
+je l’avais remarqué antérieurement (Baril, 2017a), que suivant 
+une logique cissexiste (Serano, 2007), les femmes trans ou les 
+personnes trans sur le spectre de la féminité sont les grandes 
+perdantes (sans compter les personnes trans racisées ou qui 
+vivent à l’intersection d’autres identités marginalisées comme 
+les personnes trans handicapées), puisque les personnes qui 
+sont davantage embauchées sont des hommes trans. Cette 
+pauvreté des perspectives trans se retrouve également dans les 
+travaux, les revues et les projets de recherche féministes qui, 
+pour la plupart, demeurent soit cisgenristes, soit ciscentrés et 
+cisnormatifs dans le meilleur des cas. 
+L’espace limité de cette brève introduction et sa fonction 
+ne me permettent pas d’élaborer davantage au sujet de 
+cette sous-représentation des personnes trans, des études 
+trans et des enjeux trans dans les milieux universitaires, 
+particulièrement féministes et francophones, mais les 
+constats effectués ici pointent tous dans la même direction : 
+les féminismes francophones doivent repenser la place qu’ils 
+accordent aux enjeux trans, voire déconstruire le rapport 
+Briser le silence, occuper l’absence
+57d’extériorité qui a été établi au regard des questions trans 
+au sein du féminisme. Les trans/féminismes francophones 
+multiformes, dynamiques et vivants, qui émergent de façon 
+récente dans des espaces alternatifs, marginalisés et parfois 
+inattendus, commencent à briser le silence et à combattre les 
+injustices épistémiques dont ils font l’objet non seulement 
+au sein du féminisme, mais également à l’intérieur d’un 
+monde anglonormatif. Quand on pense aux thématiques 
+au cœur des luttes féministes, incluant les combats contre la 
+pathologisation des corps, la violence ou l’hégémonie d’une 
+langue française masculine, il est difficile de ne pas reconnaître 
+les liens évidents avec les luttes trans/féministes et de ne 
+pas ainsi voir comment l’exclusion et la marginalisation 
+des personnes et des enjeux trans au sein des féminismes 
+représentent des occasions ratées d’enrichir les réflexions 
+et les pratiques féministes. Sept ans après la rédaction 
+« originale » du texte publié dans TSQ présenté ci-dessous, 
+je réitère donc la formule que j’avais alors employée dans 
+mon titre pour aborder les trans/féminismes francophones : 
+absence, silence, et émergence… 
+Le texte suivant est une traduction de l’anglais par Catriona LeBlanc 
+de l’article susmentionné.
+Trans/féminismes francophones : Absence, silence, 
+émergence1
+En lisant l’appel à contributions de TSQ : Transgender 
+Studies Quarterly sur les trans/féminismes, j’étais rapidement 
+envahi par les mêmes émotions fortes et contradictoires que 
+j’éprouve souvent comme chercheur francophone travaillant 
+1 Mise à jour et reproduit en traduction avec la permission de Duke Uni -
+versity Press. Source originale : BAril, A., 2016. « Francophone Trans/
+Feminisms: Absence, Silence, Émergence », TSQ: Transgender Studies Quar-
+terly, n° 3, 1/2, p. 40-47.
+58
+Devenir non-binaire en français contemporainà l’intersection des études du genre, trans, queer et sur le 
+handicap. Une partie de moi était emballée par la possibilité 
+de discuter de la valeur de travaux au sein desquelles les 
+perspectives trans et féministes se nourrissent et s’interrogent 
+mutuellement. J’étais particulièrement inspiré par l’énoncé 
+suivant : « Nous voulons que ce numéro élargisse la 
+discussion au-delà de la dichotomie familière et trop simpliste 
+souvent imposée entre un féminisme transphobe d’exclusion 
+et un féminisme transaffirmatif d’inclusion » (TSQ 2015 ; 
+traduction libre). Les travaux que j’ai publiés dans les revues 
+de langue anglaise au cours des dernières années reflètent 
+précisément mon désir d’aller au-delà de cette conception 
+réductrice. Comme l’articule si éloquemment l’appel, non 
+seulement le temps est venu de complexifier cette vision 
+binaire, mais les deux dernières décennies ont déjà démontré 
+que les recherches menées à partir de perspectives trans/
+féministes dépassent de loin les questions d’exclusion et 
+d’inclusion.
+Cela étant dit, une autre partie de moi, celle ancrée dans 
+une tradition linguistique, culturelle et nationale différente 
+du contexte anglo-américain dans laquelle se situe cette 
+revue2, a pourtant réagi avec ambivalence au passage cité plus 
+haut. Quelles sont les conditions linguistiques, culturelles 
+et nationales requises pour aller au-delà des débats entre 
+féministes et activistes trans, ces débats enracinés dans la 
+fameuse dichotomie entre les féminismes d’inclusion et ceux 
+transphobes/d’exclusion ? L’idée même de dépasser cette 
+dichotomie ne reflète-t-elle pas ce qui est théoriquement, 
+conceptuellement et politiquement concevable dans un 
+ou plusieurs contextes linguistiques, culturels et nationaux 
+précis (dans ce cas, un contexte anglonormatif), sans que 
+cette idée soit nécessairement intelligible, ou intelligible de la 
+2 Malgré la démonstration claire d’une sensibilité transnationale et lin-
+guistique, une revue ne peut être dissociée de son contexte.
+Briser le silence, occuper l’absence
+59même manière ou avec une même profondeur, dans d’autres 
+contextes ? À partir de mes expériences comme chercheur 
+trans3, franco-canadien et féministe, j’aimerais partager 
+quelques réflexions critiques sur l’(im)possibilité actuelle 
+d’aller « au-delà de la dichotomie familière et trop simpliste 
+souvent imposée entre un féminisme transphobe d’exclusion 
+et un féminisme transaffirmatif d’inclusion » ou, au moins, 
+sur les nombreuses difficultés qui viennent entraver cet 
+objectif.
+Sans réduire les travaux du nombre limité d’universitaires 
+francophones qui s’intéressent aux trans/féminismes, dont 
+les miens, à la lutte contre les théories, les politiques et les 
+pratiques féministes transphobes d’exclusion, j’exposerai la 
+difficulté d’articuler notre travail dans un langage autre que 
+celui de l’exclusion ou l’inclusion des personnes et des enjeux 
+trans au sein des contextes féministes francophones. Pour ce 
+faire, j’offre comme étude de cas l’édition 2015 du septième 
+Congrès international des recherches féministes dans la 
+francophonie (CIRFF). Ce rassemblement est actuellement le 
+congrès international le plus important dans le domaine des 
+recherches et des études féministes francophones, sa portée 
+étant équivalente au congrès américain de la National Women’s 
+Studies Association (NWSA). Ainsi, ce congrès représente 
+une excellente étude de cas pour démontrer les difficultés 
+auxquelles font face les communautés francophones non 
+seulement pour conceptualiser la possibilité d’aller au-delà 
+du fossé entre les féminismes transphobes et transinclusifs, 
+mais aussi pour tout simplement aborder les enjeux trans 
+dans les divers espaces féministes militants, communautaires, 
+institutionnels et universitaires. Bien que cet exemple ne 
+brosse pas un portrait exhaustif de la théorisation des trans/
+féminismes dans la francophonie, il est toutefois représentatif, 
+3 Je travaille sur les enjeux féministes depuis 2003 et sur les enjeux trans 
+depuis 2008, quand j’ai commencé ma propre transition de femme à 
+homme.
+60
+Devenir non-binaire en français contemporainà mon avis, de la relation entre une majorité de féministes et 
+d’activistes trans francophones.
+Le congrès de 2015, tenu à Montréal (Québec, Canada) en 
+août 2015, peu avant la mise sous presse du numéro de TSQ où 
+le présent article a paru en anglais (et bien après la date limite 
+des soumissions), a été organisé par l’Institut de Recherches 
+et d’Études Féministes (IREF), le Réseau Québécois en 
+Études Féministes (RéQEF) et le Service Aux Collectivités 
+(SAC) de l’Université du Québec à Montréal. J’ai soumis 
+deux propositions pour présenter mes recherches les plus 
+récentes. Mes réflexions sur l’absence totale d’enjeux trans 
+et de politiques inclusives pour les personnes trans dans ce 
+congrès avaient pourtant commencé bien avant que j’envisage 
+la soumission d’un manuscrit à ce numéro spécial de TSQ. En 
+effet, le manque de considération pour les personnes trans 
+au sein de ce congrès m’avait frappé dès ma toute première 
+lecture de son appel à contributions en 2014. Le langage 
+utilisé dans l’appel et sur le site Web du congrès est clair : 
+les formes féminines sont systématiquement privilégiées, la 
+forme masculine est effacée et l’écriture inclusive, souvent 
+utilisée en français pour indiquer à la fois les hommes et les 
+femmes, n’est pas utilisée. La documentation du congrès fait 
+explicitement référence aux professeures, aux chercheures, 
+aux étudiantes et aux autres personnes féminines. Sur le site 
+Web, le comité organisateur décrit l’événement comme suit : 
+« Inscrit dans la continuité des six précédentes rencontres, 
+le Congrès offrira un espace privilégié pour les chercheures, 
+étudiantes, praticiennes-chercheuses, artistes, intervenantes 
+et militantes des milieux féministes. Des efforts spéciaux 
+seront déployés pour attirer le plus grand nombre possible 
+de participantes de tous les pays de l’espace francophone 
+mondial » (CIRFF, 2015b). Ayant milité, enseigné et participé 
+aux cercles féministes francophones depuis près de quinze 
+ans, je suis conscient du fait que certains espaces féministes 
+Briser le silence, occuper l’absence
+61au Canada français (c’est-à-dire principalement dans la 
+province du Québec) sont des environnements explicitement 
+réservés aux femmes ; les personnes trans, y compris les 
+femmes trans, y sont délibérément exclues. Voilà pourquoi, 
+pour moi, l’utilisation de formes féminines sur le site Web 
+et dans l’appel à contributions – une pratique qui, exception 
+faite d’événements séparatistes qui excluent explicitement les 
+personnes trans, comme le Michigan Womyn’s Music Festival, 
+semble entièrement désuète en contexte anglophone – a 
+immédiatement soulevé la question suivante : si l’événement 
+était réservé aux femmes cisgenres, ou si les hommes cisgenres, 
+transsexuels et transgenres (trans), les femmes transsexuelles 
+et transgenres (trans) et les personnes s’identifiant comme 
+queers, genderqueers , non-binaires, non-genrées, intersexes, 
+bispirituelles, etc., pouvaient y participer.
+Étant un homme trans, j’ai pris soin de consulter 
+les critères d’admission publiés par le congrès avant de 
+soumettre une proposition. J’ai trouvé la réponse à ma 
+question dans la section FAQ du site du congrès (sa simple 
+présence à cet endroit m’amène à croire que je n’étais pas la 
+première personne à remettre en cause l’utilisation de formes 
+féminines). En réponse à la question « Est-ce un événement 
+réservé uniquement aux femmes ? », le comité organisateur 
+répond ainsi : « Tout le monde est bienvenu et toutes les 
+personnes impliquées dans la recherche féministe sont invitées 
+à proposer une communication, un colloque ou une session 
+spéciale. Les textes de l’appel à proposition sont féminisés, 
+car la très grande majorité des personnes intéressées par nos 
+activités sont des femmes. Le genre féminin inclut pour nous 
+le masculin » (CIRFF, 2015a)4.
+4 Toutes les questions et réponses dans la FAQ ont été révisées depuis 
+la tenue du congrès en août 2015. Il n’est peut-être pas déraisonnable de 
+penser que la présente critique, ainsi que d’autres, présentées pendant le 
+congrès, ait influencé cette décision.
+62
+Devenir non-binaire en français contemporainBien que la section FAQ m’ait fourni une réponse, elle 
+m’a aussi laissé un goût amer en bouche. Premièrement, je 
+n’ai jamais souscrit au simple renversement des perspectives 
+comme stratégie d’autonomisation des minorités ; utiliser la 
+violence pour combattre la violence, contrer les injures avec 
+les injures et affirmer que les formes féminines englobent 
+le masculin pour combattre le sexisme linguistique sont des 
+stratégies qui ne font que reproduire les mêmes attitudes, 
+les mêmes idées et les mêmes comportements que nous 
+dénonçons. Depuis des décennies maintenant, les féministes 
+francophones ont condamné le pratique sexiste dans la langue 
+française selon laquelle le masculin l’emporte sur le féminin 
+sous prétexte que le masculin inclut le féminin ; pourtant, ce 
+congrès féministe francophone international déploie le même 
+argument pour justifier l’utilisation d’un langage et d’un 
+vocabulaire exclusivement féminins, notamment « femmes 
+chercheures » et « femmes militantes ». Deuxièmement, la 
+suggestion que le féminin inclut le masculin représente, au 
+minimum, la marginalisation de la multiplicité d’identités 
+qui ne cadrent pas dans ces catégories binaires. Pour les 
+personnes trans, intersexes, queers, genderqueers , non-binaires, 
+non-genrées ou qui refusent une identification uniquement 
+en termes de féminité ou de masculinité, le langage choisi par 
+les organisatrices (qui sont des femmes cis) est problématique. 
+Néanmoins, comme personne et activiste trans, ce n’est pas le 
+choix des mots qui me déçoit le plus. De fait, ce qui est encore 
+plus inquiétant, c’est le silence qui entoure l’existence même 
+de toutes les personnes qui se situent à l’extérieur du spectre 
+traditionnel de la masculinité et de la féminité dans la réponse 
+à la question « Est-ce un événement réservé uniquement aux 
+femmes ? »
+De ma perspective de chercheur ayant participé à des 
+douzaines de congrès internationaux, dont en contexte 
+anglophone, au moment où l’intersectionnalité et la volonté 
+Briser le silence, occuper l’absence
+63de tenir compte des multiples dimensions identitaires sont 
+très répandues, il était clair pour moi que cette question traitait 
+non seulement de la participation d’hommes cisgenres, mais 
+également de celle des personnes trans, intersexes, genderqueers 
+et autrement non-conformes de genre. Pourtant, l’existence 
+de ces personnes n’est jamais mentionnée : ni dans la FAQ, 
+où l’on pourrait s’y attendre, ni dans aucune autre section 
+du site, ni dans l’appel à contributions. Étant donné que ce 
+congrès vise à organiser un « événement qui prend en compte 
+l’accessibilité pour toutes » (notez que « toutes » n’inclut que 
+les personnes dont le genre est féminin) (CIRFF, 2015b), il ne 
+serait pas exagéré de dire que l’accessibilité pour les personnes 
+trans, intersexes et queers manque à la fois en matière de 
+langage (choix des mots, genre linguistique, pronoms, etc.) 
+et d’espace (par ex., toilettes de genre neutre ou inclusives 
+des personnes trans). De plus, l’appel à contributions 
+du congrès emploie des concepts et des définitions qui 
+créent un climat peu accueillant pour les membres de ces 
+communautés marginalisées. Par exemple, les sections qui 
+décrivent les thèmes du congrès, utilisées pour structurer 
+l’appel à contributions et le site Web comptant plus de deux 
+mille mots de texte, font fréquemment allusion à la diversité 
+des femmes relative à la race, à la classe, à l’âge, à l’orientation 
+sexuelle et à plusieurs autres dimensions, sans pourtant 
+mentionner les enjeux trans. Le comité organisateur prend la 
+peine de nous rappeler qu’il faut tenir compte des besoins de 
+toutes les femmes, dont celles plus marginalisées, sans que les 
+personnes trans ne soient mentionnées une seule fois. Bien 
+que je reconnaisse l’impossibilité de toujours inclure une 
+énumération exhaustive qui permet d’éviter le fâcheux « etc. » 
+décrit par Judith Butler (1990, 143), il est pourtant intéressant 
+de noter que les personnes trans, intersexes, genderqueers et 
+non-conformes de genre ne font l’objet d’aucune mention 
+sur le site Web.
+64
+Devenir non-binaire en français contemporainDe façon générale, le problème est que les enjeux trans 
+sont systématiquement ignorés dans les travaux féministes 
+francophones qui tentent par ailleurs d’inclure toutes les 
+femmes, comme elles nous le répètent si souvent. Ceci est 
+d’autant plus inquiétant étant donné la visibilité accrue actuelle 
+des enjeux trans à la fois dans les nouvelles internationales et 
+au sein des contextes nationaux dans lesquels les recherches 
+féministes francophones sont ancrées. Au cours des cinq 
+dernières années, le Québec, ainsi que le reste du Canada, a 
+vu l’introduction de nouvelles lois, l’adoption de nouvelles 
+dispositions juridiques et la transformation de lois existantes 
+touchant les communautés trans, sans oublier l’importante 
+mobilisation sociale et politique des communautés trans et la 
+présence croissante des voix trans dans les médias, la culture 
+et les mouvements sociaux, notamment ceux lesbiens, gais, 
+bisexuels et queers. Malgré ceci, les communautés féministes 
+francophones canadiennes tendent à garder le silence sur les 
+enjeux trans5. Comme j’en fais mention ailleurs (Baril, 2017b), 
+le silence des féministes francophones sur les enjeux trans 
+est sans équivoque : les publications de langue française sur 
+les analyses intersectionnelles féministes ne mentionnent que 
+rarement les réalités trans ; les personnes inscrites en études 
+féministes dans les universités francophones éprouvent de la 
+difficulté à trouver une direction qui connaît suffisamment 
+le champ ; et plusieurs ateliers, activités sociales et autres 
+événements au sein des cercles féministes francophones 
+n’abordent pas les enjeux trans. Les dimensions théoriques, 
+politiques, culturelles, linguistiques et économiques des 
+5 Il convient de mentionner que, malgré la présence au Québec d’uni-
+versitaires trans d’influence, dont Viviane Namaste qui aborde les enjeux 
+trans et féministes dans un de ses livres en anglais (Namaste, 2005), j’ai 
+publié ce que je crois être le premier article en français au Canada sur 
+les enjeux trans/féministes (Baril, 2009). Mon intention n’est pas d’être 
+prétentieux, mais de démontrer la rareté de réflexions trans/féministes en 
+contexte franco-canadien, et ce, malgré de nombreuses analyses de ces 
+mêmes thèmes en contexte anglo-canadien.
+Briser le silence, occuper l’absence
+65différences importantes entre les approches sur les questions 
+trans par les féministes francophones et anglophones sont 
+toutefois très complexes et dépassent la portée du présent 
+article.
+Cela veut-il dire qu’aucune recherche trans/féministe n’est 
+menée dans la francophonie ? Bien sûr que non. Quelques 
+individus trans ou cis isolés, comme Sam/Marie-Hélène 
+Bourcier ([2001] 2006, 2005, 2011), Karine Espinera (2015a 
+et 2015b) et moi-même, travaillent en français à l’intersection 
+des questions trans et féministes, parmi d’autres sujets6. 
+Cependant, pour le nombre limité de personnes œuvrant 
+dans ces domaines, les occasions d’ancrer leur enseignement 
+et leurs recherches ou de disséminer leurs travaux dans 
+des revues et des congrès de langue française sont peu 
+nombreuses. La lecture de l’appel à contributions et du site 
+Web du plus important congrès francophone international 
+en études féministes a soulevé chez moi la question de si 
+mes recherches trans/féministes pouvaient même trouver 
+une place dans cet événement. Ce congrès devrait me faire 
+sentir « chez moi », mais pour moi et d’autres personnes qui 
+s’intéressent aux enjeux trans/féministes, ce n’est pas le cas. 
+Cette réalité soulève de sérieuses questions sur la possibilité de 
+lier nos travaux aux autres recherches féministes francophones 
+et de sentir que nos perspectives sont non seulement 
+tolérées par nos collègues, mais également reconnues et 
+valorisées. J’aimerais inviter les personnes impliquées dans 
+les recherches et le militantisme féministes francophones à 
+ouvrir un dialogue avec leurs homologues trans et féministes 
+anglophones dont les recherches au cours des vingt dernières 
+années ont produit de nombreuses réflexions importantes 
+sur les questions trans féministes (par ex., Enke, 2012).
+6 Il existe présentement un intérêt croissant pour les perspectives trans/
+féministes en contexte francophone, par exemple, les deux nouveaux pro -
+jets de Thomas, Grüsig et Espineira, 2015, et Ribeiro et Zdanowicz, 2015.
+66
+Devenir non-binaire en français contemporainL’appel à contributions de TSQ souligne à juste titre que « la 
+transphobie féministe n’est pas universelle » (traduction libre), 
+ce qui est vrai à la fois dans les communautés anglophones 
+et francophones ( TSQ, 2015). Il n’en reste pas moins que 
+les obstacles et les défis auxquels font face les universitaires 
+francophones et anglophones œuvrant à l’intersection des 
+questions trans et féministes sont radicalement différents, 
+une réalité que confirment mes expériences à la fois comme 
+professeur et chercheur qui enseigne, publie et travaille 
+en contexte francophone majoritaire (dont le Québec) et 
+minoritaire (comme l’Ontario), ainsi qu’en anglais au Canada 
+et aux États-Unis. Bien que les recherches trans/féministes ne 
+peuvent se réduire ni aux questions entourant l’exclusion des 
+personnes trans et de leurs expériences des cercles féministes 
+ni à un agenda luttant pour leur inclusion, il serait prématuré 
+de conclure que les théories trans/féministes francophones 
+soient sur le point de dépasser les discussions entourant les 
+enjeux d’exclusion et d’inclusion. Tout comme mes collègues 
+anglophones en études trans, dans mes publications de 
+langue anglaise je m’engage au développement de nouveaux 
+paradigmes, de nouvelles idées et de nouveaux concepts qui se 
+situent au-delà de cette dichotomie, notamment en explorant 
+les intersections entre les études trans et sur le handicap, ainsi 
+qu’entre les personnes trans et celles en situation de handicap. 
+Cela étant dit, ceci est possible uniquement parce que, dans 
+le milieu universitaire anglophone (principalement aux États-
+Unis et au Canada), les questions, les théories, les politiques 
+et les études trans possèdent déjà une présence minimale et 
+leur place au sein des études féministes, aussi marginalisée 
+qu’elle soit, est toutefois reconnue. Ceci n’est pas le cas dans 
+les cercles francophones. Quand une théoricienne féministe 
+comme Christine Delphy, qui est sans aucun doute l’une 
+des plus importantes féministes francophones à l’échelle 
+mondiale, et ce, depuis les années 1970, non seulement pense 
+que les enjeux trans ne sont pas politiques, mais affirme 
+Briser le silence, occuper l’absence
+67qu’à travers le traitement de ces enjeux « on perd de vue 
+la lutte féministe pour la disparition du genre […] [et que 
+cette démarche] ne constitue pas un combat politique dans 
+le sens où elle ne propose pas un changement des structures 
+de la société » (Merckx, 2013), le manque de théorisation des 
+enjeux trans par les féministes francophones ne peut guère 
+surprendre.
+Dans une telle réalité, et aussi surprenant que cela puisse 
+paraître pour plusieurs anglophones, les dernières « avancées » 
+relatives aux trans/féminismes dans les communautés 
+féministes francophones consistent tout simplement à 
+affirmer l’existence des perspectives trans/féministes, à tenter 
+de présenter des « preuves » de leur validité et de leur valeur 
+heuristique, à lutter pour leur reconnaissance et à encourager 
+la majorité des communautés féministes francophones à tenir 
+compte des personnes et des enjeux trans dans leur langage, 
+leurs théories, leurs politiques, leurs actions politiques et leurs 
+espaces militants, bref, de tout simplement les inclure dans 
+le domaine des possibilités. Dans ces contextes linguistiques, 
+culturels et nationaux, dépasser la dichotomie entre les 
+féminismes d’inclusion et ceux transphobes/d’exclusion 
+constitue une tâche plutôt inintelligible et difficile à concevoir 
+sur les plans à la fois épistémologique et conceptuel. 
+Pourtant, la théorisation de l’absence de ces discussions et de 
+cette dichotomie est nécessairement la prochaine étape vers 
+l’émergence de voix trans/féministes en mesure de briser le 
+silence.
+68
+Devenir non-binaire en français contemporainRéférences citées
+Ashley , Florence, 2017. « Qui est-ille ? Le respect langagier 
+des élèves non-binaires, aux limites du droit », Service 
+social, no 63, 2, p. 35-50. 
+Ashley , Florence, 2019. « Les personnes non-binaires en 
+français : une perspective concernée et militante », 
+H-France Salon, no 11, 14, p. 1-15. 
+BAril, Alexandre, 2009. « Transsexualité et privilèges 
+masculins : Fiction ou réalité ? », Diversité sexuelle et 
+constructions de genre , dirigé par Line Chamberland, Blye W . 
+Frank, et Janice Ristock. Québec, Presses de l’Université 
+du Québec, p. 263–95.
+BAril, Alexandre, 2016. « ‘Doctor, am I an Anglophone 
+Trapped in a Francophone Body?’: An Intersectional 
+Analysis of “Trans-crip-t Time” in Ableist, Cisnormative, 
+Anglonormative Societies », Journal of Literary & Cultural 
+Disability Studies, n° 10, 2, p. 155-172.
+BAril, Alexandre, 2017a. « Trouble dans l’identité de genre. 
+Le transféminisme et la subversion de l’identité cisgenre : 
+une analyse de la sous-représentation des personnes 
+trans* professeur-es dans les universités canadiennes », 
+Philosophiques , no 44, 2, p. 285-317.
+BAril, Alexandre, 2017b. « Intersectionality, Lost in 
+Translation? (Re)thinking Inter-sections between 
+Anglophone and Francophone Intersectionality ». 
+Atlantis: Critical Studies in Gender, Culture & Social Justice , 
+n° 38, 1, p. 125-137.
+BeAuBA tie, Emmanuelle, 2016. « Trans’ », Encyclopédie critique 
+du genre. Corps, sexualité, rapports sociaux, dirigé par Juliette 
+Rennes, Paris, La Découverte, p. 640-648.
+Briser le silence, occuper l’absence
+69Bour Cier, Sam/Marie-Hélène, (2001) 2006. Queer Zones : 
+Politique des identités sexuelles et des savoirs, Paris, Éditions 
+Amsterdam.
+Bour Cier, Sam/Marie-Hélène, 2005. Queer Zones 2 : Sexpolitiques, 
+Paris, La Fabrique. 
+Bour Cier, Sam/Marie-Hélène, 2011. Queer Zones 3 : Identités, 
+cultures et politiques, Paris, Éditions Amsterdam.
+Butler , Judith, 1990. Gender Trouble : Feminism and the Subversion 
+of Identity. New York, Routledge.
+Butler , Judith, 2001. « Imitation et insubordination du 
+genre », dans, Marché au sexe, dirigé par Gayle S. Rubin et 
+Judith Butler, Paris, EPEL, p. 143-165.
+Cirff (Congrès international des recherches féministes dans la 
+francophonie), 2015a. « FAQ. » https://bit.ly/3FwUjTp. 
+Dernière consultation le 6 octobre 2021.
+Cirff, 2015b. « Mot de bienvenue ». cirff2015.uqam.ca. 
+Dernière consultation le 3 février 2015.
+Cirff, 2018a. « La langue épicène ». https://bit.ly/3BbLmMx. 
+Dernière consultation le 6 octobre 2021.
+Cirff, 2018b. « Programme ». https://bit.ly/3mzr3CO. 
+Dernière consultation le 6 octobre 2021.
+Cremier , Lucile, 2021. « Savoir dire et savoir faire : mieux 
+communiquer pour favoriser l’inclusion des jeunes trans », 
+Jeunes trans et non-binaires : de l’accompagnement à l’affirmation, 
+dirigé par A. pullen sAnsf Açon et D. médiCo , Montréal, 
+Éditions du Remue-ménage, p. 41-61.
+dolmAGe , Jay Timothy, 2017. Academic Ableism. Disability and 
+Higher Education, San Francisco, University of Michigan 
+Press. 
+70
+Devenir non-binaire en français contemporainenke, Anne, dir., 2012. Transfeminist Perspectives in and beyond 
+Transgender and Gender Studies , Philadelphia, Temple 
+University Press.
+espineirA , Karine, 2015a. Transidentités : Ordre et panique de 
+Genre : Le réel et ses interprétations, Paris, L’Harmattan.
+espineirA , Karine, 2015b. « Pour une épistémologie trans et 
+féministe : Un exemple de production de savoirs situés », 
+Comment S’en sortir ?, n° 2, p. 42-58. 
+espineirA , Karine, 2017. « Un transféminisme ou des 
+transféministes ? Réflexions sur l’émergence d’un 
+mouvement transféministe en France », Féminismes du 
+xxie siècle : une troisième vague ?, dirigé par Karine BerGès, 
+Florence BinArd et Alexandrine GuyArd-nedeleC , 
+Rennes, Presses universitaires de Rennes, p. 147-158.
+espineirA , Karine, 2020. « Les politiques transféministes ou 
+pourquoi “mettre le feu à l’institut de beauté” », Lectures 
+du genre , no 14, p. 55-63. 
+espineirA , Karine et Bour Cier, Marie-Hélène/Sam, 2016. 
+« Transfeminism : Something Else, Somewhere Else », 
+TSQ: Transgender Studies Quarterly, no 3, 1-2, p. 84-84. 
+friCker , Miranda, 2007. Epistemic Injustice: Power and the Ethics 
+of Knowing, New York, Oxford University Press. 
+lABelle , Sophie, 2015. Assignée garçon, http://www.
+assigneegarcon.com/. Dernière consultation le 
+27 janvier 2021.
+leduC , Véro, 2017. « Audisme et sourditude. Les dimensions 
+affectives de l’oppression », Revue du Cremis , no 10, 1, 
+p. 8-9. 
+Briser le silence, occuper l’absence
+merCkx, Ingrid, 2013. « Un entretien avec Christine Delphy », 
+Le blog de Christine Delphy, 14 novembre. https://bit.
+ly/2Ym3XHH. Dernière consultation le 3 février 2015.
+nAmAste , Viviane K., 2005. Sex Change, Social Change: Reflections 
+on Identity, Institutions, and Imperialism, Toronto, Women’s 
+Press.
+offiCe quéBéCois de lA lAnGue frAnçAise (OQLF), 
+2019. « Transitude ». https://bit.ly/3mtI0yj. Dernière 
+consultation le 6 octobre 2021.
+riBeiro , Kira, et zdAno WiCz, Ian (dir.), 2015. 
+« Transféminismes : Politiques des transitions féministes », 
+Numéro spécial, Revue comment s’en sortir ?, no 1, 2.
+serAno , Julia, 2007. Whipping Girl. A Transsexual Woman on 
+Sexism and the Scapegoating of Femininity, Berkeley, Seal 
+Press. 
+sinGer , Samuel, 2019. « Trans Competent Lawyering », 
+LGBTQ2 + Law : Practice Issues and Analysis, dirigé par 
+Joanna Radbord, Toronto, Emond Publishing, p. 160-
+186.
+sinGer , Samuel, 2020. « Trans Rights Are Not Just Human 
+Rights: Legal Strategies for Trans Justice », Canadian 
+Journal of Law and Society / La Revue canadienne Droit et 
+Société, n° 35, 2, p. 293-315.
+thomAs , Maud-Yeuse, GrüsiG , Noomi B., et espineirA , 
+Karine, dir., 2015. Transféminisme (s). Cahiers de la 
+transidentité 5, Paris, L’Harmattan.
+TSQ: Transgender Studies Quarterly, 2015. « Call for 
+Papers », TSQ: Transgender Studies Quarterly, no 3, 1 : 
+Trans/Feminisms. https://bit.ly/3cCzQPr. Dernière 
+consultation le 19 novembre 2021.

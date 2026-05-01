@@ -1,0 +1,1782 @@
+HAL Id: dumas-04343190
+https://dumas.ccsd.cnrs.fr/dumas-04343190v1
+Submitted on 13 Dec 2023
+HAL is a multi-disciplinary open access archive
+for the deposit and dissemination of scientific re-
+search documents, whether they are published or not.
+The documents may come from teaching and research
+institutions in France or abroad, or from public or pri-
+vate research centers.L’archive ouverte pluridisciplinaire HAL , est des-
+tinée au dépôt et à la diffusion de documents scien-
+tifiques de niveau recherche, publiés ou non, émanant
+des établissements d’enseignement et de recherche
+français ou étrangers, des laboratoires publics ou
+privés.
+Copyright - All rights reserved
+La représentation de la transidentité dans la presse
+quotidienne nationale : de l’invisibilisation au matraquage
+médiatique. Étude de cas : le traitement des questions trans
+dans Le Figaro
+Marie Scagni
+To cite this version:
+Marie Scagni. La représentation de la transidentité dans la presse quotidienne nationale : de l’invisibilisation
+au matraquage médiatique. Étude de cas : le traitement des questions trans dans Le Figaro. Sciences de
+l’information et de la communication. 2023. ⟨dumas-04343190⟩
+ 
+École des hautes études en sciences de l'informatio n et de la communication – Sorbonne Université 
+77, rue de Villiers 92200 Neuilly-sur-Seine I té l. : +33 (0)1 46 43 76 10 I fax : +33 (0)1 47 45 66 04 I celsa.fr 
+
+Mémoire de Master 1 
+Mention : Information et communication 
+Spécialité : Journalisme 
+La représentation de la transidentité dans la press e 
+quotidienne nationale : de l’invisibilisation au ma traquage 
+médiatique 
+Étude de cas : le traitement des questions trans da ns Le Figaro 
+Responsable de la mention information et communicat ion 
+Professeur Pascal Froissart 
+Tuteur universitaire : Nelly Quemener 
+Nom, prénom : SCAGNI Marie 
+Promotion : 2022-2023 
+Soutenu le : 07/06/2023 
+Mention du mémoire : Très bien 
+ 
+ 2 SOMMAIRE 
+SOMMAIRE 2 
+REMERCIEMENTS 3 
+INTRODUCTION 4 
+I. UN TRAITEMENT ABONDANT MAIS DISQUALIFIANT DES QUESTI ONS TRANS DANS LE FIGARO 14 
+ 
+A. LES QUESTIONS TRANS SONT DEVENUES UN SUJET A PART EN TIERE DANS LE FIGARO 14 
+B. LE FIGARO RELAIE DES DISCOURS DISQUALIFIANT SUR LES QUESTIONS TRANS 16 
+ 
+II. LE FIGARO CONTRIBUE A DEFINIR LA TRANSIDENTITE COMME UN PROBL EME PUBLIC 20 
+ 
+A. LE FIGARO DEPEINT LA TRANSIDENTITE COMME PORTEUSE D ’UNE IDEOLOGIE 20 
+B. LE FIGARO RELAIE DES DISCOURS ALARMISTES SUR LES QUESTIONS TR ANS LAISSANT PENSER A 
+UNE MENACE 22 
+ 
+III. UNE REPRESENTATION NEGATIVE DE LA TRANSIDENTITE QUI CIRCULE EN PARTIE DANS LES 
+AUTRES JOURNAUX 25 
+ 
+A. DES REFERENCES ET UN VOCABULAIRE DISQUALIFIANT QUI S E RETROUVENT DANS D ’AUTRES 
+JOURNAUX 25 
+B. LA PLUPART DES JOURNAUX ABORDENT LES QUESTIONS TRANS DE MANIERE PLUS POSITIVE 28 
+CONCLUSION 34 
+ANNEXES 37 
+BIBLIOGRAPHIE 40 
+
+ 3 REMERCIEMENTS 
+ 
+Je tiens à remercier ma tutrice universitaire Nelly Quemener pour son accompagnement, sa 
+disponibilité, ses réponses à mes questions et ses précieux conse ils tout au long de la réalisation 
+de ce mémoire. 
+ 
+J’adresse également des remerciements ma rapporteuse professionnelle Rachel Garrat-Varcacel 
+pour avoir accepté de m’accorder du temps pour échanger sur mon travail et pour assister à ma 
+soutenance de mémoire. 
+ 
+Je souhaite aussi remercier Lisa Bolz pour ses conseils méthodologiques sur le mémoire, à 
+l’occasion de ses cours d’initiation à la recherche . 
+ 
+Enfin, je tiens à remercier ma famille et mes ami-e-s pour les discussions que nous avons pu 
+avoir sur mon sujet, leurs encouragements et leurs relectures qui m’ont permis de mener au 
+mieux mon travail. 
+
+ 4 INTRODUCTION 
+
+« Au Planning, on sait que des hommes aussi peuvent être enceints ». Ces mots, écrits 
+sur une affiche du Planning familial 1 ont suscité une vive polémique dans les médias à la fin de 
+l’été 2022. Réalisée par le dessinateur Laurier The Fox, cette campagne repré sentant un couple 
+au sein duquel un homme transgenre porte un enfant, avait été publiée une p remière fois le 17 
+mai 2022, par l’antenne réunionnaise de l’association. Elle a ensuite été repartagée par l’artiste 
+sur Twitter, le 17 août 2022, suscitant alors un emballement 2 médiatique en France : de 
+nombreux médias ont repris l’information, y compris des journaux traditionnels. Si ceux 
+affichant une ligne éditoriale conservatrice ont majoritairement dénoncé la diffusion d’une 
+prétendue « théorie du genre » d ans les institutions, d’autres médias ont dénoncé les attaques 
+subies par le Planning familial. En tout état de cause, le trai tement intense de cet évènement 
+montre l’intérêt croissant des journalistes pour les questions trans. Cette polémique n’ est pas 
+un cas isolé de forte médiatisation d’un sujet lié à la transidentit é : c’est un exemple parmi 
+d’autres, qui atteste de l’accès accru des questions trans à l’espace public médiatique. 
+ 
+Au quotidien, les journalistes font des choix : Quel sujet traiter ? Sous quelle forme ? Avec quel 
+angle ? Et quels interlocuteurs ? Les réponses à ces questions déterm inent la place qu’accorde 
+un journal à une thématique et participent à définir les sujets « qui comptent » dans les médias. 
+Ainsi, la visibilité dans les grands médias d’un individu, d’un groupe de personne, d’une cause 
+ou d’un évènement, peut être interprétée comme le signe de sa reconnaissance soci ale 3. C’est 
+ce qui observable avec les questions trans, qui sont de plus en plus abordées da ns les médias, y 
+compris dans la presse quotidienne nationale. Ainsi, des pics de mé diatisation apparaissent à 
+certains moments ou autour de sujets en particulier. Entre le 15 a oût et le 31 décembre 2022, 
+période sur laquelle s’ét ale le corpus de ce mémoire, plusieurs évènements ont concentré 
+beaucoup d’articles du corpus : la polémique du Planning familial, le face-à-face Dora Moutot, 
+militante anti-trans et Marie Cau, première maire de France trans, sur le plateau de l’émission 
+ 
+1 Cf. Annexe 1. 
+2 Nelly Quemener, « "Vous voulez réagir ?". L’étude des controverses médiatiques au prisme des intensités 
+affectives. » Question de communication , n°33, 2018, p.29. 
+3 Axel Honneth. La lutte pour la reconnaissance , trad. Pierre Rusch, Paris, Le Cerf, 2000, 240 pages ; Marion 
+Dalibert et Nelly Quemener, « Introduction », Études de communication , n°48, 2017, p.7-20 ; Nancy FRASER. « 
+Repenser la sphère publique : une contribution à la critique de la démocratie tell e qu’elle existe réellement », 
+Hermès , n°31, 2001, p.109-142. 
+
+ 5 Quelle époque !4 ou encore la participation d’Andrea Furet, candidate trans, à Miss Ile -de-
+France. 
+ 
+Cependant, cette visibilité est à double tranchant pour les personne s trans : même si les 
+thématiques en lien avec la transidentité commencent à trouver leur place dans les médias, les 
+personnes concernées n’ont que rarement la parole dans les articles, et la représentation dont 
+elles font l’objet n e leur est pas toujours favorable. En effet, les personnes trans peinent à faire 
+valoir une représentation positive : elles bénéficient d’un traitement journalistique souvent 
+sensationnaliste, voire disqualifiant. C ela n’est pas nouveau , mais le traitement journalistique 
+de la transidentité a connu une évolution au fil du temps. La sociologue de s médias Karine 
+Espineira a mis en évidence le « glissement de lexique médiatique5 » qui s’est opéré des années 
+1960 à nos jours. Si ses travaux sont principalement centrés sur la télévi sion, ses analyses socio-
+historiques peuvent, en majorité, tout à fait être transposées à la p resse écrite. La chercheuse a 
+identifié trois phases de médiatisation de la transidentité dans l’histoire de la presse. Une 
+première période allant des années 1960 au début des années 1980, durant laquell e la presse 
+privilégiait un traitement de type « fait divers », associant les personnes trans à une situation de 
+marginalité, en évoquant ce sujet sous le prisme de la « prostitution masculine » ou enc ore des 
+cabarets. Une seconde pé riode s’étalant du début des années 1980 au début des années 2000 
+laisse à voir un traitement de type « fait de société », se caractérisant par la présence d’expert -
+e-s (médecins, juristes, psychologues…), dans le but de réfléchir sur « la question 
+transsexuelle » sous le prisme social, juridique, bioéthique ou encore ps ychiatrique. Enfin, à 
+partir des années 2000, la sociologue identifie un glissement vers une approche de type « égalité 
+des droits », où les journalistes portent un intérêt croissant vis-à-vis des problématiques 
+rencontrées par les personnes trans dans leur quotidien. Cela implique notamme nt le recours à 
+des témoignages individuels de personnes trans, banalisant leur vécu aux yeux du public . 
+ 
+Plus récemment, si le traitement de type « égalité des droits » pe rdure, comme en témoignent 
+les articles portant sur la polémique du Planning familial, le tr aitement de type « fait de société » 
+semble reprendre du terrain dans un certain nombre de médias, notamment les plus 
+conservateurs. On assiste à une multiplication des paroles transphob es dans les médias, dans 
+lesquels des éditorialistes, chroniqueurs ou psychanalystes s’expriment régulièrement s ur ces 
+ 
+4 Quelle époque !, émission du 15 octobre 2022, diffusée sur France 2 ; Cf. Annexe 2. 
+5 Karine Espineira, « Un exemple de glissement du lexique médiatique : le sujet trans dans les productions 
+audiovisuelles », Essais, n°7, 2015, p.48-64. 
+ 6 questions, en grande majorité pour soutenir des rhétoriques anti-trans, qui ne se b asent pas sur 
+des faits établis, mais des opinions. Arnaud Alessandrin, sociologue du genre , date cette montée 
+de la transphobie dans les médias à 20216, tandis que Karine Espineira évoque l’année 2019 
+comme année d’intensification du discours transphobe dans les médias 7. Dans les deux cas, les 
+universitaires soulignent une multiplication des tribunes anti-trans dans divers médias, ainsi 
+qu’un retour à une psychiatrisation et une pathologisation des transidentités. 
+ 
+Cette médiatisation accrue des questions trans entraîne en effet une augmentation de la visibilité 
+des opposant-e-s dans la presse, surtout la plus conservatrice. Des prétendus expert-e-s du sujet, 
+notamment des psychanalystes, bénéficient d’ une place non-négligeable dans certains 
+journaux, notamment à travers des tribunes. Il s’agit en majorité de personnalités prônant des 
+idées anti-trans dans les quotidiens comme Le Figaro et La Croix ou encore des magazines 
+comme Le Point , Marianne , L’Express ou Valeurs Actuelles. En ce sens, on peut citer Caroline 
+Eliacheff, pédopsychiatre et psychanalyste, et Céline Masson, psycha nalyste, autrices du livre 
+La fabrique de l’enfant transgenre (L’Observatoire , 2022, 101 pages), qui alertent sur « les 
+dangers du transgenrisme sur les mineurs ». Ces dernières ont pris la parole de nombreuses fois 
+dans la presse, lors de la parution de leur livre et bien après, notamme nt dans Le Figaro à 
+plusieurs reprises. 
+ 
+Cette grande visibilité des oppositions rappelle les périodes de débat a utour du « mariage pour 
+tous 8 » ou encore de la « PMA pour toutes 9 », pendant lesquelles les personnes militant contre 
+les droits LGBTQ+ avaient largement la parole dans presse écrite, à la radio et à la télévision. 
+En 2012, en pleine période de débats autour du mariage pour tous, le philosophe et soc iologue 
+Didier Eribon parlait alors d’un « retour du refoulé homophobe 10 ». Ce qui se passe a ujourd’hui 
+au sujet de la transidentité peut ainsi être analysé comme un « refoulé tra nsphobe 11 ». En effet, 
+si la panique morale autour de l’homosexualité qui s’est manifesté e au moment du « mariage 
+ 
+6 Colin Folliot, « Pour beaucoup de personnes trans, la transphobie est si fréquent e et si grave que son expérience 
+est totale », Le Monde , 23 janvier 2023. 
+7 Karine Espineira, « Savoirs trans : une lutte pour la légitimité. Des exp ériences associatives aux productions 
+académiques », La Revue du Crieur , n°22, avril 2023. 
+8 Maxime Cervulle, « Les controverses autour du « mariage pour tous » d ans la presse nationale quotidienne : du 
+différentialisme ethno-sexuel comme registre d'opposition », L’Homme et la so ciété , 2013, p.207-222. 
+9 Association des journalistes LGBT, « PMA, une Polémique Médiatiquement Assistée », 2020. 
+10 Mathieu Magnaudeix, « Didier Eribon : On assiste au retour du refoulé homophobe », Mediapart , 12 décembre 
+2012 
+11 Colin Folliot, « Pour beaucoup de personnes trans, la transphobie est si fréquente et si grave que son expérience 
+est totale », Le Monde , 23 janvier 2023. 
+ 7 pour tous » et plus récemment autour de la « PMA pour toutes », est toujours prés ente, elle 
+semble aujourd’hui se déplacer de plus en plus sur les questions trans. Pour les deux su jets, 
+certaines des oppositions médiatisées sont les mêmes : on peut citer l’ Observatoire de la Petite 
+Sirène, un collectif fondé par Caroline Eliacheff et Céline Masson en 2021, qui s’oppose à toute 
+transition chez les mineur-e-s, invoquant l’argument d e la protection de l’enfance. Parmi ses 
+membres, on trouve certaines figures du Syndicat de la famille (ex-M anif pour tous), comme 
+Aude Mirkovic, Olivia Sarton, ou Anne-Laure Bloch, qui militaient déjà active ment en 2012 
+contre le droit au mariage pour les couples homosexuels. 
+ 
+Les médias influencent la perception de leur public sur les évènements qu’ils traitent , car ils 
+laissent à voir un certain point de vue, une certaine grille de le cture et d’analyse sur les sujets 
+qu’ils abordent. En d’autres termes, ils donnent un sens à u n événement à travers les angles 
+abordés ou encore le langage utilisé. C’est ce qui forme l’idéologie dans les médias, c’est -à-
+dire les cadres d’interprétation qui donnent un sens au fonctionnement de la société 12 . 
+Lorsqu’une idéologie est largement ancré e et soutenue dans les médias, elle exclue de fait toute 
+position ou vision du monde différente : il est possible de parler de rep résentation hégémonique. 
+Tout discours remettant en cause cette position hégémonique apparai t alors comme inaudible 
+pour le plus grand nombre. Cela légitime alors des discours dévalorisants e t stigmatisants 
+envers ceux-celles auxquel-le- s l’idée minoritaire est rattachée. 
+ 
+Notre société pouvant se définir comme une « scène de contrainte » da ns laquelle se construit 
+le genre au quotidien 13 , les questions trans ont tendance à créer des controverses, car elles 
+remettent en question le système genre-sexe traditionnel, basé sur la différence des sexes. La 
+controverse peut se définir comme une confrontation entre deux partie s dans l’arène 
+médiatique 14 , ayant un point de vue différent sur un sujet. Lorsque ces controverses sont 
+largement médiatisées, un « consensus autoritaire »15 a tendance à se créer : la position 
+minoritaire, jugée la moins fédératrice, se retrouve souvent disqualifiée 16 , au profit de la 
+position hégémonique. Dans le cas des controverses liées aux questions t rans, cette position 
+ 
+12 Stuart Hall, La redécouverte de “l’idéologie” : retour du refoulé dans les Media Studies », Identités et cultures. 
+Politiques des cultural studies , 1982, p.129-168 
+13 Judith Butler, Défaire le genre , trad. de Maxime Cervulle, Paris, Amsterdam, 2006, 311 pages. 
+14 Nelly Quemener, Nelly Quemener, « "Vous voulez réagir ?". L’étude des c ontroverses médiatiques au prisme 
+des intensités affectives. », op. cit., p.29. 
+15 Ibid. p.26 
+16 Maxime Cervulle et Virginie Julliard, « Le genre des controverses : approches féministe s et queer », Questions 
+de communication , n°33, 2018, p.11-26. 
+ 8 hégémonique est celle des défenseurs de la binarité du genre basée sur la différence des sexes 17 
+alors que la position minoritaire est celle de ceux qui prônent la liberté d’autodéte rmination du 
+genre. La remise en cause de la « différence des sexes » et des rôles genrés qui lui sont associés 
+créent alors des moments d’ « anxiété » et de production idéologique 18 . 
+ 
+De manière générale la parole des personnes trans et de leurs allié -e-s n ’est que peu prise en 
+compte dans la sphère publique, cette dernière pouvant être définie com me « l’arène 
+institutionnalisée d’interaction du discours 19 ». En effet, les personnes trans constituent un 
+« contre-public 20 », c’est -à-dire un groupe de personnes dont les discours se retrouvent en marge 
+de la sphère publique globale. Celui-ci a ainsi plus de difficulté à y défendre ses intérêts et ses 
+revendications. Par exemple, le fait que des hommes puissent être enceints ou encore qu’il 
+existe des personnes non-binaires, et que ces personnes puissent revendiqu er des droits, apparaît 
+comme un discours minoritaire dans la sphère publique médiatique 21 . Il est donc peu visible ou 
+alors disqualifié, comme en témoignage le traitement de la campagne du Planning famil ial. De 
+fait, « public subalterne 22 » se retrouve obligé de s’exprimer dans des sphères publiques 
+alternatives. Comme l’a documenté Virginie Julliard, les réseaux soc iaux et notamment Twitter, 
+sont un lieu privilégié dans lequel des discours d ’opposition au genre , venant de personnes ou 
+d’associations, peuvent s’exprimer pour y défendre leur point de vue, qu’il s n’estiment pas 
+assez relayé ou caricaturé dans les médias traditionnels 23 . On peut aussi citer des médias 
+émergeants comme XY média , créé pour et par des personnes trans pour traiter des questions 
+trans au-delà du regard strictement ciscentré 24 des journaux traditionnels. 
+ 
+Cependant , l’accès aux espaces publics hégémoniques reste nécessaire aux groupes minorisés 
+pour exprimer leurs revendications. Toutefois, être publicisé demande aux mi litant-e-s 
+ 
+17 Judith Butler. Défaire le genre, trad. de Maxime Cervulle, Paris, Amsterdam, 2006, 311 pages ; Teresa De 
+Lauretis. « La technologie du genre », dans Théorie queer et cultures populaires. De Foucault à Cronenberg, 
+Paris, La Dispute 2007, p. 37-94. 
+18 Nelly Quemener, « "Vous voulez réagir ?". L’étude des controverses médiatiques au prisme des intensités 
+affectives. », op. cit., p.26. 
+19 Jürgen Habermas, L’Espace public. Archéologie de la publicité comme dimension constitutive de l a société 
+bourgeoise, Paris, Payot, 1978, 324 pages. 
+20 Nancy Fraser, « Repenser la sphère publique : une contribution à la critique de la démocratie te lle qu’elle 
+existe réellement », Hermès , n°31, 2001, p.109-142. 
+21 Id. 
+22 Id. 
+23 Virginie Julliard, « « Théorie du genre », #theoriedugenre : stratégies discursives pour soustraire l a « 
+différence des sexes » des objets de débat », Études de communication , n°48, 2017, p.111-136. 
+24 Ciscentrisme : état d’une société dans laquelle tous les domaines de la vie fonctionnent en considérant que tout 
+le monde est cisgenre (= personne dont le genre est en adéquation avec le sexe qui lui a été as signé à la 
+naissance) par défaut, qu’il s’agit de la norme. Source : Association Representrans 
+ 9 d’afficher une identité qui répond aux codes hégémoniques, autrement dit ceux qui se 
+rapprochent des normes dominantes, répondant aux critères des rôles genrés, hétéros exualité, 
+blanchité. On peut ainsi parler « d’identités rassurantes 25 » majoritaires dans l’espace public, 
+qui caractérisent les personnes témoignant d’une volonté de s’intégrer dans le système sexe -
+genre sans vouloir le troubler. On peut alors opposer à cela des « identit és paniquantes 26 », qui 
+désignent les discours critiques envers le système genre-sexe traditi onnel. En rupture avec les 
+« normes dominantes de l’existence sociale 27 », ces dernières remettent en cause la binarité du 
+genre et les rôles qui y sont associés. Ces courants sont minoritaires dans l’espace public alors 
+qu’ils sont majoritaires au sein des courants trans. En somme, les personnes trans ont peu la 
+parole dans les médias, mais c’est encore plus le cas lorsque leur di scours va à l’ encontre du 
+système genre-sexe institué. 
+ 
+Le traitement journalistique de la question trans se concentre sur des sujets en particulier : les 
+débats au sein du féminisme sur la transidentité, la prise en c harge des mineur-e-s trans ou 
+encore la supposée « cancel-culture » induite par le m ilitantisme trans, revendiquant l’ égalité 
+des droits. Cela prend la forme d’articles informatifs, mais aussi beaucoup de tribunes, dont un 
+certain nombre sont écrites par des personnes ayant des rhétoriques anti-tra ns. Ainsi, dans les 
+médias les plus conservateurs, notamment dans Le Figaro , les revendications des militant-e-s 
+trans ont tendance à être dépeintes comme une « idéologie », un « lobby » ou encore une 
+« mode », qui menacerait les femmes et les enfants, nécessitant des régul ations juridiques, 
+morales et bioéthiques. Autre idée largement relayée dans les journaux cons ervateurs : la 
+visibilité des revendications des militant-e- s trans dans l’espace public serait un symptôme de 
+la montée du « wokisme », terme dérivé de « woke » qui se traduit par « éveillé » en anglais. 
+Apparu au début du mouvement Black Lives Matter aux Etats-Unis, en 2013, le terme « woke » 
+décrit le fait d’être conscient des problèmes de justice social e et du racisme systémique. 
+L’expression s’est ensuite transformée dans le langage courant comme un terme parapluie 
+renvoyant au fait d’être sensible aux différentes discriminations basées sur l’ethnic ité, le genre 
+ou encore l’orientation sexuelle. Celui-ci a été réapproprié par la droite conservatrice pour en 
+faire un terme générique et péjoratif pour parler des idées progressistes qui i raient selon eux, à 
+l’encontre de « l’universalisme républicain ». 
+ 
+25 Karine Espineira, « La médiatisation des politiques transgenres : du s tatut de contre-pub lic à l’inégalité de 
+représentation », Revue française des sciences de l’information et de la communication , n°3, 2014. 
+26 Id . 
+27 Judith Butler, Défaire le genre, op.cit. 
+ 10 La visibilité accrue des discours de menace tend ainsi à faire des pers onnes trans des objets de 
+repoussoir, de haine et de dégoût 28 . L’expression de cette crainte, diffusé e massivement à 
+travers les grands médias et notamment la presse écrite, semble dessiner une forme de « panique 
+morale 29 » sur les sujets de transidentité. Stanley Cohen définit ce concept comme « une 
+condition, un événement, une personne ou un groupe de personnes [qui] est désigné comme 
+une menace pour les valeurs et les intérêts d'une société ». Les articles soutenant des rhétoriques 
+anti-trans contribuent à désigner les personnes trans et leurs allié-e- s comme une menace pour 
+la société, et alimentent donc une forme de panique morale. Par ailleurs, le fait d’insister sur 
+des sujets impliquant les enfants ou les adolescents ont tendance à augmenter la « tension 
+émotionnelle de la panique morale 30 ». En effet, la « maltraitance des enfants » est selon Chas 
+Critcher, l’un des cinq groupes thématiques sur lesquels les paniques moral es sont les plus 
+fréquentes et les plus intenses. 
+ 
+La forte médiatisation des questions trans sous ce prisme spécifique et l’utilisation d’un lexique 
+disqualifiant par les journalistes ont pour conséquence « l’authentification 31 » d’un problème de 
+société, c’est -à-dire un sujet légitimant une attention particulière auprès du pu blic et des 
+politiques. On peut qualifier ce phénomène d’emballement 32 médiatique, car qui semble 
+disproportionné par rapport à la réalité du phénomène. Ce « jeu d’intensification 33 » aboutit sur 
+la définition d’un problème public, c’est -à-dire un fait social qui devient l’objet de débats, 
+suscitant l’intérêt public 34 , car une partie de la société les désigne comme problématique, a lerte 
+le public et les institutions en ce sens, et propose des mesures pour pallier le problème en 
+question. On voit notamment cela avec la question des mineur-e- s trans, qui fait l’objet de 
+nombreux articles du corpus. En ce sens, une panique morale semble se des siner, et deux acteurs 
+majeurs s’opposent. D’un côté, l es « chefs moraux 35 » de celle-ci, qui dénoncent la menace 
+d’une supposé e « idéologie transgenre », notamment dans des médias conservateurs . De l’autre 
+ 
+28 Nelly Quemener, « "Vous voulez réagir ?". L’étude des controverses médiatiques au pri sme des intensités 
+affectives. », op. cit., p.31. 
+29 Stanley Cohen. Folks Devils and Moral Panics , Londres, Paladin, 1973, 224 pages. 
+30 Chas Critcher, Moral Panics, Oxford Research Encyclopedia of Criminology , 2017, p.9. 
+31 Marion Dalibert . « Authentification et légitimation d’un problème de société par les journalistes : le s violences 
+de genre en banlieue dans la médiatisation de Ni putes ni soumises », Études de communication , n°40, 2013, p.167-
+180. 
+32 Nelly Quemener, « "Vous voulez réagir ?". L’étude des controverses médiatiques au prisme des inten sités 
+affectives. », op. cit., p.29. 
+33 Ibid. p.31 
+34 Éric Neveu. « Problème public », Publictionnaire. Dictionnaire encyclopédique et critique des publics , 2021. 
+35 Stanley Cohen. Folks Devils and Moral Panics , op.cit. 
+ 11 côté, les « bouc-émissaires 36 » de cette panique morale, les personnes trans, dépeintes comm e 
+« déviantes37 ». Cet aspect apparait d’ailleurs dans la définition du mot « wokisme » du 
+dictionnaire Larousse 38 , qui a fait entrer ce terme dans sa dernière version, en 2023. 
+ 
+En raison de la circulation massive de discours transphobes dans l’espac e public, j’ai souhaité 
+réaliser ce mémoire sur le traitement journalistique de la transide ntité dans les quotidiens 
+nationaux, qui sont des espaces qui reflètent les sujets « qui comptent » à l’échelle nationale, 
+voire internationale. 
+ 
+Pour définir les sources de mon corpus , j’ai utilisé le classement de la diffusion de la 
+presse payante quotidienne nationale en 202239 , réalisé par l’Alliance pour les chiffres de la 
+presse et des médias (ACPM), qui classe les journaux français en fonct ion de leur diffusion, 
+auquel j’ai ajouté 20 minutes , titre de presse quotidienne nationale gratuite le plus diffusé. Les 
+sources utilisées sont donc les neuf quotidiens nationaux les plus diffusés : Le Figaro, Le 
+Monde, Aujourd’hui en France -Le Parisien, Libération, L’Humanité, La Croix, Les Échos, 
+L’Équipe et 20 minutes. À l’origine, je voulais inclure également certains hebdomadaires 
+(Marianne, Le Point, L’Express ), ce qui aurait été pertinent dans le cadre de mon analyse en 
+raison de leur traitement fréquent des questions trans. Cependant, le corp us étant déjà dense, 
+j’ai choisi de me focaliser sur la presse quotidienne nationale. 
+ 
+Pour constituer mon corpus, je me suis servie de la base de données Europre sse, en utilisant les 
+mots clefs : « trans », « transgenre », « transidentité » et le terme « tra nssexuel », contesté au 
+sein des milieux militants, mais toujours utilisé dans la presse . Concernant la période, j’ai 
+recensé des articles publiés pendant quatre mois, à partir du 15 août 2022, date du début de la 
+polémique du Planning familial, qui a constitué l’un des principaux pics de médiatisation des 
+questions trans en 2022, jusqu’au au 31 décembre 2022. Avec ces critères, 432 articles sont 
+apparus sur Europresse et j’ai ensuite sélectionn é les articles dans lesquels la transidentité était 
+un sujet central . J’ai donc exclu de mon étude ceux dans lesquels la transidentité était 
+simplement évoquée dans le détour d’une phrase ou de manière très rapide pour mettre du 
+contexte (par exemple, des articles qui annoncent les films à l’affi che, dont l’un a le mot 
+ 
+36 Id. 
+37 Id 
+38 Définition du « wokisme » dans le Larousse 2023 : « Idéologie d’inspiration woke, centrée sur les questions 
+d’égalité, de justice et de défense des minorités, parfois perçue comm e attentatoire à l’universalisme républicain . » 
+39 Classement diffusion de la presse payante quotidienne nationale 2022, ACPM. Cf. Annexe 3 
+ 12 « trans » dans son synopsis). Cette réduction de corpus m’a permis d’arriver à un c orpus final 
+de 86 articles. 
+ 
+J’ai ensuite procédé à une analyse d iscursive et sémiotique de ces articles en prenant en compte 
+plusieurs éléments du traitement journalistique : l’angle choisi, le type de thématiques abordées, 
+les interlocuteurs auxquels les journalistes donnent la parole, le lexi que utilisé, le type d’article 
+(interview, analyse, tribune…) et la rubrique dans laquelle ils ont été classés. Tout au long de 
+ce mémoire, j’utiliserai le terme « transidentité », mais aussi le terme « questions trans ». En 
+effet, dans certains journaux, ce sujet n’est parfoi s pas abordé comme un élément en lien avec 
+l’identité d’une personne, mais plutôt comme une question d’ordre idéologique. 
+ 
+J’ai choisi de focaliser mon travail sur le traitement de la transident ité par Le Figaro . 
+Premièrement, en raison de la récurrence de ces sujets dans ses pages : plus d’un tiers des 
+articles du corpus sont tirés du Figaro , ce qui témoigne d’un intérêt particulier du journal pour 
+ces sujets. D’autre part, c’est sans doute le titre de presse quotidi enne nationale qui relaie le 
+plus d’idé es anti-trans dans ses pages, produit d’une véritable stratégie éditoriale allant en ce 
+sens. En effet, le recours aux tribunes écrites par des personnes diffusant des discours anti-trans 
+y est fréquent et le champ lexical de la menace est souvent emp loyé. Enfin, si d’autres titres 
+adoptent cette ligne éditoriale conservatrice sur les sujets t rans, la portée des discours diffusés 
+par Le Figaro est importante étant donné de la légitimité de ce journal aux yeux d es Français. 
+D’après le classement de diffusion de la presse quotidienne nationale payante, publié par 
+ACPM, c’est le journal deuxième quotidien national le plus diffusé en France en 2022, après 
+Le Monde . Cependant, je souhaitais remettre la médiatisation des questi ons trans par Le Figaro 
+dans un contexte plus global. Ma dernière partie consistera donc à repl acer Le Figaro dans 
+l’environnement g énéral de la presse quotidienne nationale dans le but de comprendre 
+l’influence que des discours diffusés dans ce journal ont sur les autres journaux. 
+ 
+Il convient alors de se demander : Dans quelle mesure Le Figaro alimente-t-il une 
+panique morale autour de la transidentité par son traitement journalistique ? 
+ 
+Pour répondre à cette problématique il s’agira de vérifier trois hypothèses établies sur 
+la base de recherches préalables. 
+ 
+ 13 Première hypothèse : Le Figaro fait des questions trans un sujet à part entière dans ses pages 
+(I) 
+Deuxième hypothèse : Le Figaro participe à définir les questions trans comme un problème 
+public (II) 
+ 
+Troisième hypothèse : La définition des questions trans donnée par Le Figaro circule dans 
+d’autres journaux (III). 
+
+ 14 I. Un traitement abondant mais disqualifiant des questions 
+trans dans Le Figaro 
+
+A. Les questions trans sont devenues un sujet à part entière dans 
+Le Figaro 
+ 
+De manière générale, les questions trans sont , plus qu’auparavant, abordées dans la presse 
+quotidienne nationale. Longtemps invisibilisées puis cantonnées qu’à certains sujets 
+marginaux, tels que la prostitution et les faits divers, les questions trans sont aujourd’hui 
+abordées dans la presse avec des angles plus variés. Cela est en grande partie dû à la visibilité 
+accrue des revendications d’égalité des droits pour les personnes trans dans la sphère publique, 
+notamment grâce aux mouvements militants LGBTQ+. On trouve désormais des articles 
+abordant la transidentité dans les rubriques sport, politique, éducati on, culture, même si la 
+majorité des articles restent dans la rubrique société. On trouve des sujets nationaux, mais aussi 
+des sujets internationaux, ce qui témoigne du fait que les questions trans ont gagné en légitimité 
+dans l’espace public médiatique : elles sont désormais considérées comme dignes d’une 
+attention particulière. 
+ 
+Cette médiatisation accrue des questions trans se retrouve dans tout journa ux confondus, mais 
+Le Figaro se distingue clairement par son traitement particulièrement abondant. En effet, c’ est 
+le média de notre corpus dans lequel le sujet est le plus traité : sur 86 articles recensés qui 
+abordent des thématiques liées à la transidentité, 27 sont issus du Figaro , soit plus d’un tiers . 
+À titre de comparaison : Libération (14 articles), Le Monde (13 articles), 20 minutes (12 
+articles), La Croix (11 articles), Aujourd’hui en France-Le Parisien (5 articles), L’Humanité (2 
+articles), Les Échos (1 article), L’Équipe (1 article). 
+ 
+Le Figaro suit l’actualité en lien avec les questions trans, comme le font d’autres journaux, mais 
+traite aussi d’ autres sujets non-abordés dans les autres journaux. Par exemple, il pu blie un le 25 
+septembre 2022, à propos d’une manifestation de parents d’élèves d’un lycée canadien, 
+réclamant le renvoi d’une enseignante transgenre jugée « extravagante 40 ». Un autre article 
+publié le 16 décembre 2022, évoque quant à lui l’ intervention de « Parlons trans », une 
+ 
+40 Paul Sugy, « Controverse au Canada autour d'un enseignant transgenre arborant une poitrine extravagante », 
+Le Figaro , 25 septembre 2022 
+ 15 association de sensibilisation contre les discriminations envers l es personnes trans, dans un 
+lycée à Brest 41 . En principe, ces sujets n’ont pas une grande portée à l’échelle nationale. 
+Pourtant, Le Figaro , un quotidien national, fait le choix de les traiter dans ses pages com me des 
+sujets à part entière, ce qui montre la place particulière qu’il accorde aux questions trans. 
+ 
+Les mineur-e-s trans et les divisions au sein du féminisme, des sujets récur rents 
+ 
+Par ailleurs, certaines thématiques sont particulièrement récurrentes dans les articles du Figaro : 
+les enfants trans, l’école ou encore les divisions existantes sur les questions trans au sein des 
+mouvements féministes. Sur 27 articles, cinq abordent des sujets liés à l’éducation et à l’école, 
+notamment sur la manière dont les questions trans sont évoquées dans le mi lieu scolaire avec 
+les enfants et les adolescents. Quatre articles sont quant à eux cons acrés aux débats existants au 
+sein des mouvements se revendiquant féministes, à propos de l’inclusion ou non des femmes 
+transgenres dans leurs luttes. Enfin, le sujet qui revient le plus dans l es articles du Figaro traitant 
+de transidentité est celui des mineur-e-s trans : au total, 11 arti cles portent sur ce sujet. La 
+surmédiatisation de ce sujet montre que Le Figaro place la question des enfants trans comme 
+un sujet à part entière, nécessitant une médiatisation imp ortante. Le journal traite en majorité 
+ce sujet par le biais de tribunes ou d’analyses, surto ut depuis la publication du livre La fabrique 
+de l’enfant transgenre , co- écrit par Caroline Eliacheff et Céline Masson (L’Observatoire, 
+2022). 
+ 
+Cet intérêt pour les mineur-e-s trans perdure dans le temps puisque le 10 février 2023, Le Figaro 
+a diffusé une émission en direct exclusivement consacrée au sujet int itulé « L’idéologie 
+transgenre est-elle une menace ? ». Si elle ne fait pas partie de mon corpus étant donné sa nature 
+et sa date, il est intéressant de l’évoquer pour voir que la question des enfants trans est devenu 
+une sorte de « fonds de commerce » pour ce journal. Elle montre également bie n que si les 
+questions trans sont désormais visibles dans les pages du Figaro , c e n'est ni d’une manière 
+positive, ni à travers le discours d’interlocuteurs concernés ou alliés. En effet, Le Figaro relaie 
+en majorité des discours disqualifiant sur les questions trans, qui contrib uent à définir une 
+représentation négative de la transidentité dans l’espace public médiati que. 
+
+41 Eugénie Boilait, « Genre et transidentité : une association militante intervi ent dans des classes dans le cadre d'un 
+enseignement sur la laïcité », Le Figaro , 16 décembre 2022 
+ 16 B. Le Figaro relaie des discours disqualifiant sur les questions trans 
+
+« Être visible, c’est avoir une cible dans le dos . » C’est de cette manière que le journaliste 
+Tal Madesta résume le contrecoup de la visibilité des pers onnes trans dans les médias 42 . En 
+effet, dans Le Figaro , les articles abordant les questions trans reflètent en grande majorité une 
+image négative de la transidentité. Parmi les formats privilégié s par ce journal, les tribunes et 
+les interviews sont largement utilisées : sur 27 articles, 11 abordent les questions trans sous 
+cette forme. Ces formats, qui laissent peu, voire aucune place à la contradiction, sont 
+particulièrement propices à la diffusion de discours anti-trans, voire de fakes news sur ce sujet. 
+Cela est d’autant plus visible dans les articles du Figaro , car les points de vue relatés ne sont 
+pas du tout diversifiés : toutes les personnes qui s’expriment dans ce t ype d’articles émettent 
+un discours discréditant, voire hostile vis-à-vis de la transidentité. 
+ 
+Parmi les figures récurrentes sur ces questions dans le journal, Eugénie Bast ié, journaliste au 
+Figaro, est particulièrement virulente . Elle est l’autrice de plusieurs tribunes publiées dans les 
+pages du journal, dans lesquelles elle défend la « différence des sexes », tout en dénonçant une 
+supposée « théorie du genre » portée par des militant-e-s « transact ivistes ». Caroline Eliacheff 
+et Céline Masson, psychanalystes, sont également sur le devant de la scène dans Le Figaro 
+depuis la parution de leur livre La fabrique de l’enfant transgenre (L’Observatoire, 2022) , un 
+ouvrage alertant sur « les dérives du transgenrisme sur les enfants », paru e n février 2022. 
+Plusieurs interviews leur ont été consacrées et les deux femmes sont même devenues des figures 
+d’expertise sur le sujet pour ce journal. Les annulations de plusieurs de leurs confé rences ont 
+également été couvertes à chaque fois par Le Figaro , signe que ce sont des personnalités mises 
+en avant par le journal. Dans le même sens, le journal publie le 12 septembre 2022, un extrait 
+exclusif de La religion woke (Grasset, 2022), un essai du philosophe Jean-François Braunstein 
+dans lequel il porte un discours négatif vis-à-vis de la transidentit é. Encore une fois, dans ce 
+type de format, aucun journaliste n’apporte de contradictoire à la parole disqualifiante exprimée 
+et aucune réelle vérification des faits n’est réalisée . Ceci montre le positionnement du Figaro 
+sur les questions trans, qui sont traitées avec une ligne éditoriale part iculièrement conservatrice. 
+Par ailleurs, le fait qu’une grande partie des articles soient classé es dans la rubrique « Figaro 
+Vox », dédiée aux débats et opinions, met en exergue la manière dont les identités trans sont 
+appréhendées avant tout comme des objets de débat, plutôt que comme des réalit és. 
+ 
+42 Émission À l’air libre, Mediapart , 16 mai 2023 
+ 17 Ce constat est accentué par l ’invisibilisation des personnes concernées. En effet, même si les 
+questions trans sont plus visibles qu’auparavant dans les pages du Figaro, ce n’est pas le cas 
+des personnes concernées. Dans les articles sur le sujet, ces de rnières n’ont quasiment jamais 
+la parole : sur les 27 articles traitant d’ un sujet lien avec la transidentité, seuls deux donnent la 
+parole à une personne trans et de manière très brève. Un des exemples l es plus marquants sur 
+la période du corpus est celui de Marie Cau, première maire tr ansgenre de France, qui a été 
+largement médiatisée fin 2022, suite à son face-à-face avec Dora M outot sur France 2. Pour 
+rappel, la militante anti-trans Dora Moutot avait tenu des propos j ugés transphobes , alors qu’elle 
+était sur le plateau de l’émission Quelle époque ! face à Marie Cau. Elle avait notamment 
+qualifié Marie Cau d ’« homme transféminin », et avait affirmé que « les hommes violent en 
+prison » en parlant des femmes trans emprisonnées dans les prisons de fe mmes. Après la 
+diffusion de cette émission, la plupart des journaux ont fait le choix de donner la parole à Marie 
+Cau, en l’interviewant ou en dressant son portrait. Si Le Figaro a traité cette actualité à plusieurs 
+reprises, il n’a jamais donn é la parole à Marie Cau, et a fait le choix de laisser une tribune sans 
+aucune contradiction à Dora Moutot. Ce choix éditorial, comme beaucoup d’autres , met en 
+exergue la ligne éditoriale conservatrice du Figaro sur ces questions et la circulation d’affects 
+négatifs sur la transidentité due à la fréquences des articles négatifs sur les quest ions trans. 
+ 
+L’utilisation d’un lexique sensationnaliste et disqualifiant 
+ 
+La circulation d’affects négatifs passe aussi par l’utilisation d’un voca bulaire sensationnaliste 
+et alarmiste pour parler des identités trans. « Climat de terreur intellectuelle », « censeurs », 
+« religion woke », « endoctriner les enfants » : Le Figaro utilise des mots et des tournures de 
+phrases laissant penser à une « menace » de la transidentité pour la société, ce qui contribue à 
+alimenter une panique morale sur cette question. Le 25 septembre 2022, Le Figaro publie même 
+un article sur une école canadienne dans laquelle des parents d’élèves dénonce 
+l’indécence « d’un professeur de technologie affublé de prothèses mammaires exubér antes ». 
+En plus de mégenrer cette professeure trans, l’article relaie uniqueme nt des informations et 
+réactions négatives de la part de médias conservateurs canadiens et états-uniens. Par exemple, 
+il relate de la prise de position d’un journaliste de Fox News en faveur du renvoi de 
+l’enseignante. L’article se termine aussi par l’a vis d’ un éditorialiste du Toronto Sun , autre 
+média conservateur, qui estime que la polémique venait en partie du fait que l’apparence de la 
+professeure était « inappropriée, mais que personne [n’osait] le dire ». Cette idée renvoie à 
+ 18 celle d’une « cancel culture », très récurrente dans les articles du Figaro , notamment sur 
+questions trans. 
+ 
+Au-delà du lexique sensationnaliste, Le Figaro se distingue par l’utilisation fréquente de terme s 
+disqualifiants pour parler des personnes trans et des mouvements militant pour le urs droits. Le 
+terme « transactiviste » et l’évocation de la « théorie du genre », typiques des discours anti-
+trans, se retrouvent dans plusieurs articles. Mais ce ne sont pas les seuls t ermes invalidants qui 
+sont employés dans Le Figaro : le mot « transsexuel-le », qui n’est quasiment plus utilisé dans 
+la plupart des journaux, l’est toujours régulièrement dans Le Figaro . Pourtant, de nombreuses 
+associations préconisent désormais l’utilisation du mot « transgenre » ou « trans » plutôt que 
+« transsexuel-le ». Pour cause, ce terme est jugé essentialisant et p eu inclusif, car il met en avant 
+la dimension corporelle et sexuel le de la transition physique avant l’iden tité de genre des 
+personnes. Il est également estimé pathologisant vis-à-vis des pers onnes trans en raison son 
+histoire, le « transsexualisme » ayant été considéré comme une maladie mentale par 
+l’Organisation mondiale de la santé (OMS) jusqu’en 2019. 
+ 
+Par ailleurs, dans plusieurs articles, Le Figaro mégenre les personnes trans dont il parle, c’est -
+à-dire qu’il les désigne avec un genre contraire à celui auquel la personne s'identifie. Le 
+vocabulaire est porteur de signification : l’utilisation de termes péjoratifs affecte donc le regard 
+porté sur quelque chose ou quelqu’un . Le Figaro semble en être conscient : le 24 août 2022, en 
+pleine polémique du Planning familial, il publie une analyse dans l aquelle le journaliste s’amuse 
+de termes et de tournures de phrases inclusives pour les personnes tra ns, utilisées par 
+l’ association 43 . En plus de qualifier cela de « vocabulaire transactiviste », il utilise des 
+raccourcis et des exagérations ironiques pour faire apparaître cette adap tation de vocabulaire 
+absurde, voire ridicule aux yeux du lectorat. Dans le même sens, le journ al publie deux articles 
+évoquant la transidentité de l’artiste Redcar (ex -Chris ou Christine and the queens), dont il 
+définit l’identité comme un « concept marketing 44 ». 
+
+43 Margaux D'Adhémar. « Enceint », « cisnormativité », « euphorie de genre » : petit lexique « trans » du Planning 
+familial, Le Figaro, 24 août 2022.. 
+44 Ronan Planchon, « Chris devient Redcar : quand l'identité vire au concept mar keting », Le Figaro , 17 novembre 
+2022. 
+ 19 En somme, par son traitement intense des questions trans , Le Figaro participe à faire de la 
+transidentité une question incontournable dans la sphère publique45 . Cela est d’autant plus le 
+cas pour certains sujets, comme la prise en charge des enfants et adolescents trans, qui a une 
+importance disproportionnée dans les pages du Figaro comparé à la réalité du phénomène. 
+Cependant, cette visibilité de la transidentité est loin d’être positive : les discours partagés dans 
+les articles sont en grande majorité hostiles vis-à-vis des personnes trans et le vocabulaire utilisé 
+est disqualifiant. Cela apparaît alors comme un « phénomène » qui aura it des conséquences 
+dommageables sur la société, faisant ainsi circuler une représentati on et des affects négatifs sur 
+le sujet. La préoccupation, la disproportion d’inquiétude et l’hostilité vis-à- vis d’un sujet étant 
+des éléments constitutifs d’une panique morale 46 , il est possible de penser que le traitement 
+journalistique du Figaro alimente une panique morale autour de la transidentité. Par ailleurs, le 
+journal a tendance la définir comme un « problème public » , c’est -à-dire à transformer la 
+transidentité comme un enjeu de débat pu blic et/ou d’intervention étatique 47 . 
+
+45 Nancy Fraser . « Repenser la sphère publique : une contribution à la critique de la démocratie telle qu’elle existe 
+réellement », op.cit. 
+46 Chas Critcher. Moral Panics, op.cit. p.4-5. 
+47 Éric Neveu. « L’approche constructiviste des « problèmes publics ». Un aperçu des travaux anglo -saxons », 
+Études de communication , n°22, 1999, 41-58. 
+ 20 II. Le Figaro contribue à définir la transidentité comme un 
+problème public 
+ 
+A. Le Figaro dépeint la transidentité comme porteuse d’une idéologie 
+ 
+Lorsque les questions trans sont abordées dans Le Figaro , les articles tournent plus souvent 
+autour de concepts tels que le « wokisme », la « déconstruction » ou encore la « cancel 
+culture ». Ces derniers laissent à voir la transidentité non pas comme une ident ité, mais comme 
+une idéologie. Par exemple, dans un entretien accordé à Dora Moutot 48 , le 18 octobre 2022, la 
+journaliste affirme que la militante anti-trans s’était opposée à « la rhétorique de Marie Cau ». 
+Cette formulation laisse penser que le désaccord dans ce débat rele vait de l’ordre idéologique, 
+de l’opinion, alors qu’en réalit é Dora Moutot remettait en question non pas seulement les idées 
+de Marie Cau, mais aussi son identité de femme. 
+ 
+Le fait de dépeindre la transidentité comme une idéologie partici pe à amener les questions trans 
+au cœur du débat public et à la désigner comme un « problème public ». En effet, il est considéré 
+normal de pouvoir débattre d’idées, d’opinions et d’idéologies dans l’espace public au sein 
+d’une démocratie , car la liberté d’expression et la liberté de la presse le permettent. Il est 
+cependant moins naturel de débattre de l’identité d’une ou de plusieurs personnes. Faire de la 
+transidentité une idéologie contribue donc à en faire un sujet débat com me n’importe quel autre, 
+avec lequel on peut être d’accord ou non. 
+ 
+Dans les articles du Figaro , l’idée récurrente soutenue par les différents interlocuteurs est celle 
+selon laquelle la « théorie du genre » est une idéologie qui se propage dans la soci été et contre 
+laquelle il faut lutter. Parmi les articles publiés dans Le Figaro, plusieurs abordent des 
+thématiques en rapport avec l’école et l’enseignement , aussi bien en France qu’à l’étrange r. Le 
+cadre scolaire est alors présenté comme un lieu privilégié de diffusion de la « théorie du genre » 
+chez les jeunes. Par exemple, un article datant du 16 décembre 2022 49 , revient sur l’intervention 
+de l’ association « Parlons trans » dans un lycée , dans le cadre d’une formation de sensibilisation 
+aux discriminations envers les personnes trans . Si cette intervention s’inscrivait dans un objectif 
+ 
+48 Ronan Planchon, « Dora Moutot : « On ne peut effacer le sexe au profit de l'identité de genr e » », Le Figaro , 
+18 octobre 2022 
+49 Eugénie Boilait, « Genre et transidentité : une association militante intervi ent dans des classes dans le cadre d'un 
+enseignement sur la laïcité », Le Figaro , 16 décembre 2022 
+ 21 d’information des élèves, l’article laisse penser que l’association était venue diffuser une pensée 
+militante. Pour ce faire, Le Figaro donne la parole à une élève qui ne comprend pas le but de 
+cette action, ainsi qu ’à un militant de la Cocarde lycéenne, syndicat lycée n d’extrême droite. 
+Au niveau du contradictoire, seule une ligne de parole est donnée à l’association intervenante. 
+ 
+Des comparaisons à des mouvements idéologiques totalitaires 
+ 
+Le Figaro met régulièrement en avant l’idée selon laquelle la déconstruction du genre serait 
+une « idéologie » encouragée par les institutions à coup de propagande. L ’interview de Yana 
+Grinshpun 50 , publiée le 23 août 2022, en est une bonne illustration : elle affir me que l'affiche 
+controversée du Planning familial sur laquelle est représenté un homme e nceint « utilise le 
+langage pour promouvoir une idéologie de déconstruction de l'identit é ». Dans cette interview, 
+cette linguiste soutient que parler d’ « homme enceint » revient à nier la réalité biologique au 
+profit du militantisme, et évoque un danger « d’embrigadement et d’endoctrinement des 
+jeunes » dans cette « idéologie ». Elle va encore plus loin en comparant l ’utili sation du terme 
+« homme enceint » et plus généralement d’un vocabulaire s’affranchissant des normes de genre, 
+à des mécanismes utilisés par des mouvements totalitaires. « Nous avons vu les splendeurs et 
+les misères du communisme, du bolchevisme, du nazisme, nous verrons peut-être aussi la fin 
+du déconstructivisme, du meetoïsme, de l'inclusivisme, du transhum anisme qui se transformera 
+en conservatisme […] », peut -on lire à la fin de l’interview, lorsque l’interlocutrice évoque les 
+limites de ce qu’elle juge comme une « idéologie ». Dans le même registre, la journaliste 
+Eugénie Bastié qualifie les discours promouvant la déconstruction des modèles sociaux genrés 
+de « propagande 51 », dans une tribune. Cette dernière effectue d’ autre comparaisons extrêmes 
+dans une chronique du 16 novembre 2022 52 où elle compare la remise en cause du système 
+genre-sexe binaire et traditionnel, revendiquée par le penseur Paul B. Prec iado dans son livre 
+Dysphoria mundi (Grasset, 2022), à la théorie du Grand remplacement. Tout en rappelant le 
+deadname 53 de l’auteur , homme transgenre, elle soutient que ce dernier souhaite une « Grande 
+Transition », ou encore la « queerisation de la société ». Pour rappel, le Grand remplacement 
+est une théorie du complot d’extrême droite, introduite en 2010 par Renaud Camus, stipulant 
+ 
+50 Eugénie Boilait, « Yana Grinshpun : « L'affiche du Planning familial sur des '' hommes enceints'' utilise le 
+langage pour promouvoir une idéologie de déconstruction de l'identité », Le Figaro , 23 août 2022 
+51 Eugénie Bastié, « Sauver la différence des sexes », Le Figaro , op.cit. 
+52 Eugénie Bastié, « Dans la tête d’un révolutionnaire tr ans », Le Figaro , 16 novembre 2022 
+53 Le « deadname », ou « morinom », désigne le prénom de naissance d'une personne qui a changé de prénom en 
+raison de sa transition de genre. 
+ 22 qu'il existerait en France un processus de substitution de la population fra nçaise et européenne 
+par une population extra-européenne, notamment originaire d'Afrique subsa harienne et du 
+Maghreb. Elle qualifie aussi la pensée de l’auteur comme sectaire : « la secte trans est une secte 
+occidentale », écrit-elle. Cela reprend l’idée selon laquelle la transidentité serait un phénomène 
+purement occidental, idée qui est notamment défendue par certains régime s autoritaires, comme 
+en Russie. 
+ 
+Ces comparaisons extrêmes ainsi que l’idée d’une « idéologie » qui se diffuserait notamment 
+chez les enfants, laisse voir la transidentité comme un problème qui constituerait une menace 
+pour la société, alimentant ainsi une forme de « panique morale ». 
+
+B. Le Figaro relaie des discours alarmistes sur les questions trans laissant 
+penser à une menace 
+ 
+En plus de dépeindre la transidentité comme une idéologie, certains art icles utilisent des 
+discours qui laissent penser à une menace des personnes trans envers le s femmes cisgenres et 
+les enfants. Les personnes trans apparaissent alors comme les « bouc-é missaires 54 » d’une 
+panique morale au sens de Stanley Cohen , c’est -à-dire celles désignées comme une menace 
+pour les valeurs et les intérêts de la société. Par exemple, Le Figaro publie un article le 28 
+octobre 2022, intitulé « Quand des transsexuels veulent la mort des femmes », avant de le 
+retitrer quelques temps après « Quand des transsexuels veulent l’effacement de la femme ».55 
+Le vocabulaire ne laisse donc aucun doute sur le caractère menaçant dépeint par le journal. 
+Dans cet article, publié après l’altercation entre Dora Moutot et Marie Cau, le journaliste 
+raconte l’incident sous fond de défense de la « différence des sexes ». Il met en avant les 
+oppositions existant au sein des mouvements féministes en prenant le soi n de distinguer les 
+« femmes » des « hommes qui usurpent la condition féminine ». Un grand nombre d’articles 
+sont aussi consacrés à la question des mineur-e-s trans, sujet qui e st abordé de manière à 
+apparaître comme une menace et une question de santé publique. Cela s’illustre notamment 
+avec la forte médiatisation des autrices du livre La fabrique de l’enfant transgenre 
+(L’Observatoire, 2022) , qui soutient la thèse selon laquelle la médicalisation des adole scents 
+trans est le p résage d’un « scandale sanitaire » duquel il faudrait « protéger les enfants ». La 
+ 
+54 Stanley Cohen. Folks Devils and Moral Panics , Londres, Paladin, 1973, 224 pages. 
+55 Vincent Jolly, « Quand des transsexuels veulent l’effacement de la femme », Le Figaro , 16 novembre 2022 
+ 23 volonté de transitionner est alors dépeinte comme un « effet de mode », produit d’un 
+« endoctrinement » de la part de militant-e-s trans. 
+ 
+La cancel-culture, une menace qui émanerait du « mouvement woke » 
+ 
+En effet, dans de nombreux articles, Le Figaro utilise un vocabulaire laissant penser que les 
+militant-e-s trans, dénonçant des discours ou des comportements jugés transphobes, constituent 
+une menace pour la liberté d’expression . Un entretien accordé à Caroline Eliacheff et Cécile 
+Masson, publié le 28 novembre 2022 , parle d’un « climat de terreur intellectuelle 56 » sur la 
+question trans après à l’annulation de plusieurs conférences des deux psychanalystes, due à des 
+manifestations s’opposant à leur venue. La tribune de la sociologue Nathalie Heinich 57 , le 6 
+décembre 2022, véhicule la même idée. Dans celle-ci, elle sout ient que les institutions « se 
+conduisent trop souvent en complices objectifs des censeurs », ce qui sous- entend qu’ au-delà 
+des mouvements militants, la « cancel culture » sur ce sujet serait institutionnalisée. Sur cette 
+question, une personnalité publique est particulièrement mise en avant : J.K Rowling, autrice 
+la saga Harry Potter , régulièrement boycottée par des fans de la saga en raison de ses pri ses 
+positions controversées à répétition. Cette dernière a notamment aimé des tweets contenant des 
+propos jugés transphobes et pris position en ce sens à plusieurs repris es. Sur la période du 
+corpus, plusieurs articles ont été consacrés à son cas, sous l’ angle de la « cancel culture ». Par 
+exemple, après l’annonce de la sortie du jeu vidéo Hogwarts Legacy , inspiré d’ Harry Potter , 
+Le Figaro publie un article titré : « J. K. Rowling [est] de nouveau face à la "cancel culture 58 " ». 
+Cet article parle alors de « censure », ou encore de « guérilla numérique ». Deux mois plus 
+tard, un autre article est consacré à l’ annonce du financement de l’autrice d’un centre dédié à 
+l'accueil de « femmes biologiques » victimes de violences 59 . Autrement dit, un établissement 
+excluant les femmes transgenres. Le journal évoque cette actualité e n décrivant ce projet 
+comme un « riposte féministe » face à des « attaques ». 
+ 
+En somme, Le Figaro participe à définir la transidentité comme un problème public à 
+travers son traitement journalistique. D’une part, il dépeint la transident ité comme une idéologie 
+ 
+56 Eugénie Bastié, « Sur la question trans, nous vivons un climat de terreur intellectue lle », Le Figaro , 26 novembre 
+2022 
+57 Nathalie Heinich : « Nos institutions se conduisent trop souvent en complice s objectifs des censeurs », Le Figaro , 
+6 décembre 2022 
+58 Vincent Jolly, « Hogwarts Legacy : J. K. Rowling de nouveau face à la « cancel culture » », Le Figaro , 
+11 octobre 2022 
+59 Vincent Jolly, « Face aux attaques, la riposte féministe de J.K. Rowling », Le Figaro , 12 décembre 2022 
+ 24 et non comme un élément faisant partie de l’identité d’une personne. Cet te approche a pour 
+conséquence de placer les identités trans comme un enjeu du débat p ublic. Dans les pages du 
+journal, cela se matérialise par la visibilité importante de personnalités soutenant des 
+rhétoriques anti-trans, notamment à travers des tribunes et des interv iews dont un certain 
+nombre sont classés dans la rubrique idées/opinion. Le Figaro produit aussi des discours 
+alarmistes qui dépeignent la transidentité comme une menace pour la soci été, particulièrement 
+pour les plus jeunes, en mobilisant massivement des sujets en l ien avec les enfants et les 
+adolescents (transition de genre chez les adolescents , école…) . Par ailleurs, de nombreux 
+articles mettent en avant l’idée d’ une menace pour la liberté d’expression, induite par la 
+« cancel culture » des militants trans. Cela contribue à donner une image négative de l a 
+transidentité dans la sphère publique et à diffuser des affects négat ifs, qui tendent à circuler 
+dans l’ensemble des journaux. 
+
+ 25 III. Une représentation négative de la transidentité qui circule 
+en partie dans les autres journaux 
+ 
+A. Des références et un vocabulaire disqualifiant qui se retrouvent dans 
+d’autres journaux 
+ 
+Comme nous l’avons vu précédemment, Le Figaro définit la transidentité comme un 
+problème public, qui justifie une attention particulière en raison d’une supposée « menace » 
+qu’elle représenter ait pour la société. Cette définition et les affects négatifs qui lui sont associés 
+semblent circuler dans d’ autres journaux, y compris ceux qui sont généralement moins présents 
+sur ces questions. Certains éléments de la médiatisation des quest ions trans du Figaro se 
+retrouvent dans d’autres titres : la visibilité importante des oppositions, dont certaines figures 
+sont érigées comme des références sur le sujet, l’utilisation d’un vocabulaire disqualifiant ou 
+encore la surreprésentation de certains sujets parmi lesquels, les mineur-e- s trans. C’est le cas 
+dans La Croix, qui évoque de plus en plus ces questions dans ces pages avec des réfé rences, 
+des angles et un lexique similaire à celui du Figaro. La médiatisation de personnalités comme 
+Caroline Eliacheff et Céline Masson en est la parfaite illustration : le 6 décembre 2022, elles 
+signent une tribune dans La Croix 60 , après avoir été médiatisées par Le Figaro depuis la sortie 
+de leur livre, en février 2022. Dans cette tribune, les deux psychanalystes dénon cent à nouveau 
+la « cancel culture » qui serait selon elles, exercée par des « transactivistes ». Cepe ndant, 
+contrairement au Figaro , un certain nombre d’articles en lien avec les questions trans publiés 
+dans La Croix ne sont que des reprises de dépêches de l’Agence France Presse : au total cela 
+représente quatre ar ticles sur 11, ce qui peut faire relativiser l’importance accordée à ces 
+questions par le journal. 
+ 
+Des figures transphobes qui se retrouvent dans d’autres journaux 
+ 
+Les quotidiens ne sont pas les seuls à relayer des discours disqualifian ts vis-à-vis de la 
+transidentité : des hebdomadaires comme Le Point , Marianne , L’Express ou encore Valeurs 
+actuelles ont à plusieurs reprises diffusé des tribunes de personnalités anti-tra ns comme 
+Caroline Eliacheff, Céline Masson, Dora Moutot ou encore Margherite Stern. Ces de ux 
+dernières, qui se revendiquent « femellistes », ont entre autres publié une t ribune dans 
+ 
+60 Caroline Eliacheff et Céline Masson, Controverse sur les mineurs trans : « La cr itique fait partie du débat, mais 
+pas le lynchage », La Croix , 6 décembre 2022. 
+ 26 Marianne après la sortie de l’affiche du Planning familial , à la fin de l’été 2022, puis à la suite 
+de la publication de leur « manifeste femelliste », en janvier 2023. Dans ces articles, les deux 
+militantes anti-trans prônent un féminisme excluant les femmes t rans et revendiquent la 
+différence sexuelle comme unique critère de définition de la femme. Si les magazines 
+d’actualité ne font pas partie de mon corpus, qui regroupe uniquement les articles des 
+principaux quotidiens nationaux, il est intéressant de noter que ces magaz ines, qui paraissent 
+qu’une seule fois par semaine, accordent tout de même une place importa nte à ces questions 
+dans leurs pages . Cela montre d’autant plus à quel point les questions trans sont de venu es un 
+sujet à part entière dans la sphère médiatique. 
+ 
+Cette circulation de références et de discours disqualifiants ne s’arrête pas aux médias réputés 
+conservateurs. Fortement médiatisées, ces idées se retrouvent banalisé es et circulent dans des 
+journaux habituellement plus progressistes sur les questions LGBTQ+. Deux articles qui ne 
+font pas partie du corpus, datant janvier 2023, peuvent faire penser à une circulation de discours 
+entre Le Figaro et d’ autres journaux moins conservateurs. Le 15 janvier 2023, Libération publie 
+un portrait élogieux de Caroline Eliacheff 61 dans lequel cette dernière est qualifiée comme 
+« tenace » et « féministe ». L’article remet en question le caractère transphobe des propos tenus 
+par la psychanalyste. Cependant, elle est connue pour ses oppositions de longue date pour les 
+droits LGBTQ+, notamment au « mariage pour tous » et plus récemment à la « PMA pour 
+toutes ». Par ailleurs, en plus de son livre, co-écrit avec Céline Masson, qui alerte sur un 
+« phénomène transgenre » qui se répandrait chez les adolescents et qui constituerait un 
+« scandale sanitaire », elle a également signé le manifeste « femelliste » écrit p ar Dora Moutot 
+et Marguerite Stern, principales figures de l’offensive transphobe en France. Suite à la 
+publication de cet article, de nombreux internautes ont d’ailleurs dénonc é ce qui peut être jugé 
+comme une forme de complaisance de la journaliste de Libération envers Caroline Eliacheff. 
+Dans le même sens, le 28 janvier 2023, Le Monde a accordé une interview à Smaïn Laacher 62 , 
+ancien président du conseil scientifique de la délégation intermi nistérielle à la lutte contre le 
+racisme, l’antisémitisme et la haine anti -LGBT. Dans cet article, l’intéressé tient des propos 
+alarmistes : il parle d’une « conduite fasciste de certains transactivistes » et dénonce que les 
+militant-e-s trans iraient à l’encontre de l’universalisme républicain. 
+ 
+61 Eve Szeftel, « Caroline Eliacheff, du genre tenace », Libération , 15 janvier 2023 
+62 Solène Cordier, « Transidentités : « Quand on est républicain, universali ste, on ne doit pas avoir peur du débat 
+», Le Monde , 28 janvier 2023 
+ 27 Certains termes disqualifiants se retrouvent auss i dans d’autres journaux comme 
+« transactiviste », mot péjoratif utilisé par les conservateurs pour dési gner les militant-e-s trans. 
+On le retrouve notamment dans des articles de La Croix , où il est directement employé par le 
+journaliste. Ces termes sont aussi utilisés entre guillemet par Libération et par Le Monde , mais 
+dans le but de dénoncer des discours transphobes. Par ailleurs, on remarque une utilisation 
+moins fréquente de termes disqualifiants dans la plupart des autres journa ux, les personnes trans 
+sont moins souvent mégenrées et l ’utilisation des deadnames y est moins fréquente. On note 
+toutefois un contre-exemple avec un portrait publié par Le Parisien- Aujourd’hui en France 63 , 
+le 14 novembre 2022, qui cite à deux reprises le prénom de naissance de la femme politique 
+Hélène Hardy. 
+ 
+Des journaux qui réagissent à des polémiques diffusées par les médias conser vateurs 
+ 
+De manière générale, même si des journaux ont une ligne plus progressiste sur les questions 
+trans, il est possible de penser que le traitement péjoratif de c e sujet dans Le Figaro , influence 
+leur traitement dans d’autres titres. En effet, des idées déjà présentes dans la sphère médiatique 
+ne peuvent être invisibilisées par les journalistes. De fait, certa ins journaux semblent 
+contrebalancer la représentation négative de la transidentité dans Le Figaro avec des articles 
+positifs ou pédagogiques autour des questions trans . Par exemple, Libération publie le 25 
+décembre 2022, un article qui remet en question l’accusation de « cancel culture » dénoncée 
+par Caroline Eliacheff et Céline Masson quelques semaines plus tôt, notamment dans les pages 
+du Le Figaro . L’article s’intitule « Qui annule qui dans le débat sur la prise en charge des 
+mineurs trans 64 ? » et remet en question les propos des psychanalystes avec des interlocuteurs 
+en désaccord, en donnant aussi la parole aux deux femmes. Dans le même sens, Le Monde 
+publie un article le 15 septembre 2022 65 , intitulé « Il est absurde d’affirmer que les 
+revendications des personnes trans freineraient la cause des femmes », à propos de la polémique 
+autour Planning familial. Dans cet article, Camille Froidevaux Mett erie, philosophe et 
+professeure de science politique spécialiste du corps féminin, expl ique que selon elle, rien 
+n’oppose les revendications des personnes transgenres aux luttes féministes. Le journal 
+ 
+63 Pierre Maurer, « Qui est Hélène Hardy, première candidate transgenre à briguer un parti », Aujourd’hui en 
+France , 14 novembre 2022 
+64 Adrien Naselli, « Qui « annule » qui dans le débat sur la prise en charge des mineurs trans ? », Libération , 
+25 décembre 2022 
+65 Marie Slavicek, « Il est absurde d’affirmer que les revendications des pe rsonnes trans freineraient la cause des 
+femmes », Le Monde , 15 septembre 2022 
+ 28 20 minutes publie pour sa part un article de fact checking , le 20 octobre 2022, sur les propos 
+tenus par Dora Moutot sur le plateau de Quelle époque !, qui a notamment affirmé que les 
+femmes trans violaient dans les prisons pour femmes. Des propos polémiques qui ont beaucoup 
+fait réagir sur les réseaux sociaux, que 20 minutes tentent de remettre dans leur contexte, en 
+évoquant un « raccourci » fait, selon eux, par Dora Moutot. L’article revient sur l’origin e de 
+ces affirmations qu’il qualifie de « généralité infondée », précisant qu’elles se basent sur 
+quelques « faits divers survenus dans d’autres pays, sans prendre en compte les problématiques 
+réelles que connaissent les personnes transgenres en prison ». Le reste du papier consiste à 
+mettre en lumière les difficultés rencontrées par les personnes trans en prison, en s’appu yant 
+sur un avis relatif à la prise en charge des personnes transgenres dans le s lieux de privation de 
+liberté, publié par le Contrôleur général des lieux de privation de liberté (CGLPL). 
+ 
+Ces articles pédagogiques contribuent à contrebalancer la représentati on négative de la 
+transidentité donnée dans Le Figaro , ils participent aussi à la surmédiatisation de certains suj ets, 
+propices à alimenter une panique morale dans l’espace public. Si on ne peut pas établir avec 
+certitude le lien de causalité entre la publication de nombreux art icles disqualifiants sur les 
+questions trans dans Le Figaro et la présence de références, d’un l exique, de sujets 
+disqualifiants dans d’autres journaux, il est possible d’émettre l’ hypothèse d’une circulation 
+d’affect s négatifs. Cependant, l ’étude du corpus révèle globalement un traitement plus positif 
+et moins disqualifiant questions trans dans la majorité des journaux, a vec des articles davantage 
+en adéquation avec les problématiques rencontrées par les personnes concernées . 
+ 
+B. La plupart des journaux abordent les questions trans de manière plus 
+positive 
+ 
+Malgré la circulation de discours disqualifiants et d’affects négatifs vis -à-vis de la 
+transidentité dans la plupart des journaux, les articles sur les questi ons trans tendent à montrer 
+une représentation plus positive. Tout d’abord , les angles choisis par les journaux sur les 
+questions trans sont plus variés qu’auparavant : ils ne parlent plus seulement de la transidentité 
+en tant que « phénomène de société » ou uniquement à travers des témoi gnages individuels et 
+des récits de transition dépolitisés. Certaines personnalités trans sont fortement médiatisées, 
+principalement sous la forme de portraits ou d’interviews, dans le squelles elles font le récit de 
+leur parcours de vie . C’est le cas avec Marie Cau, première femme trans élue maire en France, 
+et d’ Hélène Hardy, première femme trans à se présenter à la tête d’un parti politique (Europe 
+ 29 Écologie les Verts) en France. Cependant, leur portrait n’ est pas uniquement réalisé pour leur 
+transidentité, mais parce que l’élection de Marie Cau, ou l’occupation de fonc tions politiques 
+importantes pour Hélène Hardy, sont une avancée pour visibilité trans et un symbole 
+d’évolution des mentalités . La même remarque peut être faite dans le cas d’Andr éa Furet, 
+première candidate transgenre à Miss Ile-de-France qui a été interviewée à plusieurs reprises. 
+ 
+On remarque par ailleurs que dans certains journaux, des personnes trans font l’ob jet d’une 
+interview ou d’un portrait sur un tout autre sujet que leur transidentité. Ce qui peut para ître 
+anodin est pourtant rare dans les articles : quand elles sont interrogées, les personnes trans le 
+sont souvent à propos de leur transidentité. Parmi les exemples, on peut citer l’interview de 
+Chelsea Manning 66 , lanceuse d’alerte et analyste militaire états -unienne, publiée dans 
+Le Monde , le 18 octobre 2022, à l’occasion de la sortie de ses mémoires en France. Dans cet 
+article, des thématiques telles que la surveillance numérique, le droit à la vie privée ou encore 
+son métier, sont centrales. Sa transidentité est évoquée, mais se ulement pour raconter des 
+problématiques spécifiques qu’elle a pu rencontrer en tant que personne trans dans son activité, 
+notamment lors de sa détention, ou pour évoquer les raisons qui l ’ont poussée à s’engager. 
+ 
+Des sujets abordant les discriminations subies par les personnes trans 
+ 
+L’idée selon laquelle la transidentité serait une « idéologie » n’est pas majoritaire dans la 
+plupart des journaux. Les articles traitent davantage des problém atiques et les discriminations 
+auxquelles les personnes trans peuvent être confrontées au quotidien. Par exem ple, le 20 octobre 
+2022, le journal 20 minutes publie un article sur les conditions de détention et les problèmes 
+rencontrés par les femmes transgenres en prison 67 , notamment leur détention dans de nombreux 
+cas dans des prisons pour hommes, l’isolement, les agressions ou encore les difficultés d’accès 
+à l’emploi en prison. Le 2 3 novembre 2022, 20 minutes publie un autre article sur la diffusion 
+du discours transphobe dans les médias 68 . Plusieurs personnes concernées expliquent les 
+conséquences de la prolifération de discours anti-trans dans les médias : l’anxiété, les actes 
+tran sphobes, l’influence de ces discours sur l’accompagnement des enfants trans par leur 
+ 
+66 Martin Untersinger, « Chelsea Manning : « Maintenant, décrire la réalité est considéré comme un acte criminel 
+» », Le Monde , 18 octobre 2022 
+67 Lina Fourneau, « Prisons : Dora Moutot a tort quand elle affirme que les femmes trans violent en prison », 20 
+minutes, 20 octobre 2022 
+68 Pauline Ferrari, « Dans les médias, les discours transphobes sont-il s devenus la norme ? », 20 minutes , 
+5 décembre 2022 
+ 30 famille ou encore le risque de suicide sont cités par les différents interlocuteurs . La sociologue 
+des médias Karine Espineira et Rita, une journaliste du média transfé ministe XY Media , 
+reviennent pour leur part sur l’origine de cette circulation de discours transphobes et de 
+l’invisibilisation de la parole des personnes concernées dans les médias. Libération traite 
+également à plusieurs reprises des cas de transphobie, notamment av ec un article sur les 
+violences LGBTphobes aux États-Unis dans un contexte politique réac tionnaire 69 , ou encore un 
+article décrivant les passerelles idéologiques entre les « Terf » (trans exclusionary radical 
+feminist 70 ) et l’extrême droite. Dans ce dernier, le journaliste explique comment le « combat 
+anti-trans » fait consensus au sein des deux mouvements et comment ces derniers i nteragissent 
+autour de cette question, malgré d’autre s divergences idéologiques. Libération a également 
+dénoncé les attaques subies par le Planning familial suite à la pub lication d’une affiche 
+représentant un homme enceint, évoquant « des réactions nauséabondes 71 ». Sur cette actualité, 
+L’Humanité , qui aborde habituellement très peu les questions trans dans ses pages , publie un 
+article similaire dénonçant de « nouvelles attaques haineuses venues de l'hémisphère droit du 
+monde politico-médiatique 72 ». 
+ 
+Les sportives transgenres moins essentialisées 
+ 
+Par ailleurs, l’aspect biologique de la transition est de moins en moins un sujet ce ntral dans les 
+articles qui traitent de transidentité. Même dans les pages de la rubrique sport, on remarque que 
+les médecins ne sont plus les principaux interlocuteurs, ce qui montre que l’essentialisation et 
+des personnes trans n’est plus automatiqu e. Les journaux abordent des problématiques liées à 
+l’inclusion et aux droits des personnes trans dans le sport. Le Monde publie un article le 25 
+octobre 2022, dans lequel il met en perspective le débat sur l’inclusion des personnes trans et 
+l’équité dans les compétitions sportives 73 . Le journaliste explique par exemple quelles sont les 
+règles à ce sujet aux États-Unis et présente les différents arguments mis en avant par les 
+personnes qui militent pour l’inclusion des femmes trans dans les catégories sporti ves 
+féminines, notamment le fait qu’aucune étude ne montre de manière certai ne qu’une femme 
+ 
+69 
+ Adrien Naselli, « Loin des débats théoriques sur la transidentité, des balle s bien réelles. », Libération, 
+23 novembre 2022. 
+70 Trans exclusionary radical feminist (Terf) : féministe radicale excluant les personnes trans. 
+71 Rédaction. « “Des hommes aussi peuvent être enceints “ : le Planning familial ciblé par l'extrême droite. », 
+Libération, 20 août 2022 
+72 Olivier Chartrain, « La droite extrême relance ses attaques contre le Planning familial. », L'Humanité, 22 août 
+2022 
+73 Clément Martel, « Inclusivité ou équité : le sport face au dilemme des a thlètes transgenres », Le Monde , 
+25 octobre 2022 
+ 31 transgenre serait avantagée par rapport à une femme cisgenre. Si d es aspects biologiques sont 
+abordés, cela est fait sans réduire les athlètes trans à leur sexe biologique et sans dépeindre la 
+présence des femmes trans dans le sport féminin comme une « menace » pour les femmes 
+cisgenres. Dans le même sens, Le Monde publie le 23 octobre 2022, une tribune de Fleur 
+Jourdan et Anne-Andréa Vilero, deux avocates, dans lesquelles elles appe llent à « penser un 
+nouveau système, juste et partagé par tous, qui permettra de com parer les athlètes et mesurer 
+équitablement leur performance 74 ». Elles expliquent dans quelle mesure la catégorisation 
+genrée des athlètes, basée uniquement sur la différence des se xes, n’est selon elles, pas la plus 
+adaptée pour comparer les athlètes, en plus de générer des exclusions . Elles citent comme 
+exemple les femmes trans ou encore femmes cisgenres ayant un taux de testostérone élev é, qui 
+se retrouvent exclues de certaines compétitions sportives. Le journal spécialisé L’Équipe publie 
+quant à lui un article sur le rugby féminin et l’accès des sportives aux clubs de rugby loisir avec 
+plaquage affiliés à la Fédération française de rugby (FFR). En effet, da ns ce type de club, il 
+n’existe pas d’équipe féminine et un doute règne sur la possibilité de j ouer en mixité. Si l’article 
+évoque le cas d’Ines, une sportive trans qui ne pourra plus jouer au sein de s on club lorsque 
+qu’elle aura changé sa mention de genre à l’état civil , il aborde rapidement le cas de toutes les 
+femmes, transgenres ou cisgenres sans distinction. L’article met ainsi en avant les 
+problématiques rencontrées par les sportives sans faire des sportive s trans des « cas à part », ce 
+qui contribue à normaliser leur vécu et à produire un discours plus inclusif e t moins 
+essentialisant. 
+ 
+Les mineur-e-s trans, un sujet central dans la presse généraliste ? 
+ 
+Par ailleurs, si le sujet des mineur-e-s trans est abordé dans l’ensemble des journaux, cela est 
+principalement pour évoquer les enjeux autour de leur accompagnement. Le Monde publie un 
+dossier consacré à ce sujet, le 5 décembre 2022, dans lequel les articl es évoquent sous plusieurs 
+angles la prise en charge des enfants trans. Un premier article aborde les enjeux liés à la prise 
+en compte des élèves trans à l’école. Il fait l’état d’une formation d’enseignants visant à « une 
+meilleure prise en compte des élèves LGBTQ à l’éc ole 75 ». Des problématiques telles que le 
+changement de prénom, le choix des chambres lors des voyages scolaires ou enc ore l’accès aux 
+lieux d’intimité (toilettes, vestiaires…) sont abordés. L’article revient sur ce que dit la circulaire 
+ 
+74 Fleur Jourdan et Anne-Andréa Vilerio, « Jeux olympiques : « Il convient de p enser un nouveau système partagé 
+par tous qui permettra de comparer les athlètes » », Le Monde , 23 octobre 2022 
+75 Sylvie Lecherbonnier, » A l’école, la difficile prise en compte des élèves transgenres : “ Chaque situation est 
+singulière “ », Le Monde , 5 décembre 2022 
+ 32 de 2021, qui a donné un cadre et des aménagements possibles selon les établissements. Un 
+deuxième article est une tribune écrite par des membres d’une « plateforme consacrée à 
+l’accompagnement des jeunes transgenres 76 » , dans laquelle ils insistent sur l’importance 
+d’une prise en charge médicale des jeunes trans adaptée. Le mal -être pouvant être ressenti par 
+les personnes, les discriminations, l’accompagnement dans le parcours de transition et l’éthique 
+médicale sont évoqués sous un angle bienveillant. 
+ 
+Enfin, un troisième article aborde les difficultés rencontrées par des parents quant à la manière 
+d’appréhender la transidentité de leur enfant après leur coming-out77 . Il donne à la fois la parole 
+à des enfants et à des parents concernés en décrivant le chemineme nt de différentes familles. Si 
+le journaliste évoque les difficultés rencontrées par les jeunes tra ns, notamment les cas de 
+transphobie dans le cercle familial et scolaire, ce sont les sentiments des parents, principalement 
+négatifs, qui sont le plus explicités. Avec des termes sensationnal istes comme « tsunami », « un 
+avant et un après » ou encore « choc », le journaliste décrit les émotions traversées par les 
+parents comme la « culpabilité » , l’ « angoisse », la « douleur », le « bouleversement » ou 
+encore le « soulagement ». Un papier qui relate donc tout de même une vis ion assez fataliste du 
+coming-out . 
+ 
+Par ailleurs, dans ce dossier, Le Monde traite des problématiques spécifiques rencontrées par 
+les personnes trans dans leur quotidien, mais aucune personne concernée n’a la parole. Dans le 
+premier article, même lorsque des récits de moments de vie et de s entiments des adolescents 
+concernés sont racontés, cela est fait du point de vue de leur famill e. Ce dossier révèle donc que 
+les questions trans sont enfin un sujet légitime dans la presse généra liste, car un dossier entier 
+y est consacré ; mais cela montre aussi que les premières personne s concernées, les personnes 
+trans, sont toujours en majorité invisibilisées dans les articles, y compris da ns les journaux qui 
+aborde ce sujet avec des angles bienveillants. 
+ 
+En somme, des discours disqualifiants vis-à-vis des personnes trans circulent dans 
+l’ensemble des quotidiens nationaux , notamment à travers des personnalités anti-trans et un 
+vocabulaire discréditant. Même des journaux qui ont une ligne plus progressiste sur le sujet se 
+ 
+76 Collectif, « Les jeunes trans existent, il est temps de reconnaître leurs droits et de répondre à leurs besoins », 
+Le Monde , 5 décembre 2022. 
+77 Solène Cordier, « Le cheminement des familles de jeunes transgenres, de la sidération au "non-sujet" », 
+Le Monde , 5 décembre 2022. 
+ 33 retrouvent à « réagir » aux discours réactionnaires tenus dans des journaux conservateurs , pour 
+apporter un autre regard ou pour fact-checker ce qui est dit. Mais la repri se de certains de ces 
+sujets contribue tout de même à faire circuler des affects négatifs vis-à-vis de la transidentité 
+dans l’espace public . Toutefois, plusieurs journaux abordent cette question sous des angles liés 
+aux problématiques rencontrées par les personnes trans au quotidien ou à leurs reve ndications. 
+De plus, dans la majorité des quotidiens, le vocabulaire employé est globalement moins 
+disqualifiant pour les personnes trans par rapport au Figaro . Cependant, on note toujours une 
+invisibilisation des personnes concernées, qui n’ont que très peu la parole dans les articles. 
+
+ 34 CONCLUSION 
+
+À travers son traitement journalistique des questions trans, Le Figaro contribue à 
+alimenter une panique morale autour de la transidentité. 
+ 
+D’une part, par son traitement massif et disqualifiant des questions trans . En effet, si l’ensemble 
+des quotidiens nationaux abordent davantage cette thématique, Le Figaro en fait un sujet à part 
+entière . Il concentre beaucoup d’articles sur des sujets en particulier par mi lesquels les mineur -
+e-s trans ou encore une prétendue « cancel culture » qui serait instaurée par des militant-e-s 
+trans. Cette visibilité apportée aux questions trans n’est donc pas le signe d’une reconnaissance 
+sociale ni d’une représentation plus positive accordées aux personnes trans dans ce journal : ces 
+dernières ne s’expriment en effet pratiquement jamais dans les articles. Au contraire, Le Figaro 
+donne en majorité la parole à des interlocuteurs hostiles vis-à-vis de la transidentité, abordent 
+des thèmes propices à la panique morale et utilise un vocabulaire disqualifiant, ce qui contribue 
+à faire circuler une image négative de la transidentité. 
+ 
+D’autre part, à travers sa manière de traiter l’information, Le Figaro tend à définir la 
+transidentité comme un problème public, en la présentant comme une idéologie menaçante. 
+Dans la plupart des articles, les journalistes n’ abordent pas la transidentité sous le prisme 
+identitaire mais idéologique, plaçant ainsi les questions trans c omme des objets de débat public. 
+Cela justifie alors des discours disqualifiants envers les personnes trans , notamment par le biais 
+de tribunes ou d’interviews de personnalités hostiles à la transidentité . À cela s’ajoute le 
+caractère alarmiste des discours relayés dans les articles, qui l aissent penser à une menace du 
+militantisme trans pour la société, notamment pour les enfants et les femmes trans, ainsi que 
+pour la liberté d’expression. Cela se matérialise par des articles sur le « wokisme », la cancel 
+culture ou encore l’assimilation des mouvements militants trans à des mouvances totalitaires. 
+ 
+Enfin, la définition de la transidentité comme un problème public, dépeinte dans Le Figaro 
+semble circuler en partie dans les autres quotidiens nationaux. Si elle se retrouve dans des 
+journaux conservateurs comme La Croix , cela est beaucoup moins le cas dans d’autres médias 
+comme Le Monde, Libération ou 20 minutes . Cependant, il est possible de penser que certaines 
+références et affects négatifs circulent tout de même : des personnalités ouverte ment anti-trans 
+se retrouvent dans certains articles et des sujets qui n'auraient sûrement pas été relevés 
+habituellement, le sont en raison de leur médiatisation importante dans les journaux 
+ 35 conservateurs, avec en première ligne Le Figaro . Toutefois, la plupart des journaux laisse à voir 
+une représentation moins stigmatisante de la transidentité avec de s articles davantage anglés 
+sur les problématiques rencontrées par les personnes trans au quotidien (discrimi nations, accès 
+à certains droits, etc.). Cependant, l’ensemble des journaux étudiés invisibilise toujours les 
+personnes trans, qui prennent rarement la parole sur les sujets qui l es concernent. Cette 
+troisième hypothèse ne peut donc pas être vérifiée avec certitude. 
+ 
+Par ailleurs, ce mémoire présente des limites : il ne relate que le traitement des questions 
+trans par les quotidiens nationaux, alors que la presse hebdomadaire , notamment Marianne, Le 
+Point, L’Express et Valeurs actuelles , sont aussi moteurs de la diffusion de discours anti-trans 
+en France. En effet, ils affichent une ligne éditoriale similaire à celle du Figaro sur ces questions 
+qu’ils traitent régulièrement alors même qu’ils ne paraissent qu’une fois par sem aine. De plus, 
+la télévision est aussi un canal important de diffusion de la parol e transphobe dans les médias 
+et participe aussi grandement à alimenter une panique morale autour de la transidentité. Cela 
+s’est notamment illustré en octobre 2022 lors de la sortie du documentaire « Trans, unique en 
+leur genre » sur M6, dans lequel le témoignage de plusieurs personnes trans a été suivi d’un 
+débat intitulé « Enfant trans : que faire ? », animé par Karine Lem archand, durant lequel des 
+discours particulièrement hostiles à la transidentité ont été émis. 
+ 
+De plus, si le rôle de la presse dans la circulation de discours a nti-trans est souligné dans ce 
+mémoire, il est important de préciser que la presse reflète tout de même l’éta t de l’opinion 
+publique et le contexte idéologique dans la société. Si la panique moral e autour de la 
+transidentité est alimentée par la diffusion et la circulation de di scours anti-trans dans les 
+médias, elle est aussi favorisée par le contexte politique actue l en France et plus largement en 
+Europe, aux États-Unis et dans le monde. En effet, ces dernières années, on remarque une 
+libération et une banalisation de la parole réactionnaire, liée s notamment à la montée de 
+l’extrême droite comme en témoigne l’arrivée de 89 députés du Rassemblement National à 
+l’Assemblée nationale , en 2022. Dans ces conditions, l’ expression décomplexée de la parole 
+transphobe, alors présentée comme une simple opinion dans les médias et plus largement dans 
+la sphère publique, apparaît comme une évidence. 
+ 
+Comme évoqué précédemment, la panique morale autour de la transidentité qui est 
+visible aujourd’hui dans la sphère publique , rappelle celle qui était particulièrement forte au 
+moment du débat sur le « mariage pour tous », à propos de l’hom osexualité. Si cette panique 
+ 36 morale n’a pas compl ètement disparue, comme en témoigne le traitement médiatique de la 
+« PMA pour toutes » en 2021 , elle semble s’être atténuée dans un certain nombre de journaux. 
+Dix ans après l’adoption du mariage pour tous, il est donc intéressant de se demander : dans 
+quelle mesure l’engouement médiatique et la panique morale autour de la transidentité de ces 
+dernières années, a-t-elle une influence sur le traitement journalistique des sujets en lien avec 
+l’homosexualité ? 
+
+ 37 ANNEXES 
+
+Annexe 1 : 
+
+Affiche du Planning familial, dessinée par Laurier The Fox, publiée le 17 mai 2022, puis l e 17 
+août 2022. 
+
+ 38 Annexe 2 : 
+
+Capture d’écran – France 2. Marie Cau (à gauche) et Dora Moutot (à droite) dans l’émission 
+Quelle Époque !, présentée par Léa Salamé et diffusée sur France 2, le 15 octobre 2022. 
+ 
+https://youtu.be/NwLWRkSXqXM 
+
+ 39 Annexe 3 : 
+
+Classement diffusion presse payante quotidienne nationale 2022 
+ 
+Rang Titre Diffusion France 
+Payée 
+1 Le Monde 472767 
+2 Le Figaro 351526 
+3 Couplage Le Parisien + Aujourd'hui en France 255480 
+4 L'Équipe 215362 
+5 Les Échos 138421 
+6 Libération 96551 
+7 La Croix 83485 
+8 L'Humanité 37060 
+9 The New York Times 5092 
+ 
+Source : Alliance pour les chiffres de la presse et des médias 
+
+ 40 BIBLIOGRAPHIE 
+
+1. Publications universitaires 
+
+• Arnaud ALESSANDRIN. « La prise en compte des élèves trans à l’école en France », 
+La nouvelle revue - Éducation et société inclusives , n°93, 2022, p.229-244. 
+ 
+• Maxime CERVULLE. « Les controverses autour du « mariage pour tous » dans la 
+presse nationale quotidienne : du différentialisme ethno-sexuel comme registre 
+d'opposition », L’Homme et la société , 2013, p.207-222. 
+ 
+• Maxime CERVULLE, Virginie JULLIARD. « Le genre des controverses : approches 
+féministes et queer », Questions de communication , n°33, 2018, p.11-26. 
+ 
+• Stanley COHEN. Folks Devils and Moral Panics , Londres, Paladin, 1973, 224 pages. 
+ 
+• Chas CRITCHER. Moral Panics, Oxford Research Encyclopedia of Criminology , 2017. 
+ 
+• Marion DALIBERT, Nelly QUEMENER. « Introduction », Études de communication , 
+n°48, 2017, p.7-20. 
+ 
+• Marion DALIBERT. « Authentification et légitimation d’un problème de société par les 
+journalistes : les violences de genre en banlieue dans la médiati sation de Ni putes ni 
+soumises », Études de communication , n°40, 2013, p.167-180. 
+ 
+• Teresa DE LAURETIS. « La technologie du genre », dans Théorie queer et cultures 
+populaires. De Foucault à Cronenberg , Paris, La Dispute, 2007, p. 37-94. 
+ 
+• Karine ESPINEIRA. « Un exemple de glissement du lexique médiatique : le sujet t rans 
+dans les productions audiovisuelles », Essais, n°7, 2015, p.48-64. 
+ 
+ 41 • Karine ESPINEIRA. « La médiatisation des politiques transgenres : du statut de contre-
+public à l’inégalité de représentat ion », Revue française des sciences de l’information 
+et de la communication , n°3, 2014. 
+ 
+• Nancy FRASER. « Repenser la sphère publique : une contribution à la critique de la 
+démocratie telle qu’elle existe réellement », Hermès , n°31, 2001, p.109-142. 
+ 
+• Jürgen HABERMAS. L’Espace public. Archéologie de la publicité comme dimension 
+constitutive de la société bourgeoise , Paris, Payot, 1978, 324 pages. 
+ 
+• Stuart HALL. « La redécouverte de " l’idéologie " : retour du refoulé dans les Media 
+Studies », Identités et cultures. Politiques des cultural studies , 1982, p.129-168. 
+ 
+• Axel HONNETH. La lutte pour la reconnaissance , trad. Pierre Rusch, Paris, Le Cerf, 
+2000, 240 pages. 
+ 
+• Virginie JULLIARD. « "Théorie du genre", #theoriedugenre : stratégies discursive s 
+pour soustraire la "différence des sexes" des objets de débat », Études de 
+communication , n°48, 2017, p.111-136. 
+ 
+• Harvey MOLOTCH, Marilyn LESTER, Marie-Christine GAMBERINI. « Informer : 
+une conduite délibérée. De l'usage stratégique des événements », Sociologie de la 
+communication , volume 1, n°, 1997, p.433-451. 
+ 
+• Éric NEVEU. « Problème public », Publictionnaire. Dictionnaire encyclopédique et 
+critique des publics , 2021. 
+ 
+• Éric NEVEU. « L’approche constructiviste des "problèmes publics". Un aperçu des 
+travaux anglo-saxons », Études de communication, n°22, 1999, 41-58. 
+ 
+• Nelly QUEMENER. « "Vous voulez réagir ?" . L’étude des controverses médiatiques au 
+prisme des intensités affectives. » Question de communication , n°33, 2018, p.23-41. 
+ 
+ 42 2. Articles (hors-corpus) 
+ 
+• Association des journaliste LGBT (AJL), Karine Espineira et Alex M . Mahoudeau, « Il 
+y a eu un changement avec la médiatisation des enfants et ados trans », 22 févr ier 2023. 
+ 
+• Solène CORDIER. Transidentités : « Quand on est républicain, universaliste , on ne doit 
+pas avoir peur du débat », Le Monde , 28 janvier 2023. 
+ 
+• Colin FOLLIOT. « Pour beaucoup de personnes trans, la transphobie est si fréquente et 
+si grave que son expérience est totale », Le Monde , 23 janvier 2023. 
+ 
+• Mathieu MAGNAUDEIX. « Didier Eribon : "On assiste au retour du refoulé 
+homophobe" », Mediapart , 12 décembre 2012. 
+ 
+• Ève SZEFTEL. « Caroline Eliacheff, du genre tenace », Libération , 15 janvier 2023. 
+
+3. Émissions 
+ 
+• Présentée par Léa Salamé. Quelle Époque !, France 2 , 15 octobre 2022. 
+ 
+• Présentée par Mathieu Magnaudeix. À l’air libre , Mediapart, 16 mai 2023. 
+
+4. Études 
+ 
+• Alliance pour les chiffres de la presse et des médias. Classem ent diffusion presse 
+quotidienne nationale 2022, janvier 2023. 
+ 
+• Association des journalistes LGBT (AJL). Transidentités dans les mé dias, février 2023. 
+ 
+ 43 • Association des journalistes LGBT (AJL). « PMA, une Polémique Médiat iquement 
+Assistée », 2020. 
+
+5. Corpus 
+
+Le Figaro : 
+ 
+• BASTIÉ, Eugénie. « Sauver la différence des sexes ». Le Figaro [en ligne]. 
+12 décembre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.lefigaro.fr 
+/vox/medias/eugenie-bastie-sauver-la-difference-des-sexes-20221212 
+ 
+• BASTIÉ, Eugénie. « Sur la question trans, nous vivons un climat de terreur 
+intellectuelle ». Le Figaro [en ligne]. 28 novembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lefigaro.fr/vox/societe/sur-la-question-trans-nous-vivons-
+un-climat-de-terreur-intellectuelle-20221128 
+ 
+• BASTIÉ, Eugénie. Eugénie Bastié : « Dans la tête d’un révolutionnaire trans ». Le 
+Figaro [en ligne]. 16 novembre 2022 [consulté le 12 mars 2023]. Disponible sur : http 
+s://www.lefigaro.fr/vox/societe/eugenie-bastie-dans-la-tete-d-un-re volutionnaire-trans-
+20221116 
+ 
+• BOILAIT, Eugénie. Yana Grinshpun : « L'affiche du Planning familial sur des ''hommes 
+enceints'' utilise le langage pour promouvoir une idéologie de déconstruction de 
+l'identité ». Le Figaro [en ligne]. 23 août 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.lefigaro.fr/vox/societe/yana-grinshpun-l-affiche-du-planning-
+familial-sur-des-hommes-enceints-utilise-le-langage-pour-promouvoir-une-i deologie-
+de-deconstruction-de-l-identite-20220823 
+ 
+• BOILAIT, Eugénie. Espagne : les députés votent une loi sur l'autodéte rmination du 
+genre dès 16 ans. Le Figaro [en ligne]. 22 décembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lefigaro.fr/international/espagne-les-deputes-vont-voter-
+une-loi-sur-l-autodetermination-du-genre-des-16-ans-20221222 
+ 
+ 44 • BOILAIT, Eugénie. Bérénice Levet : « ‘‘Stéréotypes de genre’’, la négation de la 
+différence naturelle des sexes ». Le Figaro [en ligne]. 13 septembre 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.lefigaro.fr/vox/societe/berenice-levet-
+stereotypes-de-genre-la-negation-de-la-difference-naturelle-des-sexe s-20220913 
+ 
+• BOILAIT, Eugénie. Genre et transidentité : une association militante intervient dans 
+des classes dans le cadre d'un enseignement sur la laïcité. Le Figaro [en ligne]. 
+16 décembre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.lefigaro.fr 
+/actualite-france/genre-et-transidentite-une-association-milita nte-intervient-dans-des-
+classes-dans-le-cadre-d-un-enseignement-sur-la-laicite-20221216 
+ 
+• COM, Amélie. Pourquoi l'appeler « Redcar » ? Christine and the Queens exp lique sa 
+nouvelle identité. Le Figaro [en ligne]. 7 octobre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lefigaro.fr/musique/pourquoi-l-appeler-redcar-christine-
+and-the-queens-explique-sa-nouvelle-identite-20221107 
+ 
+• COUTANSAIS-PERVINQUIÈRE, Amaury. La mairie de Paris annule un colloque 
+sous la pression de militants LGBT. Le Figaro [en ligne]. 17 novembre 2022 [consulté 
+le 12 mars 2023]. Disponible sur : https://www.lefigaro.fr/actualite-france/la-mairie-
+de-paris-annule-un-colloque-sous-la-pression-de-militants-lgbt-20221117 
+ 
+• D'ADHÉMAR, Margaux. « Enceint », « cisnormativité », « euphorie de genre » : petit 
+lexique « trans » du Planning familial. Le Figaro [en ligne]. 24 août 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.lefigaro.fr/actualite-france/enceint-
+cisnormativite-euphorie-de-genre-petit-lexique-trans-du-planning-famil ial-20220824 
+ 
+• DEVECCHIO, Alexandre. Jean-François Braunstein : « Le mouvement woke ne f ait 
+pas mystère de sa volonté d’endoctriner les enfants ». Le Figaro [en ligne]. 
+12 septembre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.lefigaro.f 
+r/vox/societe/jean-francois-braunstein-le-mouvement-woke-ne-fait-pas-mys tere-de-sa-
+volonte-d-endoctriner-les-enfants-20220912 
+ 
+ 45 • DURIEUX, Jeanne. Le Conseil d'État valide la circulaire autorisant l es élèves 
+transgenres à utiliser le prénom de leur choix. Le Figaro [en ligne]. 30 septembre 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.lefigaro.fr/actualite-france/le-
+conseil-d-etat-valide-la-circulaire-autorisant-les-eleves-tra nsgenres-a-utiliser-le-
+prenom-de-leur-choix-20220930 
+ 
+• HEINICH, Nathalie. « Nos institutions se conduisent trop souvent en compli ces 
+objectifs des censeurs ». Le Figaro [en ligne]. 6 décembre 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.lefigaro.fr/vox/societe/nathalie-heinich-nos-
+institutions-se-conduisent-trop-souvent-en-complices-objectifs-des-c enseurs-
+20221206 
+ 
+• KOVACS, Stéphane et LECLAIR, Agnès. La question trans sème le trouble à la 
+Dilcrah. Le Figaro [en ligne]. 18 décembre 2022 [consulté le 12 mars 2023]. Disponib 
+le sur : https://www.lefigaro.fr/actualite-france/la-question-trans-seme-l e-trouble-a-la-
+dilcrah-20221218 
+ 
+• JOLLY, Vincent. Hogwarts Legacy : J. K. Rowling de nouveau face à la « cancel culture 
+». Le Figaro [en ligne]. 11 octobre 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.lefigaro.fr/lefigaromagazine/hogwarts-legacy-harry-potter-j-k-
+rowling-cancel-culture-20230213 
+ 
+• JOLLY, Vincent. Quand des transsexuels veulent l’effacement de la femme. Le Figaro 
+[en ligne]. 28 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.l 
+efigaro.fr/actualite-france/wokisme-quand-des-transsexuels-veulent-la-mort-de s-
+femmes-20221028#:~:text=RÉCIT%20-
+%20Une%20frange%20radicale%20de,individus…%20et%20de%20la%20réalité. 
+• JOLLY, Vincent. Face aux attaques, la riposte féministe de J.K. Row ling. Le Figaro [en 
+ligne]. 12 décembre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.lef 
+igaro.fr/actualite-france/face-aux-attaques-la-riposte-feministe-de-j -k-rowling-
+20221212 
+ 
+ 46 • MAILLOT, Hugues. « Des hommes aussi peuvent être enceints » : une campagne du 
+Planning familial fait polémique. Le Figaro [en ligne]. 20 août 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.lefigaro.fr/actualite-france/des-hommes-
+aussi-peuvent-etre-enceints-une-campagne-du-planning-familial-fait -polemique-
+20220820 
+ 
+• MATEYER, Madeleine. « Les femmes connaissent mal leur corps parc e qu'elles ont 
+évacué la question de la fertilité ». Le Figaro [en ligne]. 17 août 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.lefigaro.fr/actualite-france/les-femmes-
+connaissent-mal-leur-corps-parce-qu-elles-ont-evacue-la-question- de-la-fertilite-
+20220817 
+ 
+• PLANCHON, Ronan. Chris devient Redcar : quand l'identité vire au concept 
+marketing. Le Figaro [en ligne]. 17 octobre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lefigaro.fr/vox/culture/chris-devient-redcar-quand-l-
+identite-vire-au-concept-marketing-20221117 
+ 
+• PLANCHON, Ronan. Dora Moutot : « On ne peut effacer le sexe au profit de l'identité 
+de genre ». Le Figaro [en ligne]. 18 octobre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lefigaro.fr/vox/societe/dora-moutot-on-ne-peut-effacer-
+le-sexe-au-profit-de-l-identite-de-genre-20221018 
+ 
+• POESY, Emma. Être ou ne pas être trans pour jouer un personnage trans ? L e théâtre 
+13 tranche et annule Pour un temps sois peu. Le Figaro [en ligne]. 9 décembre 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.lefigaro.fr/culture/etre-ou-ne-
+pas-etre-trans-pour-jouer-un-personnage-trans-le-theatre-13-tranche-et- annule-pour-
+un-temps-sois-peu-20221209 
+ 
+• REYRAT, David. XV de France : la sportive transgenre Sandra Forgues donnera le 
+coup d'envoi fictif du test France-Japon. Le Figaro [en ligne]. 18 novembre 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.lefigaro.fr/sports/rugby/xv-
+de-france/xv-de-france-la-sportive-transgenre-sandra-forgues-donnera-le-coup-d-
+envoi-fictif-du-test-france-japon-20221118 
+ 47 
+• ROY, Soline. Comment des garçons nés filles ont inspiré un produit anti-cal vitie. Le 
+Figaro [en ligne]. 4 septembre 2022 [consulté le 12 mars 2023]. Disponible sur : https: 
+//www.lefigaro.fr/sciences/comment-des-garcons-nes-filles-ont-inspire-un -produit-
+anti-calvitie-20220904 
+ 
+• SUGY, Paul. Controverse au Canada autour d'un enseignant transgenre arborant une 
+poitrine extravagante. Le Figaro [en ligne]. 25 septembre 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.lefigaro.fr/international/controverse-au-canada-
+autour-d-un-enseignant-transgenre-affuble-d-une-poitrine-extravagante-20220925 
+ 
+• SUGY, Paul. Bruxelles : une conférence sur le transgenrisme perturbée pa r des jets 
+d'excréments. Le Figaro [en ligne]. 16 décembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lefigaro.fr/international/bruxelles-une-conference-sur-le-
+transgenrisme-perturbee-par-des-jets-d-excrements-20221216 
+ 
+• SUGY, Paul. «Gender gap» : wikipédia s'engage dans l'inclusion des minori tés de 
+genre. Le Figaro [en ligne]. 9 septembre 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.lefigaro.fr/actualite-france/gender-gap-wikipedia-s-engage- dans-l-
+inclusion-les-minorites-de-genre-20220909. 
+ 
+Libération : 
+• AFP. Espagne : les députés adoptent la «loi transgenre», malgré l es divisions au sein de 
+la gauche et des féministes. Libération [en ligne]. 22 décembre 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.liberation.fr/societe/droits-des-
+femmes/espagne-les-deputes-adoptent-la-loi-transgenre-fruit-dune-divisi on-au-sein-
+de-la-gauche-et-des-feministes-20221222_LR3D3LXYLZAXHCTWUURDN7ZCLI/ 
+ 
+• BALDI, Étienne et Chez Pol. Grosses tensions entre élus LREM sur fond de 
+transphobie. Libération [en ligne]. 31 août 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.liberation.fr/politique/grosses-tensions-entre-elus-lrem- sur-fond-de-
+transphobie-20220831_UYFAGGMP75HHPEZZF5UUNOHK3Q/ 
+ 
+ 48 • BARDOU, Florian. Marie Cau, un autre genre de maire. Libération [en ligne]. 
+11 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.liberation.fr/ 
+portraits/marie-cau-un-autre-genre-de-maire-
+20221011_NQZC2RLAN5BTVDZRU4CQROLCDY/ 
+ 
+• COHEN, Clélia. Yaël Langmann, créatrice de la série «Chair tendre» : 
+«L'intersexuation permettait de traiter l'adolescence de manière 
+émotionnelle». Libération [en ligne]. 22 septembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.liberation.fr/culture/series/yael-langmann-creatrice-de -
+la-serie-chair-tendre-lintersexuation-permettait-de-traiter-la dolescence-de-maniere-
+emotionnelle-20220922_DYQIQDPWF5A6FOLKZ7WCVN34LI/ 
+ 
+• DIATKINE, Anne. La visibilité des personnes trans au coeur du débat après la 
+déprogrammation d'une pièce au Théâtre 13. Libération [en ligne]. 13 décembre 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.liberation.fr/culture/scenes/la-
+visibilite-des-personnes-trans-au-coeur-du-debat-apres-la-deprogram mation-dune-
+piece-au-theatre-13-20221213_RFLM76LI7JBNZE4SH76C62HTII/ 
+ 
+• GIARD, Agnès. Choix de « binders » : veuillez respecter les mesures brassiè res, 
+Libération [en ligne]. 1 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : http 
+s://www.liberation.fr/societe/sexualite-et-genres/choix-de-binders-veuil lez-respecter-
+les-mesures-brassieres-20221001_HOR23IRA5RDAFBZE2JKR27VU64/ 
+ 
+• GIARD, Agnès. Le packing, de la queue plein les yeux. Libération [en ligne]. 
+19 novembre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.liberation 
+.fr/lifestyle/le-packing-de-la-queue-plein-les-yeux-
+20221119_VJGQ2WXT7RADFNIYG4OR2I6LU4/ 
+• MACÉ, Maxime. Entre féministes Terf et extrême droite, des pas serelles idéologiques 
+pour un même combat antitrans. Libération [en ligne]. 12 septembre 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.liberation.fr/societe/sexualite-et-
+genres/entre-feministes-terf-et-extreme-droite-des-passerelles- ideologiques-pour-un-
+meme-combat-antitrans-20220912_KDJZLO3HVJFINFJRDMEU3AEGV4/ 
+ 
+ 49 • MUSSEAU, François. En Espagne, dernière ligne droite pour la « loi 
+transgenre ». Libération [en ligne]. 31 octobre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.liberation.fr/international/europe/en-espagne-derniere-
+ligne-droite-pour-la-loi-transgenre-
+20221031_ZVMWYRSS75FLTDFODDAZLMBHDI/ 
+ 
+• NASELLI, Adrien. Qui « annule » qui dans le débat sur la prise en charge des mineurs 
+trans ? Libération [en ligne]. 25 décembre 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.liberation.fr/idees-et-debats/qui-annule-qui-dans-le-deb at-sur-la-
+prise-en-charge-des-mineurs-trans-
+20221225_3LQTRPN4ARBNPAN4JFMDNOWWYU/ 
+ 
+• NASELLI, Adrien. Loin des débats théoriques sur la transidentité, des balles bien 
+réelles. Libération [en ligne]. 23 novembre 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.liberation.fr/idees-et-debats/loin-des-debats-theor iques-sur-la-
+transidentite-des-balles-bien-reelles-
+20221123_ZYPW7ELKLFEFRKSOKYIXY5NJRQ/ 
+ 
+• Planning familial. « Nous n'avons pas oublié qu'il fallait un utérus pour vi vre une 
+grossesse ». Libération [en ligne]. 26 août 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.liberation.fr/idees-et-debats/tribunes/le-planning-fa milial-nous-
+navons-pas-oublie-quil-fallait-un-uterus-pour-vivre-une-grossesse-
+20220826_CQ44XHQPQNBDHBQKZKMIZL6UKQ/ 
+ 
+• Rédaction. « Des hommes aussi peuvent être enceints » : le Planning familial ciblé par 
+l'extrême droite. Libération [en ligne]. 20 août 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.liberation.fr/politique/des-hommes-aussi-peuvent-etre-
+enceints-le-planning-familial-cible-par-lextreme-droite-
+20220820_EUCUZYARTFHKZODC6VJ2BU2Y2E/ 
+
+ 50 • ROUSSEL, Frédérique. Prix Médicis : Emmanuelle Bayamack-Tam, la rom ancière des 
+identités flottantes. Libération [en ligne]. 8 novembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.liberation.fr/culture/livres/prix-medicis-emmanuelle-
+bayamack-tam-la-romanciere-des-identites-flottantes-
+20221108_F2ADNUELWJANNIL2QDDENJLU5I/ 
+
+Le Monde : 
+• ABRIAT, Sophie. Paul B. Preciado, philosophe : « Un homme qui porte une jupe, ça 
+reste encore souvent un signe de pathologie ». Le Monde [en ligne]. 20 août 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.lemonde.fr/m-le-
+mag/article/2022/08/20/paul-b-preciado-philosophe-un-homme-qui-porte-une-jupe -ca-
+reste-encore-souvent-un-signe-de-pathologie_6138538_4500055.html 
+ 
+• CHAPARRO, Amanda. Pérou : ouverture d’une enquête pour « torture » ap rès le décès 
+d’un jeune trans péruvien en Indonésie. Le Monde [en ligne]. 5 septembre 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.lemonde.fr/international/artic 
+le/2022/09/05/perou-ouverture-d-une-enquete-pour-torture-apres-le-deces-d-un-jeune-
+trans-peruvien-en-indonesie_6140232_3210.html 
+ 
+• COJEAN, Annick. « Dieu, je veux être une jolie petite fille » : Abby St ein, récit d’une 
+transition chez les juifs ultraorthodoxes. Le Monde [en ligne]. 22 août 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.lemonde.fr/series-d-
+ete/article/2022/08/22/dieu-je-veux-etre-une-jolie-petite-fille-ab by-stein-recit-d-une-
+transition-chez-les-juifs-ultraorthodoxes_6138638_3451060.html 
+ 
+• COJEAN, Annick. Marie Cau, première maire transgenre : « Mon mensonge ét ait une 
+prison ». Le Monde [en ligne]. 11 décembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lemonde.fr/societe/article/2022/12/11/marie-cau-
+premiere-maire-transgenre-mon-mensonge-etait-une-prison_6153894_3224.html 
+
+ 51 • COLLECTIF. « Les jeunes trans existent, il est temps de reconnaître leurs droits et de 
+répondre à leurs besoins ». Le Monde [en ligne]. 5 décembre 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.lemonde.fr/idees/article/2022/12/05/les-jeunes-
+trans-existent-il-est-temps-de-reconnaitre-leurs-droits-et-de-repondre- a-leurs-
+besoins_6153049_3232.html 
+ 
+• CORDIER, Solène. Le cheminement des familles de jeunes transgenres, de la sidération 
+au « non-sujet ». Le Monde [en ligne]. 5 décembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lemonde.fr/societe/article/2022/12/05/le-cheminement-
+des-familles-de-jeunes-transgenres-de-la-sideration-au-non-sujet_6152954 _3224.html 
+ 
+• DUPONT, Marion. « Dysphoria Mundi » : le monde est en transition. Le Monde [en 
+ligne]. 2 décembre 2022 [consulté le 12 mars 2022]. Disponible sur : https://www.lem 
+onde.fr/idees/article/2022/12/02/dysphoria-mundi-le-monde-est-en-
+transition_6152622_3232.html 
+ 
+• FOLLIOT, Colin. « Madame le maire » : une trans au pouvoir. Le Monde [en ligne]. 
+19 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.lemonde.fr/i 
+dees/article/2022/10/19/madame-le-maire-une-trans-au-pouvoir_6146506_3232.html 
+ 
+• JOURDAN, Fleur et Anne-Andrea VILERO. Jeux olympiques : « Il convient de p enser 
+un nouveau système partagé par tous qui permettra de comparer les athl ètes ». Le Monde 
+[en ligne]. 23 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.l 
+emonde.fr/idees/article/2022/10/23/jeux-olympiques-il-convient-de-penser-un-
+nouveau-systeme-partage-par-tous-qui-permettra-de-comparer-les-
+athletes_6146964_3232.html 
+ 
+• LECHERBONNIER, Sylvie. A l’ école, la difficile prise en compte des élèves 
+transgenres : « Chaque situation est singulière ». Le Monde [en ligne]. 5 décembre 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.lemonde.fr/societe/article/20 
+22/12/05/a-l-ecole-la-difficile-prise-en-compte-des-eleves-t ransgenres-chaque-
+situation-est-singuliere_6152991_3224.html 
+ 
+ 52 • MARTEL, Clément. Inclusivité ou équité : le sport face au dilemme d es athlètes 
+transgenres. Le Monde [en ligne]. 25 octobre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.lemonde.fr/idees/article/2022/10/25/inclusivite-ou-
+equite-le-sport-face-au-dilemme-des-athletes-transgenres_6147236_3232.html 
+ 
+• SLAVICEK, Marie. « Il est absurde d’affirmer que les revendications des pers onnes 
+trans freineraient la cause des femmes ». Le Monde [en ligne]. 15 septembre 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.lemonde.fr/societe/article/20 
+22/09/15/feminisme-il-est-absurde-d-affirmer-que-les-revendications-des-pe rsonnes-
+trans-freineraient-la-cause-des-femmes_6141699_3224.html 
+ 
+• UNTERSINGER, Martin. Chelsea Manning : « Maintenant, décrire la réali té est 
+considéré comme un acte criminel ». Le Monde [en ligne]. 18 octobre 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.lemonde.fr/pixels/article/2022/10/18/chel 
+sea-manning-maintenant-decrire-la-realite-est-considere-comme -un-acte-
+criminel_6146239_4408996.html 
+
+20 minutes : 
+• BINACCHI, Fabien. Nice : une enquête ouverte après l’agression d’une prostituée 
+transgenre. 20 minutes [en ligne]. 2 octobre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.20minutes.fr/faits_divers/4008160-20221102-nice-
+enquete-ouverte-apres-agression-prostituee-transgenre 
+ 
+• DURAND, Gilles. « Zone Mixte » : Le destin singulier d’Alexia C erenys, première 
+joueuse de rugby transgenre. 20 minutes [en ligne]. 8 octobre 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.20minutes.fr/sport/rugby/4002607-20221008-
+zone-mixte-destin-singulier-alexia-cerenys-premiere-joueuse-rugby- transgenre 
+ 
+• FERRARI, Pauline. Transidentités : dans les médias, le discours trans phobe se répand 
+sans retenue ni scrupule. 20 minutes [en ligne]. 23 octobre 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.20minutes.fr/medias/4011437-20221123-
+transidentites-medias-discours-transphobe-repand-retenue-ni-scrupule 
+ 53 • FOURNEAU, Lina. Prisons : Dora Moutot a tort quand elle affirme que les femmes 
+trans violent en prison. 20 minutes [en ligne]. 20 octobre 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.20minutes.fr/societe/4006168-20221020-prisons-
+dora-moutot-tort-quand-affirme-femmes-trans-violent-prison 
+ 
+• GARRAT-VARCACEL, Rachel. Politique : « La transidentité a été une bénédiction », 
+explique M arie Cau, maire d’un village nordiste. 20 minutes [en ligne]. 25 septembre 
+2022 [consulté le 12 mars 2023]. Disponible sur : https://www.20minutes.fr/politique/ 
+4001906-20220923-politique-transidentite-benediction-explique-marie-cau-maire -
+village-nordiste 
+ 
+• POHER, Camille. Transidentité et féminisme, une relation « parsemée 
+d’incompréhensions et d’envie de comprendre ». 20 minutes [en ligne]. 14 septembre 
+2022 [consulté le 12 mars 2023]. Disponible sur : https://www.20minutes.fr/societe/33 
+48799-20220914-transidentite-feminisme-relation-parsemee-incomprehensions-e nvie-
+comprendre 
+ 
+• RANDANNE, Fabien. « Trans, uniques en leur genre » sur M6 : de l'imp ortance 
+d'écouter les personnes concernées par la transidentité. 20 minutes [en ligne]. 6 octobre 
+2022 [consulté le 12 mars 2023]. Disponible sur : https://www.20minutes.fr/television/ 
+4002837-20221006-trans-uniques-genre-m6-importance-ecouter-personnes-
+concernees-transidentite 
+ 
+• RANDANNE, Fabien. 15 ans de « Secret Story » : les meilleurs et l es pires secrets de 
+l'émission. 20 minutes [en ligne]. 26 août 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.20minutes.fr/arts-stars/television/3341531-20220826-15-ans-secret-
+story-meilleurs-pires-secrets-emission 
+ 
+• Rédaction et AFP. Transgenre, soutiens (ou pas)... Tout comprendre à « l'affaire du 
+Planning familial ». 20 minutes [en ligne]. 26 août 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.20minutes.fr/societe/3341859-20220826-transgenre-
+soutiens-tout-comprendre-affaire-planning-familial 
+ 
+ 54 • Rédaction et AFP. Brésil : joie et appréhension après l'élection "hi storique" de députées 
+trans. La Croix [en ligne]. 4 octobre 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.la-croix.com/Bresil-joie-apprehension-election-histori que-deputees-
+trans-2022-10-04-1301236229 
+ 
+• Rédaction et AFP. Espagne : discorde parmi la gauche et les mouvem ents féministes au 
+moment du vote d'une loi sur le changement de genre. 20 minutes [en ligne]. 
+22 décembre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.20minute 
+s.fr/monde/4015982-20221222-espagne-discorde-parmi-gauche-mouvements-
+feministes-moment-voter-loi-changement-genre 
+ 
+• Rédaction et agences. J.K. Rowling sort un livre sur un personnage accusé de 
+transphobie et persécuté. 20 minutes [en ligne]. 31 août 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.20minutes.fr/arts-stars/livres/3344331-20220831-
+k-rowling-sort-livre-personnage-accuse-transphobie-
+persecute#:~:text=Dans%20cet%20ouvrage,%20publié%20chez,personnages%20ani 
+més,%20un%20ver%20hermaphrodite. 
+ 
+La Croix : 
+• BAYLE, Alix. Femmes et LGBT + : « L'Église ne peut oppresser d'une main et 
+accueillir de l'autre ». La Croix [en ligne]. 6 septembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.la-croix.com/Debats/Femmes-LGBT-LEglise-peut-
+oppresser-dune-main-accueillir-lautre-2022-09-06-1201231937 
+ 
+• DEMON, Valérie. L'Espagne libéralise le changement de sexe dès 16 ans. La Croix [en 
+ligne]. 22 décembre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.la-
+croix.com/Monde/LEspagne-liberalise-changement-sexe-16-ans-2022-12-22-
+1201247744 
+ 
+• DURIN, Léo. Le Conseil d'État autorise les enfants transgenres à porter le prénom de 
+leur choix à l'école. La Croix [en ligne]. 29 septembre 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.la-croix.com/France/Le-Conseil-dEtat-autorise-enfants-
+transgenres-porter-prenom-leur-choix-lecole-2022-09-29-1201235457 
+ 55 
+• ELIACHEFF, Caroline et Céline MASSON. Controverse sur les mineurs trans : « La 
+critique fait partie du débat, mais pas le lynchage ». La Croix [en ligne]. 6 décembre 
+2022 [consulté le 12 mars 2023]. Disponible sur : https://www.la-
+croix.com/Debats/Controverse-mineurs-trans-critique-fait-partie-debat-p as-lynchage-
+2022-12-06-1201245318 
+ 
+• FAUCHET, Benoît. Un évêque américain prive de communion les personnes s'affi chant 
+comme transgenres. La Croix [en ligne]. 28 août 2022 [consulté le 12 mars 2023]. 
+Disponible sur : https://www.la-croix.com/Religion/eveque-americain-prive-
+communion-personnes-saffichant-comme-transgenres-2022-08-28-1201230579 
+ 
+• LE DRÉAU, Alice. Le Planning familial dérive-t-il de sa miss ion ? La Croix [en ligne]. 
+21 août 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.la-
+croix.com/France/Le-Planning-familial-derive-mission-2022-08-21-1201229640 
+ 
+• Rédaction et AFP. Espagne : les députés adoptent une "loi transgenre " qui divise la 
+gauche et les féministes. La Croix [en ligne]. 22 décembre 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.la-croix.com/Espagne-deputes-votent-loi-
+transgenre-divise-gauche-feministes-2022-12-22-1301247689 
+ 
+• Rédaction et AFP. Le Planning familial critiqué pour une campagne sur les hommes 
+trans, soutien d'Isabelle Rome. La Croix [en ligne]. 22 août 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.la-croix.com/Le-Planning-familial-critique-
+campagne-hommes-trans-soutien-Isabelle-Rome-2022-08-22-1301229768 
+ 
+• Rédaction et AFP. Le Planning familial critiqué pour une campagne sur les hommes 
+trans, soutien d'Isabelle Rome. La Croix [en ligne]. 22 août 2022 [consulté le 12 mars 
+2023]. Disponible sur : https://www.la-croix.com/Le-Planning-familial-critique-
+campagne-hommes-trans-soutien-Isabelle-Rome-2022-08-22-1301229768 
+ 
+• Rédaction et AFP. L'identité de genre dans tous ses états au festi val de Venise. La Croix 
+[en ligne]. 5 septembre 2022 [consulté le 12 mars 2023]. Disponible 
+ 56 sur : https://www.la-croix.com/L-identite-genre-tous-etats-festival-Ven ise-2022-09-
+05-1301231692 
+ 
+• VALAT, Hadrien et AFP. En Espagne et en Écosse, les nouvelles lois trans divisent. La 
+Croix [en ligne]. 23 décembre 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.la-croix.com/Monde/En-Espagne-Ecosse-nouvelles-lois-trans-
+divisent-2022-12-23-1201247891 
+
+Le Parisien- Aujourd’hui en France : 
+• COLLET, Emeline. « Pétillante », « hilarante »... qui est Andréa Furet , candidate 
+transgenre à Miss France 2023 ? Le Parisien-Aujourd'hui en France [en ligne]. 
+21 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.leparisien.fr 
+/culture-loisirs/tv/petillante-hilarante-qui-est-andrea-furet-candi date-transgenre-a-
+miss-france-2023-21-10-2022-B4F4BGVFNBCVVDUQS2FNWTBXJE.php 
+ 
+• FORESTIER, Stéphanie. Pneus crevés, insultes transphobes : dans l'Oi se, le conflit de 
+voisinage s'achève à coups de batte de base-ball. Le Parisien-Aujourd'hui en France [en 
+ligne]. 5 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.leparis 
+ien.fr/oise-60/pneus-creves-insultes-transphobes-dans-loise-le-conflit -de-voisinage-
+sacheve-a-coups-de-batte-de-base-ball-05-10-2022-
+MEJRIM7FXRAUPOBYW7PNOWNBFM.php 
+ 
+• MAURER, Pierre. Qui est Hélène Hardy, première candidate transgenre à br iguer un 
+parti. Le Parisien -Aujourd'hui en France [en ligne]. 14 octobre 2022 [consulté le 
+12 mars 2023]. Disponible sur : https://www.leparisien.fr/politique/qui-est-helene-
+hardy-premiere-candidate-transgenre-a-briguer-un-parti-14-11-2022-
+RF5J7QRECNAYZKAI5CRGDRIRWM.php 
+ 
+• Rédaction. Transphobie : le Planning familial dénonce des attaques en ligne de militants 
+d'extrême droite. Le Parisien-Aujourd'hui en France [en ligne]. 19 août 2022 [consulté 
+le 12 mars 2023]. Disponible sur : https://www.google.com/search?client=safari&amp 
+ 57 ;rls=en&amp;q=Transphobie+:+le+Planning+familial+dénonce+des+attaques+en+lig 
+ne+de+militants+d'extrême+droite&amp;ie=UTF-8&amp;oe=UTF-8 
+ 
+• Rédaction et AFP. Espagne : une loi permettant le changement de genr e à l'état-civil dès 
+16 ans adoptée. Le Parisien-Aujourd'hui en France [en ligne]. 22 décembre 2022 
+[consulté le 12 mars 2023]. Disponible sur : https://www.leparisien.fr/societe/espagne-
+une-loi-permettant-le-changement-de-genre-a-letat-civil-des-16- ans-adoptee-22-12-
+2022-LSQIPCNFP5CPTKUJTEJNHLZCKI.php 
+
+L’Humanité : 
+• CHARTRAIN, Olivier. La droite extrême relance ses attaques contre le Planning 
+familial. L'Humanité [en ligne]. 22 août 2022 [consulté le 12 mars 2023]. Disponible 
+sur : https://www.humanite.fr/societe/planning-familial/la-droite-extreme- relance-ses-
+attaques-contre-le-planning-familial-760954 
+ 
+• Rédaction et AFP. Hélène Hardy La « troisième voie ». L'Humanité [en ligne]. 
+20 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.humanite.fr/ 
+politique/congres-eelv/eelv-helene-hardy-la-troisieme-voie-768177 
+ 
+Les Échos : 
+• Rédaction. Le Parlement écossais vote un texte assouplissant le c hangement de 
+genre. Les Échos [en ligne]. 23 décembre 2022 [consulté le 12 mars 2023]. Disponible 
+ sur : https://www.lesechos.fr/monde/europe/le-parlement-ecossais-vote-un-te xte-
+assouplissant-le-changement-de-genre-1891674 
+ 
+L’Équipe : 
+• SOWDEN, Patrick. L'étrange interdiction de la mixité en rugby loisir. L'Équipe [en 
+ligne]. 28 octobre 2022 [consulté le 12 mars 2023]. Disponible sur : https://www.lequi 
+pe.fr/Rugby/Article/L-etrange-interdiction-de-la-mixite-en-rugby -loisir/1361598 
+
+ 58 RESUMÉ : 
+ 
+Ce mémoire s’intéresse à la représentation de la transidentité et des personnes trans dans la 
+presse quotidienne nationale. Après avoir été invisibilisée pendant des dé cennies, la 
+transidentité a gagné en visibilité dans l’espace public, nota mment dans la presse, mais pas 
+toujours de manière positive. 
+ 
+Afin de traiter ce sujet, nous avons choisi de s’intéresser au traitement journalistique des 
+questions trans dans Le Figaro , quotidien qui a le plus traité cette thématique en 2022. Nous 
+avons réalisé une analyse discursive et sémiotique des articles publiés dans Le Figaro entre le 
+15 août 2022 et le 31 décembre 2022. Nous avons également étudié ceux publiés sur la même 
+période dans les autres principaux titres de presse quotidienne nationa le, afin de donner du 
+contexte à cette analyse et d ’observer la circulation de discours entre Le Figaro et les autres 
+journaux. L’objectif de ce mémoire est de montrer dans quelle mesure le traitement 
+journalistique du Figaro , particulièrement disqualifiant vis-à-vis des questions trans, alim ente 
+une panique morale sur ce sujet. 
+ 
+À l’issue de ce travail, on peut affirmer qu e du 15 août au 31 décembre 2022, Le Figaro a traité 
+les questions trans avec une grande assiduité, mais de manière particulièrement négative, avec 
+un vocabulaire discréditant et en donnant la parole systématiquement à des personnalités anti-
+trans. Ainsi, les articles du journal tendent à définir la transidentité comme un « problème 
+public », en l’assimilant à une idéologie et partageant des discours alarmist es sur le sujet. La 
+plupart des autres quotidiens abordent la transidentité de manière plus bienveillante, mais ne 
+sont pas à l’écarts des affects négatifs qui circulent sur le suj et dans les médias conservateurs, 
+notamment dans Le Figaro. 
+
+ 59 MOTS-CLEFS : 
+
+- LGBT 
+ 
+- Le Figaro 
+ 
+- Panique morale 
+ 
+- Presse quotidienne nationale 
+ 
+- Problème public 
+ 
+- Représentation médiatique 
+ 
+- Transgenre 
+ 
+- Transidentité 
+ 
+- Transphobie

@@ -1,0 +1,2498 @@
+TRANSPHOBIE
+ C’EST PAS
+ MON GENRELAGUIDE PÉDAGOGIQUE
+Niveau secondaire
+Remerciements
+Tél. : 514 590-0016
+Courriel : info@gris.ca
+Internet : gris.ca
+Tél. : 514 759-6844
+Courriel : info@conseil-lgbt.ca 
+Internet : conseil-lgbt.ca
+Comité de rédaction : Mérick Djamadar et Anaïs Fraile-Boudreault
+Collaborations spéciales et révisions : Simon Bélanger, Soyane Diallo, Catherine Duclos, Kim Forget-Desrosiers, Mariane Gilbert, 
+Maxime Gosselin, Marie Houzeau, Sam Lajeunesse, Kévin Lavoie, Pierre Major, Olivier Vallerand, le Conseil Québécois LGBT et le 
+comité identité de genre du GRIS-Montréal 
+Corrections : Jean-Claude Bernier et Robert Pilon 
+Design et mise en page : Michaël Tessier
+Illustrations : Julianne Choquette-Lelarge et Kay Nau
+Photographies : Emi BK, Alexys Guay, Arsène Marquis et Patrick Sicotte
+Nous tenons à remercier Lilith Aeria Michaud, Yael Jestin, Ciel Paré, Dr Annie Pullen Sansfaçon et la Coalition des familles LGBT pour 
+leur participation à la création du contenu de ce guide.
+Rappel des dispositions concernant les droits d’auteur : 
+©GRIS-Montréal 2020 ©Conseil Québécois LGBT 2020 pour le reste de cet ouvrage
+Tous droits réservés. Aucune partie de ces documents ne peut être reproduite ou transmise sous aucune forme ou par quelque moyen 
+électronique ou mécanique que ce soit, par photocopie, enregistrement ou par quelque forme d’entreposage de l’information ou 
+système de recouvrement, sans la permission écrite du GRIS-Montréal et du Conseil Québécois LGBT.
+Ce guide a été réalisé grace à une subvention du Ministère de la Justice 
+pour le programme de lutte contre l’homophobie et la transphobie.
+
+Table des matières
+TABLE DES MATIÈRES 4
+MOTS DES DIRECTRICES 5 
+INTRODUCTION 6
+POURQUOI CE GUIDE 7
+Situation statistique 7
+Violences 7
+Violences en milieu scolaire 8
+Impacts sur la santé mentale et physique 8
+Pistes pour agir en milieu scolaire 9
+Conclusion 9
+BOÎTE À OUTILS (FICHES RESSOURCES) 10
+Espace sécuritaire 10
+Déconstruire les stéréotypes 12
+Ressources disponibles pour les jeunes 13
+Inclusion des élèves trans 14
+LEXIQUE 16
+ACTIVITÉS 21
+Activité générale - La licorne du genre 22
+1re secondaire - Stéréotypes de genre 26
+1re secondaire - Assignée garçon 28 
+2e secondaire - Que lui diras-tu? 32
+2e secondaire - Scénarios contre la transphobie 34
+3e secondaire - Écriture et pronoms neutres 36
+3e secondaire - Le genre en couleur 40
+3e secondaire - Quiz-Relais ! 42
+4e secondaire - Dépliants de sensibilisation 46
+4e secondaire - Pay It No Mind 48
+5e secondaire - Histoires de personnes trans 52
+5e secondaire - Marche des privilèges 54
+ANNEXE 57 
+1re secondaire - Assignée garçon 58 
+2e secondaire - Que lui diras-tu? 62 
+4e secondaire - Dépliants 63 
+5e secondaire - Histoires de personnes trans 69 
+5e secondaire - Marche des privilèges 74
+BIBLIOGRAPHIE 78Un mot des directrices
+Au cours de la dernière décennie, nous avons pu nous réjouir de certains progrès réalisés sur la route cahoteuse 
+menant à l’égalité juridique et à l’égalité sociale des personnes LGBTQ+. Cependant, même en 2020, il demeure 
+difficile de parler d’homosexualité et de bisexualité dans les écoles du Québec, et encore davantage de parler de 
+personnes trans et non binaires. À travers la province, nos enseignant.es ont soif de connaissances pertinentes 
+à transmettre à leurs élèves. Nos jeunes sont avides d’informations et posent régulièrement des questions pointues 
+sur les identités de genre… Et si finalement les réponses sont souvent plus simples qu’il n’y parait, la peur de se 
+tromper peut être paralysante, même pour des intervenant.es aguerri.es.
+Pourtant, il y a déjà des jeunes trans et non binaires dans ces écoles, et c’est avec ces élèves en tête que ce guide 
+a été rédigé. Ces jeunes et leur entourage ont besoin d’être soutenu.es avec cœur et courage par le milieu dans 
+lequel ils et elles évoluent au quotidien. Même si les activités que vous trouverez dans les prochaines pages ne 
+répondront pas à toutes les interrogations, elles auront le pouvoir d’amorcer des conversations, où ados et ensei-
+gnant.es pourront explorer ensemble les thématiques et déplier leur « carte mentale », pour ainsi dire. 
+Nos organismes sont très fiers d’avoir coconstruit ce guide qui, nous l’espérons, comblera un vide dans les coffres 
+à outils des intervenant.es. Nous sommes toutefois conscientes que les besoins des jeunes trans et non binaires 
+sont grands, en plus d’être en évolution constante. Il revient donc aux adultes de poursuivre leur apprentissage 
+en collaboration avec les communautés concernées. L’éducation sur ces enjeux doit être vivante, comme tout 
+apprentissage qui se respecte! 
+Nous vous souhaitons une bonne lecture et vous remercions infiniment d’embrasser ces questions avec vos 
+jeunes. Ne doutez pas que, ce faisant, vous changerez des vies et, peut-être même, en sauverez-vous quelques-unes.
+Marie Houzeau 
+Directrice générale, GRIS-MontréalMarie-Pier Boisvert 
+Directrice générale, Conseil Québécois LGBTMarie Houzeau Marie-Pier Boisvert
+4 5 La transphobie, c’est pas mon genre La transphobie, c’est pas mon genre 
+6 7
+La transphobie, c’est pas mon genre La transphobie, c’est pas mon genre 
+Le guide pédagogique, La transphobie, c’est pas mon genre, a été créé afin de 
+sensibiliser les jeunes aux réalités des personnes trans et non-binaires. Pour 
+ce faire, ce guide vous aide à explorer avec les élèves et mieux comprendre les 
+notions de genre, d’expression de genre, d’identité ou de modalité de genre. 
+Ces termes ont été intégrés récemment à notre vocabulaire : le mot « genre » 
+a en effet été utilisé pour la première fois dans les années 1950, avant d’être 
+réutilisé dans les sciences sociales une vingtaine d’années plus tard. Dans ce 
+guide, vous trouverez une série d’activités adaptées aux différents niveaux 
+scolaires, un lexique, une boîte à outils, ainsi que de nombreuses références 
+qui ont soutenu sa création. 
+Ces activités ont pour objectif de prévenir l’intimidation et les violences 
+transphobes présentes en milieu scolaire, une préoccupation majeure de la 
+population et une priorité du gouvernement du Québec. Portrait de la situation 
+Situation statistique
+Peu d’études existent sur la prévalence des personnes issues de la diversité sexuelle et de genre et encore moins 
+sur la prévalence des personnes trans et non-binaires spécifiquement.
+La prévalence exacte des personnes trans et non-binaires en milieu scolaire importe cependant peu puisque que ce 
+guide vise principalement à sensibiliser toustes les élèves de secondaire aux enjeux de diversité de genre.
+Violences
+Comme le note Trans PULSE Canada (2020), les personne trans et non-binaires connaissent « des taux élevés 
+de violence et de harcèlement transphobes ». En effet, la grande majorité des personnes trans et non-binaires 
+soulignent avoir vécu de la discrimination au cours de leur vie (Kosciw et al., 2018; Taylor et al., 2020).
+En ce qui concerne la violence verbale, le 2015 U.S. Transgender Survey (James et al., 2016) souligne que près de 
+la moitié des personnes trans et non-binaire rapportent avoir vécu du harcèlement verbal à cause de leur identité 
+de genre. Au niveau de la violence physique, environ 9 % des personnes trans et non-binaires disent avoir subi de 
+la violence physique à caractère transphobe (James et al., 2016). 
+Les participant.es présentent aussi un vécu de violence sexuelle : 47 % des répondant.es ont été victimes de 
+violences sexuelles au cours de leur vie (James et al., 2016). Au Canada, un quart des personnes trans et non- 
+binaires disent avoir été victimes d’agressions sexuelles (Taylor et al., 2020; Trans PULSE Canada, 2020). Le présent guide est un outil destiné au personnel enseignant et aux personnes 
+intervenantes en milieu scolaire afin de les accompagner dans l’animation d’activités 
+pédagogiques sur les réalités de personnes trans et non-binaires. Les activités 
+présentées dans ce guide visent particulièrement les jeunes de 1re à 5e secondaire. 
+Dans ce guide vous trouverez toute la documentation nécessaire à la réalisation 
+des activités, ainsi que du contenu à destination de l’enseignant.e afin de consolider 
+ses connaissances sur les notions abordés. 
+Les notions en lien avec la diversité de genre présentées dans ce guide sont 
+explorées dans le cadre de théories et de recherches occidentales. Nous tenons à 
+reconnaître que les terres sur lesquelles ce guide a été développé, pensé et écrit 
+font partie du territoire traditionnel autochtone non-cédé de Tio’tia:ke, appartenant 
+au peuple Kanien’kehá:ka et qui a longtemps servi de lieu de rassemblement et 
+d’échange entre les nations.
+Un langage inclusif est utilisé tout au long de ce guide afin d’alléger le texte. 
+Le pronom « iel.s » est utilisé pour remplacer les pronoms genrés « il.s et elle.s » 
+dans le but d’être le plus inclusif possible. Dans le même esprit, le pronom démonstratif 
+« celleux » remplace « ceux » et « celles », et le pronom « elleux » remplace « eux » 
+et « elles ». Le pronom « toustes » remplace « toutes » et « tous ».Introduction Pourquoi ce guide?
+81,2
+2,4%
+% %
+Chamberland et al. (2011) avancent 
+que 8 % des adolescent.e.s de 15 à 
+17 ans, au Québec, s’identifient 
+comme lesbiennes, gais, bisexuel.
+les ou en questionnement sur leur 
+orientation sexuelle.En ce qui concerne la représentativité des per-
+sonnes trans, une étude rapporte que 1,2 % des 
+étudiant.es au secondaire se disent trans et 2,5 % 
+en questionnement sur leur identité de genre 
+(Clark et al., 2014).
+7 La transphobie c’est pas mon genre 
+8 9
+La transphobie, c’est pas mon genre La transphobie, c’est pas mon genre Violences en milieu scolaire
+Les jeunes issu.es de la diversité sexuelle et de genre affrontent les mêmes 
+difficultés que tout autre jeune en milieu scolaire, mais doivent en plus faire face 
+à des situations stigmatisantes et discriminatoires en lien avec leur orientation ou 
+leur identité (Coker et al., 2010). Certaines études soulignent aussi que les jeunes 
+LGBTQ+ sont victimes de violence dans leur milieu scolaire, qu’iels aient fait un 
+dévoilement ou non (Chamberland et al., 2011; Galantino et al., 2017). 
+Selon The 2017 National School Climate Survey, réalisé à l’initiative de GLSEN 
+(Kosciw et al., 2018), environ 87 % des jeunes LGBTQ+ soulignent avoir vécu 
+du harcèlement et de la violence en lien avec leur identité. De plus, près de 
+la moitié des jeunes trans et non-binaires énoncent qu’iels ne se sentent pas en 
+sécurité dans leur école à cause de leur identité de genre et expression de genre. 
+Les jeunes trans et non-binaires rapportent des expériences et un climat scolaire 
+plus violents que leurs camarades cisgenres (Kosciw et al., 2018).Pistes pour agir en milieu scolaire
+Les membres du personnel scolaire jouent un rôle essentiel quant au soutien que les jeunes trans et non-binaires 
+reçoivent (Chamberland et al., 2011; Galantino et al., 2017). En effet, les jeunes trans et non-binaires rapportent 
+moins de détresse psychologique lorsqu’iels ont un environnement scolaire sécuritaire et acceptant (Taylor et al., 
+2020). La majorité des jeunes trans et non-binaires considèrent que leurs enseignant.es les soutiennent (Taylor 
+et al., 2020), il est donc essentiel de continuer dans cette direction. Les écoles se doivent d’être plus sécuritaires 
+pour les jeunes trans et non-binaires, et ce, même avant que ces jeunes fassent un dévoilement auprès du per-
+sonnel scolaire (Veale et al., 2015).
+C’est dans cette optique que nous croyons que former les intervenant.es en milieux scolaire ne pourra qu’être 
+bénéfique au bien-être des jeunes trans, non-binaires et de celleux qui se questionnent sur leur genre. Afin 
+de bien outiller les personnes qui utiliseront ce guide, nous avons développé l’outil Espace sécuritaire, ainsi que 
+l’outil Déconstruire les stéréotypes de genre, dans notre Boîte à outils. Ces ressources sont des connaissances 
+complémentaires qui visent à enrichir les connaissances des intervenant.es en milieux scolaires. La bédéiste 
+Sophie Labelle nous a également aimablement offert un petit guide illustré en sept points afin de présenter 
+quelques actions pour mieux accueillir les élèves trans et non-binaires.
+Conclusion
+Travailler à rendre accessible la connaissance sur les notions de genre pourrait avoir un impact positif sur 
+l’acceptation des jeunes vis-à-vis de celleux qui sont différent.es d’elleux. Commencer à introduire et 
+démystifier les notions de genre et d’identité de genre en milieu scolaire est un premier pas vers la construction 
+d’espaces plus sécuritaires pour les jeunes issu.es de la diversité de genre. La mise en place d’espace plus sécuritaire 
+viendrait contribuer à diminuer la détresse psychologique des jeunes trans et non-binaires. Comme le men-
+tionnent Chamberland et al. (2011), aborder le thème des enjeux trans et non-binaires en contexte scolaire 
+permet de « favoriser un climat d’ouverture et de respect eu égard à la diversité sexuelle et aux transidentités ». 
+Le fait de parler des transidentités en classe peut ainsi venir contrer l’invisibilité des personnes trans et non-bi-
+naires et sensibiliser les jeunes cisgenres à la pluralité des genres.
+Il en revient à une action collective, mais aussi individuelle, pour pouvoir défaire nos préjugés et contribuer 
+activement à bâtir un environnement plus sain, sécuritaire et tolérant vis à vis des jeunes trans et non-binaires. 
+En lisant ce guide, en proposant ces activités, en proposant aux élèves les ressources dont iels ont besoin, vous 
+contribuez déjà, à votre échelle, à cette transformation positive. Impacts sur la santé mentale et physique
+Ces épisodes de victimisation ont de nombreux impacts chez les élèves trans et non-binaires 
+(Chamberland et al., 2011 ; Galantino et al., 2017). En effet, la majorité des jeunes trans et non- 
+binaires vivent beaucoup de détresse psychologique (Galantino et al., 2017; Taylor et al., 2020; 
+Trans PULSE Canada, 2020) telle qu’une faible estime personnelle (Galantino et al., 2017; 
+Kosciw et al., 2018). 
+Cette détresse psychologique peut amener à des idéations et tentatives suicidaires. Les jeunes 
+trans et non-binaires sont ainsi 2 à 3 fois plus que les jeunes cisgenres à avoir songé au suicide ou 
+à avoir fait une tentative de suicide (Galantino et al., 2017). Selon une étude menée auprès des 
+jeunes trans de 14 à 18 ans au Canada, près de 68 % des hommes trans, 55 % des femmes trans et 
+64 % des personnes non-binaires ont songé au suicide dans la dernière année (Veale et al., 2017). 
+Les situations stigmatisantes vécues par les jeunes trans et non-binaires affectent donc négative-
+ment leur bien-être et leur santé (Chamberland et al., 2011; Galantino et al., 2017). Ces jeunes 
+rapportent « avoir un faible sentiment de sécurité à l’école », ce qui peut potentiellement avoir 
+un impact sur leur cheminement scolaire tel que de l’absentéisme, une moins bonne réussite, etc. 
+(Chamberland et al., 2011; Kosciw et al., 2018).
+8 La transphobie c’est pas mon genre 
+
+10 11
+La transphobie, c’est pas mon genre - Boîte à outils La transphobie, c’est pas mon genre - Boîte à outilsBoîte à outils
+Fiche ressource
+ESPACE SÉCURITAIRE 
+Comme présenté dans la partie Pourquoi ce guide, la mise en place d’espaces plus sécuritaires pour les jeunes, particulièrement celleux 
+issu.es de la diversité sexuelle et de genre, peut favoriser leur sentiment de sécurité et d’acceptation en milieux scolaire. 
+Un espace sécuritaire est un environnement accueillant permettant aux participant.es de s’exprimer sans crainte de jugement. Le milieu 
+scolaire peut être teinté de violence et n’est pas nécessairement adapté aux réalités des jeunes trans et non-binaires (voir Pourquoi ce 
+guide). Le besoin de sécurité est très important chez les jeunes et encore plus présent chez les jeunes LGBTQ+. Il est donc essentiel 
+d’instaurer quelques règles générales dans les classes afin de les rendre plus sécuritaires pour les élèves trans et non binaires. 
+Prendre conscience de ses propres préjugés
+Tout d’abord, se questionner sur ses propres préjugés est la première étape afin de ne pas reproduire des schémas oppressifs sur les jeunes 
+issu.es de la diversité sexuelle et de genre. Remettre en question ses comportements et attitudes vis-à-vis des jeunes est essentiel afin 
+d’être un.e adulte allié.e des jeunes LGBTQ+. Il est essentiel d’adopter une posture réflexive et critique à l’égard de ses comportements 
+pour ensuite intégrer des attitudes égalitaires dans son enseignement.
+Pour faciliter ce processus, il est important de s’informer quant aux réalités des jeunes de diversité sexuelle et de genre. Utiliser les bons 
+termes et être conscient.e des enjeux LGBTQ+ permettent de mieux venir en aide aux jeunes dans le besoin. 
+Être un.e allié.e
+Une personne alliée est une personne qui soutient et défend une personne ou un groupe ciblé victime de discrimination. Pour les com-
+munautés LGBTQ+, un.e allié.e est toute personne qui soutient et défend activement les droits des personnes de la diversité sexuelle et 
+de genre. 
+Être un.e allié.e permet d’instaurer un climat de confiance avec les jeunes, en prenant position face aux situations d’intimidation 
+homophobe et transphobe en milieu scolaire. Il est essentiel de répondre aux situations d’homophobie et de transphobie lorsqu’elles se 
+produisent. Ceci permet aux élèves de savoir que vous ne tolérez pas ce genre de comportements et d’attitudes.
+Pour être une personne alliée et soutenir les jeunes LGBTQ+, il est aussi essentiel d’être visible ou de montrer son soutien ouvertement 
+pour que les jeunes puissent vous reconnaître comme une personne-ressource plus facilement. Par exemple, vous pouvez afficher du 
+matériel d’espace sécuritaire et adopter un langage inclusif de la diversité afin de montrer votre ouverture. Code de vie en classe : 
+Voici quelques règles qui peuvent être utiles à mentionner aux jeunes avant le début de chaque activité afin d’instaurer un 
+climat accueillant et respectueux pour toustes :
+ • Il s’agit d’un espace sécuritaire. Aucun commentaire homophobe, misogyne, raciste, grossophobe, capacitiste, 
+ transphobe, etc. ne sera toléré. 
+ • Le respect des autres et de leurs opinions est essentiel au bon déroulement de l’activité.
+ • Il est aussi important de respecter la confidentialité des autres, donc ce qui est dit pendant l’activité reste ici et ne 
+ doit pas être répété en dehors de la classe. 
+ • Toutes les questions sont les bienvenues. Si vous avez une question, levez la main.
+ • Il est important d’écouter les personnes quand elles parlent.
+ • Si vous avez besoin de ressources particulières parce que vous vivez un malaise, mentionnez-le à l’adulte respon- 
+ sable de votre groupe pour q’iel vous aide.
+Au-delà des activités de ce guide, ce code de vie peut être suivi afin d’entretenir un climat sécuritaire et accueillant pour 
+toustes les élèves au long de leur parcours scolaire.Boîte à outils
+Réagir face aux situations transphobes
+Il est essentiel de veiller à l’application des politiques en place contre les discriminations et/ou contribuer à l’instauration de celles-ci dans 
+le milieu scolaire. Voici quelques pistes d’action, tirées du Safe Space Kit de GLSEN (2019), que vous pouvez adopter lorsque vous êtes 
+témoin de transphobie :
+1. Interrompre immédiatement les moqueries et les insultes, ou mettre fin immédiatement aux comportements d’intimidation 
+et de harcèlement. Une simple réponse comme « ce genre de propos est inacceptable en classe » peut suffire. Assurez-vous que 
+toustes les jeunes vous entendent. Il est important de réagir immédiatement face à une situation transphobe puisque si un incident 
+est ignoré, cela peut impliquer l’acceptation et l’approbation de ce genre de comportement.
+2. Nommer le comportement. Décrivez ce que vous avez vu et étiquetez le comportement. Par exemple, vous pouvez dire « Je t’ai 
+entendu utiliser le mot tapette. Ce mot est considéré comme une insulte. Ce genre de propos n’est pas acceptable. »
+3. Utiliser ce moment comme une opportunité d’éduquer et de renseigner les jeunes sur l’impact de ces comportements et 
+attitudes ainsi que comment agir de façon non discriminatoire. Certain.es jeunes peuvent ne pas savoir que le langage qu’iels ont 
+utilisé est problématique. Vous aurez ainsi peut-être à expliquer pourquoi certaines attitudes sont discriminatoire. Évitez tout de 
+même de centrer votre intervention sur les jeunes concerné.es, visez principalement les comportements et les attitudes à adopter 
+et à éviter.
+4. Soutenir l’élève ciblé.e. Vous pouvez demander à l’élève ce dont il a besoin ou ce que vous pouvez faire pour l’aider présentement. 
+Vous pouvez aussi suggérer à l’élève de contacter une ressource (voir fiche Ressources disponibles pour les jeunes) s’iel demande un 
+soutien supplémentaire. À vous de décider si vous voulez intervenir directement après votre intervention ou prendre un moment 
+avec l’élève plus tard. 
+5. Tenir les jeunes responsables de leurs actions. Il est important de vous assurer que les mesures disciplinaires sont appliquées 
+uniformément à tous les types de situation d’intimidation et de harcèlement.
+Pour aller plus loin : 
+La Coalition des familles LGBT+ a créé des outils spécialement pour les intervenant.es, disponibles en pdf gratuitement sur son site 
+internet dans la section « Milieux sécuritaires et inclusifs : pistes concrètes »
+https://www.familleslgbt.org/documents/pdf/CFH_MELS_Module2_FRA.pdfFiche ressource
+ESPACE SÉCURITAIRE (SUITE) 
+Source : 
+• GLSEN. (2019). Safe Space Kit: A Guide to Supporting Lesbian, Gay, Bisexual, Transgender, and Queer Students in Your School. Repéré le 01 mai, 2020, au : https://www.glsen.org/activity/ 
+ glsen-safe-space-kit-be-ally-lgbtq-youth
+12 13
+La transphobie, c’est pas mon genre - Boîte à outils La transphobie, c’est pas mon genre - Boîte à outilsBoîte à outils
+Fiche ressource
+RESSOURCES DISPONIBLES POUR LES JEUNES 
+Interligne : 
+• Ligne d’écoute et de renseignement pour les personnes 
+ LGBTQ+
+• 24h/24 et 7 jours sur 7
+• Appels et texto: 1 888 505-1010 
+• Clavardage en ligne : https://interligne.co/
+Jeunesse, j’écoute :
+• Ligne d’écoute pour les jeunes partout au Québec
+• Appel : 1 800 668-6868
+• Texto : 686868
+• Clavardage en ligne: https://jeunessejecoute.ca/clavarde- 
+ en-ligne/
+Tel-jeunes : 
+• Ligne d’écoute pour les jeunes partout au Québec
+• Appel : 1 800 263-2266
+• Texto : 514 600-1002
+• Clavardage en ligne : https://www.teljeunes.com/Tel-Jeunes
+Alterhéros :
+• Pose ta question : services permettant aux jeunes LGBTQ+ 
+ de poser des questions en tout genre à des expert.es pour 
+ obtenir du soutien et des conseils
+• http://www.alterheros.com/experts/pose-ta-question/
+Projet 10 :
+• Service de soutien et d’accompagnement individuel avec 
+ un.e intervenant.e sur demande
+• Téléphone : 514 989-0001
+• Courriel : questions@p10.qc.ca
+• https://p10.qc.ca/services
+Jeunesse Lambda :
+• Activités de goupe et de soutien pour les jeunes LGBTQ+ 
+• Téléphone: 514 528 7535
+• http://www.jeunesselambda.org/L’Action Santé Travestie et Trans du Québec 
+(ASTTeQ) :
+• Services de conseils gratuits et confidentiels aux personnes 
+ trans ou en questionnent sur leur identité de genre.
+• Adresse : 300, Sainte-Catherine Est, Montréal
+• Téléphone : 514.847-0067, poste 207
+• Courriel : astteq@yahoo.ca
+• http://www.astteq.org
+Aide aux transsexuelles et transsexuels du Québec 
+(ATQ) :
+• Services de conseils gratuits et confidentiels aux personnes 
+ trans ou en questionnement sur leur identité de genre.
+• Ligne d’écoute : 1 855 909-9038, poste 1
+• Courriel : ecoute@atq1980.org
+• http://www.atq1980.org
+Centre for Gender Advocacy :
+• Services de soutien confidentiels et gratuits par le biais d’un 
+ programme de soutien entre pairs
+• Adresse : 2110, rue Mackay, Montréal
+• Téléphone : 514 848-2424, poste 7880
+• Courriel : info@centre2110.org (admin.) psa@centre2110.org 
+ (soutien par les pairs)
+• http://www.centre2110.org
+Suicide Action Montréal :
+• Service de soutien s’adressant aux personnes suicidaires
+• 24 h / 24, 7 jours sur 7
+• Appel : 1 866 277-3553
+Personnel de soutien : 
+personne infirmière, personne travailleuse sociale, sexologue 
+de l’école, membres du personnel enseignant et membres de 
+la directionBoîte à outils
+Fiche ressource
+DÉCONSTRUIRE LES STÉRÉOTYPES 
+Les stéréotypes de genre
+Les stéréotypes de genre sont des clichés réducteurs qui divisent les genres de façon binaire (femmes/hommes, filles/garçons) en leur 
+assignant des caractéristiques spécifiques et distinctes. Ces règles de genre réduisent et limitent ainsi les émotions, sentiments et activités 
+qu’une personne peut vivre. Les stéréotypes sexuels sont présents dans toutes les sphères de la vie et sont appris dès l’enfance.
+Les stéréotypes de genre peuvent avoir un impact important dans le développement des jeunes que ce soit au niveau scolaire (réussite 
+scolaire, profession), au niveau de leur santé mentale et physique (image corporelle), ou même au niveau de leur sexualité et de leurs 
+relations interpersonnelles. Les stéréotypes de genre sont accompagnés d’une forte pression familiale et sociale de s’y conformer. 
+Prendre conscience de ses propres préjugés
+En premier lieu, il est essentiel de questionner ses propres préjugés parfois inconscients. Remettre en question ses comportements et 
+attitudes vis-à-vis des jeunes est un premier pas vers la déconstruction des stéréotypes. Il est donc essentiel d’adopter une posture 
+réflexive et critique à l’égard de sa pratique pour ensuite intégrer des attitudes égalitaires dans son enseignement.
+Déconstruire les stéréotypes de genre dans sa salle de classe 
+Déconstruire des stéréotypes n’est pas nécessairement facile. Les stéréotypes de genre sont présents dès l’enfance et, pour plusieurs 
+personnes, peuvent s’apparenter simplement à « la norme ». Il est donc important de ne pas contribuer à alimenter ces stéréotypes auprès 
+des élèves. Voici quelques pistes pour agir : 
+ • S’informer : bien s’informer sur les concepts de stéréotypes de genres, leurs conséquences, la manière dont ils se manifestent, 
+ etc.
+ • Encourager les activités mixtes non compétitives afin de réunir toustes les élèves ensembles.
+ • Accorder la même quantité et qualité d’attention à toustes les élèves : encourager les filles à s’exprimer autant que les garçons 
+ et écouter leurs propos avec la même attention. 
+ • Ne pas généraliser par des raccourcis du type « les garçons/les filles sont meilleur.es pour telle ou telle activité ».
+ • Encourager la réflexion et la prise de conscience sur les stéréotypes de genre chez les jeunes à l’aide d’activités et de projets 
+ sur le sujet. 
+ • Présenter des modèles qui sortent des rôles de genre stéréotypés.
+Des outils pour approfondir le sujet :
+ • La vidéo Kreature n° 6 - « Un autre genre d’éducation » : https://www.arte.tv/fr/videos/088128-002-A/kreatur-n-6/
+ • Persévérer dans l’égalité ! Guide sur l’égalité filles-garçons et la persévérance scolaire (contenant plusieurs ressources 
+ essentielles sur les stéréotypes de genre) : https://www.reseaureussitemontreal.ca/wp-content/uploads/2018/10/ 
+ Perseverer_dans_l_egalite.pdf
+ • La pratique réflexive : http://rire.ctreq.qc.ca/2016/10/pratique-reflexive/
+Sources : 
+• Secrétariat à la condition féminine (2017). Qu’est-ce qu’un stéréotype? Repéré le 4 février 2020, au : http://www.scf.gouv.qc.ca/sansstereotypes/quest-ce-quun-stereotype/
+• Conseil du statut de la femme. (2010). Entre le rose et le bleu : stéréotypes sexuels et construction sociale du féminin et du masculin. Résumé. Repéré le 4 février 2020, au : http://www.scf.gouv. 
+ qc.ca/fileadmin/Documents/Stereotypes/resume-entre-le-rose-et-le-bleu.pdf
+• Pica, L. A., Traoré, I., Bernèche, F., Laprise, P., Cazale, L., Camirand, H., Berthelot, M., Plante, N., et autres (2012). L’Enquête québécoise sur la santé des jeunes du secondaire 2010-2011. 
+ Le visage des jeunes d’aujourd’hui: leur santé physique et leurs habitudes de vie , Tome 1, Québec, Institut de la statistique du Québec.
+• Réseau réussite Montréal. (2019). Pour une égalité filles-garçons en persévérance scolaire. Repéré le 17 avril, 2020, au : https://www.reseaureussitemontreal.ca/dossiers-thematiques/ 
+ egalite-filles-garcons-reussite-scolaire/
+• Guerry, L., & Williams, N. (2018). Persévérer dans l’égalité ! Guide sur l’égalité filles-garçons et la persévérance scolaire. Réseau réussite Montréal et Complice – Persévérance scolaire 
+ Gaspésie-Les Îles.
+14 15
+La transphobie, c’est pas mon genre - Lexique La transphobie, c’est pas mon genre - LexiqueBoîte à outils Boîte à outils
+Fiche ressource
+INCLUSION DES ÉLÈVES TRANSFiche ressource
+INCLUSION DES ÉLÈVES TRANS (SUITE) 
+
+16 17
+La transphobie, c’est pas mon genre - Lexique La transphobie, c’est pas mon genre - LexiqueAGENRE
+Une personne agenre est une personne qui ne s’identifie à aucun genre.
+ 
+AUTO-IDENTIFICATION
+L’auto-identification désigne le processus qu’une personne entreprend en s’identifiant comme LGBTQ+. Personne d’autre 
+que soi-même ne pouvant déterminer son identité, ce processus est intime, personnel et unique à chacun.e.
+ 
+BINARITÉ
+La binarité désigne le système dichotomique que représentent les identités « homme/femme ».
+ 
+BISPIRITUALITÉ (TWO-SPIRIT)
+Le terme bispiritualité désigne une forme de diversité de genre présente chez les communautés autochtones en Amérique 
+du Nord.
+ 
+CISGENRE (CIS)
+Par opposition au terme « trans », le terme « cisgenre » réfère aux personnes qui s’identifient au genre qui leur a été assigné 
+à la naissance.
+CISNORMATIVITÉ / CISSEXISME
+La cisnormativité est le fait d’assumer que toute personne est cisgenre. La cisnormativité participe à l’invisibilisation des 
+personnes trans et non-binaire. Cette attitude s’intègre dans un système de cissexisme : des comportements et actions 
+discriminatoires portant préjudice aux personne trans et non-binaires.
+DEAD NAME OU BIRTH NAME
+Le dead name (ou birth name) est le nom assigné à la naissance d’une personne trans et non-binaire qui a effectué un chan-
+gement de nom. Utiliser le dead name d’une personne est un manque de respect envers la personne et invalide son identité.
+DÉVOILEMENT / COMING OUT
+Le dévoilement ou le coming out représente l’action de « dévoiler » son identité de genre. Le dévoilement commence par le 
+dévoilement à soi-même et est un processus continu. Il existe différents degrés de dévoilement : certaines personnes le disent 
+à leur entourage proche, d’autres dévoilent leur identité publiquement, alors que certaines le gardent pour elles-mêmes. 
+Lorsque le dévoilement est volontaire, il s’agit d’une décision personnelle et intime dans le processus d’auto-identification. 
+Exposer l’identité d’une personne trans ou non-binaire sans son consentement est un manque de respect et peut potentiel-
+lement créer une situation dangereuse pour ces personnes.
+DYSPHORIE DE GENRE 
+Le concept de dysphorie de genre regroupe les sentiments et émotions négatives (ex : colère, dégout, peur, tristesse, etc.) 
+qu’une personne trans ou non-binaire peut ressentir envers son identité de genre. La dysphorie de genre n’est pas une 
+nécessité quant à l’identification trans ou non-binaire. Certaines personnes trans et non-binaire ne ressentent pas de dysphorie 
+de genre. Certaines personnes vont préférer utiliser le terme « euphorie de genre » qui désigne les sentiments et émotions 
+positifs (ex : bonheur, joie, etc.) en lien avec leur identité de genre. 
+EXPRESSION DE GENRE
+L’expression de genre concerne la façon d’exprimer socialement son identité de genre par le biais de caractéristiques et de 
+comportements observables par autrui, tels que l’apparence physique, les codes vestimentaires, les codes de langage (p. ex. 
+pronom, prénom), la personnalité ainsi que les autres attributs liés au genre.
+GENRE
+Le genre est un concept social catégorisant les personnes selon des caractéristiques arbitraires et subjectives. Le genre peut 
+être influencé par des aspects psychologiques, comportementaux, sociaux et culturels. Le genre d’une personne n’est pas 
+déterminé par son sexe assigné à la naissance.
+GENDERFLUID
+Genderfluid fait référence à une identité de genre qui est changeante ou fluide.
+ 
+GENDERQUEER 
+D’origine anglo-saxonne, le terme genderqueer est un terme utilisé par des personnes s’identifiant comme ni homme ni 
+femme, comme les deux, ou comme toutes autres combinaisons des deux. Il est similaire à la non-binarité.
+ 
+HÉTÉRONORMATIVITÉ / HÉTÉROSEXISME
+L’hétéronomativité est le fait d’assumer que toute personne est hétérosexuelle. Cette attitude s’intègre dans un système 
+d’hétérosexisme : des comportements et actions discriminatoires portant préjudice aux personnes de la diversité sexuelle.
+IDENTITÉ DE GENRE
+L’identité de genre fait référence à l’expérience intime et personnelle de se sentir comme homme, femme, aucun de ces 
+genres, à deux genres ou à une identité autre, et ce, indépendamment du sexe assigné à la naissance. Toutes les personnes 
+ont une identité de genre.
+INTERSEXE
+Les personnes intersexes sont des personnes ayant des caractéristiques biologiques n’étant pas uniquement féminines ou 
+masculines.
+LGBTQ+
+LGBTQ+ est un acronyme pour désigner les personnes lesbiennes, gais, bisexuelles, trans, queer, en questionnement et 
+autres incluant les personnes intersexes, non-binaires, bispirituelles, pansexuelles etc. D’autres acronymes existent tels que 
+LGBTQIA2S+, LGBTQQIP2SAA+, etc.
+MÉGENRER
+Le terme « mégenrer » représente l’action de faire référence à une personne trans ou non-binaire en utilisant un nom, des Lexique Lexique
+18 19
+La transphobie, c’est pas mon genre - Lexique La transphobie, c’est pas mon genre - Lexiquepronoms, une formule de salutation ou autres qui ne reflètent pas l’identité de genre de la personne.
+PRONOMS D’USAGE OU USUELS OU PRÉFÉRÉS
+Les pronoms d’usage d’une personne sont des pronoms reflétant l’identité de genre de la personne. Il existe plusieurs types 
+de pronoms : il, elle, iel, ille, el, ul, ol, etc.
+ 
+MTF/FTM ET MTX/FTX
+Il s’agit d’un acronyme que certaines personnes trans et non-binaires utilisent pour désigner leur transition. FtX ou MtX 
+représente une transition qui n’est pas strictement binaire « homme/femme ».
+MtF : male to female
+FtM : female to male
+M/FtX : male or female to unknown/undefinied
+ 
+NON-BINAIRE
+La non-binarité représente les identités de genre autres que la binarité exclusive homme/femme. Les personnes non-binaires 
+peuvent se sentir comme ni homme ni femme, comme les deux, ou comme toutes autres combinaisons des deux. La non- 
+binarité inclut les identités en lien avec la fluidité des genres. Les personnes non-binaires peuvent s’identifier comme trans, 
+mais pas toutes les personnes non-binaires le font.
+ 
+NON-CONFORMITÉ LIÉE AU GENRE
+Il s’agit d’une expression qui réfère au fait de ne pas exprimer son genre de façon conforme à celle de la majorité. Ce peut être 
+aussi en raison de motifs tels que les sports et les loisirs pratiqués, le style vestimentaire, les préférences musicales et le cercle 
+social. Les personnes non-conformes à leur genre sont plus susceptibles d’être victimes d’homophobie ou de transphobie.
+QUEER
+D’origine anglo-saxonne, le terme queer a été réapproprié par les communautés LGBTQ+ de manière à en faire un symbole 
+d’autodétermination et de libération plutôt qu’une insulte. Il fait référence à toute idée, pratique, personne ou identité allant 
+à l’encontre des normes structurant le modèle social cishétéronormatif (cisnormatif et hétéronormatif).
+RÔLES DE GENRE
+Les rôles de genre sont les comportements et des attitudes appris et déterminés par les normes sociales binaires.
+SEXE
+Le sexe fait référence aux caractéristiques sexuelles biologiques, physiologiques, génétiques ou physiques. Ces caractéris-
+tiques incluent les caractéristiques sexuelles primaires et secondaires.
+ 
+SEXE/GENRE ASSIGNÉ À LA NAISSANCE (AFAN / AHAN)
+Personne ne choisit son sexe assigné à la naissance, que l’on soit une personne cisgenre ou transgenre. Lorsqu’une personne 
+naît, le système social et médical la classifie dans une des deux catégories binaires : « homme » ou « femme ». 
+L’acronyme AFAN ou AHAN est utilisé pour désigner une personne « assignée femme/homme à la naissance ». TRANS/TRANSGENRE
+Le terme « transgenre », souvent simplifié par « trans », est un terme parapluie qui englobe les personnes dont l’identité 
+de genre ne correspond pas au genre assigné à la naissance. Ce terme inclut les hommes trans ou les femmes trans, les 
+personnes non-binaires, les personnes genderqueer/genderfluid, etc.
+TRANSSEXUEL.LE 
+Terme moins utilisé, considéré par certains comme offensant ou désuet, qui réfère aux personnes se dirigeant vers, ou ayant 
+subi, certaines interventions médicales tel que l’hormonothérapie ou différentes chirurgies d’affirmation de genre durant leur 
+processus de transition. Certaines personnes transexuelles ne s’identifient pas au terme transgenre et vice et versa.
+ 
+TRANSITION (LÉGALE, MÉDICALE, SOCIALE)
+Une transition est un processus long et complexe ayant pour but d’harmoniser l’expression de genre d’une personne et son 
+identité de genre. 
+La transition peut se faire sur le plan social (se présenter avec l’apparence, le prénom, les vêtements, etc., selon son identité), 
+légal (changement du nom ou de mention de sexe dans les documents officiels) ou physique (hormonothérapie et interventions 
+chirurgicales d’affirmation de genre). Ces différents volets de la transition sont indépendants les uns des autres. Par exemple, 
+une personne peut faire une transition sociale sans aucune transition médicale.
+TRANSPHOBIE
+La transphobie fait référence à la violence systémique vécue par les personnes trans et non-binaires. La transphobie peut se 
+manifester sous forme de violences verbales (moqueries, insultes, menaces), psychologiques (rumeurs, chantage, outing), 
+physiques (agressions physiques ou sexuelles, crime de haine, meurtres), ou par des comportements discriminatoires ou 
+intolérants (discrimination à l’embauche, au logement, ou à l’accès aux soins médicaux).
+Sources : 
+• GRIS Montréal (2018). Guide pédagogique - Modèles recherchés, l’homosexualité et la bisexualité racontées autrement. Guy Saint-Jean Éditeur inc.
+• GRIS-Montréal (2016). Unis dans la diversité. Repéré le 31 janvier, 2020, au : https://www.gris.ca/publications/
+• Coalition des familles LGBT+, la Chaire de recherche sur l’homophobie et Gai-Écoute [s.d.]. Définitions sur la diversité sexuelle et de genre. Repéré le 31 janvier, 2020, 
+ à : https://www.familleslgbt.org/documents/pdf/Definitions.pdf
+• Understanding Disparities - LGBTQ Terminology. [s.d.]. Repéré le 31 janvier, 2020, au : https://www.nyp.org/documents/pps/cultural-competency/Understanding%20Disparities%20- 
+ %20LGBTQ%20Terminology.pdfLexique Lexique
+21
+La transphobie, c’est pas mon genre Activités
+Activité générale 22
+Activités 1er secondaire 26
+Activités 2e secondaire 32
+Activités 3e secondaire 36
+Activités 4e secondaire 46
+Activités 5e secondaire 52
+22 23
+La transphobie, c’est pas mon genre - Activité généraleActivité générale Activité générale
+La transphobie, c’est pas mon genre - Activité généraleLe saviez-vous?
+L’orientation sexuelle correspond à l’attirance physique, sexuelle, affective ou romantique que l’on peut éprouver envers des 
+personnes d’un ou plusieurs sexes ou genres. L’homosexualité, la bisexualité, la pansexualité, l’hétérosexualité, l’asexualité 
+sont des exemples d’orientations sexuelles. L’orientation sexuelle réfère aussi au sentiment d’identité personnelle et 
+sociale basé sur ces attirances, les comportements pour les exprimer, et possiblement l’appartenance à une communauté de 
+personnes qui les partagent.
+L’orientation sexuelle et l’orientation émotionnelle/sentimentale/romantique sont parfois des dimensions de l’identité 
+sexuelle qui peuvent être distinctes. Dans ce cas, l’orientation romantique vient souligner les attirances émotionnelles et 
+affectives ainsi que les sentiments que l’on peut éprouver envers des personnes d’un ou plusieurs sexes ou genres. L’orientation 
+sexuelle correspond, quant à elle, à l’attirance physique et sexuelle. Cette distinction est particulièrement importante pour 
+les personnes asexuelles qui n’éprouvent pas d’attirance sexuelle, mais qui peuvent éprouver une attirance romantique, et 
+les personnes aromantiques qui n’éprouvent pas d’attirance romantique, mais qui peuvent éprouver une attirance sexuelle.1re étape : La licorne du genre (30 à 45 minutes)
+Présenter à la classe l’outil de la licorne du genre disponible en ligne à l’adresse suivante : https://unicorn.mrtino.eu/
+Expliquer aux jeunes que cet outil peut être utilisé pour visualiser les dimensions de l’identité. 
+1. Définir selon le Lexique les notions sexe et sexe assigné à la naissance.
+2. Demander à la classe de définir l’identité de genre. Noter les réponses au tableau et compléter les réponses à l’aide de 
+la définition disponible dans le lexique du guide. Souligner que l’identité de genre peut être fluide dans le temps et peut 
+changer au cours de la vie d’une personne. 
+Donner quelques exemples pour illustrer l’identité de genre : « je me sens homme/femme » ; « je m’identifie comme homme 
+donc mon identité de genre est homme », « je ne m’identifie pas comme homme ni comme femme », « aujourd’hui je m’identifie 
+comme femme, hier je m’identifiais comme homme », etc. 
+Attention, certain.es jeunes pourraient proposer «je me sens chat, ou oiseau.» Bien qu’il n’y ait pas de mal à se 
+sentir de telle manière, l’identité de genre est un concept amené par les sciences sociales qui s’applique spécifi-
+quement aux individus d’une société. On peut donc ressentir son genre au-delà des cases hommes/femmes, mais 
+pas devenir une créature fantastique ou un animal, qui sort du concept de l’identité de genre.
+3. Demander aux jeunes de définir l’expression de genre et compléter leurs réponses avec la définition présentée dans le 
+Lexique. Souligner que l’expression de genre peut être fluide dans le temps et peut changer au cours de la vie d’une 
+personne. 
+Donner quelques exemples pour illustrer l’expression de genre : « j’aime porter des robes, mon expression de genre est 
+plutôt féminine », « j’aime mettre des jeans amples et des beaux t-shirts, mon expression de genre est plutôt masculine », 
+« j’aime que mon genre ne soit pas identifiable par mon apparence, je considère mon expression de genre androgyne », etc. 
+Attention à ne pas se laisser emporter dans les stéréotypes ! Souligner que des personnes peuvent être féminines 
+sans nécessairement rentrer dans des stéréotypes de la féminité, et inversement pour des personnes masculines 
+ou androgynes.
+4. Pour l’orientation sexuelle et l’orientation romantique, demander à la classe de les définir et de souligner la distinction 
+entre ces deux dimensions. Souligner que l’orientation sexuelle/romantique peut être fluide dans le temps et peut changer 
+au cours de la vie d’une personne. 
+Compléter les réponses des étudiant.es avec le contenu mentionné plus haut. Donner des exemples pour illustrer l’orientation 
+sexuelle et romantique : « j’aime les femmes, mais je suis attiré.e sexuellement par les femmes et les hommes », « je suis 
+attiré.e amoureusement et sexuellement par les hommes et les femmes», « je suis seulement attiré.e par les hommes. », etc. 
+S’assurer de la bonne compréhension du contenu par les jeunes en faisant une synthèse de l’activité.
+Sources : 
+• GRIS Montréal, (2015). Modèles recherchés, l’homosexualité et la bisexualité racontées autrement. Guy Saint-Jean Éditeur inc.
+• The Trevor Project. [s.d.]. https://www.thetrevorproject.org/2019/09/30/research-brief-diversity-of-youth-sexual-orientation/DÉROULEMENT PROPOSÉ ACTIVITÉ
+La licorne du genre
+ 
+À tous les niveaux et à toutes les matières
+Durée approximative : 45 à 60 min
+Objectifs pédagogiques : sensibiliser les élèves aux diverses dimensions de l’identité sexuelle ; clarifier et illustrer 
+l’identité de genre, l’expression de genre, le sexe assigné à la naissance et l’orientation sexuelle/romantique.
+Tâche : se familiariser avec les concepts présentés dans La licorne du genre.
+Matériel : accès à une connexion internet, projecteur, Lexique de ce guide
+Pour acceder à la vidéo : La licorne est disponible à l’adresse https://unicorn.mrtino.eu/
+Cette activité peut être réalisée virtuellement via l’utilisation d’une plateforme de vidéo conférences 
+incluant une option de partage d’écran.
+Suite
+
+24 25
+La transphobie, c’est pas mon genre - Activité généraleActivité générale Activité générale
+La transphobie, c’est pas mon genre - Activité générale2e étape : Exemple d’une licorne (15 min)
+Présenter l’exemple de la licorne de genre ci-dessous en déplaçant les curseurs sur les différents échelons des dimensions de 
+la licorne. Demander à la classe de décrire la personne qui est représentée par les marqueurs dans chaque dimension. Inviter 
+les jeunes à partager leurs idées et opinions.
+Pour terminer l’activité, inviter les jeunes à se questionner et à réfléchir sur comment iels se perçoivent et se positionne-
+raient sur les échelons de la licorne du genre. S’iels désirent, iels peuvent le partager avec le reste de la classe, mais il s’agit 
+plutôt d’une réflexion personnelle.
+Exemple de licorne du genre :
+« J’ai été assigné.e femme à la naissance, mais pourtant je suis une personne agenre, c’est-à-dire que je ne 
+m’identifie à aucun genre ! J’ai une expression de genre par contre très féminine et parfois plus androgyne, 
+mais j’apprécie beaucoup ma féminité : je porte souvent du maquillage, des robes ou des jupes, et j’ai une 
+collection de vernis à ongle ! J’ai parfois des journées où mon expression de genre est plutôt masculine, mais 
+ça arrive moins souvent. Je suis attiré.e sexuellement et romantiquement par les femmes et les personnes 
+non-binaire. Je ne suis pas du tout attiré.e par les hommes. »DÉROULEMENT PROPOSÉ 
+
+26 27
+La transphobie, c’est pas mon genre - Activités 1re secondaireActivités 1re secondaire Activités 1re secondaire
+La transphobie, c’est pas mon genre - Activités 1re secondaireLe saviez-vous?
+Les stéréotypes de genre sont des « clichés réducteurs » qui divisent les genres de façon binaire (femmes/hommes, filles/
+garçons) en leur assignant des caractéristiques spécifiques et distinctes. Ces « règles » de genre réduisent et limitent ainsi les 
+émotions, sentiments et activités qu’une personne peut vivre. Les stéréotypes sexuels sont présents dans toutes les sphères 
+de la vie, et apparaissent dès l’enfance : on pourra constater que certaines jeunes filles se pensent souvent moins fortes en 
+science que les garçons et, à l’opposé, les jeunes garçons ont tendances à diminuer plus fréquemment leurs compétences 
+créatives.
+Les stéréotypes de genre peuvent avoir un impact important dans le développement des jeunes que ce soit au niveau scolaire, 
+au niveau de leur santé mentale et physique, ou même encore au niveau de leur sexualité et de leurs relations interperson-
+nelles. Ces stéréotypes de genre sont souvent renforcés au quotidien par des pressions familiales et sociales. Par exemple, 
+certains garçons se voient, dès un très jeune âge, privés de certaines choses considérées comme féminines : jouer à la poupée, 
+incarner des personnages fantastiques féminins, porter du rose ou des robes, etc. Ces attitudes renforcent chez eux l’idée 
+qu’ils doivent se dissocier le plus possible de la féminité, sous peine de réprimandes ou moqueries. 
+Et à l’école ? « 22 % des garçons du secondaire pratiquent un sport en dehors de l’école ; ce taux chute à 13 % chez les filles » (Pica 
+et al., 2012) « Les activités physiques, sportives ou culturelles sont fondamentales à plusieurs éléments liés à la réussite éducative, 
+dont le développement des jeunes, leur bien-être, leur estime de soi et leur épanouissement. Cependant, l’offre d’activités diffère 
+souvent selon le sexe : par exemple, les activités physiques et sportives sont plus souvent proposées aux garçons et les activités artis-
+tiques et socioculturelles aux filles. L’une des conséquences de ceci est qu’à partir de 12 ans, la pratique des sports et loisirs diminue 
+graduellement chez les filles, tandis que les garçons demeurent plus actifs que les filles, quel que soit leur groupe d’âge » (Réseau 
+réussite Montréal, 2019).1re étape : Tableau des stéréotypes (10 min)
+Diviser le tableau en deux colonnes « filles » et « garçons ». Demander à la classe de catégoriser une dizaine d’activités et de 
+différents sports entre les deux colonnes. Noter les informations au tableau dans les deux colonnes.
+Inviter les jeunes à partager leurs opinions sur ces deux colonnes à l’aide des questions suivantes :
+ Selon vous, est-ce que les filles peuvent ou font des activités de la colonne « garçons »? 
+ Et pensez-vous que des garçons peuvent faire des activités de la colonne « filles »?
+ Avez-vous déjà vu des personnes faire des activités des deux colonnes? Que pensez-vous de ces personnes?
+Donner la définition d’un stéréotype en faisant des liens avec les exemples écrits au tableau (voir contenu). Défaire les 
+stéréotypes amenés par les jeunes dans la discussion à l’aide de la fiche Déconstruire les stéréotypes de genre construite à cet 
+effet. S’assurer de la compréhension du groupe.
+2e étape : Visionnement de la vidéo (10 min)
+Présenter la vidéo « ALWAYS #CommeUneFille », disponible gratuitement sur YouTube et sous-titré en français ou consulter 
+le lien proposé dans la section Matériel nécessaire de cette activité. 
+Demander à la classe de porter attention pendant la vidéo à comment l’exemple (« lancer comme une fille ») est présenté. 
+Après le visionnement de la vidéo, animer une discussion sur la vidéo pour s’assurer que les jeunes ont compris le message 
+de la vidéo : 
+ Qu’est-ce que veut dire « lancer comme une fille » au début de la vidéo? 
+ Comment les filles lancent-elles dans la vraie vie? 
+ Pourquoi « lancer comme une fille » est un stéréotype? 
+ Quelle image des filles ce stéréotype véhicule-t-il?
+3e étape : Discussion de groupe (15 min)
+En revenant aux colonnes de la première étape écrite au tableau, questionner la classe sur leurs émotions et sentiments par 
+rapport aux stéréotypes genrés dans le sport et les activités nommées plus tôt :
+ À main levée, combien d’entre vous se sont déjà fait dire que vous ne pouviez pas faire des activités de « garçons » 
+ parce que vous étiez des filles? Et pour les garçons, que vous ne pouviez pas faire des activités de « filles » parce que 
+ vous étiez des garçons ? 
+ Comment cela vous a-t-il fait sentir? 
+ Avez-vous déjà eu peur d’être intimidé.es si vous faisiez une activité qui est plutôt dans la colonne opposée?
+ Après avoir visionné la vidéo, pensez-vous que tout le monde peut faire toutes les activités écrites au tableau, peu 
+ importe si ce sont des filles ou des garçons?
+ Que pourriez-vous dire à quelqu’un qui vous dit que vous ne pouvez pas faire quelque chose juste parce que vous êtes 
+ un garçon ou une fille?
+Effacer la ligne séparant les deux colonnes et entourer le tout afin de symboliser que toute personne peut naviguer ces 
+stéréotypes et faire ces activités, peu importe son genre.DÉROULEMENT PROPOSÉ ACTIVITÉ
+Stéréotypes de genre
+ 
+Matière ciblée : Éducation physique, 1re secondaire
+Durée approximative : 35 min
+Travail collectif
+Objectifs pédagogiques : sensibiliser les élèves aux rôles et stéréotypes 
+de genre véhiculés par la société dans le sport; prendre conscience de 
+l’impact des rôles de genre. 
+Tâches : avoir une discussion entre la personne enseignante et les élèves sur les stéréotypes de genres dans le sport 
+et dans l’éducation physique. 
+Matériel nécessaire : accès à un ordinateur et internet, un tableau, fiche Déconstruire les stéréotypes de genre.
+Pour accéder à la vidéo : la vidéo est disponible sur YouTube : « Always #CommeUneFille » (1 min) ou hébergée par le 
+Gris Montréal : https://grismtl.sharepoint.com/:v:/s/Liensextrieurs/EVK372MAkdZOsWu554m0Ws8B9T9fB0Tki8EO-9lF- 
+T7yw?e=ZS9PjA
+Sources : 
+• Secrétariat à la condition féminine (2017). Qu’est-ce qu’un stéréotype? Repéré le 4 février 2020, au : http://www.scf.gouv.qc.ca/sansstereotypes/quest-ce-quun-stereotype/
+• Conseil du statut de la femme. (2010). Entre le rose et le bleu : stéréotypes sexuels et construction sociale du féminin et du masculin. Résumé. Repéré le 4 février 2020, à : 
+ http://www.scf.gouv.qc.ca/fileadmin/Documents/Stereotypes/resume-entre-le-rose-et-le-bleu.pdf
+• Pica, L. A., Traoré, I., Bernèche, F., Laprise, P., Cazale, L., Camirand, H., Berthelot, M., Plante, N., et autres (2012). L’Enquête québécoise sur la santé des jeunes du secondaire 2010-2011. 
+ Le visage des jeunes d’aujourd’hui : leur santé physique et leurs habitudes de vie, Tome 1, Québec, Institut de la statistique du Québec.
+• Réseau réussite Montréal. (2019). Pour une égalité filles-garçons en persévérance scolaire. Repéré le 17 avril, 2020, au : https://www.reseaureussitemontreal.ca/dossiers-thematiques/ 
+egalite-filles-garcons-reussite-scolaire/
+
+28 29
+La transphobie, c’est pas mon genre - Activités 1re secondaireActivités 1re secondaire Activités 1re secondaire
+La transphobie, c’est pas mon genre - Activités 1re secondaireACTIVITÉ
+Assignée garçon - Lecture 
+ 
+Matière ciblée : Français, 1re secondaire
+Durée approximative : 30 à 35 min
+Objectifs pédagogiques : sensibiliser les élèves aux réalités vécues par 
+une jeune personne trans et aborder la notion de respect du prénom choisi.
+Tâches : lire les planches de bande dessinée et faire un retour sur 
+la compréhension de lecture de la classe.
+Matériel nécessaire : Annexe (Assignée garçon), Lexique.
+Cette activité peut être réalisée virtuellement via l’utilisation d’une plateforme de vidéoconférences 
+incluant une option de partage d’écran.
+Le saviez-vous?
+Dans la bande dessinée, le père de Stéphie réfère à sa fille en parlant de sa « transexualité ». Le terme « transexualité » a été 
+choisi par l’auteur volontairement afin de souligner que le papa de Stéphie n’est pas encore bien renseigné sur la question. 
+En effet, le terme « transexualité » n’est plus souvent utilisé au sein de la communauté trans, qui préfère le terme « trans » ou 
+« transgenre ». Il existe néanmoins encore des personnes qui s’identifient au terme « transsexuel.elle » (voir Lexique). En cas 
+de doute, on recommande d’utiliser le terme « trans ». 
+Dans l’une des planches où Stéphie demande à sa maman « si elle sonne comme un garçon », sa maman lui répond qu’elles 
+pourront aller voir un endocrinologue. À la discrétion de leur praticien.ne, les enfants ne se font généralement pas prescrire 
+d’hormones avant l’âge théorique de leur puberté. Iels peuvent cependant débuter par des bloqueurs d’hormones afin de 
+retarder leur puberté et ainsi éviter des changement corporels qu’iels ne souhaitent pas. La puberté peut être un moment 
+très anxiogène pour une personne trans ou non-binaires lorsque son corps change et s’éloigne de son identité de genre. 
+La puberté peut être un moment de grande détresse émotionnelle pour les personnes trans ou non-binaires si elles ne sont 
+pas accompagnées pour y faire face. 1re étape : Lecture (30 min)
+Proposer à la classe la lecture des planches de bande dessiné. Lire dans l’ordre, les planches nos 1 à 4, puis terminer avec les 
+planches nos 5 à 7. Idéalement le ou la professeur.e pourrait doubler les personnages adultes de la bande dessinée. 
+Version papier : Distribuer à la classe les planches de la BD Assignée garçon, de Sophie Labelle en annexe.
+Version numérique (suggerée) : Projeter les planches de BD au tableau et demander à des élèves volontaires de lire à voix 
+haute les répliques des personnages. 
+Faire un retour à l’aide des questions suivantes après chaque planche afin de vérifier que les jeunes aient bien compris les 
+situations présentées. Utiliser le Lexique et le Saviez-vous en cas de besoin.
+Planche no 1 
+ Qui est Stéphie et quelle est son identité de genre? 
+ Comment Stéphie a-t-elle réagit quand son amie a dévoilé son identité?
+Réponse : Stéphie est une jeune fille trans de 11 ans. Stéphie n’a pas aimé que son amie dévoile son identité à une autre 
+personne sans son consentement. Elle a l’impression que maintenant cette personne ne la verra que par sa transidentité et 
+non comme une personne à part entière.
+Planche no 2
+ Comment l’amoureux de Stéphie explique-t-il ce qu’est une personne trans?
+Réponse : Il explique que généralement on assigne un genre à un bébé naissant en fonction de caractéristiques sexuelles 
+comme les organes génitaux, mais parfois ce n’est pas le bon genre. Une personne va ainsi trouver un genre qui lui corres-
+pond mieux et s’identifier comme trans.
+Planche no 3
+ De quoi a peur Stéphie lorsqu’elle parle à sa mère? Et pourquoi?
+ Quelle aide propose sa mère dans la situation? Trouvez-vous que c’est une preuve de soutien ou l’inverse? 
+Réponse : Stéphie a peur que sa voix mue et devienne plus grave comme celle d’un garçon. Comme Stéphie est un fille trans, 
+elle a peur de sonner comme un garçon. Sa mère lui propose d’aller voir une endocrinologue c’est-à-dire un médecin qui 
+pourra lui prescrire des hormones ou des bloqueurs d’hormones pour retarder sa puberté. Il s’agit là d’une forme de soutien 
+puisque sa mère veut l’aider à ne plus avoir peur et à se sentir bien dans son corps.
+Planche no 4
+ L’amoureux de Stéphie explique à un ami pourquoi connaître l’ancien nom de Stéphie n’est pas important pour lui. 
+ Quelles sont ces raisons?
+Réponse : Il explique qu’utiliser l’ancien prénom de Stéphie, son dead name (voir Lexique), lui ferait du mal puisqu’elle 
+n’aime pas ce nom. Il explique aussi que de savoir l’ancien nom d’une personne trans vient renforcer l’idée que ces personnes 
+ne sont pas vraiment des femmes, des hommes ou des personnes non-binaires. Utilisez le dead name de quelqu’un est un 
+manque de respect pour cette personne et peut faire vivre une souffrance à cette personne.DÉROULEMENT PROPOSÉ 
+Suite
+30 31
+La transphobie, c’est pas mon genre - Activités 1re secondaireActivités 1re secondaire Activités 1re secondaire
+La transphobie, c’est pas mon genre - Activités 1re secondaireDÉROULEMENT PROPOSÉ (SUITE) 
+Planche nos 5 à 7
+ Comment se sent Stéphie à l’idée de passer une soirée en grande famille?
+ Que pensez-vous de l’attitude de son papa vis à vis de Stéphie? 
+ Quelle est la réaction de Stéphie?
+ Que ressent Stéphie par rapport à son prénom de naissance?
+Réponse : Stéphie a peur d’aller passer le réveillon avec sa famille, elle a peur de se faire juger pour son identité. Le père de 
+Stéphie montre son soutien envers sa fille en la défendant devant les autres membres de la famille. Il affirme que Stéphie 
+est assez intelligente pour savoir qui elle est vraiment et que son devoir à lui est de la protéger. Séphie est très contente et 
+émue de voir son père la soutenir. Par contre, Stéphie n’aime pas quand son père l’appelle par son ancien nom, elle lui dit 
+que ça lui fait du mal. Elle lui demande de l’appeler Stéphie et son père lui propose même de l’appeler « princesse ». Stéphie 
+en est ravie.
+2e étape : Réflexion de groupe (15 min)
+Inviter les jeunes à se questionner et à discuter sur les questions suivantes. Animer la discussion et encourager les élèves à 
+partager. Faire des liens entre les comportements du papa de Stéphie et l’amoureux de Stéphie, ainsi que les émotions que 
+Stéphie présente dans les planches. Écrire au tableau les réponses des élèves.
+1. Selon vous, qu’est-ce qu’une personne transgenre?
+2. Si quelqu’un fait un commentaire méchant à propos d’une personne trans, comment pouvez-vous réagir?
+3. Qu’avez-vous appris en lisant cette bande dessinée? 
+
+32 33
+La transphobie, c’est pas mon genre - Activités 2e secondaireActivités 2e secondaire Activités 2e secondaire
+La transphobie, c’est pas mon genre - Activités 2e secondaireDÉROULEMENT PROPOSÉ 
+1re étape : Réflexion de groupe (10 min)
+Inviter les élèves à réfléchir et à partager leurs expériences 
+sur le sujet du dévoilement. Identifier les émotions ressen-
+ties et les nommer. Utiliser les questions suivantes pour 
+alimenter la discussion. Écrire au tableau les éléments qui 
+ressortent de la discussion.
+ Avez-vous déjà confié quelque chose de très personnel 
+ à quelqu’un?
+ Comment cette personne a-t-elle réagi lorsqu’elle 
+ a reçu votre confidence? 
+ Comment vous êtes-vous senti à la suite de cette 
+ réaction? 
+ Qu’est-ce que cette confidence a changé dans votre 
+ relation?
+ Est-ce que cette personne a répété votre secret 
+ sans votre consentement? Comment cela vous 
+ a-t-il fait vous sentir?
+2e étape : Visionnement de la vidéo 
+(10 + 7 min)
+Présenter la vidéo The Real Thing (transgender short film) 
+(7 min) disponible sur YouTube. Demander aux élèves de prêter 
+attention pendant le visionnement aux émotions d’Allie (person-
+nage principale) et des réactions de son environnement. 
+Après le visionnement, animer une discussion de groupe 
+autour des questions suivantes :
+ Est-ce que quelqu’un pourrait résumer en quelques 
+ phrases le film que nous venons de voir? 
+ Allie est-elle acceptée et soutenue par tout son 
+ entourage?
+ Comment s’est déroulé le dévoilement d’Allie 
+ (coming out)? Comment penses-tu qu’Allie s’est 
+ sentie face à la réaction de son père? 
+Noter les réponses des élèves au tableau. Inviter les élèves 
+à réfléchir et à partager leurs impressions sur le sujet du 
+dévoilement. Identifier les émotions ressenties et les nommer. 
+Compléter les informations recueillies avec les informations 
+mentionnées plus haut. 
+3e étape : Vignette (30 min)
+Diviser la classe en équipe de 3 ou 4 personnes. Donner une 
+tâche à chacun : Animateur.trice, Secrétaire, Responsable du 
+temps, Responsable de l’orthographe, etc. 
+Distribuer la copie Annexe Vignette disponible dans ce guide 
+et la lire aux élèves. Présenter la définition du terme « non- 
+binaire » (voir Lexique).
+Demander aux équipes de déterminer par écrit quels com-
+portements et attitudes adopter en réponse au dévoilement de Flo. Demander aux élèves de justifier leurs réponses avec 
+des éléments de la vidéo et leur compréhension de la relation. 
+Encourager la classe à faire des liens entre les émotions 
+vécues par les personnes trans faisant un dévoilement et les 
+personnes recevant ce dévoilement. Aviser les équipes qu’elles 
+ont 15 min pour compléter l’exercice.
+Pour diriger l’activité, suggérer aux élèves de diviser le travail 
+en un tableau : Attitudes à adopter / Attitudes à éviter. 
+Lorsque le temps est écoulé, inviter une équipe à présenter 
+ses réponses et à partager leur texto envoyé à Flo ainsi que ses 
+raisons. Encourager le reste du groupe à partager ses impres-
+sions et ses opinions sur la situation. Refaire le même processus 
+avec une autre équipe et ainsi de suite. Noter les comporte-
+ments et attitudes qui ressortent le plus face à la vignette. 
+Compléter les informations avec le contenu mentionné 
+plus haut.
+Vignette : 
+Florence, une de tes grandes amies d’enfance, te dit un soir 
+en rentrant de l’école dans le bus qu’elle pense peut-être ne 
+pas être une fille. Elle dit ne pas vouloir être un garçon non 
+plus. Elle dit qu’elle pense plutôt être une personne non- 
+binaire, et elle aimerait maintenant que tu l’appelles «Flo ». 
+Elle t’avoue se sentir vraiment confuse par rapport à ses ques-
+tionnements et elle ne sait pas quoi faire. Elle y pense depuis 
+longtemps et elle te fait ce dévoilement parce que vous vous 
+connaissez depuis longtemps. Elle dit te faire confiance et te 
+demande de n’en parler à personne, car, pour l’instant, elle 
+craint un peu les réactions des autres à l’école. Tu ne sais pas 
+trop quoi dire sur le coup et tu n’as même pas le temps de 
+répondre que le bus s’arrête et elle descend à son arrêt. 
+Cette discussion te trotte dans la tête tout le long du chemin 
+pour rentrer chez toi. Une fois arrivé.e à la maison, tu décides 
+de lui écrire un texto pour prendre le temps de lui exprimer 
+ce que tu aurais voulu lui dire au moment où elle s’est ouverte 
+à toi. 
+Que lui écris-tu? Et pourquoi?
+4e étape : Réflexion de groupe – conclusion 
+(5 min)
+Sans attendre de réponse verbalement, inviter les élèves à 
+réfléchir à partir des idées suivantes :
+ Avez-vous déjà reçu des confessions personnelles de la part 
+ de quelqu’un.e? 
+ Avez-vous bien réagi face à la confiance accordée par cette 
+ personne?
+ Comment iels pourraient s’améliorer afin de mieux recevoir 
+ ce genre de propos à l’avenir?Le saviez-vous?
+Le dévoilement (ou coming out) est un processus très intime et personnel (voir Lexique). Plusieurs émotions entrent en jeu lors d’un 
+dévoilement. La personne qui fait son dévoilement peut ressentir de la peur, de la confusion, de l’incertitude, de la vulnérabilité, 
+du soulagement, de la fierté, etc. La personne qui reçoit un dévoilement peut aussi ressentir une multitude de sentiments : de la 
+surprise, de l’honneur, de l’inconfort, du doute, de la curiosité, de la colère, de l’anxiété, de l’incompréhension, etc. 
+Quelles que soient les émotions que l’on peut ressentir lorsqu’une personne nous dévoile son identité de genre (ou orientation 
+sexuelle), il est essentiel de se rappeler que la personne a besoin de se sentir en sécurité avec son entourage. Il est donc important de 
+créer un espace sécuritaire (voir fiche Espace sécuritaire) pour la personne en prenant conscience et s’informant sur les enjeux trans 
+et en acceptant les identités de toustes. 
+Sources : 
+• Coalition des Familles LGBT. [s.d.]. Le coming out des jeunes gais, lesbiennes et bisexuel.le.s [Dépliant]. Montreal : Coalition des Familles LGBT. Repéré le 4 février, 2020, 
+ au http://www.familleslgbt.org/documents/pdf/CF_LGBT_ComingOut_GuideFR.pdf
+• The Trevor Project. [s.d.]. Coming Out: A Handbook for LGBTQ Young People [Guide]. Repéré le 4 février, 2020, au https://www.thetrevorproject.org/wp-content/uploads/ 
+ 2019/10/Coming-Out-Handbook.pdfACTIVITÉ
+Que lui diras-tu?
+ 
+Matière ciblée : Éthique et culture religieuse, 2e secondaire
+Durée approximative : 60 à 75 min
+Travail individuel et en équipe
+Objectifs pédagogiques : sensibiliser les élèves au dévoilement et au coming out de l’identité de genre; réfléchir à 
+ses propres attitudes envers le dévoilement des personnes trans et non-binaires.
+Tâches : visionner la vidéo The Real Thing (transgender short film) (7 min) disponible sur YouTube. Même si le titre 
+de la vidéo est en anglais, elle ne contient aucune parole. Amener les élèves de la classe à réfléchir sur les compor-
+tements et les émotions qu’iels adopteraient si une personne de leur entourage leur annonçait qu’elle est trans.
+Matériel nécessaire : Lexique, fiche Espace sécuritaire, Annexe Vignette. Un ordinateur, une connexion intérêt et un 
+projecteur.
+Pour accédier à la vidéo : La vidéo est disponible sur YouTube en HD The Real Thing (transgender short film) durée 
+7 min 18 sec ou hébergée par le Gris Montréal sur le lien suivant : https://grismtl.sharepoint.com/:v:/s/Liensex-
+trieurs/ES9Wr_zyWl9NnkWUAH4H8ZcBGSHZFtnhDYNPmLTKOanGaQ?e=JS3IEk
+Cette activité peut être réalisée virtuellement via l’utilisation d’une plateforme de vidéoconférences 
+incluant une option de partage d’écran.
+Attitudes à adopter Attitudes à éviter
+• Démontrer de l’intérêt 
+• Être à l’écoute 
+• Demander par quel pronom la personne qui fait son coming 
+ out veut être identifiée 
+• Demander comment la personne souhaite être soutenue 
+ dans ce processus 
+• Encourager la personne 
+• La remercier de vous faire confiance• « Je le savais »
+• Diminuer ou invalider les émotions de l’autre
+• En parler à d’autres personnes sans le consentement
+• Agir différemment
+• Franchir les limites personnelles de l’autre
+• Présumer les raisons du coming out
+• Remettre en question l’identité de la personne
+
+34 35
+La transphobie, c’est pas mon genre - Activités 2e secondaireActivités 2e secondaire Activités 2e secondaire
+La transphobie, c’est pas mon genre - Activités 2e secondaireDÉROULEMENT 
+1re étape : Intimidation et transphobie 
+(20 min)
+Dresser un portrait des violences vécues par les personnes 
+trans et non-binaires basé sur le contenu de ce guide (voir 
+la section Pourquoi ce guide et le contenu des autres ac-
+tivités). Inviter les élèves à réfléchir sur le concept de 
+transphobie : Qu’est-ce que la transphobie et comment se 
+manifeste-t-elle? Écrire au tableau les idées que les jeunes 
+avancent. Présenter la définition de la transphobie (voir 
+Lexique) et ainsi compléter les réponses des jeunes. 
+Questionner la classe quant aux attitudes et comporte-
+ments à avoir en tant que personne alliée qui soutient les 
+personnes trans et non-binaires. 
+ Quelles actions peut-on faire contre les attitudes 
+ transphobes?
+ Quelles actions peuvent être faites pour soutenir la 
+ personne victime de violence (qui subit la violence)?
+Noter les comportements et attitudes soulevés par la 
+classe. Compléter les réponses des élèves à l’aide de la 
+section Pourquoi ce guide.
+2e étape : Écriture des scénarios 
+(30 min)
+Former des équipes de 3 à 4 personnes. Inviter les équipes à 
+écrire un scénario de 3 minutes présentant une scène d’in-
+timidation à caractère transphobe. Les scénarios devront 
+contenir une scène d’intimidation suivie d’une scène de 
+résolution présentant un comportement ou une attitude que 
+les personnes alliées peuvent adopter pour venir en aide à la 
+victime. La scène de résolution peut par exemple être une 
+confrontation de la personne intimidatrice ou une scène de 
+soutien envers la personne victime d’intimidation. 
+Au besoin, présenter quelques exemples d’intimidation 
+possible pour inspirer les groupes : 
+ Intimidation verbale et physique après les cours 
+ Mégenrage volontaire par ses camarades
+ Utilisation du dead name (voir Lexique)
+ Moqueries liées à l’expression de genre
+ Cyberintimidation 
+3e étape : Présentation des scénarios 
+(50 min)
+Inviter les équipes à venir jouer leur scénario devant la classe. 
+Après chaque présentation, demander à la classe de soulever 
+les points forts du scénario. Rappeler les consignes de base d’un environnement sécuritaire (voir fiche Espace sécuritaire) 
+et souligner qu’il ne s’agit pas d’un exercice évalué sur la qualité 
+du jeu de rôle. À la suite des présentations, demander au reste 
+de la classe d’identifier les comportements et attitudes qui ont 
+été montrés dans le scénario..
+ Quelles sont les émotions représentées dans le 
+ scénario?
+ Comment le scénario est-il venu vous chercher? 
+ Quels sont les comportements et attitudes adoptés 
+ par la personne alliée?
+ Qu’auriez-vous fait différemment dans la scène 
+ que vous venez de voir?
+Suivre les mêmes consignes pour les autres équipes.
+4e étape : Discussion de groupe 
+(20 min)
+Faire un retour en grand groupe. Souligner tous les compor-
+tements et attitudes des personnes alliées que les équipes 
+ont mis de l’avant. Demander aux élèves de réfléchir à leur 
+propres attitudes et comportements à adopter s’iels sont 
+témoins d’intimidation : 
+ Qu’avez-vous retenu de cette activité?
+ Quels comportements et attitudes présentés 
+ aujourd’hui pensez-vous pouvoir adopter dans votre 
+ vie de tous les jours?
+ Comment pouvez-vous être une bonne personne 
+ alliée?
+ Avez-vous d’autres idées de comportements et 
+ d’attitudes que les personnes alliées peuvent adopter? 
+Voici quelques exemples de comportements alliés, pour 
+alimenter la discussion : s’autocorriger lorsqu’on mégenre 
+une personne, intervenir lorsqu’on est témoin de transphobie à 
+l’école (agression physique, verbale ou autres), ne pas alimenter 
+des stéréotypes transphobes à l’encontre des personnes trans 
+et non-binaires, savoir être à l’écoute des personnes trans et 
+non-binaires, etc. 
+Possibilité de suivi : À la suite de à l’activité, les scénarios 
+peuvent être filmés et adaptés dans le but de faire une cam-
+pagne contre l’intimidation à caractère transphobe dans 
+l’école. Ces vidéos peuvent ensuite être présentées lors d’une 
+semaine contre l’intimidation ou autres évènements connexes.ACTIVITÉ
+Scénarios contre 
+la transphobie
+ 
+Matière ciblée : Arts dramatiques, 2e secondaire 
+(ou tout autre niveau à la discrétion de l’enseignant.e)
+Durée approximative : deux périodes de 75 min
+Travail en équipe de 3 ou 4
+Objectifs pédagogiques : développer des comportements et attitudes alliés envers les personnes trans et non- 
+binaires; créer un scénario mettant en scène des solutions contre l’intimidation transphobe.
+Tâches : créer des mises en scène sur le thème de la transphobie et discuter des comportements et attitudes alliés 
+à adopter envers les personnes trans et non-binaires.
+Matériel nécessaire : Lexique, fiche Espace Sécuritaire, Pourquoi ce guide
+Le saviez-vous?
+La grande majorité des personnes trans et non-binaires souligne avoir vécu de la discrimination au cours de leur vie (Kosciw et al., 
+2018; Taylor et al., 2020). Les jeunes issu.es des diversités sexuelles et de genre doivent faire face à des situations stigmatisantes et 
+discriminatoires en lien avec leur orientation ou leur identité (Coker et al., 2010). Ces épisodes de victimisation ont de nombreux 
+impacts sur le bien-être des jeunes trans et non-binaires et se manifestent par la présence de détresse psychologique (Chamberland 
+et al., 2011; Galantino et al., 2017; Taylor et al., 2020; Trans Pulse Canada, 2020).
+La violence verbale : près de la moitié des personnes trans et non-binaire rapportent avoir vécu du harcèlement verbal à cause de 
+leur identité de genre (James et al., 2016).
+La violence physique : environ 9 % des personnes trans et non-binaires disent avoir subi de la violence physique à caractère 
+transphobe (James et al., 2016). 
+Les violences sexuelles : aux États-Unis, près de la moitié des personnes trans et non-binaires rapportent avoir vécu des violences 
+sexuelles au cours de leur vie (James et al., 2016). Au Canada, un quart des personnes trans et non-binaires disent avoir été victimes 
+d’agressions sexuelles (Taylor et al., 2020; Trans Pulse Canada, 2020). 
+Les violences en milieu scolaire : une grande majorité des jeunes LGBTQ+ soulignent avoir vécu du harcèlement et de la violence 
+en lien avec leur identité (Kosciw et al., 2018). Près de la moitié des jeunes trans et non-binaires énoncent qu’iels ne se sentent pas 
+en sécurité dans leur école à cause de leur identité de genre et expression de genre (Kosciw et al., 2018). Les jeunes trans et non- 
+binaires rapportent des expériences et un climat scolaire plus violents que leurs camarades cisgenres (Kosciw et al., 2018).
+36 37
+La transphobie, c’est pas mon genre - Activités 3e secondaireActivités 3e secondaire Activités 3e secondaire
+La transphobie, c’est pas mon genre - Activités 3e secondaire Le saviez-vous? 
+Tout comme les autres langues latines (p. ex. : espagnol, italien, portugais), le français est une langue très genrée, c’est-à-
+dire qu’on dévoile le genre d’une personne par notre grammaire lorsqu’on la désigne, en choisissant des pronoms genrés tels 
+qu’« il » ou « elle » et en adaptant l’ensemble des mots qui entourent cette personne afin qu’ils marquent son genre. 
+Ex. Il est gentil / Elle est gentille
+Ex. Il s’est amusé tout seul / Elle s’est amusée toute seule
+Les pronoms neutres 
+En anglais on peut parfois aussi utiliser des pronoms pour genrer les individus comme « she » ou « he », mais les accords ou 
+adjectifs qui suivent sont neutres.
+Ex. She is happy / He is happy
+Par contre, il existe plusieurs langues qui utilisent majoritairement des pronoms neutres comme certains dialectes turcs, 
+le danois, le suédois et bien d’autres. En anglais, le pronom « they» est aussi utilisé au singulier pour parler d’une personne 
+dont on ne définit pas le genre ou par certaines personnes trans et non-binaires. 
+Ex. John is studying French, they are pretty good at it! 
+En français, plusieurs pronoms ont été créés pour désigner les personnes trans et non-binaires qui ne désirent pas utiliser les 
+pronoms genrés. Il s’agit de néo-pronoms que chaque personne peut choisir, peu importe son genre.
+– iel est un néologisme dont l’utilisation a été soulignée par l’Office québécois de la langue française (OQLF) et le pronom 
+neutre le plus souvent utilisé. Il peut servir pour désigner une personne dont on ne connaît pas le genre.
+– ul et ol sont parfois utilisés par les personnes dont le genre est extérieur aux notions de féminin et de masculin; ille et el 
+sont aussi des pronoms neutres parfois utilisés. La rédaction épicène
+La rédaction épicène vise à assurer un équilibre représentatif entre les genres dans les textes. Elle est également appelée 
+féminisation des textes. La rédaction épicène se manifeste par l’utilisation de formulations neutres (ex : la population 
+québécoise) et de doublets (ex: les Québécoises et Québécois). L’utilisation du pronom iel s’inscrit dans ce concept et 
+permet d’adapter la langue aux réalités des personnes trans et non-binaires. 
+On appelle « adjectifs épicènes » les adjectifs qui ne portent aucune marque de genre et qui sont donc rigoureusement iden-
+tiques au féminin et au masculin, tant oralement que par écrit. Le tableau suivant permet de comparer des adjectifs genrés 
+et épicènes décrivant des idées similaires :
+La rédaction inclusive
+Le doublet abrégé est utilisé pour féminiser des textes afin d’alléger par rapport au doublet simple.
+Ex. d’un doublet : un écrivain ou une écrivaine 
+Ex. d’un doublet abrégé: un.e écrivain.e. / unE écrivainE
+Ex. d’un doublet : Tous et toutes 
+Ex. d’un doublet abrégé: Tous.tes 
+L’OQLF accepte l’utilisation dans ces doublets des indicateurs suivants : majuscule, point médian, barre oblique, trait d’union, 
+virgule, point, parenthèses ou crochets.
+Pour aller plus loin 
+On trouve aussi des contractions de mot – tel que celleux, né de la contraction de celles et ceux, et toustes, né de la contraction 
+de tous et toutes – qui peuvent être employées dans certaines communautés à la recherche d’un langage plus inclusif des 
+diversités de genre. 
+Ex. Nous sommes toustes prêt.es et nous invitons toustes celleux qui souhaitent venir. 
+Si ces termes ne sont pas validés par l’OQLF, ils sont néanmoins de plus en plus utilisés 
+par de nombreuses personnes.Les noms épicènes, tout comme les adjectifs épicènes sont des noms qui ne portent pas de marque de genre, tel que :
+Sources :
+1. Office québécois de la langue française (2018). Dans les coulisses de la langue. Repéré le 4 février 2020, au: http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?id=5421
+2. Benjamin, A. (2017). Le langage neutre en français : pronoms et accords à l’écrit et à l’oral. Repéré le 4 février 2020, au : https://entousgenresblog.wordpress.com/2017/04/19/quels-pro-
+noms-neutres-en-francais-et-comment-les-utiliser/
+3. Divergenres [s.d.]. Règles de grammaire neutre et inclusive. Repéré le 4 février 2020, au : https://divergenres.org/regles-de-grammaire-neutre-et-inclusive/ACTIVITÉ
+Écriture et pronoms neutres
+ 
+Matière ciblée : Français, 3e secondaire 
+Durée approximative : 75 min
+Objectifs pédagogiques : sensibiliser les élèves à l’utilisation des pronoms neutres dans la langue française; créer 
+un personnage de conte non-genré; composer une histoire en prenant conscience du poids du genre dans la gram-
+maire française. 
+Tâches : à l’aide de la rédaction épicène, écrire une histoire présentant un personnage fictif non-genré.
+Cette activité peut être réalisée virtuellement via l’utilisation d’une plateforme de vidéoconférences 
+incluant une option de partage d’écran.Adjectifs genrés Adjectifs épicènes
+Active, Actif Dynamique
+Débutante, Débutant Novice
+Expert, Experte Spécialiste
+Appellation genrée de personnes Appellation épicène de personne
+Ami, amie Camarade
+Équipier, équipière Membre de l’équipe
+Concurrent, concurrente Adversaire
+Suite
+38 39
+La transphobie, c’est pas mon genre - Activités 3e secondaireActivités 3e secondaire Activités 3e secondaire
+La transphobie, c’est pas mon genre - Activités 3e secondaire DÉROULEMENT 
+1re étape : Sensibilisation/Discussion (15 min)
+Ouvrir la discussion à la classe sur le sujet des pronoms neutres à l’aide des questions suivantes :
+ Qu’est-ce qu’un pronom? Lesquels connaissez-vous? 
+ Avez-vous déjà entendu parler de pronoms neutres? Quels pronoms neutres connaissez-vous?
+Noter les réponses au tableau. Combler le contenu des réponses des élèves avec les informations sur les pronoms neutres 
+présentés dans le Saviez-vous. 
+Encourager les élèves à choisir en classe un pronom pour remplacer les pronoms genrés « il» ou «elle». Dans le cas où la 
+classe aurait trouvé plusieurs pronoms, faire un vote à main levée pour déterminer quel pronom sera utilisé par l’ensemble 
+du groupe pour l’exercice. 
+2e étape : Rédaction (45 min)
+Individuellement ou en équipe de 2 ou 3 personnes, demander aux jeunes de rédiger une page de l’histoire (de 300 à 350 mots) 
+d’un personnage sans dévoiler son genre.
+Le personnage devra répondre à un pronom neutre choisi par l’équipe ou l’élève et les accords devront être aussi neutres que 
+possible. Le personnage fictif peut se lancer dans n’importe quelle aventure, réelle, fantastique, dans le passé comme dans le 
+futur, etc. La seule règle concernant l’histoire : le personnage doit être motivé par une bonne action, le personnage doit essayer 
+d’accomplir une action qui aide ou améliore la société ou le monde dans lequel il vit.
+Souligner qu’il ne s’agit pas d’un exercice noté, et que le but principal du travail est de se familiariser avec les pronoms neutres et 
+leur usage. Il n’y a donc pas de bonne ou mauvaise réponse en tant que telle.
+3e étape : Retour en classe (15 min)
+Les équipes qui le désirent peuvent partager leur histoire devant la classe. Encourager la discussion et l’expression des équipes. 
+Demander au groupe comment iels ont trouvé l’activité. Animer une discussion à l’aide des questions suivantes :
+ Quelles sont les étapes que vous avez trouvées les plus difficiles? 
+ Vous sentez-vous plus à l’aise d’utiliser des pronoms neutres? 
+ Que retenez-vous de l’activité?
+Remettre le travail à la personne enseignante qui, à sa lecture, évaluera si les élèves ont adapté leur contenu et leur grammaire au 
+personnage.
+Possibilité de suivi :
+Les histoires peuvent être publiées dans le journal étudiant de l’école ou présentées pour des événements sur la diversité de genre, 
+ce qui peut rendre l’apprentissage significatif à l’extérieur de la classe.
+
+40 41
+La transphobie, c’est pas mon genre - Activités 3e secondaireActivités 3e secondaire Activités 3e secondaire
+La transphobie, c’est pas mon genre - Activités 3e secondaire Le saviez-vous?
+L’identité de genre fait référence à l’expérience intime et personnelle de se sentir comme homme, femme, aucun de ces genres, à 
+deux genres ou à une identité autre, et ce, indépendamment du sexe assigné à la naissance. Toutes les personnes ont une identité 
+de genre.
+L’expression de genre, quant à elle, concerne la façon d’exprimer socialement son identité de genre par le biais de caractéris-
+tiques et de comportements observables par autrui, tels que l’apparence physique, les codes vestimentaires, les codes de langage 
+(p. ex. pronom, prénom), la personnalité ainsi que les autres attributs liés aux genres.1re étape : Réflexion sur l’expression de genre (10 min)
+Expliquer à la classe la notion d’expression de genre (voir Lexique)
+ Que mettez-vous en place, ou quels moyens utilisez-vous pour montrer votre genre? Vêtements, coiffure, centre d’intérêt, 
+ choix de sports, etc.
+(Ex : Tina explique qu’elle aime le vernis à ongles, car cela la fait se sentir plus féminine. Donnez un exemple sur vous si vous 
+vous sentez à l’aise)
+ Pensez-vous que certaines formes ou couleurs aident à affirmer une expression de genre plus féminine ou masculine? 
+ (Sous questions si la classe a besoin d’exemples)
+ - Est-ce que le bleu est une couleur que vous mettriez plus d’un côté que d’un autre? 
+ - Est-ce qu’une forme comme; un cœur ou un triangle peuvent-ils être classés?
+2e étape : Création artistique (45 min)
+Présenter quelques styles de création diversifiés : peinture réaliste, abstraite, cubiste, etc. Exemples de quelques artistes classiques 
+adeptes de couleurs : Kandinsky, Dali, Pollock, etc.
+À l’aide de la réflexion précédente, inviter les élèves à créer des œuvres d’art que ce soit à l’aide de peinture, de dessin, ou de 
+collage. Le matériel de création doit être le plus varié possible. L’œuvre d’art en question doit représenter leur identité de genre 
+et leur expression de genre. Les thèmes seront en lien avec l’imagerie mentale qu’iels ont de leur conception de la féminité, de la 
+masculinité et de l’androgynie. 
+Soyez attentif aux réactions des élèves qui pourraient ne pas se sentir confortables à l’idée de dévoiler leur identité de genre. 
+Ne pas forcer les jeunes qui ne sont pas prêt.es à faire l’activité et accompagner les jeunes s’iels ne veulent pas se dévoiler. 
+Faire références aux ressources disponibles pour les jeunes mentionnées dans ce guide.
+3e étape : Présentation des œuvres au groupe (20 min)
+Effectuer un retour en classe où les élèves, sur base volontaire, peuvent présenter leur œuvre d’art devant la classe. Rappeler 
+qu’il s’agit d’un espace sécuritaire (voir fiche Espace sécuritaire) et qu’aucune moquerie ne sera tolérée. Demander aux élèves 
+d’expliquer leur choix de couleur et de représentation. Souligner la diversité dans l’ensemble des œuvres en affirmant que la réalité 
+et l’expression de genre de chaque personne sont uniques. Valider l’expression et les œuvres de chaque élève.
+Possibilité de suivi :
+Les œuvres des personnes volontaires peuvent être affichées dans les corridors de l’école ou présentées pour des événements sur 
+la diversité de genre, ce qui peut rendre l’apprentissage significatif à l’extérieur de la classe.
+Sources : 
+• The Trevor Project. [s.d.]. Coming Out: A Handbook for LGBTQ Young People [Guide]. Repéré le 4 février, 2020, au https://www.thetrevorproject.org/wp-content/uploads/2019/10/Coming- 
+ Out-Handbook.pdfDÉROULEMENT ACTIVITÉ
+Le genre en couleur
+ 
+Matière ciblée : Arts, 3e secondaire (ou tout autre niveau 
+à la discrétionde l’enseignant.e)
+Durée approximative : 75 min
+Travail individuel
+Objectifs pédagogiques : amener les jeunes à prendre conscience de la notion d’expression de genre et à explorer 
+la notion d’expression de genre.
+Tâches : Sur supports libres, présenter leur vision du genre ou de l’expression de genre à travers l’utilisation de 
+couleurs, à l’aide de différents médiums libres (dessin, peinture, ou collage).
+Matériel nécessaire : grande feuille de dessin, matériel de collage (ciseaux, colle, magazines, etc.), crayons de 
+couleur, peintures et pinceaux, Lexique, fiche Espace sécuritaire.
+
+42 43
+La transphobie, c’est pas mon genre - Activités 3e secondaireActivités 3e secondaire Activités 3e secondaire
+La transphobie, c’est pas mon genre - Activités 3e secondaire DÉROULEMENT (RÈGLES DU JEU) ACTIVITÉ
+Quiz-relais !
+ 
+Matière ciblée : Éducation physique, 3e secondaire
+Durée approximative : 60 min
+Travail en équipe
+Objectifs pédagogiques : Présenter quelques définitions et statistiques afin d’aider la classe à avoir un portrait 
+global concernant certaines réalités vécues par des personnes trans et non-binaires.
+Connaissances préalables : les élèves doivent avoir une base de connaissances préalables sur les concepts liés à 
+l‘identité de genre. Cette activité-jeu pourrait être une bonne activité de suivi pour une classe ayant déjà eu une 
+intervention du GRIS sur l’identité de genre, un cours d’éducation à la sexualité traitant des identités de genre ou 
+ayant fait d’autres activités de ce guide (Activité générale La licorne du genre).
+Tâches : participer à une course de type relais tout en jouant à un quiz. 
+Matériel nécessaire : un gymnase ou une piste de course extérieure et un tableau pour les pointages. Se munir du 
+Lexique est fortement conseillé pour répondre aux potentielles questions des élèves.
+Le jeu est un quiz sous forme d’une course de vitesse de type relais. 
+Diviser la classe en équipes de 4 et laisser les jeunes choisir leur nom d’équipe. Chacune des équipes envoie 2 personnes 
+courir à tour de rôle par question. Toutes les personnes de l’équipe doivent courir au moins une fois pour leur équipe. Les 
+réponses aux questions se choisissent en équipe et sont transmises verbalement à la personne « relais » qui viendra énoncer 
+la réponse pour son équipe. 
+Lire deux fois la question et les réponses proposées. Laisser quelques secondes afin que les personnes des équipes se 
+concertent pour choisir leur réponse. Au coup de sifflet, une personne de chaque équipe court le plus rapidement possible à 
+l’autre bout de la piste et transmet oralement la lettre de la réponse (ex : réponse A) à son ou sa coéquipier.ère, qui revient 
+avec la réponse. 
+À la ligne d’arrivée, demander les réponses de chacune des équipes. Attention, noter la première équipe arrivée pour le 
+pointage. Indiquer la bonne réponse et répondre aux questions des élèves au besoin. Inscrire le pointage des équipes sur un 
+tableau blanc. 
+Expliquer, ni nécessaire, les réponses des questions au fur et à mesure.
+ Bonne réponse : +2 points par équipe
+ Première équipe arrivée : +1 point pour l’équipe
+Répéter le processus jusqu’à la fin des questions. En cas d’égalité, départager les équipes à l’aide de la question BONUS.QUESTIONS DU QUIZ
+1. Le sexe* et le genre* sont la même chose.
+2. Mégenrer*, c’est le fait de faire référence, intentionnellement ou non, à une personne 
+ avec une étiquette ou un pronom qui ne colle pas avec son identité de genre.
+3. Lequel de ces mots est une orientation sexuelle?
+4. Une personne non-binaire* est une personne qui ne s’identifie ni comme homme ni comme femme, 
+ comme les deux, ou comme toutes autres combinaisons des deux.
+5. Au Québec, toutes les personnes citoyennes trans et non-binaires doivent avoir recours à des 
+ chirurgies pour changer de genre légalement.
+6. L’expression de genre* et l’identité de genre* ne sont pas la même chose.a. Vrai
+a. Vraia. Vrai
+a. Vraia. Vrai
+a. Cisgenre*b. Faux
+b. Fauxb. Faux
+b. Fauxb. Faux, c’est en rapport avec l’orientation sexuelle.
+b. Pansexualitéc. Faux, mégenrer ne peut être qu’intentionnel.
+c. Transgenre*
+Depuis 2015 au Québec, toutes personnes citoyennes canadiennes dont l’identité de genre ne correspond 
+pas à son sexe assigné à la naissance peut faire changer sa mention dans son certificat de naissance sans avoir 
+recours à une chirurgie ou autre traitement médical. Il est aussi possible de changer son prénom.Pansexuelle réfère à une personne dont l’attirance émotionnelle, romantique et/ou physique 
+va vers des individus de tous genres et sexes, étant capable d’être attirée par plusieurs genres. 
+Parfois le terme omnisexuel est utilisé comme synonyme. Pansexuel est utilisé de plus en plus 
+fréquemment depuis que davantage de personnes considèrent que le genre n’est pas binaire. 
+Ce terme est souvent inclus sous le parapluie de la bisexualité.
+Suite
+Voir Lexique
+44 45
+La transphobie, c’est pas mon genre - Activités 3e secondaireActivités 3e secondaire Activités 3e secondaire
+La transphobie, c’est pas mon genre - Activités 3e secondaire 7. Que signifie le Q dans LGBTQ+?
+9. Une personne s’identifiant comme femme, qui est aussi assignée femme à la naissance est une...
+10. Une personne qui n’a aucun genre est :
+11. Toutes les personnes trans doivent ressentir de la dysphorie de genre* pour être réellement trans.15. Toutes les personnes transgenres souhaitent avoir recours à des interventions chirurgicales.12. Selon toi, combien de personnes trans se sentent en sécurité à l’école ?
+8. Qu’est-ce que la transphobie*?
+13. Les personnes non-binaires ne peuvent pas s’identifier comme trans.
+14. Les luttes pour la défense des droits des personnes trans et non-binaires sont toujours actives de 
+nos jours.a. Queer*
+a. Femme cisgenre*
+a. Asexuelle
+b. Fauxb. Fauxb. Environ 60 %
+a. Les violences verbales à l’égard des personnes trans et non-binaires.
+a. Vrai, être non-binaire et être trans sont deux identités complètement séparées.
+a. Vrai, être non-binaire et être trans sont deux identités 
+ complètement séparées.b. En questionnement*
+b. Femme transgenre*
+b. Aromantique
+a. Vraia. Vraia. Environ 80 %
+c. Environ 30 %
+b. Les violences physiques à l’égard des personnes trans et non-binaires.c. Les deux
+c. Femme pansexuelle
+c. Agenre*c. Toutes formes de violence et discriminations systémiques faites à l’égard des personnes trans et non-binaires.b. Faux, les personnes non-binaires peuvent s’identifier comme trans.
+b. Faux, les personnes trans et non-binaires ont déjà des 
+ droits équitables par rapport aux personnes cisgenres*.Qu’est-ce que la discrimination systémique? La discrimination systémique découle de politiques, pratiques et 
+comportements qui font partie des structures sociales et administratives d’une organisation et dont l’ensemble 
+crée ou perpétue une situation désavantageuse pour un groupe de personne.
+Ex : Une loi interdisant à une personne d’exercer un emploi en raison de son orientation sexuelle, de son identité 
+ de genre, de sa couleur de peau, etc. 
+Ex : Les contrôles d’identité plus fréquents envers les personnes noires
+Ex : Plus grande difficulté d’accès à l’emploi ou à des emplois à haute responsabilité pour les femmes.Seulement 64 % des jeunes personnes trans se sentent en sécurité à l’école, selon les résultats 
+de l’enquête canadienne sur la santé des jeunes trans et non-binaires (Taylor, et al. 2020).
+Luttes trans et non-binaires aujourd’hui : À Montréal, à 
+Toronto, à New York, à Paris et ailleurs dans le monde, 
+des marches et manifestations pacifistes sont organisées 
+annuellement afin de célébrer les diversités de genre 
+et donner de la visibilité aux personnes trans et non- 
+binaires. Ces marches sont aussi l’occasion de mobiliser 
+les médias afin de faire le point sur les revendications en 
+cours. Beaucoup d’organismes travaillent encore active-
+ment à l’accès à des droits équitables pour les personnes 
+trans et non-binaires.
+Question bonus : Toutes les personnes trans et non-binaires savent qu’elles sont trans ou non-binaire 
+depuis l’enfance.
+a. Faux, trans ou non-binaire, on peut le découvrir à n’importe quel moment de sa vie
+b. Vrai, elles le savent depuis toujours
+c. Seules les personnes trans le savent depuis l’enfance.
+Voir Lexique Voir Lexique
+46 47
+La transphobie, c’est pas mon genre - Activités 4e secondaireActivités 4e secondaire Activités 4e secondaire
+ La transphobie, c’est pas mon genre - Activités 4e secondaire1re étape : Présentation des réalités trans et non-binaires et formation des équipes 
+(1re période)
+Utiliser le Lexique et le contenu de ce guide (incluant Pourquoi ce guide et fiche Espace sécuritaire) afin de présenter les 
+réalités des personnes trans et non-binaires. 
+Encourager les jeunes à poser des questions de clarification. Offrir des réponses claires et basées sur le contenu du guide 
+pédagogique.
+Présenter des modèles de campagnes de sensibilisation (voir annexe Campagne Fondation Emergence). Présenter des 
+exemples de dépliants informatifs (voir annexe Dépliant Coalition des familles LGBT+) afin de visualiser plus clairement le 
+contenu du travail. 
+Présenter le projet de l’activité, c’est-à-dire la création d’un dépliant informatif sur une des dimensions des réalités trans 
+et non-binaires. Présenter les consignes du travail (voir modèle en annexe): maximum 3 pages de contenu soutenu par de 
+sources fiables (articles, organisme LGBTQ+, etc.) + une page de présentation. Former des équipes de 4 à 5 personnes.
+Énoncer les sujets possibles : 
+ DÉROULEMENT ACTIVITÉ
+Dépliants de sensibilisation
+ 
+Matières ciblées : Science et technologie, Français, Éthique et culture, 
+Art; 4e secondaire
+Durée approximative : quatre périodes de 75 min 
+Travail en groupe
+Objectifs pédagogiques : sensibiliser les jeunes aux différentes réalités en lien avec la diversité de genre; créer un 
+matériel de sensibilisation sous forme de dépliant informatif sur les enjeux trans et non-binaires. 
+Connaissances préalables : une activité parmi l’activité générale La licorne du genre.
+Tâches : créer un dépliant informatif visant à sensibiliser le public sur les enjeux des réalités des personnes trans 
+et non-binaires. 
+Matériel nécessaire : 
+ Structure AIDA (Annexe)
+ Proposition de projet (Annexe)
+ Grille d’évaluation (Annexe)
+ Modèle de dépliant informatif (Annexe) Exemples de brochures (Annexe)
+ Accès à des ordinateurs et à une connexion internet
+ Lexique, Pourquoi ce guide, fiche Espace sécuritaire
+ La diversité des identités de genre 
+ Les différentes dimensions du genre : identité de genre, 
+ expression de genre, etc.
+ Les mythes et réalités des personnes trans et non- 
+ binaires
+ La transphobie : les violences vécues par les personnes 
+ trans et non-binaires (possibilité de cibler un milieu/ 
+ domaine : sport, milieu scolaire ou autre) L’évolution des droits des personnes trans et non-binaires
+ L’impact de la transphobie sur le bien-être des jeunes 
+ à l’école
+ Les facteurs de protection et résilience des personnes 
+ trans et non-binaires
+Présenter le modèle de dépliant informatif en annexe. Présenter la structure AIDA (voir annexe Structure AIDA) et souligner 
+les étapes AIDA dans la création du dépliant.2e étape : Choix du sujet et recherche (2e période)
+Inviter les équipes à discuter et à choisir un des sujets proposés. Encourager les équipes à entamer une réflexion sur des façons de 
+sensibiliser et d’informer le public sur le sujet. 
+Inviter les jeunes à réfléchir quant à l’action qu’iels veulent amener par le biais de leur dépliant informatif, par exemple : diminuer le 
+niveau d’intimidation dans les écoles, encourager les personnes à ne pas juger les autres, etc. Les inviter à se prononcer sur quelles 
+valeurs iels veulent promouvoir, par exemple : l’inclusion, la bienveillance, l’acceptation, l’accessibilité, la compassion, la diversité, 
+etc. Remplir avec les équipes le document Proposition de projet, qui permettra à l’enseignant.e de donner son approbation sur le 
+sujet choisi.
+Encourager les jeunes à utiliser les ordinateurs mis à leur disposition afin d’entamer leur recherche sur le sujet. Répondre aux 
+questions des équipes si elles en ont. Vérifier avec les équipes le contenu de l’information trouvée à l’aide de la grille d’évaluation. 
+Lorsque le contenu est vérifié et complet, encourager les équipes à réfléchir sur leur présentation. 
+3e étape : Création du dépliant (3e période)
+Présenter l’outil Canva, disponible en ligne gratuitement, aux équipes pour la création des dépliants. Utiliser l’option « Brochure » 
+pour créer les dépliants. Familiariser les équipes avec l’outil en question. Encourager les équipes à faire preuve de créativité et 
+d’imagination dans la création du visuel. Laisser les jeunes travailler sur leur projet tout en répondant à leurs questions au besoin. 
+Une fois la création du dépliant terminée, enregistrer le document et garder une copie afin de le présenter à la prochaine période.
+4e étape : Présentation des dépliants informatifs et discussion en classe (4e période)
+Inviter les équipes à présenter leur dépliant devant le reste de la classe en le projetant sur un écran. Discuter en groupe du travail de toutes les 
+équipes à l’aide des questions suivantes: 
+ Où pouvons-nous retrouver ce genre de document informatif? 
+ Qu’avez-vous le plus apprécié dans l’exercice? 
+ Quelle a été l’étape la plus difficile selon vous?
+ Quelles informations auriez-vous voulu ajouter dans votre dépliant? 
+ Comment pensez-vous que ce dépliant sera utile pour les autres?
+ À qui ce dépliant pourrait-il être utile? Qui serait le public cible et pourquoi?
+ Seriez-vous intéressé.es à ce que votre document soit diffusé dans l’école? Par exemple dans le bureau de votre travailleur.e social.e, etc.
+Évaluer le travail grâce à l’annexe Proposition de grille d’évaluation.
+Possibilité de suivi :
+Avec l’accord des étudiant.es, faire imprimer les dépliants informatifs et les partager dans l’école, par exemple dans le bureau de la 
+personne infirmière/travailleur.e social.e, la salle du personnel enseignant, les aires communes, ou pendant des événements sur la 
+diversité de genre, afin de rendre l’apprentissage significatif à l’extérieur de la classe.
+48 49
+La transphobie, c’est pas mon genre - Activités 4e secondaireActivités 4e secondaire Activités 4e secondaire
+ La transphobie, c’est pas mon genre - Activités 4e secondaireACTIVITÉ
+Pay it no mind
+ 
+Matières ciblées : Anglais; Histoire; 4e Secondaire
+Durée approximative : 60 – 75 min
+Travail collectif
+Objectifs pédagogiques : présenter aux jeunes l’histoire de la communauté LGBTQ+ ainsi que les enjeux liés à ces 
+réalités dans le processus d’acquisition de droits.
+Tâches : regarder les film Pay It No Mind sur la vie de Marsha P. Johnson puis discuter de la compréhension du fim 
+avec la classe.
+Matériel nécessaire : Accès à un projecteur, un ordinateur et un accès internet. 
+Pour accéder à la vidéo : la vidéo est disponible sur la plateforme YouTube : Pay It No Mind - The Life and Times of 
+Marsha P. Johnson (55 min 30 sec) ou hébergée par le GRIS-Montréal : https://grismtl.sharepoint.com/:v:/s/Lien-
+sextrieurs/EREGcPr_sVJMpHBdV5IhYCMB1zHr_THo8-Q9rPftxf9uKw?e=TZbt1l
+Cette activité peut être réalisée virtuellement via l’utilisation d’une plateforme de vidéoconférences 
+incluant une option de partage d’écran.
+Saviez-vous?
+Évolution des droits des personnes trans et non-binaires au Québec
+ Depuis le 10 juin 2016, la Charte des droits et libertés de la personne du Québec interdit la discrimination fondée sur l’identité 
+ et l’expression de genre.
+ Depuis 2015, toute personne citoyenne canadienne dont l’identité de genre ne correspond pas à son sexe assigné à la naissance 
+ peut faire changer sa mention dans son certificat de naissance sans avoir recours à une chirurgie ou autre traitement médical. Il 
+ est aussi possible de changer de prénom. Les personnes non-citoyennes n’ont, par contre, pas accès au changement de mention 
+ de sexe et au changement de prénom.
+- La demande d’une personne de moins de 14 ans doit être présentée par ses parents. La demande d’une personne de 
+ 14 ans ou plus peut être présentée par la personne elle-même.
+ Depuis 2009, le régime d’assurance maladie du Québec couvre plusieurs chirurgies d’affirmation de genre.
+En France
+ En France, jusqu’au 18 novembre 2016, les personnes trans devaient subir une stérilisation obligatoire pour avoir le droit de changer de 
+ mention de sexe à l’état civil. La loi actuelle a aboli cette pratique, mais oblige par contre à passer devant un tribunal pour se 
+ prévaloir de ce droit. 
+ En 2017, la France a été reconnue coupable par la Cour européenne des droits de l’homme de continuer à forcer les personnes 
+ trans à devoir subir les chirurgies de stérilisation pour pouvoir faire changer leur mention de sexe à l’état civil. 
+Dans le domaine de la santé 
+ En 2013, l’Association américaine de psychiatrie a retiré le trouble d’identité de genre du DSM-V (Manuel diagnostique et 
+ statistique des troubles mentaux). Le diagnostic de dysphorie de genre a été ajouté pour les personnes trans et non-binaires 
+ éprouvant une détresse clinique significative associée à leur identité. L’Association américaine de psychiatrie a souligné que la 
+ non-conformité au genre n’est pas un trouble mental en tant que tel.Les évènements de Stonewall et du Sex Garage
+À la suite à une descente policière de la police de New York le 28 juin 1969 dans le bar Stonewall Inn à New York, des affrontements 
+violents entre la police et les personnes LGBTQ+ se déroulent pendant les 6 jours suivants. Ces émeutes sont devenues le symbole 
+du militantisme pour les droits des personnes de diversités sexuelles et de genre à travers le monde. De ces événements est né le 
+mouvement de « fierté gaie », symbolisé aujourd’hui par des événements annuels dans plusieurs régions du monde, comme des 
+marches, manifestations, ou festivals. Ces manifestations ont permis d’attirer l’attention des médias afin de revendiquer des droits 
+égalitaires pour les personnes homosexuelles. 
+Ces émeutes ont eu des effets jusqu’au Canada, menant à l’apparition du Front de libération homosexuel en 1971. Cette association 
+a vite été dissoute suite à une forte répression policière.
+À cette époque, des descentes policières ont eu lieu au Québec dans les établissements fréquentés par la communauté gaie. Le 
+21 octobre 1977, plus de 200 personnes LGBTQ+ se sont fait arrêter au bar Truxx, à Montréal. L’Association pour les droits des 
+gai(e)s du Québec (ADGQ) a par la suite organisé une manifestation réclamant la fin de la répression policière, qui a mené à 
+l’organisation de la première semaine de la fierté gaie, organisée par l’ADGQ en 1979, comme le rappelle dans un article du journal 
+Le Devoir Line Chamberland, titulaire de la Chaire de recherche sur l’homophobie de l’UQAM. En 1990, suite à une autre descente 
+policière violente au Sex Garage, la communauté est de nouveau mobilisée. Les manifestations ayant suivi ces évènements ont fait 
+avancer la lutte des droits pour les personnes LGBTQ+ au Québec et mené en 1993 à la création de Divers/Cité, festival de la fierté 
+LGBT, puis à la fondation en 2007 de Fierté Montréal. 
+Marsha P. Johnson et la lutte pour les droits des personnes trans 
+Marsha P. Johnson est performeuse drag queen transgenre et militante emblématique des luttes LGBTQ+. À New York, des 
+années 1960 jusqu’à son décès en 1992, elle a été une militante active dans les luttes pour les droits des personnes homosexuelles, 
+des personnes trans, des personnes vivant avec le VIH et des travailleur.ses du sexe. Elle a été dans les premières lignes des émeutes 
+du Stonewall Inn. Elle fonde le STAR (Street Transvestite Action Revolutionaries) au début des années 1970 avec son amie Sylvia 
+Riviera. Leur plus grande fierté sera d’avoir mis en place le premier refuge pour jeunes personnes trans en difficulté. 
+Sources : 
+• American Psychatric Association (2016). Gender dysphoria. Repéré le 14 février 2020, au https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria
+• https://www.educaloi.qc.ca/nouvelles/de-nouveaux-droits-pour-les-personnes-trans
+• Germain, L. (2017). Droits des transgenres : la France condamnée par la Cour européenne des droits de l’Homme. Repéré le 14 février 2020, au https://www.lefigaro.fr/actualite-
+france/2017/04/06/01016-20170406ARTFIG00165-droits-des-transgenres-la-france-condamnee-par-la-cour-europeenne-des-droits-de-l-homme.php
+• Maxouris, C. (2019). Marsha P. Johnson, a black transgender woman, was a central figure in the gay liberation movement. Repéré le 24 avril 2020, au https://www.cnn.com/2019/06/26/us/
+marsha-p-johnson-biography/index.html
+• Saint Pierre, C. (2019). « Revenir aux sources de Stonewall ». Le Devoir. https://www.ledevoir.com/societe/557658/revenir-aux-sources-de-stonewall
+• Radio-Canada (2017). 40e de la descente policière du bar Truxx : un tournant pour les droits des homosexuels. Repéré le 23 mars 2020, au https://ici.radio-canada.ca/nouvelle/ 
+1062535/40e-de-la-descente-policiere-du-bar-truxx-un-tournant-pour-les-droits-des-homosexuels
+• Lafontaine, Y. et Burnett, R. (2019). « Je me souviens... Sex Garage, le « Stonewall Inn » de Montréal. » Fugues. Repéré le 27 mars, 2020, au https://www.fugues.com/253575-article- 
+sex-garage-le-stonewall-de-montreal.html
+Suite
+
+50 51
+La transphobie, c’est pas mon genre - Activités 4e secondaireActivités 4e secondaire Activités 4e secondaire
+ La transphobie, c’est pas mon genre - Activités 4e secondaire1re étape : Visionnement (45 min)
+Présenter le contexte historique des évènements de Stonewall avec le contenu mentionné dans le Saviez-vous.
+Visionner le documentaire Pay It No Mind - The Life and Times of Marsha P. Johnson (55 min). Mettre les 
+sous-titres selon le niveau des élèves. Commencer le film à 23 min (temps de visionnement restant : 31 min).
+Avant le visionnement, donner les questions de la 2e étape aux élèves, afin qu’ils puissent prendre des notes s’iels 
+le souhaitent. 
+2e étape: Retour en classe (20 min)
+Animer une discussion autour du film à l’aide des questions suivantes :
+ À quelle époque et où se passe le film? 
+ En quelques adjectifs, pouvez-vous décrire qui était Marsha P. Johnson? 
+ Qui était Sylvia Rivera par rapport à Marsha P. Johnson?
+ Quel a été le plus grand accomplissement du STAR selon Marsha et Sylvia?
+ Pensez-vous que l’homophobie et la transphobie ont disparu aujourd’hui?
+ Quelles célébrations LGBTQ+ connaissez-vous? 
+Si l’activité se donne dans un cours d’anglais, animer la discussion en anglais en traduisant les questions. Encourager les 
+jeunes à répondre en anglais.
+Compléter les informations présentées par les élèves avec le contenu présenté plus haut dans le Saviez-vous. Présenter la 
+situation actuelle de la lutte des droits des personnes trans et non-binaires.DÉROULEMENT 
+Marche pour les droits des personnes trans, Montréal (2019)
+Manifestion Existrans, Paris (année inconnue)
+ Manifestation Existrans, Paris (année inconnue)Devanture du Stonewall Inn, New Y ork (1969)
+Marche de la Fierté (lgbt), Montréal (2019)
+52 53
+La transphobie, c’est pas mon genre - Activités 5e secondaireActivités 5e secondaire Activités 5e secondaire
+La transphobie, c’est pas mon genre - Activités 5e secondaireDÉROULEMENT PROPOSÉ
+Le saviez-vous?
+Le terme « mégenrer » représente l’action de faire référence à une personne trans ou non-binaire en utilisant un nom, des pronoms, 
+une formule de salutation qui ne reflète pas l’identité de genre de la personne.
+Le mégenrage peut avoir des conséquences négatives sur la confiance en soi et le sentiment de sécurité d’une personne trans ou 
+non-binaire, et plus globalement sur sa santé mentale. Pour beaucoup de personnes trans, le changement de pronoms fait partie 
+d’un processus d’affirmation dans le parcours de transition. Ce changement peut aider les personnes trans et non-binaires et les 
+personnes de leur entourage à voir cette personne selon son genre ressenti.
+Cisgenre ou transgenre, tout le monde a une identité de genre et peut être susceptible de se faire mégenrer. Il est donc important 
+de faire attention afin de ne blesser personne ! 
+Bien qu’il puisse sembler malaisant de demander les pronoms choisis d’une personne lorsqu’on a un doute, il est totalement normal 
+de se sentir ainsi la première fois. En revanche, cela sera apprécié par la personne à qui on le demande, plutôt que de la mégenrer. 
+Mais comment le demander? On le fait de la même manière qu’on demanderait le prénom d’une personne qu’on aurait oublié ou 
+mal entendu. On peut également choisir de présenter ses propres pronoms pour ensuite demander les pronoms de la personne 
+concernée. Par exemple: « Salut, mon nom est Thomas et mes pronoms sont il/they. Et toi? ».Qu’est-ce qu’un pronom ? 
+En grammaire française, le pronom est un mot-outil variable dont le rôle principal est de se substituer à un élément 
+quelconque, linguistique ou non. On parle ici spécifiquement des pronoms personnels tel que : il et elle qui, par leur 
+utilisation, marquent le genre du sujet désigné. Il existe aussi des pronoms personnels neutres tels que : iel, ielle, ul, ol et 
+bien d’autres.1re étape : Lecture des portraits (20 min)
+Inviter les élèves à lire les 3 ou 4 portraits présentés en annexe. Choisir des portraits présentant diverses identités de genre : 
+femme trans, homme trans, et personne non-binaire. Prendre le temps de clarifier avec la classe certains termes qui seraient 
+encore flous (exemples : transition, se faire mégenrer, transphobie, etc.). Utiliser le Lexique au besoin.
+2e étape : Réflexion sur les cas présentés (20 min)
+Former des équipes de 3 à 4 personnes afin de travailler sur les questions suivantes : 
+ Dans les portraits que vous avez lus, quelles personnes ont été déjà mégenrées? 
+ Quels ont été les impacts du mégenrage sur les personnes qui l’ont subi? 
+ Quels émotions et sentiments sont reflétés dans les textes?
+3e étape : Retour (20 min)
+Discuter en grand groupe sur l’importance d’utiliser les pronoms choisis d’une personne à l’aide des questions suivantes :
+ À votre avis, utiliser correctement les pronoms d’une personne fait-il une différence? Et comment?
+ Quelles étapes pouvez-vous entreprendre pour connaitre et utiliser correctement les pronoms?
+ Que feriez-vous si, accidentellement, vous mégenriez une personne?
+Inviter les élèves à réfléchir sur les mesures qu’iels peuvent mettre en place pour assurer un meilleur respect des pronoms et de 
+l’identité de genre des personnes dans leur école. Proposer quelques solutions si les élèves ont besoin d’inspiration tel que : 
+ Présenter nos noms et pronoms lorsque nous faisons de nouvelles rencontres
+ Faire un espace pour afficher les pronoms sur les feuilles de devoir et les étiquettes nominatives
+ Corriger les personnes lorsque l’on est témoin de mégenrage
+ Avoir des affiches ou des dépliants sur les pronoms à l’école
+Possibilité de suivi :
+Implanter et intégrer dans votre cours les idées des jeunes présentées lors de la discussion de groupe.ACTIVITÉ
+Histoires de personnes trans
+ 
+Matière ciblée : Géographie-Histoire, Éthique et Culture, Français; 5e secondaire
+Durée approximative : 60 min
+Travail en groupe
+Objectifs pédagogiques : développer la sensibilité des élèves vis-à-vis des conséquences du mégenrage 
+Tâches : lire des portraits (voir annexe Portraits) et réfléchir ensemble autour de l’impact du mégenrage et de la 
+perception du genre des personnes trans et non-binaires.
+Matériel nécessaire : Annexes Portraits
+
+54 55
+La transphobie, c’est pas mon genre - Activités 5e secondaireActivités 5e secondaire Activités 5e secondaire
+La transphobie, c’est pas mon genre - Activités 5e secondaireDÉROULEMENT PROPOSÉ Le saviez-vous?
+Parlons de privilèges !
+Selon l’Institut de recherche, d’étude et de formation sur le syndicalisme et les mouvements sociaux (IRESMO, 2017), le privilège 
+social désigne « un effet systémique par lequel un individu a accès plus facilement à des ressources que d’autres individus qui eux ne 
+sont pas privilégiés ».
+Le privilège n’est pas nécessairement intentionnel : « la personne qui bénéficie d’un privilège n’en a pas nécessairement conscience » 
+(IRESMO, 2017). Il s’agit d’un effet systémique. 
+Ex : Un homme blanc rencontrera beaucoup moins de difficulté à l’embauche dans un poste à responsabilité qu’une femme noire.
+Le privilège social n’est pas seulement économique. Comme le mentionne l’IRESMO (2017), les privilèges sociaux peuvent être liés 
+« au sexe, au genre et à la sexualité, à la situation de [capacité] et de santé mentale, à l’origine ethno-raciale ». Une personne peut 
+donc être en situation privilégiée sur un plan et être non-privilégiée dans un autre. 
+Et l’intersectionnalité?
+La notion de privilège est souvent associée à celle d’intersectionnalité. Le concept d’intersectionnalité a été développé par des 
+groupes militants afro-américains et féministe. La juriste afro-américaine Kimberlé Williams Crenshaw l’a par la suite documenté 
+dans ses recherches en 1989 afin de « parler plus spécifiquement de la réalité des femmes noires qui subissaient à la fois les effets 
+du sexisme et ceux du racisme » (Office québécois de la langue française, 2019). 
+L’intersectionnalité est basée sur trois grands concepts, selon le Comité québécois Femme et Développement (CQFD, s.d.) : 
+1) « les différentes oppressions sont vécues simultanément et ne sont pas dissociables les unes des autres »; 2) « les systèmes 
+d’oppression s’alimentent et se construisent mutuellement tout en restant autonomes »; 3) « les systèmes doivent donc être 
+combattus simultanément et ne doivent pas être hiérarchisés ».
+Ex. Une femme arabe avec un handicap physique.
+Cette personne pourra subir des discriminations en raison de son genre, de ses origines ethniques, de sa culture et à cause de son 
+handicap. Ceci simultanément ou séparément. 
+Ex. Un homme gai blanc et un homme gai asiatique. 1re étape : Réflexion sur ce qu’est un privilège (15 min)
+Inviter les élèves à discuter sur la définition d’un privilège dans notre société. Noter au tableau les définitions d’un privilège 
+présentées par les élèves. Compléter les informations des élèves en donnant la définition d’un privilège. 
+Inviter les élèves à trouver des exemples de privilèges. Inviter les élèves à réfléchir sur l’impact de ces privilèges dans notre 
+vie quotidienne.
+Rappeler si nécessaire les termes : cisgenre, transgenre, identité.
+2e étape : La marche des privilèges (10 min)
+Distribuer les fiches de personnages à la classe. Laisser quelques minutes pour qu’iels prennent connaissance des personnages. 
+Demander à 8 élèves volontaires de s’aligner à une extrémité de la pièce en tenant dans leur main un morceau de ruban adhésif 
+avec le nom de leur personnage et leur fiche. 
+Lire les instructions et les énoncés à voix haute. Les élèves doivent faire un pas pour chaque énoncé qui s’applique à leur person-
+nage. Les numéros des énoncés sont notés à côté des caractéristiques de leur personnage. Les élèves doivent essayer de ne pas 
+trop regarder autour d’elleux pendant l’exercice, de ne pas communiquer entre elleux et de ne pas commenter les affirmations 
+entre elleux pendant la durée de cette partie de l’activité. 
+Si des élèves ne sont pas certain.es de comprendre les énoncés ou ne sont pas sûrs d’elleux, iels peuvent rester sur place.ACTIVITÉ
+Marche des privilèges
+ 
+Matière ciblée : Art dramatique, Éthique et culture; 5e secondaire
+Durée approximative : 60-75 min
+Objectifs pédagogiques : présenter la notion de privilège et prendre conscience de ses propres privilèges; discuter 
+en groupe de l’intersectionnalité et de l’impact des identités dans la vie quotidienne. 
+Tâche : participer à l’exercice de la marche des privilèges et se questionner quant à l’impact de ces derniers.
+Matériel nécessaire : ruban adhésif papier (type ruban à peinture, remplaçable au besoin par un carré de papier 
+et du ruban adhésif), Annexes Fiches de personnages imprimées pour toustes les élèves. À faire idéalement dans la 
+cour de récréation ou dans un grand espace, afin que les élèves aient de la place autour d’elleux.Le premier pourrait subir des discriminations parce qu’il est gai. Le deuxième pourrait subir des discriminations parce qu’il est gai, 
+parce qu’il est asiatique, parce qu’il est gai et asiatique. 
+L’intersectionnalité met en évidence que nous ne pouvons pas considérer seulement les différences d’un individu séparément, mais 
+qu’elles forment bien un tout qui expose cet individu à un vécu propre à lui-même et à des oppressions spécifiques à sa réalité. 
+Pour aller plus loin...
+Pour parfaire vos connaissances, le très bon TED TALK de Kimberlé Crenshaw (2016) « L’urgence de l’intersectionnalité » est 
+disponible en ligne en visionnement. 
+Sources : 
+• IRESMO (2017). La notion de privilège social. Repéré le 14 février 2020, au https://iresmo.jimdofree.com/2017/04/23/la-notion-de-privil%C3%A8ge-social/
+• Office québécois de la langue française (2019). « Intersectionnalité. » Le grand dictionnaire terminologique. Repéré le 14 février 2020, au http://www.granddictionnaire.com/ficheOqlf.aspx?Id_ 
+ Fiche=26532478
+• Comité québécois Femme et Développement [s.d]. L’intersectionnalité. Fiche technique de la Communauté de pratique « Genre en pratique »
+Il est important de rappeler à la classe que cet exercice se fait dans un contexte d’espace sécuritaire 
+(safer space) de respect et de non-jugement. Cet exercice peut faire resurgir des émotions négatives. 
+Il est important de mentionner que cet exercice n’a pas pour but de juger les personnes qui ont plus ou 
+moins de privilèges, mais de prendre conscience des obstacles que certaines personnes peuvent vivre. 
+Des ressources mentionnées dans ce guide peuvent être suggérées en cas de besoin auprès des élèves.
+Suite
+57
+La transphobie, c’est pas mon genre 56
+La transphobie, c’est pas mon genre - Activités 5e secondaireActivités 5e secondaireLorsque tous les énoncés sont lus, inviter les jeunes à coller le nom de leur personnage à l’endroit où iels se sont rendu.es. 
+Demander aux jeunes de regarder autour d’elleux pour voir où iels se positionnent en comparaison aux autres personnes du 
+groupe.
+3e étape : Discussion de groupe (30 min)
+Encourager le groupe à partager leurs émotions et leurs sentiments par rapport à l’activité à l’aide des questions suivantes :
+ Quel sentiment avez-vous éprouvé quand vous étiez à l’avant du groupe? À l’arrière? Au milieu?
+ Quel est l’énoncé qui vous a fait le plus réfléchir et pourquoi?
+ Quels énoncés voudriez-vous ajouter?
+ Comment cet exercice vous a fait prendre conscience des privilèges? Comment cet exercice peut influencer vos attitudes 
+ dans vos relations avec les autres?
+ En prenant conscience de vos propres privilèges, que pouvez-vous faire pour venir pallier les inégalités sociales?1. Si vous êtes une personne blanche, avancez d’un pas. 
+2. Si le français est votre langue première, avancez d’un pas. 
+3. Si vous êtes une personne cisgenre, avancez d’un pas. 
+4. Si vous n’avez pas de handicap visible ou invisible, avancez d’un pas. 
+5. Si vous ou vos parents êtes citoyen.nes du Canada, avancez d’un pas. 
+6. Si vous êtes un homme ou une personne masculine, avancez d’un pas. 
+7. Si vous n’avez jamais été victime d’intimidation, de violence physique ou verbale, avancez d’un pas. 
+8. Si vous pouvez manifester en public votre affection pour votre partenaire sans peur du ridicule, du jugement ou 
+ de la violence, avancez d’un pas. 
+9. Si vous savez que vous allez pouvoir aller au cégep, avancez d’un pas. 
+10. Si vous savez que vous allez pouvoir aller à l’université, avancez d’un pas. 
+ 
+11. Si vous ne vous êtes jamais questionné.e sur votre genre ou sur votre expression de genre, avancez d’un pas. 
+12. Si vous avez un père et une mère, avancez d’un pas. 
+13. Si vous utilisez les toilettes publiques sans peur de vous faire harceler ou arrêter, avancez d’un pas. 
+ 
+14. Si vous pouvez vous changer dans les vestiaires sportifs ou les vestiaires de la piscine sans aucun stress, avancez d’un pas. 
+15. Si vous trouvez facilement des personnages de la même identité que vous à la télévision, avancez d’un pas. 
+16. Si vous ne vous êtes jamais fait.es mégenrer, avancez d’un pas. 
+17. Si vous n’avez jamais eu à discuter votre orientation ou votre identité de genre avec votre famille, avancez d’un pas. 
+18. Si vous vous sentez en sécurité quand vous marchez dehors seul, même la nuit, peu importe le quartier, avancez d’un pas. 
+19. Si vous savez que votre famille accepterait n’importe qui dont vous tomberiez amoureux, peu importe son genre, 
+ ses origines, ses croyances, etc., avancez d’un pas. 
+ 
+20. Si vous n’avez jamais été exclu.e d’une activité en raison de votre genre, avancez d’un pas.Annexe
+Activité 1re secondaire - Assignée garçon
+Activité 2e secondaire - Que lui diras-tu?
+Activité 4e secondaire - Dépliants
+Activité 5e secondaire - Histoires de personnes trans
+Activité 5e secondaire - Marche des privilèges57
+62
+63
+69
+74
+58 59
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - Annexe
+ACTIVITÉ 1re SECONDAIRE - ASSIGNÉE GARÇON (PLANCHE 1 & 2) ACTIVITÉ 1re SECONDAIRE - ASSIGNÉE GARÇON (PLANCHE 3 & 4)
+
+60 61
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeACTIVITÉ 1re SECONDAIRE - ASSIGNÉE GARÇON (PLANCHE 5 & 6) ACTIVITÉ 1re SECONDAIRE - ASSIGNÉE GARÇON (PLANCHE 7)
+
+62 63
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeACTIVITÉ 2e SECONDAIRE - QUE LUI DIRAS-TU? ACTIVITÉ 4e SECONDAIRE - DÉPLIANTS
+Vignette
+Florence, une de tes grandes amies d’enfance, te dit un soir en rentrant de l’école 
+dans le bus qu’elle pense peut-être ne pas être une fille. Elle dit ne pas vouloir être un 
+garçon non plus. Elle dit qu’elle pense plutôt être une personne non-binaire et elle 
+aimerait maintenant que tu l’appelles « Flo ». Elle t’avoue se sentir vraiment confuse par 
+rapport à ses questionnements et elle ne sait pas quoi faire. Elle y pense depuis longtemps 
+et elle te fait ce dévoilement parce que vous vous connaissez depuis longtemps. Elle dit 
+te faire confiance et te demande de n’en parler à personne, car pour l’instant elle craint 
+un peu les réactions des autres à l’école. Tu ne sais pas trop quoi dire sur le coup et tu n’as 
+même pas le temps de répondre que le bus s’arrête et elle descend à son arrêt. 
+Cette discussion te trotte dans la tête tout le long du chemin pour rentrer chez toi. Une 
+fois arrivé.e à la maison, tu décides de lui écrire un texto pour prendre le temps de lui 
+exprimer ce que tu aurais voulu lui dire au moment où elle s’est ouverte à toi. 
+Que lui écris-tu? Et pourquoi?Exemple pour les élèves
+
+64 65
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeACTIVITÉ 4e SECONDAIRE - DÉPLIANTS
+Outils de travail : modèle de dépliant informatif
+PAGE DE
+PRÉSENTATION
+VOTRE SUJET
+VOTRE SLOGAN
+ 
+STRUCTURE AIDA:
+ATTENTIONBUT DU PROJET
+STRUCTURE AIDA:
+INTÉRÊTRESSOURCES
+ 
+VOS NOMS
+LA DATE
+ 
+STRUCTURE AIDA:
+ACTION
+PAGE 1
+MONTRER LE BESOIN
+DE SENSIBILISER,
+POURQUOI C'EST
+IMPORTANT
+ 
+STRUCTURE AIDA:
+DÉSIRPAGE 2 PAGE 3
+CONTENU
+INFORMATIF
+SUR LE SUJET
+ 
+STRUCTURE AIDA:
+INTÉRÊTCONTENU
+INFORMATIF
+SUR LE SUJET
+ 
+STRUCTURE AIDA:
+INTÉRÊTACTIVITÉ 4e SECONDAIRE - DÉPLIANTS
+Exemple pour les élèves : brochures CFLGBT
+ET LA TRANSPHOBIE
+DANS
+LES ÉCOLES
+SECONDAIRES
+DU QUÉBEC :
+63 %
+des élèves entendent des commentaires
+comme « c’est fif » ou « c’est tapette »
+chaque jour à l’école
+39 %
+des élèves ont vécu au moins un épisode
+d’homophobie ou de transphobie en tant
+que victime
+69 %
+des élèves lesbiennes, gais, bisexuel-le-s
+et trans (LGBT) sont victimes d’homophobie
+et de transphobie
+35 %
+des élèves hétérosexuel-le-s sont victimes
+d’homophobie et de transphobie, simplement
+parce qu’ils ou elles ne correspondent pas
+aux stéréotypes de genre*
+DANS
+LES ÉCOLES
+SECONDAIRES
+DU QUÉBEC :
+63 %
+des élèves entendent des commentaires
+comme « c’est fif » ou « c’est tapette »
+chaque jour à l’école
+39 %
+des élèves ont vécu au moins un épisode
+d’homophobie ou de transphobie en tant
+que victime
+69 %
+des élèves lesbiennes, gais, bisexuel-le-s
+et trans (LGBT) sont victimes d’homophobie
+et de transphobie
+35 %
+des élèves hétérosexuel-le-s sont victimes
+d’homophobie et de transphobie, simplement
+parce qu’ils ou elles ne correspondent pas
+aux stéréotypes de genre*
+Les recherches récentes démontrent clairement 
+que l’homophobie et le harcèlement basé sur 
+l’expression de genre sont les facteurs les plus 
+importants d’intimidation en milieu scolaire et 
+qu’ils sont néfastes pour tous les élèves. Les 
+attitudes négatives envers les jeunes des minorités 
+visibles ou ceux ayant un handicap physique ne 
+sont plus tolérées, ni dans les classes, ni dans les 
+cours d’école. Les manifestations d’homophobie 
+et de transphobie, quant à elles, passent encore 
+régulièrement inaperçues auprès des adultes 
+qui s’occupent des jeunes. 
+Pourtant, les jeunes victimes d’homophobie et de 
+transphobie risquent davantage de connaître des 
+problèmes psychologiques (anxiété, dépression) 
+et d’avoir une faible estime de soi engendrés par 
+le rejet et l’isolement. Ils et elles sont aussi plus 
+enclin-e-s que leurs pairs à manquer des cours, 
+à moins bien réussir à l’école et à se limiter dans 
+leurs aspirations scolaires. En grandissant, ces 
+jeunes peuvent développer des problèmes d’abus 
+d’alcool et de consommation de drogues ainsi que 
+des comportements sexuels à risque. Finalement, 
+plusieurs ressentiront une souffrance susceptible 
+d’engendrer une détresse suicidaire.
+* Chamberland, L. et al. (2011). L’impact de l’homophobie et de la violence 
+homophobe sur la persévérance et la réussite scolaires. Fonds de recher -
+che sur la société et la culture [en ligne] www.fqrsc.gouv.qc.ca/upload/edi-
+teur/RF-LineChamberland.pdf
+L’homophobie et 
+La transphobie
+bLessent tous 
+Les jeunes
+incluant : 
+Les jeunes qui s’identifient comme LGBT 
+ou qui sont en questionnement d’identité;
+Les jeunes de familles homoparentales et 
+transparentales;
+Les jeunes qui ont des membres de leur 
+famille ou des ami-e-s LGBT;
+Les jeunes avec des goûts non stéréotypés 
+selon leur genre;
+Les jeunes qui limitent leurs actions et 
+leurs paroles par crainte d’être la cible de 
+remarques homophobes et transphobes.
+tolérer des propos homophobes et transphobes 
+transmet aux jeunes le message que les adultes 
+acceptent qu’on puisse se moquer ou harceler une 
+personne qui est différente. Compte tenu de la 
+diversité socioculturelle québécoise, l’école a le 
+mandat d’enseigner et de promouvoir l’inclusion 
+et le respect des différences.
+Le sujet des familles 
+LGbt est un tremplin pour 
+explorer les enjeux liés à 
+l’homophobie, à la transphobie, 
+à la discrimination et au 
+respect des différences 
+dans le milieu scolaire.1
+2
+3
+4
+5
+66 67
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeACTIVITÉ 4e SECONDAIRE - DÉPLIANTS ACTIVITÉ 4e SECONDAIRE - DÉPLIANTS
+ Proposition de grille d’évaluation Proposition de projet
+Conformité avec le but, le sujet et les valeurs, 
+ tels que présenté dans la proposition de projet /5
+Clarté des idées et de l’information /5
+Qualité de la langue (les mots soutiennent bien le but du projet) /5
+Respect de la structure AIDA /5
+Qualité du message transmis par le slogan /5Noms des membres de l’équipe :
+Nous présentons ce projet dans le but suivant (quel est l’objectif, l’intention?) :
+De cette manière, nous allons promouvoir les valeurs suivantes :
+Auprès de ce public cible :etNous avons choisi pour sujet de notre dépliant informatif :
+68 69
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeACTIVITÉ 4e SECONDAIRE - DÉPLIANTS ACTIVITÉ 5e SECONDAIRE - HISTOIRES DE PERSONNES TRANS
+Structure AIDA
+Afin de vous assurer que votre dépliant informatif atteigne les objectifs fixés, en éduquant 
+le public de manière efficace, il est important d’inclure quelques éléments de chacune des 
+catégories suivantes.
+Quelque chose pour...
+… ATTIRER L’ ATTENTION
+Utiliser des images attirantes et colorées pour piquer la curiosité.
+ Écrire des phrases courtes et accrocheuses sur les pages de présentation.
+… MAINTENIR L’ INTÉRÊT
+ Donner de l’information claire et précise.
+ Faire appel aux émotions, en valorisant le public ou en remettant en question des 
+ comportements.
+ Bien choisir ses mots (vivants, percutants, nouveaux).
+… CRÉER UN DÉSIR DE CONTRIBUER À LA CAUSE
+ Tenter de créer un effet d’entrainement. 
+ S’appuyer sur des arguments et des émotions.
+ Ajouter une touche d’humour (éviter la vulgarité).
+… PROVOQUER UNE ACTION
+ Utiliser des mots forts, des phrases courtes et bien pensées.
+ Écrire un slogan, suivi d’une citation significative.
+ Donner des informations courtes et précises sur les différentes façons de soutenir 
+ la cause (renseignements, bénévolats)
+ Faciliter l’accès à des organismes de soutien pertinents (ressources)Mon nom est Adonis, je suis une personne agenre non binaire (donc je ne 
+m’identifie à aucun genre), AFAB (assigné.e femme à la naissance). J’ai 
+25 ans et j’utilise les pronoms « elle » en français et « they/them » en 
+anglais. J’étudie en sexologie à l’université, et je travaille en intervention 
+auprès des personnes de la communauté LGBTQ+. J’aime beaucoup 
+collectionner des bandes dessinées !
+Je suis out dans mon environnement social et académique/professionnel. 
+Pour ce qui est de la famille, je n’en ai jamais encore vraiment parlé, à part 
+à ma sœur (qui a été très acceptante) parce que je n’en ressens pas néces-
+sairement le besoin. Je suis confortable avec la perception que ma famille 
+a de moi. À part une transition sociale en 2017, je n’ai pas envie d’entamer 
+une transition médicale (hormones, chirurgies...) ou légale (changement 
+de nom ou de mention de genre). Le simple fait que mon entourage utilise 
+des pronoms et accords neutres me satisfait.
+Comment as-tu pris conscience de ta non-binarité ?
+À 15 ans je me suis penché.e sur la question de genre et j’ai commencé à 
+réfléchir sur mon identité de genre. Je me suis identifié.e comme bigenre 
+(plus précisément « demigirl » : un peu femme et un peu autre chose) 
+pendant quelque mois, pour ensuite refouler la question. Je me suis 
+convaincu.e que j’étais une femme cis parce que la question d’identité de 
+genre me rendait anxieux.se.
+Rendu.e à l’université, j’étais entouré.e de personnes non-binaires ou en 
+questionnement sur leur identité de genre. Ce sujet est devenu de plus 
+en plus familier. J’ai ensuite rencontré une personne non-binaire AMAB 
+(assigné.e homme à la naissance) ayant une expression de genre très 
+masculine. J’ai eu beaucoup de discussions avec cette personne au sujet 
+de l’identité de genre et mes questionnements quant à ma propre identité ont 
+resurgi ! J’ai commencé à réfléchir sur le genre et l’identité de genre et 
+je me suis vite rendu.e compte qu’en fait je ne me ressentais dans aucun 
+genre. Je ne me reconnaissais pas, ni dans la définition d’une femme ni 
+d’un homme. Je m’identifie comme une personne agenre, c’est-à-dire une 
+personne qui ne s’identifie à aucun genre ! Mon ami.e m’a aussi permis de 
+voir qu’une personne non-binaire n’est pas obligée d’avoir une expression 
+de genre neutre/androgyne. J’ai donc réussi à comprendre que mon rejet 
+des normes de genre et d’identité de genre ne nécessitait pas un chan-
+gement physique de mon image. Je pouvais très bien être une personne 
+féminine et agenre !
+Es-tu bien accepté.e par ton entourage? 
+La première personne à qui j’ai dévoilé ma non-binarité (autre que mon 
+ami.e) a été ma blonde. Je lui ai dit que je pensais peut-être être une 
+personne non-binaire et que je ne me reconnaissais pas dans l’identité 
+femme. La discussion ne me faisait pas vraiment peur, mais une petite 
+voix dans le fond de ma tête me disait que ma blonde allait me laisser, 
+qu’en tant que lesbienne elle ne pourrait plus m’aimer, etc. Finalement 
+ma blonde a été une des personnes les plus réceptives face à mon dévoi-
+lement, elle m’a tout de suite demandé mes pronoms et les termes que je 
+voulais qu’elle utilise pour parler de moi. Ça m’a fait chaud au cœur et je 
+me suis senti.e validé.e dans ma relation. 
+Le reste de ma vie n’a vraiment pas changé, je continue de faire les mêmes 
+activités que je faisais et je continue de voir les mêmes personnes. Les 
+seules choses qui ont changé sont mes pronoms en anglais à la fin de mes 
+courriels. Et, en tant que personne non-binaire, est-ce que les personnes te 
+mégenrent ?
+Je me fais tout le temps mégenrer ! Je suis une personne qui a une 
+expression de genre quand même très féminine dans mon habillement 
+(maquillage, vêtements, etc.) donc les gens assument que je suis une 
+femme cisgenre et m’appelle « madame » ou « mademoiselle ». Seul 
+mes ami.es et mon entourage proche ne me mégenrent pas, puisqu’iels 
+connaissent mon identité de genre. Ces situations où mon identité en tant 
+que personne agenre/non-binaire est invisibilisée me font sentir comme 
+si je n’étais pas « assez » non-binaire : je me dis souvent que les gens se 
+trompent à cause de mon expression de genre et que si j’avais une expres-
+sion de genre plus androgyne cela arriverait moins. Je me sens invisible et 
+inadéquate dans mon identité lorsque les personnes me mégenrent. 
+Lorsque les personnes m’appellent par des formules féminines, je les rec-
+tifie en leur demandant de m’appeler par mon prénom à la place (exemple : 
+Adonis aime les romans graphiques). Dépendamment des situations, 
+je vais aussi rectifier les personnes qui n’utilisent pas les bons pronoms (en 
+anglais surtout). Par contre, je ne le fais pas tout le temps parce que je ne 
+me sens pas toujours en sécurité de le faire. Si je ne me sens pas à l’aise de 
+dévoiler mon identité de genre dans un contexte, je ne vais pas rectifier 
+les personnes. En plus, rectifier et corriger les gens autour de moi devient 
+facilement épuisant.
+Mes ami.es ont fait beaucoup d’efforts pour ne plus me considérer 
+comme « femme » et vraiment voir la distinction entre mon expression de 
+genre et mon identité de genre. Parfois, iels se trompent encore, mais le 
+remarquent d’elleux même et s’excusent. Un exemple que je peux don-
+ner est l’exemple de ma blonde : elle m’appelait sa copine/sa blonde/her 
+girlfriend. Lorsque je lui ai demandé de ne plus utiliser ces termes et plutôt 
+utiliser les termes partenaire/partner, elle a fait des efforts pour se corriger 
+elle-même à chaque fois qu’elle se trompait et maintenant elle ne fait plus 
+d’erreur ! 
+Quand je serai grand.e, je voudrais pouvoir sensibiliser les gens aux réalités 
+trans et non-binaires pour normaliser ces questionnements ! Je pense qu’il 
+est important que les jeunes puisent se sentir à l’aise d’avoir ce genre de 
+réflexion et puissant en parler sans avoir peur ! Adonis 
+
+70 71
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeACTIVITÉ 5e SECONDAIRE - HISTOIRES DE PERSONNES TRANS ACTIVITÉ 5e SECONDAIRE - HISTOIRES DE PERSONNES TRANS
+Je m’appelle Charlie, j’ai 22 ans, je suis étudiante à temps plein orientée 
+vers la linguistique, la philosophie, la psychologie et par-dessus tout : la sémio -
+tique. Je suis une femme trans empruntant le pronom « elle », je m’identifie 
+comme transgenre et suis probablement non-binaire, mais sans trop 
+d’intérêt ni d’engagement pour la question. Je mène toutefois une double 
+vie et j’ai deux visages. Mener une double vie en tant que personne trans 
+n’est pas hors du commun. Pour ma part, j’ai toujours dû mettre ma 
+personnalité de côté pour espérer avoir une intimité qui me semblait quasi 
+interdite. À 9 et 10 ans déjà, mes rêves étaient ceux d’une fille, dans mes 
+rêves je vivais déjà à travers le corps d’une femme. 
+Quand est-ce que ta prise de conscience s’est faite et comment ? 
+En début d’adolescence, grâce à des recherches sur internet, j’ai découvert 
+l’existence d’autres personnes « atypiques » semblables à moi. Je n’avais 
+pas encore conscience que je remettais en question mon identité de 
+genre. En fait, mon premier repère d’identification a été la découverte de 
+personnes trans dans la pornographie et surtout des femmes trans. La 
+fascination n’était pas simplement de constater cette autre réalité 
+inconnue, mais plutôt dans l’idée d’être cette femme aux organes génitaux 
+masculins. Je m’y voyais, je voulais être ces femmes. À 14 ans, mon père a 
+découvert mes recherches internet et m’a confrontée, dans le but d’adresser 
+la question. J’étais vraiment confuse par la situation. Déjà alors j’avais 
+deux visages. Et celui qu’avait mon père en tête n’était pas le mien. Cette 
+découverte l’a ainsi poussé à me questionner: « Es-tu détraqué sexuel? 
+Qu’est-ce que c’est que ça? ». Depuis, il m’était interdit d’accéder à cette 
+source d’intrigue et d’assurance. Il m’a interdit tout accès à l’ordinateur et 
+a instauré une surveillance constante de chacune de mes activités. 
+Alors ayant perdu toute confiance en moi-même et en mes parents, j’ai 
+tenté de regagner cette confiance en cultivant une masculinité exagérée 
+et étouffante. J’ai connu 3 longues années de dépressions qui se sont 
+vécues comme une mort intérieure remplie d’idées suicidaires, toujours 
+cachées de mes parents. Ce n’est que plus tard, lors de fêtes entre amis 
+arrosées d’alcool, que j’ai enfin fait retentir mon cri plein de tristesse : 
+« JE SUIS TRANS ». Les mots étaient sortis, bien que maladroitement. 
+J’ai ensuite débuté ma transition à l’âge de 20 ans, avec l’avis de ma 
+psychologue. Mon père a renforcé ses convictions rigides contre la 
+psychologie croyant que je voulais seulement le défier. Il ne soutenait 
+absolument pas ma démarche. 
+Es-tu soutenue par ton entourage proche? 
+Oui et non. Encore aujourd’hui, je mène deux vies cependant l’une gagne 
+du terrain sur l’autre. L’image que mes parents avaient de moi s’effondre, 
+leur garçon devient une autre personne, chaque jour je deviens un peu 
+plus femme. Malgré ça, ils ne font rien pour me soutenir malgré toute 
+l’assistance constructive que je pus leur proposer afin de m’accompagner 
+pleinement et ouvertement dans mon cheminement. Même si depuis 
+3 ans je me fais appeler Charlie et désignée par « elle », à la maison et 
+même devant ma compagne, je me fais toujours mégenrer par mes 
+parents. Par mégenrer, j’entends le refus volontaire d’accepter et d’affirmer 
+mon identité de genre, et toujours me considérer comme « Charles, jeune 
+homme, leur fils, il ». Ma souffrance est pourtant bien réelle, mais certains 
+refusent encore de l’entendre. Ce mégenrage rend le quotidien parfois 
+difficile à supporter.Et au cégep comment ça se passe pour toi? 
+En milieu scolaire, entre 18 et 22 ans, durant ma prise de conscience 
+et redécouverte de mon identité et expression de genre, j’ai connu de 
+nombreuses situations de mégenrage. Par exemple à chaque fois que je 
+voulais utiliser les toilettes de mon école, j’ai dû passer par les toilettes 
+des hommes, avant de finir par me trouver une cabine pour femme, 
+isolée à l’autre bout complètement du cégep. Au cégep, personne ne voulait 
+me parler et les travaux d’équipes se faisaient en retrait. J’essayais de 
+cacher ma silhouette masculine sous de large vêtements. Je faisais vraiment 
+attention à ma pilosité pour qu’elle soit la plus discrète possible, je n’ai eu 
+recours à des soins d’épilation définitive que seulement à 21 ans, quelques 
+mois après avoir débuté la thérapie d’affirmation de genre: l’hormo-
+nothérapie. L’hormonothérapie est la prise d’hormones, des hormones 
+féminisantes dans mon cas. Chaque fois qu’on m’appelait « Charles », 
+je voulais me cacher, mourir, laisser place à Charlie. 
+Je compte devenir enseignante et chercheuse à l’université, écrivaine à 
+temps perdu. J’aimerais être porte-parole de celleux qui partagent ma 
+souffrance, qui ont besoin d’être écouté.es et d’entendre qu’iels ont 
+toustes, le droit d’exister et d’être respecté.es.Moi c’est Éric, j’ai 24 ans je suis français et je suis arrivé au Québec en 
+2017. Je n’utilise pas trop d’étiquettes pour me définir, car ça n’a pas 
+une grande importance pour moi. J’aime bien utiliser juste trans ou gars 
+trans à la rigueur. Je suis étudiant communication et passionné de cuisine. 
+Je fais du roller de vitesse et du patin à glace mais je n’y connais toujours 
+rien au hockey...
+Globalement tous mes amis et ma famille savent que je suis trans et ça se 
+passe très bien. Cela m’a beaucoup aidé que ma famille m’accepte aussi 
+bien. J’ai commencé ma transition médicale avec la prise de testostérone 
+en 2017 et c’est aussi cette année-là que j’ai commencé à utiliser des 
+pronoms masculins comme « il » et mon prénom choisi, Éric. 
+Es-tu souvent confronté au mégenrage? 
+Aujourd’hui ça ne m’arrive plus très souvent, mais oui, ça m’est arrivé 
+beaucoup dans la première année de ma transition. Avec mes amis ça 
+s’est super bien passé, ils ont réussi à utiliser très rapidement les bons 
+pronoms et le bon prénom. Mon chéri de l’époque a été hyper soutenant. 
+Ma maman et ma sœur ont très bien suivi les changements aussi ! 
+Au sport, par contre, ça a pris plus de temps. Je jouais dans une équipe de 
+roller de vitesse à un haut niveau depuis quelques années. Avant ma transi-
+tion, mon équipe était un peu ma famille choisie, mon sport était vraiment 
+un endroit où je me sentais valorisé et important. C’était mon espace de 
+liberté ou je me sentais bien. 
+Quand j’ai commencé à utiliser des pronoms masculins, la plupart des 
+gens de l’équipe ont eu du mal à s’y faire. Ça a pris presque deux ans à 
+certaines personnes pour réussir à utiliser «il». Pourtant c’était des gens 
+avec qui je passais entre 6 et 8 heures par semaine. Après quelques mois, 
+j’ai fini par me sentir très seul et un peu marginal au milieu de cette équipe 
+de 25 personnes. J’avais l’impression de n’avoir aucune valeur aux yeux 
+des autres.
+J’ai nié pendant longtemps que le mégenrage me blessait, par fierté mal 
+placé je pense. Je ne voulais pas déranger, ne pas avoir l’air de « chialer 
+pour rien ». Alors, je laissais faire. Les premiers mois, quand des coéqui-
+pier.es me désignaient au féminin, je le prenais à la rigolade et je disais que 
+ce n’était pas grave. Je pensais vraiment que ces personnes essayaient de 
+s’y faire et qu’il leur faudrait juste un peu de temps. Puis après quelques 
+mois j’ai remarqué que leurs erreurs étaient juste de la négligence et du 
+désintérêt complet. Probablement, car pour elles, ces histoires de tran-
+sitions n’avaient rien de sérieux. Bref, les choses ne changeaient pas et je 
+commençais à trouver la situation humiliante et très déprimante. J’avais 
+de plus en plus de mal à aller à mes entrainements et du mal à interagir 
+avec les autres. 
+Ce qui est dur avec le mégenrage, c’est que ça cause comme une petite 
+blessure discrète qui s’installe progressivement. Un peu comme une ten-
+dinite ou une carie. Tu ne vois rien venir et le jour où tu t’en rends compte, 
+c’est presque déjà trop tard, il reste plus qu’à réparer les dommages ! 
+As-tu déjà pensé abandonner le sport?
+Oui ! Vraiment. J’ai pensé abandonner pour me protéger. Il y a un mo-
+ment où je n’étais plus capable. Le mégenrage créait des malaises gênants 
+quand quelqu’un m’appelait « elle » devant tout le monde. J’avais l’impres-
+sion d’être devenu le « weirdo » dans mon équipe. Je trouvais que je ne 
+fittais plus dans le décor et je craignais vraiment le rejet de mes pairs. Sans m’en rendre compte j’ai développé de l’anxiété. Au début je confon-
+dais ça avec le stress et je n’y prêtais pas vraiment attention. Puis les crises 
+de panique sont apparues dans ma vie et à ce moment-là, j’ai fini par réussir 
+à me forcer à faire une pause dans ma carrière sportive. J’ai une vie 
+assez stressante donc je ne pense pas que mon anxiété soit 100 % due au 
+mégenrage, loin de là. Mais il est possible que perdre le sentiment d’être à 
+ma place dans l’activité que j’aimais le plus ait vraiment contribué à dégra-
+der mon bien-être. 
+Aujourd’hui je suis revenu à mon sport dans un autre état d’esprit. Je n’ai 
+pas de rancœur vis à vis des personnes qui m’ont motivé à quitter l’équipe. 
+J’essaye de me faire un nouveau départ en me concentrant sur mes 
+objectifs sportifs. 
+Puis à l’école?
+Ce qui est drôle, sans être drôle, c’est que mon histoire dans le sport res-
+semble vraiment à une partie de mon histoire avec le secondaire. Je ne 
+savais pas que j’étais trans à ce moment-là et je ne savais même pas que les 
+personnes trans existaient, en fait ! 
+A l’école je me suis toujours senti différent des autres. Je n’avais pas les 
+mêmes intérêts, je n’écoutais pas la même musique, etc. Je ne me faisais 
+pas trop intimider physiquement, car j’étais quand même grand pour mon 
+âge, ça devait aider, mais par contre je recevais beaucoup de moqueries 
+et d’insultes de la part des autres élèves. Certaines fois ils me jetaient des 
+boulettes de papier ou des graviers quand j’arrivais à l’école. J’aimais le 
+concept de l’école, car j’ai toujours aimé apprendre, mais j’aurais vraiment 
+préféré l’école sans les élèves ! En me faisant mégenrer en tant qu’adulte, 
+des fois ça ramène des émotions similaires à cette époque-là, pas trop 
+l’fun. Le sentiment d’être seul, d’être différent, d’être invisible. 
+Sinon aujourd’hui j’ai réussi à développer un meilleur lien avec l’école en 
+retournant à l’université. L’université où je vais me permet d’utiliser mon 
+prénom, même si mes papiers ne sont pas changés et ça a vraiment été un 
+facteur déterminant pour me permettre de retourner étudier. Aujourd’hui 
+ça va vraiment mieux, depuis ma mastectomie (chirurgie pour retirer la 
+poitrine) je ne me fais plus trop mégenrer. Me faire opérer m’a vraiment 
+aidé à mieux m’accepter physiquement et à me faire mieux accepter par 
+les autres. Mon physique est aujourd’hui plus masculin grâce à la testos-
+térone, les personnes que je rencontre s’adressent généralement à moi au 
+masculin. C’est assez libérateur émotionnellement. 
+Aujourd’hui je suis vraiment optimiste pour mon avenir. Je pense que le 
+plus dur de ma transition est derrière moi. Je suis vraiment bien dans mon 
+corps aujourd’hui et dans ma tête. La transition c’est un parcours challengeant 
+mais aussi super instructif sur moi-même, je pense que cette expérience 
+de vie m’aide à devenir un meilleur adulte, tolérant et résilient. Charlie Éric
+
+72 73
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeMoi c’est Yaël, je suis un gars trans (FtX) j’utilise le pronom « il », j’ai 
+24 ans et je suis out auprès de mes ami.e.s et de ma famille. Je vis à Lyon 
+en France et je suis né à Paris.
+J’ai fait une licence (baccalauréat) d’anthropologie puis j’ai commencé un 
+master (maîtrise) d’étude sur le genre et les discriminations, que j’ai 
+arrêté quelques mois après, à cause de la transphobie notamment du corps 
+enseignant. Après un service civique dans une association de lutte contre 
+le sida (ALS) et quelques emplois « alimentaires », j’ai commencé un CAP 
+(DEP) en ébénisterie en octobre 2019. J’ai commencé mes démarches de 
+transition fin 2013, quelques mois après mon coming out. En 2020 je vais 
+fêter mes 6 ans d’hormones, 5 ans depuis ma mastectomie et 5 ans depuis 
+mon changement d’état civil (nom et mention de genre) !
+Comment ça se passe en milieux pro pour toi en tant que personne trans? 
+Je ne suis pas out en tant que personne trans dans mon école d’ébénisterie, 
+malgré le fait que j’ai pratiquement toujours été out dans mes études et 
+emplois précédents. Avant de devenir ébéniste, j’ai toujours été entouré 
+de personnes qui étaient soit concernées par une des lettres LGBT, soit par 
+des amies qui connaissaient ces sujets et avec qui je me savais en sécurité. 
+Depuis 2 ans, je travaille dans un environnement avec une majorité 
+d’hommes cisgenres et hétéros. De base, j’ai du mal à rentrer en interac-
+tion avec les mecs cis-het et je ne me sens pas vraiment en sécurité dans 
+cet environnement. Je pense que mon avenir professionnel pourrait être 
+menacé si mes collègues apprenaient que je suis trans. Et je craindrais aussi 
+pour ma sécurité.
+J’ai préféré choisir de dire que j’étais gai, car je sors en ce moment avec 
+un gars de toutes façons. J’ai eu toutes sorte de réactions, de ceux qui ne 
+réagissent pas, aux questions déplacées, jusqu’aux propos violents comme : 
+« moi d’habitude les pédés* je leur casse la gueule, mais t’inquiète, toi, 
+je t’aime bien ». Partant de là j’ai estimé que c’était plus prudent de ne 
+pas dire que j’étais trans ! En France, la violence et la haine sont très vives 
+contre les personnes trans. Presque tous les jours, au moins une fois par 
+jour j’entends une « blague » sexiste, raciste, homophobe ou transphobe, 
+évidement tout le monde rigole et parfois en rajoute ! J’ai pris le parti 
+d’arrêter d’essayer de débattre avec eux à ce moment-là, puisque ça ne 
+fonctionne pas et me fatigue pour rien.
+Me « cacher » comme ça a été une décision assez difficile à prendre et à 
+vivre, car le fait d’être trans et d’être visible en tant que tel a toujours été 
+important pour moi. Je n’ai pas honte d’être trans et je n’ai pas pour but 
+« d’avoir l’air cis ». C’est épuisant au quotidien d’interagir avec des mecs cis 
+et de jouer le rôle du mec cis. Enfin, au moins ça permet de rester en un 
+seul morceau !
+Et sinon, tu as déjà subi du mégenrage? 
+Au début de ma transition, en 2013, je me faisais mégenrer assez 
+régulièrement. « Bonjour madame »/« Bonjour jeune fille », etc. Au lycée 
+(cégep) certains profs bienveillants utilisaient mon nom, Yaël, d’autres par 
+contre préféraient utiliser mon nom de naissance, car ils trouvaient ça trop 
+compliqué pour eux. Je me souviens, je me sentais honteux, énervé, triste 
+et j’avais l’impression que je n’arriverais jamais à être reconnu pour qui je 
+suis. Je me sentais vraiment seul et isolé. Pour moi changer mes papiers a vraiment été une priorité, j’avais besoin 
+d’aller de l’avant, de laisser cet ancien nom derrière moi. Étant un peu 
+androgyne, j’ai eu la chance d’avoir rapidement une allure plus masculine 
+grâce aux hormones, donc le mégenrage s’est vite arrêté, heureusement. 
+Vers quelles ressources t’es-tu trounés à cette époque?
+À cette époque-là, j’ai trouvé du réconfort auprès d’assos de lutte pour 
+les droits des personnes trans, ça m’a permis de parler avec des gens qui 
+vivaient les mêmes choses que moi. Le premier endroit où j’ai pu vraiment 
+exprimer mon genre et rencontrer des personnes trans, c’était à une 
+rencontre de groupe chez Chrysalide, une asso à Lyon. C’est une étape 
+assez importante de ma vie qui m’a beaucoup aidé. Après avoir commencé 
+ma transition et en étant plus à l’aise avec mon genre et ma sexualité, ça 
+m’a paru normal et important d’accueillir d’autres jeunes trans et de militer 
+pour nos droits. 
+J’ai été dans plusieurs associations, une association d’accueil et d’accom-
+pagnement (Chrysalide), j’ai cocréé une asso étudiante qui avait pour pro-
+jet de mettre en avant les travaux de chercheurs queers et les personnes 
+queer (Les Unvisibles de Stonewall), j’ai fait partie d’une association festive 
+(Bonnie and Clit), d’une asso féministe au sein de laquelle je donnais des 
+formations destinées au personnel médical sur les personnes trans (Frisse) 
+et du du centre LGBTI de Lyon. Toutes ces assos n’étaient pas spécifique-
+ment destinées aux personnes trans, mais laissaient la place aux personnes 
+concernées pour avoir la parole. 
+Ça fait un an que j’ai un peu quitté les milieux associatifs et militants car 
+c’était très chronophage et moralement fatiguant. Mais le militantisme 
+reste quelque chose de très important pour moi et j’y reviens toujours ! 
+Après des années d’activisme, aujourd’hui je prends un peu plus de temps 
+pour moi et pour fabriquer un avenir que pendant une époque j’ai cru 
+incertain.
+* « pédé » est un terme familier souvent utilisé en France pour désigner les hommes gais. 
+ Il est souvent péjoratif.ACTIVITÉ 5e SECONDAIRE - HISTOIRES DE PERSONNES TRANS ACTIVITÉ 5e SECONDAIRE - HISTOIRES DE PERSONNES TRANS
+Je m’appelle Ciel, j’ai 23 ans, j’étudie en travail social et je suis une per-
+sonne trans et non-binaire. J’utilise les pronoms iel/iel avec des accords 
+neutres ou inclusifs : par exemple, au lieu de dire « je suis heureux ou heu-
+reuse » je vais dire « je suis heureuxe ». Si les personnes ont trop de difficul-
+tés avec les accords neutres et inclusifs, je vais leur demander d’utiliser le 
+pronom « elle » et les accords féminins. 
+Tu te fais mégenrer en tant que personne non-binaire? 
+Oui, m’arrive souvent de me faire mégenrer. Pour moi me faire mégenrer 
+c’est quand des personnes n’utilisent pas les bons pronoms ou pas les 
+bons accords pour se référer à moi. En ce moment, je reçois souvent les 
+formules genrées comme « monsieur » par exemple. Cette semaine, on 
+est allé.e.s au restaurant mon chum et moi, la serveuse référait à nous 
+comme « messieurs ». Ce sont des commentaires ou appellations assez 
+difficiles à recevoir lorsque tu es une personne non-binaire. J’ai souvent 
+l’impression d’être invisible aux yeux du monde. Surtout ces temps-ci, 
+j’ai l’impression que plus j’avance dans mon processus d’affirmation de 
+genre, plus ces mots sont difficiles pour moi. Même quand cela vient de 
+personnes inconnues. C’est comme si cela venait briser quelque chose 
+en moi à chaque fois. J’essaie de le réparer, mais quelqu’un.e d’autre fini 
+toujours par le recasser en me mégenrant ou en utilisant « monsieur/ 
+madame ». Ça fait mal à la longue !
+Dans ma famille aussi cela arrive souvent, car je ne leur ai pas encore 
+annoncé que je suis une personne non-binaire. J’ai surtout peur d’en parler 
+à mes grands-parents, du moins je ne sais pas comment l’aborder. J’ai peur 
+qu’iels me rejettent ou qu’iels rejettent ce que je suis. Nous sommes assez 
+proches, on se voit presque chaque semaine ou chaque deux semaines. Je 
+pense qu’iels se doutent de quelque chose, considérant que j’ai commencé 
+à porter du maquillage et que j’ai changé mon expression de genre, mais 
+je n’arrive pas encore à leur en parler. Je ne sais pas si j’ai l’énergie de les 
+éduquer par rapport à tout ça non plus.
+Et comment tu réagis face à ça? 
+Quand on me mégenre, parfois je réagis et je corrige les personnes, mais 
+cela va dépendre vraiment des situations et de l’énergie que je veux investir 
+là-dedans. Des fois, je vais avoir tendance à plutôt me refermer un peu sur 
+moi-même dans certaines situations. Ce n’est peut-être pas forcément la 
+meilleure chose à faire, mais c’est mon mécanisme de défense. Quand je 
+n’ai pas l’énergie de reprendre les personnes qui me mégenrent et que cela 
+me fait sentir pas très bien, je prends une petite pause et je ferme les yeux, 
+je prends quelques respirations et j’essaie de faire passer l’inconfort en me 
+centrant sur moi-même et en mettant mon énergie sur mes jambes pour 
+sentir que je suis bien « groundé » sur le sol. C’est ma petite technique pour 
+passer au travers de ces moments difficiles.
+Et avec ton entourage, comment ça se passe? 
+Quand j’ai annoncé ma non-binarité à mes ami.e.s, iels ont bien réagi ! Je 
+pense que la personne avec qui cela a été un peu plus difficile, c’était avec 
+mon chum. Cela faisait déjà trois ans qu’on était ensemble et mon coming 
+out est arrivé dans sa vie un peu sorti de nulle part pour lui. De son côté, 
+il ne savait pas trop ce que c’est d’être non-binaire, ni ce que cela 
+impliquait. Il m’a tout de même accompagné pour voir une sexologue pour 
+qu’on travaille ensemble et cela s’est plutôt bien passé par la suite.L’école a été, par contre, un moment assez douloureux pour moi. Je me 
+faisais beaucoup charrier et intimider à l’école. Je ressentais déjà que 
+j’étais différent.e et que je ne me sentais pas bien en relation avec mon 
+genre, mais je n’avais pas envie d’en rajouter pour subir encore plus de vio-
+lences. Je me faisais souvent lancer des insultes comme « fif », je me faisais 
+beaucoup niaiser par les autres… À ce moment-là de ma vie, j’ai laissé les 
+questionnements sur mon genre dans un tiroir très loin à l’intérieur de ma 
+tête pour me protéger. L’école est un milieu toxique et violent pour toutes 
+les personnes qui sont différentes. Selon moi, l’école n’est pas un espace 
+sécuritaire pour les personnes LGBTQIA2S+ et celleux qui sortent de la 
+norme. Pendant mon secondaire, j’ai eu des périodes dépressives qui ont 
+même mené à des tentatives de suicide. J’ai dû arrêter l’école pendant un 
+moment parce que je n’étais plus capable. Mon expérience par rapport à 
+l’école a été vraiment atroce. Si j’avais pu, j’aurais préféré ne pas y aller. Je 
+savais déjà que j’étais une personne différente, mais je n’avais pas de mots 
+pour en parler. Je ne savais même pas ce qu’était une personne trans ou 
+non-binaire. On nous présentait toujours que deux options, homme ou 
+femme, et je savais qu’aucune de ces options ne fonctionnaient pour moi.
+Si j’avais eu une meilleure éducation sexuelle, je pense que cela m’aurait 
+beaucoup aidé. J’aurais aimé qu’on parle des personnes trans et non- 
+binaires, des personnes intersexes dans nos cours. J’ai trouvé mon passage 
+à l’école très difficile, car il n’y avait pas de place pour moi. Si je me voyais 
+à l’âge de 12 ans, j’aurais aimé me dire : « prends l’espace dont tu as besoin. 
+Mets les mots sur ce que tu ressens et dis-le. C’est correct d’être diffé-
+rent.e. C’est correct de juste être toi et tu n’es pas obligé d’essayer d’être 
+« one of the boys ». Je travaille maintenant à créer un espace sécuritaire 
+pour les personnes trans et non-binaires avec le GATUM. Je veux que les 
+personnes trans et non-binaires aient cet espace et ce soutien que je n’ai 
+jamais eu dans mon parcours scolaire.Ciel Yaël
+
+74 75
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeACTIVITÉ 5e SECONDAIRE - MARCHE DES PRIVILÈGES ACTIVITÉ 5e SECONDAIRE - MARCHE DES PRIVILÈGES
+FICHE DE PERSONNAGE 1 - SÉBASTIEN
+- Homme cisgenre, hétérosexuel, blanc (#1, 3, 6)
+- Sa langue maternelle est le français (#2) 
+- Il n’a pas d’handicap visible ou invisible (#4)
+- Il est citoyen canadien comme ses parents (#5)
+- Il n’a jamais été victime d’intimidation (#7)
+- Il a une blonde et l’embrasse souvent en public et 
+ lui tient la main en marchant (#8)
+- Il a fait une demande pour entrer au CEGEP et 
+ ses parents l’encouragent à aller à l’université 
+ (#9, 10)
+- Il ne s’est jamais vraiment questionné sur son genre 
+ (#11)
+- Il a un père et une mère qui sont encore ensembles 
+ (#12)
+- Il n’a aucunement peur d’utiliser les toilettes 
+ genrées, ni les vestiaires de son école ou de 
+ marcher seul dans la rue le soir (#13, 14, 18)
+- Il se reconnait beaucoup dans les émissions 
+ qu’il regarde (#15)
+- Il ne s’est jamais fait mégenrer (#16) et n’a jamais 
+ eu à faire de coming out à sa famille (#17) 
+- Sa famille a toujours été très gentille et acceptante 
+ avec ses amoureuses (#19)
+- Il n’a jamais été exclu d’activités parce qu’il était 
+ un garçon (#20)FICHE DE PERSONNAGE 3 - AMÉLIE
+- Femme cisgenre, bisexuelle, blanche (#1, 3, 6)
+- Sa langue maternelle est le français (#2) 
+- Elle a un handicap invisible (#4)
+- Elle n’est pas citoyenne canadienne et ses parents 
+ non plus (#5)
+- Elle n’a jamais été victime d’intimidation (#7)
+- Elle a un chum, elle l’embrasse souvent en public 
+ et lui tient la main en marchant (#8)
+- Elle a fait une demande pour entrer au cégep, 
+ mais elle ne sait pas si elle pourra aller à l’université 
+ (#9, 10)
+- Elle ne s’est jamais vraiment questionnée sur son 
+ genre (#11)
+- Elle a deux pères qui sont encore ensembles (#12)
+- Elle n’a aucunement peur d’utiliser les toilettes 
+ genrées, ni les vestiaires de son école, mais elle a 
+ tout de même peur de marcher seule dans la rue 
+ le soir (#13, 14, 18)
+- Elle ne se reconnait pas dans les émissions qu’elle 
+ regarde, elle ne voit pas beaucoup de personnages 
+ bisexuels comme elle (#15)
+- Elle ne s’est jamais fait mégenrer (#16) et n’a pas 
+ encore fait de coming out à sa famille (#17) 
+- Sa famille a toujours été très gentille et acceptante 
+ avec ses amoureux, mais elle ne sait pas si sa famille 
+ le sera aussi si elle sort avec des filles (#19)
+- Elle a parfois été exclue d’activités parce qu’elle est 
+ une femme (#20)FICHE DE PERSONNAGE 2 - MAX
+- Personne non-binaire, pansexuelle, blanche 
+ (#1, 3, 6)
+- Sa langue maternelle est l’anglais (#2) 
+- Iel n’a pas d’handicap visible ou invisible (#4)
+- Iel est citoyen.e canadien.ne et ses parents aussi 
+ (#5)
+- Iel a souvent été victime d’intimidation au primaire 
+ (#7)
+- Iel a un chum mais n’ose pas vraiment l’embrasse 
+ en public ou lui tenir la main (#8)
+- Iel a fait une demande pour entrer au CEGEP et 
+ ses parents l’encouragent à aller à l’université 
+ (#9, 10)
+- Iel s’est toujours questionné.e sur son genre et son 
+ expression de genre a beaucoup changée au cours 
+ des dernières années (#11)
+- Iel a un père et une mère qui sont encore ensembles 
+ (#12)
+- Iel a souvent peur d’utiliser les toilettes genrées, 
+ les vestiaires de son école ou de marcher seul.e 
+ dans la rue le soir (#13, 14, 18)
+- Iel ne se reconnait pas beaucoup dans les émissions 
+ qu’iel regarde (#15)
+- Iel s’est souvent fait mégenrer (#16) et a fait un 
+ coming out à sa famille l’année dernière (#17) 
+- Sa famille a toujours été très gentille et acceptante 
+ avec ses partenaires (#19)
+- Iel a souvent été exclu d’activités à cause de son 
+ identité de genre (#20)FICHE DE PERSONNAGE 4 - AMINA
+- Femme trans, lesbienne, d’origine algérienne 
+ (#1, 3, 6)
+- Sa langue maternelle est l’arabe (#2) 
+- Elle n’a pas d’handicap visible ou invisible (#4)
+- Elle n’est pas citoyenne canadienne et ses parents 
+ non plus (#5)
+- Elle a souvent été victime d’intimidation (#7)
+- Elle n’a pas de blonde, mais elle ne serait pas à l’aise 
+ à l’embrasser en public ou lui tenir la main en mar 
+ chant (#8)
+- Elle a fait une demande pour entrer au cégep et ses 
+ parents l’encouragent à aller à l’université (#9, 10)
+- Elle s’est longtemps questionnée sur son genre 
+ (#11)
+- Elle a un père et une mère qui sont encore 
+ ensembles (#12)
+- Elle a très peur d’utiliser les toilettes des filles et les 
+ vestiaires de son école, et a peur de marcher seule 
+ dans la rue le soir (#13, 14, 18)
+- Elle ne se reconnait pas souvent dans les émissions 
+ qu’elle regarde (#15)
+- Elle se fait souvent mégenrer (#16) et n’a pas 
+ encore fait son coming out à ses parents (#17) 
+- Elle ne pense pas que sa famille serait acceptante 
+ de ses amoureuses (#19)
+- Elle s’est souvent sentie exclue d’activités parce 
+ qu’elle était une femme trans (#20)
+76 77
+La transphobie, c’est pas mon genre - AnnexeAnnexe Annexe
+La transphobie, c’est pas mon genre - AnnexeACTIVITÉ 5e SECONDAIRE - MARCHE DES PRIVILÈGES ACTIVITÉ 5e SECONDAIRE - MARCHE DES PRIVILÈGES
+FICHE DE PERSONNAGE 5 - JOSEPH
+- Homme trans, queer, noir (#1, 3, 6)
+- Sa langue maternelle est le français (#2) 
+- Il a un handicap visible (#4)
+- Il est citoyen canadien et ses parents aussi (#5)
+- Il a parfois été victime d’intimidation au début 
+ du secondaire (#7)
+- Il n’a pas de partenaires en ce moment, mais il ne 
+ serait à l’aise à l’embrasser en public ou lui tenir la 
+ main en marchant (#8)
+- Il a fait une demande pour entrer au CEGEP et ses 
+ parents l’encouragent à aller à l’université (#9, 10)
+- Il savait depuis longtemps qu’il était un homme 
+ trans, mais il s’est tout de même questionné sur son 
+ genre (#11)
+- Il a un père et une mère qui ne sont plus ensembles 
+ (#12)
+- Il a très peur d’utiliser les toilettes des garçons et 
+ les vestiaires de son école, et a peur de marcher 
+ seul dans la rue le soir (#13, 14, 18)
+- Il ne se reconnait pas souvent dans les émissions 
+ qu’il regarde (#15)
+- Il se fait souvent mégenrer (#16) et a déjà fait son 
+ coming out à ses parents (#17) 
+- Il pense que sa famille serait acceptante de ses 
+ partenaires (#19)
+- Il s’est souvent senti exclu d’activités parce qu’il 
+ était trans (#20)FICHE DE PERSONNAGE 7 - TAM
+- Femme cisgenre, lesbienne, d’origine vietnamienne 
+ (#1, 3, 6)
+- Sa langue maternelle est le vietnamien (#2) 
+- Elle a un handicap invisible (#4)
+- Elle n’est pas citoyenne canadienne et sa mère 
+ non plus (#5)
+- Elle a été victime d’intimidation au primaire (#7)
+- Elle a une blonde, mais n’ose pas l’embrasser en 
+ public et lui tenir la main (#8)
+- Elle a fait une demande pour entrer au cégep 
+ et sa mère l’encourage à aller à l’université (#9, 10)
+- Elle se n’est jamais questionnée sur son genre (#11)
+- Elle a seulement une mère (#12)
+- Elle n’a pas peur d’utiliser les toilettes genrées ou 
+ les vestiaires de son école. (#13, 14) 
+- Elle ne se reconnait pas souvent dans les émissions 
+ qu’elle regarde (#15)
+- Elle ne se fait jamais mégenrer (#16) et n’a pas fait 
+ son coming out à sa mère (#17) 
+- Elle a souvent peur de marcher seul.e dans la rue 
+ le soir (#18)
+- Elle ne pense pas que sa famille serait acceptante 
+ avec ses blondes (#19)
+- Elle a parfois été exclu.e d’activitéspar ce qu’elle est 
+ une femme (#20)FICHE DE PERSONNAGE 6 - SKY
+- Personne genderfluid, queer, blanche (#1, 3, 6)
+- Sa langue maternelle est le français (#2) 
+- Ille n’a pas d’handicap visible ou invisible (#4)
+- Ille est citoyen.e canadien.e comme ses parents 
+ (#5)
+- Ille n’a jamais été victime d’intimidation (#7)
+- Ille a une blonde et l’embrasse souvent en public 
+ et lui tient la main en marchant (#8)
+- Ille n’a pas fait de demande pour entrer au CEGEP 
+ et ne pense pas aller à l’université (#9, 10)
+- Ille se questionne encore sur son genre (#11)
+- Ille a deux mères qui sont encore ensembles (#12)
+- Ille est souvent mal à l’aise lorsqu’ille utilise les 
+ toilettes genrées ou les vestiaires de son école. (#13, 14) 
+- Ille ne se reconnait pas souvent dans les émissions 
+ qu’ille regarde (#15)
+- Ille se fait souvent mégenrer (#16) et a déjà fait son 
+ coming out à sa famille (#17) 
+- Ille a peur de marcher seul.e dans la rue le soir 
+ quand ille a une présentation plus féminine (#18)
+- Sa famille a toujours été très gentille et acceptante 
+ avec ses partenaires (#19)
+- Ille n’a jamais été exclu.e d’activités à cause de son 
+ genre (#20)FICHE DE PERSONNAGE 8 - THOMAS
+- Homme cisgenre, hétérosexuel, métis (#1, 3, 6)
+- Sa langue maternelle est le français (#2) 
+- Il a un handicap invisible (#4)
+- Il est citoyen canadien, mais son père ne l’est pas 
+ (#5)
+- Il a un peu été victime d’intimidation au primaire 
+ (#7)
+- Il a une blonde et l’embrasse souvent en public et 
+ lui tient la main en marchant (#8)
+- Il a fait une demande pour entrer au cégep et son 
+ père l’encourage à aller à l’université (#9, 10)
+- Il s’est déjà questionné sur son genre (#11)
+- Il a seulement un père (#12)
+- Il n’a aucunement peur d’utiliser les toilettes 
+ genrées, ni les vestiaires de son école ou de 
+ marcher seul dans la rue le soir (#13, 14, 18)
+- Il se reconnait dans les émissions qu’il regarde (#15)
+- Il ne s’est jamais vraiment fait mégenrer (#16) et n’a 
+ jamais eu à faire de coming out à sa famille (#17) 
+- Sa famille a toujours été très gentille et acceptante 
+ avec ses amoureuses (#19)
+- Il n’a jamais été exclu d’activités parce qu’il était un 
+ garçon (#20)
+78
+La transphobie, c’est pas mon genre - BibliographieBibliographie - Pourquoi ce guideChamberland, L., Baril, A., Duchesne, N., Émond, G., Julien, D., Otis, J., Ryan, B. (2011). La transphobie en milieu scolaire au Québec. 
+Rapport de recherche. Montréal, Université du Québec à Montréal. 
+ 
+Clark, T., Lucassen, M., Bullen, P., Denny, S., Fleming, T., Robinson, E., & Rossen, F. (2014). The Health and Well-Being of Transgender 
+High School Students: Results From the New Zealand Adolescent Health Survey (Youth’12). Journal of Adolescent Health, 55(1), 93-99. 
+ 
+Coker, T. R., Austin, S. B., & Schuster, M. A. (2010). The health and health care of lesbian, gay, and bisexual adolescents. Annual Review 
+of Public Health, 31, 457–477. 
+ 
+Galantino, G., Blais, M., Hébert, M., & Lavoie, F. (2017). Un portrait de l’environnement social et de l’adaptation psychosociale des jeunes 
+québécois.e.s trans ou en questionnement de leur identité de genre. Rapport de recherche du projet Parcours amoureux des jeunes LGBT du 
+Québec. Montréal, Université du Québec à Montréal. 
+ 
+James, S. E., Herman, J. L., Rankin, S., Keisling, M., Mottet, L., & Anafi, M. (2016). The Report of the 2015 U.S. Transgender Survey. 
+Washington, DC: National Center for Transgender Equality. 
+ 
+Kosciw, J. G., Greytak, E. A., Zongrone, A. D., Clark, C. M., & Truong, N. L. (2018). The 2017 National School Climate Survey: 
+The experiences of lesbian, gay, bisexual, transgender, and queer youth in our nation’s schools. New York: GLSEN. 
+ 
+Taylor, A.B., Chan, A., Hall, S.L., Pullen Sansfaçon, A., Saewyc, E. M., & l’équipe de recherche de l’enquête canadienne sur la santé des 
+jeunes trans (2020). Être en sécurité, être soi-même 2019 : Résultats de l’enquête canadienne sur la santé des jeunes trans et non-binaires. 
+Vancouver, Canada : Stigma and Resilience Among Vulnerable Youth Centre, Université de la Colombie-Britannique. 
+ 
+Trans PULSE Canada. (2020). Rapport – Accès à la santé et aux soins de santé pour les personnes trans et non binaires au Canada. 
+https://transpulsecanada.ca/fr/results/rapport-1/
+Veale, J. F., Saewyc, E. M., Frohard-Dourlent, H., Dobson, S., Clark, B., et le groupe de recherche de l’enquête canadienne sur la santé 
+des jeunes trans (2015). Être en sécurité, être soi-même : Résultats de l’enquête cana-dienne sur la santé des jeunes trans. Vancouver, C.-B. : 
+Stigma and Resilience Among Vulnerable Youth Centre, École de sciences infirmières, Université de la Colombie-Britannique. 
+ 
+Veale, J. F., Watson, R. J., Peter, T., & Saewyc, E. M. (2017). Mental Health Disparities Among Canadian Transgender Youth. Journal of 
+Adolescent Health, 60(1), 44–49. 
+Ce guide a été réalisé grace à une subvention du Ministère de la Justice 
+pour le programme de lutte contre l’homophobie et la transphobie.

@@ -1,0 +1,2682 @@
+HAL Id: tel-04267978
+https://theses.hal.science/tel-04267978v1
+Submitted on 2 Nov 2023
+HAL is a multi-disciplinary open access archive
+for the deposit and dissemination of scientific re-
+search documents, whether they are published or not.
+The documents may come from teaching and research
+institutions in France or abroad, or from public or pri-
+vate research centers.L’archive ouverte pluridisciplinaire HAL , est des-
+tinée au dépôt et à la diffusion de documents scien-
+tifiques de niveau recherche, publiés ou non, émanant
+des établissements d’enseignement et de recherche
+français ou étrangers, des laboratoires publics ou
+privés.
+HAL Authorization
+Récits de vie d’adolescent.e.s et de jeunes adultes
+transféminines et transmasculins
+Chrystelle Lagrange
+To cite this version:
+Chrystelle Lagrange. Récits de vie d’adolescent.e.s et de jeunes adultes transféminines et transmasculins.
+Psychologie. Université de Nanterre - Paris X, 2023. Français. ⟨NNT : 2023PA100058⟩. ⟨tel-04267978⟩
+Ré
+cits de vie d’adolescent·es et de jeunes adultes 
+transféminines et transmasculins Chrystelle Lagrange 
+École doctorale 139 : 
+Conna
+issance, langage, 
+modélisation
+Thèse présentée et soutenue publiquement le 06/09/2023 
+e
+n vue de l’obtention du doctorat de Psychologie de l’Université Paris Nanterre 
+so
+us la direction du Professeur François Pommier (Université Paris Nanterre) 
+Jury  : 
+Présidente Mme Marion Feldman Professeure, Université Paris-Nanterre 
+Rapporteure Mme Michèle Benhaïm Professeure, Un iversité d’Aix-Marseille 
+Rapporteure Mme Giorgia Tiscini Professeure, Université Rennes 2 
+Membre du jury M. David Cohen Professeur, Université Paris Cité 
+Membre du jury Mme Annie Pullen Sansfaçon Professeure, Université de Montréal Membre de l’université Paris Lumières .
+ Clinique, 
+Psychanalyse et 
+développement
+ 2 
+ 3 
+
+Récits de vie d’adolescent·es 
+et de jeunes adultes 
+transféminines et transmasculins 
+
+ 4 
+REMERCIEMENT S 
+
+Je tiens à remercier en premier lieu le professeur François Pommier d’a voir accepté 
+de diriger ce travail, et de m’avoir accompagnée durant ces quatre années. Je le 
+remercie de sa confiance et sa bienveillance. 
+ 
+Aux membres du jury, de me faire l’honneur de leur présence ce six septembre 
+deux-mille vingt-trois et de leur intérêt pour cette recherche. 
+ 
+Aux deux membres du comité de suivi de thèse, pour leurs directions de travail e t 
+leur soutien au fil des années d’écriture. 
+ 
+Au docteur Agnès Condat, sans qui rien n’aurait été possible depuis le stage de 
+master 2 jusqu’à l’aboutissement de ce travail de thèse ; un infini merci pour sa 
+confiance, son soutien indéfectible, son regard exigeant et bienveillant de 
+clinicienne, chercheuse et psychanalyste. 
+ 
+Mes remerciements très sincères au professeur David Cohen, d’avoir accepté ma 
+présence dans son service, de m’avoir donné les moyens et le temps d’apprendre 
+des aspects complémentaires de la psychologie clinique en participant à la rédaction 
+d’articles avec son équipe. Un grand merci de sa présence à la soutenance de mon 
+travail. Et du sens que cela représente par rapport aux jeunes et aux familles de la 
+consultation Diversité de genre s de la Pitié-Salpêtrière, ressource principale de cette 
+étude. 
+ 
+ 5 
+
+A mes collègues de l’équipe de recherche de la Pitié-Salpêtrière, thésard·es, 
+clinicien·nes et chercheur·euses qui ont été soutenant·eÎ s et présent·es dans les 
+différents temps de réflexion, d’écriture, d’échanges lors des congrès, et à des 
+moments plus informels : Agnès, Fanny, Nicolas, Joy, Julie, Niloufar, Clément, 
+Grégor, Claire. Je les remercie de leur générosité. 
+ 
+A mes collègues des associations de personnes concernées et de la Pla teforme 
+Trajectoires Jeunes Trans pour la qualité des échanges professionnels et le ur 
+engagement. 
+ 
+A mes collègues de l’école doctorale de Nanterre croisé·es lors des sémi naires et 
+des journées d’étude. Vincent, Sarah, Sébastien, et d’autres personnes en début de 
+doctorat. 
+ 
+A Vincent Bourseul, psychanalyste et psychologue clinicien avec qui les 
+discussions sont toujours stimulantes. 
+ 
+A ma famille, mes cousines et mes ami·es qui ont traversé ces qua tre années à mes 
+côtés, après ma reprise d’études en psychologie. A mon amie d’adolescence Jul iette 
+P. présente depuis les années lycée, à ma grande amie Flora V., et à Philippe A. ami 
+du tatami. 
+ 
+A mon amie et artiste Delphine S. pour le temps singulier qu’elle travers e avec l es 
+ténèbres de la maladie. 
+ 
+Et surtout à mon fils Prosper qui vole de ses propres ailes… 
+ 
+ 6 
+ 
+« La durée d’une recherche implique un investissement personnel et émotionnel, 
+une allure qui semble parfois rite initiatique. On peut connaître un terrain depuis 
+plus de dix-sept ans et pourtant se retrouver confrontée à une découverte, un 
+renversement de paradigme, au tremblement continu réputé incongru, malvenu. 
+La raison, certes, met à distance. 
+Avec l’analyse, on se félicite ici de l’émotion première 
+qui a déclenché tout un processus éclairant ». 
+
+Karine Espineira1. 
+
+1 Karine Espineira, vol. 1 : Transidentités. Ordre et Panique de genre. Le réel et ses interprétations , 
+Paris, l’Harmattan, 2015. vol. 2 : Médiacultures. La transidentité en télévision. Une r echerche 
+menée sur un corpus de l’INA (1946 -2010), p. 165, Paris, L’Harmattan, 2015. 
+
+ 7 TABLE DES MATIERES 
+
+Remerciements 4 
+Table des matières 7 
+Glossaire 16 
+Introduction 19 
+
+Partie 1 : Revue de littérature sur la transidentité 25 
+ 
+Section 1 : lecture biomédicale 29 
+ 
+Chapitre 1 – Historicisation des concepts et leur évolution 29 
+1.1 Le transsexualisme 29 
+1.1.1 Historique du concept 29 
+1.1.2 Premiers changements hormonaux et chirurgicaux 34 
+1.2 La dysphorie de genre 36 
+1.2.1 Historique du concept 36 
+1.2.2 L’identité sexuée à partir de la variation du développement génital
+ 37 
+1.2.3 Évolution conceptuelle à travers le repérage diagnostique 41 
+1.3 L’incongruence de genre 49 
+1.4 Les données démographiques 52 
+Chapitre 2 – Les hypothèses étiologiques 56 
+depuis le sexe biologique 56 
+2.1 Hypothèses hormonales 57 
+2.2 Hypothèses génétiques 59 
+2.3 Hypothèses épigénétiques 60 
+ 
+ 8 
+Section 2 : lecture psychanalytique 63 
+ 
+Chapitre 1 : Les sexes et les genres 65 
+1.1 La bisexualité 65 
+1.1.1 La bisexualité psychique 65 
+1.1.2 La bisexualité et le fantasme 67 
+1.2 La sexuation 68 
+1.2.1 Le rapport au phallus 69 
+1.2.2 Jouissance narcissique et jouissance phallique 70 
+Chapitre 2 : L’identité du sujet 72 
+2.1 Le concept d’identité 72 
+2.1.1 Les composantes de l’identité 72 
+2.1.2 L’objet a 74 
+2.1.3 La différenciation et la subjectivation 75 
+2.2 La constitution du sujet 78 
+2.2.1 Lien entre identité et narcissisme 78 
+2.2.2 La constitution du moi 79 
+2.2.4 Le narcissisme et l’idéal du moi 82 
+2.3 Les identifications 84 
+2.3.1 Les identifications à l’adolescence 85 
+2.3.2 Le genre et l’identité 87 
+Chapitre 3 : L’identité de genre 88 
+3.1 Historique de la notion 88 
+3.2 L’identité de genre selon Jean Laplanche 91 
+3.3 L’identité de genre selon Jacques Lacan 91 
+3.4 L’identité de genre selon les études de genre 93 
+ 
+ 9 
+Section 3 : lecture de la prise en soins 98 
+Chapitre 1 – Historicisation des premiers accompagnements 98 
+1.1 A l’étranger 98 
+1.2 En France 100 
+Chapitre 2 – Les démarches des parcours d’affirmation 101 
+2.1 L’affirmation sociale 102 
+2.2 L’affirmation hormonale 103 
+2.3 L’affirmation chirurgicale 106 
+2.4 L’affirmation juridique 107 
+2.5 La préservation de fertilité 108 
+2.6 Le consentement aux soins 111 
+2.7 La discontinuité dans les transitions 112 
+Chapitre 3 – Les recommandations des organisations professionnelles 122 
+3.1 A l’international 122 
+3.1.1. World Professional Association for Transgender Health 122 
+3.1.2 Transgender Europe 124 
+3.2 En France 125 
+3.2.1 La Haute autorité de santé 125 
+3.2.2 L’Académie nationale de médecine 126 
+Chapitre 4 – Les besoins spécifiques et spécialisés 127 
+4.1 Les vulnérabilités 127 
+4.2 Les discriminations 128 
+4.3 Les cooccurrences psychiatriques 130 
+4.4 L’accompagnement psychologique 132 
+4.4.1 De la personne 132 
+4.4.2 De la famille 133 
+4.4.3 En groupe 134 
+4.5 Les hypothèses psychodynamiques 135 
+ 10 
+Partie 2 : La démarche de l’étude 139 
+ 
+Chapitre 1 – Le contexte 140 
+1.2 La rencontre avec la clinique 141 
+Chapitre 2 – Le champ de recherche 144 
+2.1 Les problématiques 144 
+2.2 Les trois axes de conduite des entretiens 145 
+Chapitre 3 – la méthode (Sibeoni, 2017) 149 
+3.1 L’analyse phénoménologique interprétative 149 
+3.2 Le paradigme psychanalytique 152 
+Chapitre 4 – La conduite de l’étude 154 
+4.1 L’entretien individuel unique 155 
+4.2 Les participant·es 157 
+4.2.1 L’âge des participant·es 157 
+4.2.2 L’effectif de participant·es 158 
+4.2.3 Les modalités de l’entretien 158 
+Chapitre 5 – Comment traiter le matériel 159 
+5.1 Au-delà du savoir constitué par la littérature 159 
+5.2 La question du sens 162 
+Chapitre 6 – La réflexivité 164 
+6.1 Du point de vue des participant·es 165 
+6.2 Du point de vue de la chercheuse-clinicienne 166 
+Chapitre 7 – L’éthique 167 
+7.1 L’éthique de la recherche 168 
+7.1.1 Les spécificités de la recherche 168 
+7.1.3 L’anonymat des participant·es 170 
+7.1.4 Le consentement des professionnel·les 171 
+7.1.5 Les démarches à la Cnil 171 
+ 11 7.2 L’éthique du non-savoir 172 
+ 
+Partie 3 : L’analyse des résultats 173 
+ 
+Chapitre 1 : Portraits individuels 175 
+Portrait n° 1 : Matthias 177 
+1.1 Le récit expérientiel 178 
+1.1.1 L’annonce 179 
+1.1.2 Les changements physiques 180 
+1.2 Les éléments de discursivité 181 
+1.2.1 Les temps de l’entretien 181 
+1.2.2 La position subjective 183 
+Portrait n° 2 : Yanaël 187 
+2.1 Le récit expérientiel 187 
+2.1.1 Surjouer sa féminisation 188 
+2.1.2 Le choix du prénom 189 
+2.1.3 L’aide d’une personne tierce 191 
+2.1.4 Muer jeune adulte 192 
+2.1.5 Être accepté par sa famille et la société 193 
+2.2 Les éléments de discursivité 195 
+2.2.1 Les temps de l’entretien et la position subjective 195 
+Portrait n° 3 : alban 197 
+3.1 Le récit expérientiel 197 
+3.1.1 Son deuxième prénom de naissance 198 
+3.1.2 La féminité 199 
+3.1.3 Une acceptation parentale délicate 200 
+3.1.4 La peur de l’exclusion scolaire 202 
+3.1.5 L’agression 204 
+3.2 Éléments de discursivité 206 
+ 12 3.2.1 Les temps de l’entretien 206 
+3.2.2 La position subjective 206 
+Portrait n° 4 : Laurent 209 
+4.1 Le récit expérientiel 210 
+4.1.1 L’appréhension de la masculinisation de la voix 211 
+4.2 Éléments de discursivité 213 
+4.2.1 Les temps de l’entretien et la position subjective 213 
+Portrait n° 5 : Victorus 215 
+5.1 Le récit expérientiel 215 
+5.1.1 Être considéré pour soi 217 
+5.1.2 L’acceptation parentale douloureuse 218 
+5.2 Éléments de discursivité 219 
+5.2.1 Les temps de l’entretien et la position subjective 219 
+Portrait n° 6 : Ronan 221 
+6.1 Le récit expérientiel 221 
+6.1.1 L’enjeu vital de la masculinisation 224 
+6.2 Éléments de discursivité 226 
+6.2.1 Les temps de l’entretien et la position subjective 226 
+Portrait n° 7 : Cyprien 229 
+7.1 Le récit expérientiel 229 
+7.1.1 L’identification à une personne populaire et à un idéal 
+professionnel 230 
+7.2 Éléments de discursivité 231 
+7.2.1 Les temps de l’entretien et la position subjective 231 
+Portrait n° 8 : Agathe 233 
+8.1 Le récit expérientiel 234 
+8.1.2 Être dans la norme 235 
+8.2 Éléments de discursivité 237 
+8.2.1 Les temps de l’entretien et la position subjective 237 
+ 13 Portrait n° 9 : Anaël 239 
+9.1 Le récit expérientiel 239 
+9.1.1 Un enjeu vital 240 
+9.1.2 L’acceptation familiale fragile 241 
+9.2 Éléments de discursivité 242 
+9.2.1 Les temps de l’entretien et la position subjective 242 
+Portrait n° 10 : Madelin 245 
+10.1 Le récit expérientiel 245 
+10.1.1 La rencontre avec la professionnelle de santé psychique 246 
+10.1.2 Être soi-même et avoir un bon passing 247 
+10.1.3 Être respecter par les autres 249 
+10.2 Éléments de discursivité 251 
+10.2.1 Les temps de l’entretien 251 
+10.2.2 La position subjective 251 
+Portrait n° 11 : Ruben 255 
+11.1 Le récit expérientiel 255 
+11.2 Les éléments de discursivité 257 
+11.2.1 Les temps de l’entretien et la position subjective 257 
+Portrait n° 12 : Tristan 259 
+12.1 Le récit expérientiel 259 
+12.1.1 L’enjeu vital des hormones 261 
+12.2 Les éléments de discursivité 262 
+12.2.1 Les temps de l’entretien 263 
+12.2.2 La position subjective 263 
+Portrait n° 13 : Matthieu 265 
+13.1 Le récit expérientiel 265 
+13.1.1 Une corpulence masculine 266 
+13.1.2 L’identification impossible à la communauté trans 267 
+13.2 Les éléments de discursivité 269 
+ 14 13.2.1 Les temps de l’entretien et la position subjective 269 
+Portrait n° 14 : Jean 273 
+14.1 Le récit expérientiel 273 
+14.1.1 L’inconfort corporel 274 
+14.1.2 Être perçu comme un homme 276 
+14.1.3 Des affects de haine 277 
+14.2 Les éléments de discursivité 278 
+14.2.2 La position subjective 279 
+Chapitre 2 – Les dimensions expérientielles 282 
+2.1 La dimension corporelle 282 
+2.1.1 La souffrance 282 
+2.1.2 La congruence sociale et corporelle 284 
+2.1.3 Les bénéfices et le confort des chirurgies 285 
+2.1.4 L’orientation sexuelle 286 
+2.1.5 La préservation de fertilité 287 
+2.2 La dimension sociale 288 
+2.2.1 L’annonce 288 
+2.2.2 La fratrie et la famille 288 
+2.2.3 Le choix du prénom 289 
+2.2.4 La présence d’un·e tiers·ce professionnel·e et/ou pair-aidant·e 290 
+2.2.5 Le changement juridique 290 
+2.3 La dimension de la discrimination 291 
+2.3.1 L’espace familial 291 
+2.3.2 L’espace scolaire et professionnel 291 
+2.3.3 L’espace médical 292 
+2.3.4 L’espace public 293 
+2.3.5 L’espace communautaire 293 
+2.3.6 L’espace médiatique 294 
+ 
+ 15 Partie 4 : La discussion 299 
+Chapitre 1 – L’analyse du contretransfert 300 
+1.1 L’impact du contexte politique 300 
+1.2 Questions de métapsychologie 304 
+Chapitre 2 : Retour sur la démarche méthodologique 306 
+2.1. La méthodologie phénoménologique 306 
+2.2 La construction de l’outil et le déroulement des entretiens 308 
+2.3 L’entretien unique 309 
+2.4 La constitution de l’échantillon 311 
+Chapitre 3 – Les enjeux théorico-cliniques 312 
+3.1 Les notions et concepts depuis les résultats 312 
+3.1.1 313 
+La notion d’identité de genre 313 
+3.1.2 La dépathologisation 314 
+3.2 Les enjeux contemporains 316 
+3.2.1 Accroître l’accès au soutien psychosocial 316 
+3.2.2 Accompagner les retransitions 316 
+ 
+Conclusion 319 
+Bibliographie 323 
+Table des annexes 348 
+ 
+Annexe 1 : retranscriptions des entretiens 349 
+Annexe 2 : représentations graphiques des unités de sens des récits 
+expérientiels 350 
+Annexe 3 : notes d’information et formulaires de consentement 365 
+Annexe 4 : Formulaire de consentement 376 
+de la responsable hospitaliere 376 
+Annexe 5 : Déclaration à la CNIL du projet 377 
+ 
+ 16 
+GLOSSAIRE 
+
+– Cisgenre. On dit d’une personne qu’elle est cisgenre (femme ou homme) si elle 
+est alignée avec son genre d’assignation à la naissance. Ce terme est pensé « en 
+miroir » de la transidentité (avec les préfixes cis et trans). 
+ 
+– Ciscentrisme/cisnormatif. Désigne la tendance à considérer une question par l e 
+prisme du genre cis (cf. infra). 
+ 
+– Coming-out. Le terme renvoie à la situation où une personne annonce à 
+quelqu’un·e que le genre qui lui a été assigné à la naissance ne correspond pas à 
+son ressenti intime et personnel. Une personne peut également se faire outer par 
+quelqu’un·e auprès d’une ou d’autres personnes. 
+ 
+– Dicklit. Contraction des termes anglais « dick » et « clitoris », le dicklit 
+correspond à la poussée du clitoris sous l’effet hormonal de la testostérone. 
+ 
+– Deadname ou morinom. Le terme désigne le prénom assigné à la naissance par 
+opposition au prénom choisi. 
+ 
+– Dysphorie de genre. Le terme gre c décrit une situation d’inconfort liée à l’écart 
+qu’il peut y avoir entre le genre assigné à la naissance et genre ressenti (et/ou 
+exprimé). Cet inconfort se manifeste notamment par rapport à l’image corporelle, 
+et dans les interactions sociales. Ce terme est aussi un diagnostic mé dical 
+(DSM-5)2 qui répond à un certain nombre de critères pour avérer la transidentité 
+d’une personne. 
+
+2 Se reporter à la Partie 1 : Revue de littérature, section 1, chapitre 1, 1.2.3 Évolution conceptuelle 
+à travers le repérage diagnostique pour avoir la définition du terme DSM. 
+ 17 – Expression(s) de genre : expression(s) sociale(s) de l’identité de genre d’une 
+personne depu is l’utilisation du prénom, des pronoms choisis, des vêtements, de la 
+coupe de cheveux, de la voix et/ou des caractéristiques corporelles. 
+ 
+– Identité de genre : expérience intime et personnelle qui correspond ou non au sexe 
+qui a été assigné à la naissance. Sur les aspects du ressenti du corps (qui peut 
+impliquer, si consentie librement, une modification de l’apparence ou des fonctions 
+corporelles par des traitements médicaux, chirurgicaux ou autres). Sur d’autres 
+expressions de genre comme l’habillement, et l’expression de genre personnelle. 
+ 
+– Mégenrer. Traduit de l’anglais misgender , le « mégenrage » pour désigner le fait 
+de se tromper dans les pronoms et/ou les accords lorsqu’on s’adresse à une 
+personne. 
+ 
+– Non-binarité. La non-binarité désigne le fait de se définir dans un continuum 
+c’est-à-dire à un endroit entre les hommes et femmes (bigenre), homme et femme 
+(genderfluide), ni homme ni femme (agenre), en-dehors de la binarité homme-
+femme et du concept de genre (xénogenre). En France, la non-binarité reste le plus 
+utilisé, avec le terme « genderqueer »3. 
+ 
+– Passing : le fait d’être reconnu·e et identifié·e comme appartenant à un genre 
+social, une classe sociale, une race sociale, etc. par la société, les individus et/ou 
+soi-même. 
+
+3 Nous nous sommes appuyée sur les travaux de Fanny Poirier, docteur·e en psychologie p our 
+construire cet item et sur son travail de doctorat sur la « non -binarité chez les jeunes adultes. 
+Élaboration d’un savoir autour des énonciations non -binaires et perspectives pour la compréhension 
+de l’identité de genre chez tout.e un.e chacun.e », soutenu publiquement le 29 mars 2021, Paris 7, 
+sous l a direc tion des professeur·es L. Laufer et O. Rosemblum, et sur les publications 
+complémentaires (Poirier et al., 2019) . 
+ 18 – Personne intersexe : personne née avec des caractéristiques de sexe biologiques 
+qui ne correspondent pas aux normes sociétales ou aux définitions médicales de c e 
+qui fait qu’une personne est un homme ou une femme. Il s’agit d’un spectre ou d’un 
+terme général versus une catégorie unique. Nous le définirons plus précisément à 
+l’appui de la littérature scientifique en partie 1. 
+ 
+– Reconnaissance juridique du genre : elle comprend le nom, la désignation du 
+sexe/genre et les autres informations relatives au genre telles que reflé tées dans les 
+prénoms, numéros de sécurité sociale/d’identification personnelle, titres, etc., dans 
+les registres et fichiers publics et sur les documents d’identité (cart es d’identité, 
+passeports, permis de conduire) et les autres documents similaires (diplômes , etc.). 
+ 
+– Retransition et détransition. Une personne peut effectuer une transition et prendre 
+conscience que l’enjeu se situe à l’endroit d’un vécu alternatif de son identit é de 
+genre assignée à la naissance ou de son orientation (a-)sexuelle et/ou (a)romant ique. 
+De par la richesse de ce qu’englobe la transition, la détransition n’advient pa s à un 
+moment donné de la transition et peut aussi bien concerner la transition soci ale et/ou 
+administrative et/ou corporelle. Il peut être lié une dimension de regret à l a 
+détransition ou non, sans forcément éprouver un sentiment de retour en arrière4. 
+ 
+– Statut de sexe/genre : sexe juridique qui apparaît sur les documents tels que le 
+certificat de naissance et les documents qui permettent à une personne d’être 
+identifiée (carte de transport, de bibliothèque, etc.). 
+
+4 Ce terme fera l’objet d’une définition plus ample et d’un éclairage depuis les travaux de 
+recherche pertinents (Pullen Sansfaçon et al., 2023) . (Cf. Partie 1, section 1, chapitre 3, 2.7 
+Discontinuité dans les parcours ). 
+ 19 INTRODUCTION 
+
+Nous rédigeons ces paragraphes liminaires le jour où le Mariage pour tous et tou tes 
+« fête » ses dix ans de promulgation. La sociologue du droit Irène Théry souligne 
+le changement majeur de l’institution du mariage : le mariage n’est plus référé à la 
+présomption de paternité mais au « couple duo » (Théry, 17 mai 2023). On entend 
+depuis la référence à l’espace légitime de conjugalité que la question de la 
+différence homme/femme est sous-tendue par les institutions politiques et les 
+normes sociales. Michel Foucault l’a montré dans La volonté de savoir (1976) en 
+parlant de la sexualité comme de « la fabrique du sexe » et « des mécanis mes qui 
+concourent à le produire » (Potte-Bonneville, 2012, p. 76)5. Le sexe devient un 
+emplacement discursif : « Peu à peu, le sexe va devenir le centre de nos vies, va 
+être la base d’une multitude des savoirs et sera surtout le critère fondame ntal pour 
+établir notre propre identité comme sujets. » (Saez, 2005, p. 46). 
+Lier les questionnements préalables aux transitions de genre et les parcours des 
+jeunes transféminines et transmasculins à l’actualité nationale sit ue notre travail de 
+recherche au plus près des normes sociales et des représentations du masculin, du 
+féminin et de non-binar ité. Rappelons que les évolutions sociales, juridiques, et 
+sociétales du modèle majoritaire héténormatif et cisnormatif restent le terrain de 
+vifs affrontements : la procréation médicalement assistée, la gestation pour autrui 
+ou l’avortement pour les hommes transmasculins6, les traitements hormonaux pour 
+les mineur·es, etc. 
+Par association d’idées, nous avons une pensée pour les personnes victimes de 
+discriminations, dont les personnes trans. Pour celles et ceux qui sont, ou qui ont 
+été, précarisé·es et malmené·es par le rejet et l’ostracisme7. Si depuis de 
+ 
+5 Ce point mériterait d’être développé au prisme des texte s foucaldiens sur l’histoire des sexualités 
+et mis en perspective avec les travaux de Pierre Bourdieu (sociologue) pour apporter une lecture 
+critique depuis le champ social et les relations de pouvoir des structures sociales. Ain si que depuis 
+les travaux de Judith Butler (philosophe américaine) que nous évoquerons pour insister sur la 
+dimension de la performativité du genre. 
+6 Un amendement a été déposé par la député Renaissance , Aurore Bergé, le 7 novembre 2022. 
+L’amendement vis e à reformuler un alinéa de l’article 66 -2 sur l’avortement afin d’exclure les 
+hommes transgenres. 
+7 Nous invitons à consulter le Rapport sur les LGBTIPHOBIES. 
+ 20 nombreuses années la visibilité des transitions de genre et d es espaces public s 
+inclusifs a augmenté dans la société, force est de constater que la défens e des droits 
+humains nécessite d’être renforcée. L a multiplicité des expressions de genre ainsi 
+que les positions féminines et masculines plurielles non- cisnormatives restent 
+attaquées, et à la merci de pratiques d’exclusion (Alessandrin, 2016), (Ayouch, 
+2019). 
+La barbarie du geste meurtrier, dont les médias se sont fait l’écho, sur la personne 
+de Vanessa Campos (jeune femme péruvienne trans, travailleuse du sexe, 
+migrante)8, renvoie à tout un·e chacun·e à la haine de l’autre (citoyen·ne, politique, 
+magistrat·e, défenseur·e des droits, chercheur·euse, parent, etc.). Ce t acte violent, 
+mentionné ici trop brièvement, n’ est pas qu’un « simple » fait divers ; il porte le 
+souffle médiati co-politique d’une idéologique réactionnaire qui gronde à gorge 
+déployée – à l’heure où un collectif franco-belge pluridisciplinaire de 
+professionnel·les de l’enfance et de l’adolescence met en garde sur l’influence des 
+réseaux sociaux9. A l’heure où des pratiques de thérapies de conversion ont lieu 
+malgré l’interdiction légale de modifier l’orientation sexuelle ou l’identité de genre 
+(promulguée par la loi de janvier 202210). L’évidence est honteusement candide : 
+la reconnaissance juridique du genre ne bannit pas les discriminations contre les 
+personnes trans, intersexes et non-binaires12. 
+C’est donc à dessein que nous rapprochons un fait divers honteux13 et le climat 
+socio-politico-médiatique pour souligner une attaque directe de la dignité humaine . 
+Ce climat de tension n’est sûrement pas sans conséquences sur l’accompagnement 
+des personnes concernées et de leurs familles. 
+ 
+https://www.sos -homophobie.org/ et à lire l’intervention retranscrite en ligne des personnes 
+concernées lors des « Journées d’échanges sur la santé Trans » (JEST), 11 -12 mai 2023. 
+https://blogs.mediapart.fr/claire -vandendriessche/blog/170523/petite -conversation -ethique -entre -
+tom-tom-et-nana 
+8 https://www.lemonde.fr/societe/article/2023/03/30/meurtre -de-vanesa -campos -deux -hommes -
+condamnes -en-appel -a-quatorze -ans-et-dix-sept-ans-de-prison -ferme_6167654_3224.html 
+9 https://www.observatoirepetitesirene.org/ 
+10 Office of the hight Comissioner , United Nations Humans Rights . 
+https://www.ohchr.org/sites/default/files/ConversionTherapyReport_FR.pdf 
+Du côté associatif, nous citons le collectif francop hone « Rien à guérir ». 
+12 Special Eurobarometer – Discrimination in the European Union (2019), Commission 
+européenne, disponible sur : 
+https://ec.europa.eu/info/sites/default/files/ebs_493_data_fact_lgbti_eu_ en -1.pdf. 
+13 Combes, V. (2023). Psychodynamique de la honte chez les auteurs de comp ortements violents . 
+Paris -Nanterre, thèse soutenue le 6 juin 2023 sous la direction du Pr F. Pommier. 
+ 21 Pour regarder par-delà l’hexagone au sein du Conseil de l’Europe trente-neuf états 
+membres, dont la France, disposent d’une procédure juridique ou administrative 
+pour assurer la reconnaissance du genre16. En termes de bonnes pratiques, neuf états 
+membres sont dotés d’un modèle d’« autodétermination », avec le degré de maturité 
+de la personne mineure pour principe directeur (Belgique, Danemark, Irlande, 
+Islande, Luxembourg, Malte, Norvège, Portugal, Suisse). On entend par 
+l’autodétermination le fait qu’une personne puisse définir elle-même son identité 
+de genre sans qu’un·e tiers·ce intervienne dans cette détermination. Une telle 
+approche exclut les obligations d’intervention médicale, d’opération ou de 
+stérilisation et autres exigences18. En Espagne, certaines communautés autonomes 
+ont adopté ce modèle (dans neuf des dix-sept régions)19. 
+ 
+Ce long préambule met l’accent (grave) sur les discriminations et campe les vécus 
+expérientiels des jeunes trans dans le respect des droits humains et de la 
+représentation d e la diversité. C’est donc depuis les expériences des personnes 
+concernées que nous parlerons, et à l’appui des données de la littérature. Pour 
+continuer à situer ce travail de recherche autour des récits de vie des adolescent·es 
+et des jeunes adultes transféminines et transmasculins, nous introduisons une not ion 
+(latérale à notre champ épistémique) utilisée par Edgar Morin : la « complexité » 
+[du latin complexus pour ce qui est tissé ensemble]. « Toutefois, la complexité reste 
+inconçue en physique, en biologie et en sciences humaines. » (Morin, 2013, p. 31). 
+Nous mobilisons cette notion pour asseoir le périmètre de cette étude qualitative et 
+mettre la focale sur les interactions pluridisciplinaires des différents champs 
+recouverts par la transidentité : le subjectif, l’intersubjectif, l’intrapsychique, les 
+vécus corporels, les normes autour de la différence des sexes et des genres, et le 
+ 
+16 Les huit États membres restants sont les suivants : Albanie, Andorre, Arménie, Azerbaïdjan, 
+Hongrie, Macédoine du Nord, Monaco, Saint -Marin. En Hongrie, la loi générale adoptée en mars 
+2020, qui a remplacé la caractéristique « sexe » (modifiable) par un immuable « sexe attribué à la 
+naissance », a rendu la reconnaissance juridique du genre impossible. 
+18 Treize pays se situent bien au -dessus de la moyenne, avec jusqu’à 83 % de personnes favorables 
+en Espag ne et à Malte ou 82 % aux Pays -Bas. Dans 15 pays, le soutien est très faible, avec 2 0 % de 
+personnes favorables en Roumanie, 16 % en Hongrie ou 12 % en Bulgarie. 
+19 Le Congrès des députés (chambre basse du Parlement bi caméral espagnol) a adop té 
+définitivement le 16 f évrier 2023. 
+https://www.lemonde.fr/international/article/2023/02/16/l -espagne -adopte -une-loi-permettant -de-
+changer -librement -de-genre -des-16-ans_6162092_3210.html 
+ 22 discours sociopolitique évoqué précédemment. Edgar Morin ajoute que « Le 
+propre, non pas de la discipline en soi, mais de la discipline telle qu’ell e est conçue, 
+non communicante avec les autres disciplines, fermée sur elle-même, dési ntègre 
+naturellement la complexité. » (Morin, 2013, p. 29). 
+ 
+Nous ferons ainsi dialoguer la littérature et l es expériences des personnes 
+concernées selon une méthodologiqu e phénoménologique et qualitative, au travers 
+des espaces qu’elles traversent : l’intimité corporelle, l’intrapsychique, 
+l’intersubjectif de la sphère familiale et sociale, les institutions médicales et 
+académiques. 
+– Le premier volet de la revue de littérature s’articule autour d’un tripode : les 
+apports du champ bio médical, de la psychanalyse et de l’accompagnement proposé 
+aux adolescent·es et à leurs familles (médical, chirurgical et des changem ents 
+sociaux et/ou juridiques). Cette approche d’un matériel de littérature hétérogène 
+pose l’ampleur épistémologique liée à la transidentité. Nous balayerons l’historique 
+des transidentités depuis la lecture de la prise en charge médicale. Il y a quarante-
+ans la transidentité était un diagnostic psychiatrique, et la France dé classifiait 
+l’homosexualité en tant que maladie mentale (Sironi, 2011, p. 57-109). 
+L’étude des notions et des concepts fondateurs de la transidentité précèdera 
+l’évolution terminologique des notions relatives à l’identité de genre et à la non-
+conformité de genre. 
+Nous montrerons l’extrême complexité de la notion du genre qui, au-delà de la 
+distinction biologique et anatomique, s’abouche avec les représentations social es. 
+Le genre est supporté par un appareillage discursif, culturel, et par la langue au-delà 
+des idéaux propres à l’imaginaire collectif sociétal. « Si le genre renvoie, par 
+définition, à un ensemble d’attentes, de comportements, de rôles, de statuts e t de 
+droits qu’une société attribue aux individus en fonction de leur sexe, il est auss i 
+aujourd’hui l’expression d’une revendication à considérer et à reconnaître 
+l’expression de la multiplicité des identités de genre. » (Gilliot & Cham bon, 2023, 
+p. 2). 
+Nous souhaitons ménager un espace pour ce qui a été repéré par le savoir 
+philosophique, et depuis la position personnelle de Judith Butler, comme le 
+ 23 décentrement d’un à priori héténormatif – qu’il soit pensé ou impensé (Butler et al ., 
+2006)20. 
+– La seconde partie de la thèse exposera classiquement la population et la 
+méthodologie. Notre population de recherche est constituée d’adolescent·es 
+mineur·es et de jeunes adultes transmasculins et transféminines. Ils et elles ont 
+affirmé un genre différent du sexe qui leur a été assigné à la naissance. Ces 
+dernier·ières ont été rencontré·es : à la consultation Diversité de genres dans le 
+service de pédopsychiatrie dirigé par le Professeur David Cohen à la Pitié-
+Salpêtrière, et sur un réseau social communautaire. 
+Pour faire entendre les voix expérientielles et saisir les modalités des parcours de 
+transition de genre, nous avons privilégié la recherche qualitative à l’appui d’une 
+petite quinzaine d’entretiens de recherche semi-directifs. L’axe des entreti ens est le 
+récit de vie depuis le parcours de transition de genre. L’analyse a été conduit e grâce 
+à la méthode de l’ Interpretative Phenomenological Analysis (Antoine, 2017). La 
+recherche s’inscrit dans un paradigme psychanalytique avec une dimension 
+psychodynamique pour entendre la conflictualité psychique du sujet. Nous 
+porterons une attention particulière à la cartographie du sexue l (Pommier, 2010). 
+– La troisième partie présentera les résultats des entretiens analysé s de façon 
+longitudinale pour chaque sujet interviewé (sous forme de portrait). Au plus près 
+des énoncés et de l’énonciation de chacun·e, nous dégagerons les unités de sens de s 
+discours des participant·es. Afin de donner une lecture transversale et dynamique 
+des verbatims, nous procéderons dans un second temps à une lecture croisée des 
+entretiens pour dégager l es domaines expérientiels des récits. 
+– En quatrième partie, nous amènerons un autre outil d’analyse avec le 
+contretransfert pour ouvrir la discussion, et apporter une dimension réflexive 
+supplémentaire aux résultats. L’analyse des contre-attitudes de la chercheus e mettr a 
+au jour notre accordage par rapport à la pulsionnalité des jeunes interviewé·es. 
+ 
+20 Dans l’introduction de l a seconde édition de Trouble dans le genre (1999) , Judith Butler précise 
+que le but de son livre est de réinterroger, depuis sa position de philosophe et d’une minorité 
+sexuelle, le champ des possibles en termes de genre et de sexualité. Sa prise de distance d’un à priori 
+hétérocentré depuis la position de celles et de ceux « qui ont fait l’expérience de vivre comme des 
+êtres socialement ‘ impossibles’, illisibles, irréalisables », Éditions de la Découverte, 2006 pour la 
+traduction française, p. 26. 
+ 
+ 24 
+In fine , il s’agira d’appréhender les liens de complexité et de triangulation entre l a 
+notion conceptuelle de la transidentité, la méthodologie phénoménologique et 
+qualitative, et les dires des jeunes qui ont fait l’expérience intime, ps ychique et 
+sociale d’un « transfuge de sexe » et/ou de genre (Beaubatie, 2021, p. 7-8) depuis 
+l’épistémologie psychanalytique qui oriente notre travail de clinicienne. Suivra une 
+discussion théorico-clinique à la lumière des résultats de recherche et des enjeux 
+contemporains de la transidentité pour les mineur·es et les jeunes adultes à la 
+lumière d es perspectives et des limites de l’étude qualitative. 
+
+ 25 
+
+Partie 1 : Revue de littérature sur la transidentité 
+
+L’objectif de cette partie est de brosser les concepts et les caté gories référentielles 
+de la transidentité. Nous organis erons la revue de littérature depuis une approche 
+pluridisciplinaire : biomédicale, psychanalytique, et prise en soins. Sans perdre de 
+vue la cohérence épistémologique de l’ensemble de l’étude, qui emprunte à 
+plusieurs domaines, nous poserons les données démographiques avant de définir la 
+terminologie des champs du sexe, du genre, de la sexualité, et de l’identité de genre. 
+Les hypothèses biologiques et psychopathologiques nécessaires à la compréhension 
+de notre sujet seront rapportées depuis la littérature avant de brosser les différe nts 
+accompagnements qui peuvent être proposées aux personnes concernées et à leurs 
+familles. 
+Ces démarches intègrent les recommandations des sociétés savantes et des apports 
+de la littérature internationale. La recension des articles scientifi ques a été réalisée 
+à partir de l’actualisation d’une revue de littérature que nous avons corédigée ave c 
+Nicolas Mendès et Agnès Condat (respectivement docteur en psychologie, et 
+pédopsychiatre et psychanalyste) (Mendes et al., 2016), et d’un article princeps de 
+Kenneth Zucker « Memo Outlining Evidence for Change for Gender Identity 
+Disorder in the DSM-5 » paru en 2013 (Zucker et al., 2013). Ce corpus a été 
+actualisé par les travaux recherchés sur les bases de données PsychInfo, Med-l ine 
+PubMed et Cairn, depuis les références psychanalytiques d’auteurs classiques e t 
+contemporains, et à l’appui de la littérature des personnes concernées. 
+En deux décennies, la compréhension des dénominations du sexuel et du genre ont 
+grandemen t évolué. Elles sont passées d’un usage médical pathologique 
+psychiatrique, qui reposait sur un modèle binaire (le transsexualisme) à un spectre 
+ 26 de l’identité de genre (la transidentité) (Knudson, 2020). Désormais, l’ensemble de 
+la communauté scientifique internationale s’inscrit en faux contre l’idée d’une 
+pathologie de l’identité et considère qu’il s’agit d’intégrer des aspects émot ionnels 
+et motivationnels des personnes (Agana et al., 2019). Nous serons attentive à l a 
+littérature produite par les personnes concernées pour situer le genre et les e njeux 
+des transitions depuis leurs vécus. Nous précisons que la transition sociale n’est pas 
+toujours suivie d’une transition médicale et/ou juridique (Erickson-Schroth, 
+2022)22. 
+Si le préfixe « trans » est associé à la sexualité dans les années c inquante, il faut 
+attendre les années soixante-dix pour qu’il soit référé au genre dans le contexte 
+international. Les associations de personnes concernées ont médiatisé les parcours 
+d’affirmation depuis les années soixante-dix, et ont partagé un savoir expérientiel. 
+L’activisme et les revendications des vécus et des trajectoires ont donc permis de 
+prendre en compte de l’identité de la personne. 
+Nous interrogerons le changement de paradigme de la pathologisation de la 
+transidentité à une approche de la transidentité dite affirmative. Précise r les 
+conceptions de la transidentité et les façons de nommer les personnes trans 
+précèdera le repérage des différent s volets de la transition. Aujourd’hui, « Dans les 
+faits identifier le sexe de quelqu’un n’est pas aussi simple qu’il n’y paraît, et ce 
+d’autant qu’il faut préalablement s’entendre sur ce qu’on cherche à identifier une 
+catégorie de sexes (hommes/femmes dans un système binaire) » (Bereni et al ., 
+2020, p. 16). 
+Les questions de recherche qui sous-tendent la revue de littérature sont les 
+suivantes : de quelle façon pensons-nous le redéploiement contemporain des statuts 
+du masculin et du féminin à partir des piliers du sexe, du genre et de la sexualité ? 
+Une identité de genre dont l es dimension s multifactorielles puisent dans le 
+patrimoine génétique, sociologique et psychologique, et met en jeu une 
+ 
+22 Nous faisons référence au chapitre 8 , section 2 , « Transition sociale », écrit par Florence Ashley 
+et Avy A. Skolnik. 
+ 
+ 27 transmission inter et transgénérationnelle. L’un des enjeux de la revue de la 
+littérature est de montr er la rupture de la causalité et de la binarité entre le sexe, la 
+sexualité et le genre, et la place de la subjectivité du sujet via l’identité de genre et 
+la pluralité d es accompagnements offerts aux personnes concernées. 
+ Julia Serano, biologiste américaine, personne concernée et militante, apporte un 
+terme opérant pour situer notre propos : le cissexisme (sexisme oppositionnel). Ell e 
+attribue ce nouveau paradigme à l’activisme transgenre permettant la 
+compréhension des expériences de la population variante de genre (de laquelle les 
+transsexuel·les sont un sous-ensemble) (Serano & Grunenwald, 2020, p. 109). 
+Cette notion paraît d’autant plus pertinente pour situer cette recherche qu’elle 
+permet d’inclure les personnes qui se perçoivent en dehors de la binarité 
+homme/femme et les personnes dont l’expression de genre ne s’y confirment pas. 
+Pourvoir d’emblée se décentrer d’une position cisnormée ou d’un modèle 
+uniquement référé à la cisnormativité permet de comprendre les évolutions soc iales 
+et sociétales et les points de tension pour tenter d’en proposer une reformulation 
+(Serano & Grunenwald, 2020). 
+Mobiliser la notion de « cisnormativité » met en lumière les privilèges dont 
+bénéficient certaines personnes cisgenres dans la société, introduit la dim ension de 
+la différence dans l’accès à la prise en soins et l’inclusion sociale. La 
+reconnaissance du cissexisme ouvre les enjeux autour de la santé mentale et de la 
+vulnérabilité des personnes trans. 
+La citation suivante est extraite du chapitre intitulé « Démanteler le privilège 
+cissexuel » de Julia Serano : « Jusqu’à présent, les discours sur la transidenti té ont 
+toujours été conditionné par un langage et des concepts inventés par des médecins 
+et des chercheurs et des universitaires qui ont fait des personnes transsexuel les leurs 
+objets d’étude. (…) De l’autre côté, les corps, identités, perspectives et expé riences 
+cissexuelles sont simplement prises pour acquises – c’est-à-dire considérées 
+comme « naturelles » et « normales » – et échappent à une critique réciproque. » 
+(Serano, 2020, p. 109). Nous accordons d’autant plus d’importance à cette 
+remarque que nous sommes cisgenre et appréhendons un vécu expérientiel qui ne 
+ 28 nous a pas questionnée, et dont nous n’avons pas l’expérience corporelle ou 
+psychique. 
+
+ 29 
+SECTION 1 : LECTURE BIOMEDICALE 
+ 
+Nous souhaitons historiciser les concepts liés au sexe et au genre, et leurs repérages 
+terminologiques pour mettre en avant le changement de paradigme depuis la 
+dénomination du transsexualisme (à travers la sexualité) jusqu’à la diversité de 
+l’identité de genre avec l’incongruence et la variance de genre, en passant par la 
+dysphorie de genre. 
+ 
+CHAPITRE 1 – HISTORICISATION DES CONCEPTS ET LEUR EVOLUTION 
+1.1 Le transsexualisme 
+Le terme de transsexualisme naît aux États-Unis en 1953 ; il est at tribué à Harry 
+Benjamin (1885-1986) – endocrinologue américain d’origine allemande. Il désigne 
+le processus de réassignation dans l’autre sexe après avoir effectué une transiti on 
+hormonale et chirurgicale. A cette époque, les aspects sociaux et juridiques ne sont 
+pas évoqués (Halberstam, 2018)23. 
+1.1.1 Historique du concept 
+Avant Harry Benjamin, dans les années vingt, les travaux des sexologues et de 
+psychiatres rapportent des cas de travestisme ou d’homosexualité. 
+
+23 Jack Halberstam (universitaire américain actif dans le champ des études de genre et de littérature 
+comparée) parle d’une aliénation au terme « transsexuel » par manque d’identification. Il dit en 
+substance (dans une réflexion personnelle alors qu’il est adole scent transgenre dans les années 
+soixante -dix aux Éta ts-Unis) qu’il a saisi ce terme comme un gilet de sauve tage dans une mer agitée 
+alors qu’il n’y avait pas d’autres mots dans son environnement pour décrire son identification. 
+ 30 L’idée du médecin allemand Magnus Hirschfeld (1868-1935), fondateur de 
+l’institut de sexologie à Berlin, et père fondateur des mouvements de libération 
+homosexuelle24, porte sur le travestissement et l’hypothèse hormonale et cérébrale 
+d’un « hermaphrodisme psychique ». Les théories de Magnus Hirschfeld, dit 
+médecin militant qui facilitait les transitions, ont influencé les t ravaux de Harry 
+Benjamin. 
+L’accent clinique est mis sur les vêtements et non sur changement de s exe. Harry 
+Benjamin, ami de Magnus Hirschfeld oriente ses recherches médicales du côté du 
+paradigme clinique de « l’erreur médicale », et de l’étiologie biologique (troisièm e 
+sexe). Il fonde l’institut pour la science sexuelle ( Institut für Sexualwissenschaft ), 
+puis en 1921 avec Ellis et Forel la « Ligue mondiale pour la réforme sexuelle », qui 
+lutte entre autres causes, contre la stigmatisation des sexualités marginales 
+(homosexuels et des travestis...). A cette époque- là, la détermination biologique du 
+sexe d’assignation à la naissance et la « doctrine » de la binarité priment. 
+Dans les années vingt-trente, les progrès relatifs aux hormones sexuelles, à l ’appui 
+des avancées de Eugen Steinach, offrent de nouvelles perspectives thérapeutiques 
+pour le changement d’apparence physique. Les premières opérations chirurgicales 
+des organes génitaux sont réalisées. En matière de biologie, les travaux de S teinach 
+étudient les changements du comportement sexuel sur les rats et des grenouil les 
+ 
+24 « Die Homosexualität des Mannes und des Weibes » (1904) est une étude scientifique sur 
+l’homosexualité masculine et féminine à l’époque. Les lectures bibliogra phiques citent également 
+les deux auteurs suivants. 
+Kurt Hiller (1907 -1933) était écrivain et militant homosexuel allemand et écrivain et journaliste 
+allemand. Son livre Die neue Generation regroupe des essais et des poèmes qui prom euvent la 
+liberté sexuelle et l’émancipation des homosexuels. 
+Benedict Friedlaender (1910 -1913) était écrivain et journaliste allemand. Son magazine « Der 
+Schelm » était l’un des premiers à aborder ouvertement les questions de l’homosexualité et de 
+l’émancipation homosexuelle. 
+Ces références bibliographiques offrent une perspect ive historique intéressante sur les débuts du 
+mouvement de libération homosexuelle en Allemagne au dé but du XXe siècle. 
+
+ 31 après l’implantation d’ovaires et de castration. Freud y fait référence dans le s Trois 
+essais sur la théorie sexuelle25 (Freud, 2010). 
+Dans les années cinquante, Harry Benjamin reprend le terme de transsexualis sous 
+la forme nominative de trans-sexualisme, et publie un article nommé « Travestism 
+and Transsexualism » devant l’académie médicale de New York. Le terme a été 
+auparavant employ é par Magnus Hirschfeld, qui publie « Seelischer 
+transsexualismus » (Benjamin, 1953). Ses nombreuses visites auprès de Magnus 
+Hirschfeld lui permettent d’établir un diagnostic différentiel entre le traves tisme 
+(cross dress in their clothes ) et le transsexualisme ( belong to ). Il distingue le 
+transsexualisme des perversions « a sexual deviation, sometimes as perversion », 
+et soulignant que le terme qui est décrit dans la littérature en sexologi e met l’accent 
+sur le « gender discomfort ». La demande de rectification chirurgicale « conversion 
+operation » des patients ( deformities that must be changed by surgeon’s knife ), est 
+notée dans la rédaction de ses certificats médicaux. 
+Ces travaux permettent à Harry Benjamin de distinguer trois sexes : celui dans 
+lequel l’enfant a été élevé ( rearing sex ), le sexe anatomique et le sexe psychique 
+(gender ). Il met l’accent sur les intérêts personnels durant la petite enfance, e t sur 
+le désir parental par rapport au sexe de l’enfant. Il consacre un chapitre au trai tement 
+non chirurgical (la guidance, la psychothérapie), et affirme qu’après trois ans de 
+thérapie plusieurs patient·es ont persisté dans le choix de l’autre sexe. Le s thérapies 
+adaptatives ( curing transsexualim ), dont le but est de convaincre de la congruence 
+entre l’assignation à la naissance et le genre ressenti, ne sont pas s elon Harry 
+Benjamin une indication thérapeutique à retenir27. 
+Ce dernier considère le transsexualisme comme un continuum selon l’intensité du 
+désir chez un sujet d’être de l’autre sexe. Pour lui, les « vrais » transsexuels sont 
+ceux qui recours à la chirurgie pour être en congruence avec le sentiment 
+d’appartenance au sexe souhaité « les vrais transsexuels ont le sentiment qu’ils 
+ 
+25 Freud, S. (2010). Trois essais sur la th éorie sexuelle . Presses universitaires de France. 
+27 Nous faisons, de façon anachronique, le parallèle av ec les thérapies de conversion interdites en 
+2022. 
+ 32 appartiennent à l’autre sexe, ils veulent être et fonctionner en tant que mem bres du 
+sexe opposé, et pas seulement apparaître comme tels. Pour eux leurs organes 
+sexuels, primaires (testicules) aussi bien que secondaires (pénis et autre s), sont de 
+dégoûtantes difformités devant être changées grâce au bistouri du chirurgien… » 
+(Benjamin, 1953, p. 12-14)28. 
+Nous retenons que, d’un syndrome médical, le terme de transsexualisme est promu 
+au rang de concept avec Harry Benjamin pour qui la demande d’acte chirurgical 
+vient signer la transsexualité. D’un point de vue des thérapies par la parole, H arry 
+Benjamin ne cache pas son point de vue sur l’inefficacité des psychothérapies pour 
+« ramener » les personnes vers leur sexe d’assignation. La loi considère que 
+l’inclusion de l’identité de genre est fondamentale pour la protection des droits, de 
+la santé et du bien-être des personnes trans30. 
+L’inclusion de l’identité de genre dans cette loi n’a pas été sans contes tation et 
+« objet de controverses » de la part de conservateur·trices de groupes religieux 
+(Beaubatie, 2021, p. 7). Les arguments opposés ont été les suivants : la diversité de 
+genres va à l’encontre des croyances religieuses, la légitimation de l’ident ité de 
+genre et la promotion des droits LGBTI+. 
+Susan Stryker, dans Others of My Kind: Transatlantic Transgender Histories 
+(Bakker, 2020), précise que du point de vue des personnes concernées l’adoption 
+du terme « transsexuel » représentait une résistance à la médicalisati on, à la 
+pathologisation, et aux nombreux mécanismes par lesquels l’administration, l’éta t 
+américain et la psychiatrie médico-légale cherchaient à contenir la non-normativité. 
+Le choix de la terminologie a donc représenté un enjeu central : « A key problem 
+has always been whose words are being used . »31. Trois zones géographiques 
+ 
+28 Nous traduisons . 
+30 Elle condamne pénalement les pratiques discriminatoires qui interdit les pratiques thérapeutiques 
+qui visent à modifier l’orientation sexuelle et/ou l’identité de genre . 
+Loi n° 2022 -92 du 31 janvier 2022 interdisant les pratiques visant à modifier l ’orientation sexuelle 
+ou l’identité de genre d ’une personne. 
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045097703 
+31 « L’ un des principaux problèmes a toujours été de savoir qui utilisait les mots. » (nous traduisons ), 
+Others of My Kind: Transatlantic Transgender Histories , p. 251-265. 
+ 33 (Allemagne, Pays-Bas et États-Unis)32 sont explorées pour montrer les différents 
+usages sémantiques de travestisme et de transsexualisme. Magnus Hirsc hfeld ouvre 
+une nouvelle perspective en soutenant que le travestissement ne peut pas êt re 
+assimilé à l’homosexualité ; il dépathologise les conditions de l’anatom ie sexuelle 
+(“Hirschfeld was seeking to depathologize conditions of sexual anatomy ”)33. Il 
+avance la conviction d’un continuum ou d’un spectre du sexuel et emploie le terme 
+d’intersexualité (dans un usage différent de l’acception actuelle) dans son ouvrage 
+(Bakker, 2020). 
+En France vingt ans plus tard (1956), le concept du transsexualisme est l’objet 
+d’une thèse de médecine sur les phénomènes cliniques masculins et féminins , 
+« Contribution à l’étude du transsexualisme » est soutenue par Jean-Marc Alby, 
+élève du psychiatre et psychanalyste Jacques Lacan. Il se positionne négat ivement 
+face aux prises en charge hormonale supposant que répondre aux demandes des 
+personnes majoreraient les troubles, et recommande de prendre des dispositions 
+pénales face à ces comportements. Les transitions vers le genre mascul in sont 
+considérées d’un point de vue psychopathologique comme appartenant aux 
+tableaux des psychoses, et les transitions vers le genre féminin sont décri tes 
+cliniquement comme une « erreur de la nature » (Coutinho Jorge et al., 2018, 
+p. 172). 
+Contrairement à Harry Benjamin qui préconise une approche somatique 
+(hormonale et chirurgicale), Jean-Marc Alby réfute les interventions chirurgicales . 
+L’opération ne serait pas opérante sur le syndrome mais uniquement sur 
+l’esthétique. Il nomme cela « la recherche d’un idéal de perfection des Male to 
+ 
+32 Pour saisir le po nt historique entre les trois pays, et les lignes de transfert de connaissance entre 
+Magnus Hirschfeld et Harry Benjamin puis à Alfred Ki nsey à travers l’histoire, il faut se reporter au 
+chapitre introductif de Anne F. Timm. Un processus similaire se produ it pour la chirurgie aux États -
+Unis. Dans les années cinquante et soixante , les lois américaines bloquent l’accès à la chirurgie ce 
+qui oblige les personnes concernées à se diriger vers l’Europe. Les Pays -Bas sont devenus un 
+nouveau refuge pour les personnes transgenres après le Danemark qui a interdit la chirurgie sur les 
+personnes étrangères comme une réponse à l’affaire Jorgensen. En 1966, la Commission médicale 
+néerlandaise ferme les circuits de prise en charge chirurgicaux en déclarant que les médecins 
+devaient rester à l’écart de ces patient ·es. 
+33 « Hirschfeld cherchait à dépathologiser les conditions de l’anatomie sexuelle » (nous traduisons) 
+cité dans Others of My Kind: Transatlantic Transgender Histories , p. 251. 
+ 34 Female »)34. Il interprète la demande de castration comme une névrose et range le 
+transsexualisme sous le joug d’un processus masochiste (une perversion). La thèse 
+de médecine de Jean-Marc Alby sera, malgré cela, une base de référence i mportante 
+pour les travaux français qui suivront, notamment dans les approches 
+psychanalytiques. L’un des cas cliniques de Jean-Marc Alby est repris par Ja cques 
+Lacan. 
+ 
+1.1.2 Premiers changements hormonaux et chirurgicaux 
+Selon Magnus Hirschfeld, la première intervention chirurgicale de réassignation 
+sexuelle est pratiquée en 1912. Il s’agit d’une personne transmasculine de vingt- et-
+un ans, suivie par un psychiatre, qui aurait obtenu une mastectomie. Par ailleurs, à 
+New York en 1917, Alan L. Hart, médecin diplômé de l’université de Yale né 
+femme, est opéré d’une hystérectomie par le psychiatre Gilbert. Il est réass igné 
+homme à l’état civil, se marie, et décède à l’âge de soixante-douze ans, a près avoir 
+publié en sa qualité de docteur en médecine et de personne concernée35. Le tout 
+premier cas de transsexualisme date de 1930 par le docteur Levy-Lentz, qui prat ique 
+une ablation de pénis. La patiente est réopérée par Magnus Hirschfeld pour la 
+construction d’un néo-vagin. 
+En 1931, F élix Abraham (assistant de Magnus Hirschfeld) accompagne les deux 
+premiers cas de changements de sexe – Dora R. (Rudolf) et Gert B. (Gertrud) qui 
+ont été opérés dix ans plus tôt. La première personne, écrit Abraham a subi une 
+ablation des testicules, puis une ablation du pénis neuf ans plus tard. La deuxi ème 
+personne, transmasculine, a modifié son corps par « l’ablation chirurgicale des 
+seins, des ovaires et par une greffe des testicules. »36. Lili Elbe (la peintre danoise 
+ 
+34 Cité dans Alessandrin , A. (2018). Histoire du « transsexualisme » en France , Sociologie des 
+transidentités , Le Cavalier bleu, 2018 , (p. 19-33). 
+35 Pour une chronologie complète de 1910 à 1998, on se reportera à la version électronique de l’essai 
+sur le transsexualisme et l’identité personnelle, La métamorphose impensable (2003) de 
+P.-H. Castel, Gallimard. 
+36 Cité dans la thèse de psychologie du Dr. H. Hubert : Abraham F., Perversions sexuelles, d’après 
+l’enseignement de Hirschfeld, F. Aldor, p. 241-243. 
+ 35 née Einar Wegener) mourut d’affaiblissement après plusieurs opérations 
+(orchidectomie, pénectomie et greffe d’ovaires) à Dresde (par le professeur 
+Warnekros) en 193037. 
+En 1951, Christine née George Jorgensen, photographe et ancienne GI américaine 
+est la première personne à bénéficier d’un traitement hormonal et chirurgical de 
+changement de sexe considéré comme réussi (au Danemark), en 1953 (Meyer-
+Bahlburg, 2010). La médiatisation de Jorgensen a eu une réception importante dans 
+la presse américaine. En 1953, un article de l’équipe de Hamburger intitulé 
+« Travestim » voit le jour. Christine Jorgensen a été une figure mythique du 
+mouvement trans « one of the first publicized sex-change ops » (Espineira, 2014)38. 
+Alex Bakker dénonce la relation de dépendance, et possiblement de « benevolent 
+paternalism » (paternalisme bienveillant) entre les personnes trans et les 
+professionnel·les de santé dans les années cinquante (Bakker, 2020, p. 20)39. Les 
+médecins ont besoin de développer leur expertise en fonction des commentaires 
+reçus de leurs patient·es, y compris les récits de vie recueillis en s éances 
+psychothérapeutiques, avec les témoignages oraux ou écrits40. Le transfert de 
+connaissances est moins important pour les chirurgiens qui s’appuient sur les 
+diagnostics psychiatriques. Le sexologue et endocrinologue Harry Benjamin a donc 
+joué un rôle important dans la construction des connaissances scientifiques sur la 
+transidentité et sur les prestations des soins. 
+
+37 Son histoire est narrée dans la nouvelle intitulée « Danish girl » de D. Ebershoff (2000), et portée 
+à l’écran par T. Hooper en 2015. 
+38 Parker, J., « Christine Recalls Life as Boy from the Bronx », Newsday/Winnipeg Free Press, 
+October 1979 , cité par Karine Espineira. « L’une des premières opérations de changement de sexe 
+rendues publiques » (nous traduisons), Espineira , K. (2014). La sexualité des sujets transgenres et 
+transsexuels saisie par les médias. Hermès, La Revue , 69, p. 105-109. 
+39 Bakker, A. (2020). Others of My Kind: Transatlantic Transgender Histories (1re éd.). 
+University of Calgary Press. 
+40 Op. cit., Bakker, A., Herrn, R., Taylor, M. T., & Timm, A. F. (2020). 
+Others of my kind: transatlantic transgender historie s. University of Calgary Press, chapitre 1. 
+ 36 1.2 La dysphorie de genre 
+Le terme de transsexualisme a subi une évolution diachronique induite par les 
+classifications médicales. Désormais, ce sont les termes de dysphorie de genre 
+(apparu dans le DSM41 en 2012) et d’incongruité de genre (apparu dans le CIM en 
+2019) que retiennent la littérature biomédicale et les classements à visée 
+diagnostique. Si la dysphorie de genre reste méconnue en France, le terme de 
+syndrome de dysphorie de genre est utilisé il y a plus de trente ans par Norman N . 
+Fisk déjà afin de rendre compte de la complexité et de la singularité clinique des 
+situations qu’il rencontrait. L’usage de ce terme a pour avantage d’insister sur la 
+nécessité d’une prise en charge relative à la souffrance psychique et social e à une 
+époque où peu de professionnels de la santé s’y intéressent (Fisk, 1974). 
+1.2.1 Historique du concept 
+En France, l’intérêt clinique pour la prise en charge de dysphorie de genre a débuté 
+avec les questions relatives aux variations du développement génital, et de s troubles 
+du développement du sexe (Condat et al., 2016). Nous dégageons un point de 
+terminologie important puisqu e cela a participé à la normalisation du sexe dit 
+atypique au sein des équipes médicales et psychologiques des corps « intersexué s ». 
+Les travaux princeps étaient en langue anglaise. Cet éclairage latéral aide à réfléchir 
+à la façon dont le discours médical et social pense le corps du sujet de puis les 
+variations individuelles des données sexuées dans la construction de l’identité 
+sexuée. 
+
+41 Se reporter ci -après au point 1.2.3 pour la définition du Manuel à visée diagnostique et 
+statistique (DSM) . 
+ 37 1.2.2 L’identité sexuée à partir de la variation du développement génital 
+Nommée à tort « ambiguïté sexuelle »42, les enfants portant une variation du 
+développement génital naissent avec des organes génitaux externes difficiles à 
+situer dans le repérage binaire des sexes. Il s’agit de situations où le s exe 
+chromosomique, gonadique ou anatomique est atypique, et repérable par une 
+variation des organes génitaux internes et externes (Condat et al., 2022). Certains 
+auteurs soulignent que ce terme est imprécis, une expression de variations du 
+développement sexué (plus ou moins fréquentes) qui conservent des traits et se 
+rangent parmi les catégories « homme » et « femme ». Marie-Xavière Catto, juriste, 
+propose de préciser l’atypicité et la faible occurrence en parlant de « variat ion du 
+développement sexué moins fréquentes » (Catto, 2020, p. 65). 
+A l’international, les travaux de John Money (psychologue au Johns Hopkins 
+Hospital à Baltimore43) et de Thomas Hampson (1955), réalisés à partir des 
+personnes diversement dénommées ou des enfants ayant une variation du 
+développement génital ont permis de nourrir la réflexion sur la différence sexuée. 
+Cette différence met en évidence que le sexe d’assignation et d’éducation de 
+l’enfant prime sur son sexe biologique s’il a été élevé sans ambiguïté dans ce sexe-
+là. Pour la médecine pédo-endocrinologique, la question de l’identité sexuée est 
+tout d’abord intriquée à celle de « l’ambiguïté sexuelle ». Pour la philosophe Elsa 
+Dorlin, l’identité des gonades est un « indice » important pour anticiper l’évolution 
+possible de la sexuation à la puberté d’un enfant plutôt qu’un « facteur 
+déterminant » (Dorlin, 2008, p. 33)44. 
+ 
+42 Le glossaire des Nations Unies précise : « Les personnes intersexuées sont celles dont les 
+caractéristiques physiques ou biologiques, telles que l’anatomie sexuelle, les organes génitaux, le 
+fonctionnement hormonal ou le modèl e chromosomique, ne correspondent pas aux définitions 
+classiques de la masculinité et de la féminité. » in Nations U nies. Charte des Nations Unies (version 
+intégrale), https://www.un.org/fr/about -us/un -charter/full -text. 
+43 A partir de 1951 dans le premier service d’endocrino logie pédiatrique qui n’ait jamais existé, 
+celui de Lawson Willkins ; il mentionne déjà une centaine de cas en 1957, sept fois plus dès 1972 
+selon Colette Chiland. 
+44 Dorlin, E. (2008). Sexe, genre et sexualités . PUF. 
+ 
+ 38 Dès les années 1950, John Money et Thomas Hampson précisent que l’identité 
+sexuée s’établit entre 18 et 24 mois, et que les changements postérieurs à l’âge de 
+deux ans et demi ont des conséquences dommageables pour les enfants opérés. Le 
+genre se définit en regard d’une pluralité de signes, mais n’est pas la réducti on de 
+l’hérédité ni du déterminisme environnemental. La place du regard des parents sur 
+l’enfant est également interrogée dans les situations d’intersexualité. Si l es parents 
+sont ambivalents quant au sexe, le risque semble plus important que l’enfant 
+développe une incertitude sur la conscience de soi en tant que personne sexuée. 
+John Money et Thomas Hampson posent comme primordial le ressenti propre de 
+l’identité sexuée de l’enfant. Ils parlent à l’époque de « variable quant au genre de 
+la personne ». Nous soulignons l’emploi de l’occurrence « rôle de genre » ( gender 
+role) pour désigner « tout ce qu’une personne dit ou fait pour révéler son statut de 
+garçon ou d’homme, de fille ou de femme » (Chiland, 2008, p. 329). Ce qui inclut, 
+sans y être restreint, la sexualité au sens de l’érotisme. Un rôle de ge nre n’est pas 
+établi à la naissance, mais est construit cumulativement à travers les expériences 
+rencontrées et les transactions – à travers l’apprentissage occasionnel et non 
+planifié, à travers l’instruction explicite et l’inculcation, en mettant s pontanément 
+deux et deux ensemble pour faire parfois quatre, et parfois de manière erronée cinq. 
+En bref, un rôle de genre s’installe largement de la même manière que la l angue 
+maternelle » (Chiland, 2008, p. 329). 
+Une étude allemande précise que sur 1 040 sujets souffrant de troubles du 
+développement sexuel recrutés en Pologne, Suède, Allemagne, France, au 
+Royaume-Uni et aux Pays-Bas, 69 % des participants s’accommodent de ce terme 
+bien que la plupart préfère un terme spécifique à leur état somatique (Bennecke et 
+al., 2020). 
+En France, les avancées majeures dans la compréhension des bases de l’ide ntité 
+individuelle et sociale sont produites par Léon Kreisler (psychanalyste, pédiat re et 
+pédopsychiatre) qui travaille au sein de l’équipe spécialisée de l’hôpital pé diatrique 
+de Saint Vincent-de-Paul à Paris dès les années 1960. Il initie toute une ré flexion 
+sur les questions autour de l’identité sexuée (biologique et psychologique). 
+ 39 Léon Kreisler se distingue de John Money par son approche plus qualitative 
+qu’empirique (Castel, 2003)45. Il explore la singularité d’une quarantaine de cas 
+d’enfants de sexe atypique qu’il présente dans Les intersexuels avec ambiguïté 
+génitale. Étude psychopédiatrique en 1970. Il met l’accent sur la dynamique 
+familiale et le rôle des parents, ce qui est congruent avec l’approche domina nte en 
+France où la famille est considérée comme le noyau central. En cas de réassignation, 
+l’avis parental a donc une place première dans la psychosexualité de l’enfant 
+(Kreisler, 1970). 
+Par-delà l’intérêt historique et conceptuel de ces recherches cliniques, il i mporte de 
+relever la terminologie utilisée pour désigner l’identité liée au sexe. L éon Kreisler 
+justifie l’usage du terme « psychosexualité » plutôt que « genre » ainsi nous 
+réservons les termes de « sexe », « sexualité », « sexuel » aux faits d’ordre 
+anatomique, physiologique et biologique. Pour les données d’ordre psychologique 
+ou psychosociologique, nous suivons les habitudes de la littérature de langue 
+française qui parle de psychosexualité, d’évolution psychosexuelle, d’orientation 
+psychosexuelle, de rôle sexuel, d’identité sexuelle. Dans la littérature angl o-
+saxonne, on tend ait, dans un esprit de précision, à attribuer aux faits d’ordre 
+psychologique ou psychosocial le terme « genre » (Kreisler, 1970). 
+Avec le terme d’identité « sexuelle » plutôt que « sexuée », Kreisler décale la 
+question de la représentation de soi du biologique en précisant qu’il s’agit de la 
+propre appréciation de la personne sur elle-même et du regard social : « le fait pour 
+une personne de se reconnaître et d’être reconnue par autrui comme appartenant à 
+un sexe » (Kreisler, 1990, p. 424). Il interroge également les stéréotypes et les 
+attentes collectives au travers des réassignations chirurgicales lorsque la taille du 
+clitoris est trop longue pour les filles. 
+L’accompagnement des enfants et des adolescent·es intersexes posent des que stions 
+cliniques, thérapeutiques et éthiques pour accompagner les singularités somati ques 
+ 
+45 Castel, P. -H. (2003). La métamorphose impensable : essai sur le transsexualisme et l’identité 
+personnelle . Gallimard. 
+ 
+ 40 et psycho-affectives de ces situations, outre la valorisation de la diversi té corporelle 
+et la dépathologisation des variations du développement génital (Condat & Cohen, 
+2022). 
+Une étude longitudinale, menée par Anne-Marie Rajon (pédiatre et psychanalyste) 
+sur les répercussions auprès des parents de l’annonce du diagnostic d’une 
+malformation de leur enfant (dont les variations du développement génital), 
+apprécie les enjeux et les spécificités des relations précoces enfant -parents. Être 
+reconnu comme garçon ou fille constitue la matrice de la première des 
+appartenances. Les identifications entre les parents et les enfants cons tituent la base 
+de l’organisation psychique. Cette dialectique s’instaure dans une identification que 
+les parents adressent à leur enfant (parfois durant la grossesse) avant que ce dernier 
+ne s’identifie au discours des parents. L’intersexuation viendrait brouiller cette 
+identification au profit d’un sexe ambigu (Rajon, 2008). D’autres études médico-
+psychologiques, réalisées à l’âge adulte (17 femmes âgées de 21 à 41 ans), évaluent 
+les répercussions d’une telle malformation sur la dynamique affective, l’intégrat ion 
+sociale et le comportement sexuel de l’adulte, vise à mettre en lumi ère la genèse et 
+les processus de l’identité sexu elle (Jacquot, 2011). 
+Comme l’a remarqué Colette Chiland, le terme d’intersexuation, a été fréquemment 
+confondu à tort avec celui d’ambiguïté génitale, remplacé en 2006 par la Société 
+des endocrinologues européens et américains par le terme « troubles du 
+développement du sexe » ( Disorders of sex development ) qui couvre une gamme 
+de troubles plus large : « conditions congénitales dans lesquelles le développeme nt 
+du sexe chromosomique, gonadique ou anatomique est atypique » (Chiland, 2014, 
+p. 173). Il s’agit de problèmes qui concernent à la fois la sexuation (l’identité ́ 
+sexuelle) et la sexualité ́ (les relations sexuelles, l’accouplement, la fécondité ́), et 
+non de troubles du développement sexuel. L’enjeu porte sur les choix 
+terminologiques et la capacité à parler désormais de variations du développem ent 
+génital. Cette position est discutée par Ellen K. Feder qu’elle juge pathologisante et 
+stigmatisante ; elle propose de conserver le terme médical de « troubles » ( disorder ) 
+car il permet un accès aux soins et au parcours de santé, mais fait l’i mpasse sur la 
+notion de « trouble pas comme les autres » ( a disorder like no other ) pour 
+ 41 privilégier celle d’un « trouble comme beaucoup d’autres » ( a disorder like many 
+others ) (Feder, 2009, p. 226-227). 
+En conclusion, la clinique des variations du développement génital, congruente 
+avec notre sujet par rapport au cissexisme, permet d’une part d’éclairer les 
+dynamiques subjectives de la construction de l’enfant qui va s’établir en référenc e 
+à cette détermination assignée à partir du sexe anatomique. La prise en compte du 
+consentement des personnes concernées (à un âge où elle est en capacité de le 
+donner et d’en apprécier le sens) et des enjeux éthiques est un prérequis, d’autant 
+que la rectification est appuyée d’une reconnaissance médicale. Qu’en est-il de 
+l’identification de la personne concernée « par et pour elle- même » ? Les 
+chercheur·euses et clinicien·nes pour enfants et adolescent·es soulèvent la 
+possibilité d’une troisième catégorie pour permettre à la personne de se sit uer en 
+fonction de ses désirs, ressentis, au moment opportun pour elle- même (Condat et 
+al., 2022). Cette proposition, en plus d’un accompagnement personnalisé, mettrait 
+les personnes concernées à l’abri de décisions médicales et juridiques irré versibles, 
+discutables médicalement. 
+1.2.3 Évolution conceptuelle à travers le repérage diagnostique 
+Le Manuel à visée diagnostique et statistique (DSM) de l’Association américaine 
+psychiatrique (APA) inclut le transsexualisme dans sa troisième édition en 1980, 
+aux côtés d’un autre diagnostic qui concerne les enfants ( gender identity disorder 
+of childhood ). La définition parle d’un « sentiment d’inconfort et d’inadéquation 
+quant à son sexe et un désir d’être débarrassé de ses organes génitaux et de vivre 
+comme un sujet de l’autre sexe, pendant une durée d’au moins deux ans et sans li en 
+avec un autre trouble mental. 
+ 
+ 42 1952 DSM 1 Travestisme [déviances sexuelles] 
+1968 DSM 2 Travestisme et homosexualité [déviances sexuelles] 
+1980 
+ DSM 3 
+ Transsexualisme/ 
+Trouble de l’identité sexuelle de l’enfant 
+1987 
+ DSM TR 
+ Transsexualisme/ 
+Trouble de l’identité sexuelle chez l’adolescent et l’adulte 
+Trouble de l’identité sexuelle chez l’enfant 
+Trouble de l’identité sexuelle non spécifique 
+Avec souffrance et/ou altération dans le champ social 
+1992 
+ CIM 10 Transsexualisme/ 
+Trouble de l’identité sexuelle de l’enfance 
+2000 DSM 4 TR Trouble de l’identité sexuelle 
+Avec souffrance et/ou altération dans le champ social 
+2012 DSM 5 Dysphorie de genre avec souffrance et/ou altération 
+dans le champ social (ou augmentation du risque 
+de la souffrance) 
+Genre alternatif différent du genre assigné 
+[≠ troubles d’ordre sexuel] 
+2019 CIM 11 Incongruence de genre – Conditions relatives 
+à la santé sexuelle 
+ 
+Dans les années 50-60, il faut se souvenir que les cas d’homosexualité et de 
+travestisme avec les déviances sexuelles été répertoriés dans les D SM-I (1952) et 
+DSM -II (1968). En 1987, la version révisée du DSM-III (DSM-III-R) subdivise le 
+diagnostic entre « transsexualisme », « trouble de l’identité sexuelle chez l’e nfant » 
+(gender identity disorder in children ) et « trouble de l’identité sexuelle chez 
+l’adolescent ou l’adulte, de type non transsexuel » ( gender identity disorder of 
+adolescent or adulthood, no transsexual type ). Ce dernier devait permettre de 
+rendre compte des cas où la personne adopte l’autre sexe mais ne souhaite pas de 
+chirurgie. Le trouble de l’identité de genre non spécifique ( gender identity disorder 
+not otherwise specified ), quant à lui, était employé lorsque la personne ne 
+remplissait pas tous les critères sus-cités dans le DSM-III du trouble de l’identité 
+de genre (Zucker et al., 2013, p. 901-914). 
+A la même époque, le CIM-9 ( Classification internationale des maladies mentales , 
+9e édition) catégorise le transsexualisme dans les « déviations et troubles sexuels », 
+ 43 qui comprend les perversions, l’homosexualité, les troubles de la fonction sexuelle 
+et les troubles de l’identité sexuelle. 
+Gender identity disorder , était le terme employé pour le DSM-IV TR et fut traduit 
+par trouble de l’identité sexuelle. Colette Chiland fait remarquer que l’identité 
+sexuelle ( sexual identity ), ancien terme médical traditionnel, fait maintenant 
+référence à l’orientation sexuelle. 
+Le DSM -IV (1994) et le DSM-IV TR (2000) abandonnent le terme de 
+transsexualisme et proposent un ensemble commun désigné par « troubles de 
+l’identité sexuelle » ( gender identity disorder ). Ce diagnostic rend compte d’un 
+repérage plus étendu de profils car l’identité de genre n’inclut pas obligatoirement 
+le binarisme masculin ou féminin comme le laisse entendre le transse xualisme, qui 
+se définit lui par le passage d’un sexe à un autre (Marchand, 2014). 
+Cette édition introduit le critère de souffrance clinique significative (non ment ionné 
+précédemment), et qui affecte une ou plusieurs sphères de la vie sociale ou 
+professionnelle de l’individu. Pour la population adolescente et jeune adulte, nous 
+soulignons les répercussions psychosociales de la dysphorie de genre avec le 
+décrochage scolaire et l’ostracisme social relevés dans la littérat ure (Eisenberg et 
+al., 2019). 
+La CIM-10 a été publiée en 1993 ; elle conserve le terme de « transsexualis me » 
+classé parmi les « troubles de l’identité sexuelle » dans le chapitre de s « troubles de 
+la personnalité et du comportement chez l’adulte », révisé en « troubles de l’ide ntité 
+de genre ». Une sous-catégorie « trouble de l’identité de genre de l’enfance » est 
+créée. Cette version de la CIM présente un diagnostic proche de celui proposé par 
+le DSM-III R. 
+La Classification française des maladi es menta les de l’enfant et de l’adolescent fait 
+apparaître le « trouble de l’identité sexuelle » parmi les « troubles de l’ide ntité et 
+des conduites sexuelles » eux-mêmes inclus dans les « trouble des conduites et des 
+comportements » de l’axe I. 
+ 44 Le DSM -5 (2013) voit l’apparition du terme « dysphorie de genre » qui met l’accent 
+sur l’expression d’une souffrance due à l’écart entre le sexe d’assignation à la 
+naissance et le genre ressenti. La notion de non-binarité apparaît égaleme nt avec le 
+terme « genre alternatif ». Quelque soit l’âge du patient, il doit être ment ionné si le 
+diagnostic est associé ou non à un trouble du développement du sexe qui relèverait 
+d’anomalies de la différenciation sexuelle (Mendes et al., 2016). 
+Le DSM -5 identifie trois catégories : la dysphorie de genre chez l’enfant ( gender 
+dysphoria in children ), la dysphorie de genre chez l’adolescent et l’adulte ( gender 
+dysphoria in adolescent or adult ) et la dysphorie de genre non spécifique 
+(unspecified gender dysphoria ). L’équipe de rédaction de cette section a considéré 
+que la clinique adolescente ne se distinguait pas en termes de pronostic et de prise 
+en charge. Marcel Czermak apporte la notion de « tact » qui mérite d’être mobilisée 
+ici. 
+Le changement de terminologie et la disparition du substantif « trouble » relevés 
+dans la lecture historique du diagnostic médical (de « trouble de l’identité » à 
+« dysphorie »), indui sent une modification dans l’approche clinique. Le vécu 
+subjectif de l’individu est pris en compte tandis que l’idée du diagnostic exclut 
+l’observation et le repérage objectif d’une non-conformité de genre (Mendes et al., 
+2016). Toutefois, la communauté transgenre demande d’abandonner ce terme au 
+profit de « genre discordant », « genre dissonant », « genre incongruent » ou 
+« genre indépendant » (Pyne, 2014, p. 1-2) pour valoriser l’autodétermination et 
+l’expertise des jeunes transgenre. 
+Comme nous l’avons mis en évidence, le terme de « transsexualisme » est apparu 
+dans le discours médical et non dans le celui des personnes concernées. Et c’est 
+précisément ce lien historique que les associations de personnes concernées 
+trouvent stigmatisant. Le choix du mot-valise « transgenre » est lui emprunt des 
+études sur le genre, et n’est pas connoté avec une valence psychiatrique 
+(Alessandrin, 2018, p. 35-55). Ce terme est issu du milieu militant et des personnes 
+concernées dans les années soixante-dix « A l’origine, ils désignent les personnes 
+vivant dans l’autre sexe sans avoir fait aucune modification corporelle. » 
+ 45 (Beaubatie, 2021, p. 9-10). Le sociologue précise que le terme est devenu plus 
+inclusif depuis la fin du XXe siècle et s’entend pour toutes les personnes qui ne se 
+reconnaissent pas dans le genre qui leur a été assigné à la naissance. 
+Avant 2012, l’orientation sexuelle des personnes considérées comme matures sur 
+le plan sexuel devait être présentée lors du diagnostic. Jusqu’alors, la précis ion de 
+l’orientation sexuelle (vers les hommes, les femmes, les deux ou aucun), devait 
+permettre de déterminer des indices de bon pronostic pour la prise en charge. Une 
+orientation homosexuelle au regard du sexe d’assignation à la naissance était un 
+indice de bon pronostic pour le traitement hormono-chirurgical (Meyer-Bahlburg, 
+2010). Cette injonction à l’hétérosexualité peut être lue comme un appel à la 
+normativité des protocoles et au cissexisme. « En d’autres mots, l’individu 
+cissexuel projette sans distinction sa cissexualité sur les autres, ce qui transforme la 
+cissexualité en caractéristique humaine considérée comme évidente. » (Se rano & 
+Grunenwald, 2020, p. 113). 
+En 2012, l’équipe en charge de la révision du DSM-5 a jugé que l’orientation 
+sexuelle n’avait qu’une place mineure, tant pour le diagnostic que pour la prise en 
+charge des sujets (Olson et al., 2016). Vincent Bourseul, psychanalyste, souligne 
+que « Les questions trans ou les questions gays, qui en constituent le terrain c linique 
+et sociologique initial, permettent de développer des interrogations génériqu es 
+dépassant les catégories identitaires singulières auxquelles nos exemple s semblent 
+liés ; elles remettent en question les catégories sexuelles habituelles , ainsi que les 
+rapports qui les relient. » (Bourseul, 2016, p. 15). 
+D’autre part la lecture critique qu’apporte le sociologue Arnaud Alessandrin sur la 
+nosographie rompt avec les catégories de classement qu’il considère obsolètes , et 
+qui questionnent la médicalisation des faits sociaux et la place des diversités 
+identitaires ou corporelles (la « lipodiversité » ou la « neurodiversité ») 
+(Alessandrin, 2012, p. 268). Sur ce point, une équipe française de recherche sur la 
+transidentité souligne l’importance du développement de la recherche médicale 
+dans ce champ des soins aux personnes trans (Martinerie, 2017), en plus de la 
+nécessité de maintenir la possibilité d’une prise en charge des soins de transition 
+ 46 par les systèmes d’assurance maladie. Des propositions sont formulées par le s 
+associations de personnes concernées : considérer l’état de transition comme une 
+période transitoire/ponctuelle (non pathologique), mais nécessitant toutefois des 
+soins (hormones, chirurgies) ou un changement juridique, et un remboursement par 
+l’Assurance maladie sur une période limitée (Reucher, 2011). 
+Karine Espineira attire toutefois l’attention sur une notion qu’elle conceptual ise par 
+« le bouclier thérapeutique » pour décrire les mécanismes qui protègent les 
+individus de toute critique ou remise en question en invoquant des raisons 
+thérapeutiques. « Le bouclier devient un haut mur qui empêche, réfute et discrédite 
+par avance toute avancée et tout dialogue. Comment dire à des soignants qu’ils font 
+parfois mal ce qu’ils croient bien faire ? » (Espineira, 2011). 
+A partir de 2012, le DSM-5 entend par « transgenre » les personnes qui souhaitent 
+recevoir un traitement hormonal féminisant ou masculinisant sans forcément avoi r 
+recours à la chirurgie (et vice-versa) et les personnes qui souhaitent effectuer une 
+opération de la poitrine sans chirurgie des organes génitaux. Lors de la révision du 
+DSM -5, une large majorité d’associations de professionnel·les ont répondu en 
+faveur d’un retrait de ce diagnostic du DSM (55 %) (Drescher et al., 2012), 
+(Drescher, 2014). 
+Les critères diagnostiques de la dysphorie de genre DSM-5 sont les suivants. 
+– Chez l’adolescent·e et l’adulte : l’incongruence entre le genre vécu ou exprimé et 
+le genre assigné se manifeste par au moins 2 de 6 critères (au moins une durée de 
+6 mois) : 
+- Incongruence marquée entre genre vécu 
+- Désir d’être débarrassé de ses caractères sexuels et caractères se xuels 
+primaires et/ou secondaires 
+- Désir pour les caractères sexuels de l’autre genre 
+- Désir d’être de l’autre genre 
+- Désir d’être traité comme l’autre genre 
+- Conviction d’avoir le ressenti et les réactions typiques dans un autre genre. 
+ 47 – Chez l’enfant : l’incongruence entre le genre vécu ou exprimé et le genre assigné 
+se manifeste par au moins 5 critères sur 7 : 
+- Travestissement 
+- Rôles de l’autre sexe dans les jeux 
+- Jouets et activités de l’autre sexe préférés 
+- Camarades de l’autre sexe 
+- Rejet des jouets et activités typiques du sexe d’assignation 
+- Rejet de son anatomie sexuelle 
+- Désir pour les caractères sexuels d’un autre sexe. 
+ 
+En novembre 2018, Zowie Davy professeure associée aux recherches LGBTQ à 
+l’Université D e Montfort, Leicester (Angleterre) apporte une lecture qualitative 
+critique du concept de « dysphorie de genre » (à partir de l’étude de 387 articles) 
+dans l’article « What Is Gender Dysphoria ? A Critical Systematic Narrative 
+Review » (Davy & Toze, 2018). Elle montre la façon dont le concept de souffrance 
+a été narrativisé et insiste sur la façon dont l’utilisation académique actuelle reflète 
+le critère diagnostique. Trois thèmes majeurs sont retenus : la détresse et le 
+diagnostic ; les types des gens ; le discours populaire. Elle relève des incohérences 
+comme le fait que le diagnostic soit centré sur la souffrance et le flé chissement 
+thymique de la personne ; ce critère est appliqué de manière incohérente dans la 
+littérature. Certains articles ignorent la référence à la souffrance tandis que d’autres 
+impliquent une détresse alors qu’elle peut avoir disparu ou ne pas avoir existé. 
+Ainsi, les changements fréquents de terminologie et les croisements entre les termes 
+médicaux et les descriptions phénoménologiques du vécu de la personne ont 
+participé à une confusion entre la dysphorie de genre qualifiée soit : de diagnostic 
+spécifique, d’expérience de détresse, attribuée comme caractéristique personnel le. 
+Selon l es auteurs, cet amalgame entre sémiologie approximative et registre du vécu 
+entraîne à une pathologisation excessive de la dysphorie de genre un excès de 
+pathologisation, voire une contamination lexicale dans la littérature académique. 
+ 48 Dans une revue narrative sur qu’est-ce que la dysphorie de genre, Zowie Davy et 
+Michael Toze avancent que si le terme de dysphorie de genre et d’incongruence de 
+genre sont définis par des cliniciens, des chercheur·euses, des théoriciens et des 
+éditeurs de littérature scientifique, il mérite d’être complété par une ana lyse critique 
+ancrée par les personnes concernées à partir de l’expérience vécue (Davy & Toze, 
+2018). 
+
+ 49 1.3 L ’incongruence de genre 
+En 2019, l’Organisation mondiale de la Santé (OMS)/ World Health Organization 
+(WHO) a révisé la Classification internationale statistique des mal adies et 
+problèmes relatifs à la santé46. Le terme « d’incongruence de genre » est utilisé avec 
+une sous-entité distincte pour l’incongruence de genre de l’adolescent ou de 
+l’adulte, et celle de l’enfant. Nous soulignons que c’est la première fois que le 
+diagnostic sort de la catégorie des « Troubles mentaux, du comportement ou du 
+neurodéveloppement » pour être classé dans les « Conditions relatives à la santé 
+sexuelle ». 
+La classification du DSM-5 recouvre un ensemble hétérogène de demandes de 
+transition hormonales/chirurgicales. La dimension dysphorique, apportée par la 
+classification américaine, cible la souffrance psychique (du grec δύσφορος 
+(dusphoros), de δυσ- : « difficile », et φέρω : « à supporter ») c’est-à-dire d’un mal-
+être congruent avec un trouble du ressenti et de la perception de son identité 
+(Coleman et al., 2012). 
+Le psychologue et chercheur Jean-Baptiste Marchand note que le DSM-5 fait la 
+distinction entre l’incongruence de genre chez l’adolescent et l’enfant, mais que ce 
+point précis ne devrait pas être confondu avec celle des adultes (Marchand, 2014). 
+De son point de vue, le glissement conceptuel et historique qui s’est opéré de 
+« transsexualisme » à « transgenre » est à critiquer. Il y lit un manque de prudence 
+à la faveur d’une approche dite « transaffirmative » chez les adolescent·es 
+(Marchand, 2019). Nous rappelons ce qui est entendu par l’approche 
+transaffirmative par rapport à une approche qui serait vigilante : « Dans la mesure 
+où l’approche transaffirmative, contrairement à l’approche de l’attente vigilante, 
+s’assure de communiquer à l’enfant une acceptation inconditionnelle, peu importe 
+son identité de genre actuelle et future, elle minimise les risques a ssociés à la 
+ 
+46 11e édition de la Classification internationale statistique des maladies et problèmes relatif s à la 
+santé (CIM -11), 2019. 
+ 50 détransition. » (Pullen Sansfaçon & Medico, 2021, chapitre 12 « Parents en 
+transition », p. 260-279 rédigé par André-Ann Frappier). 
+Cet accompagnement actif consiste à soutenir le sujet dans son affirmati on sociale, 
+médicale et/ou chirurgicale pour vivre dans l’identité de genre qu’il ressent et 
+souhaite. Nous nous proposons de retenir ce point pour la discussion à la lumière 
+de l’analyse que nous ferons des entretiens de recherche et de l’apport du cadre 
+théorico-clinique de la prise en soins et de la lecture psychanalytique. Si à titre 
+mémoriel il est nécessaire d’historiciser les concepts (Gori, 2020, p. 149)47, nous 
+soulignons que leurs évolutions dues à l’activisme des personnes concernées ont 
+contribué à valoriser et à inclure le vécu subjectif des personnes dans 
+l’accompagnement. 
+Des sociétés savantes se sont constituées. L’Association pluriprofessionne lle 
+française Santé Trans, ( French Professional Association for Transgender Health 
+(FPATH )), a été créée en 2010 sous le nom de SoFect (Société française d’études 
+et de prise en charge du transsexualisme) (Benghozi, 2015), et régie par la loi de 
+1901. Elle réunit des professionnel·les impliqué·es dans la prise en soins des 
+personnes trans, dans des buts d’aide à l’affirmation, de recherche et de formation. 
+Les associations de personnes concernées ont adressé le 3 décembre 2020 une le ttre 
+ouverte à Nicolas Morel-Journel (chirurgien urologue), Président de la FPATH48, 
+dont le contenu s’inscrit en faux contre les protocoles demandés, l’absence de 
+travail en concertation avec le tissu associatif dans l’intérêt de la construction d’un 
+véritable réseau en France. La participation des associations aurait pe rmis de 
+s’appuyer sur le savoir et les connaissances spécifiques des réalités véc ues par les 
+personnes concernées, et donc de proposer une approche inclusive et participative 
+(Alessandrin, 2018, p. 57). 
+Suite à un partenariat depuis 2013 entre plusieurs services hospitaliers de 
+psychiatrie de l’enfant et de l’adolescent ( GHU Pit ié-Salpêtrière, Fondation Vallée 
+puis CIAPA, Robert Debré, et le service d’endocrinologie pédiatrique de Robert 
+ 
+47 « Le psychanalyste comme l’historien réalise un choix à partir duquel ils mettent les év énements 
+en intrigue, ils dramatisent dans l’écriture et laissent, bien malgré eux, apparaître leurs préjugés et 
+leurs systèmes de valeurs. ». 
+48 https://trans -sante.fr 
+ 51 Debré), une plateforme financée par l’Agence régionale de santé (ARS) a vu le jour . 
+Elle permet d’accompagner les jeunes mineur·es en questionnement et en 
+transition. 
+Sur le plan associatif, une association de parents Grandir Trans réunit 1 300 fam illes 
+et tisse des relations de confiance avec la plateforme aux côtés de services de 
+biologie de la reproduction, d’endocrinologie, de pédiatrie, de santé sexuelle, de 
+chirurgie côté hospitalier, du Réseau Santé Trans (ReST). Il s’agit d’un réseau de 
+santé qui associe des personnes trans, des représentant·es de trois associa tions 
+cofondatrices (OUTrans, Acceptess-T, Espace Santé Trans), et des 
+professionnel·les de santé (à l’origine dans la région Bretagne depuis 2018). Depuis 
+2021, le ReST se développe également dans les autres régions de France. Le Ré seau 
+s’appuie sur l’affirmation éthique de la reconnaissance du principe 
+d’autodétermination des personnes trans. En 2022, le ReST est lauréat du Prix 
+international de la ville de Paris pour les droits des personnes LGBTI+49. 
+
+49 https://www.paris.fr/pages/le -prix-international -pour-les-droits -des-personnes -lgbtqi -17653 
+ 52 1.4 Les données démographiques 
+Avant de donner les chiffres des études d’incidence et de prévalence, il faut a voir 
+deux points à l’esprit. Le premier est lié aux changements de repérage au fil des 
+années. Les résultats dépendent des périodes auxquelles ont été collectée s les 
+données. La seconde difficulté, corrélée au thème de la transidentité, tient aux 
+méthodes utilisées pour identifier la population, eu égard à la disparité des enfants 
+et adolescent·es en transition (sondages, interviews, études de cohorte de cent re de 
+prise en soins). Les questions plus générales que soulèvent les processus de 
+médicalisation/démédicalisation d’expressions, de conduites et de conditions qui 
+ont commencé à être traitées comme des affections psychiatriques XIXe siècle sont 
+reprises et problématisées par Alain Giami (directeur de recherche, Inserm-CE SP 
+U 1018, équipe Genre, santé sexuelle et reproductive) (Giami, 2011). 
+Les professionnels du milieu associatif, des institutions scolaires adme ttent une 
+franche augmentation des demandes, notamment chez les adolescent·es (Zucker e t 
+al., 2007), (Zhang et al., 2020). Si certains adolescent·es traversent des épisodes de 
+souffrance, d’autres ne croisent pas les circuits de soins hospitaliers pour des 
+besoins psychologiques et/ou psychiatriques spécialisés, ou des demandes 
+d’accompagnement (Coleman et al., 2012). 
+Les données quantitatives pour la population adolescente proviennent d’une auto-
+identification ou d’une déclaration faite par les parents (Martinerie, 2016). De 
+surcroît, une dimension sociétale s’ajoute aux dimensions d’incidence et de 
+prévalence en fonction des modalités d’expression du genre qui sont reçues et 
+renvoyées en fonction de la culture et de la tolérance du pays vis-à-vis des 
+personnes concernées (Mendes et al., 2016). 
+A ce jour seul le Canada, en 2021, a effectué une recension des personnes trans ou 
+non-binaires de plus de 15 ans dans la population générale qui retrouve un taux de 
+0,33 % ; 27,68 % de personnes transmasculines, 31,30 % de personnes 
+transféminines et 41,02 % de personnes non-binaires (sources Statistiques Canada, 
+ 53 2021)50. Il existe de fortes disparités selon les générations pour se déclarer 
+transgenre ou non. Au Canada, 0,73 % de personnes transgenres et non-binaires ont 
+entre 15-19 ans, et 0,13 % ont 65 ans ou plus. 
+En termes de données de santé publique, la littérature française ne fournit auc une 
+étude concernant les personnes trans (« Rapport d’analyse prospective 2020 publié 
+par la Haute autorité de santé »)51. A l’appui des données de la recension canadienne 
+en 2021 (0,33 % de la population générale), une projection a été faite à l’échelle 
+populationnelle de la France. L’équivalence donnée correspond à 180 000 
+personnes transgenres et non-binaires (source Mediapart)52 selon Claire 
+Vandendriessche cosecrétaire générale du ReST53. 
+Des études récentes, réalisées aux États-Unis, en Nouvelle Zélande e t en 
+Allemagne, sont fondées sur des auto-questionnaires auprès d’enfants et 
+d’adolescent∙es. A la question « pensez-vous que vous êtes transgenres ? », les 
+résultats montrent des prévalences entre 1 et 5 % (Shields et al., 2013), (Becker et 
+al., 2017), (Becker et al., 2017), (Clark et al., 2014), (Rider et al., 2018). 
+En 2020, lorsque les enquêtes interrogent la définition étroite et le terme « identité 
+transgenre » ( gender identiy ), les estimations s’échelonnent de 0,3 à 0,5 % pour la 
+population adulte, et de 1,2 à 2,7 % pour les enfants et les adolescent·es (moins de 
+19 ans). Tandis que lorsque la définition est élargie « à genre diverse » ( gender 
+diversity ) la proportion varie de 0,5 à 4,5 % pour les adultes et de 2,5 à 8,4 % pour 
+les enfants et les adolescent·es (Zhang et al., 2020). 
+En ce qui concerne l’incidence, des études plus anciennes en population adulte 
+rapportent à partir des files actives des cliniques spécialisées dans la prise en charge 
+des transidentités dans le monde des chiffres plus faibles : entre 1/3 000 et 1/30 000 
+femmes transgenres et entre 1/7 000 et 1/100 000 hommes transgenres (Zucker, 
+2017). 
+ 
+50 https://www150.statcan.gc.ca/n1/daily -quotidien/220427/dq220427b -fra.htm 
+51 https://www.has -sante.fr/upload/docs/application/pdf/2020 -
+12/rapport_analyse_prospective_2020.pdf 
+52 https://blogs.mediapart.fr/claire -vandendriessche/blog/200622/combien -de-jeunes -trans -en-
+transition -medicale -en-france 
+53 Source : reseausantetrans.fr 
+ 54 Pour le sexe-ratio, la prévalence de l’incongruence de genre est plus élevée parmi 
+les enfants assignés féminin à la naissance que ceux assignés masc ulin à la 
+naissance (Lagrange et al., 2023). Ce constat est étayé par les échantill ons des 
+centres de référence, si l’on admet que les taux d’enfants référés sont comme un 
+marqueur indirect de prévalence. Les études des pays suivants, y compris la Fra nce, 
+confirment le ratio de genre qui favorise les enfants assignés féminin à la naissance : 
+Londres54, Toronto (Aitken et al., 2015), Amsterdam (Aitken et al., 2015), Paris 
+(Lagrange et al., 2023), Espagne (De Castro et al., 2022), Suède55, Belgique56 et le 
+Canada57. Et rappeler aussi que tous les jeunes n’effectuent pas de transition 
+médicale ce qui introduit un biais important (Rapport Picard-Jutant, 2022)58. 
+Depuis les années 2000, si la littérature rapportait un sexe-ratio en faveur des 
+enfants assignés garçon à la naissance, les études des centres de référe nce y compris 
+en France invalident cette donnée pour le Canada, les Pays-Bas, et la Finlande 
+(Aitken et al., 2015), (Leibowitz, 2016), (Kaltiala-Heino et al., 2015). Les études 
+canadiennes et américaines s’accordent à dire que la majorité des jeune s enfants qui 
+expriment une incongruence de genre, ou qui s’autoperçoivent comme transgenres, 
+abandonnent cette identification au début de la puberté (Shumer et al., 2016), 
+(Drummond et al., 2008), (Wallien et al., 2009). Ils retrouvent une congruence et 
+un confort avec leur genre d’assignation à la naissance. Deux études canadienne 
+(Ristori & Steensma, 2016) avancent un intervalle entre 10 et 39 % pour désigner 
+les enfants qui conserveront une identification trans à l’adolescence. Quatre é tudes 
+canadiennes relèvent que cette identité présente à la puberté, donc au mome nt des 
+changements physiologiques sous l’effet de la poussée hormonale, est souvent 
+stable (Cohen-Kettenis & Klink, 2015), (Steensma et al., 2013a), (de Vries et al ., 
+2011), (Khatchadourian et al., 2014). 
+ 
+54 http://tavistockandportman.nhs.uk/about -us/news/stories/referrals -gender -identity -development -
+service -gids-level -2018 -19 
+55 https://www.socialstyrelsen.se/om -socialstyrelsen/pressrum/press/vanligt -med-flera-
+psykiatriska -diagnoser -hos-personer -med-konsdysfori 
+56 https://igvmiefh.belgium.be/nl/publicaties/transgender_personen_in_belgi_gegevens_uit_het_rij
+ksregister 
+57 https://www150.statcan.gc.ca/n1/daily -quotidien/220427/dq220427b -eng.htm. 
+58 https://sante.gouv.fr/IMG/pdf/rapport_sante_des_personnes_trans_2022.pdf 
+ 55 Nous concluons sur la mise en perspective de ces données démographiques avec 
+l’acceptation sociétale des transidentités puisqu’il est constaté dans la littérature 
+que l’ouverture de centres de prise en soins dédiés aux transitions a fait augme nter 
+le nombre de demandes. Est-ce en raison d’une incidence plus forte des 
+transidentités ou de l’accès qui est facilité et mieux fléché en ra ison de la 
+dépathologisation et de la déstigmatisation progressives des transidentités (Aitken 
+et al., 2015; Becker et al., 2017; Kaltiala-Heino et al., 2015; Lucassen et a l., 2014; 
+Rider et al., 2018; Shields et al., 2013; Spack et al., 2012; Steensma et al., 2013b). 
+Pour les prochaines études, les estimations collecteront certainement de s données 
+sur le sexe attribué à la naissance et l’identité de genre, y compris pour les 
+catégories non-binaires (Goodman et al., 2019)59. 
+Des données récentes précisent une augmentation récente du nombre de personnes 
+qui ont une identité de genre non-binaire même si la proportion de jeunes qui 
+fréquentent les consultations spécialisées sur les questions de genre ne s ont pas 
+connues (Twist & de Graaf, 2019). Sur 251 adolescent·es qui ont fréquenté un 
+service dédié (le National Gender Identity Development Service au Royaume-Uni, 
+entre juin 2016 et février 2017), 56,9 % des jeunes se sont auto-identifiés comme 
+transgenres, 29,3 % dans une identité de genre binaire (masculin ou féminin), 11 % 
+identifiés comme non-binaires et 1,2 % comme agenre. L’étude ne rapporte pas de 
+différence en fonction du sexe ou de l’âge. Les expressions de genre sont ventilées 
+en cinq thèmes : nom et pronoms, apparence extérieure, corps, facteurs intrinsèques 
+et une catégorie autre. 
+ 
+59 Pour une analyse approfondie, on se reportera à une méta -analyse réalisée à partir de 12 analyses 
+dites robustes (Arcelus, 2015). La prévalence est de 4,6 pour 100 000 individus soit 6,8 pour les 
+adultes transféminin es et 2,6 pour les adultes transmasculins . Les chiffres montrent clairement une 
+augmentation de la prévalence depuis les 50 dernières années. La littérature retrouve toutefois une 
+prévalence chez l’enfant estimée comme beaucoup plus importante, atteignant même quelque pour 
+cent (van Beijsterveldt, 2006). Ceci s’explique par l’évolution connue de la dysphorie de genre chez 
+l’enfant dont témoigne la littérature. La plupart de ces enfants construiron t finalement leur identité 
+de genre dans le sexe qui leur a été assigné à la na issance (Steensma, 2011) (Zucker, 1995). Les 
+études récentes (Zucker, 2017 ; Connolly, 2016) rapportent une prévalence moins élevée chez les 
+adolescent·es et les jeunes adultes transgenres allant de 0,17 à 1,3 %. Une enquête finlandaise dans 
+les écoles (Kaltalia -Heno, 2017 & 2018) relève un taux de 1,3 % chez les 16 -19 ans qui présentaient 
+une dysphorie de genre. Aux USA et Canada, la prévalence pour la population ad olescente de 13 -
+17 ans est de 0,7 % de la population totale. Entre 15 et 16 ans, l’équivalent des classes de seconde 
+et de première dans le système français, la prévalence augmente à 2,70 % (Rider, 2018). 
+ 56 CHAPITRE 2 – LES HYPOTHESES ETIOLOGIQUES DEPUIS LE SEXE BIOLOGIQUE 
+ 
+Des théories ont proposé de conceptualiser l’étiologie de la dysphorie de genre et 
+de la non-conformité au sexe d’assignation. Pour présenter succinctement les 
+aspects hormonaux, génétiques et neurodéveloppementaux que la littérature 
+médicale souligne, nous reprenons ci-après de éléments de la revue de littérature 
+écrite en 2016 en collaboration avec Nicolas Mendès et Agnès Condat sur la 
+dysphorie de genre chez l’enfant et l’adolescent (Mendes et al., 2016). Nous 
+croisons les conclusions de ce travail à la lumière de la littérature récente (Ettner, 
+2020). Deux axes principaux sont étudiés : une approche différencentialiste 
+compare les différences anatomiques entre les cerveaux mâles et femell es (au 
+niveau de l’hypothalamus), et une approche développementale étudie l’influence 
+des gènes et des hormones dans la genèse du cerveau. 
+En 2023 à l’appui des avancées que nous avons faite avec ce travail de recherche , 
+nous nous interrogeons sur le sens d e l’étiologie de la transidentité dans la 
+perspective épistémique qui est la nôtre. Julia Serano, personne concernée, suggè re 
+ironiquement de remplacer le diagnostic de trouble de l’identité de genre du DSM 
+par le trouble de l’étiologie transsexuelle pour rendre visible « l’obsession 
+malsaine » des chercheur·euses à objectiver les origines de la transidentité « (…) la 
+question de savoir pourquoi je suis transsexuelle a toujours été pour moi une source 
+de honte et de dégoût de moi- même. » (Serano & Grunenwald, 2020, p. 137). 
+
+ 57 2.1 Hypothèses hormonales 
+Aujourd’hui, la piste de recherche étiologique principale est l’hypothèse 
+endocrinienne. La première hypothèse porte sur un développement cérébral 
+atypique durant l’embryogenèse. Selon des chercheurs en neurosciences 
+(respectivement hollandais et chinois) (Bao & Swaab, 2011), les organes génitaux 
+sont différenciés avant la différenciation sexuée du cerveau. Cet écart laiss erait la 
+possibilité d’une imprégnation hormonale à un niveau androgénique différent pour 
+les organes génitaux et pour le cerveau. Un pic de sécrétion aurait lieu entre la 6e et 
+la 12e semaine de gestation, puis durant les trois premiers mois de la vie. Avant la 
+6e semaine de grossesse, les voies génitales primitives sont indifférencié es (Netgen, 
+2016). Tandis que chez les individus génotypiquement mâles (46,XY), durant la 6e 
+semaine, le chromosome Y détermine l’ontogénèse testiculaire à laquell e participe 
+deux types d’hormones secrétées par le testicule fœtal. Les canaux de 
+Wolff forment les voies génitales mâles (canaux déférents, vésicules sémi nales, 
+canaux éjaculateurs). La masculinisation des organes génitaux externes des 
+individus 46,XY s’effectue en réponse à l’action de la testostérone produite. 
+Chez les individus génotypiquement femelles (46,XX) la gonade primitive se 
+développe au cours de la 10e semaine vers le sens femelle. Les canaux de Wolff 
+disparaissent au profit des canaux de Müller qui vont former une partie de l’appareil 
+génital femelle (les trompes, l’utérus, et les trompes de Fallope). 
+La formation du sexe du fœtus se réalise à la fin du 4e mois dans l’embryogénèse ; 
+période à laquelle les hormones sexuelles mâles et femelles imprègnent le cerveau 
+pour former les circuits neuronaux, ensuite impliqués au moment de la puberté. Un 
+second pic de testostérone a lieu entre la 34e et 41e semaine ; les mesures de 
+testostérone sont 10 fois plus élevées chez les garçons que chez les fill es. Ce 
+processus conduit à la formation des organes génitaux externes qui permettent de 
+déterminer le sexe de l’enfant à la naissance. 
+Pour éclairer notre question de recherche, nous retenons que les organes sexuels 
+peuvent se développer vers le phénotype féminin, et le cerveau vers le phénotype 
+ 58 masculin, et inversement. Le facteur biologique ne peut toutefois pas être is olé 
+comme étant la cause du développement de l’identité sexuée (Meyer-Bahlburg, 
+2013). L’auteur attire notre attention sur l’aspect plurifactoriel des transidenti tés : 
+biologique, psychologique et sociaux. Cette hypothèse est partagée par Colette 
+Chiland qui précise, à l’appui des travaux précurseurs de Kenneth Zucker de 1999, 
+que la seule position raisonnable est de penser une étiologie multifactoriel le 
+(Chiland, 2008). 
+Pour d’autres chercheur·euse s (Steensma et al., 2013b), même si un fœtus a été 
+exposé à des taux élevés de testostérone durant la période de gestation, si cet enfant 
+est élevé dès sa naissance dans son sexe d’assignation, il développera une identité 
+de genre similaire à celui de son sexe biologique. John Money, dont nous 
+préciserons la théorie, soutient ce point (Money, 1957). Par ailleurs, ces auteurs 
+affirment que, même en l’absence d’une imprégnation hormonale in utéro, une 
+identité de genre non congruente avec le sexe chromosomique est possible. Nous 
+en concluons que l’influence de l’imprégnation hormonale durant la grossesse ne 
+suffit pas à expliquer directement l’éclosion et l’expression d’une souffrance autour 
+de l’identité de genre. Les recherches américaines publiées sous le tit re de Gender 
+Confirmation Surgery (2020) confirme dans le chapitre dédié à l’étiologie de la 
+dysphorie de genre l’absence de cause biologique. Les influences hormonales sont 
+des facteurs de prédisposition, structurels et fonctionnels pour l’incongruence de 
+genre (Ettner, 2020, p. 21-28). 
+En 2021, une étude reprend l’hypothèse embryologique de l’imprégnation 
+hormonale du cerveau différente, et pose la question suivante : l’anatomie 
+neurologique des personnes transgenres ressemble-t-elle à celle de leur identité de 
+genre, de leur sexe assigné à la naissance, d’une combinaison des deux, ou est- elle 
+entièrement différente (Mueller, 2021). L’étude est réalisée à partir de données 
+provenant d’études transgéniques et d’imagerie par résonnance magnétique du 
+cerveau auprès d’une cohorte de 800 personnes (personnes transgenres hormonées 
+et cisgenres). Les résultats ont révélé que les hommes et les femme s transgenres 
+peuvent avoir leurs propres phénotypes neurobiologiques uniques en fonction de la 
+région du cerveau évaluée. 
+ 59 Le sexe biologique, tel qu’il est assigné à la naissance avec ses dé terminants 
+génériques, anatomiques et hormonaux, est classé comme suit : mâle, femell e ou 
+indéterminée en raison d’une variation du développement du sexe (Agana et al., 
+2019). Les caractéristiques sexuelles, y compris les organes génitaux, l’anatomi e 
+sexuelle et reproductrice, les chromosomes, les hormones et les caractéris tiques 
+secondaires apparaissant à la puberté60. Ces aspects physiques propres à chaque 
+personne peuvent faire l’objet de modifications corporelles qu’elles soient désirée s 
+ou non. Elsa Dorlin précise, depuis son éclairage philosophique, que l’identité 
+chromosomique n’est pas la cause ultime du sexe, mâle ou femelle, mais des 
+facteurs déterminants du choix de l’identité sexuelle (de genre et de sexuali té) 
+(Dorlin, 2008, p. 47). 
+ 
+2.2 Hypothèses génétiques 
+Plusieurs anciens travaux génériques (Coolidge et al., 2002), 
+(Bailey et al., 2000), (Iervolino, 2005), (Knafo et al., 2005) sont en faveur d’une 
+composante génétique dans l’incongruence de genre. Il est cependant rare de 
+trouver un caryotype anormal chez les patients dysphoriques de genre. En revanche, 
+rapportée au taux de base dans la population générale, il n’est pas impossible que 
+la prévalence soit plus élevée (Inoubli et al., 2011). 
+Des études de jumeaux, incluant des séries de cas non publiés de centres spécialisés, 
+montrent une concordance significativement plus élevée pour la dysphorie de genre 
+entre les jumeaux monozygotes qu’entre les dizygotes de même sexe (Heylens e t 
+al., 2012). On a aussi décrit des transmissions familiales dans une étude de fratries 
+non jumelles (Menvielle & Gomez-Lobo, 2011). En nombre absolu, la probabilité 
+pour le frère ou la sœur d’un individu dysphorique de genre d’être aussi 
+dysphorique est assez faible. 
+ 
+60 Principes de Jogjakarta +10 (2017). 
+ 60 Comme nous l’avons vu dans les hypothèses hormonales, la différenciation sexuée 
+du cerveau chez les mammifères est influencée par l’activité des hormones 
+sexuelles prénatales. Des associations, au final non significatives, ont é té 
+recherchées entre la dysphorie de genre et des mutations spécifiques (ou des 
+polymorphismes spécifiques) dans les gènes. 
+ 
+2.3 Hypothèses épigénétiques 
+Un éclairage épigénétique est apporté par la « Revue française de psychanalyse » 
+consacré au sexe et au genre. L’épigénétique, selon la définition de l’Inserm, 
+concerne « l’étude des changements dans l’activité des gènes, n’impliquant pas de 
+modification de la séquence d’ADN et pouvant être transmis lors des divisi ons 
+cellulaires. Contrairement aux mutations qui affectent la séquence d’ADN, le s 
+modifications sont réversibles »61. 
+Claudine Junien (professeure de génétique) rappelle qu’avant même la 
+différenciation des gonades, les ébauches embryonnaires du cerveau vont former 
+un socle, nécessairement sexué, sur lequel va s’élaborer notre cerveau au gré des 
+influences environnementales et selon son patrimoine génétique (avec des 
+chromosomes XX ou des chromosomes XY). Ainsi, la construction cérébrale est 
+soumise à une double influence : génétique et environnementale. Elle suggère 
+qu’une lecture critique et une prise de conscience des contraintes sociales liées au 
+genre et de leur incorporation biologique permettraient d’en savoir davantage sur 
+le sexe biologique. 
+Par genre, elle entend : les « comportements et les rôles, les attributs différenciés, 
+déterminés culturellement par le fait que la société, l’époque les consi dèrent comme 
+appropriés au féminin ou au masculin, pour les garçons et les filles et pour les 
+hommes et les femmes » (Junien, 2019). La chercheuse en génétique soutient que 
+le terme de genre devrait servir uniquement à évoquer les rôles qui sont détermi nés 
+ 
+61 https://www.inserm.fr/information -en-sante/dossiers -information/epigenetique 
+ 61 socialement. La lecture épigénétique ouvre les débats autour de la transmi ssion 
+sociale et culturelle : « Et c’est seulement à partir de la naissa nce que les influences 
+liées au genre et autres contraintes sociales pourront marquer nos gènes et l aisser 
+des empreintes conférant certaines dispositions à l’individu en fonction de son 
+genre. » (Junien, 2019, p. 1525). 
+Sur la compréhension des facteurs neurodéveloppementaux, génétiques et 
+hormonaux, de nouvelles questions sont à explorer pour la recherche médicale 
+comme les comparaisons interculturelles et l’influence éventuelle de l’ori entation 
+sexuelle. 
+En conclusion de l’éclairage biomédical, nous soutenons que si l’origine de la 
+transidentité est multifactorielle avec des apports biologiques (hormonales), 
+génétiques, et environnementaux et sociétaux (Mendes et al., 2016), il est 
+fondamental d’articuler l’identité sexuée avec les dimensions psychodynamiques 
+du corps et du psychisme de la personne, et l’environnement familial et socio-
+culturel. Nous proposons pour conclure de compléter cet éclairage depuis le corps 
+biologique jusqu’au parcours d’affirmation à la lumière de penseurs contemporains. 
+Selon Elsa Dorlin, l’approche biologique opère une réduction bicatégorielle des 
+sexes : mâle ou femelle. Distinguer les sexes a permis de négliger la distinction 
+entre sexuation et sexe ou pour le dire autrement la production de deux catégories 
+a été un « obstacle épistémologique » à la saisie scientifique du sexe comme 
+processus complexe de sexuation irréductible à deux catégories. La biologiste A nne 
+Fausto-Sterling (professeure au département de biologie moléculaire et cellula ire 
+de Brown Université et spécialiste des théories féministes), quant à e lle, repense la 
+classification des phénomènes de la sexuation (physiologique, anatomique, 
+chromosomique) et propose une définition du concept de genre incluant la non-
+binarité en 2000 (Fausto-Sterling et al., 2014). Elle intègre trois sexes 
+supplémentaires : les « herms » qui possèdent un testicule et un ovaire, les 
+« merms » qui possèdent des testicules et certains aspects de l’appareil génital 
+féminin mais pas d’ovaires et les « ferms » qui possèdent des ovaires et ce rtains 
+aspects de l’appareil génital masculins mais pas de testicules (F austo-Sterling et al., 
+ 62 2014, p. 72). Ses recherches reconceptualisent les pôles mâles et femelles c omme 
+les extrémités d’un « continuum modulable » ((Fausto-Sterling et al., 2014, p. 85). 
+« Il est plus juste de conceptualiser le sexe et le genre co mme différents points dans 
+un espace multidimensionnel » (Fausto-Sterling et al., 2014, p. 85). 
+L’ancien psychiatre d’adultes, parle depuis sa place de psychanalyste lacani en, pour 
+dire qu’il n’est pas toujours pertinent d’encombrer les patient·es d’un diagnostic 
+projeté de la nosographie (Czermak, 2021, p. 184) que ce soit le DSM ou la CIM. 
+ 
+ 63 
+
+SECTION 2 : LECTURE PSYCHANALYTIQUE 
+ 
+Il convient de revenir à la différence des sexes comme fondement épistémologi que 
+de la psychanalyse, et à une lecture rétrospective des théories sexuelles infantiles 
+au prisme des apports freudiens, lacaniens, et de lectures contemporaines pour 
+penser la transidentité – un siècle après que Freud a disjoint le plaisi r de la 
+reproduction dans la sexualité. 
+Nous donnerons toutefois les points de repères nécessaires pour comprendre ce qui 
+se joue pour le sujet au croisement de l’intrapsychique, l’intersubjec tif et le social 
+dans ses questionnements et son parcours de transition. Il sera nécessaire d’amener 
+les définitions conceptuelles de la constitution du moi, du moi idéal et de l’idéal du 
+moi, et, des identifications imaginaires et symboliques pour entendre les enje ux 
+psychodynamiques de l’affirmation d’un sujet. Si une lecture historique de chaque 
+concept eût été plus confortable, nous avons privilégié une navigation dialectique 
+entre les concepts. Ainsi, nous avons mis l’accent sur les points de tens ion, les 
+évolutions paradigmatiques, et les changements destinaux des notions et conce pts. 
+Un prétexte en quelque sorte pour repenser l’actualité du sexuel à la lumière de s 
+questions contemporaines. 
+Serge Hefez (psychiatre et psychanalyste) avance que « […] nous sommes tous 
+traversés par cette question-là beaucoup plus qu’auparavant. Comment j’habite ma 
+masculinité, ma féminité ? Qui suis-je comme homme ou comme femme ? Qu’est-
+ce que ces mots-là signifient pour moi, etc. ? Je dirai que cette interrogat ion, plus 
+ou moins douloureuse, est très présente » (Hefez & Hiridjee, 2021, p. 30-32). Et 
+d’inscrire dans les enjeux épistémologiques plus complexes que Paul B. Preciado 
+ 64 pointe « La psychanalyse est face à un choix historique sans précédent : soit e lle 
+continue à travailler avec l’ancienne épistémologie de la différence sexue lle et 
+légitime de facto le régime patriarco-colonial qui la soutient, devenant a insi 
+responsable des violences qu’elle produit, soit elle s’ouvre à un processus de 
+critique politique de ses discours et pratiques. » (Preciado, 2020, p. 85). Nous 
+tenterons de repérer les lieux d’énonciation de la psychanalyse et de ceux du s ujet 
+(intimité corporelle, psychique, espace social). 
+Notre approche théorique s’inscrit dans le repérage des processus de subjectivati on 
+d’un individu : les théories infantiles et l’approche centrée sur le devenir –, là où 
+une personne (dans son entièreté psychique et corporelle) prévaut sur une 
+éventuelle maladie à un moment donné « L’Approche centrée sur la personne est 
+une philosophie de vie dont l’éthique et les valeurs sont incontournables pour tenter 
+d’élaborer une « évaluation » des degrés d’incongruence. » (Odier, 2013, p. 6). 
+Geneviève Odier (psychothérapeute d’orientation rodg érienne) parle d’une 
+approche de la psychopathologie centrée sur le niveau d’incongruence qu’éprouve 
+le sujet. « Le mouvement interne est en recherche continuelle d’adaptation. P ar 
+adaptation, il faut entendre une aspiration permanente d’un équilibre, une 
+congruence. ». Ce sont précisément ces points de congruence et d’incongruence que 
+nous cherchons à entendre dans les entretiens, et à mettre en perspective a vec les 
+théories sexuelles infantiles, les motions défensives et les affects conscients et 
+inconscients des jeunes interviewé·es (Petrovic, 2005). 
+Pour organiser notre marche conceptuelle depuis la différence des sexes jusqu’à l a 
+notion contemporaine d’identité de genre, nous suivrons deux balises : la 
+constitution du sujet à la lumière du narcissisme, et, les appuis identi ficatoires dans 
+le devenir soi à l’appui de la diversité du genre. 
+ 
+ 65 CHAPITRE 1 : LES SEXES ET LES GENRES 
+ 
+Nous apportons quelques repères autour de la différence des sexes depuis la 
+théorisation du complexe d’Œdipe et de castration, jusqu’à la façon dont le réel du 
+corps s’articule à l’imaginaire et au symbolique – autrement dit du destin de 
+l’anatomie jusqu’à l’affirmation du sujet à l’appui de son désir. La différence des 
+sexes n’a qu’un référent unique pour les deux sexes anatomiques : le phallus. « La 
+reconnaissance par l’adolescent de cette différence des sexes est l’un des éléments 
+fondamentaux de la structuration du sujet. Le chemin qui déterminera les voies de 
+la sexuation du futur sujet adulte se trace en grande partie dans les modula tions du 
+regard et de la voix de la mère. » (Lauru, 2016, p. 6). Si la réponse est rabattue du 
+côté du genre posons alors que le genre neutre ne trouve pas de réponse dans les 
+fantasmes originaires et les représentations fantasmatiques de la bise xualité. Les 
+fantasmes s’édifient sur les bases des identifications primaires aux pare nts, puis les 
+identifications secondaires : « La butch n’est pas un garçon (psychique) qui aime 
+les femmes, la “grande folle” n’est pas une fille (psychique) qui aime les hommes. 
+S’il n’y a que deux sexes, il y a n genres : masculin, féminin, mais aussi gay, lesbien 
+(“je ne suis pas une fille, je ne suis pas un garçon, je suis lesbienne”, dit une jeune) » 
+(André, 2021, p. 2). 
+ 
+1.1 La bisexualité 
+1.1.1 La bisexualité psychique 
+Freud a introduit la notion de bisexualité psychique par l’intermédiaire de Wilhe lm 
+Fliess dans les années 1860-1900 (Assoun, 2007, p. 9-20) : tout être humain aurait 
+des dispositions sexuelles à la fois masculines et féminines au sei n des conflits 
+psychiques que le sujet connaît pour assumer son propre sexe. Selon Freud, le 
+principe psychique organisateur commun aux deux sexes mérite une distinction 
+selon qu’elle s’entend au niveau biologique, psychologique ou sociologique. 
+ 66 Ce rappel est rapporté par André Green : la théorie freudienne distingue la 
+bisexualité psychique de la bisexualité biologique. Il serait bancal et erroné d’établir 
+des équivalences terme à terme entre chacun de ses niveaux : biologique, 
+psychologique ou sociologique (Laplanche, 1973, « Le genre neutre », Section I, 
+Points de repères pour la bisexualité psychique, p. 391). Ce point précis donne une 
+direction pour penser un nouage entre le corps de naissance, l’affirmation dans le 
+genre souhaité et la sexualité. André Green affine la distinction entre le corps et le 
+soma : « Le soma, c’est vraiment l’organisation biologique. Le corps lui est tra versé 
+par la libido, par le signifiant. Avec le soma, il y a là une possibilité d’intégrer le 
+modèle de la psychosomatique en psychanalyse » (Green, 2003, p. 41). 
+Julia Serano, chercheuse et personne concernée que nous avons citée dans la se ction 
+précédente de la littérature médicale, exprime sa totale opposition avec le point de 
+vue de la clinicienne suscitée. Son souhait de transitionner a été avant tout guidé 
+par le choix de faire confiance à ses sensations corporelles qu’elle nomme son sexe 
+subconscient « peut-être pas surprenant si après avoir commencé mon traitement 
+hormonal, le changement le plus rapide que j’ai pu ressentir dans mon rapport au 
+corps a été une atténuation de ma dissonance de genre – c’est-à-dire de la tri stesse 
+chronique liée au genre que j’avais toujours charriée avec moi, depuis aussi 
+longtemps que je pouvais m’en souvenir. » (Serano & Grunenwald, 2020, p. 171). 
+ 
+ 67 1.1.2 La bisexualité et le fantasme 
+Poursuivons avec Freud sur le lien entre la bisexualité et le fantasme qui voit dans 
+la bisexualité l’intérêt d’une problématisation psychologique. Il exploite la 
+signification bisexuelle et le fantasme personnel avec les symptômes hys tériques. 
+En 1919 ave c Un enfant est battu , Freud avance que chez tout individu le combat 
+des caractères sexuels serait le motif du refoulement ; le refoulement e st « contre-
+sexe ». En bref, c’est en s’identifiant que le sujet endosse le rôle masculi n et/ou 
+féminin auxquels Freud attribue des destins en couple d’opposés pour décrire la 
+doctrine pulsionnelle : actif/passif. 
+Sur ce point, Judith Butler émet une vive réserve sur le concept de la bisexua lité 
+quant à son opérabilité puisqu’elle l’assimile à deux désirs hétérosexuels s i on lit 
+que la part féminine veut un objet masculin, et la part masculine un objet féminin 
+(Pommier, 2011). Nous retenons que le concept de bisexualité a eu l’audace de 
+déplacer la dialectique duelle homme/femme vers des fonctions inconsciente s du 
+masculin et du féminin comme Judith Butler le souligne dans la seconde é dition de 
+Trouble dans le genre (1999) (Butler, 2006, p. 26). 
+Cet appui théorique permet d’insister sur le fait que c’est grâce à la constituti on du 
+fantasme de l’autre sexe (dans le triangle œdipien) que la bisexualité psyc hique 
+s’organise (Laplanche, 1973, p. 394). En dernier lieu, nous écartons l’idée de la 
+prévalence du féminin évoquée dans le texte Sur la sexualité féminine (1931) 
+(Freud, 2014). Freud apporte dans la conférence « Féminité », Nouvelles 
+conférences de la psychanalyse (1915-1916) (Freud, 1999), une distinction 
+importante qui nourrit le fil de notre réflexion : entre la fonction sexuelle et la 
+discipline sociale. 
+Sur la construction du féminin, Agnès Oppenheimer met en tension la notion de 
+bisexualité et d’identité en soulignant que la première est plus « fructueuse » pour 
+décrire les deux sexes et les deux genres que la notion d’identité. « L’identit é 
+renvoie à un idéal et la possibilité d’un déni des pulsions tandis que la bi sexualité 
+engage à en travailler l’intégration. La notion d’identité sexuelle serait une 
+condition de constitution de l’appareil psychique et de l’accès aux complexes. L es 
+ 68 troubles sexuels sont liés à l’identité sexuelle même s’ils ne sont pas identifiables 
+aux troubles de l’identité qui, s’ils relèvent d’une carence, s’articulent à la 
+psychosexualité, c’est-à-dire à la pulsion et aux conflits. » (Oppenheimer, 2011, 
+p. 38). 
+Vincent Bourseu l prolonge la réflexion théorique formule que la bisexualité 
+psychique encourage un écrasement, une mise en échec des tentatives de 
+dépassement de la binarité. « L’au-delà de la binarité n’est pas la non-bi narité, ni 
+sa seule extension ou complétude apparente autre que l’ajout d’une nouvelle 
+représentation façon marketing 2+1. Il propose que l a « bisexualité psychique 
+constitutive » veut dire que l’on est : et homme et femme et gay et trans, non pas 
+en même temps, mais en un même lieu celui de l’inconscient 64. 
+ 
+1.2 La sexuation 
+ 
+La théorie psychanalytique d’orientation lacanienne propose le terme de sexuation 
+pour penser la différence des sexes entre homme et femme. Lacan conceptualis e 
+ces positions en proposant des formules sous forme d’écriture logique en tableau 
+dans Encore , Le Séminaire, Livre XX (1974) (Lacan, 1973, leçon du 13 mars 
+1973). Il montre que les discordances du côté homme et femme ne sont pas 
+complémentaires. Il remet ainsi en question les normes sexuelles et l’idéal freudien 
+de la satisfaction de l’accession à une relation d’objet (l’idéal de « l ’amour 
+génital »). Lacan propose l’aphorisme « il n’y a pas de rapport sexuel » (Lacan, 
+2011, leçon du 8 décembre 1971)65. Si les discordances homme/femme sont vaines, 
+elles se rapportent à la conséquence structurale du langage et donc d’une logique 
+ 
+64 Nous reprenons le texte de l’allocution prononcée lors de la Journée du Réseau de santé sexuelle 
+publique, le 23 novembre 2022 , à l’Hôtel de Ville de Paris. 
+65 La citation dans le contexte est « A vider ce verbe donc, j’en fait argument, c’est -à-dire quelque 
+substance, ce n’est pas « dire » c’est « un dire ». Ce dire, celui que je reprends de mon séminaire de 
+l’année dernière, s’exprime comme tout dire dans une proposition complète : « il n’y a pas de rapport 
+sexuel » , Lacan, 1971, Ou pire, Livre XIX, leçon du 8 décembre 1971. 
+ 
+ 69 de l’inconscient à la manière de connecteurs logiques qui viendraient se met tre en 
+place dans l’après-coup (l’élaboration secondaire) « Chaque signifiant renvoyant à 
+un autre signifiant la vérité ne peut se dire toute. Il y a un refoulé primordial qui ne 
+peut passer par le dire. » (Darmon, 2004, chapitre IX consacré à la sexuation, 
+p. 320-321). 
+Pour resserrer le lien avec notre étude, soulignons que ce qui est subverti par les 
+effets du langage ne prend pas une valeur féminine, masculine ou neutre puisque la 
+théorie du phallus s’applique. Il est constitué par un signifiant représentant les effets 
+du signifiant sur le sujet, autrement dit l’orientation du désir réglé par l’inte rdit. 
+L’orientation du sujet par rapport au phallus ne nous renseigne guère plus sur la 
+différence des sexes et des genres. Les questions qu’apportent la transidentité ne 
+sont donc que très partiellement éclairées par l’héritage freudien, si l’on s’e n tient 
+au garçon qui devrait renoncer à être le phallus de sa mère pour accéder aux ins ignes 
+de virilité proposés par le père, et à la fille qui s’identifie à l’objet de son désir. 
+ 
+1.2.1 Le rapport au phallus 
+La différence des sexes a un référent unique pour les deux sexes anatomiques (le 
+phallus), – symbole de la libido pour les deux sexes (signifiant d’un manque). Le 
+phallus comme signifiant pose une énigme à tout individu pour savoir ce qu’il n’est 
+ou de qu’il n’a pas, obligeant l’humanité entière à ce que Jacques Lacan dési gne 
+comme « l’intervention d’un paraître » (Alfandary, 2019, p. 32). 
+Le phallus recouvre ainsi une valeur imaginaire pour l’enfant qui attribue au pénis 
+la qualité d’être le représentant de la différence des sexes. Avant d’aboutir à une 
+théorisation du phallus comme signifiant du désir, Jacques Lacan articule le phallus 
+imaginaire et symbolique à partir du complexe de castration freudien et dégage dans 
+une première approche l’enjeu symbolique du phallus dans l’inconscient et sa place 
+dans l’ordre du langage en 1958 (Lacan, 1966, Ecrits II, La signification du phallus, 
+p. 163). Ce dernier en fait d’abord l’objet du refoulement originaire freudien avant 
+de remanier son approche. 
+ 70 En 1972-1973, Jacques Lacan conjoint deux problématiques autour de la théorie du 
+phallus. Le phallus devient fonction phallique d’une part, et d’autre part à l’appui 
+de la topologie des nœuds, le phallus constitue ce qui fait tenir une distinct ion 
+radicale. Écrire en termes de « fonction » entérine ainsi le hiatus entre hom me et 
+femme, et vient attester qu’il n’y a pas de rapport sexuel entre les deux se xes 
+(Lacan, 2005, Leçon du 13 mars 1973). Il n’y a donc pas d’essence ou de nature 
+masculine, féminine ou autre car « qui que ce soit de l’être parlant s’inscri t à gauche 
+(masculin) ou bien à droite (féminin) » (dans le tableau l’écriture algébrique des 
+« Formules de la sexuation » (Sciara, 2011, Annexe III, p. 316). Il y a des positions 
+masculines ou féminines dans la façon d’habiter le langage. Nous en déduisons que 
+le signifiant « neutre » pourrait aussi représenter un sujet puisque le phallus es t 
+« Signifiant de la jouissance sexuelle ; il est le point où s’articulent les différences 
+dans le rapport au corps, à l’objet et au langage » (Chemama & Vandermersch, 
+2018, p. 436). 
+ 
+1.2.2 Jouissance narcissique et jouissance phallique 
+La notion du narcissisme freudien se retrouve chez Jacques Lacan corrélée à la 
+jouissance (aux rapports de satisfaction qu’un sujet peut attendre de l’usage d’un 
+objet) – ce que Freud avait amené avec l’au-delà du principe de plaisir et de la 
+répétition avec la pulsion de vie et de mort. Dans le texte « La logique du fa ntasme » 
+(le fantasme comme scénario de la jouissance), Jacques Lacan distingue la 
+jouissance narcissique de la jouissance phallique. Dans une perspective 
+psychanalytique, il déplace la question philosophique de l’idéal à atteindre pour 
+l’être humain. Il s’agit de la question de la place plutôt que d e l’essentialisation de 
+l’être parlant. La jouissance narcissique concerne l’illusion d’unité de l’ima ge 
+corporelle tandis que la jouissance phallique émerge de la confrontation de l’Aut re 
+dont l’objet phallus se porte comme barrière. « Ceci par l’intervention d’un paraître 
+qui se substitue à l’avoir, pour le protéger d’un côté, pour en masquer le manque 
+dans l’autre, et qui a pour effet de projeter entièrement les manifestations idéales 
+ 71 ou typiques du comportement de chacun des sexes, jusqu’à la limite de l’acte de la 
+copulation, dans la comédie. » (Lacan, 1966, Ecrits II, p. 172). 
+Nous rappelons aussi que Jacques Lacan a rebattu la valence de la bisexua lité 
+psychique avec le concept du phallus en 1958, et a affirmé que le phallus c’est c e 
+qui châtre en translatant le phallus imaginaire en phallus symbolique. Il int ègre la 
+castration et l’interdit de l’inceste dans le signifiant phallique et l e sinthome sexuel. 
+L’identité sexuée est envisagée sous l’angle du semblant avec le faire-hom me et le 
+faire-femme « dans leur relation à l’autre partie ». « (…) à l’âge adulte il es t du 
+destin des êtres parlants de se répartir entre hommes et femmes et que pour 
+comprendre l’accent qui est mis sur ces choses, sur cette instance, il faut se rendre 
+compte que ce qui définit « l’homme » c’est son rapport à « la femme », et 
+inversement. » (Lacan, Livre XVIII, D'un discours qui ne serait pas du semblant , 
+Leçon du 20 janvier 1971). 
+Dans une approche contemporaine, Vincent Bourseul propose de considérer 
+l’identité sexuelle comme un symbole, et de réinterroger la différence des sexe s 
+(depuis le point de vue freudien de « l’anatomie ») et d ’en mesurer l es 
+conséquences sur le psychi sme à partir des critiques et des divergences formulées 
+en leur temps par Horney, Weininger mais aussi Abraham, Ferenczi ou Deutsch 
+(Bourseul, 2015). 
+Le corps n’est pas libre de la pulsion, le moi lui-même est surface corporel le 
+remaniée ou non d’ailleurs selon qu’il se conforme aux enjeux sociaux. Une voie 
+d’accès au pulsionnel s’invite par le fait du langage. « La question des identi tés 
+sexuelles comme symboles, car nulle ne contesterait aujourd’hui que « homme » 
+ou « femme » sont des symboles tant leur fonction de repérage opère par-delà 
+l’appréciation personnelle que l’on s’en fait ou la traduction qui leur est dévolue » 
+(Bourseul, 2013, p. 129). Vincent Bourseul parle de « tentative de liberté 
+subjective » pour la démarche de la transidentité et propose une avancée 
+topologique depuis le tableau de la sexuation (Bourseul, 2013, p. 129). 
+ 
+ 72 CHAPITRE 2 : L’IDENTITE DU SUJET 
+ 
+La conception même de l’appareil psychique avec ses différentes instances 
+s’oppose à toute formalisation d’une identité stable et donnée d’emblée (Gayon, 
+2020, p. 102-118). En ce sens, le concept de l’identité est antinomique à l’édifice 
+métapsychologique contrairement aux psychanalystes américains qui ont théorisé 
+le noyau de l’identité dans un article princeps est publié dans the International 
+Journal of Psychoanalysis (1964)66. 
+ 
+2.1 Le concept d’identité 
+Bien qu’absent de l’édifice freudien « L’identité habite la psychanalyse comme 
+spectre qui l’engage dans une archéologie qui ruine toutes perspectives de lui 
+fournir une assise constituée une fois pour toute et qui donne à l’esprit humain un 
+avenir où il devient responsable de son devenir » selon François Villa (Gayon, 
+p. 118)67. 
+2.1.1 Les composantes de l’identité 
+Bien que cette section de la revue de littérature soit consacrée à la lecture 
+psychanalytique, nous abordons les composantes de l’identité par l’identité 
+numérique car il s’agit de celle dont on se sert ordinairement pour (se) compter 
+« une notion transcendantale qui s’applique à toues les genres ontologiques : elle se 
+prédique non seulement des objets concrets spatio-temporels mais aussi de leurs 
+propriétés, des objets abstraits (nombres, ensembles) ou bien encore des entités 
+intensionnelles comme les concepts ou les propositions exprimées par les 
+ 
+66 Cet article sera réédité en 1977 dans « The dilemma of Human Identity » (Lichtenstein, 1963) . 
+67 Cité depuis l e chapitre « Le spectre de l’identité », Le dictionnaire encyclopédique de l’identité 
+2020 , p. 102-108. 
+ 73 énoncés. » selon le philosophe du langage Filipe Drapeau Contim (Drapeau 
+Contim, 2010, p. 16-17). 
+Par-delà l’identité numérique du « un » et du « deux », c’est l’identité qualitative 
+du sujet qui prend son sens au fil des changements et remaniements subject ifs de la 
+vie d’un sujet. L’identité de la personne persiste même si le prénom d’usage change 
+à l’état civil. L’identité et le changement ne sont pas incompatibles . « Si avoir des 
+souvenirs autobiographiques est une propriété psychologique des personnes, alors 
+la relation d’identité appliquée aux personnes requiert vraisemblablement la 
+permanence d’une telle propriété. » (Drapeau Contim, 2010, p. 15). Bien que le 
+philosophe suscité distingue l’identité numérique et l’identité qualitative (la 
+variabilité au cours du temps) dans sa tentative de définition de l’identité , il conclut 
+à « l’identité tout court ». 
+Chercher une théorie formelle de l’identité conduit à adopter une logique « A = A » 
+(symbole de l’identité numérique en mathématiques) et donc un prédicat à deux 
+places. Pour se départir du piège de la circularité (du même) et apporter de l a 
+division théorique, il introduit la théorie de Leibniz68 de l’indiscernabilité, et ainsi 
+« s’affranchit des limitations du contexte pour signifier que l’identité qualitati ve à 
+l’égard de toutes les propriétés, sans restriction » (Drapeau Contim, 2010, p. 24). 
+L’identité est posée, dans l’épistémologie philosophique, comme réflexive et 
+indiscernable. Ainsi, elle résiste au temps et aux variabilités. Si le changement 
+s’inscrit dans l’expérience humaine ordinaire, qu’en est-il l’identité du sujet a u fil 
+du temps au travers des acquis du développement (langage, moteur, psychique), des 
+changements pubertaires et de son désir ? 
+
+68 « Si deux termes singuliers désignent le même objet, alors on peut substi tuer toute occurrence 
+toute occurrence de l’un par une occurrence de l’autre sans modifie r la valeur de vérité de la phrase 
+dans la quelle on effectue la substitution. » selon F. Drapeau Contim (p. 22), op. cit. 
+L’auteur prend l’exemple de l’auteur de La Vie devant soi . Romain Gary et Emile Ajar (1975). 
+ 74 2.1.2 L’objet a69 
+De façon contemporaine, le psychanalyste Charles Melman reprend ce point de 
+jonction : « Ce trait [l’identité] vient se situer à l’intersection du psychis me 
+individuel et collectif, agissant comme un idéal à satisfaire. »70 (Chemama & 
+Vandermersch, 2018, entrée "Objet a", p. 402-404). Il propose de distinguer quatre 
+composantes de l’identité sur le modèle des registres de la subjectivit é et du 
+symptôme. La première est une composante imaginaire liée au regard de l’aut re et 
+au moi-idéal. La seconde est symbolique, en lien avec l’assentiment pate rnel et la 
+dette (« la bénédiction », le bien dire). La troisième est la composante réelle qui 
+intervient avec le retour du refoulé, et avec l’anatomie. Et la dernière est située dans 
+le champ de la psychopathologie. Il s’agit de la composante symptomatique, dans 
+le sens où un point vient définir une particularité identitaire via le symptôm e du 
+sujet (son fantasme). 
+En 2002, Charles Melman ajoute une cinquième composante avec l’identification 
+à l’objet a qui pourrait permettre un autre nouage entre le réel, le symbolique et 
+l’imaginaire, à l’appui clinique de la dernière leçon du séminaire de Jacques Lacan 
+où il évoque l’écriture de Joyce (Fierens et al., 2018, « 6 - Comment garder la trace 
+du réel ? Le sinthome et le fantasme », p. 255-283). Nous comprenons que, dans ce 
+cas précis, la trace du réel (dans le sens où il fait point de butée/li mitation) n’est pas 
+complètement perdue ; dans la démonstration des nœuds borroméens le rond du 
+symbolique est limité et arrêté par le rond réel, et vice-versa. Il est à la fois 
+réparation dans le sens de construction à trois étages qui vient faire tenir le 
+symbolique et en même temps la réparation du système de la personnalité unifiée 
+(réparation du trèfle). Ainsi, il exclut une forme commune, un trait unique, qui serait 
+l’identité. Elle implique de se mettre dans une position d’altérité par ra pport à sa 
+propre subjectivité, et vis-à-vis de soi-même. Il la définit comme pouvant porte r 
+une certaine menace et inviter « à se faire autre ». Le caractère unita ire de la 
+ 
+69 Selon Jacques Lacan, il s’agit de l’objet cause du désir. L’objet pe tit a n’est pas un objet 
+représentable comme tel. Il peut être identifié sous forme d’éclats partiels du c orps et est réductible 
+à : l’objet de la succion (sein), l’objet de l’excrétion (fèces), la voix et le regard selon le Dictionnaire 
+de la psychanalyse , entrée « Objet a », op. cit. 
+70 https://www.comite -freud.com/le -comité/l -identité 
+ 75 conscience est donc battu en brèche par la psychanalyse ; le sujet ne se définit qu’au 
+travers de la relation à ses géniteurs « […] le Moi inconscient ruine l’idée de l’unité 
+du Moi et par conséquent la notion même de l’individu. » (Green, 2003, p. 82), de 
+sa filiation imaginaire et du fantasme du désir qui a présidé à la nais sance de 
+l’enfant. 
+L’identité du sujet est donc supportée par le regard des autres ; elle lui a ssigne une 
+place au sujet dans un groupe. La solidité est assurée par les origines, l’hi stoire 
+personnelle et le patronyme qui joue aussi un rôle décisif. L’usage signifiant du 
+nom propre fait écho au prénom choisi (versus le prénom de naissance) dans les 
+parcours d’affirmation (González, 2018). Nous interrogeons ce point de vue à la 
+lumière du redéploiement des catégories de genre et du ciscentrisme. Juli a Serano 
+revient sur les assignations qui fonctionnent comme des « signaux visibles et 
+auditifs » et revient sur ce qui définirait une femme ou un homme « (…) que ce 
+soient les gènes, les chromosomes, la structure cérébrale, les organes génit aux, la 
+socialisation oui le sexe d’état civil qui figure sur un certificat de na issance ou une 
+carte d’identité (…) ces facteurs ne jouent généralement pas le moindre rôle dans 
+la façon dont nous assignons quotidiennement un genre aux gens. » (Serano & 
+Grunenwald, 2020, p. 111). 
+ 
+2.1.3 La différenciation et la subjectivation 
+Le concept analytique de subjectivation, processus complexe et paradoxal, a ét é 
+introduit par Jacques Lacan dans les Écrits (pendant la période de l’après-guerre) à 
+l’appui du texte freudien « Pulsions et destins des pulsions » (1915) (González, 
+2018). Il a été ensuite théorisé par André Cahn avec la notion de sujet (Cahn, 2016). 
+L’acte de subjectiver signifie s’approprier ses éprouvés subjectifs, en faire son 
+affaire en quelque sorte, les intégrer dans son Moi, faire exister ce qu’on a éprouvé 
+dans sa chair, et dans le même temps se reconnaître assujetti (Penot , 2018) – 
+opération qui se réalise dans et par le langage. 
+ 76 « Qu’est-ce que ça veut dire : subjectiver ? sinon saisir, s’approprier, en même 
+temps que faire exister ce qui a été découvert jusqu’à l’éprouver dans sa chair, ce 
+qui a été retrouvé de soi et de sa relation avec l’autre, à travers le pouvoi r 
+métaphorique du langage qui s’efforce sans cesse d’ouvrir des brèches dans la 
+clôture de la pensée […] je me demande dans quelle mesure on ne pourrait pas 
+proposer un autre synonyme à “subjectiver”, “réaliser” ce serait “sublimer”, s oit ce 
+passage de la pulsion de savoir au plaisir de la découverte ? » (Brusset, 2017, 
+p. 175-176) ; circuit libidinal (passage de la pulsion orale à anale) qui transite par 
+la demande de l’Autre sous l’effet du langage. La subjectivation passe par la 
+différenciation. Le sujet doit se différencier, ce qui lui permet de reconnaît re sa 
+propre division (se compter un) (Lacan, L 'identification, Leçon du 6 décembre 
+1961). 
+Le sujet se reconnaît dans les empreintes inscrites en lui à travers l’histoire familiale 
+qui le précède, les vœux parentaux, « l’empreinte »71 mate rnelle et paternelle, etc.72 
+André Cahn pointe que la dimension du corps (de naissance, psychique, etc.), est 
+particulièrement prégnante à l’heure des changements pubertaires féminisants ou 
+masculinisants (moment électif). 
+Le concept d’identité pose à la psychanalyse la question de la continuité de soi-
+même et de la cohérence du moi dans l’espace et le temps, d’autant plus lorsqu’il y 
+a l’annonce d’une affirmation singulière. Comment le sujet maintient-il une 
+cohérence psychique alors qu’il traverse des modifications sociales et/ou 
+hormonales et/ou juridiques et/ou chirurgicales au fil des âges de la vie ? est-ce une 
+affirmation qui chemine ou transite vers une identité de séparation ? Est -ce une 
+identification discordante ou une désidentification dans le sens d’un dégagement 
+ 
+71 Nous reprenons les terme s « l’empreinte du désir » et « le fantasme parental » en référence au 
+chapitre sur « Le genre neutre », de André Green, Narcissisme de vie, narcissisme de mort (2007), 
+p. 393, op. cit. 
+72 « Par l’effet de parole il se réalise toujours plus dans l’Autre, mais l à il ne poursuit déj à̀ plus 
+qu’une moitié de lui- même – vous verrez que c’est là-dessus que je vous ramènerai – il ne trouvera 
+son désir que toujours plus divis é, pulvérisé, dans la cernable métonymie de la parole. L’effet de 
+langage est tout le temps mêlé à ce quelque chose qui est le fond de l’expérience analytique, 
+l’actualisation de ce qu’il n’est sujet que d’être assujettissement, assuje ttissement au champ de 
+l’Autre. », Les quatre concepts fondamentaux , Le Séminaire (Livre XI), Leçon du 20 mai , 1964, 
+(1963 -1964). 
+ 77 d’un faux-self, d’un éloignement d’une première nomination des parents, des 
+médecins, de l’état civil, du corps anatomique qui viennent de concert dire : tu es 
+une fille, tu es un garçon, tu es cela ? une identité d’affirmation donc. L’identit é 
+pose une seconde question abyssale : de quelle façon l’ infans accède t-il à l’identité 
+(Hurstel, 2001) ? Ainsi, le destin freudien, préalablement ficelé au biologique, à 
+l’anatomie et au manque de pénis, change d’aiguillage avec Jacques Lacan pour 
+être référé au signifiant phallus (1968) avec le complexe de castration menti onné 
+précédemment. Pour mémoire, le complexe de castration s’entend dans une 
+perspective freudienne comme les conséquences inconscientes l’absence de péni s 
+chez la fille et la menace de castration chez le garçon depuis le Dictionnaire de la 
+psychanalyse . Depuis une lecture lacanienne, ces conséquences sont déterminées 
+depuis la soumission du sujet à un élément qui est déterminant (le signi fiant) ; en 
+ce sens, le phallus désigne la perte liée à la prise de la sexualité dans le langage. 
+Le fonctionnement de l’inconscient n’a résolument rien de biologique le phallus, 
+en tant que signifiant, est commun aux deux sexes. Chacun·e a à s’en débrouiller et 
+à préciser sa propre couleur pour se situer subjectivement avec le plus ou moins 
+féminin, masculin, neutre… (Vives, 2003)73. Le sexe 
+anatomique/biologique/génétique reste un repère (un donné) pour le sujet par 
+rapport à lui-même (à une coupure signifiante dit Jacques Lacan sur un versant 
+analytique)74. Cette balise est nécessaire, mais pas toujours suffisante pour que le 
+sujet s’oriente et sache ce qu’il en est pour lui concernant son identité s ociale et ses 
+choix d’objet. Le sujet se repère aussi à partir de la parole de ses sem blables, à 
+l’Autre social, et à des identifications visibles depuis les réseaux soc iaux et Internet 
+(Lerude, 2017b). 
+
+73 « La signification du phallus », Écrits II, (1966), p. 694, cité dans Vives, J. -M. (2003). La vocation 
+du féminin. Cliniques méditerranéennes, 68(2), 193. 
+74 Lacan a repris l’assertion freudienne de 1924 « l’anatomie c’est le destin », en soulignant 
+l’importance d’entendre le sens étymologique du terme anatomos (couper) au sens d’une coupure 
+signifiante dans Jacques Lacan, Les quatre concepts fondamentaux de la psychanalyse , Le Séminaire 
+(Livre XI), 1973, p. 161, op. cit. 
+ 78 2.2 La constitution du sujet 
+2.2.1 Lien entre identité et narcissisme 
+Pour avancer dans le parcours conceptuel, nous prenons appui sur le concept 
+freudien du narcissisme. Agnès Oppenheimer, par ailleurs pionnière dans la lecture 
+des études sur le choix du sexe chez Robert Stoller, relève que nombre d’auteurs 
+anglophones de l’Ego psychologie comme Heinz Lichtenstein, Heinz Kohut, et 
+d’autre comme Donald Winnicott, ont théorisé l’identité à partir du concept 
+princeps de narcissisme, et ont mis l’accent sur les rapports du moi avec le monde 
+extérieur (plutôt qu’à partir des stades de développement psychosexuels). Elle 
+invite à la prudence vis-à-vis de la notion d’identité qui véhicule l’idée que l es 
+pathologies sont amendées par l’évolution de nos sociétés contemporaines. Elle 
+soutient qu’il est préférable de ne pas souscrire à l’idée que les modificat ions 
+épocales annulent les postulats théoriques. « Abolie du modèle psychanalytique 
+freudien, l’identité revient du dehors par le biais des discours de personnes dites 
+“border-line”, et dans les théorisations des analystes qui ont tendance à c onstruire 
+des théories nouvelles, adaptées à la “nouvelle” pathologie, mais souvent 
+incompatibles avec la métapsychologie. » (Oppenheimer, 2010, p. 9)75. 
+Au-delà de la reconnaissance du narcissisme dont Freud convient pour l’individu 
+(depuis les perversions sexuelles et les troubles psychotiques), le concept du 
+narcissisme a permis d’élargir la compréhension du développement libidinal et de 
+la structuration du moi. 
+
+75 Cette référence à l’Ego psychologie mérite d’être précisée . Deux périodes sont à distinguées dans 
+le concept : Heinz Hartmann dans les années 1950 -1960 , et, Jacob Arlow et Charles Brenner à partir 
+des années 1970. 
+ 79 2.2.2 La constitution du moi 
+Dans Le Moi et le ça (1923), Freud a écrit que le moi porte une « calotte 
+acoustique » des mots à un niveau qui ne réside pas dans la signification mai s dans 
+des restes mnésiques de mot entendu. Quelle(s) résonance(s), les mots t els que le 
+nom inscrit à l’état civil et les pronoms du genre choisi, ont-elles sur le corps ? 
+D’autre part, Freud parle d’un moi qui est avant tout un moi-corps : « Il peut être 
+considéré comme une projection mentale de la surface du corps et représente l a 
+surface de l’appareil mental » (Freud, 2001, p. 270)76. Autrement dit, le seul et 
+unique accès que l’individu ait à son corps passe par le moi. Ce point semble 
+pertinent à isoler puisque la transidentité procède d’un mouvement asynchrone 
+entre le ressenti du corps et l’image du sexe anatomique ; le moi freudien étant le 
+siège de la conscience et des manifestations inconscientes. 
+Le renouveau de la seconde topique freudienne établit un lien entre les dimensions 
+psychique et somatique. Freud déduit que la pulsion est un concept limite « ent re 
+psychique et somatique, le représentant psychique des excitations, des stimul i issus 
+de l’intérieur du corps et parvenant au psychisme, comme une mesure de l’exigence 
+de travail qui est imposé au psychique en conséquence de sa liaison au corporel . » 
+(Freud, 2018, p. 17-18)77. 
+Si la théorie des pulsions rappelle que le moi est avant tout corporel, il s’agit d’un 
+corps pris dans le langage. Ce repère théorique est précieux pour les parcours 
+d’affirmation où la dimension d’angoisse et de souffrance psychique et présente 
+lorsque le corps sexué effracte l’image du corps de l’enfance. Le moi s’aménage 
+entre les conflits psychiques et les clivages pour lutter contre les agres sions du 
+monde extérieur, les normes, les stéréotypes. 
+Nous retiendrons pour éclairer l’affirmation de la personne que, si le moi freudien 
+est le produit de la différenciation avec le ça inconscient, il est cons titué par le corps 
+ 
+76 Freud S. (1922), « Le moi et le ça », Essais de psychanalyse , Paris, PBP, p. 270, 2001. 
+77 Freud S. (1915), « Pulsions et destins des pulsions », Métapsychologie, Paris, Gallimard, p. 17-
+18, 1968. 
+ 80 propre là où des images visuelles et sonores sont inscrites dans la psyché. Ainsi, 
+peut-on formuler que le moi est le fruit transitoire d’un développement. L’infantile 
+est ainsi une création d’événements qui ne sont pas circonscrits à la const itution du 
+moi ou à l’adolescence, mais qui interviennent tout au long de la vie d’un sujet 
+(Benhaïm & Rassial, 2006, p. 7-9). Le modèle structural qui met en jeu le corps 
+sexué peut se représenter à l’occasion de « moments juvéniles » (Garcia-Fons & 
+Solal, 2016, p. 26). 
+ 
+2.2.3 Le narcissisme 
+Nous faisons un détour historico-théorique par le concept du narcissisme pour 
+mettre l’accent sur la perception qu’un sujet a de lui-même, de soi, et de sa 
+permanence au décours des changements pubertaires et des représentations 
+inconscientes, pour ensuite faire le lien entre narcissisme et idéal du moi. Dans les 
+Trois essais sur la théorie de la sexualité (1910), le concept du narcissisme est 
+repris pour ébaucher un stade de développement de la libido en lien avec 
+l’homosexualité. Freud soutient que la personne homosexuelle choisit l’objet de se s 
+amours en fonction de son propre narcissisme (Freud et al., 2011). Le concept reste, 
+à cette époque, situé du côté de la psychopathologie et de la clinique des 
+perversions. C’est avec le cas du Président Schreber que le narcissisme es t 
+considéré comme un stage de développement de la libido, stade intermédiaire entre 
+l’auto-érotisme et l’amour d’objet (Freud, 2018a)78, où on assiste à la bascule du 
+corps de la personne propre comme objet d’amour au choix objectif vers un objet 
+tiers. L’introduction du narcissisme postule ainsi leur rassemblement sur le moi et 
+la translation de la satisfaction pulsionnelle à l’amour d’objet. 
+En premier lieu, l’objet est d’abord le moi (et l’investissement des organes 
+génitaux). L’amour narcissique est donc une étape nécessaire vers l’amour objecta l. 
+ 
+78 Le président Schreber : remarques psychanalytiques sur un cas de paranoïa ( dementia paranoides) 
+décrit sous forme autobiographique. « (…) l’individu en voie de développement rassemble en une 
+unité ses pulsions sexuelles, qui jusque là, agissaient sur le mode auto -érotique, afin de conquérir 
+un objet d’amour, et il se prend d’abord lui -même, il prend son propre corps, pour objet d’amour 
+avant de passer au choix objectal d’une autre personne. », p. 134, Payot, 2018. 
+ 81 « Fondamentalement, l’investissement du moi [le narcissisme] persiste et se 
+comporte envers les investissements d’objet comme le corps d’un animalcule 
+protoplasmique envers les pseudopodes qu’il a émis. » (Laplanche et al., 2007, 
+entrée "Libido du moi – Libido d’objet", p. 226-228). Jacques André synthétise ce 
+point important sur le narcissisme comme suit : « L’une des conséquences de 
+l’introduction du narcissisme est de faire choir hors du champ de la théorie 
+analytique la question du vital, de l’autoconservation, tant sa reprise sous le registre 
+global des pulsions du moi gomme des distinctions importantes. » (André, 1999, 
+p. 7). Nous saisissons la tension duelle entre le réservoir narcissique et l es 
+investissements objectaux. L’amour narcissique précède l’amour objectal ; le moi 
+est composé d’une quantité nécessaire de libido narcissique pour assurer sa 
+protection et promouvoir ses propres intérêts. 
+Freud lie le narcissisme au visible (le deuil, l’hystérie). En conséquence , le 
+narcissisme est relié au sujet et à ses pulsions et à son regard. Il ébauche un lien 
+plus ou moins net entre l’investissement libidinal du père et de la mère, les 
+manifestations de la tendresse parentale vers l’enfant au travers de la re viviscence 
+de leur propre narcissisme « L’amour des parents, si touchant, et au fond si enfant in, 
+n’est rien d’autre que leur narcissisme qui vient de renaître et qui, malgré s a 
+métamorphose en amour d’objet, manifeste à ne pas s’y tromper son ancienne 
+nature. » (Freud, 1985, p. 96). 
+Ainsi, un point de contact entre le narcissisme, le moi et l’idéal du moi s’esquisse79. 
+L’idéal du moi est une formation psychique qui appartient au registre de 
+l’imaginaire, et qui est représentative de la première ébauche du moi inves ti au 
+niveau libidinal (Chemama & Vandermersch, 2018, entrée "Idéal du moi", p. 259-
+260). Freud établit un parallèle entre l’estime de soi et les investiss ements 
+ 
+79 « Le narcissisme chez Freud », Conférence d’introduction à la psychanalyse par Marie -Françoise 
+Laval -Hygonenq , janvier 2021. 
+https://www.spp.asso.fr/textes/textes -et-conferences/introduction -psychanalyse/comptes -rendus -
+recents/le -narcissisme -chez-freud 
+ 
+ 82 libidinaux : « il faut distinguer deux cas, selon que les investissements d’am our sont 
+conformes au moi ou au contraire ont subi un refoulement. » (Freud, 1999, p. 103). 
+ 
+2.2.4 Le narcissisme et l’idéal du moi 
+Freud rapproche les notions de moi idéal et d’idéal du moi (auquel il associe les 
+identifications parentales avec le surmoi). Pour notre sujet, il est importa nt de saisir 
+l’articulation entre l’individuel et le collectif, l’idéal qui porte le rega rd de l’Autre 
+social (famille, les paires, le groupe, etc.). 
+Freud écrit dans Pour introduire la narcissisme (1914) : « De l’idéal du moi une 
+voie importante conduit à la compréhension de la psychologie collective. Outre s on 
+côté individuel, cet idéal a un côté social, c’est également l’idéal commun d’une 
+famille, d’une classe, d’une nation. » (Cruciani, 2009, p. 117). 
+Quelques années plus tard, Jacques Lacan fait son miel du texte de 1914 en 
+distinguant les deux notions (moi idéal et idéal du moi »80. Jacques Lacan prolonge 
+la théorie avec le stade du miroir comme formateur de la fonction du Je en 1949. 
+Le moi idéal est élaboré depuis l’image du corps dans le miroir ; cette image est 
+essentielle pour l’ infans puisqu’elle est le support de l’identification primaire à son 
+semblable. Le sujet est ainsi aliéné dans la capture imaginaire. Il est nommé : tu es 
+Pierre, Paul, Jacques… Les identifications secondaires se mettent en pl ace et le Je 
+s’objective dans son rapport à la culture et au langage par la voix et le rega rd de la 
+mère (Lacan, 1966). 
+Sur ce point, Didier Lauru précise que la place de ces deux objets (voix et re gard) 
+pour le nourrisson est directement orientée par la différence des sexes. « Elle sera 
+prépondérante pour la constitution de l’identité sexuée du sujet. La mère est s ituée 
+à une place d’idéal du moi par l’enfant au miroir. Le corps pubère aura à revivre 
+ 
+80 La distinction des deux notions est développée dans Les écrits techniques de Freud , Le séminaire 
+Livre I (1953 -1954), au chapitre XI, p. 205-225, et dans L’angoisse , Le séminaire Livre X (1962 -
+1963) qui reprend ce schéma, à l’appui de l’apport sur l’identification traite de l’objet a, avec les 
+axes imaginaire et symbolique. 
+ 83 cette expérience du miroir. D’une part, quand il sera confronté à son être sexué de 
+façon plus vive et, d’autre part, quand il aura à se situer phalliquement dans le s 
+différents avatars des phases amoureuses. La différence des sexes n’a, en effet , 
+qu’un référent unique pour les deux sexes anatomiques, c’est le phallus. La 
+reconnaissance par l’adolescent de cette différence des sexes est l’un des éléments 
+fondamentaux de la structuration du sujet. Le chemin qui déterminera les voies de 
+la sexuation du futur sujet adulte se trace en grande partie dans les modulat ions du 
+regard et de la voix de la mère. » (Lauru, 2016, p. 366). 
+Ainsi, on saisit que la psychanalyse entend avec le concept du moi regrouper 
+l’ensemble des images, du corps, et des signifiants qui viennent identifier un s ujet 
+dans la vie sociale. La notion d’identification ramène à la singularité de chaque 
+sujet dans son inscription inconsciente, au-delà de sa propre connaissance 
+consciente. En ce sens, l’inconscient est conçu comme « cette partie du di scours 
+concret en tant que transindividuel, qui fait défaut à la disposition du sujet pour 
+rétablir la continuité de son discours conscient [considérant, alors que] l’inconsc ient 
+participe des fonctions de l’idée, voire de la pensée » (Lacan, 1966, « Fonction et 
+champ de la parole et du langage en psychanalyse », chapitre I, La parole vide et la 
+parole pleine dans la réalisation psychanalytique du sujet, p. 258). 
+ 
+ 84 2.3 Les identifications 
+ 
+L’identification est un mécanisme qui tend à rendre le moi propre semblable à 
+l’autre pris comme modèle, et aux autres du collectif. L e « moi copie » selon Freud. 
+Il dégage trois types d’identification pour penser cette notion dans sa dimension 
+sexuée, au travers des figures parentales et des semblables. 
+La première identification est dite primordiale (primaire ou inaugurale), c’est 
+l’identification au père. Puis, la seconde est l’identification à l’objet a uquel on est 
+amené à renoncer ; le sujet s’y identifie ce qui est une façon de le cons erver, de 
+refuser de le perdre (sur le modèle de l’incorporation orale, du cannibalisme). Enfin, 
+la troisième identification est qualifiée d’hystérique. C’est l’identificat ion au 
+symptôme d’une personne de son entourage, dès lors que l’inconscient perçoit que 
+le symptôme de cette personne est fondateur d’une communauté de désir possible 
+avec elle, et peut être lu comme l’expression de sa propre nostalgie d’objet qui fait 
+défaut (Chauvel, 2002). 
+L’identification s’organise donc à partir du moi du sujet et des interactions de 
+l’espace social et du regard des autres. Martine Lerude explicite ce l ien avec 
+l’identité en disant que : « Si l’identification est un concept analytique qui suppose 
+un mouvement, une dialectique déployée à partir du noyau originaire qu’est l’idéal 
+du moi symbolique en relation avec l’altérité, en revanche l’identité s’exerce à partir 
+du collectif, de l’organisation sociale qui classe range et assigne à une place ; place 
+à laquelle le sujet consent plus ou moins mais dont il est aussi res ponsable. Le 
+procès des identifications est certes indissociable de l’identité mai s l’identité en 
+serait en quelque sorte la part visible positivée sociale. » (Lerude, 2020, p. 55). 
+
+ 85 Ainsi, l’identification relève d’un processus intra et intersubjectif où se croi sent, 
+dialoguent, et s’articulent les relations aux objets externes et relations aux objets 
+internes, peut être considérée comme une voie royale de la transmission psychi que 
+(Ciccone, 2012). 
+ 
+2.3.1 Les identifications à l’adolescence 
+Les transformations pubertaires (l’irruption de la génitalité), en tant que contrai nte 
+pulsionnelle interne, constitue pour Freud un repère important, au même titre que 
+l’environnement qui vient modifier les processus de subjectivation et de 
+différenciation. C’est à partir d e l’exigence d’une pensée propre précise André 
+Cahn que le processus de différenciation permet de s’approprier le corps sexué, 
+d’utiliser les capacités créatives du sujet et l’aptitude à se repré senter soi- même 
+(Chauvel, 2002). Ce mouvement psychique s’accompagne du désengagement et de 
+la désaliénation du pouvoir de l’autre ou de sa jouissance avec la transformati on du 
+surmoi et la constitution de l’idéal du moi. 
+La dimension imaginaire et leurrante de l’identité, ainsi que la symbolique s ociale, 
+sera reprise par Jacques Lacan qui dégage la dimension de « l’identificati on au 
+signifiant » (par opposition à l’identification narcissique) (Lacan, Séminaire IX, 
+Leçon du 20 juin 1962). En montrant que le processus de l’identification s’articule 
+avec la fonction du semblant, le phallus est articulé à la fonction du voile. Cela 
+correspond à l’identification imaginaire, à partir de l’image que l’on retrouve dans 
+la relation intersubjective où quelque chose de factice (du registre du moi) 
+s’immisce telle une projection imaginaire de l’un sur l’autre. 
+D’autres auteurs, dont Evelyne Kerstemberg, laissent ouverte la question du 
+changement dans la continuité et de la quête d’identité adolescente. La question du 
+qui suis-je, n’est pas sans réveiller l’angoisse du premier âge tout en essa yant de 
+tricoter une réponse face aux bouleversements pubertaires, dans une bascule 
+constante entre le désir et ses images, entre l’idéal du moi, les im agos parentales et 
+les images que la réalité sociale renvoient (Kestemberg, 1999). 
+ 86 Evelyne Kerstemberg révise, voire révoque les imagos parentales. Dans son 
+observation clinique, la fille se protègerait du parent du même sexe (identifi cation 
+à la mère), et ainsi de la rivalité à la féminité. Le garçon, quant à lui, pourrait vivre 
+l’identification au père comme menaçante et l’identification à la mère comme 
+renvoyant à la castration et la dépendance de la mère toute puissante. Ce qui invite 
+à penser en termes de contraintes identificatoires, et de distanciation des imagos 
+parentales complexes (Kestemberg, 1999). 
+Philippe Gutton rapproche la notion d’identification à un des deux parents. Au père 
+pour le garçon qui pourrait induire une crainte du fantasme homosexuel et un refus 
+défensif d’une affirmation virile (Gutton, 2012). A l’inverse, la problématique 
+œdipienne peut impliquer de se soumettre au père (ou à la mère) pour obtenir sa 
+bienveillance ou se faire accorder son pardon. 
+Les différents éclairages du concept d’identité et des processus d’identifica tion 
+permettent de critiquer la définition de Paul Denis dans son ouvrage sur le 
+narcissisme : « L’identité est donc une forme élaborée du narcissisme, une 
+concrétion narcissique, comme la coquille de l’huître qui la sécrète au fur e t à 
+mesure de sa croissance. » (Denis, 2015, chapitre "La question de l’identité", 
+p. 115). Outre l’abord métaphorique du mollusque marin (dont l’étymologie latine 
+ostrea : identique, de même sens), l’auteur ajoute que « C’est naturellement par 
+rapport au sexe anatomique que cette identité sexuelle apparaît et sera l’objet d’un 
+investissement narcissique considérable, d’autant plus que le psychisme s’organi se 
+par rapport à la différence des sexes et des générations » (Denis, 2015, chapit re "La 
+question de l’identité", p. 117). Le lien causal entre l’identité et le se xe 
+d’assignation à la naissance mériterait de tenir compte des semblants du genre, du 
+regard social et du désir du sujet. 
+L’accès à la position de sujet se fait au prix psychique d’oscillations da ns la relation 
+objectale et les identifications. Replacé dans la problématique de la transition de 
+genre : comment l’adolescent·e se dégage du conflit identificatoire dans lequel il 
+ou elle est attrapé·e depuis son corps de naissance pour s’identifier à un autre 
+genre ? 
+ 87 2.3.2 Le genre et l’identité 
+Nous ouvrons la question du genre comme « une inconnue installée au cœur de 
+l’énigme sexuelle » (Rassial et al., 2016)81. Il existe dans la littérature 
+contemporaine une tension, depuis l’identité sexuelle jusqu’à l’identité du soi, qui 
+parcourt la question de l’affirmation d’un sujet au travers des processus de 
+subjectivation. 
+Jean-Jacques Rassial rappel le que « La question freudienne n’est pas celle d’une 
+identité sexuelle [la question du choix d’objet sexuel (choix homo, hétéro ou 
+bisexuel)], mais davantage celle de constellations identificatoires de l a vie 
+psychique, quel que soit le sexe. »82. Autrement dit, l’anatomie n’est plus 
+forcément/uniquement la trajectoire d’un destin déjà écrit ; d’autres possibles 
+subjectifs se sont fait jour depuis Freud (Bourdin, 2007). 
+Le substantif « genre » qui vient en complément du terme « identité » est 
+l’expression d’une modification du statut de la différence des sexes. « La clini que 
+du genre en psychanalyse nous enseigne que le genre est ce qui rend possible 
+l’impossible écriture de la réinvention des sexes que la cure active […] »83. Vincent 
+Bourseul propose le terme de « sexe nouveau » pour cerner le genre en tant 
+qu’instance impossible. 
+
+81 Rassial, J. -J. (Éd.). (2016). Genre et psychanalyse : la diff érence des sexes en question . Eérès, De 
+l’utilité du genre en psychanalyse : la différence des sexes réinventées, article de Vincent 
+Bourseul, p. 137-145. 
+82 Rassial, J.-J., op. cit., p. 43. 
+83 Bourseul, V., & Scott, J. W. (2016). Le sexe réinventé par le genre : une construction 
+psychanalytique . Éditions érès, p. 181. 
+ 
+ 88 CHAPITRE 3 : L’IDENTI TE DE GENRE 
+ 
+Dans la revue de littérature, nous avons évoqu é que les premières descriptions 
+cliniques liées au genre chez l’enfant avaient été faites par Robert Stol ler. Il a 
+développé la notion de l’identité de genre qui trouve ses assises dans la biologi e et 
+l’assignation de sexe faite par les proches84. 
+ 
+3.1 Historique de la notion 
+Repartons de l’apport historique de Robert Stoller (psychanalyste américain) pour 
+préciser les points de tension entre l’identité, le sexe et le genre dans une perspective 
+littéraire analytique. Selon Robert Stoller la masculinité ou la féminit é n’impliquent 
+rien de biologique, ce qui ne veut pas dire qu’il n’y a pas de relation entre le s exe 
+et le genre. « Il s’agit de deux registres différents. » comment Paul Denis à l’a ppui 
+de la différence qualitative que fait Robert Stoller du masculin et du fémini n (Denis, 
+2022, p. 117). 
+Le genre désigne l’identité ou le rôle (Money et al., 1955). Il est traduit de l ’anglais 
+gender et évoque le sentiment intime d’être un homme, une femme (Chiland, 2014). 
+Il fonde l’identité de genre. « Le rôle de genre » suppose ce que l’on affirme ou ce 
+que l’on fait pour dévoiler son statut d’homme, de femme. Le terme identité 
+sexuelle était employé il y a une dizaine d’années (Chiland, 2011). Aujourd’hui, 
+l’identité de genre traduit l’autodétermination du sujet en lien avec son sent iment 
+d’appartenance au genre (Money, 1985), (Alberse et al., 2019). « L’identité de 
+genre est la somme algébrique du mélange de masculinité et de féminité trouvé dans 
+un individu. » (Lebovici, 2012, p. 297). 
+ 
+84 Stoller, R. (1979). Recherches sur l’identité sexuelle à partir du trans sexualisme (M. Novodorsqui, 
+Trad.). Gallimard. 
+ 
+ 89 Si John Money appuie ses réflexions à partir de l’indifférenciation du sexe de 
+l’enfant, Robert Stoller centre ses recherches cliniques sur de la notion d’identi té 
+de genre et fait du concept une pièce de l’édifice métapsychologique freudien. Le 
+point d’entrée varie par rapport à Freud puisqu’il postule que le sexe est tout 
+d’abord d’essence féminine, et que c’est sous l’influence hormonale de la 
+testostérone qu’il se masculinise (cf. Section 2, chapitre 2 – Les hypothèses 
+étiologiques depuis le sexe biologique). Cette théorie, qui vise à objectiver 
+l’étiologie du transsexualisme (décrit par Harry Benjamin en 1953, cf. chapitre 1 
+Historicisation des concepts et leurs évolutions), et reprenant l’embryogénèse, fa it 
+équivaloir le clitoris à un pénis de petite taille « un clitoris androgénisé »85. 
+L’enfant serait porteur d’une protoféminité qu’il naisse fille ou garçon eu égard à 
+l’héritage du genre féminin de la mère consubstantiel de la phase de symbiose entre 
+l’enfant et le corps de sa mère86. Cette imprégnation durant la phase aconflictuelle 
+sera source d’identification à la figure maternelle. Cette unité devra atte ndre la 
+présence d’un agent séparateur pour que l’enfant acquière une identité masculine 
+après une phase de séparation-individuation lui permettant de se départir de 
+l’identification primaire maternelle. 
+Agnès Oppenheimer remarque que Robert Stoller est moniste dans son approche de 
+l’identité de genre, qui prévaut sur la bisexu alité « il est implicitement dualiste et 
+idéaliste quand il sépare le sexe et le genre, la biologie et la psyc hologie, comme si 
+la sexualité et l’identité ne s’ancraient pas sur le corps et ses z ones érogènes. On 
+retrouve ce décollement par rapport à la pulsion dans sa perspective linéaire du 
+développement qui ne tient pas compte de l’après-coup. Sa théorie reflète la 
+pathologie transsexualiste qui veut se couper du corps sexué et sacrifie la pa rtie 
+pour le tout, la sexualité pour l’unité narcissique. La pulsion évacuée, le seul 
+recours explicatif est celui de la réalité, traumatisme sexuel dans la perversion, 
+traumatisme par défaut dans le transsexualisme. » (Oppenheimer, 1997, p. 107). 
+ 
+85 R. Stoller, « Faits et hypothèses. Un examen du concept freudien de bisexualité », Nouvelle 
+revue de psychanalyse , « Bisexualité et différence des sexes », n° 7, 1973 , p. 204-205. 
+86 Stoller, R. (1979). Recherches sur l’identité sexuelle à partir du trans sexualisme (M. 
+Novodorsqui, Trad.). Gallimard. 
+ 90 Robert Stoller apporte un point notable avec l’influence de l’environnement 
+parental dans le développement psychique « du noyau de l’identité de genre » ou 
+« d’identité nucléaire de genre ». Il y attribue, selon Jean Laplanche, des 
+significations variables, voire contradictoires entre le sexué ou le sexuel. Ce tte 
+critique nécessite de connaître les avancées que Laplanche a proposées à propos du 
+sexe et du genre en distinguant une troisième notion : le sexual 87. 
+Pour Robert Stoller, les figures individuelles parentales sont décrites dans un c ouple 
+d’opposé (présence/absence) relativement tranché. Les mères y sont représentées 
+trop présentes et les pères absents ; quant à la polarité masculine/fém inine, les 
+mères sont soit féminines soit masculines avec les cheveux coupés courts avec des 
+affects dépressifs majeurs. L’enfant serait l’objet qui viendrait panser la fra gilité 
+narcissique. Robert Stoller exclut toute dimension psychotique dans la relation 
+symbiotique – qu’il relie uniquement au genre. Si cette lecture du complexe 
+d’Œdipe a suscité de nombreuses critiques (Coffin, 2017), elle a le mérite de 
+d’introduire la notion d’identité de genre au prisme des fondements freudiens de la 
+polarité sexuelle masculin/féminin dont Freud parle dans l’Organisation génitale 
+infantile par exemple. 
+Et Robert Stoller de préciser « Je dirais volontiers que le sentiment que l’on a d’être 
+mâle et développement ultérieur, la masculinité, sont un peu moins solideme nt 
+ancrés chez les hommes que ne l’est le sentiment de la femellité ou et de la féminité 
+chez les femmes. »88. Ces travaux sont critiqués par Jean Laplanche qui inscrit le 
+genre comme un travail psychique spécifique et actif de l’enfant à une place active 
+(Trapin, 2005, p. 15). 
+
+87 Laplanche, J. (2014). Sexual : la sexualité é largie au sens freudien, 2000 -2006 (2e éd). Presses 
+universitaires de France , p. 153. 
+88 Stoller, R. (1979). Recherches sur l’identité sexuelle à partir du trans sexualisme (M. 
+Novodorsqui, Trad.). Gallimard , p. 230-231. 
+ 91 3.2 L’identité de genre selon Jean Laplanche 
+« Les termes et les concepts sont des armes, des armes de guerre, le genre contre le 
+sexe et le genre et le sexe alliés pourrait-ton dire contre le “sexual” »89. Jean 
+Laplanche permet de se repérer dans la question de l’identité de genre à part ir du 
+tripode freudien qu’il revisite. Il avance une nouvelle notion avec “le sexual” qui 
+va au-delà de la reprise du sexuel freudien (le sexuel pervers polymorphe infantile, 
+multiple), et qui puise ses racines dans le refoulement et le fantasme . Il postule le 
+déplacement de la question de l’identité sexuelle à celle de l’identi té de genre, et 
+pose la distinction entre le sexué et le sexuel pour parler de la différence des sexes 
+ou de sexe – nuance plus explicite dans la langue allemande ou anglaise. Il l e 
+formule un nouage entre le sexe, le genre et le sexual « comme le résidu incons cient 
+du refoulement symbolisation du genre par le sexe » qu’il associe 
+« c’est essentiellement le sexuel pervers infantile »90. 
+La question de l’identité de genre est reconsidérée à l’aune de nouvelles hypothè ses. 
+Le genre, catégorie absente chez Freud (l’anatomie recouvrait la biologie), es t 
+premier par rapport au sexe, le social prévaut sur le biologique, l’assignation du 
+genre (socius) est première par rapport à la symbolisation ; de plus, elle es t teintée 
+des souhaits parentaux (le sexual parental). Jean Laplanche formule sa pensée 
+ainsi : « le genre précède le sexe mais c’est le sexe qui organise le genre »91. 
+
+3.3 L’identité de genre selon Jacques Lacan 
+En 1971, Jacques Lacan apporte un commentaire à la notion d’identité de genre, et 
+cite Robert Stoller dans son séminaire pour donner une piste de réflexion sur la 
+façon d’être homme et d’être femme. « C’est très intéressant à lire à deux points de 
+ 
+89 Laplanche, J. (s. d.). Sexual  : la sexualité élargie au sens freudien, 2000 -2006 (2e éd). Presses 
+universitaires de France , p. 158. 
+90 Laplanche, J. , op. cit., p. 153 et 155. 
+91 Laplanche, J. , op. cit., p. 155. 
+ 92 vue, d’abord parce que ça donne sur un sujet important, celui des transsexualistes, 
+un certain nombre de cas très bien observés avec leurs corrélats familiaux. V ous 
+savez peut-être que le transsexualisme, ça consiste très précisément en un désir très 
+énergique de passer par tous les moyens à l’autre sexe, fût-ce à se faire opé rer, 
+quand on est du côté mâle. » (Lacan, 1971, Leçon du 20 janvier 1971). Il ajoute : 
+« L’important est ceci, c’est que pour parler d’identité de genre, ce qui n’est rie n 
+d’autre que ce que je viens d’exprimer comme ce terme l’homme et la femme , il est 
+clair que la question n’est posée de ce qui en surgit précocement qu’à partir de 
+ceci – qu’à l’âge adulte il est du destin des êtres parlants de se répartir ent re hommes 
+et femmes et que pour comprendre l’accent qui est mis sur ces choses, sur c ette 
+instance, il faut se rendre compte que ce qui définit « l’homme » c’est son rapport 
+à « la femme », et inversement, – que rien ne nous permet dans ces définitions de 
+l’homme et de la femme, de les abstraire de l’expérience parlante complè te, jusque 
+et y compris dans les institutions où elles s’expriment, à savoir le mari age. » (Lacan, 
+1971, Leçon du 20 janvier 1971). 
+Pour Jacques Lacan, la dialectique masculin/féminin est à entendre comm e une 
+relation à l’autre prise dans le faire semblant, c’est faire signe à la fille qu’on l’est, 
+et faire signe au garçon que l’on est. « Si on ne comprend pas qu’il s’agit, à l’âge 
+adulte, de faire-homme, que c’est cela qui constitue la relation à l’autre partie, que 
+c’est à la lumière, au départ, en partant de ceci qui constitue une relat ion 
+fondamentale, qu’est interrogé tout ce qui dans le comportement de l’enfant peut 
+être interprété comme s’orientant vers ce « faire-homme » par exemple, et que de 
+ce « faire-homme », l’un des corrélats essentiels, c’est de faire signe à la fil le qu’on 
+l’est, que nous nous trouvons pour tout dire placés d’emblée dans la dimension du 
+semblant, mais aussi bien... tout en témoigne, […] c’est à savoir un niveau 
+éthologique qui est celui- ci : celui proprement d’un semblant. […] » (Lacan, Leçon 
+du 20 janvier 1971). 
+ 
+ 93 3.4 L’identité de genre selon les études de genre 
+Dans les années soixante-dix, les études de genre ( gender studies ) interrogent les 
+rôles assignés aux individus selon les sexes et les caractères proprement féminins 
+et masculins. Nous avons précédemment fait référence au travail de Judith But ler 
+« dont la thèse principale est que non seulement le féminin et le mascul in ne sont 
+pas ce qu’on croit, mais que toute la société fonctionne sur une différente struct urale 
+tranchée du masculin et du féminin. », et du lien entre la psyché, le fonctionnem ent 
+politique et social que souligne François Pommier (Pommier, 2011, p. 161-162). 
+Un détour par le champ de l’anthropologie permet de penser avec Margaret Mead 
+(anthropologue) a ouvert les réflexions sur les rôles sexuels dans les années trente, 
+en dégageant ce qui revient à l’apprentissage de ce qui est donné par la nature 
+(Mead, 2003). L’américaine Sherry Ortner problématise le rapport sexe/genre de 
+façon quasi philosophique : « Femme est -il à homme ce que nature est à culture ? » 
+(Rosaldo et al., 1974, p. 68-87). 
+Ces références mériteraient d’être articulées et situées auprès d’autres auteures 
+majeures telles que Gayle Rubin, Ruby Rich, Teresa de Lauretis et Monique W ittig, 
+(Saez, 2005, p. 85)92. Cette dernière, lors de sa conférence sur « La pensée straight » 
+(The Straight Mind ) à la Modern Language Association de New York en 1978, met 
+au jour le fait que l’hétérosexualité n’est ni naturelle ni un donné, et d’autre pa rt 
+insiste sur la dimension sociale des catégories hommes/femmes qui se rvent à 
+masquer que les différences sociales relèvent d’un ordre économique, politique et 
+idéologique. La fondatrice du Mouvement de libération des femmes (MLF) ajoute 
+sur la catégorisation des sexes que « Appréhender une différence en termes de 
+dialectique consiste à rendre manifestes des termes contradictoires qui doivent 
+trouver résolution. »93. 
+ 
+92 L’étude approfondie des apports des théories féminis tes, bien qu’essentielle pour une mise en 
+perspective de la psychanalyse et du genre, dépasserait largement les limites de notre recherche. 
+93 Wittig, M., & Bourcier, S. (2018). La pensée straight (Nouvelle éd). Éditions Amsterdam , p. 84. 
+ 
+ 94 Maud-Yeuse Thomas, cofondatrice de l’Observatoire des transidentités et des 
+« Cahiers de la transidentité », avance que la transidentité permet de déconstrui re 
+ce qu’elle appelle le prisme du « fantasme fondateur » : le sexe serait l ’égal du 
+genre. Les notions de sexe et de genre sont « autonomes » : le « sexe est opposé au 
+genre »94 (Thomas, 2007). 
+Les théories féministes ont distingué historiquement ce qui relève du « naturel », 
+du « culturel » ou du « social », et d’autre part elles ont cerné les implications 
+idéologiques, épistémologiques et politiques. La recherche philosophique éclaire 
+également la question du sexe avec les écrits foucaldiens en avançant que la 
+sexualité possède une histoire, fruit de facteurs historiques (« d’effets du pouvoir 
+sur les corps »), et à relier les intrications entre le pouvoir et le savoir (Bert, 2016, 
+p. 78-90). Le sociologie Thomas Laqueur soutient que « Les deux sexes ne sont 
+pas une conséquence naturelle et nécessaire de la différence corporelle » (Laqueur 
+et al., 2010, p. 396). Il faudrait donc se garder de considérer que la science offre 
+« un locus causal » de la signification du mâle et du femelle ; les représentations 
+anatomiques sont donc loin d’être des fondements du genre (Laqueur et al., 2010, 
+p. 264-266)95. 
+Ces dispositifs de normalisation de genre et de sexe sont pensés par des 
+psychanalystes contemporain·es, tel·les que Laurie Laufer, Fabrice Bourlez ou 
+Vincent Bourseul pour n’en citer que quelques-un·es96. L’heure contemporaine est 
+peut-être dans l’après-coup de la déconstruction, qui a été proposée par les études 
+de genre et les réflexions actuelles des psychanalystes qui interrogent le modèle 
+œdipien à la lumière de la clinique trans. Il se peut au contraire que l a psychanalyse 
+demande à être réécrite à la lumière des vies trans écrit Judith Butle r (Butler, 2009). 
+ 
+94 https://mouvements.info/la -controverse -trans 
+95 « Bref, les illustrations anatomiques sont des représe ntations de façons historiquement spécifiques 
+de comprendre le corps humain et sa pla ce dans la création et pas uniquement d’un état particulier 
+de la connaissance de ses structures. ». 
+96 Les travaux cités ci-dessus sont ceux qui intéressent le point que nous développons ici . Ils 
+s’inscrivent dans une recherche plus large, et ne sont pas exc lusifs. 
+ 95 Ces quelques apports ponctuels nous permettent toutefois de resserrer notre propos 
+autour de la dessentialisation du sexe et la dénonciation du système héténormatif. 
+
+ 98 SECTION 3 : LECTURE DE LA PRISE EN SOINS 
+ 
+Les approches développementales de l’affirmation du genre sont reconnues depuis 
+2015, notamment au Canada (par l’équipe de Annie Pullen Sansfaçon) et par les 
+centres d’accompagnement pluridisciplinaire en France. 
+Pour saisir ce qu’est une prise en soins98, nous brossons les différentes possibilités 
+d’affirmation sociale, hormonale, chirurgicale et/ou juridique avant et après la 
+majorité dont les personnes en questionnement et en transition peuvent bénéficie r. 
+Une approche globale et systémique de l’accompagnement des personnes peut être 
+composée d’une équipe pluridisciplinaire qui fédère les disciplines psychosociale s 
+et juridiques, qui développent un savoir sur la diversité de genre en milieu 
+hospitalier et/ou en ville (Ehrensaft, 2012). Sont ainsi favorisées l’exploration de 
+soi, les capacités d’affirmation et les relations interpersonnelles dans le respect des 
+recommandations internationa les (WPATH, etc.). 
+La personne peut aussi choisir un parcours en ville avec des profesionnel·les 
+libéraux, et solliciter un accompagnement psychologique pour mieux se connaître, 
+et/ou un·e professionnel·le de la santé psychique pour des besoins spécifiques 
+(psychiatriques) et/ou de la pair-aidance. Nous abordons aussi les problématiques 
+de santé publique et d’exclusion sociale (familiale et auprès des pairs) a ssociées à 
+la transidentité et à leurs questionnements (Witcomb et al., 2019), (Pariseau et al., 
+2019). 
+ 
+CHAPITRE 1 – HISTORICISATION DES PREMIERS ACCOMPAGNEMENTS 
+1.1 A l’étranger 
+ 
+98 Nous préférerons le « prise en soin s » à « prise en charge » qui est davantage connecté 
+médicalement. 
+ 99 
+Si les premières consultations sont nées à Los Angeles avec John Money e t Richard 
+Green dans les années soixante (Green & Money, 1960), il faut attendre plus de 
+dix ans pour que des centres spécialisés ouvrent à Toronto (Kenneth Zucker), 
+Amsterdam (Peggy Cohen-Kettenis et Henriette Delemarre-van de Waal), et 
+Londres (Domenico di Ceglie) (Mendes et al., 2016). C’est au cours des vingt 
+dernières années que les prises en soins se sont développées pour les adoles cent∙es 
+suivant un protocole conceptualisé par l’équipe néerlandaise (les professeures 
+suscitées), – sous le nom « Dutch approach » (Biggs, 2022). 
+Il s’agit de suspendre temporairement la puberté alors que les caractéristi ques 
+sexuelles secondaires débutent, ou ont déjà commencé à apparaître, pour laisser le 
+temps aux jeunes d’élaborer leurs souhaits (Cohen-Kettenis, Schagen, et al., 2011). 
+Un traitement féminisant ou masculinisant aux effets partiellement réve rsibles est 
+éventuellement envisagé après l’âge de 16 ans. L’équipe des Pays-Bas a été la 
+première a montré les effets psychiques et psychologiques positifs sur les j eunes 
+suivis (Khatchadourian et al., 2014), (van der Miesen et al., 2020). La recherche 
+médicale a publié des études pour montrer l’innocuité relative de la suspensi on de 
+puberté, et les effets des traitements d’affirmation de genre (Olson-Kennedy et al., 
+2019), (Mullins et al., 2021).

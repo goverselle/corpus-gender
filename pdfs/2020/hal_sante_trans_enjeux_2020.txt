@@ -1,0 +1,1288 @@
+HAL Id: halshs-02496256
+https://shs.hal.science/halshs-02496256v1
+Preprint submitted on 11 Jun 2020
+HAL is a multi-disciplinary open access archive
+for the deposit and dissemination of scientific re-
+search documents, whether they are published or not.
+The documents may come from teaching and research
+institutions in France or abroad, or from public or pri-
+vate research centers.L’archive ouverte pluridisciplinaire HAL , est des-
+tinée au dépôt et à la diffusion de documents scien-
+tifiques de niveau recherche, publiés ou non, émanant
+des établissements d’enseignement et de recherche
+français ou étrangers, des laboratoires publics ou
+privés.
+HAL Authorization
+Enjeux de santé des personnes trans : État actuel des
+connaissances et inclusion dans l’édition 2019 du Net LGBTQ+
+Baromètre,
+Alain Al Léobon, Eliane Ed Dussault, Cloé Canivet, C. Dussault, È. Otis
+To cite this version:
+Alain Al Léobon, Eliane Ed Dussault, Cloé Canivet, C. Dussault, È. Otis. Enjeux de santé des personnes trans :
+État actuel des connaissances et inclusion dans l’édition 2019 du Net LGBTQ+ Baromètre,. 2018. ⟨halshs-
+02496256⟩
+
+Enjeux de santé des personnes trans : 
+État actuel des connaissances et leur 
+inclusion dans l’édition 2018 du Net Gai 
+Bi Trans Baromètre 
+Léobon, A. , Dussault, É., Canivet, C., Dussault, È. , Otis, J. (2018). Enjeux de santé des personnes trans : 
+État actuel des connaissances et leur inclusion dans l’édition 2018 du Net Gai Bi Trans Baromètre 
+ 
+ 2 
+TABLE DES MATIÈRES 
+ 
+Introduction ................................ ................................ ................................ .......................... 3 
+Identité de genre ................................ ................................ ................................ .................. 3 
+Historique et évolution du mouvement trans ................................ ................................ . 4 
+Transition et enjeux de santé ................................ ................................ ............................ 5 
+Stress minoritaire et discrimination ................................ ................................ ............. 8 
+Inclusion des personnes trans dans la recherche : Besoins et pertinence. ........... 10 
+Le Net Gai Bi Trans Baromètre. ................................ ................................ ..................... 11 
+Limites. ................................ ................................ ................................ ................................ 12 
+Tableau 1. Chirurgies de réassignation sexuelle pour les femmes trans. .............. 13 
+Tableau 2. Chirurgies esthétiques pour les femmes trans. ................................ ....... 13 
+Tableau 3. Chirurgies de réa ssignation sexuelle pour les hommes trans. ............. 14 
+Tableau 4. Chirurgies esthétiques pour les hommes trans. ................................ ...... 15 
+Tableau 5. Inclusion des personnes trans dans le NGB ................................ ............ 15 
+Références ................................ ................................ ................................ .......................... 21 
+
+ 3 
+Comment citer ce document : 
+Léobon, A. , Dussault, É., Canivet, C., Dussault, È. , Otis, J. (2018). Enjeux de santé des personnes trans : 
+État actuel des connaissances et leur inclusion dans l’édition 2018 du Net Gai Bi Trans Baromètre 
+ 
+Introduction 
+L’étude Net Gai Bi Trans Baromètre (NGB) est l’une des enquêtes les plus exhaustives (dont 3 éditions ont 
+déjà été complétées au Québec et 4 en France) en ce qui a trait au mode de vie, à la sexualité et à la santé 
+des hommes ayant des relations sexuelles a vec d’autres hommes (HRSH). Sa plus récente édition a fait 
+l’objet d’une importante refonte et a conduit à introduire de nouve aux objets de recherche, dont plusieurs 
+questions liées à l’identité de genre. Dans cet ordre d’idées, les femmes et hommes trans (de même que 
+leurs partenaires sexuels s’identifiant comme femmes ou hommes ) ont été inclus à la plus récente édition 
+de l’étude. Précisons que l’enquête NGB concern e d’abord les hommes ayant des relations sexuelles avec 
+d’autres hommes (HSH), et questionn e leur parcours de vie sous le prisme de la prévention du VIH. 
+L’inclusion des personnes trans à notre étude s’est donc faite dans la même optique, c’est -à-dire 
+majoritairement en regard des facteurs contribuant à la propagation ou à la prévention du VIH ( travail du 
+sexe, consommation de substances, partenaires occasionnels, etc.). Pour ce faire, 2 premières phases de 
+validation du questionnaire ont eu lieu : l’une en France auprès de l’association AIDES (œuvrant auprès 
+des personnes trans ), et l’autre aupr ès de personnes trans impliquées dans leur communauté au Québec . 
+Suite à ces 2 phases de validation a eu lieu le lancement de l’édition 2018 du NGB québécois. C e processus 
+a toutefois semblé insuffisant pour éviter certains préjudices que pourrait causer la présentation ou la 
+formulation de certaines de nos questions , puisqu’ au fil des semaines et des contacts avec ces groupes 
+communautaires, plusieurs nous ont exprimé leurs inquiétudes ou leurs malaises quant à certaines 
+questions ou sections du questionnaire tentant de capter la réalité des personnes trans . Par conséquent, 
+nous avons mis sur pause le recrutement, pour entamer une nouvelle phase de validation du questionnaire. 
+C’est de cette initiative qu’a débuté la rédaction du présent document, qui se voulait une manière de pallier 
+aux lacunes de notre questionnaire en tenant compte des plus récentes avancées sur le plan de la 
+connaissance empirique dont nous disposons sur les personnes trans. 
+Ce rapport présente donc un survol des connaissance s concernant les personnes trans dans la recherche 
+empirique, ainsi que des problématiques à adresser dans les études s’adressant à elles , et présente les 
+sections suivantes : 1) diverses définitions liées à l’identité de genre, 2) un historique du mouveme nt trans, 
+3) les types de transitions qui peuvent être effectués par les personnes trans, 4) les enjeux de discrimination 
+envers la communauté trans 5) les lacunes dans la recherche à tenir en compte dans de futures études, 6) 
+une présentation de l'étude d u Net Gai Bi Trans Baromètre, et de ce que cette étude peut apporter à la 
+recherche sur la population trans . 
+ 
+Identité de genre 
+À la naissance , la majorité des individus son t catégoris és en tant qu'homme s ou femme s, selon leurs 
+organes génitaux, et cette classification représente le sexe d'un individu (Dubuc , 2017) . Contrairement au 
+sexe, le genre est un continuum d'auto -identification indépendant du sexe biologique de l’individu . 
+Traditionnellement , le genre est conceptualisé comme ayant deux pôles – masculin et féminin – soit les 
+mêmes que ceux utilisés pour catégoriser le sexe (Dubuc , 2017) . L'identité de genre réfère quant à elle au 
+genre auquel la personne s'identifie personnellement et représente le sentiment d’être homme, femme ou 
+d’un genre alternatif (W orld Professional Association for Transgender Health [WPATH] , 2012). À ce sujet, 
+Magnus Hirschfeld (1991) a été l’un des prem iers à s’intéresser aux variations de genre, en appelant 
+« travestis » les gens qui sont plus confortables à se vêtir dans un genre ne correspondant pas à leur sexe 
+ 4 
+assigné à la naissance. Par la suite, l’endocrinologue Harry Benjamin (1966) a fait la dist inction entre les 
+personnes se travestissant des personnes trans, et a par conséquent suscité davantage d’intérêt pour les 
+études auprès des personnes trans. 
+ 
+Dans cet ordre d’idées , le genre d'un individu peut correspondre à son sexe assigné à sa naissan ce, le cas 
+échéant l'indivi du est considéré comme « cis » (WPATH, 2012). À l’inverse, lorsque l'identité de genre de 
+l'individu diffère de son sexe biologique à la naissance , l'individu est considéré comme une « personne 
+trans » (WPATH, 2012). Cette catégorisation peut inclure : les femmes trans, dont le sexe biologique à la 
+naissance était masculin , les hommes trans, dont le sexe biologiqu e à la naissance était féminin , et peut 
+aussi inclure les personnes « intersexe », « non binaires », ou « gender -queer », qui s'identifie nt aux deux 
+sexes ou en-dehors de la binarité homme -femme (WPATH, 2012). L'identité de genre et l’orientation 
+sexuelle sont par ailleurs deux notions à distinguer , cette dernière référant à l'attirance (affective, sexuelle , 
+romantique, etc.) qu'une personne peut éprouver pour une autre . Par exemple, u ne personne 
+homosexuelle peut aussi être trans ( Dubuc , 2017). Dans un autre ordre d’idées , chaque personne trans 
+est libre de choisir d'entreprendre différentes « transitions » soit légale s, sociale s ou médicale s (Dubuc, 
+2017). Ceci constitue le « parcours trans » unique à chacun et contribue à la diversité de la communauté 
+trans (Dubuc 2017 ; WPATH, 2012). Il est d’ailleurs difficile de juger de la prévalence de la communauté 
+trans au sein de la population générale , étant donné les grandes variations des taux rapportés au sein des 
+études , allant de 1/11 jusqu'à 1 /200 individus (APA, 2015 ; MacFarlane, 2015 ; WPATH, 2012). 
+ 
+Historique et évolution du mouvement trans 
+La communauté trans a toujours fait face à de nombreux enjeux de discrimination et de violence 
+(MacFarlane, 2015) . De même , ses droits fondamentaux, tel s que le droit à l'intégrité physique et le droit 
+aux soins de santé , ont mis du temps à être compris et mis en pratique de la part de diverses agences 
+gouvernementales (Hammarberg , 2009) , incompréhensions qui ont contribué à faire perpétrer certains 
+préjug és à son égard . Le statut trans a longuement été considéré comme un trouble de santé mental e 
+associé à une détresse psychologique , imposant aux personnes trans un diagnostic médical avant d’être 
+autoris ées à procéder à un parcours de transition (Bujon et Dourlens, 2012 ; Hammarberg, 2009) , incluant 
+que leurs transitions médicales (c. -à-d., hormonothérapie, chirurgie) soient remboursées par les 
+assurances de santé (Bujons et Dou rlens, 2012) . Cette médicalisa tion du statut trans a eu pour cause d ’en 
+favoriser une v ision pathologiqu e. En effet, les personnes trans étant perçues comme souffrant d'un trouble 
+de santé psychologique , leur parcours de trans ition était approché comme un traitement (Bujon et Dourlens , 
+2012 ). 
+ 
+Cette question de pathologisation a contribué à amener la question trans au centre des débats politique s. 
+Notamment, les anciens diagnostic s de 1) « transsexualisme » dans la « Classification Internationale des 
+Maladies » (CIM) de l'OMS (World Health Organization, 2004 ) et 2) « trouble de l'identité sexuelle » dans 
+le DSM -IV (APA , 1994) ont entra iné une forte controverse (Bujon et Dourlens, 2012) , puisque c ertains 
+professionnels de la santé ont débatt u de la nécessité de ce diagnostic pour le traitement des personnes 
+trans (Bujon et Dourlens, 2012) , alors que d'autres professionnel s accompagné s de militants trans ont 
+réclam é l'abolition de ces diagnostics et la reconnaissance que l'identité trans ne soi t pas pathologique 
+(Bujon et Dourlens, 2012). Ces derniers invoquaient le fait que la pathologisation de l'identité trans 
+entrainait une perspective négative des personnes trans comme malade s et non-aptes à prendre des 
+décisions , perspective qui encourageait le mauvais traitement des personnes trans par les professionnels 
+de la santé (p.ex., l’humiliation ressenti e par beaucoup de personnes trans d ue à l'obligation de devoir subir 
+un examen psychiatrique approfondi pour accéder au x traitement s) (Bujons et Dou rlens, 2012) . 
+ 
+ 5 
+Aujourd'hui , le DSM -5 a opté pour une classification de dysphorie de genre comme diagnostic , qui 
+s'applique seulement aux personnes trans vivant une détresse significative . Les symptômes diagnostics 
+de la dysphorie de genre sont : A) La n on-congruence marquée entre le genre vécu/exprimé par la 
+personne et le genre assigné, d’une durée minimale de 6 mois, se manifestant par au moins 2 des 6 items 
+suivants : 1) Non-congruence m arquée entre le genre vécu/exprimé par la personne et ses caractéristiques 
+sexuelles primaires et/ou secondaires , 2) Désir marqué d’être débarrassé(e) de ses caractéristique s 
+sexuelles primaires et/ou secondaires en raison d’une incompatibilité avec le genre vécu/exprimé. 3) Désir 
+marqué d’avoir les caractéristiques sexuelles primaires et/ou secondaires de l’autre sexe . 4) Désir marqué 
+d’appartenir à l’autre genre (ou d’un ge nre différent de celui qui lui est assigné) . 5) Désir marqué d’être 
+traité(e) comme une personne de l’autre genre (ou d’un genre différent de celui qui lui est assigné) . 6) 
+Conviction marquée d’avoir les sentiments et les réactions de l’autre genre (ou d’u n genre différent de celui 
+qui lui est assigné) . Également, le trouble est accompagné d’une détresse cliniquement significative ou 
+d’une altération du fonctionnement social, professionnel ou dans d’autres domaines importants . (APA, 
+2014 ). La CIM (World Health Organization, 2004) , quant à elle, a actuellement pour projet d e retirer le 
+diagnostic de transsexualisme de la section des troubles de santé mentale dans sa prochaine édition (11e) 
+qui para itra dans les prochaines années (World Health Organi zation, 2018 ). 
+ 
+Au cours des vingt dernières années , ces débats sur les droits trans et la reconnaissance progressive de 
+la discrimination ainsi que de la violence au xquelles font face les personnes trans ont donné jour à de 
+nombreux organismes militants qui ont pour but de se battre contre l'oppression (cisnormativité) de la 
+communauté trans (Enriquez, 2013 ; Lev, 2013 ). Ces organismes ont à leur tour contribué à la naissance 
+d'un mouvement trans international , visant à ce que la société reconna isse la présence de cette 
+communauté et obligeant les gouvernements à considérer cette « question trans » (Enriquez, 2013) . 
+Aujourd'hui, au Canada , le droit des personnes trans de s'afficher dans leur identité de genre souhaité e est 
+reconnu et la discrimination basée sur l'identité de genre est interdite par la Chartre des droits et liberté s 
+de la personne ( Dubuc , 2017 ). Par exemple, au Québec, soulignons qu’ afin de poursuivre l a lutte contre la 
+transphobie (discrimination des personnes trans), un plan d'action gouvernemental a été mis en place. 
+Celui -ci présente cinq priorités pour la période de 2017 à 2022, soit de : 1) Promouvoir l'ouverture à la 
+diversité sexuelle, à travers des actions de sensibilisat ion adaptées aux divers milieux, 2) Renforcer le 
+respect des droits et le soutien des personnes de minorités sexuelles dans les divers milieux , 3) Désigner 
+des milieux sécuritaires et inclusifs en collaborant av ec les div ers organismes LGBTQ+, 4) Adapter l es 
+services public s aux besoins des personnes trans (p.ex., éducation des professionnels de la santé et du 
+personnel des services publics) et 5) Maintenir une certaine cohérence et efficacité dans les actions, en 
+appuyant la recherche pour documenter les diverses réalités et en coordonnant des actions en région 
+(Ministère de la Justice, 2017 ). La mise en place de telle s action s gouvernementale s démontre l'évolution 
+positive du mouvement trans dans les dernières années, et est essentielle pour amener à crée r des 
+environnements socioculturels trans -affirmatif s (c. -à-d., qui accepte nt et valide nt les différentes 
+expressions de genre) ( Ministère de la Justice , 2017). Du côté de la France , le droit de s’afficher dans son 
+identit é de genre souhaitée et l’interdiction de discriminer selon l’identité de genre sont inclus dans le Code 
+Civil depuis 2016 (Loi n 2016 -1547 , 2016 ). 
+ 
+Transit ion et enjeux de santé 
+Les personnes trans peuvent choisir d'entamer diverses transitions sociale s, légale s ou médicale s, 
+chacune d ’entre elles ayant pour but de les amener à vivre pleinement leur identité de genre et à ce que 
+celle-ci soit reconnu e par l’entourage et la société (Dubuc , 2017 ). Les parcours de transition sont propres 
+à chacun , car chaque individu peut choisir d'entamer une ou plusieurs transitions pouvant commencer en 
+enfance ou dans la vie adulte ( Dubuc , 2017 ). Dans le cadre de ce texte , nous présenterons les parcours 
+adultes possibles en France et au Canada . 
+ 
+ 6 
+a) Transition sociale . Consiste à vivre et à exprimer son identité de genre socialement . Pour certaines 
+personnes, cela veut dire d’apprendre à vivre socialement dans un autre rôle de genre (différent de celui 
+établi à la naissance) ; pour d’autres cela implique de trouver un rôle ou une expression de genre qui leur 
+soit plus confortable (WPATH, 2012). Il n'y a pas de schéma exact à suivre pour en treprendre une transition 
+sociale ; celle-ci est très personnelle et peut consister par exemple à dévoiler son identité à son entourage 
+(famille, amis, collègues), à porter des vêtements considérés féminins ou masculins, à demander d’être 
+identifié avec un pronom différent de celui utilisé depuis la naissance ou à entreprendre une thérapie de la 
+voix auprès d’un orthophoniste . Celle-ci peut consister en une lourde démarche pour l'individu , puisqu’ il 
+arrive que la personne soit rejetée par ses proches ou qu'elle soit victime de discrimination professionnelle 
+ou dans la vie de tous les jours suite à son dévoilement (Norwood, 2012 ; James et al., 2016). Par exemple, 
+d'après le « Transgender Survey » qui a recens é 27 715 personnes trans aux États -Unis, 10% de ceux 
+ayant dévoilé leur identité de genre à leurs proches aurai ent reçu une réaction violente de la part de ceux -
+ci1, et 15% de ceux qui vivaient chez leur s parent s au moment du dévoilement , auraient fugu é ou se 
+serai ent faits mettre dehors de leur domicile par leur famille (James et al., 201 6). Le rejet et le manque de 
+soutien social pendant cette période peuvent avoir des répercussions sérieuses sur le bien -être 
+psychologique (dépression, anxiété , risques suicidaires ) de la personne (MacFarlan, 2015 ). 
+ 
+b) Transition légale . Consiste principalement en le changement de nom ou de la me ntion de son sexe 
+auprès de la d irection de l'état civil , afin que l’identité de genre soit reconnue légalement ( Dubuc , 2017) . 
+Au Canada, la transition légale ne requiert aucune transition médicale depuis 2015 , alors que c’était 
+l’inverse auparavant (Directeur de l’état civil , 201 8). De plus, au Canada depuis 2017, un individu peut 
+choisir d'indiquer qu'il est non-binaire dans divers documents légaux tels que le passeport (Directeur de 
+l’état civil , 201 8). En France depuis 2016 la transition légale ne requiert plus de transition médicale, 
+néanmoins les personnes trans sont contraintes à présenter des preuves démontrant, 1) qu' elles se 
+présentent publiquement dans le sexe revendiqué, 2) qu' elles sont connu es sous le sexe revendiqué par 
+leur entourage (familial, professionnel , etc. ) et 3) qu' elles ont obtenu un changement de prénom afin qu'il 
+corresponde au sexe revendiqué ( Loi n° 2016 -1547 , 2016 ). 
+ 
+c) Transition médicale . Transition physique qui peut se faire à travers des traitements hormonaux ou des 
+chirurgies de réassignation sexuelle (Dubuc , 2017). Ces transitions impliquent un suivi souvent 
+interdisciplinaire ( p.ex., chirurgiens, psychiatres , psychologues , sexologues ). Au Canada, les 
+professionnels de santé se base nt sur les standards de soins du WPATH pour définir les prérequis 
+nécessaires pour entamer une transition médicale (voir encadré 1). Ci-dessous est présenté un résumé 
+des divers traitements, de leurs effets et de leurs impacts potentiels sur la santé physique et mentale des 
+individus. 
+ 
+1. L'hormonothérapie . Se fait à l'aide d'hormones à formes bioéquivalente s (c.-à-d., structurellement 
+identiques à celles trouvées dans le corps humain) qui peuvent être prises sous forme d'injections, de 
+ 
+1 Précisons que le type de réactions violentes de la part de la famille n’était pas davantage explicité . 
+Encadré 1. P rérequis pour les transitions médicales 
+1.Diagnostic de d ysphorie de genre (suivant les critères du DSM -V), persistante (dure depuis 
+6 mois ou plus) et bien documentée par un professionnel de la santé mentale (p.ex., 
+psychiatre) 
+2.Capacité de donner un consentement libre et éclairé. 
+3.Âge de la majorité requise dans le pays. 
+4.Si des problèmes de santé mentale ou médicale sont présents , ils doivent être 
+raisonnablement contr ôlés. 
+ 
+ 7 
+comprimés ou de patchs ( WPATH, 2012 ). L'hormonothérapie féminisante requiert l'utilisation d'anti -
+androgènes, d'estrogènes et de progestérone ; elle a pour effet de redistribuer la masse graisseuse, 
+diminuer la masse musculaire et la pilosité du corps et du visage, promouvoir l'accroissement mammaire 
+ainsi que diminuer le volume testiculaire , la fonction érectile et la production de sperme ( WPATH , 201 2). 
+L'hormonothérapie masculinisante utilise principalement la testostérone , qui augmente la masse 
+musculaire, arrête les menstruations, augmente la taille du clitoris (variable) de même que la pilos ité du 
+visage et du corps, aggrave la voix et peut entrainer une atrophie des tissus vagina ux (WPATH, 2012). 
+Précisons que quelques études ont souligné les bénéfices de l'hormonothérapie pour la santé 
+psychologique des personnes trans (Colizzi, Costa et Todarello, 2014 ; Colton, Fitzgerald, Pardo et 
+Babcock, 2011) . En effet, les individus suivant une thérapie hormonale auraient des t aux moins élevés de 
+dépression, d'anxiété et rapporte nt une meilleure qualité de vie suite au traitement. 
+ 
+Malgré ces bénéfices , l'hormono thérapie peut comporte r des effets indésirables pour la santé de l'individu, 
+comme la prise de poids ou l'acné , ainsi que divers problèmes plus grave s tels que des maladies cardio -
+vasculaires, du diabète de type 2, le cancer du sein ou cancer utérin chez les hommes trans , ou des caillo ux 
+dans le sang (thromboembolie veineuse). Il est donc primordial que la prise de traitements hormonaux soit 
+suivie de près par un professionnel médical (WPATH, 2012) . Il est au ssi essentiel de bien superviser ces 
+traitements à travers des examen s physiques réguliers , car ils peuvent agir différemment d'un individu à 
+l'autre selon des facteurs tel que l'âge, le poids , les problèmes de santé /chirurgie antérieurs, ou la sensibilité 
+aux hormones , et doivent par conséquen t être bien adapt és à la biologie de l'individu (WPATH, 2012). 
+ 
+2. Les chirurgies de réassignation sexuelle . Si beaucoup de personnes trans n'opte nt par pour la 
+chirurgie2, pour d'autres , ceci est une étape essentielle pour compléter leur transition et peut s’avérer 
+nécessaire pour soulager la dysphorie de genre ( Giami et Beaubatie, 2014 ; WPATH, 2012). Le WPATH 
+(2012) classifie les chirurgies sous deux catégories principa les, soit génit ales et esthétique s. En plus des 
+prérequis pour les transitions médicales cités ci-dessus , certaines chirurgies peuvent inclure d'autres 
+prérequis spécifique s. Ils sont des standards flexibles, basés sur un consensus d'experts , ces chirurgies 
+étant très invasives, nécessit ant souvent de multiples opérations et étant, dans certains cas , irréversibles 
+(Zeggar et Dahan, 2011 ; WPATH, 2012 ). De plus, elles peuvent apporter des complications médicales 
+importantes (nécroses des tissus , fistules des voies urinaires) et ne permettent pas nécessairement d'avoir 
+un appareil génital parfaitement fonctionnel , le vagin/pénis pouvan t être trop petit pour les rapport s sexuel s. 
+Il est donc important que la personne soit certaine d'être en harmonie avec son identité de genre choisi e 
+et soit bien informée des résultats prévus ainsi que des risques, avant d 'entamer une chirurgie (WPATH, 
+2012 ; Zeggar et Dahan, 2011). Malgré ces co mplications possibles, plusieurs études relèvent que comme 
+l'hormonothérapie, les chirurgies seraient bénéfiques pour la santé psychologique des personnes trans. 
+Effectivement, la majorité ayant opté pour une chirurgie , même si elles ont connu des complica tions , 
+rapportent une amélioration de leur qualité de vie et de leur bien -être psychologique (Ainsworth et Spiegel, 
+2010 ; Lawrence, 2003). 
+ 
+Les tableaux , 1 à 4 (1. Chirurgies de réassignation sexuelle pour les femmes trans, 2. Chirurgies 
+esthétiques pour les femmes trans, 3. Chirurgies de réassignation sexuelle pour les hommes trans et 4. 
+Chirurgies esthétiques pour les hommes trans) présentés en annexe résume nt les diverses chirurgies , 
+leurs objectifs et les prérequis tels que spécifi és par les standards de soins du WPATH (2012). 
+
+2 D'après le rapport du Transgender Survey 2015 aux États -Unis, seulement 25% de leur échantillon avait opté pour 
+une chirurgie (James et al., 2016) 
+ 8 
+Cadres théoriques du s tress minoritaire et des discrimination s vécues par les personnes trans. La 
+dysphorie de genre n'est pas la seule source de détresse possible chez les personnes trans. En effet, 
+malgré l’évolution positive au niveau de la reconnaissance des droits des personnes trans , celles -ci sont 
+toujours victimes de discrimination pouvant prendre la forme de violences psychologique, physique ou 
+sexuelle (MacFarlan, 2015 ; Sweileh, 2017) et ce, dans leu rs vies personnelles, professionnelles ou au sein 
+du système de santé (p.ex., refus d'accès à des soins ou des services) (APA, 2015 ; James et al., 2016 ; 
+MacFarlan, 2015). En ce sens, p lusieurs études démontrent que la majorité des problématiques de santé 
+mentale rapportées par les personnes trans (p. ex., dépression, anxiété) sont dues au stress minoritaire , à 
+la violence et à la victimisation engendrés par les stigmas négatifs et le rejet qui entourent cette 
+communauté ( Austin et Craig , 2015 ; MacFarlan, 2015 ; Sweileh, 2017). D’ailleurs, la théorie du stress 
+minoritaire de Meyer (1995 ), originalement développ ée à travers une étude sur les hommes homosexuels, 
+peut éclairer notre compréhension des différentes discriminations rapportées par les personnes trans. 
+Celle -ci explique que les groupes minoritaires dans la société font l'expérience d'un stress chronique, causé 
+par les préjugés négatifs et la discrimination qui les entourent, ce qui affecte en conséquence leur bien -
+être physique et psycho logique ( Austin et Craig , 2015 ; Marshal et al., 2011 ; Meyer, 1995 ). Cette théorie 
+identifie trois sources de stress minoritaire ou de stigmas, soit : 1) l'homophobie inté riorisée (ou transphobie 
+dans le cas des personnes trans) , qui représente les sentim ents négatifs envers soi -même à l’égard de 
+son identité trans , 2) l'anticipation du rejet et de la discrimination de la part des autres et 3) les expériences 
+de discrimination et de violence vécu es (Meyer, 1995). Dans un autre ordre d’idées, trois construits 
+viendraient renforcer les biais négatifs à l’égard des personnes trans, soit : 1) la cisnormativité : l’idée que 
+deux seuls genres existent, et que ceux -ci devraient être exprimés en conformité avec son sexe biologique, 
+2) la transphobie : le pr éjudice, la haine ou la peur irrationnelle des personnes dont l’expression de genre 
+ne correspond pas aux attentes de la société, ainsi que 3) le dénigrement de genre ( gender bashing ) : les 
+agressions ou le harcèlement auxquels font face les individus tran s (Hill, 2002). 
+Dans le cas des personnes trans, les expériences récurrentes de stéréotypes transphobe s et de 
+discrimination s augmente nt le stress et peuvent mener à l’augmentation de la transphobie intériorisée 
+(Austin et Craig, 2015). Par ailleurs, préci sons que la majorité des études sur la santé des personnes trans 
+sont conduites selon une approche syndémique, qui vise à comprendre les interactions entre les facteurs 
+sociaux nuisibles qui entourent certaines populations à risque et les occurrences de ce rtains troubles de 
+santé (psychologiques et physiques) chez celles -ci (Poteat, Scheim, Xavier, Reisner et Baral, 2016). Cela 
+implique que des facteurs sociaux, tels que la discrimination ou la stigmatisation, affectent les conditions 
+de santé des personnes trans (APA, 2015 ; Poteat et al., 2016). 
+ 
+Répercussions sur la santé physique et psychologique . D'après le rapport du « Transgender 
+Survey », 46% des participants rapportent avoir subi du harcèlement verbal dans la dernière année dû à 
+leur identité trans , tandis que 9 % rapportent avoir été agressés physiquement et 10%, avoir été agressés 
+sexuellement (James et al., 2016). En plus des blessures physiques, le stress associé aux expériences de 
+discrimination peut entra iner des répercussions sur le bien -être psychologique, tel que des symptômes de 
+dépression sévère et des pensées suicidaires (Bauer et Scheim, 2016 ; MacFarlan, 2015). D 'après les 
+résultats rapportés par Bauer et Scheim (2016) de l'étude « Trans Pulse » conduite auprès de 433 
+perso nnes trans ontariennes, 77 % des répondants auraient sérieusement considéré le suicide (dont 32 % 
+dans la dernière année) et 43 % auraient déjà fait une tentative de suicide. Ceci représente des prévalences 
+très élevées comparativement aux études dans la population générale du Canada , qui rapportent 
+qu’environ 11,25 % des Canadiens ont déjà sérieusement considéré le suicide, et 3,82 % auraient déjà fait 
+une tentative de s uicide (Weissman et al., 1999 cités dans MacFarlan, 2015). 
+
+ 9 
+Accès aux soins de s anté. L’enquête « Transgender Survey » (James et al., 2016) souligne que 33 % 
+des personnes interrogées ont répondu qu’elles ont vécu au moins une expérience négative auprès du 
+système de santé au cours de la dernière année (p. ex., examen / traitement refusé , être ridiculisé ou 
+insulté par un professionnel de la santé ou devoir éduquer le professionnel sur la façon appropriée de 
+donner des soins). Aussi, d ans l'étude de « Trans Pulse » (Bauer et Scheim, 2016) , une personne trans 
+sur dix se se rait vue refuser des soins aux urgences dû à son identité de genre, alors que 40 % auraient 
+été victimes de discrimination de la part de leur médecin de famille. Cette problématique est en partie liée 
+au manque d'information et de sensibilisation des profe ssionnels de la santé quant aux enjeux trans 
+(McPhail , Rountree -James et Whetter, 2016) . À ce sujet, i l existe à ce jour encore peu de formation s pour 
+les professionnels de la santé quant aux soins à procurer aux personnes trans (McPhail , Rountree -James 
+et Whetter , 2016 ; Zeggar et Dahan, 2011). Elle nécessite une meilleure prise en charge à travers 
+l'éducation des professionnels de santé , sur des enjeux tel s que les construits de ge nre et d'orientation 
+sexuelle, de non -binarité, ainsi que sur les effets potentiels de la discrimination sur la santé des personnes 
+trans (APA, 2015 ; McPhail et al., 2016) . Ultimement, il est visé de promouvoir une approche clinique trans -
+affirmative, c'est à dire une approche non -pathologiste qui accepte et valide les différentes expériences de 
+genre (Austin et Craig, 2015). Le manque d’aptitudes (p.ex., sensibilité aux questions de genre et aux 
+enjeux de discrimination ) des médecins à intervenir auprès de ces populations présent ant des enjeux de 
+santé spécifiques , fait obstacle au bien -être physique , psychologique et sexuel des personnes trans (APA, 
+2015 ; Hammaberg, 2009) . 
+ 
+D'autre part, la littérature relève une surreprésentation des taux de VIH au sein de la population trans , avec 
+des prévalences auto -rapportées qui varient de 2% à 29.9% ( Giami, Beaubatie et Le Bail, 2011 ; James et 
+al., 2016 ; Poteat et al., 2016). Le cadre syndémique utilisé dans la majorité de s études recensés par Poteat 
+et al., (2016) , souligne que la comorbidité entre la victimisation (p. ex., a gression sexuel le, violence) et les 
+troubles de la santé psychologique (p.ex., dépression, trouble de la consommation), aug mente le risque de 
+contracter le VIH ou d'autres ITSS (Reisner, White Hughto, Pardee et Sevelius, 2016). Cette interaction 
+peut se manifester en plusieurs aspects, par exemple au niveau de la peur de la discrimination exercée 
+par les pr ofessionnel s de santé p ouvant entrainer l'évitement de s soins préventifs tel s que le dépistage 
+(Reisner et al., 2016) . Cela a pour cause que beaucoup de personnes trans ignorent leur statut 
+sérologique3, et fait aussi obstacle à l'accès à la PrEP (James e t al., 2016; Reisner et al., 2016 ). Par ailleurs, 
+l’affirmation de l'identité de genre serait liée à la prise de risques sexuels chez les hommes trans ayant des 
+relations sexuelles avec des hommes cisgenre s (Reisner et al., 2016). En effet, les hommes tran s seraient 
+victimes de discrimination et de rejet au sein de la communauté des hommes ayant des relations sexuelles 
+avec d'autres hommes (HRSH) (Sevelius, 2009) . Cette discrimination augmenterait les risques de relations 
+sexuelles non protégées, vu es comme un moyen pour les hommes trans de démontrer leur masculinité ou 
+de prioriser l’affirmation sociale de leur genre au lieu de leur sécurité sexuelle (Reisner et al., 2016). Les 
+répercussions sur la santé des personnes trans , telles que les taux élevés de dépression, de VIH ou d'ITSS , 
+soulignent le besoin d'effectuer davantage de recherche s et d'obtenir plus d'informations sur les enjeux 
+trans , afin de mieux cerner et comprendre les facteurs nuisibles à leur santé psychologique , phys ique et 
+sexuelle (McPhail et al., 2016 ; Reisner et al., 2016 ). Ceci est primordial pour permettre de développer des 
+formations adéquates pour les professionnels de la santé et ultimement, remédier à ces problématiques 
+(Austin et Craig, 2015 ; Lev, 2013 ; McPhail et al., 2016 ; Ministère de la Justice, 2017 ). 
+ 
+Enjeux professionnels . D’abord, il serait plus difficile pour les personnes trans de se faire embaucher, ce 
+qui expliquerait les taux plutôt élevés de chômage chez cette population (James et al., 2016 ; Hammaberg 
+2009) . Par exemple, l es résultats d u « Transgender Survey » rapportent que 27 % de ceux qui ont appliqué 
+pour un emploi ont rapporté que leur candidature n’a pas été retenue et pense que cela est dû à leur identité 
+ 
+3 46% des répondants de l'étude « Transgender Survey » ignorent leur statut sérologique (James et al., 2016) 
+ 10 
+de genre, tandis que 30% de ceux ayant eu un emploi pendant l'année ont rapporté avoir été victimes d'au 
+moins une forme de discrimination en raison de leur identité de genre (p ex., se voir refuser une promotion, 
+être victimes de harcèlement verbal ou subir une attaque physique) (James et al., 2016 ). Toujours dans le 
+« Transgender Survey » ,15 % de l'échant illon étaient actuellement au chômage et 29% vivaient dans la 
+pauvreté4 (James et al., 20 16). Cette difficulté à trouver du travail revient au fait que dû aux attitudes 
+négatives qui peuvent être engendrées à l’égard de cette communauté, les personnes trans se retrouvent 
+souvent discriminées sur le marché du travail (James et al., 2016 ; Hamma berg, 2009). Cela pourrait 
+expliquer que 77 % des participants ont ressenti le besoin de prendre des mesures pour se protéger contre 
+la discrimination au travail, telles que de cacher leur transition et/ou leur identité de genre, de même que 
+de quitter leu r emploi (James et al., 2016). Toutefois, cette étude provient des États -Unis et les lois 
+protégeant les personnes trans varient entre les états. Par exemple certains protègent contre la 
+discrimination au travail, alors que d'autres non (Transgender Law Ce nter, 2018). Néanmoins, des résultats 
+canadiens rapportés par l 'étude « Trans Pulse » , qui s’est déroulée en 2009 -2010 , énonce que 13 % de 
+leur échantillon ont déjà perdu un emploi et 18 % se sont vu s refuser un emploi face à leur identité trans 
+(Bauer et Scheim, 2016). Depuis 2016, la « Charte des droits de libertés de la personne canadienne » 
+protège rait désormais les personnes trans de toute discrimination basée sur leur identité de genre ( Dubuc , 
+2017). En conclusion, c ette discrimination professionnell e a jusqu’à récemment été une réalité au Canada 
+et, à notre connaissance, peu de recherches ont été conduites pour déterminer si le changement de loi s a 
+eu des effets positifs pour les personnes trans sur le marché du travail. 
+ 
+Inclusion des personnes trans dans la recherche : Besoins et pertinence. La palette d'identités et de 
+parcours étant propres à chaque individu trans, présente une difficulté quant à l'intégration des personnes 
+trans dans la recherche, puisqu’il s’avère complexe de conce voir des mesures aptes à inclure l'ensemble 
+de ces différences (Giami et Beaubatie, 2014 ; Labuski et Keo -Meier, 2015). En ce sens, les mesures de 
+recherches sociodémographiques utilisées dans un grand nombre d'études ne permettent pas de cerner 
+toutes les réalités trans (Ba uer et al., 2017 ; Labuski et Keo -Meier, 2015) . 
+ 
+Par ailleurs, une étude de 2014 réalisée au Canada aurait révélé que sur 256 participants, les hommes 
+versus les femmes trans étaient présents en proportions presque égales au sein de l’é chantillon de 
+recherche, quoique cette proportion n’était pas directement mentionnée dans le rapport du projet de 
+recherche (Scruton, 2014). Soit, mentionnons à nouveau que les populations trans présentent des taux 
+surreprésentés d’infection au VIH, avec d es prévalences auto -rapportées qui varient de 2% à 29.9% 
+(Giami, Beaubatie et Le Bail, 2011 ; James et al., 2016 ; Poteat et al., 2016). Plus précisément, dans l’étude 
+« Transgender Survey » (James et al., 2016), 3,4% des femmes trans, contre 1,4% de l’éch antillon total 
+présentait un statut séropositif au VIH, tandis que près d’une femme afro -américaine sur 5 (19%) présentait 
+ce même statut. Quant à elle, une méta -analyse datant de 2008 et portant sur les femmes trans a révélé 
+que sur 3 159 femmes trans pro venant de 14 pays et de 5 continents, les deux tiers d’entre elles 
+pratiquaient le travail du sexe (Operario, Soma et Underhill, 2008). De plus, 27,3% des femmes trans 
+travailleuses du sexe et 14,7% des femmes trans ne pratiquant pas le travail du sexe éta ient porteuses du 
+VIH. C’est donc dire que, les femmes trans étant présentes dans des proportions similaires aux hommes 
+trans dans certaines enquêtes, et celles -ci étant tout autant, sinon davantage à risque de contracter le VIH 
+que les hommes trans, leur inclusion dans les recherches sur le VIH est pertinente. 
+ 
+De plus, il existe encore à ce jour des lacunes concernant les connaissances des différentes 
+problématiques (p.ex., obstacles médicaux et sociaux à la transition, répercussions du stress minoritaire 
+ 
+4 En comparaison, respectivement 3% et 14% de la population générale vivent dans des conditions similaires aux 
+États -Unis (James et al., 2016), tandis que les taux de chômage sont de 6% au Canada et 9% en France (Eurostats, 
+2018 ; Statistiques Canada, 2018). 
+ 11 
+sur le bien -être psychologique) qui entourent la communauté trans (Bauer Braimoh, Scheim et Darma, 
+2017 ; McPhail et al., 2016 ), ce qu i complexifie la tâche de créer des mesures adaptées à l eur réalité 
+(Labuski et Keo -Meier, 2015) . En effet , certains questionnaires confondent les notions de sexe et de genre , 
+tandis que d’autres offre nt des choix de réponses trop restreints (p.ex., choix dichotomiques, homme ou 
+femme) pour accommoder la diversité des identités dans la communauté trans (Bauer et al., 2017 ; Labuski 
+et Keo -Meier, 2015) . En plus de ces mesures contraignantes , il est complexe d’avoir recours aux 
+populations trans au sein d es études, car tous les individus trans n’affichent pas publiquement leur identité 
+de genre souhaitée (Hammaberg, 2009 ). Une méta -analyse de Sweileh (2018) en ce sens souligne que la 
+recherche sur les personnes trans vivant dans les pays africains ou méditerranéens serait quasi -inexistant e 
+dû aux milieux socioculturels qui décourage nt l’expression de l ’identité trans (Sweileh, 2018). Néanmoins, 
+même au Canada o ù les droits des personnes trans sont légiférés (Directeur de l’état civil , 201 8), celles -ci 
+demeurent réticentes à dévoiler leur identité au x chercheur s par peur d ’être stigmatis ées (MacFarla ne, 
+2015). Malgré cela, la taille des échantillons dans les études trans auraie nt augment é entre 2009 et 2012 , 
+ce qui souligne le besoin de poursuivre la recherche pour continuer à favoriser l ’inclus ion des personnes 
+trans (McFarla ne, 2015 ; Sweileh, 2018). 
+ 
+En résumé , la récente reconnaissance des droits des personnes trans a ouvert la voie à leur plus grande 
+inclusion dans la société, ainsi que dans la recherche (Bujon et Dourlens ; Sweileh, 2017). Pour ce faire , il 
+est nécessaire d’identifier les enjeux problématiques qui affec tent négativement le bien -être des personnes 
+trans, afin d e développer des interventions sociale s, institutionnelles , professionnelle s, de groupe et 
+individuelle s ajustées à leurs besoins (Austin et Craig, 2015 ; Minsitère de la Justice , 2017 ). Enfin, les 
+pratiques doivent davantage promouvoir l ’acceptation de cette communauté à travers l ’éducation des 
+différents professionnels oeuvrant auprès de ces communautés (Hammarberg, 2009 ). Par ailleurs, il est 
+essentiel de pousser l ’inclusion des perso nnes trans dans la recherche, afin d ’encourager le 
+développement de mesures inclusives qui amèneront une meilleure représentation de la communauté trans 
+dans les études populationnelles (Bauer et al., 2017 ; Labuski et Keo -Meier, 2015) , ce qui pourrait 
+contribuer au développement de plans d ’actions tels que celui mis en place par le gouvernement du Québec 
+(Minsitère de la Justice, 2017). Ultimement, ces derniers aideront la formation d ’attitudes socioculturelles 
+plus positives envers la communauté trans et mèneront à une meilleure inclusion des personnes trans dans 
+la société (Minsitère de la Justice, 2017 ; Labuski et Keo -Meier, 2015). 
+
+Le Net Ga i Bi Trans Baromètre. L’un des nouveaux objets d’étude du NGB étant l’inclusion des personnes 
+trans , la question du genre a récemment été adaptée à 20 écrans (voir tableau 5 en annexe ) et de nouvelles 
+sections ont été ajoutées sur les parcours de transitions médical es et social es, dans le but d ’obtenir une 
+meilleure idée des parcours trans au Québec et en France . Le fait que cette étude soit originalement conçue 
+pour les HRSH offre tout de même un cadre pertinent à l’inclusion des personnes trans , pui’que d'abord, la 
+recherche démontre que ces deux populations sont particulièrement à risques quant au VIH ( Giami et al., 
+2011 ), alors que le NGB se penche ’sur l'identificatio ’ et l'analyses des facteurs de propagation et de 
+prévention du VIH chez les populations à risque . 
+ 
+Par ailleurs, bien que la recherche ait longtemps considéré que les hommes trans soien t hétérosexuels, 
+des études plus récentes tendent à montrer que la communauté trans présente une vaste diver ’ité 
+d'identités, de comportement ’ et d'attirances sexuelles (Reisner et al., 2016 ; Scruton, 2014 ). Par exemple, 
+selon le « U.S. National Trans gender Discrimination Survey », 69.3% de l’échantillon ne seraient pas 
+hétérosexuels (13.5% ga is, 14.9% bisexuel s, 40.9% queer ). Ceci implique que les hommes trans ayant 
+des relations sexuelles avec d'autres hommes font face à des enjeux similaires que les HRSH quant à leur 
+pratiques et santé sexuelle s, telles que la non -utilisation de condom et les risques de contracter le VIH 
+(Reisner et al., 2016) , ce qui souligne la pertinence de les inclure dans cette enquête. De plus, cette 
+ 12 
+inclusion favorisera aussi l'obtention de données sur les nombreuses thématiques incluses dans le NGB 
+(p. ex., usage des réseaux sociaux à des fins sexuelles, de santé physique, psychologique et sexuelle, 
+comportements sexuels à risques ), qui permettront d'encourager le développeme nt d'interventions en 
+matière de santé (physique, psychologique, sociale et sexuelle), par exemple dans le doma ine de la 
+prévention du VIH/SIDA . Finalement, le NGB s’intéressant à ces deux populations en regard de leur usage 
+d’Internet à des fins sociales, affectives et sexuelles, il semble utile de préciser qu’Internet est une source 
+de soutien social et d’appartenance à une communauté chez certains individus trans (Beemyn et Rankin, 
+2011). Le tableau 5, portant sur l’ « Inclusion des personnes trans dans l e NGB » (présenté en annexe) 
+présente en détail s les modifications ajoutées au questionnaire pour permettre l'inclusion des personnes 
+trans et leurs objectifs . 
+ 
+Limites. La nature du questionna ire du NGB, nous a contraint à prendre quelque s décision s quan t à 
+l'inclusion des différents parcours reflétés dans la communauté trans. En effet, les personnes non binaires 
+ont, pour cette édition, été exclues de l’enquête , car dans sa forme actuelle, celle-ci ne permet pas de 
+capter de façon juste leurs réalités. Il en est de même pour les personnes bispirituelle s (two-spirit) , qui ont 
+aussi été exclue s. Cela est relié au fait que la bi -spiritualité est une identité complexe qui regroupe plusieurs 
+dimensions d'orientation s sexuelle s et de genre et qui existe nt en-dehors de la communauté trans (Bauer 
+et al., 2017). Ces personnes pourraient être incluses lors de la prochaine édition, après une révision et une 
+adaptation plus efficace du questionnaire grâce à leur implication à ce nivea u. À ce sujet, précisons que 
+Beemyn et Rankin (2011) ont classifié les personnes trans de leur étude selon 4 catégories, soit : 1) les 
+personnes de sexe féminin à la naissance s’identifiant comme hommes, 2) les personnes de sexe féminin 
+à la naissance s’ identifiant à un autre genre, 3) les personnes de sexe masculin à la naissance s’identifiant 
+comme femmes et 4) les personnes de sexe masculin à la naissance s’ identifiant à un autre genre. Cette 
+classification pourrait être une piste à explorer dans la futu re conceptualisation du questionnaire de notre 
+enquête. En somme, le NGB a donc pour objectif futur de travailler en collaboration étroite avec des 
+représentant s des diverses communautés trans , pour permettre le développement d'un questionnaire le 
+plus inclusif et représentatif possible de tous les parcours et identités. 
+ 
+Conclusion. L’ensemble de la recension des écrits souligne l'importance d'études exploratoires comme le 
+Net Gai Bi Trans Baromètre (NGB) , qui tente d'obtenir des profils plus complets des réalités et des parcours 
+trans . Ceci aura pour effet de promouvoir l a représentation des personnes trans dans la recherche et 
+d'encourager le développement de programmes d'interventions dans le milieu de la santé qu i permettront 
+d'adresser les besoin s des personnes trans, ainsi que de former des professionnels sensibles aux enjeux 
+trans. À travers ces objectifs, les études tel que le NGB pourront aider à réduire la discrimination et de 
+favoriser l'acceptation sociale et culturelle des personnes trans. 
+ 
+ 13 
+Tableau 1. Chirurgies de réassignation sexuelle pour les femmes trans . 
+ 
+TYPE 
+D'INTERVENTION DESCRIPTION DES INTERVENTIONS PRÉREQUIS 
+PÉNECTOMIE Ablation chirurgical e du pénis. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormonothérapie appropriée aux 
+objectifs de genre du patient. 
+ORCHIDECTOMIE Ablation chirurgical e des testicules. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormonothérapie appropriée aux 
+objectifs de genre du patient. 
+VAGINOPLASTIE Inversion de la peau du pénis pour créer un vagin 
+d'une profondeur permettant d'avoir des relations 
+sexuelles avec pénétration. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormonothérapie appropriée aux 
+objectifs de genre du patient. 
+-12 mois d ans le rôle de genre congruent avec l'identité de genre. 
+CLITOROPLASTIE Chirurgie complémentaire à la vaginoplastie. 
+Couramment : utilisation du tissu du gland du pénis 
+pour créer un clitoris. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hor monothérapie appropriée aux 
+objectifs de genre du patient. 
+-12 mois dans le rôle de genre congruent avec l'identité de genre. 
+VULVOPLASTIE Chirurgie complémentaire à la vaginoplastie. 
+Utilisation des tissus pénien s pour la création d'une 
+vulve pourvue de petites lèvres et des zones 
+érogènes avec possibilité de plaisir sexuel. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormonothérapie appropriée aux 
+objectifs de genre du patient. 
+-12 mois dans le rôle de genre congruent avec l'identité de genre. 
+
+Tableau 2. Chirurgies esthétiques pour les femmes trans . 
+ 
+TYPE 
+D'INTERVENTION DESCRIPTION PRÉREQUIS 
+MAMMOPLASTIE Insertion d'implants mammaires sous les muscles 
+pectoraux pour crée r une poitrine féminine ou 
+augmenter les effets de l'hormonothérapie. -Critères 1 à 4. 
+-L'hormonothérapie (12 mois) est recommandée mais n'est pas requise. 
+RÉDUCTION DE 
+LA POMME 
+D'ADAM Réduction chirurgicale de la pomme d'Adam pour 
+retirer la bosse dan s la gorge (ne change pas le ton de 
+la voix). - Pas de prérequis, mais un suivi avec un professionnel de la santé 
+mentale est recommandé. 
+CHIRURGIE 
+VOCALE Chirurgie qui augmente la tension des cordes vocales 
+pour passer à une fréquence vocale plus féminine. - Pas de prérequis, mais un suivi avec un professionnel de la santé 
+mentale est recommandé. 
+CHIRURGIES DE 
+FÉMINISATION 
+CORPORELLE ET 
+FACIALE Divers es chirurgies faciale et corporelle qui ont pour 
+but de féminiser l'apparence de la personne (ex., 
+rhinoplastie, lifting des cuisses). - Pas de prérequis, mais un suivi avec un professionnel de la santé 
+mentale est recommandé. 
+ 14 
+ 
+Tableau 3. Chirurgies de réassignation sexuelle pour les hommes trans . 
+ 
+TYPE 
+D'INTERVENTION DESCRIPTION DES INTERVENTIONS PRÉREQUIS 
+HYSTÉRECTOMIE Ablation chirurgical e totale ou partiel le de l'utérus. 
+Peut aussi impliquer la suppression du col de 
+l'utérus et des trompes de Fallope. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormonothérapie appropriée aux 
+objectifs de genre du patient. 
+OVARIECTOMIE Ablation chirurgical e des o vaires -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormonothérapie appropriée aux 
+objectifs de genre du patient. 
+VAGINECTOMIE Ablation chirurgical e plus ou moins complète du 
+vagin. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormon othérapie appropriée aux 
+objectifs de genre du patient. 
+MÉTOÏDIOPLASTIE Séparation du clitoris et des petites lèvres et 
+sectionnement du ligament suspenseur pour 
+ramener le clitoris à une position approximative du 
+pénis. 
+Résulte en un pénis érectile avec une taille 
+moyenne de 5,7 cm en érection. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormonothérapie appropriée aux 
+objectifs de genre du patient. 
+-12 mois dans le rôle de genre congruent avec l'identité de genre. 
+PHALLOPLASTIE Construction chirurgical e d'un pénis à part ir d'un 
+lambeau de peau prélevé de l'avant -bras suivi de 
+l'implant d'une prothèse pénienne pour permettre 
+l'érection. Résulte en un pénis de taille moyenne, 
+permettant d'uriner debout et d'obtenir une érection 
+qui permet la pénétration. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormo nothérapie appropriée aux 
+objectifs de genre du patient. 
+-12 mois dans le rôle de genre congruent avec l'identité de genre. 
+SCROTOPLASTIE Transformation chirurgicale des grosses lèvres en 
+scrotum. Possibilité d'insertion de prothèses 
+testiculaire s en silicone. -Critères 1 à 4. 
+-Une période de 12 mois continus sous hormonothérapie appropriée aux 
+objectifs de genre du patient. 
+-12 mois dans le rôle de genre congruent avec l'identité de genre. 
+
+ 15 
+Tableau 4. Chirurgies esthétiques pour les hommes trans . 
+ 
+TYPE 
+D'INTERVENTION DESCRIPTION PRÉREQUIS 
+MASTECTOMIE Ablation chirurgicale des seins et des glandes 
+mammaires et création d'une poitrine masculine. -Critères 1 à 4. 
+CHIRURGIES DE 
+MASCULINISATION 
+CORPORELL E ET 
+FACIALE. Divers es chirurgies faciale et corporelle qui ont pour 
+but de masculiniser l'apparence de la personne (ex., 
+rhinoplastie, abdominoplastie). -Ces chirurgies n'ont pas de prérequis, mais un suivit avec un 
+professionnel de la santé mentale est recommandé. 
+
+ Tableau 5. Inclusion des personnes trans dans le NGB 
+ 
+Section du 
+questionna
+ire Questions Modifications Appuis empiriques 
+Introductio n
+. Pouvez -
+vous 
+participer 
+ Écran 1. 
+-Quel était votre sexe attribué à la naissance (sur votre certificat 
+de naissance originale) ? (Homme /Femme / Préfère ne pas 
+répondre ) 
+- Lequel des énoncés suivants décrit le mieux votre identité de 
+genre actuelle ? (*Merci de répondre selon l'identité de genre 
+dans laquelle vous -vous identifie z personnellement) : (Femme 
+/Homme /Personne trans /Non-binaire /Autre [précise z]) Écran 1. 
+Ajout basé sur la 
+méthode de mesure 
+en 2 items (Ba uer et 
+al., 2017). Incluant une 
+question sur le sexe 
+attribué à la naissance 
+(certificat de 
+naissance), et une 
+question sur l'auto -
+identification de genre 
+actuel de la personne 
+(p.ex., homme, 
+femme, non -binaire, 
+autre) . Validé e comme une mesure efficace 
+permettant d'identifier les participant(e)s 
+trans (Bauer et al., 2017 ; Bauer et 
+Scheim, 2016 ). 
+ 
+Section 1. 
+Données 
+sociodémog
+raphiques Écran 3. 
+-Vous vous identifie z comme : (Homme /Femme /Non 
+binaire /Bispirituelle /Non proposé [précisez ]) 
+-Dans la vie de tous les jours, on s'adresse à vous comme : (Un 
+homme /Une femme /Neutre [ex. androgyne ]/Autre [précise z]) 
+Écran 5. 
+-Votre partenaire de couple actuel est : (Un homme cisgenre /Une 
+femme cisgenre /Un homme trans /Une femme trans /Une Écran 6. 
+Modifiées pour ne plus 
+faire la distinction 
+entre homme/femme 
+cisgenre et trans. 
+ 
+Écran 7. Section i mportante pour capturer la 
+diversité des parcours . Toutes les 
+personnes trans ne s'affiche nt pas dans le 
+genre a uquel elles s'identifie nt, ou 
+s'affiche nt seulement publiquement dans 
+certaines sphères de leur vie , par 
+exemple dans la communautés LGBTQI 
+(Bauer et al., 2017). Les questions sur 
+ 16 
+Section du 
+questionna
+ire Questions Modifications Appuis empiriques 
+personne bispirituelle cisgenre /Une personne bispirituelle 
+transmasculine /Une personne bispirtuelle transféminine /Une 
+personne non binaire /Autre [précise z]) 
+-Au niveau de votre attirance et de vos désirs, vous êtes attiré... 
+(Exclusivement par les hommes /Surtout par les hommes /Autant 
+par les hommes que par les femmes /Surtout par les 
+femmes /Exclusivement par les femmes /Par des personnes, peu 
+importe le genre /Par tous les genres /En questionnement /Je ne 
+sais pas ) 
+- Au niveau de vos comportements sexuels, vous avez des 
+relations sexuelles... (Exclusivement avec des hommes /Surtout 
+avec des hommes /Autant avec des hommes qu’avec d es 
+femmes /Surtout avec des femmes /Exclusivement avec des 
+femmes /Avec des personnes, peu importe le genre /Avec des 
+personnes de tous les genres /En questionnement /Je ne sais pas ) 
+Écran 6. 
+-Êtes-vous attiré par des personnes que vous saviez trans ? 
+(Non/Oui, par les hommes trans /Oui. par les femmes trans /Oui, 
+par les personnes non -binaires /En questionnement /Je ne sais 
+pas) 
+-Avez -vous déjà eu des relations sexuelles avec des personnes 
+que vous saviez trans ? (Non/Oui, avec des hommes trans /Oui, 
+avec des f emmes trans /Oui, avec des personnes non -binaires /En 
+questionnement /Je ne sais pas ) 
+Écran 7. 
+-Votre transidentité est -elle ou fût -elle connue... (D'un ou de 
+plusieurs de mes parents /De mes frères et sœurs /De la plupart 
+de mes amis hétérosexuels /De mes collègues au travail /De mon 
+médeci n/D'aucun parmi mes connaissances ) 
+-À quel genr e ces amis s'identifient -ils ? (Masculin /Féminin /Non 
+binaire , fluidité de genre /Autre [précise z]) 
+-Parmi vos ami -e-s, comptez -vous des femmes trans ? 
+(Oui/Non/Je ne sais pas ) 
+-Parmi vos ami -e-s, comptez -vous des hommes trans ? 
+(Oui/Non/Je ne sais pas ) 
+ Le mot transidentité a 
+été remplacé par le fait 
+d'être trans. l'attirance et les co mportements sexuels 
+sont aussi présente s dans l'étude « Trans 
+Pulse », et sont importantes , car d'après 
+la recherche le fait d'avoir exclusivement 
+des partenaires masculins serait associé 
+à une plus grande prise de risque sexuel 
+(Scheim, Ba uer et Travers, 2017). De 
+plus la communauté trans est varié e 
+quant aux attirances et comportements 
+sexuels des individus (Reisner et al., 
+2016). 
+Les questions sur le sentiment 
+d'appartenance et sur l'identité de genre 
+des ami(e)s pourront contribuer à cerner 
+davantage les sphères sociales d ans 
+lesquelles les personnes trans se sentent 
+en sécurité de dévoiler leur identité. 
+
+ 17 
+Section du 
+questionna
+ire Questions Modifications Appuis empiriques 
+Section 2. 
+Usage 
+d'Internet, 
+des réseaux 
+sociaux et 
+des 
+applications 
+de 
+rencontres 
+mobiles. Écran 8. 
+-Si concerné, dévoilez -vous votre transidentité sur ces réseaux 
+sociaux ? (Oui/Non/Non-concerné ) 
+-À quel genre ces ami-e-s (sur les réseaux sociaux) s'identifient -
+ils ? (Masculin /Féminin /Non binaire, fluidité de genre /Autre 
+[précisez] ) 
+- Parmi vos ami -e-s des réseaux sociaux, comptez -vous des 
+femmes ou des hommes trans ? 
+(Non/Oui, des femmes trans /Oui, des hommes trans /Je ne sais 
+pas) Écran 8. 
+Ajout de questions 
+demandant aux 
+participant .e.s si 
+ils/elles dévoilent leurs 
+identités trans en 
+ligne. La question ci -
+contre a été remplac ée 
+par "Partager vous le 
+fait d'être trans sur ces 
+réseaux sociaux ?" Comme mentionn é plus haut, pour bien 
+représenter la communauté trans il est 
+important de prendre en compte la 
+question du dévoilement ( Bauer et al., 
+2017) . De plus, la recherche souligne q ue 
+les personnes trans se tourne nt souvent 
+vers internet pour trouver des informations 
+et établir des contacts avec des 
+communautés trans en ligne (Magee, 
+Bigelow, DeHaan et Mustanski, 2012). 
+Section 3. 
+Rencontre s 
+avec des 
+partenaires 
+occasionnel
+s. Écran 9. 
+-Combien de relations sexuelles (plans) avec -vous eues ces 12 
+derniers mois avec un ou des partenaires occasionnels masculins 
+(hommes cis ou hommes trans ) ? 
+-Parmi eux , (partenaires occasionnel) les hommes trans sont : 
+(Absents /Rares /Peu nombreux /Assez nombreux /Très nombreux , 
+exclusifs ) 
+Écran 11. 
+Si vous avez eu des partenaires occasionnels homme trans, vous 
+est-il arrivé de refuser d'avoir du sexe vaginal ou frontal s'il y a 
+lieu en raison d e leur statut sérologique au regard du VIH ? 
+(Oui/Non/Je ne sais pas , préfère ne pas répondre ) 
+Écran 12. 
+-Dans les 12 derniers mois, avez -vous eu des partenaires 
+occasionnelles femmes (femmes cisgenre ou transgenre) ? 
+(Oui/Non) 
+ Écran 9 -12. 
+Inclusion de précisions 
+que les partenaires 
+peuvent être cis genre 
+ou trans dans la 
+formulation des 
+questions (voir ci -
+contre) . 
+Écran 10 -11. 
+Ajout de « frontal » 
+aux questions qui 
+parle de rapports 
+sexuels vaginales, 
+(voir ci -contre). 
+Générale. 
+Ajout de l'option de 
+réponses "Ne 
+s'applique pas" quant 
+aux questions sur les 
+comportements 
+sexuels De nombreuses études relève nt que la 
+communauté trans est une communauté à 
+risques pour les ITSS, dont le VIH 
+(Scheim, Ba uer et Travers, 2017 ; 
+Sweileh, 2017). De plus , un nombre élevé 
+de partenaire occasionnel ainsi que 
+certaines pratiques ( p. ex., barebacking) 
+sont associé es à des tôt plus élevés 
+d'ITSS et de VIH (Scheim et al., 2017). 
+Enfin d'après l'étude de Reisner et al., 
+2016 les hommes trans ayant des 
+relations sexuel les avec des hommes 
+cisgenres sont davantage à risques de 
+s'engager dans des pratiques sexuelles à 
+risques. Cette section est donc essentielle 
+car elle permettra de documenter les 
+différentes pratiques sexuelles et 
+l'utilisation de protection avec des 
+partenaires occasionnels. Ces 
+informations permettront de mieux cerner 
+les enjeux et les pratiques qui augmentent 
+le risque d'ITSS chez les personnes trans. 
+Section 4. 
+Relation s 
+stable s ou 
+de couple. Écran 14. 
+-Pouvez -vous confirmer si votre partenaire de couple est : Écran 14. 
+Ajout de choix de 
+réponses qui 
+permettent de préciser Cet ajout permettra de documenter les 
+aspects des relations de couple des 
+personnes trans. Certains qui sont 
+pertinents afin de mieux comprendre les 
+ 18 
+Section du 
+questionna
+ire Questions Modifications Appuis empiriques 
+(Un homme cisgenre /Une femme cisgenre /Une femme trans /Un 
+homme trans /Une personne non binaire /Une personne 
+bispirituelle /Autre [précise z]) davantage l'identité de 
+genre du partenaire 
+(voir ci -contre) . enjeux qui peuvent affecter la santé 
+sexuelle des personnes trans ( p. ex., 
+statut VIH, test de dépistage du 
+partenaire) (Scheim et al., 2017). 
+Section 8. 
+Sentiments 
+de 
+discriminati
+on et 
+préoccupati
+ons ( santé 
+psychologiq
+ue) Écran 32. 
+-Avez -vous le sentiment d'avoir été personnellement discriminé, 
+dans les 12 derniers mois, sur les points suivants... ? 
+(Choix de réponses : Oui, à l'école/au travail/dans un 
+établissement médicale/dans mon quartier/dans le milieu gay/sur 
+Internet/dans l' espace public /Non) 
+(Items : Discrimination liée à l'orientation sexuelle [ex., 
+homophobie ]/Discrimination liée au fait d'être trans [ex., 
+transphobie ]/Discrimination liée à des manières [ex., féminité ]) 
+Écran 33. 
+-Au cours des 12 derniers mois, avez -vous été personnellement 
+concerné par les problèmes suivants ? À quel niveau d'intensité ? 
+(Choix de réponses : Problème non rencontré à Très préoccupé 
+par ce problème) 
+(Items : Acceptation de l'orientation sexuelle /Image 
+corporelle /Acceptation de l' identité de genre /Processus de sortie 
+ou coming out /Solitude , isolement /Idées ou tentatives 
+suicidaires /Acceptation de l'activité de travail du sexe /Si 
+nécessaire, indiquez d'autres préoccupations reliées au bien -être 
+psychosocial ) Écran 32. 
+Ajout de choix de 
+réponses sur la 
+discrimination vécue 
+en rapport à l'identité 
+de genre (transphobie) 
+ainsi que sur les 
+préoccupations du 
+participant avec des 
+questions d'identité de 
+genre et de 
+dévoilement de son 
+identité à son 
+entourage. 
+ Cette section est pertinente car la 
+littérature souligne qu'une majorité des 
+personnes trans feront face à de la 
+discrimination par rapport à leur identité 
+de genre au moins une fois dans leur vie . 
+Expériences , qui peuvent avoir des 
+répercussions sévères sur le bien -être 
+psychologique des individus (Bauer et 
+Scheim, 2016 ; James et al., 2016 ). Par 
+exemple , dans l'étude de « Trans Pulse » 
+sur 433 trans Ontariens , 98% ont rapporté 
+avoir vécu au moins une expérience de 
+discrimination liée à l'identité de genre. De 
+plus, la péri ode de dévoilement est une 
+période sensible qui peut impacter le bien -
+être psychologique de l'individu. Aussi, la 
+peur d'être rejet é ou discrimin é peut 
+souvent amener les personnes trans à 
+décider de ne pas dévoiler leur identité de 
+genre, ou de la dévoile r de manière 
+sélective ( James et al., 2016 ; MacFarlan, 
+2015 ). 
+Section 9. 
+Transition 
+et prise en 
+charge 
+médicale et 
+psychologiq
+ue Écran 35. 
+-Actuellement, vous vous présentez dans votre genre souhaité : 
+(En toutes circonstances /Dans le milieu ga y ou gay -friendly /Dans 
+le contexte du travail du sexe /Chez moi/quand je suis seul /Au 
+travail /Dans le milieu LGBTQ -friendly /Avec mon partenaire 
+stable /Avec mes partenaires occasionnels /Avec mes amis /Dans 
+le milieu trans -friendly ) 
+-Êtes-vous engagé dans un processus/un parcours de transition 
+médicale ? (Oui / Non) 
+- Depuis quand vous êtes-vous engagé dans une démarche de 
+transition : (MM/AAAA) ? Générale. 
+Ajout de cette nouvelle 
+section pour permettre 
+de cerner les divers 
+aspects des parcours 
+de transition s 
+médicale s et sociale s. 
+Cette section inclue, 
+des q uestions 
+concernant la durée 
+des interventions Comme me ntionné ci-dessus, l a 
+recherche démontre une diversité de 
+parcours trans . En effet , toute personne 
+trans n'entame pas une transition sociale 
+ou médicale et le nombre et le type 
+d'interventions médicales entrepris varie 
+d'une personne trans à une autre ( Dubuc, 
+2017 ; WPATH, 2012). De plus, les 
+personnes trans peuvent faire face à 
+certains obstacles quant à l'obtention 
+d'hormones (p. ex., assurance ne couvre 
+ 19 
+Section du 
+questionna
+ire Questions Modifications Appuis empiriques 
+-À l'heure actuelle, dans le cadre d’un parcours médical, vous 
+avez déjà eu recours à : (Un traitement hormonal [ex., 
+testostérone, estrogènes, androgènes ] /Une mastectomie /Une 
+augmentation mammaire par implants /Une laryngoplastie : 
+chirurgie de la pomme d'Adam /Une épilation définitive, 
+électrolyse, laser /Une chirurgie esthétique du visage [nez, 
+etc.]/Une injection de silicone dans un but de modification 
+corporelle /Une rééducation vocale, auprès d'un orthophoniste ou 
+d'un phoniatre /Implants capillaires [visage ou cuir chevelu ]/Je n'ai 
+eu recours à rien de c e qui précède ) 
+-Avez -vous bénéficié d'interventions chirurgicales sur les organes 
+génitaux ? (Oui / Non) 
+-Actuellement, prenez -vous des hormones en lien avec votre 
+parcours trans ? (Oui / Non) 
+-Quelles sont les interventions dont vous avez bénéficié ? 
+(Une orchidectomie, ablation des gonades [testicules ou 
+ovaires ]/Une phalloplastie /Une hystérectomie /Une 
+métaioidioplastie [augmentation du clitoris ]/Une 
+vaginoplastie /Une scrotoplastie, implants testiculaires ) 
+-Où, ces interventions chirurgicales ont-elles eu lieu ? (Dans un 
+hôpital public au Canada/Dans une clinique privée au Canada/À 
+l'étranger [précisez dans quel pays]) 
+-De combien d'interventions chirurgicales sur les organes 
+génitaux avez -vous bénéficié (saisissez un nombre) : 
+-Êtes-vous suivi par un médecin pour la prise de ces hormones ? 
+(Non/Oui, par un médecin généraliste /Oui, par un 
+endocrinologue /Oui, par un médecin d'une autre spécialité 
+[précisez ]) 
+Écran 36. 
+-Vous vous êtes procuré des hormones sans ordonnance ni suivi 
+médical (automédication) ? (Oui / Non) 
+-Comment vous les êtes -vous procurées ? (Par Internet /En allant 
+à l'étranger /Par le biais d'amis /Par des tiers revendeurs /Autre 
+moyen [précisez ]) 
+Avez -vous eu recours à un processus d'évaluation et de 
+diagnostic de dysphorie de genre (anciennement trouble de médicales, le ty pe et le 
+nombre d'interventions 
+ainsi que sur la façon 
+dont et l'endroit o ù ces 
+interventions on eut 
+lieu. Enfin, des 
+questions concernant 
+l'expérience du 
+parcours médical . 
+ 
+Inclusion d'une 
+question de plus pour 
+les personnes trans 
+ayant bénéficié d'une 
+vaginoplastie, qui 
+demande si celle -ci a 
+été maintenue. pas le cout, professionnelle de santé qui 
+refuse de prescrire). Ceci peut pousser 
+certaines personnes à chercher des 
+méthodes alternatives pour obtenir les 
+hormones nécessaires (p. ex., en ligne) . 
+Ce qui peut comporter des risques car la 
+personne ne peut pas s'assurer de la 
+qualité des hormones (James et al., 
+2016). Cette section est donc essentielle 
+car e lle permettra de documenter les 
+différents parcours de transit ions entam és 
+par les personnes trans, reflétant par la 
+suite les multiples réalités de la 
+communauté trans. Ce questionnaire a 
+été développ é en collaboration avec 
+l'équipe « Genre, Sexualité, Santé » de 
+l'institut national de la santé et de la 
+recherche médicale (INTERSERM) en 
+France. 
+ 20 
+Section du 
+questionna
+ire Questions Modifications Appuis empiriques 
+l'identité de genre ou transsexualisme ) afin d'avoir accès à des 
+soins de santé en lien avec votre parcours trans ? (Oui /Non) 
+-Combien avez -vous eu de consultations avec un médecin, un 
+sexologue ou un psychologue (saisir un nombre) ? 
+- Ce médecin, sexologue ou psychologue a -t-il validé le 
+diagnostic de « dysphorie de genre » (ex., émission d'une lettre 
+de référence) 
+(Oui/Non, la démarche est toujours en cours /Non, la démarche 
+est interrompue ) 
+-Dans quel cadre cette démarche a - t-elle eu lieu ? 
+(Une équipe hospitalière /Chez un sexologue ou psychologue qui 
+exerce au privé /Dans une clinique médicale /Autre contexte 
+[précisez ]) 
+-Comment avez -vous vécu l'ensemble de votre parcours médical 
+de transition ? (Très bien/Plutôt bien/Assez mal/Très mal ) 
+-Estimez -vous avoir achevé l'ensemble de votre parcours médical 
+de transition ? (Oui /Non /Je ne sais pas ) 
+
+ 21 
+ 
+Références 
+ 
+Ainsworth, T. A., & Spiegel, J. H. (2010). Quality of life of individuals with and without facial feminization 
+surgery or gender reassignment surgery. Quality of Life Research , 19(7), 1019 -1024. 
+American Psychological Association. (2015). Guidelines for psychological practice with transgender and 
+gender nonconforming people. American Psychologist , 70(9), 832 -864. 
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (DSM -
+5®). American Psychiatric Pub. 
+Austin, A., & Craig, S. L. (2015). Transgender affirmative cognitive behavioral therapy: Clinical 
+considerations and applications. Professional Psychology: Research and Practice , 46(1), 21. 
+Bauer, G. R., Braimoh, J., Scheim, A. I., & Dharma, C. (2017). Transgender -inclusive measures of 
+sex/gender for population surveys: Mixed -methods evaluation and recommendations. PloS 
+one, 12(5), e0178043 
+Bauer, G., & Scheim, A. (2016). Transg ender people in Ontario, Canada : Statistics from the Trans 
+PULSE Project to inform human rights policy. University of Western Ontario. 
+Beemyn, G & Rankin, S. ( 2011). The lives of transgender people . New York, États -Unis: Columbia 
+University Press. 
+Benjamin, H. (1966). The transsexual phenomenon . New York : Julian Press. 
+Bujon, T., & Dourlens, C. (2012). Entre médicalisation et dépathologisation : la trajectoire incertaine de la 
+question trans. Sciences sociales et santé, 30 (3), 33 -58. 
+Coleman, E., Bockting, W., Botzer, M., Cohen -Kettenis, P., DeCuypere, G., Feldman, J., ... Zucker, K. 
+(2012). Standards of Care for the Health of Transsexual, Transgender, and Gender -
+Nonconforming People, Version 7. International Journal of Transgenderism, 13( 4), 165 -232. 
+Colizzi, M., Costa, R., & Todarello, O. (2014). Transsexual patients’ psychiatric comorbidity and positive 
+effect of cross -sex hormonal treatment on mental health: results from a longitudinal 
+study. Psychoneuroendocrinology , 39, 65-73. 
+Colton Meier, S. L., Fitzgerald, K. M., Pardo, S. T., & Babcock, J. (2011). The effects of hormonal gender 
+affirmation treatment on mental health in female -to-male transsexuals. Journal of Gay & Lesbian 
+Mental Health , 15(3), 281 -299. 
+Directeur de l'état civil (2018). Changement de la mention du sexe. Repéré à 
+http://www.etatcivil.gouv.qc.ca/fr/changement -sexe.html 
+Dubuc, D. (2017). LGBTQI2SNBA+ : Les mots de la diversité liée au sexe, au genre et à l'orientation 
+sexuelle. 
+Enriquez, M. (2013). Un mouvement trans au Québec ? : Dynamiques d'une militance émergente. 
+(Maîtrise) Université du Québec à Montréal, Montréal. 
+Eurostat. (2018). Your key to european statistics : Unemployment by sex and age - monthly average . 
+Repéré à https://ec.europa.eu/eurostat/en/web/products -datasets/ -/UNE_RT_M 
+ 22 
+Giami, A., & Beaubatie, E. (2014). Gender identification and sex reassignment surgery in the trans 
+population: a survey study in France. Archives of Sexual Behavior , 43(8), 1491 -1501. 
+Giami, A., Beaubatie, E., & Le Bail, J. (2011). Caractéristiques sociodémographiques, identifications de 
+genre, parcours de transition médicopsychologiques et VIH/sida dans la population trans. Premiers 
+résultats d’une enquête menée en France en 2010. Bull Epidemiol Hebd , 42, 433 -437. 
+Grant, J. M., Mottet, L. A., Tanis, J., Herman, J. L., Harrison, J., & Keisling, M. (2010). National 
+transgender discrimination survey report on health and health care. Washington, DC: National 
+Center for Transgender Equality and the National Gay and Lesbian Task Force . 
+Hammabergh, T. (2009). Droits de l’homme et identité de genre. Document thématique, Commissaire aux 
+droits de l’Homme , Conseil de l’Europe . 
+Hill, D.B. (2002). Genderism, transphobia and gend er bashing: A framework for interpreting anti -
+transgender violence. Dans B. Wallace et R. Carter (dir.), Understanding and dealing with violence: 
+A multicultural approach (pp. 113 -136). Thousand Oaks, California: SAGE. 
+Hirschfeld, M. (1991). Transvestites: The erotic drive to cross dress (M. -A. Lombardi -Nash, Trans.). 
+Buffalo, New York: Prometheus Books (livre original publié en 1910). 
+Labuski, C. & Keo -Meier, C. (2015). The (mis)measure of trans. Transgender Studies Quaterly, 2 (1), 13 -
+33. 
+Lawrence, A. A. (2003). Factors associated with satisfaction or regret following maleto -female sex 
+reassignment surgery. Archives of Sexual Behavior, 32 (4), 299 –315. 
+Lev, A. I. (2013). Gender dysphoria: Two steps forward, one step back. Clinical Social Work 
+Journal , 41(3), 288 -296. 
+Loi n° 2016 -1547 du 18 novembre 2016 de modernisation de la justice du XX Ie siècle. Repéré à 
+https://www.legifrance.gouv.fr/ 
+James, S. E., Herman, J. L., Rankin, S., Keisling, M., Mottet, L., & Ana, M. (2016). The Report of the 2015 
+U.S. Transgender Survey. Washington, DC: National Center for Transgender Equality. 
+MacFarlane, D. (2015). Literature review to support health service planning for transgender people. 
+Canadian Professional Association for Transgender Health . 
+Marshal, M. P., Dietz, L. J., Friedman, M. S., Stall, R., Smith, H. A., McGinley, J., . . . Brent, D. A. (2011). 
+Suicidal ity and depression disparities between sexual minority and heterosexual youth: A meta -
+analytic review. Journal of Adolescent Health, 49 , 115 –123. 
+McPhail, D., Rountree -James, M., & Whetter, I. (2016). Addressing gaps in physician knowledge 
+regarding transg ender health and healthcare through medical education. Canadian Medical 
+Education J ournal , 7(2), 70. 
+Ministère de la Justice (201 7). Plan d’action gouvernemental de lut te contre l’homophobie 2011 -2016. 
+Repéré à 
+ 23 
+https://www.justice.gouv.qc.ca/fi leadmin/user_upload/contenu/documents/Fr__francais_/centredoc/
+publications/ministere/plans -
+actions/Plan_action_gouvernemental_lutte_contre_homophobie_transphobie_2017 -2022.pdf 
+Meyer, I. H. (1995). Minority stress and mental health in gay men. Journal of health and social behavior , 
+38-56. 
+Norwood, K. 2012). Transitioning meanings? Family members' communicative struggles surrounding 
+transgender identity. Journal of Family Communication , 12(1), 75 -92. 
+Operario, D., Soma, T., & Underhill, K. (2008). Sex work and HIV status among transgender women: 
+systematic review and meta -analysis. JAIDS Journal of Acquired Immune Deficiency 
+Syndromes , 48(1), 97 -103. 
+Poteat, T., Scheim, A., Xavier, J., Resiner, S., Baral, S. (2016). Global epidemiology of HIV infection and 
+related syndemics affecting transgender people, Journal of Acquired Immune Deficiency 
+Syndromes, 72 (3), 210 -219 
+Reisner, S. L., White Hughto, J. M., Pardee, D., & Sevelius, J. (2016). Syndemics and gender affirmation: 
+HIV sexual risk in female -to-male trans masculine adults reporting sexual contact with cisgender 
+males, International Journal of STF & AIDS, 27 (11), 955 -966. 
+Scruton, S. (2014). Trans Needs Assessment Report . Canadian AIDS Society. 
+Statistique Canada. (2018). Organisme statistique national du Canada : Indicateurs clés. Repéré à 
+https://www150.statcan.gc.ca/n1/dai -quo/ssi/homepage/2/2_2_2_0 -fra.htm?HPA=1 
+Sweileh, W. M. (2018). Bibliometric analysis of peer -reviewed literature in transgender heal th (1900 –
+2017). BMC International Health and Human Rights, 18 (1), 16. 
+Transgender Law Center. (2018 , Février ). National Equality Map. Repéré à 
+https://transgenderlawcenter.org/equalitymap 
+World Health Organization. (2018 , Juin). OCD -11: Classifying disease to map the way we live and die. 
+Récupéré de http://www.who.int/health -topics/international -classification -of-diseases. 
+World Health Organization. (2004). International Statistical Classification of Diseases and Related Health 
+Problems (Vol. 1). World Health Organization. 
+Zeggar, H., et Daham, M. (2011). Évaluation des conditions de prise en charge médicale et sociale des 
+personnes trans et du transsexualisme. IGAS. Repéré à http://www. ladocumentationfrancaise. 
+fr/var/storage/rapports -publics/124000209/0000. pdf . 
+ 
+ 24 
+Références (Pour Alain : division des références selon les territoires) 
+ 
+Canada 
+Austin, A., & Craig, S. L. (2015). Transgender affirmative cognitive behavioral therapy: Clinical 
+considerations and applications. Professional Psychology: Research and Practice , 46(1), 21. 
+Bauer, G. R., Braimoh, J., Scheim, A. I., & Dharma, C. (2017). Transgender -inclusive measures of 
+sex/gender for population surveys: Mixed -methods evaluation and recommendations. PloS 
+one, 12(5), e0178043 
+Bauer, G., & Scheim, A. (2016). Transg ender people in Ontario, Canada : Statistics from the Trans 
+PULSE Project to inform human rights policy. University of Western Ontario. 
+Directeur de l'état civil (2018). Changement de la mention du sexe. Repéré à 
+http://www.etatcivil.gouv.qc.ca/fr/changement -sexe.html 
+Dubuc, D. (2017). LGBTQI2SNBA+ : Les mots de la diversité liée au sexe, au genre et à l'orientation 
+sexuelle. 
+Enriquez, M. (2013). Un mouvement trans au Québec ? : Dynamiques d'une militance émergente. 
+(Maîtrise) Université du Québec à Montréal, Montréal. 
+MacFarlane,D. (2015). Literature review to support health service planning for transgender people. 
+Canadian Professional Association for Transgender Health . 
+McPhail, D., Rountree -James, M., & Whetter, I. (2016). Addressing gaps in physician knowledge 
+regar ding transgender health and healthcare through medical education. Canadian Medical 
+Education Journal , 7(2), 70. 
+Ministère de la Justice (201 7). Plan d’action gouvernemental de lut te contre l’homophobie 2011 -2016. 
+Repéré à 
+https://www.justice.gouv.qc.ca/fileadmin/user_upload/contenu/doc uments/Fr__francais_/centredoc/
+publications/ministere/plans -
+actions/Plan_action_gouvernemental_lutte_contre_homophobie_transphobie_2017 -2022.pdf 
+Scruton, S. (2014). Trans Needs Assessment Report . Canadian AIDS Society. 
+ 
+Statistique Canada. (2018). Organisme statistique national du Canada : Indicateurs clés. Repéré à 
+https://www150.statcan.gc.ca/n1/dai -quo/ssi/homepage/2/2_2_2_0 -fra.htm?HPA=1 
+ 
+États -Unis 
+Ainsworth, T. A., & Spiegel, J. H. (2010). Quality of life of individuals with and without facial feminization 
+surgery or gender reassignment surgery. Quality of Life Research , 19(7), 1019 -1024. 
+Beemyn, G & Rankin, S. (2011). The lives of transgender peopl e. New York, États -Unis: Columbia 
+University Press. 
+Benjamin, H. (1966). The transsexual phenomenon . New York : Julian Press. 
+ 25 
+Colton Meier, S. L., Fitzgerald, K. M., Pardo, S. T., & Babcock, J. (2011). The effects of hormonal gender 
+affirmation treatment on mental health in female -to-male transsexuals. Journal of Gay & Lesbian 
+Mental Health , 15(3), 281 -299. 
+ 
+Grant, J. M., Mottet, L. A., Tanis, J., Herman, J. L., Harrison, J., & Keisling, M. (2010). National 
+transgender discrimination survey report on health and health care. Washington, DC: National 
+Center for Transgender Equality and the National Gay and Lesbi an Task Force . 
+Hill, D.B. (2002). Genderism, transphobia and gender bashing: A framework for interpreting anti -
+transgender violence. Dans B. Wallace et R. Carter (dir.), Understanding and dealing with violence: 
+A multicultural approach (pp. 113 -136). Thousand Oaks, California: SAGE. 
+Hirschfeld, M. (1991). Transvestites: The erotic drive to cross dress (M. -A. Lombardi -Nash, Trans.). 
+Buffalo, New York: Prometheus Books (livre original publié en 1910). 
+James, S. E., Herman, J. L., Rankin , S., Keisling, M., Mottet, L., & Ana, M. (2016). The Report of the 2015 
+U.S. Transgender Survey. Washington, DC: National Center for Transgender Equality. 
+Labuski, C. & Keo -Meier, C. (2015). The (mis)measure of trans. Transgender Studies Quaterly, 2 (1), 13-
+33. 
+Lawrence, A. A. (2003). Factors associated with satisfaction or regret following maleto -female sex 
+reassignment surgery. Archives of Sexual Behavior, 32 (4), 299 –315. 
+Lev, A. I. (2013). Gender dysphoria: Two steps forward, one step back. Clinical S ocial Work 
+Journal , 41(3), 288 -296. 
+Marshal, M. P., Dietz, L. J., Friedman, M. S., Stall, R., Smith, H. A., McGinley, J., . . . Brent, D. A. (2011). 
+Suicidality and depression disparities between sexual minority and heterosexual youth: A meta -
+analytic review. Journal of Adolescent Health, 49 , 115 –123. 
+Meyer, I. H. (1995). Minority stress and mental health in gay men. Journal of health and social behavior , 
+38-56. 
+Norwood, K. 2012). Transitioning meanings? Family members' communicative struggles surrounding 
+transgender identity. Journal of Fami ly Communication , 12(1), 75 -92. 
+Reisner, S. L., White Hughto, J. M., Pardee, D., & Sevelius, J. (2016). Syndemics and gender affirmation: 
+HIV sexual risk in female -to-male trans masculine adults reporting sexual contact with cisgender 
+males, International Journal of STF & AIDS, 27 (11), 955 -966. 
+Transgender Law Center. (2018, Février). National Equality Map. Repéré à 
+https://transgenderlawcenter.org/equalitymap 
+ 
+France 
+Bujon, T., & Dourlens, C. (2012). Entre médicalisation et dépathologis ation : la trajectoire incertaine de la 
+question trans. Sciences sociales et santé, 30 (3), 33 -58. 
+ 26 
+Eurostat. (2018). Your key to european statistics : Unemployment by sex and age - monthly average. 
+Repéré à https://ec.europa.eu/eurostat/en/web/products -datasets/ -/UNE_RT_M 
+Giami, A., & Beaubatie, E. (2014). Gender identification and sex reassignment surgery in the trans 
+population: a survey study in France. Archives of Sexual Behavior , 43(8), 1491 -1501. 
+Giami, A., Beaubatie, E., & Le Bail, J. (2011). Caractéristiques sociodémographiques, identifications de 
+genre, parcours de transition médicopsychologiques et VIH/sida dans la population trans. Premiers 
+résultats d’une enquête menée en France en 2010. Bull Epidemiol Hebd , 42, 433 -437. 
+Hammabergh, T. (2009). Droits de l’homme et identité de genre. Document thématique, Commissaire aux 
+droits de l’Homme , Conseil de l’Europe . 
+Loi n° 2016 -1547 du 18 novembre 2016 de modernisation de la justice du XX Ie siècle. Repéré à 
+https://www.legifrance.gouv.fr/ 
+Zeggar, H., et Daham, M. (2011). Évaluation des conditions de prise en charge médicale et sociale des 
+personnes trans et du transsexualisme. IGAS. R epéré à http://www. ladocumentationfrancaise. 
+fr/var/storage/rapports -publics/124000209/0000. pdf . 
+ 
+Internationale 
+Coleman, E., Bockting, W., Botzer, M., Cohen -Kettenis, P., DeCuypere, G., Feldman, J., ... Zucker, K. 
+(2012). Standards of Care for the Health of Transsexual, Transgender, and Gender -
+Nonconforming People, Version 7. International Journal of Transgenderis m, 13( 4), 165 -232. 
+Operario, D., Soma, T., & Underhill, K. (2008). Sex work and HIV status among transgender women: 
+systematic review and meta -analysis. JAIDS Journal of Acquired Immune Deficiency 
+Syndromes , 48(1), 97 -103. 
+World Health Organization. (2018, Juin). OCD -11: Classifying disease to map the way we live and die. 
+Récupéré de http://www.who.int/health -topics/international -classification -of-diseases. 
+World Health Organization. (2004). International Statistical Classification of Diseases and Related Health 
+Problems (Vol. 1). World Health Organization.

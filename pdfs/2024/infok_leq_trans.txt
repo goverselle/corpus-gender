@@ -1,0 +1,1335 @@
+Le Q trans 
+Genre, transitude et sexualité 
+
+Mai 2024 
+ TABLES DES MATIÈRES 
+ 
+INTRODUCTION ........................................................................................ 1 
+Le français est à nous ! ............................................................................ 1 
+Approches queers et matérialismes trans ................................................. 2 
+PREMIÈRE PARTIE : Genre et (homo)sexualité ............................................. 6 
+Homosexualité et essentialisme .............................................................. 6 
+La construction sociale de la sexualité ...................................................... 9 
+La sexualité comme expérience : les pratiques sexuelles .......................... 9 
+La sexualité comme identité : l'invention de la dichotomie 
+homosexualité/hétérosexualité. .......................................................... 11 
+La sexualité comme institution : le régime politique du genre et de la 
+sexualité ........................................................................................... 13 
+L'homosexualité dans le système de genre ............................................. 15 
+De l'inversion de genre à l'homosexualité ............................................. 15 
+Les lesbiennes ne sont pas des femmes….............................................. 16 
+…donc les pédés ne sont pas des hommes ? .......................................... 17 
+DEUXIÈME PARTIE : Transition, genre et sexualité ..................................... 19 
+La construction hétéro de la transsexualité ............................................ 19 
+La sexualité des personnes trans ........................................................... 20 
+Analyse d'entretiens avec des personnes trans ....................................... 25 
+Le rôle de la sexualité dans la transition ............................................... 26 
+L'évolution des attirances et pratiques sexuelles ................................... 29 
+Les entretiens dans le cadre théorique ................................................. 32 
+CONCLUSION .......................................................................................... 34 
+CITATIONS .............................................................................................. 35 
+(RES)SOURCES ........................................................................................ 35 
+ 
+1 INTRODUCTION 
+ 
+Salut!  
+ 
+Bienvenue dans ce fanzine qui parle des liens entre genre et sexualité, dans une 
+perspective transmatérialiste. Le texte est tiré d’un travail de bachelor en sociologie de 
+l’unx d’entre nous, dont on a adapté le format. On a essayé de le rendre moins 
+universitaire et plus fun à la lecture, sans perdre la matière qu’on trouvait intéressante. 
+ 
+Le texte est séparé en deux grandes parties: 
+1. Genre et (homo)sexualité 
+2. Transition, genre et sexualité 
+ 
+Dans la première partie, on explique en quoi le genre et la sexualité sont 
+intrinsèquement liées et dans la deuxième on applique ce constat à la sexualité des 
+personnes trans. 
+ 
+Si jamais, on a mis toutes les références et pages des citations à la fin du fanzine (dans 
+la partie « citations »). On s’est dit que ça alourdissait la lecture de citer les auteurices 
+à chaque fois qu’on mettait des guillemets mais on voulait laisser la possibilité d’aller 
+checker les textes originaux. 
+ 
+Ce fanzine fait bien assez de pages donc on va pas s’éterniser, mais si vous avez des 
+retours, des questions, des critiques, etc, hésitez pas à nous écrire à 
+ckoilesbaux@proton.me!  
+Bonne lecture!  
+ 
+Le français est à nous !  
+ 
+Dans une perspective matérialiste, on peut questionner certains termes utilisés pour 
+parler des personnes trans et plus largement des personnes LGBTIQ+. On utilise le 
+terme de cissexisme plutôt que celui de transphobie car il visibilise l'existence d'un 
+système social d'exclusion des personnes trans. Le terme de transphobie renvoie à une 
+peur irrationnelle et individuelle à cause du suffixe "phobie" alors que le terme de 
+cissexisme montre que c’est une oppression systémique. Par la même logique, on 
+utilise hétérosexisme plutôt qu'homophobie ou lesbophobie. Pour finir, le terme de 
+transidentité sera remplacé par celui de transitude (transness) – "le fait d'être trans" – 
+pour éviter de concentrer l'étude des personnes trans sur leur identité individuelle et 
+2 pour plutôt l'orienter sur leurs conditions matérielles d'existence1. Les termes de 
+transidentités et de transsexualité seront utilisés lorsque cela est cohérent avec le 
+contexte dont on parle. 
+
+Approches queers et matérialismes trans 
+ 
+Les études trans ont émergé dans un premier temps en lien avec le développement 
+des approches queers. Les personnes les plus connues sont Judith Butler, et plus 
+récemment Sam Bourcier et Paul B. Preciado. Les théories queer ont pour but de 
+dénaturaliser les normes de genre. Pour faire ça, elles mettent par exemple en avant 
+les personnes trans comme "démontrant" la construction sociale de la différence des 
+sexes. Dans les théories queers, les trans sont donc souvent vu.e.x.s comme 
+subvertissant le genre par leur transition. Ces textes sont toutefois critiqués par des 
+autrices matérialistes (comme Viviane Namaste, Julia Serano ou Pauline Clochec) car 
+ils se focalisent théoriquement sur la subversion de genre et ne s’intéressent pas 
+sociologiquement aux conditions matérielles d’existence des personnes trans2. 
+
+Prendre en compte les conditions matérielles d’existence des personnes trans est essentiel aux études 
+sur la transitude 
+ 
+1 Quand on parle de conditions matérielles d’existence, on désigne les aspects concrets de la vie des 
+personnes : l’accès au logement, le salaire, les possibilités d’être en sécurité dans sa famille, etc. Les systèmes 
+de domination ont des conséquences sur les conditions matérielles d’existence, augmentant autre autres les 
+risques de précarité. Par exemple, pour les personnes trans, une mauvaise prise en charge médicale, les rejets 
+fréquents de la famille, un moins bon accès au travail / cissexisme au travail.  
+2 Pour plus de critiques matérialistes des théories queers, voir les livres de/coordonnés par Pauline Clochec 
+“Matérialismes trans” ou “Après l’identité”.  
+
+3 Le féminisme matérialiste est souvent décrit comme opposé au féminisme queer .  Le 
+féminisme matérialiste découle des théories marxistes, tout en s'en distanciant, et 
+peut se définir par trois bases théoriques principales :    
+  
+1) Tout d'abord, la thèse antinaturaliste du sexe : le sexe n’est pas la base biologique 
+inchangeable sur laquelle se construit le genre. C’est le genre (système social 
+hiérarchique) qui construit la division homme/femme et qui la naturalise.   
+  
+2) La deuxième base reprend la division marxiste des classes sociales en la 
+transposant au genre. Les hommes et les femmes sont analysées comme des "classes 
+de sexe" pour "rendre compte de l'oppression des femmes à partir de leur position 
+dans les rapports de production". Cela donne une grande place à l'analyse du travail 
+ménager gratuit des femmes au sein du foyer, considéré par ces féministes comme la 
+base de l'exploitation des femmes par les hommes – comme les patrons exploitent les 
+ouvriers à l'usine.    
+  
+3) Pour finir, les féministes matérialistes sont résolument révolutionnaires et visent 
+l'abolition du capitalisme en y ajoutant l'abolition du genre, les deux systèmes étant 
+intrinsèquement liés.   
+
+Schéma qui montre la reproduction des ouvriers par les femmes : elles les soignent, les consolent, les 
+nourrissent, baisent avec eux (et leur font des enfants qui seront les prochainexs travailleureuses) et 
+font le travail ménager nécessaire pour qu’ils puissent retourner à l’usine. 
+Affiche réalisée par le See Red Women’s Workshop, un collectif féministe anglais de sérigraphie dans 
+les années 70  
+
+4 Depuis les années 2000, des militant.e.x.s et théoricien.ne.x.s trans, ont commencé à 
+appliquer des concepts matérialistes aux réalités trans, mais il a fallu attendre les 
+années 2010 pour voir l'émergence d'un réel mouvement de théorisation 
+transmatérialiste.   
+  
+L'approche transmatérialiste est basée sur plusieurs axes (dont les deux premiers sont 
+les mêmes que le féminisme matérialiste), décrits par Pauline Clochec :  
+ 
+ 1) L’approche antinaturaliste, c’est­à­dire l’idée que le genre et le sexe sont des 
+systèmes :   
+­ hiérarchisants : la classe des hommes est au­dessus de la classe des femmes 
+­ construits socialement : biologiquement il n’y a pas deux sexes mais plein de 
+caractéristiques (chromosomes, taux d’hormones, organes génitaux, gonades) qu’on 
+force à rentrer dans deux boites. 
+­ naturalisés : on prétend que ces catégories viennent de la nature et ça les rend 
+légitime.  
+L’approche antinaturaliste s’oppose au féminisme différentialiste qui pense les 
+hommes et les femmes comme deux catégories naturellement différentes mais qui 
+devraient être égales.    
+  
+2) Le projet révolutionnaire, anticapitaliste et antipatriarcal ; visant l'abolition du 
+genre plutôt non sa prolifération prônée par certaines approches queers.   
+Vouloir la prolifération du genre, c’est penser que le but après le patriarcat c’est que 
+tout le monde ait son genre individuel qui lui convient et puisse l’exprimer librement. 
+L’approche transmatérialiste voit pas le genre comme une donnée individuelle qu’il 
+faut multiplier mais plutôt comme un système de domination qu’il faut combattre. 
+  
+3) La spécificité du transmatérialisme est l’étude de la transitude par les conditions de 
+vie des personnes trans. Dans les conditions de vie, il y a les aspects relationnels, 
+juridiques et corporels. Exemples : perte de liens familiaux ou amicaux pendant la 
+transition, possibilité de changement du sexe à l’état civil, accès aux 
+hormones/chirurgies voulues. 
+De plus, la transitude est analysée "selon une conceptualisation du genre au singulier, 
+comme système social, et non des genres au pluriel qui seraient individuels". Le 
+matérialisme trans étudie donc comment le genre impacte les transitions, plutôt que 
+la manière dont la transitude subvertit (= remet en question) ou non le genre. Par 
+exemple, on veut savoir comment le sexisme influence la transition des femmes trans, 
+et pas si le fait qu’elles transitionnent est une attaque pour le système de genre.  
+  
+Une vision marxiste des réalités trans commence aussi à émerger (voir le livre collectif 
+Transgender Marxism). Son but est d'étudier l'oppression des personnes trans par le 
+capitalisme plutôt que de se concentrer sur l'oppression cissexiste, comme le font les 
+transmatérialistes.    
+ 
+5  
+
+Aime les meufs trans, déteste le capitalisme 
+
+6 PREMIÈRE PARTIE 
+Genre et (homo)sexualité 
+  
+Homosexualité et essentialisme 
+ 
+Les discours militants sont parfois accusés de perpétuer une conception essentialisante 
+et figée des identités sexuelles et de genre. En effet, ils ont réussi à faire avancer 
+l'acceptation des sexualités non­hétéros grâce à un discours qui considère ces 
+dernières comme des sexualités différentes de l'hétérosexualité, mais pas inférieures. 
+Ça véhicule une vision essentialisée de la sexualité, comme si elle était détachée de 
+tout contexte.   
+  
+Les mouvements LGBTIQ+ ont connu, pendant les 20ème et 21ème siècles, deux vagues 
+d'essentialisme, séparées par une période allant des années 1970 aux années 1990. 
+Ces vagues sont schématiques, dans la réalité c’est moins clairement séparé.    
+  
+Première vague d’essentialisme : les premier.ères activistes homosexuel.les ont, dès le 
+milieu du 20ème siècle, dit que l’homosexualité était innée et immuable. Iels disaient 
+même parfois que c’était une maladie incurable. Comme ça, toute discrimination 
+paraissait immorale : on ne peut pas moralement réprimer un sentiment ou des désirs 
+qui ne sont pas choisis mais subis.    
+  
+Entre les deux vagues : les années 1970 voient émerger des mouvements homosexuels 
+plus contestataires. Ces mouvements voient la sexualité comme floue et changeante. 
+Le slogan du groupe étasunien Lesbian Avengers : We recruit ! est un bon exemple. Ces 
+lesbiennes retournent à leur avantage l'idée hétérosexiste de contagiosité de 
+l'homosexualité. Leur slogan nie la théorie de l'intériorité innée de l'homosexualité et 
+visibilise les identités sexuelles comme évolutives car forgées par le contexte et les 
+interactions.  
+
+Plus actuel, mais tout autant cool et anti­essentialiste !  Affiche des Lesbian Avengers avec 
+leur super slogan anti­essentialiste 
+7 Deuxième vague d’essentialisme : la crise du VIH/sida refait un lien entre 
+homosexualité et maladie. Le sida était appelé « cancer gay ». Les discours médicaux 
+et politiques ont promu l'idée selon laquelle les gays seraient, par leurs pratiques 
+"déviantes", porteurs de maladies. Ça a eu comme effet de réactualiser 
+l'homosexualité comme une essence. L’idée qu’il y a des gens qui sont hétéro et des 
+gens qui ne le sont pas et que c’est comme ça est restée. Depuis, le mouvement 
+LGBTIQ+ mainstream et réformiste milite pour des droits juridiques, comme l'égalité 
+avec les (couples) hétéros3, et non plus pour la remise en question de ces catégories.   
+  
+Les mouvements LGBTIQ+ reprennent une rhétorique essentialisante : les personnes 
+LGBTIQ+ sont nées comme cela, et ne peuvent rien faire pour le changer. Cette position 
+a comme but de contrer les théories et discours hétérosexistes de contagion et 
+d'anormalité. On observe cet essentialisme dans le slogan Born this Way, titre de l'une 
+des musiques les plus connues de Lady Gaga, devenu un hymne LGBTIQ+4.  
+
+Extrait du clip très flippant (mais iconique) « Born This Way » de Lady Gaga  
+ 
+Les discours actuels sur l'homosexualité sont largement ancrés dans ce discours 
+essentialisant. Le livre Gustave Roud. L'univers pluriel de la poésie, consacré à ce poète 
+vaudois du milieu du 20ème siècle, est un bon exemple. Pour introduire l'homosexualité 
+du poète, les auteurices écrivent :    
+"Alors qu'il découvre tôt son orientation homosexuelle, il l'accepte 
+comme une « raison de vivre » qui justifie sa vocation de poète, mais 
+il a fait le choix de ne pas la vivre et de garder à son sujet une stricte 
+discrétion"   
+L'homosexualité est présentée ici comme une réalité intrinsèque à une personne, 
+innée et immuable. L'orientation sexuelle existerait en tant que telle, on ne peut donc 
+ 
+3 Pour une critique des politiques visant l’égalité des droits, voir le livre Contre la normalisation gay d’Alain Naze 
+ou Homo inc.orporated de Sam Bourcier. 
+4 Pour plus informations voir l’article “Born This Way, Thinking sociologically about essentialism” de Kristen Schilt. 
+
+8 que la découvrir et choisir de la vivre ou pas5. On voit donc que les discours autour de 
+la sexualité produisent une vision de l'orientation sexuelle comme réalité ne 
+dépendant pas de pratiques mais d'une disposition intérieure.    
+  
+La "prolifération des catégories de l'identité sexuelle"6, observée surtout sur internet 
+ces dernières années est un bon exemple d’essentialisme. Cette prolifération est une 
+forme d’essentialisme car elle détache l'identité de tout contexte et normes sociales 
+et politiques pour en faire un objet psychologique, de connaissance de soi. L'identité 
+sexuelle serait une réalité "close", "pas reliée au monde social, mais uniquement aux 
+vécus des individus". Ce système d'identité sexuelle peut être comparé à la production 
+des consommateurs par le capitalisme dans lequel "chaque acteur individuel se 
+retrouve responsable et entrepreneur de sa propre identité […]".  
+  
+L'identité sexuelle est donc conceptualisée comme déconnectée des pratiques. On 
+peut se dire homosexuel sans avoir eu des relations sexuelles avec une personne du 
+même genre ou avoir des relations sexuelles avec une personne du même genre sans 
+se dire homosexuel. Cela peut nous paraitre évident aujourd'hui, mais cette 
+perspective est basée sur une vision de la sexualité ancrée historiquement et 
+culturellement. Catherine Deschamps explicite cela comme étant le passage "d’une 
+sexualité préalablement pensée dans le « faire » à une sexualité pensée dans 
+« l’être »". La sexualité telle qu'on la conçoit est une construction sociale récente. Les 
+sciences sociales montrent que, contrairement à l'idée d'une orientation sexuelle 
+figée, innée et intérieure, l'identité, les désirs et les pratiques sexuelles évoluent 
+pendant la vie.    
+
+Vous avez capté, encore un exemple de blague qui défonce l’imaginaire du « Born This Way »  
+ 
+5 On peut voir les mêmes discours essentialisants sur le genre, comme le terme d'"expression de genre" qui 
+implique "un genre intérieur, essentiel, préexistant, psychologique qui serait exprimé" (Waites, 2016, p.15) ou 
+sur la transitude, avec des tournures comme "X est né.e.x dans le mauvais corps", discours fortement critiqués 
+par certain.e.x.s militant.e.x.s trans. 
+6 titre d'un article de Noémie Marignier 
+
+9 La construction sociale de la sexualité  
+ 
+La sexualité est construite socialement et historiquement. On peut la définir de trois 
+manières, qui se recoupent et s’influencent.   
+ 
+1) la sexualité comme expérience, c’est­à­dire l’ensemble des 
+pratiques sexuelles. Par exemple le sexe anal, oral, le fisting, etc.  
+2) les identités sociale et politique associées à l’hétérosexualité. En 
+gros, l’orientation sexuelle.   
+3) la sexualité comme institution qui met en place la hiérarchie des 
+sexes et des sexualités. En gros, c’est un système social qui dicte les 
+normes à suivre en termes de pratiques sexuelles et de genre. 
+On va développer chacun de ces points.  
+  
+La sexualité comme expérience : les pratiques sexuelles 
+ 
+Les recherches sur la sexualité montrent que les pratiques ne sont pas en soi sexuelles 
+ou non, mais que leur (non­)sexualisation est ancrée dans un contexte, une époque et 
+une culture précise. Le concept de script de la sexualité met en avant la sexualité en 
+tant qu'activité sociale, qui implique des représentations et des rôles appris 
+socialement – par exemple selon le genre – et qui évoluent.    
+   
+Un doigt inséré dans un vagin ou dans un anus prend des significations très différentes 
+selon son contexte – par exemple médical ou intime. L'action de base est la même, 
+mais on les pense comme complètement différentes. On ne les décrit d'ailleurs pas de 
+la même façon : une médecin fait un toucher vaginal ou rectal, des partenaires 
+sexuel.le.x.s se doigtent.   
+  
+Les représentations attachées aux pratiques évoluent aussi selon l'époque. Le sexe oral 
+a par exemple été fortement normalisé : d'une pratique sexuelle considérée comme 
+déviante, il est maintenant largement accepté, considéré comme une pratique 
+ordinaire. On peut donner un exemple de pop culture pour illustrer une autre évolution 
+historique de la (non­)sexualisation : celle des parties du corps. Dans Les Visiteurs une 
+scène montre un homme excité par les genoux d’une femme.    
+
+ « Oh mon Dieu, comme ils sont beaux !!! »  
+
+10 Pour un autre exemple, en 1856, sort un roman : Les Filles de plâtre, écrit par Xavier de 
+Montépin. Dans ce livre, l’auteur décrit une femme de manière très sexualisante en 
+s'arrêtant sur ses "chevilles les plus provoquantes".    
+  
+Ces réactions et descriptions, qui peuvent nous paraître aujourd'hui absurdes et 
+exagérées, montrent l'évolution des normes d'habillement qui ont désexualisé cette 
+partie du corps.    
+  
+Les pratiques sexuelles ne sont donc pas essentiellement considérées comme 
+sexuelles – ou homo/hétérosexuelles. Elles évoluent selon des critères comme le 
+contexte, l'époque et la culture et changent de degré de sexualisation et/ou de 
+normalisation.   
+ 
+Ce que la sociologie et l'histoire de la sexualité nous montrent aussi, c'est que la 
+dimension de domination dans la sexualité n'est pas ancrée dans l'hétérosexualité 
+mais dans la sexualité elle­même. En effet, les relations sexuelles – mais aussi souvent 
+les relations tout court – se sont longtemps basées sur l'appropriation d'un corps par 
+un autre. La sexualité n'était pas "une interaction égalitaire, mais une « action 
+sur »".L'émergence d'une sexualité "égalitaire" date seulement de la fin du 20ème siècle, 
+si récemment que l'idée d'une domination intrinsèque des pratiques sexuelles est 
+toujours très présente. Se faire pénétrer est vu comme "passif", "et donc féminin", 
+alors que pénétrer est vu comme "masculin et donc actif". Cette séparation ne vient 
+pas de l'essence des pratiques, mais bien du système de genre qui pose une 
+domination sur des pratiques qui sont en soi vides de sens. Certaines pratiques sont 
+pensées comme féminines, donc inférieures et stigmatisées, alors que d'autres, codées 
+comme masculines, sont valorisées socialement. Cette hiérarchisation des pratiques se 
+co­construit avec une valorisation différentielle et genrée de l'activité sexuelle : les 
+femmes sont bien plus stigmatisées pour le sexe qu'elles pratiquent.   
+  
+Cette domination n’est pas que chez les hétéros. Les pratiques sexuelles pas hétéro se 
+basent aussi souvent sur une dichotomie qui est parfois considérée comme 
+reproduisant des catégories hétéro passif/actif comme bottom/top ou fem/butch.   
+ 
+On pourrait faire un autre fanzine sur les femmes hétéro qui sont des icones lesbiennes ou 
+des hommes gays qui sont des sujets de désir hétéro, mais c’est pas le sujet !!! 
+
+11 
+
+“Oh don’t !” 
+Extrait d’un épisode de la série « Pose » où Bianca, une femme trans qui fait office de figure 
+maternelle pour Damon, un jeune homme gay, lui explique comment fonctionne le sexe entre deux 
+hommes. 
+ 
+La sexualité comme identité : l'invention de la dichotomie 
+homosexualité/hétérosexualité.  
+ 
+Le livre de George Chauncey Gay New­York montre l'arrivée récente des catégories 
+hétérosexuel et homosexuel7, définies comme des entités opposées et faisant partie 
+de l'identité des individus. C’est sur ce livre que se base cette partie et dont sont tirées 
+les citations (plutôt son intro, on a eu la flemme de tout lire). Il montre que dans la 
+culture occidentale contemporaine, on pense "que la sexualité d'un individu est définie 
+fondamentalement par son homosexualité ou par son hétérosexualité". Cette vision 
+est récente, pendant longtemps, les actes sexuels entre hommes ne les assignent pas 
+forcément à une catégorie déviante – la figure de l'homosexuel.  
+
+7 L'auteur explore surtout les homosexualités masculines, cette partie sera donc genrée au masculin. 
+“As a gay man, you have options when it comes 
+to sex, you can be a top or a bottom.” “What if I’m a bottom and I fall for another bottom?” 
+12 En effet, avant le milieu du 20ème siècle, les pédés (queers) n'étaient nommés comme 
+tels que s'ils affichaient une féminité très marquée. "L'anormalité de la « tante » 
+(« fairy »)" provenait autant de sa recherche de partenaires sexuels masculins que de 
+sa propre féminité. Les hommes qui ne faisaient qu'accepter les avances des "tantes", 
+et qui prenaient des rôles sexuels considérés comme masculins, n'étaient donc pas 
+considérés comme anormaux, parce qu’ils respectaient les normes de la masculinité. 
+On les appelait les « trades », étiquette qui n’était pas vue comme déviante. Des 
+années 1890 aux années 1930, ce qui était considéré comme déviant n’était pas les 
+pratiques sexuelles entre hommes mais bien "l'inversion de genre" (le fait qu’un 
+homme soit féminin).  
+ 
+À cette époque, ceux que l'on regroupe aujourd'hui sous l'étiquette "homosexuels" 
+étaient stratifiés en groupes distincts, par exemple les fairies (tantes) "qui s'habillaient 
+ou se comportaient d'une manière […] outrancièrement efféminée" ou les trades, les 
+plus masculins, qui constituaient l'idéal du partenaire dans la subculture gay. Cette 
+hiérarchisation des gays trouve des échos dans notre contexte contemporain, 
+cristallisée dans ce que certaine.x.s appellent la follophobie8. 
+  
+Dès le milieu du 20ème siècle, "un nouveau système dichotomique de classification, 
+fondé désormais sur le choix d'objet sexuel plutôt que sur le statut de genre (gender 
+status), avait commencé à supplanter l'ancien". Les trades disparurent en tant que 
+catégorie : tout homme ayant des relations sexuelles avec des hommes (ci­après HSH) 
+risque désormais d'être considéré comme gay, et donc comme anormal. On voit bien 
+ce changement dans le témoignage d'un barman gay regrettant le fait qu'il était 
+devenu difficile "de se faire des hétéros" dans un contexte où tout homme qui couche 
+avec lui se ferait étiqueter comme déviant, même en étant très masculin.  
+ 
+Il y a moins d'un siècle, on est donc passé d'une sexualité définie par le rôle de genre 
+(actif/passif) à une sexualité définie par le genre des personnes que l'on désire 
+(hétéro/homo). Autrement dit, alors qu'elle était définie par le statut (de genre) 
+différent des partenaires, la sexualité occidentale actuelle est caractérisée par le statut 
+similaire des partenaires.  
+Avant, deux hommes qui couchaient ensemble étaient considérés comme ayant des 
+inclinaisons différentes et complémentaires : l’un était féminin/passif et l’autre était 
+masculin/actif.  
+Maintenant deux hommes qui couchent ensemble sont considérés comme ayant la 
+même inclinaison : ils aiment les hommes, ils sont les deux GAY.  
+  
+La sexualité définie par des inclinaisons différentes est pourtant toujours ancrée dans 
+la réalité de la sexualité ; les discours et représentations autour des positions sexuelles 
+ 
+8 Sans s'étaler sur le sujet, cette notion est critiquable d'un point de vue matérialiste, par le suffixe ­phobie qui 
+individualise les stigmatisations sociales, mais aussi par le fait que ce néologisme crée la discrimination comme 
+à part, alors que l'on pourrait, sans nier son existence, expliquer la "follophobie" comme découlant du 
+cishétérosexisme. 
+13 reprennent largement cette dichotomisation. On peut prendre l'exemple de 
+l'application grindr9 sur laquelle une des premières questions échangées porte souvent 
+sur la position sexuelle – "actif/passif ?". Ça redéfinit la compatibilité sexuelle selon un 
+critère d'inclinaisons opposées et complémentaires, reprenant largement des rôles 
+genrés.   
+
+On peut parler d’une invention de "l'orientation sexuelle". Cette notion d’orientation 
+sexuelle repose sur l'opposition hétérosexualité/ homosexualité, à laquelle les termes 
+de bi­ ou de pansexualité sont parfois ajoutés. Cette conception fait émerger une 
+obligation de se définir selon ces termes. C’est pas possible de ne pas avoir 
+d'orientation sexuelle, raison pour laquelle Sébastien Chauvin et Arnaud Lerch parlent 
+de "régime de l'orientation sexuelle".   
+  
+La sexualité comme institution : le régime politique du genre et de la sexualité  
+ 
+On l'a vu, l'hétérosexualité comme penchant personnel, comme orientation sexuelle 
+intrinsèque à une personne et détachée de toute norme est largement réfutée par 
+l'histoire et la sociologie de la sexualité. Dans les théories féministes "émerge ainsi 
+l’idée selon laquelle l’hétérosexualité, loin d’être (seulement) l’expression d’un désir 
+personnel, est (aussi) un système politique contre lequel le féminisme doit lutter".  
+  
+Paula Tabet, anthropologue et féministe matérialiste italienne, a par exemple lié 
+système de genre et sexualité dans son livre La grande arnaque. Elle montre que la 
+sexualité dans les relations hétéros n'est pas construite sur un échange égalitaire sexe 
+contre sexe mais sur un échange inégalitaire sexe contre rétribution. Elle compare deux 
+ 
+9 Application de rencontre destinées aux HSH, principalement à but sexuel. 
+Discussions Grindr qui illustrent bien les dynamiques top­bottom 
+14 situations, le mariage et le travail du sexe – souvent pensées comme opposées – pour 
+montrer qu’elles suivent la même logique. Le mariage comme le travail du sexe 
+s’inscrivent dans le "continuum de l'échange économico­sexuel".  
+ 
+Dans le cadre du travail du sexe, l'échange économico­sexuel est explicite : un client 
+donne de l'argent à une femme pour qu'elle couche avec lui ; de l'argent contre du 
+sexe. Dans le mariage, la même dynamique est présente, elle est juste moins explicite. 
+Les femmes mariées effectuent dans les faits un travail gratuit – faire des enfants, s'en 
+occuper, faire le ménage, les repas, etc. – qui comprend des relations sexuelles (le 
+devoir conjugal était pendant longtemps un motif de divorce légitime) et reçoivent en 
+retour l'argent et la sécurité matérielle de leur mari. Un autre exemple de rétribution 
+au sein du mariage est le système de dot, dans lequel la famille de l'homme doit donner 
+une somme d'argent à la famille de la femme. Le système de genre rend donc la 
+sexualité fondamentalement inégalitaire et l'échange économico­sexuel structure 
+l'hétérosexualité.   
+
+Illustration de l’échange économico­sexuel hétéro, qui peut parfois donner des envies de meurtre  
+  
+Monique Wittig, une féministe lesbienne, théorise l'hétérosexualité comme un régime 
+politique créant le genre. Dans son livre La pensée straight, elle reprend l'idée de base 
+du féminisme matérialiste, qui pense le genre comme un régime politique 
+d'appropriation des corps des femmes, en appliquant cette idée à l'hétérosexualité. 
+Selon elle, "la catégorie de sexe est le produit de la société hétérosexuelle" ; ce sont 
+les relations institutionnalisées entre les femmes et les hommes – le rapport 
+hétérosexuel – qui crée ces deux catégories.   
+
+15 Judith Butler a aussi lié sexe, genre et sexualité en une théorie unitaire dans son 
+ouvrage Trouble dans le genre. Iel pense l'hétéronormativité comme le système qui fait 
+que le genre, les désirs et la sexualité sont considérés comme alignés. En cas de 
+déviation d'une des entités de la continuité, le genre est donc automatiquement 
+impacté. On voit ici aussi à quel point la sexualité est constitutive du genre, ce dernier 
+pouvant être troublé par toute déviation au sein de la triade. Être gay ou lesbienne a 
+donc comme impact de faire "perdre sa place dans le système de genre", car pour être 
+un vrai homme ou une vraie femme il faut garder une continuité entre le sexe, le genre, 
+la pratique sexuelle et le désir. (Pour une fois que Judith Butler écrit des choses 
+compréhensibles et pertinentes !)  
+ 
+L'homosexualité dans le système de genre  
+  
+De l'inversion de genre à l'homosexualité  
+ 
+Dès la fin du 19ème siècle, "il n'existe qu'une forme normale de sexualité, 
+l'hétérosexualité, autant que possible au sein de la même race, dans le cadre du 
+mariage et à des fins fécondantes". L'homosexualité est donc considérée comme 
+anormale. Celleux qui militaient pour une plus grande acceptation de l'homosexualité 
+ont tenté de la justifier de différentes manières. Le juriste et militant homosexuel 
+allemand Karl Ulrichs la médicalise, la présentant comme une condition biologique et 
+théorise les homosexuels comme ayant une âme de femme dans un corps d'homme. 
+Selon ce schéma, l'homosexualité n’est pas l'attirance pour une personne du même 
+genre. C’est plutôt une "inversion de genre" – c’est pour ça que le mot « inverti.e » 
+désignait les homos. Magnus Hirschfeld, docteur et militant homosexuel, soutient que 
+l'homosexualité est une forme intermédiaire entre mâle et femelle, un "troisième 
+sexe". L'homosexualité n'est plus considérée comme une inversion de genre, mais 
+l'explication prend toujours son ancrage dans une altération du genre.  
+ 
+Le premier scientifique à s'éloigner des théories expliquant l'homosexualité par une 
+"déviance" de genre est le biologiste Alfred Kinsey. Il propose une échelle de 0 à 6, 
+allant de l’« hétérosexualité exclusive » à l’« homosexualité exclusive » tirée d’une 
+étude qu’il a fait aux états­unis.   
+  
+Les gays et lesbiennes sont, à partir du milieu du 20ème siècle, bien des hommes et 
+des femmes. Cette idée est largement adoptée par le grand public : c'est la sexualité 
+des gays et lesbiennes qui est différente de la norme, pas leur genre. Dès les années 
+1970, alors que les normes de virilité s'adoucissent pour les hétérosexuels, les hommes 
+homos se tournent vers un modèle plus virilisant. 
+ 
+Les normes de masculinité prennent donc parfois une grande place chez les gays : 
+certains d'entre eux adoptent des normes très masculines et contribuent à créer une 
+hiérarchisation au sein des HSH. La recherche de Matthieu Trachman sur un club de 
+16 fessées masculin montre bien cela. Dans ce club, toute marque de féminité est exclue ; 
+autant les femmes, les gays efféminés, les "travestis" et les "trans" car "le sexe assigné 
+à la naissance importe moins que l'exclusion de la féminité". Certaines petites 
+annonces des adhérents illustrent cette hiérarchisation entre les véritables hommes et 
+les gays féminins : "efféminés s'abstenir, j'aime les mecs qui ont l'air de mecs". La vision 
+de l'homosexualité dans ce club – mais elle ne s'arrête pas aux portes de celui­ci – est 
+"définie par un style de genre et de sexualité dont l'efféminement est l'envers". On voit 
+bien ici que les gays ne sont plus des "folles" qui contrent l'ordre de genre, mais bien 
+des hommes comme les autres.   
+  
+La sociologie de l'homosexualité et les études genre montrent que les lesbiennes et les 
+gays ne sont pas des femmes et des hommes comme les autres, cette fois en 
+abandonnant le point de vue médical.  
+
+Les lesbiennes ne sont pas des femmes…  
+ 
+Monique Wittig théorise l'hétérosexualité comme un régime politique produisant la 
+différence des sexes – les hommes et les femmes. Elle poursuit la réflexion en 
+affirmant que “les lesbiennes ne sont pas des femmes”. Elle argumente en écrivant que 
+"la­femme n'a de sens que dans les systèmes de pensée et les systèmes économiques 
+hétérosexuels". Les lesbiennes ne sont pas l'objet d'une appropriation privée par les 
+hommes dans les rapports hétéros. Cette appropriation constitue pour Wittig la 
+définition même des femmes.   
+  
+Plus récemment, le sociologue Emmanuel Beaubatie, qui s’inspire du féminisme 
+matérialiste, va dans le même sens et explique que presque tous les hommes trans se 
+considéraient comme des lesbiennes avant leur transition, et que    
+"l'orientation lesbienne constitue pour les futurs FtM's10 une prise de 
+distance vis­à­vis des rapports sociaux de sexe et, plus spécifiquement, 
+vis­à­vis de la place des femmes dans les rapports sociaux"   
+L'auteur a pu observer dans ses entretiens que "le lesbianisme autorise une 
+progressive masculinisation", qu'il "permet aux futurs hommes trans' de commencer à 
+s'éloigner de leur assignation de sexe d'origine". Être lesbienne, c'est donc ne pas être 
+une femme, ou du moins, c'est l'être moins qu'une hétéro11. 
+ 
+10 FtM pour Female­to­Male ; les hommes trans ou MtF pour Male to Female ; les femme trans. Ces termes sont 
+souvent utilisés dans les travaux sur les trans. On y ajoute parfois MtX ou FtX dans le cas des personnes non­
+binaires.  
+11 Cette idée de l'émancipation de la classe des femmes par le lesbianisme a été remise en question, comme par 
+Salima Amari (2015) – dans ce cas, dans une étude sur des lesbiennes d'origine magrébine – qui affirme, dès le 
+titre de son article, que "Certaines lesbiennes demeurent des femmes" ; leur lesbianisme n'empêchant pas 
+forcément leur appropriation privée par des hommes. 
+17 Si les femmes sont celles qui sont appropriées par les hommes – ce qui exclut les 
+lesbiennes de la définition –, on peut également se poser la question à l'inverse. Si les 
+hommes sont ceux qui s'approprient les femmes dans les rapports hétéro, les pédés 
+sont­ils des hommes ?    
+
+…donc les pédés ne sont pas des hommes ?   
+ 
+Le "pédé" est la figure repoussoir par excellence pour les hommes. Isabelle Clair 
+explique cela par le fait que "la première cause d’exclusion pour les garçons, c’est qu’on 
+puisse douter de leur virilité." Si l'étiquette de pédé est la pire qu'un garçon (puis un 
+homme) puisse recevoir, c'est parce qu'un homme qui a du désir pour des hommes 
+casse l'alignement sexe, genre et désir qui doivent être alignés dans le système 
+cishétéronormatif.   
+  
+Un élément de l'ouvrage d'Alizée Delpierre Servir les riches, sur les domestiques des 
+grandes fortunes, va dans le même sens. Les femmes des couples fortunés sont celles 
+qui s'occupent de gérer les personnes employées. Elles ont parfois de la peine à 
+assumer leur autorité dans le cas où les domestiques sont des hommes. Dans ces 
+situations, hiérarchie de genre et du travail se contredisent – les femmes sont les 
+patronnes d'hommes – ce qui fait que "les femmes fortunées se sentent […] moins 
+armées et légitimes que leurs époux à diriger les hommes.". Pour contrer cela, 
+certaines de ces femmes "se convainquent que leurs domestiques hommes sont 
+homosexuels", ce qui permet d'adoucir le renversement hiérarchique du système de 
+genre. Assigner les domestiques hommes à l'homosexualité les désassigne de la 
+masculinité et facilite la domination de travail. Les homos sont plus facilement
+exploitables que les hétéros car être "pédé", c'est ne plus être un homme.    
+  
+On voit bien que les gays ne sont pas considérés socialement comme des hommes, 
+ou pas autant que les hommes hétéros.   
+ 
+Par ailleurs, si l'on suit le raisonnement du féminisme matérialiste, qui définit la classe 
+des hommes comme celle qui exploite celle des femmes, avec une analyse se 
+concentrant largement sur le travail domestique gratuit, les gays ne sont pas des 
+hommes car ils ne profitent pas du travail gratuit d'une femme au sein de leur couple.   
+  
+Monique Wittig confirme cela dans ce passage de son article "On ne naît pas femme".    
+"Refuser de devenir hétérosexuel (ou de le rester) a toujours voulu 
+dire refuser […] de devenir une femme ou un homme (pour les 
+hommes homosexuels)."    
+
+18   
+
+À suivre :  
+
+19 DEUXIÈME PARTIE 
+Transition, genre et sexualité  
+  
+La construction hétéro de la transsexualité  
+ 
+L'homosexualité a longtemps été considérée comme une question de genre plutôt que 
+de sexualité – une inversion de genre. Cette manière de voir les personnes 
+homosexuelles sera ensuite utilisée pour les personnes trans. Par exemple, dans les 
+années 60, Robert Stoller, psychiatre étasunien, "sépare les transsexuels des 
+homosexuels selon que leur désir est d'être, ou bien d'avoir un homme (ou une 
+femme)". Dès lors, on voit les homosexuel.les comme celleux qui désirent des 
+personnes du même genre, alors qu’on voit les trans comme celleux qui, dans les mots 
+de l'époque, se revendiquent appartenir au sexe opposé à celui de leur naissance.    
+ 
+La pathologisation de l'homosexualité est reprise pour les trans. Certains médecins, 
+endocrinologues12 et sexologues, dès les années 1950, (comme Magnus Hirschfeld ou 
+Harry Benjamin), proposent une prise en charge médiale qui modifie le corps des 
+personnes trans. La demande de traitements hormonaux et chirurgicaux devient donc 
+une des conditions pour être reconnu.e.x comme trans. Cela force les trans à se 
+conformer aux standard binaires genrés. La catégorie médicale de "transsexualité" est 
+construite sur des bases normatives de ce qu'est être un homme ou une femme : le 
+but d'une transition est donc d'assimiler les personnes trans au reste de la population, 
+de se fondre dans l'une des deux catégories de sexe.    
+ 
+Les trans ont dès lors adopté un essentialisme stratégique13 pour pouvoir accéder aux 
+changements corporels qui leur permettaient de passer14 dans leur genre revendiqué. 
+Les personnes trans doivent donc « jouer au bon trans » – par exemple pour les 
+femmes trans mettre des talons, du maquillage et vouloir être mariée à un homme. La 
+médicalisation des transitions de genre a établi des critères séparant les personnes 
+trans. D’un côté, il y a celles qui peuvent accéder à un changement de genre médical 
+(par des traitements hormono­chirurgicaux), et de l’autre, il y a celles qui ne peuvent 
+pas y accéder. Ces normes face à la transition touchent à l'expression de genre ou à 
+l'ancienneté de l'identification trans mais aussi à la sexualité. Par exemple, 
+l'orientation sexuelle fait partie de manière plus ou moins explicite des critères 
+médicaux d'accès aux transitions. Elle instaure donc dans les faits un tri entre les 
+personnes trans. Pendant longtemps, l'hétérosexualité pré­transition rendait l'accès 
+aux traitements souhaités impossible. Ainsi, une personne voulant rentrer dans une 
+relation hétéro, voire avoir une vie maritale après la transition avait un meilleur profil.  
+ 
+12 Médecins spécialistes des hormones 
+13 Cet essentialisme stratégique peut rappeler "le Born This Way" des personnes homosexuelles 
+14 Le passing désigne le fait d’être perçue comme son genre d’arrivée (par ex : comme une femme pour les 
+femmes trans). 
+20  
+Eminem qui donne de la T à qui veut, contrairement aux médecins qui maintiennent un strict 
+gatekeeping 
+ 
+Les normes hétéros ont largement diminué aujourd’hui, mais elles n’ont clairement 
+pas disparu. Les hommes et les femmes trans doivent autant performer cette 
+normativité, mais les femmes trans doivent souvent prouver cette volonté de 
+l’hétérosexualité en essayant d’être attirantes pour les hommes en général y compris 
+les médecins et psychiatre qui les suivent. On voit ici encore une preuve que sexualité 
+et genre sont inextricablement liés et que faire le genre, c'est faire l'hétérosexualité.   
+  
+La sexualité influence donc les transitions de genre et le genre cadre les (conditions 
+des) transitions. Comme on l’a déjà vu, le genre et la sexualité sont inextricablement 
+liées. On vient de montrer que le genre autant que la sexualité contraint les parcours 
+des trans. On peut alors se poser la question de l'influence de la transitude sur la 
+sexualité des personnes trans. Quel est l'impact d'un changement de genre sur la 
+sexualité d'une personne ?   
+
+La sexualité des personnes trans  
+ 
+La sexualité des personnes trans a pendant longtemps été exclue des recherches en 
+sciences sociales, alors qu'elle représente un aspect très important des transitions. 
+Selon Beaubatie, c'est parce que la sexualité des personnes trans a largement été 
+pathologisée. Les chercheureuses en sciences sociales ont donc longtemps évité les 
+recherches sur ce sujet.    
+Beaucoup d'études sur la sexualité des personnes trans ont une perspective 
+médicale (expliquer leur sexualité par les hormones et chirurgies) ou psychologique 
+
+21 (expliquer leur sexualité par des attributs individuels des personnes). Elles méritent 
+d’être critiquées au profit d’approches sociologiques. Ici, on va plutôt s’intéresser à 
+l’effet des rapports de domination (cissexisme, hétérosexisme, sexisme) sur la 
+sexualité des personnes trans. L'étude de la sexualité (des personnes trans) se doit 
+d'englober les trois aspects explicités à la page 9 : les pratiques sexuelles, les identités 
+sexuelles et le régime politique de la sexualité. Étant indissociables dans la réalité, ces 
+trois aspects sont tous présents mais mélangés dans les analyses.    
+  
+Les études trans, y compris celles sur la sexualité des personnes trans, gagnent à 
+séparer femmes trans, hommes trans et personnes non­binaires dans leurs analyses, 
+tant les parcours de transition sont cadrés par le genre. Les hommes trans, les femmes 
+trans et les personnes non­binaires n’ont pas du tout le même parcours de transition 
+et donc n’ont pas du tout la même sexualité. L'orientation sexuelle, comme toute 
+autre caractéristique d'une personne, peut évoluer pendant la vie et cela semble 
+largement être le cas pour les personnes trans. Une étude quantitative sur 452 
+personnes trans étasuniennes (Katz­Wise, Reisner, et al., 2016), montre que 64.6% des 
+personnes qui ont transitionné socialement déclarent un changement dans leur 
+orientation sexuelle. Les personnes transmasculines et non­binaires sont plus 
+probables de percevoir une évolution, tout comme celles qui ont transitionné 
+médicalement.  Dans une autre étude (Davis et St. Amand, 2014), il est avancé que 
+73.6% des personnes qui prennent de la testostérone voient des changements dans 
+leur sexualité. Donc, transitionner fait souvent changer de sexualité. 
+  
+La littérature a proposé beaucoup d'explications à la question des changements dans 
+les attirances sexuelles des personnes trans.   
+  
+Les traitements hormono­chirurgicaux sont l'une des principales raisons utilisées pour 
+expliquer les évolutions dans la sexualité des personnes trans. La fluidité sexuelle est 
+considérée comme un effet secondaire de la prise de testostérone. En effet, celle­ci 
+augmenterait biologiquement la libido, ce qui aurait pour conséquence d'élargir les 
+objets de désir et de faciliter l'exploration sexuelle.   
+ 
+On peut argumenter, pour critiquer cette explication biologisante, que ces 
+changements dans la sexualité sont dus aux effets physiques que les hormones ont sur 
+les personnes trans plutôt qu'à leurs conséquences biologiques directes. Plutôt que 
+simplement soumises à un effet biologique des traitements hormono­chirurgicaux, 
+les personnes trans sont juste plus confortables avec leur corps, et donc avec leur 
+sexualité. On peut supposer que c'est sentir son corps en concordance avec son genre 
+qui impacte la sexualité, plutôt que l'effet biologique des hormones.   
+  
+Certaines études émettent l'hypothèse, dans le cas des hommes trans devenus attirés 
+par les hommes, que cette attirance était existante mais inexplorée avant la transition, 
+pour que leurs attributs perçus comme féminins – seins, vulve – ne soient pas 
+22 objectifiés ou pour éviter du sexisme dans des relations qui seraient considérées par 
+les hommes partenaires comme hétérosexuelles. 
+ 
+On peut ajouter que la non­exploration d'une attirance pour les hommes est peut­être 
+due à l'impact du lesbianisme chez les futurs hommes trans. Comme explicité plus 
+haut, le lesbianisme des futurs hommes trans fait partie intégrante de leur transition 
+car il les émancipe de la catégorie de femme constituée socialement dans 
+l'hétérosexualité. Le genre des partenaires pouvant contribuer à construire son propre 
+genre, les futurs hommes trans évitent, avant leur transition, d'explorer leur attirance 
+pour des hommes afin de ne pas être vus comme une femme. S'ils semblent devenir 
+attirés par les hommes, c'est donc que cette attirance les approche moins de la 
+féminité qu'avant leur transition.   
+  
+Par ailleurs, la pénétration réceptive est socialement fortement assignée au féminin. 
+Les hommes trans, surtout avant ou au début de leur transition, évitent souvent les 
+relations sexuelles avec des hommes, tant cette pratique reste la plus répandue dans 
+le Q hétéro. Le rapport de pouvoir qui se joue dans les relations hétéros "semble 
+assigner [les futurs hommes trans] fortement au sexe féminin". À l'inverse, être 
+pénétrée est souvent recherchée consciemment par les femmes trans tant cette 
+pratique valide leur féminité.   
+  
+La médicalisation des transitions est une autre des raisons utilisées pour expliquer les 
+changements d'attirance sexuelle. Certaines personnes cachent, consciemment ou 
+non, leurs attirances pour des personnes du même genre pour éviter des complications 
+dans les parcours de transition. Par exemple une femme trans peut cacher son 
+attirance pour les femmes. Comme mentionné plus haut, l'hétérosexualité pré­
+transition a pendant longtemps empêché des transitions médicales. Il est donc 
+probable que le fait de jouer l'hétérosexualité pour avoir accès aux transitions 
+souhaitées contraint les personnes trans à cacher certaines de leurs attirances au 
+début de leur parcours de transition. Ce qui apparait comme une évolution dans les 
+attirances sexuelles peut donc s’expliquer par une contrainte médicale.   
+  
+Emmanuel Beaubatie a fait des recherches sur les changements dans la sexualité des 
+personnes trans. Il montre que les hommes trans sont presque tous lesbiennes avant 
+leur transition. Les femmes trans, elles, se divisent en deux groupes équivalents : celles 
+qui, avant transition, étaient hétéros (attirées par les femmes) et celles qui étaient gay 
+(attirées par les hommes). Les hommes trans ont, pendant et après leur transition, 
+tendance à s'homosexualiser alors que les femmes trans s'hétérosexualisent. Les deux 
+groupes se déclarent donc de plus en plus attirés par les hommes. En effet, aucun des 
+hommes trans ne se déclarait attiré par les hommes avant la transition alors qu'ils sont 
+44.7% à se dire attirés par les hommes après transition. Pour les femmes trans, alors 
+que 50% d'entre elles se disaient gay avant la transition, 64.6% déclarent une attirance 
+pour les hommes après transition.  
+ 
+23  
+
+Le sociologue explique cette hétérosexualisation des femmes trans et cette 
+homosexualisation des hommes trans de deux manières différentes.   
+  
+Les femmes trans s'hétérosexualisent tant la validation par le regard des hommes fait 
+partie de la "fabrique de la féminité".   
+Les femmes trans "en début de transition s’attachent, d’une certaine 
+manière, à prouver qu’elles sont désormais des femmes. Cela implique 
+de parvenir à susciter le désir masculin. En cela, le désir des hommes 
+est constitutif non seulement du désir des femmes, mais aussi de leur 
+catégorie de sexe."  
+Socialement, c'est le désir des hommes qui crée la validation de la féminité. Pour 
+Beaubatie, si les femmes trans deviennent attirées par les hommes, c'est car les 
+relations hétérosexuelles construisent la féminité.   
+ 
+De l'autre côté, l'homosexualisation des hommes trans est plutôt une façon de se 
+distinguer. En effet, certains hommes trans, issus des milieux féministes militants, 
+voient les hommes comme l'oppresseur.    
+
+24  
+ 
+Selon Beaubatie, si ces hommes trans s'identifient à l'homosexualité, c'est parce 
+qu'elle les émancipe de la "masculinité hégémonique". Les déclarations 
+d'homosexualité chez les hommes trans ne sont parfois pas accompagnées de relations 
+romantico­sexuelles avec des hommes, voire même de réelle attirance pour les 
+hommes. Si certains hommes trans se disent gay, c’est donc plutôt pour ne pas être 
+vus comme des hommes hétéros. On peut le voir lorsqu’un des hommes trans de 
+l’enquête de Beaubatie dit qu’il est gay et déclare : "ça me fait chier par exemple qu’on 
+me prenne pour un hétéro. Et en même temps, je sors avec des filles".   
+
+« gay est le genre avec lequel je veux que les gens me perçoivent. je veux que les gens me regardent 
+et soient là "oh j’ai aucune idée ce que t’es mais t’es clairement un.e homosexuel.le" » 
+
+25 Pour résumer, plusieurs raisons peuvent amener les personnes trans à déclarer un 
+changement dans leur sexualité.   
+  
+(1) L'inconfort vis­à­vis de son propre corps est un frein à la sexualité. La transition peut 
+donc aider les personnes trans à se sentir bien dans leur corps, ce qui a un impact sur 
+leur sexualité.   
+  
+(2) La médicalisation de la transition impacte beaucoup la sexualité : les personnes 
+trans qui ressentent de l'attirance pour les personnes de leur genre revendiqué le 
+cachent souvent pour augmenter leur chance d'accès à une transition.   
+  
+(3) Le genre des partenaires sexuel.les peut contribuer à construire son propre genre. 
+Par exemple, la pénétration (vaginale) réceptive est toujours majoritaire quand on 
+couche avec des hommes cis hétéros. Elle assigne, par sa signification sociale, à la 
+féminité. Les futurs hommes trans évitent donc la sexualité avec les hommes cis.   
+  
+(4) Les femmes trans s'hétérosexualisent, à cause de la place prépondérante du regard 
+masculin dans la construction de la féminité. En réaction à une vision négative envers 
+les hommes cis hétéros, les hommes trans s'homosexualisent pour s'émanciper de la 
+classe des hommes (hétéros).  
+
+Analyse d'entretiens avec des personnes trans 
+ 
+Dans cette partie, on va se pencher sur des entretiens menés avec deux personnes 
+trans, Ellie et Pablo (prénoms d’emprunt). Evidemment qu’un échantillon aussi petit
+ne permet pas de tirer des généralités, mais on trouvait quand même intéressant 
+d’illustrer les éléments amenés dans les parties plus théoriques et de les ancrer dans 
+les discours et les vécus concrets. Ellie et Pablo sont d’accord pour que ce fanzine soit 
+publié. Les entretiens desquels sont tirées les citations ont été faits en mars­avril 
+2023.   
+  
+Ellie est une femme trans (qui se définit également comme non­binaire)15. Elle est en 
+couple depuis 1 an et demi avec une personne non­binaire transmasculine et ne Q 
+qu’avec ellui. Pablo est une personne transmasculine non­binaire. Il se définit comme 
+queer, bi ou encore transpédégouine – pour la dimension politique de ces termes. Au 
+moment de l’entretien, il Q avec quatre personnes, elles aussi trans. Ellie et Pablo sont 
+des personnes blanches, les deux sont issues de milieux militants et Pablo est aussi 
+universitaire. 
+
+15 Ces deux termes peuvent paraitres contradictoires. Ellie l'a expliqué – pour résumer – en disant qu'elle se 
+considère non­binaire mais que son expression de genre, très féminine, fait qu'elle est considérée socialement 
+comme une femme, et que cela fait donc tout de même partie d'elle.  
+26  
+Haha ???   
+ 
+Le rôle de la sexualité dans la transition  
+ 
+La sortie du placard hétérosexuel a été pour Pablo une manière de commencer à 
+s'émanciper des normes de genre, de s'éloigner de la féminité : "en tant que meuf cis 
+bi, j'ai pu recommencer à m'habiller un peu comme je voulais en en ayant rien à foutre, 
+[…] j'avais pas besoin de performer quelque chose". Le discours de Pablo ressemble à 
+ce que Beaubatie observe sur le lesbianisme qui marque le début de la transition de 
+genre. On constate ici que la non­hétérosexualité – au­delà du seul lesbianisme – peut 
+avoir le même effet. De plus, se dire bi peut être un souhait de s'éloigner d’une 
+sexualité binaire, en refusant l'identification homo/hétéro. Le terme "bi" est, au fur et 
+à mesure de sa transition, remplacé par "queer" ou "transpédégouine". Cela témoigne 
+d'une volonté de transcender toute catégorie binaire d'identité sexuelle. "Queer" et 
+"transpédégouine" sont d'ailleurs utilisés par Pablo pour définir son identité sexuelle 
+autant que son genre. Pablo va donc jusqu'à flouter la distinction entre genre et 
+sexualité.   
+   
+La forte sexualisation de soi­même, autant théorique (parler beaucoup de sexualité) 
+que pratique (avoir beaucoup de relations sexuelles) joue un rôle dans la transition des 
+deux enquêté.e.s.   
+  
+Ellie décrit sa vie sexuelle comme étant divisée en trois parties. La première, avant sa 
+transition, est une période pendant laquelle elle a vécu beaucoup de relations 
+sexuelles d'un soir (des plans Q) avec des hommes cis gays. Au début de sa transition, 
+elle a continué ce mode de relation de manière bien moins fréquente avec des hommes 
+cis hétéros. Ensuite, une fois sa transition bien entamée, elle s’est mise en couple avec 
+un homme trans, puis avec son partenaire actuel. Pour Ellie, beaucoup Qer avec des 
+hommes, avant et au début de sa transition, ne s’explique pas seulement par une forte 
+libido. Cette activité sexuelle fréquente prend aussi racine dans "une intention de [se] 
+
+27 chercher et aussi d'avoir des expériences et du coup de peut­être vivre des choses, 
+expérimenter [son] corps, expérimenter le corps des hommes". Avec les hommes cis 
+gays, sa position dans la pénétration était le plus souvent réceptive, ce qui est devenu 
+le cas systématiquement avec les hommes cis hétéros. Le nombre de partenaires 
+sexuels semble ici décroitre avec l'avancée de la transition. On peut faire l'hypothèse 
+que l'envie forte de ce type de relation sexuelle est liée au fait que la construction 
+sociale de la féminité est largement ancrée dans la sexualité, et plus particulièrement 
+dans la pénétration réceptive.  
+ 
+Pour Ellie, le fait de coucher avec beaucoup d’hommes hétéros au début de sa 
+transition était peut­être une manière d'accéder à la féminité, tout comme certaines 
+enquêtées de Beaubatie, par la pénétration réceptive et le rapport de domination 
+intégré à ces relations. 
+
+On vous vise les TERF !!!  
+  
+Pour Pablo, c'est le contraire : ses relations avec des hommes étaient une manière 
+de s'approcher de la masculinité, d'"entrer dans la maison des hommes"16. En effet, 
+il remarque que son intérêt pour les hommes et pour leurs hobbys était pour lui une 
+manière de s'approcher de la masculinité. Les hommes le prenaient plutôt comme de 
+la drague et ça menait souvent à une relation sexuelle17. 
+"Je crois que pour moi c'était une manière d'accéder à la masculinité, 
+de ouf, j'avais trop envie d'apprendre à graffer, j'avais trop envie de 
+jouer à LOL18 et tout et j'avais trop envie de faire des trucs masc, 
+ 
+16 Titre du mémoire de Julie Guillot (2008), Entrer dans la maison des hommes. De la clandestinité à la 
+visibilité : trajectoires de garçons trans’ / FtM. 
+17 Parce que les hommes c’est comme les grenouilles, ça pense qu’à sauter. 
+18 Le jeu vidéo League Of Legends 
+
+28 évidemment que je volais toutes leurs fringues et évidemment que je 
+buvais des bières avec eux et leurs potes et puis que je faisais du 
+blagues beaufs. Et je pense que chacune de mes relations avec des 
+mecs cis het m'ont toujours fait accéder à de la masculinité".   
+Cet accès à la masculinité en couchant avec des hommes cis hétéros contredit 
+complètement les résultats des études sur la sexualité de personnes trans. 
+L'hétérosexualité féminine est rejetée par la quasi­totalité des personnes 
+transmasculines pour son effet d'assignation à la féminité. Pourtant, elle semble avoir 
+été pour Pablo un outil d'affirmation de la masculinité. On peut imaginer deux 
+explications à pourquoi Pablo a accepté le sexe avec des hommes cis hétéros alors que 
+les hommes trans le refusent d’habitude frontalement :  
+1) Ces relations ont précédé le moment où Pablo s’est identifié comme trans. 
+2) Pablo est non­binaire et met en avant une forte fluidité de genre et un rejet des 
+normes de genre. 
+ 
+En effet, les relations nombreuses avec des hommes cis hétéros ont eu lieu avant que 
+Pablo ne se définisse comme trans. Si des questionnements sur son genre étaient déjà 
+présents, ils étaient loin d'être aboutis19. Cela a peut­être pu lui permettre de moins 
+être préoccupé par l'assignation à la féminité que ces relations (hétérosexuelles) 
+produisaient. De plus, pour Pablo, être trans est fortement lié à la non­binarité. Plus 
+largement, il se reconnait dans un discours critique queer qui prône la subversion des 
+normes, autant de genre que de sexualité. L’autodéfinition en tant que non­binaire 
+implique une distance critique face à la binarité de genre. Ça peut faciliter le fait de 
+moins sentir de la dysphorie dans les relations avec des hommes cis hétéros. Ces deux 
+raisons ont donc peut­être permis un rapprochement avec le monde des hommes par 
+l'hétérosexualité féminine – et non pas contre elle.  
+  
+Pablo s'est aussi toujours beaucoup sexualisé : il a eu une vie sexuelle foisonnante et 
+en a beaucoup parlé. Selon lui, c’était aussi une manière de s'approcher de la 
+masculinité : "c'est un peu un truc, je pense où je me sentais comme un mec, genre 
+grave, parler de sexe méga cru et tout".   
+  
+Pour résumer, la socio sur le Q des trans montre que la sexualité peut influencer de 
+deux manières la transitude. D'un côté, la non­hétérosexualité accélère la transition. 
+Pour Ellie et Pablo, la non­hétérosexualité précède la transition : Ellie se disait gay et 
+Pablo bi avant leur transition. De l'autre, les relations sexuelles et affectives avec des 
+hommes semblent être, pour Pablo, avant sa transition, une manière d'investir, 
+littéralement, la masculinité. Parler beaucoup de (sa) sexualité – surtout lorsqu'elle est 
+foisonnante – peut aussi être une manière de se "sentir comme un mec", de 
+s'émanciper de la féminité. Pour Ellie, on constate la centralité de la pénétration 
+réceptive dans sa vie sexuelle au début de sa transition, dans un cadre de relation avec 
+des hommes hétéros.  
+ 
+19 Quand on dit « abouti » on veut parler du moment où sa compréhension de sa non­binarité s’est stabilisée. 
+29 L'évolution des attirances et pratiques sexuelles  
+ 
+Les attirances sexuelles évoluent souvent pendant et après la transition. Les attirances 
+sexuelles de Pablo sont restées plutôt constantes. Depuis toujours, même avant de se 
+revendiquer comme bi, il disait qu’il était attiré par les personnes au­delà de leur genre. 
+Il y a cependant eu deux changements dans ses attirances sexuelles. 
+Premier changement : il n’est plus attiré par les hommes cis hétéros : "mais je sais pas, 
+je les trouve moches, je suis désolé. […] Je les trouve moches et inintéressants quoi". 
+Cette diminution de désir pour les hommes cis hétéros est sûrement produite par une 
+forte politisation féministe et queer qui prône la misandrie et un éloignement affectif 
+avec les oppresseurs. La non­attirance pour les hommes cis hétéros est venue plutôt 
+après la transition. Pablo veut s'éloigner des schémas hétérosexuels qu’il trouve 
+normatifs :    
+"j'ai l'impression que j'ai fait le tour des mecs cis het, […] ils te draguent 
+toujours de la même manière […]. Tu sais comment il est le scénario 
+et le script il est déjà écrit, c'est bon, tu l'as fait, maintes et maintes 
+fois genre je sais très bien que là tu vas me payer un verre et que après 
+on va aller fumer une clope et puis que tu vas me proposer ta veste"    
+Le fait de ne pas Qer ou avoir des relations amoureuses avec des hommes cis qui 
+couchent principalement avec des femmes est aussi une manière de ne pas être 
+ramené à la féminité. En effet, cette peur a été largement énoncée par Pablo.   
+"Et du coup, c'est quand même chiant parce que les seuls mecs cis 
+queer avec qui j'ai des bails, c'est des bi et ça me ramène quand même 
+un peu au fait d'être afab. Mais un mec cis bi qui a que des bails 
+hétéros non. Je peux pas. Je peux pas parce que je suis là, ok c'est bon, 
+tu me dis que tu me perçois pas comme meuf cis mais t'as toujours 
+relationné avec des meuf cis, t'es attiré par moi, pourquoi t'es attiré 
+par moi ? Enfin, des fois je me fais draguer par des mecs bi et je suis 
+un peu là est­ce qu'il a pas compris que j'étais pas une meuf ?"   
+Ce discours peut paraitre contradictoire avec ce que Pablo racontait plus haut : son 
+rapprochement de la masculinité via ses relations amoureuses/sexuelles avec des 
+hommes cis het. Peut­être que c’est parce qu’après le début de sa transition, le but 
+pour Pablo n'est désormais plus de se rapprocher de la masculinité, mais plutôt de 
+s'éloigner de l'hétérosexualité. Afin de ne pas être assigné au féminin, il ne couche plus 
+avec des hommes hétéros. Mais il a aussi partagé sa peur d'être assigné trop fortement 
+au masculin. En effet, dans ses relations sexuelles avec des personnes féminines – 
+souvent trans – Pablo a très peur de prendre un rôle masculin, ne voulant, par exemple, 
+pas être dominant lors de pratiques BDSM. Ce n'est pas le cas dans les relations 
+sexuelles avec des personnes masculines, dans lesquelles il se sent à l'aise de prendre 
+un rôle perçu comme masculin – voire de domination dans la sexualité BDSM.  
+30 En gros, le plus important pour lui n’est pas d’être ramené à un genre (être perçu 
+comme masculin ou féminin). Ce qui est important pour lui c’est de NE PAS être 
+ramené à l’hétérosexualité : "mais je crois que maintenant j'ai méga peur d'être 
+hétéro quoi".  
+  
+Deuxième changement : les cunnis. En effet, il n'aimait pas du tout recevoir du sexe 
+oral, se disait très gêné à l'idée qu'un.e.x partenaire sexuel.le.x soit aussi proche de sa 
+vulve, et n'arrivait donc pas à apprécier le moment. La perception de sa propre vulve a 
+été bouleversée quand, un peu avant sa prise de testostérone, il a regardé son clitoris 
+et s'est rendu compte de sa ressemblance avec un gland.    
+"Et j'étais là « oh mon Dieu, mais genre j'ai déjà un mini pénis » et ça 
+m'a trop marqué, à quel point j'étais là wow on considère que les 
+vulves et les pénis c'est deux trucs différents, mais c'est tellement la 
+même chose […]. Et du coup, ce moment­là où j'ai réalisé que… Enfin 
+où j'ai reconnu mon anatomie comme un mini pénis, ça a tout changé 
+dans ma tête. Et après ce moment­là, j'ai pu prendre du plaisir à 
+recevoir des cunnis. Trop drôle !"   
+Se baser sur les théories queer pour réfléchir à son propre corps provoque ici un réel 
+changement. Remettre en question l'alignement sexe/genre et surtout la différence 
+sexuelle a changé la perception de Pablo de son propre corps, ce qui a fait évoluer sa 
+sexualité. Une réflexion sur un organe sexuel a contribué à changer la signification que 
+Pablo donne à sa vulve, et à supprimer l'inconfort qu'elle lui causait. La possibilité de 
+l'impact matériel du queer20 semble cependant située socialement : Pablo a 
+énormément de capital culturel, dont des connaissances théoriques liées au genre, et 
+fait partie de milieux queer et trans depuis des années. Cette position critique n'est 
+accessible qu'aux classes privilégiées, aux personnes qui possèdent un fort capital 
+culturel / militant.   
+De son côté, Ellie déclare une évolution dans ses attirances sexuelles. En effet, avant 
+et au début de sa transition elle était attirée que par les hommes cis alors qu’elle est 
+maintenant attirée par les personnes masculines dans leur ensemble.  
+La principale raison qui faisait qu’elle était attirée que par les hommes cis semble être 
+la peur d'être ramenée à la masculinité dans une interaction sexuelle avec une 
+personne ayant une vulve. Cet extrait de l'entretien est très parlant sur cette question.   
+"Moi : Ok. Et, par exemple, du coup, coucher avec des mecs trans, ça 
+n'aurait pas été envisageable pour toi pendant ta période beaucoup 
+de plans cul ?   
+Ellie : Non pas du tout.    
+Moi : Tu saurais dire pourquoi ?   
+ 
+20 Par "impact matériel du queer", on désigne les impacts concrets provoqués par les théories queers. 
+31 Ellie : Parce que je crois que j'étais dégoûtée par les vulves. Mais ça 
+aussi, c'était un conditionnement parce que je me suis rendu compte 
+après que je ne l'étais pas, mais je pensais l'être.   
+Moi : Genre physiquement vraiment ?   
+Ellie : Ouais physiquement, mais aussi conceptuellement parce que 
+j'associais le sexe au genre et vu que j'essayais aussi, pour m'incarner, 
+d'être féminin­féminine, je voulais aussi exprimer un rejet pour ce qui 
+était féminin, dans le sens …   
+Moi : Qui est considéré socialement comme féminin ?   
+Ellie : Voilà, considéré socialement. Parce que ça l'est pas, ça n'a pas 
+de genre."   
+Rejeter les attributs perçus comme féminins était une manière s’éloigner de 
+l’hétérosexualité et ainsi de s'émanciper de la classe des hommes. Il y a bien une 
+corrélation sociale entre organes génitaux, hétérosexualité et genre des partenaires : 
+l'organe génital d'une personne avec qui on pourrait avoir une interaction sexuelle a 
+un impact sur notre propre genre.    
+  
+A peu près au même moment, Ellie a fait une chirurgie de confirmation de sexe et a 
+remis en question le lien entre organes génitaux et genre. Grâce à ces deux 
+changements, elle est maintenant attirée par les personnes au­delà de leurs organes 
+génitaux et a changé ses pratiques sexuelles. Ellie pratique maintenant le sexe oral avec 
+des vulves, ce qui était impensable avant la transition. Par ailleurs, avant et au début 
+de sa transition, certaines pratiques – toutes celles impliquant son pénis – étaient 
+impensables, surtout avec les hommes hétéro.    
+"Ellie : Voilà sauf qu'avec les mecs hétéros, je… J'étais uniquement 
+entre guillemets passive.   
+Moi : Là, c'était parce que toi t'en avais envie parce que…?   
+Ellie : Ouais. Parce que aussi je voulais pas qu'ils aient accès à mon 
+sexe."  
+Sa vaginoplastie rend caduque ce refus d'utiliser son pénis lors de rapports sexuels. 
+Une autre évolution dans la sexualité d'Ellie concerne les rapports de domination. En 
+effet, au début de sa transition, Ellie était souvent dans une position de soumission 
+avec ses partenaires sexuels, sans vraiment le vouloir, mais sans forcément qu'ils ne le 
+demandent non plus.    
+"Ellie : Ouais le fait d'être perçue comme une personne…, qui 
+mériterait qu'on la maltraite parce qu'elle est trans et du coup rentrer 
+dans un rapport plutôt de domination où, je serais plutôt soumise à 
+mon partenaire. Et que, à travers cette soumission, j'éprouverai du 
+32 plaisir au fait que mon partenaire prenne du plaisir à me soumettre. 
+Mais pas vraiment pour moi, c'est ça que je voulais dire, c'est que 
+c'était plutôt, comme . Ouais pour l'autre.   
+Moi : Genre t'as l'impression que l'autre voulait te dominer et donc tu 
+te laissais être dans ce rôle un peu ?   
+Ellie : Ouais mais c'est même moi au final qui me mettais dans ce rôle­
+là. Parce que des fois mes partenaires voulaient pas spécialement me 
+dominer, mais c'est moi qui avais en tête le… Qui pensais que c'était 
+comme ça qu'il fallait que ça se passe, parce que je méritais pas d'avoir 
+un autre rapport."  
+Ellie explicite le fait que le cissexisme et la transmisogynie21 qu'elle a intériorisées lui 
+ont inculqué une obligation de se soumettre, comme si c'était la seule pratique que ses 
+partenaires souhaitaient. On peut émettre l'hypothèse que cette idée vient, au moins 
+en partie, des représentations des femmes trans dans les médias ; majoritairement des 
+travailleuses du sexe souvent violentées par leur clients.  
+ 
+Un autre stéréotype médiatique vis­à­vis des femmes trans porte sur le dégoût que 
+celles­ci inspireraient aux hommes avec qui elles couchent. La représentation de leurs 
+relations sexuelles sont dans une écrasante majorité hétérosexuelles. Le moment où 
+leurs partenaires (des mecs cis) se rendent compte qu'elles ne sont pas des femmes cis 
+– par exemple, lorsqu'ils remarquent qu'elles ont un pénis – est présenté comme un 
+moment de choc et un repoussoir. 
+ 
+Ellie a parfois accepté des pratiques sexuelles qu'elle ne souhaitait pas.  
+"[…] étant donné que je savais que j'étais pas une meuf cis je voulais 
+pas que la personne elle ait plus envie de moi parce qu'elle se dise que 
+déjà, je suis pas une meuf cis et en plus je peux pas ken comme une 
+meuf cis tu vois. Et du coup ça a fait que des fois je me suis forcée à 
+faire des choses que je voulais pas forcément faire."   
+  
+Les entretiens dans le cadre théorique 
+ 
+Dans la première partie du texte, on a examiné les quatre raisons principales qui 
+tentent d'expliquer les évolutions dans la sexualité des personnes trans (cf p. ???). On 
+va maintenant résumer comment les parcours d’Ellie et de Pablo s’inscrivent dans ce 
+cadre théorique. 
+ 
+L'inconfort vis­à­vis de son propre corps a influencé la sexualité de Pablo et Ellie. Au 
+début de sa transition, Ellie ne couchait qu’avec des hommes cis hétéro et ne faisait 
+ 
+21 Misogynie spécifique que subissent les femmes trans / personnes transféminines. 
+33 que du sexe pénétratif, car elle ne voulait pas qu'ils aient "accès à [son] sexe". Pablo 
+était très mal à l'aise avec les cunnis, à cause de la proximité de ses partenaires 
+sexuel.le.x.s avec sa vulve. Leur transition a diminué cet inconfort, ce qui a fait évoluer 
+leurs pratiques sexuelles, principalement en leur permettant d'apprécier une plus large 
+palette de pratiques.  
+ 
+L’"inconfort vis­à­vis de son propre corps" est souvent nommé "dysphorie de genre"22. 
+Ce terme est une catégorie médicale amplement critiquée par les mouvements trans. 
+Par ailleurs, ce diagnostic est souvent pensé comme une réalité extérieure au contexte 
+politique et structurel. On peut pourtant faire une analyse de la dysphorie de genre 
+comme produite par le système de genre. La dysphorie de genre n'existe que dans 
+une société dans laquelle les hommes et les femmes représentent deux groupes dont 
+l'un est l'inverse de l'autre, construits comme opposés et complémentaires. C'est 
+parce que les organes génitaux sont construits comme corrélés avec le genre – avoir 
+une vulve serait être une femme et avoir un pénis serait être un homme –, que l'on 
+peut sentir une incongruence entre ses organes génitaux et son genre.  
+ 
+On peut illustrer ça avec l'exemple du cunni dont on a déjà parlé : le fait d'avoir une 
+vulve est intrinsèquement lié socialement à être une femme donc recevoir un cunni 
+faisait sentir Pablo mal à l'aise car ça le ramenait à un genre en particulier (une femme). 
+Si le genre n’existait pas, le fait de recevoir un cunni n’aurait pas été lié à être une 
+femme et donc Pablo n’aurait pas été mal à l’aise. On peut comparer cet inconfort avec 
+de la dysphorie car sa gêne a disparu lorsqu'il n'a plus perçu sa vulve comme un attribut 
+féminin. Le genre précède donc la dysphorie : le genre produit la dysphorie. 
+  
+Ellie décrit son dégout des vulves, ancré dans le rejet de tous les attributs féminins chez 
+ses partenaires sexuels, dans une volonté de s'éloigner de la masculinité – qui passe 
+par un rejet de l'hétérosexualité. En effet, être un homme comprend socialement 
+l'attirance pour les femmes. Si Ellie était dégoutée par les vulves, c'était donc pour se 
+construire comme différente qu'un homme. Tout cela montre bien l'importance 
+sociale de la triade organes génitaux, genre et hétérosexualité : Ellie s'émancipe de la 
+masculinité en s'éloignant des vulves. Cette triade, même lorsqu'elle est 
+théoriquement déconstruite, est donc intégrée par les personnes et peut peser sur la 
+sexualité. La transition d'Ellie lui a permis de Qer avec des personnes ayant des vulves, 
+ce qui était pendant longtemps impensable.   
+  
+Toutes ces explications – avec le cissexisme, élément très présent dans les deux 
+entretiens – découlent du système de genre, de la binarité qu'il crée, de son alignement 
+avec l'hétérosexualité obligatoire et de son rejet de tout ce qui dévie de ses normes. Si 
+"le genre précède le changement de sexe", et que "le genre précède la sexualité" alors 
+le genre précède la sexualité des personnes trans.   
+ 
+22 Diagnostic médical entre autres défini comme le "sentiment persistant d’inconfort par rapport à son sexe ou 
+sentiment d’inadéquation par rapport à l’identité de rôle correspondante" dans le DSM IV TR.  
+34 CONCLUSION  
+
+35 CITATIONS 
+ 
+p. 3 : Clochec, 2021, p. 29 
+p. 4 : Clochec, 2021, p.44 
+p.7 : Jaquier, Maggetti, et al., 2022, p.7 
+p. 8 : Marignier, 2019, p.74 ; Galluzzo, 2023, 
+p.70 ; Deschamps, 2013, p. 146 
+p. 10 : de Montépin, 1856, p.131 cité dans 
+Piana, 2016, p.189 ;Chauvin et Lerch, 2013, p. 
+53 
+p. 11 et p. 12 : Chauncey, 2003 [1994] 
+p. 13 : Chauvin et Lerch, 2021, p.306 ; Eloit, 
+2020, p. 142  
+p. 14 : Wittig, 2018 [1980], p. 47 
+p. 15 : Butler, 2006 [1990], p. 31 ; Macé, 2010, 
+p. 500 p. 16: Trachman, 2018; Wittig, 2018 [1980], p. 
+77 ; Beaubatie, 2021b, p. 113 ; Beaubatie, 
+2021b, p. 108 
+p. 17 : Clair, 2012, p. 69 ; Delpierre, 2022, p. 
+138 ; Wittig, 2018 [1980], p. 47 
+p. 19 : Fassin, 2008a, p.376 
+p. 22 : Beaubatie, 2021b, p.114 
+p. 23 : Beaubatie, 2021b, p. 123 
+p. 24 : Beaubatie, 2021b, p. 130 
+p. 33 : Beaubatie, 2021a, p.65 ; Clair, 2013, 
+p.115 
+
+(RES)SOURCES 
+ 
+Bajos Nathalie, Bozon Michel et Beltzer Nathalie (éd.) (2008), Enquête sur la sexualité en France: 
+pratiques, genre et santé, La découverte.  
+Bajos Nathalie, Ferrand Michèle, Andro Armelle et Prudhomme Agnès (2008), La sexualité à l’épreuve 
+de l’égalité:, In:, Enquête sur la sexualité en France, La Découverte, pp. 545­576, [en ligne], 
+https://www.cairn.info/enquete­sur­la­sexualite­en­france­2008­­9782707154293­page­
+545.htm?ref=doi,.  
+Beaubatie Emmanuel (2016), Psychiatres normatifs vs. trans’ subversifs ?, Controverse autour des 
+parcours de changement de sexe, Raisons politiques, 62(2), pp. 131.  
+Beaubatie Emmanuel (2019a), L’aménagement du placard: Rapports sociaux et invisibilité chez les 
+hommes et les femmes trans’ en France, Genèses, n° 114(1), pp. 32­52.  
+Beaubatie Emmanuel (2019b), Changer de sexe et de sexualité: Les significations genrées des 
+orientations sexuelles, Revue française de sociologie, Vol. 60(4), pp. 621­649.  
+Beaubatie Emmanuel (2021a), Le genre précède le changement de sexe, In: Clochec Pauline et 
+Grunenwald Noémie (Éd.), Matérialismes trans, Hystériques & AssociéEs, pp. 65­79.  
+Beaubatie Emmanuel (2021b), Transfuges de sexe: passer les frontières du genre, la Découverte.  
+36 Beaubatie Emmanuel (2022), Aux frontières du genre: Non­binarité et transformations de l’ordre 
+sexué, Monde commun, N° 7(2), pp. 32­47.  
+Bereni Laure, Chauvin Sébastien, Jaunait Alexandre et Revillard Anne (2020 [2012]), Introduction aux 
+études sur le genre, De Boeck Supérieur.  
+Bergström Marie (2019), Les nouvelles lois de l’amour: sexualité, couple et rencontres au temps du 
+numérique, La Découverte.  
+Bourcier Sam (2019), Homo inc.orporated: le triangle et la licorne qui pète, Cambourakis.  
+Bourdieu Pierre (1979), La distinction: critique sociale du jugement, Éditions de Minuit.  
+Boyer Julie (2021), Femmes trans lesbiennes. Transition, genre et sexualité : violences institutionnelles 
+et sociales dans les parcours de vie des femmes trans lesbiennes en France, Mémoire de master, 
+Toulouse.  
+Bozon Michel (2001), Les cadres sociaux de la sexualité, Sociétés contemporaines, 41­42(1), pp. 5.  
+Bozon Michel (2018), Sociologie de la sexualité, Armand Colin.  
+Broqua Christophe et Eboko Fred (2009), La fabrique des identités sexuelles:, Autrepart, n° 49(1), pp. 
+3­13.  
+Califia Patrick (2005), Gay Men, Lesbians, and Sex: Doing It Together, In: Morland Iain et Willox 
+Annabelle (Éd.), Queer Theory, London: Macmillan Education UK, pp. 22­27, [en ligne], 
+http://link.springer.com/10.1007/978­0­230­21162­9_3.  
+Candea Maria et Véron Laélia (2021 [2019]), Le français est à nous ! petit manuel d’émancipation 
+linguistique, la Découverte.  
+Chamberland Line et Lebreton Christelle (2012), Réflexions autour de la notion d’homophobie : succès 
+politique, malaises conceptuels et application empirique:, Nouvelles Questions Féministes, Vol. 31(1), 
+pp. 27­43.  
+Chauncey George (2003 [1994]), Gay New York: 1890­1940, Paris: Fayard.  
+Chauvin Sébastien et Lerch Arnaud (2013), Sociologie de l’homosexualité, Collection Repères, Paris: La 
+Découverte.  
+Chauvin Sébastien et Lerch Arnaud (2021), Hétéro/homo:, In:, Encyclopédie critique du genre, La 
+Découverte, pp. 355­371, [en ligne], https://www.cairn.info/encyclopedie­critique­du­genre­2021­­
+9782348067303­page­355.htm?ref=doi, (consulté le 15 mars 2023).  
+Clair Isabelle (2012), Le pédé, la pute et l’ordre hétérosexuel, Agora débats/jeunesses, N° 60(1), pp. 
+67­78.  
+Clair Isabelle (2013), Pourquoi penser la sexualité pour penser le genre en sociologie ?: Retour sur 
+quarante ans de réticences, Cahiers du Genre, n° 54(1), pp. 93­120.  
+Clair Isabelle (2015), Sociologie du genre, Paris: Armand Colin.  
+37 Clochec Pauline (2021), Introduction. Du spectre du matérialisme à la possibilité de matérialismes 
+trans, In: Clochec Pauline et Grunenwald Noémie (Éd.), Matérialismes trans, Paris: Hystériques & 
+AssociéEs, pp. 16­64.  
+Clochec Pauline et Grunenwald Noémie (éd.) (2021), Matérialismes trans, Paris: Hystériques & 
+AssociéEs.  
+Dafflon Alexandre (2015), Sexualité juvénile et fabrique du genre en milieu rural en Suisse, Genre, 
+sexualité et société, (14), [en ligne], http://journals.openedition.org/gss/3637, (consulté le 7 mars 
+2023).  
+Dayan­Herzbrun Sonia (1982), Production du sentiment amoureux et travail des femmes, Cahiers 
+Internationaux de Sociologie, 72, pp. 113­130.  
+Delpierre Alizée (2022), Servir les riches: Les domestiques chez les grandes fortunes, La Découverte.  
+Devor Holly (1993), Sexual orientation identities, attractions, and practices of female‐to‐male 
+transsexuals, Journal of Sex Research, 30(4), pp. 303­315.  
+Diter Kevin (2015), « Je l’aime, un peu, beaucoup, à la folie… pas du tout ! »: La socialisation des 
+garçons aux sentiments amoureux, Terrains & travaux, N° 27(2), pp. 21­40.  
+Dorlin Elsa (2008), Sexe, genre et sexualités: introduction à la théorie féministe, :resses universitaires 
+de France.  
+Dozier Raine (2005), Beards, Breasts, and Bodies: Doing Sex in a Gendered World, Gender & Society, 
+19(3), pp. 297­316.   
+Eloit Ilana (2020), Trouble dans le féminisme: Du « Nous, les femmes » au « Nous, les lesbiennes » : 
+genèse du sujet politique lesbien en France (1970­1980), 20 & 21. Revue d’histoire, N° 148(4), pp. 
+129­145.  
+Eloit Ilana (2021), Un cheval de Troie nommé Monique Wittig:, Cahiers du Genre, n° 71(2), pp. 
+143­168..  
+Espineira Karine (2022), Transidentités et transitudes: se défaire des idées reçues, Cavalier bleu.  
+Espineira Karine et Thomas Maud­Yeuse (2019), Études Trans. Interroger les conditions de production 
+et de diffusion des savoirs, Genre, sexualité et société, (22), [en ligne], 
+http://journals.openedition.org/gss/5916.  
+Fassin Éric (2008a), L’empire du genre: L’histoire politique ambiguë d’un outil conceptuel, L’Homme, 
+(187­188), pp. 375­392.  
+Gabriel Joao (2021), Devenir l’homme noir, repenser les expériences transmasculines au prisme de la 
+question raciale, In: Clochec Pauline et Grunenwald Noémie (Éd.), Matérialismes trans, Hystériques & 
+AssociéEs.  
+Gagnon John (2008), Les scripts de la sexualité: essais sur les origines culturelles du désir, Payot.  
+Galluzzo Anthony (2023 [2020]), La fabrique du consommateur: une histoire de la société marchande, 
+La Découverte.  
+38 Gleeson Jules Joanne, O’Rourke Elle et Rosenberg Jordy (éd.) (2021), Transgender Marxism, London: 
+Pluto Press.   
+Guillot Julie (2008), Entrer dans la maison des hommes. De la clandestinité à la visibilité : trajectoires 
+de garçons trans’ / FtM, Mémoire de Master, EHESS, mimeo.  
+Hérault Laurence (2010), Usages de la sexualité dans la clinique du transsexualisme:, L’Autre, Volume 
+11(3), pp. 279­291.  
+Iantaffi Alex et Bockting Walter O (2011), Views from both sides of the bridge? Gender, sexual 
+legitimacy and transgender people’s experiences of relationships, Culture, Health & Sexuality, 13(3), 
+pp. 355­370.  
+Jackson Stevi (1996), Récents débats sur l’hétérosexualité: une approche féministe matérialiste, 
+Nouvelles Questions Féministes, 17(3), pp. 5­26.  
+Katz­Wise Sabra L, Reisner Sari L, Hughto Jaclyn White et St. Amand Colt (2016), Differences in Sexual 
+Orientation Diversity and Sexual Fluidity in Attractions Among Gender Minority Adults in 
+Massachusetts, The Journal of Sex Research, 53(1), pp. 74­84.  
+Macé Éric (2010), Ce que les normes de genre font aux corps / Ce que les corps trans font aux normes 
+de genre, Sociologie, 1(4), pp. 497.  
+Marignier Noémie (2019), La prolifération des catégories de l’identité sexuelle: Enjeux politico­
+discursifs, L’Homme & la Société, n° 208(3), pp. 63­82.  
+McCarl Nielsen Joyce, Walden Glenda, Kunkel Charlotte Ann et Chambon Perrine (2009), 
+L’hétéronormativité genrée : exemples de la vie quotidienne:, Nouvelles Questions Féministes, Vol. 
+28(3), pp. 90­108.  
+Mizock Lauren et Hopwood Ruben (2016), Conflation and Interdependence in the Intersection of 
+Gender and Sexuality Among Transgender Individuals, Psycology of Sexual Orientation and Gender 
+Diversity, 3(1), pp.93­103.  
+Namaste Viviane K (2000), Invisible lives: the erasure of transsexual and transgendered people, 
+University of Chicago Press.  
+Naze Alain (2017), Manifeste contre la normalisation gay, La Fabrique éditions.  
+Prunas Antonio (2019), La pathologisation de la sexualité des personnes trans : racines historiques et 
+implications pour la consultation sexologique avec des clients transgenres, Sexologies, 28(3), pp. 
+135­141.  
+Quéré Mathias (2018), Qui sème le vent récolte la tapette: une histoire des groupes de libération 
+homosexuels en France de 1974 à 1979, Éditions Tahin party.  
+Rubin Gayle (2010), Surveiller et jouir: anthropologie politique du sexe, Les grands classiques de 
+l’érotologie moderne, EPEL.  
+Schilt Kristen (2015), Born This Way: Thinking Sociologically about Essentialism, In: Scott Robert A et 
+Kosslyn Stephan M (Éd.), Emerging Trends in the Social and Behavioral Sciences, Wiley, pp. 1­14, [en 
+ligne], https://onlinelibrary.wiley.com/doi/10.1002/9781118900772.etrds0027  
+39 Schilt Kristen et Lagos Danya (2017), The Development of Transgender Studies in Sociology, Annual 
+Review of Sociology, 43(1), pp. 425­443.  
+Schilt Kristen et Westbrook Laurel (2009), Doing Gender, Doing Heteronormativity: “Gender Normals,” 
+Transgender People, and the Social Maintenance of Heterosexuality, Gender & Society, 23(4), pp. 
+440­464.  
+Serano Julia (2016 [2007]), Whipping girl: a transsexual woman on sexism and the scapegoating of 
+femininity, Seal Press.  
+Simon William et Gagnon John H (1986), Sexual scripts: Permanence and change, Archives of Sexual 
+Behavior, 15(2), pp. 97­120.  
+Tabet Paola (2004), La grande arnaque: sexualité des femmes et échange économico­sexuel, 
+Bibliothèque du féminisme, l’Harmattan.  
+Trachman Mathieu, Lejbowicz Tania, et l’équipe de l’enquête Virage (2018), Les personnes qui se 
+disent bisexuelles en France:, Population & Sociétés, N° 561(11), pp. 1­4.  
+Trachman Mathieu (2018), Sexualité et sociabilité masculine. Désir et pratiques de genre dans un club 
+de fessée, Sociologie, 9(4), pp. 381.  
+Waites Matthew (2005), The Fixity of Sexual Identities in the Public Sphere: Biomedical Knowledge, 
+Liberalism and the Heterosexual/Homosexual Binary in Late Modernity, Sexualities, 8(5), pp. 539­569.   
+Waites Matthew (2016), Critique de l’« orientation sexuelle » et de l’« identité de genre » dans le 
+discours des droits humains : la politique queer mondiale au­delà des principes de Yogyakarta, Genre, 
+sexualité et société, (15), [en ligne], http://journals.openedition.org/gss/3736.  
+Weeks Jeffrey (2014 [1972]), Sexualité, Presses universitaires de Lyon.  
+Wittig Monique (2018 [1980]), La pensée straight, Éditions Amsterdam.  
+ 
+Comptes de memes ou autres trucs sur insta : 
+@we__are__very__gay 
+@homocommunist 
+@sapphowashere 
+@transbaguette @tumemess 
+@aggressively_trans 
+@sweatermuppets 
+@gouinette_parle_trop 
+
+Merci de votre lecture ! <3 
+
+Dans ce fanzine, on discute des liens entre genre et 
+sexualité, tout particulièrement dans le cas de la sexualité 
+des personnes trans, dans une approche transmatérialiste. 
+
+« Écœurant, ça va encore rendre des gens trans ça ! » 
+­ Christine Delphy, féministe matérialiste mais cissexiste  
+ 
+« EW ! Je voulais pas savoir ça. » 
+­ Marguerite Stern, cheffe de file des TERF  
+ 
+*** 
+Pour toute remarque, question, critique, vous pouvez volontiers écrire à 
+ckoilesbaux@proton.me  :)

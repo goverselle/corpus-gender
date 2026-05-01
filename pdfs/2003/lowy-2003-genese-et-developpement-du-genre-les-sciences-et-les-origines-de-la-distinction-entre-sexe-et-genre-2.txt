@@ -1,0 +1,358 @@
+Genèse et développement du genre : les sciences et les
+origines de la distinction entre sexe et genre
+Ilana Löwy , Hélène Rouch
+Dans Cahiers du Genre 2003/1 n° 34 , pages 5 à 16
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782747546010
+DOI 10.3917/cdge.034.0005
+Date de mise en ligne : 01/02/2012
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2003-1-page-5?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+Cahiers du Genre, n° 34 
+Genèse et développement du genre : 
+les sciences et les origines 
+de la distinction entre sexe et genre 
+Ilana Löwy et Hélène Rouch 
+And, moreover, whatever the brain 
+might do […] the body remains 1. 
+Virginia Woolf, 1938 
+Alors que la problématique du gender a été introduite et 
+développée par les féministes anglo-américaines dès le début 
+des années 1970, celle du « genre » a eu du mal à s’imposer en France dans les études féministes et, a fortiori , dans les univer-
+sités et instituts de recherche. On peut avancer à cela plusieurs 
+raisons qui sont liées entre elles. 
+On évoque souvent la polysémie du terme genre en français : 
+sens dans la grammaire, dans la classification des naturalistes, dans la littérature, dans le la ngage commun. Dans son acception 
+de sexe social distinct du sexe biologique, « genre » a d’abord été 
+d’une utilisation malcommode car il demandait chaque fois à 
+être défini. On peut surtout mettre en avant la faible institution-
+nalisation en France des études féministes ou sur les femmes, 
+qui n’a pas permis de réellement structurer dans l’inter-disciplinarité un champ qui se caractérise pourtant par sa trans-
+ 
+1 Virginia Woolf (1992 [1938]). Three Guineas . Oxford University Press, p. 147. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Ilana Löwy et Hélène Rouch 6
+versalité 2. Les recherches sont restées localisées aux disciplines 
+universitaires traditionnelles, où el les ont d’ailleurs été longtemps 
+marginalisées. Lorsque les chercheuses françaises ont commencé à s’interroger sur le gender , elles avaient déjà à leur disposition 
+une terminologie qui donnait sens à leur orientation théorique — et politique — en fonction d es concepts, des méthodes, des 
+sources, de leurs disciplines respectives : sexe social en 
+anthropologie, rapports sociaux de sexe en sociologie, 
+masculin/féminin en littérature , femmes/hommes en histoire, 
+différence des sexes en philos ophie... L’introduction du genre, 
+au sens de sexe socialement et cu lturellement construit dans un 
+rapport de domination, aurait pu, en faisant consensus, faciliter 
+le dépassement des cloisonnements disciplinaires. Cela n’a pas 
+été le cas, cela ne l’est toujours pas vraiment, bien que l’utilisation 
+du terme progresse à l’intérieur de chaque discipline dans la mesure même où y est discutée la notion à laquelle il renvoie 
+3. 
+En France, les débats sur le genre trouvent leur soubassement 
+dans le conflit théorique qui, da ns le mouvement des femmes des 
+années 1970, s’est focalisé, jusqu’ à l’obsession, sur la différence 
+des sexes. Un conflit qui, malgré la richesse des productions auxquelles il a donné lieu, a très tôt rigidifié l’antagonisme entre deux positions divergentes sur les rapports entre sexe biologique et sexe social : soit, en schématisant à l’extrême, 
+d’un côté un « essentialisme » tena nt d’une « nature féminine » 
+à redécouvrir et à ré-exprimer car refoulée par le phallo-centrisme, de l’autre un « maté rialisme » dénonçant dans la 
+« nature féminine » une constr uction socioculturelle destinée à 
+légitimer l’oppression des femmes. Le second courant a reproché 
+au premier de faire du sexe biologique un réel incontournable 
+qui justifie la bicatégorisation de l’humanité en hommes et femmes structurant le social ; le premier courant a reproché au second de réduire le sexe biologique à un simple marqueur qui 
+ 
+2 Transversalité revendiquée lors du colloque « fondateur » de Toulouse 
+Femmes, féminisme et recherches (1982), puis par l’ ATP du CNRS Recherches 
+sur les femmes et recherches féministes (1983-1987). 
+3 On peut constater les di fficultés à dépasser cette fi xation disciplinaire au tra-
+vers de deux ouvrages servant de jalons : Sexe et Genre (Hurtig et al. (eds) 
+1991) et Le genre comme catégorie d’analyse. Sociologie, histoire, 
+littérature (Fougeyrollas-Schwebel et al. (eds) 2003). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Genèse et développement du genre (Introduction) 7
+ne prendrait sens et importance que par le social. Dans les deux 
+cas, le contenu scientifique du sexe biologique, à la fois en tant 
+que description binaire de la se xuation des corps et construction 
+socioculturelle de cette descriptio n, est resté largement ininterrogé 
+jusqu’au milieu des années 1980 4. Les réticences à la valeur 
+heuristique du genre s’enracinent dans ce conflit — bien que la 
+transposition ne soit pas univoque — quand se pose la question 
+de savoir si le sexe précède le genre ou si le genre précède le 
+sexe. Si les rapports entre sexe biologique et genre ne sont pas clairement explicités, et ils le sont rarement, c’est soit le sexe qui reste naturalisé en arrière-fond du genre (un fond « biologique » mis entre parenthèses), soit le genre qui se charge d’une natura-
+lisation que le sexe ne porte plus (d ès lors qu’il est aussi « social » 
+que le genre). 
+Le terme genre devrait néanmoins finir par s'imposer, ne 
+serait-ce que parce qu’il est devenu le mot-clé des institutions européennes pour promouvoir l’ég alité des femmes. L’apparente 
+neutralité du terme est d’ailleurs rassurante pour des institutions 
+d’enseignement et de recherche qui ont d’abord dévalorisé, voire 
+ignoré, des recherches jugées trop idéologiques ou militantes quand elles contestaient concepts et méthodes. Il semble qu’il faille être féministe pour savoir (et affirmer) que le genre désigne un rapport de domination entre les sexes, donc un 
+antagonisme qui appelle à un change ment radical de la société 
+pour être résolu. Bien que le go mmage de la dimension politique 
+du terme genre en gêne plus d’une, les féministes ont cependant tout intérêt à s’engouffrer dans une brèche plus large (mais 
+aussi plus concurrentielle et pl us susceptible de récupération) 
+que celle ouverte par les « études féministes ». Le genre est 
+maintenant présent dans l'intitulé de plusieurs programmes et 
+ 
+4 Le premier travail clairement identifié, en France, sur ce thème est celui de 
+Joëlle Wiels et Évelyne Peyre, notamme nt dans « Sexe biologique et sexe 
+social » (in Sexe et Genre , op. cit. ) ; on le retrouve développé dans L’invention 
+du naturel (Gardey, Löwy (eds) 2000), partic ulièrement dans l’article de 
+Cynthia Kraus « La bicatégorisation par sexe à l’épreuve de la science ». À 
+cet égard, le féminisme français, à l’ inverse des féminism es anglo-saxons, a 
+cruellement manqué d’historiennes et de sociologues des sciences, ainsi que 
+de chercheuses scientifiques (en biologie particulièrement), intéressées par la 
+problématique sexe/genre. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Ilana Löwy et Hélène Rouch 8
+groupes de recherche (tels le MAGE — Marché du travail et 
+genre — ; l’équipe Simone- SAGESSE ; le GERS — Genre et 
+rapports sociaux), dans l’intitulé de réseaux (tel le RING — 
+Réseau interuniversitaire et inte rdisciplinaire national sur le 
+genre) et dans le titre de revues (tels les Cahiers du Genre ). 
+Dans ce contexte français, c’ est sans doute parce que les 
+notions de sexe et de genre demeurent trop fixées l’une à un 
+contenu biologique, l’autre à un contenu sociologique, qu’il 
+reste encore souvent la convic tion que la séparation sexe/genre 
+reflète simplement le partage entr e les traits biologiques (présumés 
+immuables) et les attitudes, comportements et rôles (présumés flexibles). Cette conviction disparaît pourtant dès lors qu'on se 
+penche, hors du strict cadre du fémi nisme, sur l'histoire de la 
+distinction des notions de « sexe » et de « genre », pour retracer non seulement le faisceau de relations qui ont conduit à l'établissement de cette distinction, mais aussi les modifications de la signification de ces termes. 
+Il est aujourd’hui largement admis que le « naturel » soit 
+construit par la culture (Gardey, Löwy 2000). La compréhension 
+des corps et des comportements — y compris l’interprétation que chacun fait de ses sensations corporelles — est toujours historique et située. Par ailleurs, on ne peut pas faire abstraction de la matérialité des corps. La différence des sexes se laisse 
+alors définir comme un phénomène biosocial, qui ne peut 
+exister hors du « tissu d’un seul tenant » ( seamless web ) liant le 
+biologique au socioculturel. À partir du dix-neuvième siècle, 
+des sciences et des techniques ont pris une importance crois-sante dans la constitution de ce ti ssu sans couture et elles ont 
+joué un rôle-clé dans la cons truction de la perception des 
+différences entre les corps sexués. Evelyn Fox Keller (1992) établit un parallèle entre la culture — un outil symbolique qui focalise l’attention sur certains objets, similitudes et différences en en laissant d'autres dans l' ombre — et la science moderne — 
+un ensemble de concepts, d’instruments et de techniques qui 
+favorisent l'observation de certain s phénomènes naturels et en 
+négligent d’autres. Les articles qui composent ce numéro des Cahiers du Genre montrent que l'émergence, la stabilisation et 
+les mutations de la distinction entre sexe et genre sont in-séparables de l'évolution des connaissances et des pratiques 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Genèse et développement du genre (Introduction) 9
+dans des domaines tels que l'an thropologie, la sexologie, la 
+psychiatrie, la psychologie, la biologie, la physiologie ou la 
+médecine. Il s'agit d'un double mouvement : le savoir des experts a reflété des idées en vigueur dans la société en même temps qu’il façonnait la manière de pe nser la différence des sexes. 
+* * 
+* 
+Nous proposons dans ce numéro de distinguer, schéma-
+tiquement, trois grandes étapes dans l'histoire de la dissociation entre sexe et genre : 
+1) 1860-1940 : la dissociation graduelle entre des structures 
+anatomiques, des fonctions physio logiques, l'identité sexuée, le 
+désir sexuel et le rôle social. 
+Pendant longtemps les spécialistes ont supposé que chez 
+l’individu « normal » ces éléments étaient inséparablement liés. Les doutes sont venus des études anthropologiques, de l'obser-
+vation des individus intersexués, des études sur les « sécrétions 
+internes », des débuts des mouvements homosexuels et des mou-vements de femmes. Les anthropologues ont observé l'existence d'une grande variabilité des rôles et des comportements sexuels, des définitions des identités sexuées , et ils se sont rendu compte 
+que d'autres cultures permettaient de dépasser les divisions 
+binaires strictes. Ivan Crozier suit les débuts de la sexologie et le 
+rôle de cette discipline naissante dans l'établissement des dis-tinctions savantes entre la sexualité « normale » et « patho-logique ». La sexologie a décrit la très grande variété des compor-tements sexuels humains dans les sociétés occidentales. Elle a 
+posé clairement le problème de l’homosexualité. Enfin elle a 
+démontré que la richesse et la complexité des différences entre les comportements sexuels des hommes et des femmes étaient difficilement réductibles à une simple dichotomie entre « masculin » et « féminin ». 
+Dès le début du vingtième siècle, les études sur les « sécrétions 
+internes » (les hormones) ont en parallèle singulièrement 
+complexifié la vision simpliste de la « masculinisation » et de la « féminisation » par les gonades. Christiane Sinding montre que ces recherches ont conduit à dissocier des « qualités » mas-culines et féminines des structur es anatomiques fixes. Le sexe 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Ilana Löwy et Hélène Rouch 10
+biologique s’est révélé progressivement comme composé de 
+multiples caractéristiques pouvant se définir à plusieurs niveaux 
+— anatomique, physiologique, hormonal, cellulaire, chromo-somique. Cette complexification de la notion de sexe biologique (les traits sexuels sont des entités complexes qui résistent à une vision dualiste) a ouvert ainsi à la possibilité d’un question-nement plus large de la défin ition des rôles sexués considérés 
+jusqu’alors comme ancrés dans la biologie. Dans cette pers-
+pective, il est intéressant de redécouvrir comment certaines 
+féministes des années 1920-193 0 — telle Adrienne Sahuqué, 
+relue par Hélène Rouch — interr ogent les liens entre les repré-
+sentations savantes des corps sexués et les modèles culturels de 
+la « féminité » et de la « masculin ité », et n’hésite nt pas à mettre 
+ces liens en rapport avec la domination masculine qui organise la société. 
+2) 1940-1960 : la période charni ère de la naissance de la défi-
+nition « scientifique » du genre comme une « identité profonde » de l'individu. 
+La « genèse du genre » est liée à la production industrielle 
+des hormones sexuelles et à leur utilisation en tant que médi-caments — dont Jean-Paul Gaudillière décrit les débuts en Allemagne. Elles furent ainsi util isées dans le traitement des 
+anomalies du sexe de naissance, des dysfonctionnements des 
+organes reproductifs, des défaillances du désir sexuel, des stéri-
+lités. Bien que de nos jours ces traitements soient réservés prin-cipalement aux femmes (traiteme nt des stérilités féminines, 
+traitement substitutif de la ménopa use), dans l'Allemagne nazie, 
+les hommes furent les premières cibles d’un traitement hor-
+monal censé remédier aux stér ilités masculines et potentialiser 
+les qualités viriles. Ilana Löwy s' intéresse à une autre utilisation 
+des hormones sexuelles : l'acquisition des traits du sexe opposé. Dès les années 1950, des individus on t utilisé le « sexe en flacon » 
+(bottled sex ), c'est-à-dire des préparations à base d’hormones 
+sexuelles, vendues en pharmacie, pour modifier radicalement 
+leurs caractères sexuels secondair es. Les « transsexuels » (le 
+terme fut proposé à cette époque) ont été définis comme des personnes souffrant d'un « trouble de genre », soit un désaccord profond entre l'identité sexuée inscrite dans leur corps et celle inscrite dans leur psychisme. Des experts admirent qu'un tel 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Genèse et développement du genre (Introduction) 11
+désordre ne pouvait être guéri que par un changement du sexe 
+biologique : les corps sexués furent dès lors perçus comme plus 
+flexibles que les identités psychiques. 
+Après la seconde guerre mondiale, la conjonction de dif-
+férentes disciplines (anatomie, embryologie, génétique, endo-crinologie) permit une compré hension d’ensemble du déter-
+minisme et du développement du sexe. En même temps, la 
+multiplication des critères utilisés pour définir le sexe rendait de 
+moins en moins évidente une bicatégorisation cohérente avec chacun de ces critères. Ces difficultés ont alimenté les discussions des différents spécialistes. Mais elles ont finalement peu compté en regard de leur conviction que, dans la mesure où l’existence 
+de deux sexes est la condition nécessaire et suffisante de la 
+reproduction sexuée, la bicatégorisation est justifiée (celle du sexe comme celle du genre en tant qu’identité sexuée), quitte à cataloguer les exceptions à la règle. 
+C’est aussi, souligne Hélène R ouch, l’avis de Simone de 
+Beauvoir qui, bien que non scientifique, s’est donné la peine, 
+pour Le Deuxième Sexe , de lire quelques-uns de ces spécialistes. 
+Bien qu’elle ait été reconnue par les féministes des années 1970 comme celle qui a jeté les b ases d’une nouvelle définition du 
+genre, en étayant la distinction entre un sexe biologique inné et un sexe social imposé aux femmes (son fameux « on ne naît pas 
+femme, on le devient »), on peut pourtant lui reprocher d’avoir 
+naturalisé « la femme » en la soumettant à un sexe lui-même soumis à la fonction reproductiv e. Relire Beauvoir aujourd’hui 
+dans ses contradictions montre co mbien elle a anticipé les débats 
+actuels sur le genre. D’une part, elle a su interpréter certaines 
+« données biologiques » comme relevant d’une construction 
+socioculturelle ; d’autre part, et surtout, son insistance sur la 
+perception et l’expérience qu’ont les femmes de leur corps sexué et de leur sexualité, da ns un entre-deux biologique et 
+social, fait du corps le pivot et l’enjeu de la réflexion sur la différence des sexes, et partant, de la réflexion sur la distinction 
+entre sexe et genre. 
+3) À partir des années 1970 : l'émergence du concept féministe 
+de genre comme relation de domination. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Ilana Löwy et Hélène Rouch 12
+Irène Jami explique comment la nouvelle définition du genre 
+fut développée dans les pays de langue anglaise dans les années 
+1970-1980. La définition du ge nre comme relation de domi-
+nation a ouvert la voie à de multiples élaborations théoriques, certaines d'inspiration marxiste, d'autres liées à des réflexions sur la sexualité, ou sur le genre en tant que performance. En parallèle, les années 1980 virent s’opérer la jonction entre les 
+recherches sur le genre et les ét udes sociales et culturelles sur la 
+science. Les recherches d'inspiration féministe mettent alors en évidence les multiples modifications des rôles et des identités masculines et féminines dans d es périodes, des cultures et des 
+lieux différents. 
+Ainsi, Maneesha Lal, en analysant les articulations entre les 
+études de genre et les études postcoloniales, fait apparaître de telles modifications des identités dans l’Inde coloniale. Elle met en rapport la problématique de genre avec d’autres divisions : de classe, de caste, de religion, d’ethnie. Cela lui permet de souligner l’importance du démantèlement des oppositions 
+binaires, comme l’opposition entre métropole et colonies, entre 
+Occident et Orient, ou entre tradition et modernité. 
+D’autres recherches féministes insistent en parallèle sur 
+l'historicité du « sexe biologique » : notre compréhension des différences biologiques entre hommes et femmes n'est ni 
+éternelle, ni immuable ; elle dépend souvent des concepts et 
+des pratiques scientifiques en vigueur, elle est influencée par le développement des technologies de la médecine. Dans la période 
+1930-1960, la division entre sexe et genre a été affectée, on l’a vu, par la transformation des hormones sexuelles en médi-
+caments. Laurence Tain montre qu’entre 1970 et 2000, 
+l'avènement des méthodes d'assistance médicale à la repro-duction bouleverse de nouveau la définition du « sexe bio-logique » et la distinction sexe /genre. Ces techniques permettent 
+aux hommes « stériles » de devenir les pères biologiques de leurs enfants, elles séparent dans le temps et l'espace la 
+fécondation et la gestation, elles rendent possible le découplage 
+entre maternité gestative et maternité génétique. Elles bousculent de ce fait les attri buts « immuables » des corps 
+masculins et féminins. De plus, en mettant en avant le principe 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Genèse et développement du genre (Introduction) 13
+de l’hétérosexualité et le « droit » à avoir un enfant à qui 
+transmettre l' ADN parental, ces techniques renvoient les 
+individus à des rôles biologiques traditionnels. 
+* * 
+* 
+Nous ne prétendons nullement, en présentant cet ensemble 
+d’articles, tracer une histoire complète de la séparation entre sexe et genre. Pour cela il aurait fallu, par exemple, parler davantage de la maternité ou de l’homosexualité. Mais notre 
+objectif était de fournir un schéma de cette histoire assez mal 
+connue en France, surtout en ce qui concerne les disciplines 
+scientifiques telles la biologie ou la médecine. D'autres travaux, nous l’espérons, viendront enrichir, développer, compléter ou corriger le schéma proposé ici. Et sans doute le compliquer, comme le font certaines tendances des gender studies et des 
+queer studies , notamment celles qui s'appuient sur les travaux 
+de Judith Butler. Celle-ci affirme que le genre, en tant qu’idéal 
+normatif orientant la perception du sexe, n’est compréhensible qu’à travers une grille interprétative — la matrice hétéro-sexuelle — qui naturalise corps, genres et désirs. Dans ce cadre, pour être cohérents et avoir un sens, les corps doivent posséder 
+un sexe stable, exprimé par un genre stable. Le genre est alors 
+défini comme mutuellement exclusif (on ne peut pas être mâle et femelle) et hiérarchique (le mâle est supérieur à la femelle) à travers la pratique compulsive de l’hétérosexualité. Il est donc 
+performatif et indissociable des pratiques sexuelles présentées comme « normales ». De ce fait, il peut être déstabilisé par les 
+parodies répétitives de sa performance qui soulignent les rap-
+ports artificiels le liant aux co rps et aux sexualités. De telles 
+parodies sabotent le principe de binarité du sexe et ouvrent ainsi la voie à une pluralité des confi gurations de sexe et de genre 
+(Butler 1990). 
+Critiquant les idées de Butler, Bernice Hausman (1995) tente 
+de réhabiliter le « sexe », qu'e lle définit comme la corporalité 
+des notions de masculinité et de féminité. L'idée que les genres et les sexes sont performatifs, et de ce fait modulables à l'infini, 
+se heurte à la matérialité des corps sexués, mais aussi aux données historiques. Ainsi, si la conceptualisation actuelle du 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Ilana Löwy et Hélène Rouch 14
+« sexe biologique », note Hausman reprenant Laqueur (1990), 
+date de trois cent ans au plus, le « genre » n’apparaît que dans 
+les années 1950. Hausman soulève deux questions importantes : le rôle des connaissances scientifiques et des technologies médicales 
+dans la naissance de la distinc tion sexe/genre, et la disparition 
+graduelle des corps du discours su r le genre. Cependant, elle 
+discute uniquement avec l es théoricien(ne)s des gender studies 
+et des queer studies , et n'engage pas un véritable dialogue avec 
+les études sociales et culturelles sur la science. Elle soutient que si Butler, dans Bodies that Matter (1993), parle beaucoup de 
+« matérialité des corps », il s'agit avant tout d'une notion dis-cursive : Butler n'est pas véritablement intéressée par la matière 
+et par la corporalité, ni par les techniques qui manipulent et 
+modifient les corps. 
+Il faut noter, en parallèle, que Hausman insiste sur l'importance 
+de l'histoire des sciences et de la médecine, mais que, in fine , sa 
+perception des rapports entre sexe et genre reste essentiellement anhistorique. Son argument princi pal est que, dans la mesure où 
+le terme de genre est très récent — un demi-siècle au plus — il 
+ne saurait être appliqué sans an achronisme à des périodes anté-
+rieures, et donc il est incorrect d' affirmer que le genre a toujours 
+précédé et défini le sexe. Elle propose en conséquence de revenir 
+à la notion de sexe — défini comme « l'appareil conceptuel qui 
+désigne le corps dans le discours médical, et dans d'autres 
+discours » (p. 179) — et au constat que le sexe précède le genre. 
+Or, l'opposition de cette affirmatio n que le sexe précède le genre 
+à celle, développée par des féministes, que le genre a précédé le sexe, repose sur un malentendu sémantique : évidemment, le 
+genre a précédé le sexe, puisque les différences entre les corps 
+sont toujours perçues à travers le prisme de la culture ; 
+évidemment, le sexe a précédé le genre, puisque depuis des millénaires, le mot « sexe » — en particulier lorsqu’il s’entend au sens d’« appareil conceptuel » et d’« élément du discours » — a une dimension culturelle et sociale. Seulement, dans ces 
+deux propositions, le terme « genre » est utilisé d'une manière 
+très différente : comme une catégorie classificatoire atemporelle dans la première, comme une ca tégorie historique dans la 
+seconde. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Genèse et développement du genre (Introduction) 15
+Le titre de cette introduction, « genèse et développement du 
+genre », fait allusion au titre de l'ouvrage du pionnier de la socio-
+logie de la connaissance scientifique, Ludwik Fleck, Genèse et 
+développement d'un fait scientifique (1935). Fleck a tenté 
+d’élaborer une vision de la science qui prenne simultanément en considération la matérialité du m onde et la construction sociale 
+des connaissances. Les « faits scien tifiques », avance-t-il, sont des 
+« nœuds » dans des réseaux d'interactions entre les chercheurs 
+et, en même temps, des « signes de résistance » aux tentatives des humains d'imposer leur volonté à l'univers dans lequel ils vivent. Les faits sont « faits », cependant il ne s'agit nullement 
+d'une création libre mais d' un processus façonné par une 
+interaction complexe et multidimen sionnelle entre les contraintes 
+du monde matériel et les méthodes de l'investigation scien-tifique. Ces dernières — rattachées à la culture générale d'une période — sont le résultat d'un développement historique spé-cifique. De même, les termes et les concepts scientifiques sont le fruit d'un développement historique précis : la « chaleur » 
+d'Aristote n'a pas grand-chose en commun avec ce que désigne 
+ce terme dans un texte de physique contemporaine. Faire abstraction du sens précis des te rmes à une période et dans un 
+lieu donnés induit forcément l’appr oximation, voire la confusion. 
+Ce principe s'applique égalem ent aux termes « sexe » et 
+« genre ». L'histoire de la distinction entre ces deux termes ne 
+peut que contribuer à clarifier les débats théoriques. Étudier le développement des concepts et des pratiques en des temps et en des lieux bien définis permet de lever certains malentendus sémantiques, et, en ce qui nous concerne, d’améliorer notre 
+compréhension de la conceptua lisation des différences entre les 
+sexes. De telles recherches rendent donc plus efficace la résis-tance aux tentatives visant à transformer ces différences en locus de domination et d'exploitation. 
+Le déplacement dans le temps, disent les historiens, permet 
+également de renouveler le rega rd que nous portons sur des 
+problèmes familiers. Le principe peut s'appliquer au déplacement 
+dans l'espace. Les réflexions sur le partage sexe/genre se sont presque toujours focalisées sur la culture (y compris la culture scientifique et médicale) occidentale. Les difficultés que nous avons à prendre en compte la matérialité des corps sans tomber 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Ilana Löwy et Hélène Rouch 16
+ni dans un essentialisme, ni da ns un culturalisme, reflètent 
+souvent la ténacité de nos habitudes de pensée et l’attachement à 
+certaines catégories perçues comme naturelles et « allant de soi » dans notre culture. En prendre conscience devrait nous aider à 
+mieux négocier le chemin étroit en tre le danger de la négligence 
+de la matérialité des corps sexués, d’un côté, et celui de l'oubli 
+de leur dimension socioculturelle, de l’autre. Vues à travers les 
+« lunettes » d'une autre culture, les choses que nous tenons pour 
+acquises deviennent moins évidentes en même temps que sont bousculées les classifications et les chronologies, les certitudes et les idées préconçues. 
+Références 
+Butler Judith (1990). Gender Trouble: Feminism and the Subversion 
+of Identity . New York, Routledge. 
+— (1993). Bodies That Matter: On the Discoursive Limits of « Sex » . 
+New York, Routledge. 
+Fleck Ludwik (1979 [1935]). Genesis and Developme nt of a Scientific 
+Fact [trad. Fred Bradley & Thaddeus J. Trenn]. Chicago, The 
+University of Chicago Press. 
+Fougeyrollas-Schwebel Dominique, Planté Christine, Riot-Sarcey 
+Michèle, Zaidman Claude (eds) (2003). Le genre comme catégorie 
+d’analyse. Sociologie, histoire, littérature . Paris, L’Harmattan. 
+Fox Keller Evelyn (1992). Secrets of Life, Secrets of Death: Essays on 
+Language, Gender and Science . New York, Routledge. 
+Gardey Delphine, Löwy Ilana (eds) (2000). L'invention du naturel. 
+Les sciences et la fabrication du féminin et du masculin . Paris, 
+Archives Contemporaines. 
+Hausman Bernice L. (1995). Changing Sex: Transsexualism, Technology 
+and the Idea of Gender . Durham, Duke University Press. 
+Hurtig Marie-Claude, Kail Michèle, Rouch Hélène (eds) (1991). Sexe 
+et Genre. De la hiérarchie entre les sexes . Paris, CNRS [réédité 
+2002]. 
+Laqueur Thomas (1990). Making Sex: Body and Gender from the 
+Greeks to Freud . Cambridge, Mass., Harvard University Press. 
+[Trad. française (1992). La fabrique de sexe : essai sur le corps et 
+le genre en Occident . Paris, Gallimard]. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

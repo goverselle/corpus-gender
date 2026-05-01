@@ -1,0 +1,774 @@
+Les ‘persécutions liées au genre' en Suisse : les frontières
+du droit d'asile en question
+Jonathan Miaz
+Dans Cahiers du Genre 2014/2 n° 57 , pages 55 à 75
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782343049793
+DOI 10.3917/cdge.057.0055
+Date de mise en ligne : 15/12/2014
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2014-2-page-55?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+ Cahiers du Genre, n° 57/2014 
+Les ‘persécutions liées au genre’ en Suisse : 
+les frontières du droit d’asile en question 
+Jonathan Miaz 
+Résumé 
+À travers le cas suisse, cet article analyse l’intégration d’une dimension 
+de genre dans la définition juridique de la notion de réfugié·e. L’auteur y 
+montre comment différents niveaux de la chaîne du droit ont contribué à cette 
+évolution, laquelle est donc appréhendée à la fois par le haut (instances 
+internationales, débats parlementaires , jurisprudence), mais aussi par le 
+bas, dans les pratiques internes de l’ administration. En mettant en lien ces 
+différents niveaux, l’auteur insiste su r le rôle important que jouent les 
+fonctionnaires dans la production des normes juridiques (et non pas 
+seulement dans leur seule applicati on). Enfin, il montre que, si les 
+‘persécutions liées au genre’ sont davantage prises en compte, elles restent 
+des motifs ‘de seconde zone’ dont le caractère politique demeure dénié. 1 
+SUISSE — DROIT D ’ASILE — RÉFUGIÉ ·E·S — PERSÉCUTIONS LIÉES AU GENRE 
+Depuis les années 1980, des critiques féministes ont dénoncé 
+le caractère androcentré de la définition juridique du réfugié 
+(Gafner, Schmidlin 2007 ; Freedman 2008, 2010a, 2010b ; Barzé 2012) en insistant sur la nécessité de prendre en compte la dimen-
+sion genrée des persécutions. Selon ces travaux, cette définition reposerait sur des expériences principalement masculines. En 
+ 
+1 Je remercie Fiona Friedli et Bernard Voutat pour leur relecture attentive, 
+ainsi que les lecteurs et lectrices anonymes et les coordinatrices du numéro 
+pour leurs commentaires. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 56
+ignorant le genre, le sexe ou encore l’orientation sexuelle 
+comme causes de persécutions, elle ne tiendrait pas compte de 
+la manière différenciée dont les femmes sont affectées par les 
+conflits, les guerres ou encore les violations des droits humains, et ne reconnaîtrait pas certaines pratiques menées par des femmes comme politiques au même sens et au même titre que 
+pour les hommes. Plus généraleme nt, elle n’intégrerait pas les 
+persécutions visant spécifiquement les femmes. Comme le 
+souligne Magalie Gafner (2003) : 
+Une opposition aux règles de comportement imposées spécifi-
+quement aux femmes n’est pas considérée comme une opposition 
+politique. 
+Progressivement, cependant, les instances internationales ont 
+intégré cette critique dans des li gnes directrices à l’intention des 
+États. En Suisse, différents acteurs se sont fait l’écho de ces débats. Depuis 1998, la loi suis se sur l’asile établit qu’il « y a lieu 
+de tenir compte des motifs de fuite spécifiques aux femmes » 
+(art. 3 al. 2 
+LAsi). Au sein de l’Office fédéral des migrations 
+(ODM ) — administration chargée d’instruire les demandes 
+d’asile —, ces évolutions se sont traduites par l’élaboration d’une 
+pratique interne en matière de ‘persécutions liées au genre’ (Geschlechtsspezifische Verfolgung , dite pratique Gespever ), ce 
+terme de ‘pratique’ désignant un dispositif d’interprétation des 
+textes juridiques destiné à orienter leur application à des 
+situations déterminées. 
+Différents travaux ont insisté sur l’importance du genre 
+2 
+— ses implicites et ses effets — dans notre compréhension de l’action publique (Jenson, Lépinard 2009) et du droit (Lépinard 2006 ; Bereni et al . 2009, 2010), non seulement à propos de 
+politiques concernant directement l’ égalité des sexes, mais aussi, 
+vu sa dimension transversale, da ns des domaines où le genre 
+n’en est pas l’objet explicite (Bereni et al. 2012). Ainsi en va-t-
+il du droit d’asile où cette dimension a été étudiée, notamment, 
+ 
+2 À propos de la notion de genre, il convie nt de distinguer sa définition en tant 
+que concept scientifique désignant un rapport social diviseur (Bereni et al. 
+2012, p. 10), de celle retenue par l’admi nistration en termes d’« appartenance 
+sexuelle », d’« orientation sexuelle » et d’« identité de genre ». La notion de 
+« persécutions liées au genre » est considérée ici comme une catégorie d’action 
+publique. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 57
+en relation avec les parcours migratoires, la place des femmes 
+dans les procédures suivies par les autorités, les ‘persécutions liées 
+au genre’ (Bhabha 1996 ; Bohmer, Shuman 2008 ; Freedman 2008) ou encore, plus spécifiqueme nt, l’orientation sexuelle des 
+demandeurs et demandeuses d’ asile (Morgan 2006 ; Kobelinsky 
+2012). Suivant la formule d’Éléonore Lépinard (2006, p. 47), il importe d’entrer dans la « boîte noire de la production de la 
+norme juridique » : parce que le droit, en tant qu’expression 
+formalisée d’une matrice cognitive , participe de la construction 
+sociale de la réalité, il contribue, en l’occurrence, à définir la notion de réfugié·e et donc à circon scrire le cercle des personnes 
+susceptibles d’entrer dans le cadre d’une ‘politique d’asile’. 
+En Suisse, l’incorporation du genr e dans le droit d’asile inter-
+vient progressivement à plusieurs niveaux, dans le cadre de ce que Pierre Lascoumes (1990) appelle « un processus de création 
+normative continu ». Elle se réalise en effet aussi bien par le 
+haut, via les instances internationales, les débats parlementaires 
+et certaines évolutions jurispr udentielles, que par le bas, à 
+l’interne de l’administration, dont il faut considérer le rôle im-
+portant dans la production (et non pas dans la seule application) 
+des normes juridiques (Chevallier 2011). À partir d’une recherche portant sur les usages sociaux du droit en matière 
+d’asile en Suisse 
+3, cet article propose une analyse des modalités 
+par lesquelles les différents niveaux de la chaîne du droit 
+(révisions législatives, changements réglementaires et jurispru-dentiels, modifications des ‘règ les secondaires d’application’) 
+ont contribué à faire évoluer la définition juridique de la notion de réfugié·e en y intégrant une dimension de genre. 
+ 
+3 Cet article s’appuie sur une enquê te ethnographique menée entre 2010 et 
+2013 dans le cadre d’une thèse de doctorat en science politique. J’ai procédé à 
+plusieurs stages d’observation (Centre d’ enregistrement et de procédure et 
+Centre administratif de l’ ODM ; bureaux de consultation juridique) et à des 
+entretiens ( n=95 ) avec des fonctionnaires, des juri stes, avocat·e·s et bénévoles 
+de services d’aide juridique ainsi qu’ avec des juges, des greffiers et des 
+greffières du Tribunal administratif fédéral ( TAF). Ces données sont complé-
+tées par une importante recherche docum entaire (archives fédérales en ligne, 
+rapports, dossiers de presse, juri sprudence, text es juridiques). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 58
+Des ‘motifs de fuite spécifiques aux femmes’ 
+reconnus dans la loi 
+Entrée en vigueur en 1981, la première loi sur l’asile ( LAsi), 
+en dépit des nombreuses révisions dont elle a été l’objet, n’a pas modifié la définition de la notion de réfugié·e, reprise pour 
+l’essentiel de la Convention de Ge nève de 1951 et du Protocole 
+de New-York de 1967. Le premier alinéa de l’article 3 
+LAsi 
+prévoit que : 
+Sont des réfugiés les personnes qui, dans leur État d’origine ou 
+dans le pays de leur dernière résidence, sont exposées à de 
+sérieux préjudices ou craignent à juste titre de l’être en raison 
+de leur race, de leur religion, de leur nationalité, de leur 
+appartenance à un groupe social déterminé ou de leurs opinions 
+politiques. 
+Le deuxième alinéa précise que : 
+Sont notamment considérées comme de sérieux préjudices la mise en danger de la vie, de l’intégrité corporelle ou de la liberté, de même que les mesures qui entraînent une pression psychique 
+insupportable. 
+Les causes de persécution 4 renvoient à des appartenances 
+diverses, énumérées de façon limitative dans la loi, même si la 
+mention générale de « l’appartenance à un groupe social 
+déterminé » pourrait être de nature à conférer une certaine 
+ouverture à cette définition. En tous les cas, le genre, le sexe ou l’orientation sexuelle n’apparai ssent pas explicitement dans les 
+causes de persécution figurant au premier alinéa. C’est en 1998, 
+à la faveur d’une révision d’ensemble de la 
+LAsi, que cette défi-
+nition de la notion de réfugié est amendée. Le premier alinéa n’est pas modifié, mais le second précise, in fine , qu’« il y a lieu 
+de tenir compte des motifs de fuite spécifiques aux femmes ». 
+Autrement dit, l’intégration dans la loi d’une problématique de 
+genre intervient non au niveau de la définition même du réfugié 
+figurant au premier alinéa, qui détermine les raisons de cer-
+ 
+4 Le terme de persécution fait l’objet de différentes interprétations juridiques 
+et administratives. L’art. 3 LAsi ne le mentionne d’ai lleurs pas expressément 
+et y substitue la notion de « sérieux préjudice ». Cf. Manuel de procédure de 
+l’ODM (2008), « Chapitre D §1. La notion de réfugié », disponible sur le site 
+de l’ ODM : www.bfm.admin.ch 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 59
+taines persécutions pouvant conduire à un statut de réfugié, 
+mais par le biais d’une précision insérée dans le second alinéa, 
+qui porte sur la notion de persécution, à laquelle sont finalement rattachés des motifs de fuite spécifiques aux femmes. 
+Des instances internationales aux relais parlementaires 
+La problématique des ‘persécutions liées au genre’ a été pro-
+gressivement prise en compte par la communauté internationale à partir des années 1980. Le Haut commissariat des Nations unies pour les réfugiés (
+HCR) — reprenant alors les mesures 
+préconisées par la 4e Conférence mondiale sur les femmes tenue 
+à Pékin en 1995 — va contribuer à ce que s’élaborent divers instruments visant à prendre en considération les expériences spécifiques des migrantes dans le s procédures d’asile nationales. 
+Dans ses lignes directrices sur la protection des fe mmes réfugiées 
+de 1991, le 
+HCR invite les États à admettre que les requérantes 
+d’asile menacées pour avoir transgressé le code moral de la société dans laquelle elles vivent sont le fait de l’appartenance à 
+un ‘groupe social déterminé’. Des directives ultérieures exigent ensuite des États qu’ils prennent des mesures pour prendre en 
+compte la spécificité des persécutions subies par les femmes et 
+pour sensibiliser à la spécificité de certaines problématiques ‘culturelles’ liées au sexe 
+5 les personnes chargées de se 
+prononcer sur les demandes d’asile. De même, les instances européennes ont élaboré des lignes directrices dans ce sens. Enfin, c’est dans les années 2000 que les persécutions en raison de 
+l’orientation sexuelle et de l’identité de genre ont progressivement 
+été prises en compte par les instances internationales en tant que ‘persécutions liées au genre’. Toutefois, comme le souligne 
+ 
+5 Différents documents du HCR et de la Conférence mondiale sur les femmes à 
+Pékin sont cités dans un rapport de l’ ODM (2005), « La situation des femmes 
+dans la politique d’asile – appréciati on des aspects spécifiques aux femmes et 
+liés au sexe en procédure d’asile ». Re ndu en août 2005, ce rapport est rédigé 
+en réponse à une intervention parlementa ire (postulat Menétrey-Savary : réf. 
+00.3659). Dans ce postulat, la conseillère nationale A nne-Catherine Menétrey-
+Savary (Les Verts) demande que le C onseil fédéral présente un rapport sur la 
+situation des femmes dans la politique d’asile de la Suisse, afin d’établir si 
+l’interprétation de la disposition figurant à l’article 3 al. 2 LAsi permet de 
+garantir l’accueil et la protection des femmes confrontées à des ‘persécutions 
+liées au genre’. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 60
+Jane Freedman (2008), si ces normes sont acceptées au niveau 
+international, le processus d’ad option et de mise en œuvre au 
+niveau national ne va pas de so i et dépend de leur appropriation 
+par des acteurs étatiques et associatifs. 
+En Suisse, la révision de la lo i, en 1998, fait suite à plusieurs 
+interventions parlementaires qui ont relayé dans l’arène poli-tique les mobilisations féministes et au débat sur la scène inter-
+nationale autour de la question des persécutions spécifiques aux 
+femmes. À l’instar des motions Gurtner (Parti suisse du travail) en 1985 et 1987, elles demandent tantôt des informations sur la situation des femmes réfugiées en Suisse, tantôt un examen différencié des demandes d’asile se lon l’appartenance sexuelle ou 
+la reconnaissance de motifs spécif iques d’octroi de l’asile (viols, 
+mutilations génitales, violences sexuelles). Des interventions parlementaires abordent aussi plus directement les persécutions subies par les femmes dans certa ins conflits (guerre en ex-
+Yougoslavie, guerre civile en Algérie). En 1992, cette pro-
+blématique est abordée dans un rapport du Bureau fédéral de 
+l’égalité entre femmes et ho mmes (Hausammann 1992). Sur le 
+plan judiciaire, on trouve peu d’arrêts sur les ‘persécutions liées au genre’ dans la jurisprudence de la Commission suisse de recours en matière d’asile (
+CRA) durant les années 1990 6. De 
+son côté, l’administration en charge d’instruire les demandes 
+d’asile — l’ ODR puis l’ ODM depuis 2005 7 — a progressivement 
+mis en place des formations destinées à son personnel. Dès 
+1996, une circulaire est adoptée, qui contient un catalogue de 
+mesures concernant les procé dures d’instruction des demandes 
+d’asile, prévoyant notamment des modalités spécifiques d’audition 
+des personnes invoquant des causes de persécutions liées au 
+genre, comme, par exemple, l’audition par une personne du 
+ 
+6 On peut mentionner JICRA 1993/9 consid. 5c sur la crainte de viols, 
+d’enlèvements et de mariages forcés par les chrétiens syro-orthodoxes en 
+Turquie qui peut être déterminante en matière d’asile ; JICRA 1994/5 sur la 
+persécution réfléchie ; ou JICRA 1996/17 sur la question d’un viol commis par 
+des policiers et les problèmes touchant à la « pertinence et à la crédibilité d’un 
+tel acte en matière d’asil e ». En 2007, la juridicti on en matière d’asile a été 
+transférée au Tribunal administratif fédéral ( TAF), au moment de sa mise en place. 
+7 L’Office fédéral des migrations ( ODM ) est créé en 2005 suite à la fusion 
+entre l’Office fédéral des réfugiés ( ODR) et l’Office fédéral de l’immigration, 
+de l’intégration et de l’émigration ( IMES ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 61
+même sexe (Barzé 2012). Ces mesures comprennent aussi la 
+récolte d’informations approfondies concernant les pays de pro-
+venance sur la situation juridique et sociale des femmes, ainsi que la mise en commun des décisions afin d’assurer une pra-tique uniforme 
+8. 
+La révision de l’article 3 LAsi n’a pas modifié la définition de 
+la notion même de réfugié, se limitant à prévoir une clause 
+concernant les motifs de fuite. Dans son Message du 
+4 décembre 1995 9, le Conseil fédéral ju stifie la non-extension 
+de la notion de réfugié aux victimes de « persécutions fondées 
+sur le sexe » par le fait que la Suisse s’écarterait de la définition 
+figurant à l’article 1A de la Convention de Genève. Mais il 
+évoque aussi d’autres raisons, notamment « un effet d’attraction 
+indésirable » qu’une modification maté rielle de la notion de 
+réfugié pourrait provoquer. Selon le gouvernement, « les limites 
+des persécutions fondées sur le sexe sont peu claires » et un 
+élargissement de la définition juridique du réfugié « reviendrait 
+à lancer un signal international ». La question des ‘abus’, 
+centrale et récurrente dans les discours politiques et médiatiques 
+à propos des requérants d’asile, appa raît en creux, d’autant plus 
+quand le Conseil fédéral poursu it son argumentation dans ces 
+termes : 
+Une persécution fondée sur le sexe serait d’autant plus facile à 
+motiver qu’il n’existerait pas de possibilité d’exiger la preuve 
+d’activités religieuses ou politiques antérieures. En règle générale, 
+il suffirait qu’une femme explique de manière motivée que, pour 
+avoir mis en pratique les normes sociales valables en Suisse, 
+elle risque des persécutions dans son pays (ibid.). 
+Alors que de nombreuses associations de femmes et de défense 
+du droit d’asile demandaient d’ajouter le sexe aux autres causes de persécution 
+10, les autorités n’ont pas jugé nécessaire de 
+modifier la disposition légale sur ce point. La solution finale-
+ment retenue, qui n’élargit pas di rectement la notion de réfugié, 
+ 
+8 ODM (2005), « La situation des femmes dans la politique d’asile », opus cit. 
+9 Message du Conseil fédéral concernant la révision totale de la loi sur l’asile 
+du 4 décembre 1995, FF 1996 II 40ss. 
+10 Selon le Postulat Me nétrey-Savary (00.3659). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 62
+est alors présentée comme une forme de « compromis » 11. 
+Selon les autorités, bien que les persécutions spécifiques au sexe 
+ne soient pas reconnues comme motifs d’asile à part entière, l’ajout figurant au second alinéa de la disposition pourra inciter 
+l’
+ODM à développer une ‘pratique’ en la matière, celle que 
+l’office fédéral désigne sous la dénomination de ‘persécutions liées au genre’ : pratique Gespever . Dans la continui té de la révi-
+sion de la 
+LAsi, le Conseil fédéral adopte une réglementation 
+d’application ( OA1) qui intègre les directives antérieures de 
+l’administration, en prévoyant, notamment, une audition par « des personnes du même sexe » en cas d’indices de persé-
+cutions « de nature sexuelle ». 
+Dans les années 2000, la question des ‘persécutions liées au 
+genre’ continue à se poser dans l’arène politique. Au niveau de 
+l’administration, elle se traduit, en outre, par la mise en place de la pratique Gespever et donne lieu à diverses jurisprudences. 
+Depuis 1998, près d’une dizaine d’interventions parlementaires ont abordé directement ou indirectement la question des 
+‘persécutions liées au genre’. En 2005, dans un rapport qui 
+répond au Postulat Menétrey-Savary, l’
+ODM considère avoir pris 
+en compte la situation des femmes dans la procédure d’asile en adoptant un certain nombre de mesures, et en insistant sur l’importance d’un traitement di fférencié des demandes d’asile 
+en fonction des spécificités liées au sexe : 
+La mention expresse des motifs « spécifiques aux femmes » doit 
+faciliter une prise de conscience face à la profonde gravité de certains préjudices que les hommes ne connaissent à peine voire 
+pas du tout (ibid.). 
+Évolution des termes et de s motifs de fuite reconnus 
+Au niveau international et à l’interne de l’ ODM , la terminologie 
+utilisée a évolué. Alors que dans les années 1990 et au début des années 2000, on parlait de ‘persécutions spécifiques aux 
+femmes’, de ‘persécutions liées au sexe’ ou de ‘persécutions 
+sexo-spécifiques’, le terme de ‘persécutions liées au genre’ 
+12 
+semble s’être imposé au niveau international et dans la pratique 
+ 
+11 ODM (2005), opus cit. 
+12 En allemand, le terme Geschlecht désigne indistinctement ‘sexe’ et ‘genre’. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 63
+interne développée par l’ ODM (Barzé 2012). On passe ainsi 
+d’une perspective centrée sur les femmes à une perspective de 
+genre qui permet d’élargir la notion de ‘groupe social déterminé’ aux minorités sexue lles victimes de persécutions 
+13. 
+Si le manuel de procédure d’asile de l’ ODM mentionne encore, 
+en 2008, les ‘persécutions liées au sexe’, l’usage de la notion de genre se généralise à l’interne de l’
+ODM , notamment à travers 
+des formations, et suit les recommandations formulées par les 
+instances internationales ainsi que par certaines ONG s de 
+prendre en compte les motifs de persécution liés à l’orientation sexuelle et à l’identité de genre 
+14. 
+Les années 2000 sont également marquées par les revendi-
+cations de mobilisations LGBT 15 pour la reconnaissance des 
+persécutions en raison de l’orient ation sexuelle et de l’identité 
+de genre. Cette question est portée dans l’arène parlementaire, notamment en 2009, à travers le dépôt d’une motion de la députée Prelicz-Huber (Les Verts). Elle se fonde sur une étude de Martin Bertschi (2007) selon laquelle, entre 1993 et 2007, 
+seuls 4 dossiers sur les 90 consultés où étaient invoqués des 
+motifs liés à l’orientation sexuelle, ont été reconnus comme donnant droit à la qualité de ré fugié. La députée propose que 
+ces motifs figurent expressément au second alinéa de l’art. 3 
+LAsi. Suivant l’avis du Conseil fédéral, le parlement s’est 
+ 
+13 Dans ce sens, on peut citer la re commandation 1470 (2000) de l’Assemblée 
+parlementaire du Conseil de l’Eur ope, les principes directeurs du HCR (2002 
+et 2012) ainsi que les Principes de Jogjakarta de 2007 qui invitent à 
+reconnaître les persécutions liées à l’orient ation sexuelle et à l’identité de genre 
+comme des motifs d’asile en utilisant le motif de persécution liée à l’apparte-
+nance à un certain groupe social. 
+14 On peut relier cette évolution à la stratégie de gender mainstreaming adoptée, 
+entre autres, par le HCR dans la continuité de la Conférence de Pékin de 1995. 
+Cette stratégie vise à intégrer une perspective d’égalité de genre dans ses acti-
+vités (politiques publiques, programmes). Le gender mainstreaming , sa mise 
+en œuvre et sa définition font toutefoi s l’objet de critiques (voir notamment 
+Freedman 2010b). 
+15 L’acronyme LGBT (Lesbiennes, Gays, Bi, Tran s) peut être complété pour 
+inclure les personnes intersexuées ou queer (LGBTIQ ). Les responsables de la 
+pratique de l’ ODM mentionnent en entretien cette évolution ( LGBTIQ ), mais 
+elles utilisent surtout l’acronyme LGBT . Par la suite, l’acronyme SOGI (Sexual 
+Orientation and Gender Identity) adopté par le HCR dans ses directives de 
+2012 a également été retenu par l’ ODM à la place de LGBT . 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 64
+opposé à cette modification de la loi, ne l’estimant pas néces-
+saire du fait que l’ ODM tiendrait déjà compte des persécutions 
+liées à l’orientation sexuelle, en les rattachant à l’un des motifs d’asile énoncés dans la loi, à savoir « l’appartenance à un groupe 
+social déterminé ». 
+On le voit, les dispositions légales et réglementaires sur les 
+‘persécutions liées au genre’ ont évolué à travers la révision de 
+1998, sans toutefois affecter le cœur de la définition du réfugié, 
+ce que certaines critiques ont d’ailleurs relevé. Ainsi, s’il a progressivement été possible d’accorder l’asile à des personnes victimes de violences sexuelles et si les persécutions spécifiques 
+aux femmes sont prises en compte dans les textes juridiques et 
+dans la pratique de l’office, il n’est dit nulle part que le genre, le 
+sexe ou la sexualité constituent des motifs d’asile (au même titre que la race, la religion, la nationalité, ou les opinions politiques). 
+Sur le plan jurisprudentiel, il faut encore signaler deux déci-
+sions très importantes rendues en 2006 par la Commission suisse 
+de recours en matière d’Asile (
+CRA ) et qui vont influencer 
+considérablement la prise en compte des ‘persécutions liées au 
+genre’ au niveau de l’admini stration. Dans un premier arrêt 
+(JICRA 2006/32), la Commission a reconnu le ‘rapt nuptial’ 
+comme motif d’asile et a jugé qu’il fallait offrir une protection aux femmes victimes de telles pratiques lorsque les États ne 
+parviennent pas à interdire ou empêcher certaines ‘traditions 
+communautaires’. En lien avec cette décision, la Commission a également rendu un second arrêt dont la portée est plus générale (
+JICRA 2006/18), en ce qu’il sanctionne un changement fonda-
+mental de jurisprudence. Cet arrêt marque le passage de la 
+théorie dite de l’‘imputabilité’ à celle dite de la ‘protection’. 
+Selon la première approche, pour que la qualité de réfugié soit 
+reconnue, il fallait que l’État soit responsable de la persécution ou qu’il y ait une absence de volonté de protection de sa part 
+face à des « persécutions de tiers » (Barzé 2012). En revanche, 
+selon la théorie de la protection, la question juridique à trancher 
+n’est plus de savoir si les autorités étatiques peuvent être tenues 
+pour responsables directement ou indirectement des persécutions 
+subies, mais de savoir si la personne peut obtenir ou non une protection dans son pays d’origin e. Dans cette perspective, la 
+qualité de réfugié peut être rec onnue dans le cas de persécutions 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 65
+commises par des personnes privées lorsque l’État d’origine est 
+incapable de protéger les personnes. On saisit l’importance de 
+cette jurisprudence s’agissant de certaines ‘persécutions liées au 
+genre’ qui sont le fait de tiers (mutilations génitales féminines, 
+mariage forcé, répression des ho mosexuel·le·s, crimes d’honneur, 
+violences domestiques, etc.). 
+Quand les frontières du droit d’asile bougent par le bas 
+Si les frontières du droit d’asile se redéfinissent par le haut et 
+en amont via des processus politiques et parlementaires, voire à 
+travers la jurisprudence, elles bougent aussi sous l’effet du travail de l’administration, c’est-à-dire de ce « processus de 
+création normative continu » (Lascoumes 1990) qu’implique 
+l’application et donc l’interprétati on des textes juridiques, condui-
+sant à l’élaboration de « règles secondaires d’application » plus 
+ou moins formalisées. Ainsi, en amont, en parallèle et en consé-quence des changements législatifs et jurisprudentiels, on peut observer une production normative par le bas via l’élaboration 
+d’une pratique interne concernant les ‘persécutions liées au genre’, qui contribue à redéfinir le droit d’asile. 
+Élaborer une pratique interne : 
+entre évolutions internationales et ‘nouveaux motifs’ 
+Au début des années 1990, avec l’arrivée de nombreuses 
+réfugiées d’ex-Yougoslavie ayant subi de graves violences sexuelles et que l’
+ODM doit auditionner, les questions de persé-
+cutions spécifiques aux femmes deviennent prégnantes, en particulier pour les personnes ch argées d’instruir e ces dossiers. 
+L’
+ODM est ainsi amené à faire évoluer sa pratique et à mieux 
+former son personnel, confronté à de s situations de plus en plus 
+fréquentes. C’est notamment sous l’impulsion d’une fonction-naire, psychologue de formation et engagée pour la défense des 
+droits des femmes ou, du moins, sensibilisée à ces questions 
+16 
+que celles-ci sont progressivement prises en compte au sein de 
+l’office. 
+ 
+16 Cette personne n’est aujourd’hui pl us responsable de cette pratique. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 66
+En 1997, à la suite du HCR et des instances européennes, la 
+direction de l’ ODR décide de rattacher juridiquement ces persé-
+cutions aux raisons liées à « l’appartenance à un groupe social 
+déterminé » (art. 3 al. 1 LAsi). La notion de ‘groupe social 
+déterminé’ désigne, selon l’ ODM : 
+Un groupe constitué de personnes qui, en raison de certaines 
+qualités innées et immuables, se distingue clairement d’autres 
+groupes de personnes et qui est, du fait de ces qualités, exposé ou craint de l’être à une persécution étatique tolérée par l’État 
+17. 
+En se fondant sur différents textes de référence des organi-
+sations internationales, l’ ODM reconnaît actuellement sept 
+‘groupes sociaux déterminés’ de personnes victimes (i) de 
+mutilations génitales féminines ( MGF ) 18, (ii) de violences 
+domestiques, (iii) de mariage forcé, (iv) de crimes d’honneur, (v) de persécutions liées à l’‘orientation sexuelle (
+LGBT )’ ou 
+(vi) à une législation sexiste punissant les atteintes au code moral et enfin (vii) de politiques de l’enfant unique, d’avorte-ment forcé ou de stérilisation forcée 
+19. Dans tous ces cas, les 
+fonctionnaires doivent se prononcer sur la ‘pertinence’ des motifs 
+d’asile, mais aussi sur l’existenc e d’une protection adéquate dans 
+le pays d’origine, sur la ‘vraisemblance’ des motifs invoqués (art. 7 
+LAsi), ainsi que sur la question de l’exigibilité d’un 
+renvoi (art. 44 LAsi) et de l’octroi d’une admission provisoire. 
+Dans l’examen de la pertinence des motifs liés au genre, ceux-
+ci sont appréciés de manière s ubsidiaire par rapport aux autres 
+motifs d’asile énumérés à l’article 3 LAsi : 
+Le motif de persécution découlant de l’appartenance à un groupe 
+social déterminé doit être apprécié comme un élément de fait 
+subsidiaire. En d’autres termes, le motif fondé sur l’apparte-
+nance à un groupe social déterminé ne doit être retenu que 
+restrictivement et en l’absence d’autres motifs de persécution 20. 
+ 
+17 Diaporama diffusé lors d’une formation à l’ ODM : « Persécutions liées au 
+genre ( Gespever ) », notes de terrain, janvier 2012. 
+18 À noter que seule la crainte d’une future mutilation et non celle déjà subie 
+est déterminante en matière d’asile. 
+19 Pour plus de détails : Barzé 2012 ; Manuel de procédure de l’ ODM (2008) 
+« Chapitre J. §2. La problématique des persécutions liées au sexe dans le 
+domaine de l’asile », dis ponible sur le site de l’ ODM : www.bfm.admin.ch 
+20 Manuel de procédure de l’ ODM (2008), Chap. J. §2 opus cit. , p. 6. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 67
+L’ODM distingue aussi les persécutions fondées sur l’appar-
+tenance à un ‘groupe social déterm iné’ et les ‘atteintes d’ordre 
+sexuel’ qui peuvent donner droit à l’asile si elles se fondent sur l’un des motifs énoncés au premier alinéa de la loi. Le caractère subsidiaire des ‘persécutions liées au genre’ et le fait de les rattacher à l’appartenance à ‘un groupe social déterminé’ font 
+l’objet de critiques. Comme le soulignent plusieurs auteures 
+(Gafner, Schmidlin 2007 ; Stichelbaut 2009), cette manière de 
+faire occulte le caractère politique de ces persécutions, des 
+rapports de genre et de la transgression des règles de comporte-ment genrées. 
+S’agissant de la terminologie retenue, au cours d’une for-
+mation interne, les deux responsabl es de la pratique, distinguent 
+le genre — ‘appartenance sexuelle’ qui renvoie aux « relations 
+entre les hommes et les femmes basées sur des identités définies 
+et construites socialement ou culturellement, sur des fonctions, des rôles et des responsabilités qui sont attribués aux hommes 
+et aux femmes (= « gender ») » — du sexe (« identité sexuelle » 
+biologique) 
+21. Dans le chapitre du manuel de l’ ODM relatif aux 
+‘persécutions liées au sexe’ 22, la distinction entre sexe et genre 
+permet d’inclure tant les ‘persé cutions spécifiques aux femmes’, 
+celles ‘spécifiques aux hommes’ et celles ‘en rais on du comporte-
+ment sexuel (homosexualité)’. Liselotte Barzé, juriste à l’ ODM , 
+confirme cette analyse dans un chapitre d’ouvrage qui présente 
+la pratique de l’office en matière de ‘persécutions liées au genre’. Elle y explique que le te rme de genre permet de compren-
+dre des persécutions qui ne sont pas « infligées en raison du 
+seul sexe d’une personne », mais qui « se dirigent principale-
+ment à l’encontre de personnes qui refusent de se conformer 
+aux critères sociaux attribués aux hommes et aux femmes […]. 
+En d’autres termes, le facteur à l’origine du châtiment ou de 
+l’abus n’est pas le sexe biologique de la victime mais la façon 
+dont celle-ci exprime son identité ou son rôle » (Barzé 2012, 
+p. 71). 
+ 
+21 Diaporama, opus cit. 
+22 Manuel de procédure de l’ ODM (2008), Chap. J. §2 opus cit. , p. 4. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 68
+Concernant l’orientation sexuelle et l’identité de genre, 
+l’ODM a devancé la jurisprudence européenne 23, en ayant déjà 
+suivi les recommandations formulées au niveau international, qui considèrent que les personnes qui invoquent des persé-cutions liées à l’orientation sexuelle et à l’identité de genre peuvent être considérées comme appartenant à ‘un groupe social déterminé’. Cette évoluti on à l’interne illustre aussi la 
+relative perméabilité de l’administration aux ‘nouvelles situations’ 
+auxquelles elle est confrontée et aux critiques externes dont elle fait l’objet. Ainsi, l’
+ODM a dû réévaluer sa pratique à l’aune 
+d’une nouvelle question juridique à résoudre. Les responsables de la pratique Gespever ont, en effet, constaté un problème dans 
+l’argumentation et la façon d’apprécier ces motifs d’asile qui ne 
+seraient plus conformes au droit ou, du moins, à l’appréciation actuelle de cette problématique. Cette adaptation de l’interpré-
+tation juridique découle aussi de critiques externes qui peuvent 
+émaner des organisations interna tionales, de la sphère politique 
+ou, plus directement, des milieux associatifs (féministes, 
+collectifs 
+LGBT , organisations de défens e du droit d’asile). C’est 
+aussi dans un dialogue avec ces diffé rent·e·s actrices et acteurs lors 
+de formations communes que les responsables de la pratique 
+Gespever intègrent des critiques ou de nouvelles problématiques. 
+Cette pratique est donc en cons tante évolution, notamment à 
+partir des cas concrets que les fonctionnaires doivent traiter, 
+lesquels posent des questions juridiques en particulier sur l’interprétation de l’article 3 
+LAsi. 
+Un « continuel combat » à l’interne 
+Toutefois, si la pratique peut être perméable à l’évolution des 
+demandes d’asile et à la manière de concevoir les ‘persécutions liées au genre’ hors de l’
+ODM , ce n’est pas pour autant que les 
+agent·e·s de l’administration suivent nécessairement ces change-
+ments. Par exemple, concernant les problèmes que rencontrent 
+les personnes transsexuelles dans la procédure d’asile, les res-ponsables de la pratique doivent mener tout un travail de sensi-bilisation à l’interne de l’office pour lutter contre les stéréotypes 
+ 
+23 Le 7 novembre 2013, un arrêt de la Cour de justice de l’Union européenne a 
+énoncé formellement que les personnes homosexuelles peuvent constituer un 
+groupe social. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 69
+ou les clichés de certain·e·s collègues 24. Cette sensibilisation 
+peut paraître d’autant plus comp liquée que la participation aux 
+formations sur ces questions n’est pas forcément obligatoire et 
+que la majorité des personnes qui y participent sont des femmes. Or, l’Ordonnance sur l’asile 
+OA1 prévoyant l’audition 
+« par des personnes du même sexe » lorsqu’il y a des indices de 
+persécutions de « nature sexuelle », les hommes peuvent 
+aussi être amenés à auditionner des hommes invoquant des 
+‘persécutions liées au genre’. Ainsi, ces formations (notamment sur les problématiques ‘liées aux personnes 
+LGBT’) ont été pro-
+gressivement imposées aux collaboratrices et collaborateurs de l’office. 
+Si certain·e·s collègues peuvent se montrer réticent·e·s ou, du 
+moins, peu intéressé·e·s, la sensibilisation aux ‘persécutions 
+liées au genre’ doit aussi passer par un « continuel combat » 
+auprès des différents échelons de la hiérarchie de l’
+ODM pour 
+faire reconnaître l’importance de développer et de respecter cette pratique. Dans un contexte mar qué par une volonté d’accélérer 
+le traitement des demandes d’asile et d’en réduire le nombre, la 
+faible proportion des demandes d’ asile invoquant des ‘persécutions 
+liées au genre’ 
+25 ne figure pas vraiment parmi les priorités de 
+traitement et d’allocation des ress ources. Le « continuel combat » 
+interne est d’autant plus difficile qu’il n’existe aucun moyen 
+vraiment contraignant pour contrôle r le respect de la pratique et 
+qu’elles sont soumises à différentes contraintes institutionnelles — par exemple, les évolutions ma jeures de la pratique doivent 
+être discutées et avalisées par la hiérarchie. 
+ 
+24 Selon les observations et entretiens réalisés au sein de l’ ODM . 
+25 Selon des statistiques internes de l’ ODM , en 2012, les décisions sur des 
+‘persécutions liées au genre’ représentaient au moins 5 % du total des 
+décisions d’asile et 8 % des décisions d’oc troi de l’asile, 11 % des rejets (avec 
+et sans admission provisoire), 3 % des décisions de non-entrée en matière et 
+2 % des radiations. Pour 2012, 1 351 déci sions ont été rendues concernant des 
+demandes invoquant des ‘persécutions lié es au genre’. Parmi celles-ci, 191 
+(14,1 %) ont obtenu la qualité de réfugié·e, alors que le taux d’octroi de l’asile 
+pour l’ensemble des décisions rendues en 2012 était de 11,7 %. Enfin, pour les 
+décisions négatives et de non-entrée en matière, 130 admissions provisoires ont 
+été prononcées (9,6 %), contre un taux de 7,4 % pour l’ensemble des décisions. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 70
+Depuis l’instauration d’une pratique en matière de ‘persécutions 
+liées au genre’, les personnes responsables ont toujours été 
+uniquement des femmes. Les responsables actuelles de la pra-tique Gespever — toutes deux ont suivi un cursus universitaire 
+en droit — disent ne pas avoir eu d’engagements militants avant de travailler à l’
+ODM . Elles ont dû se former à ces questions 
+‘sur le tas’, en lisant des rapports, en participant à des 
+formations en Suisse et à l’étranger, en dialoguant avec des 
+associations et, surtout, en étant confrontées à de nouveaux cas de figure. C’est en traitant ‘des cas comme ça’, en s’intéressant à ces thématiques et « en sortant des cadres de l’
+ODM » via la 
+participation à des formations et autres manifestations qu’elles 
+ont été sensibilisées à ces questions. Ainsi, elles sont amenées à 
+dialoguer, hors de l’ ODM , avec différent·e·s actrices et acteurs 
+associatifs ou avec des expert·e·s. Leur travail à l’interne (développement de la pratique, sensibilisation) peut être analysé comme une forme de continuité « intra-institutionnelle » (Bereni, 
+Revillard 2012) des mobilisations féministes, puis 
+LGBT , qui 
+ont porté les questions de ‘persécutions liées au genre’. On peut 
+analyser le « continuel combat » auquel il a été fait référence 
+comme une forme de relais de ces mobilisations à l’interne de l’administration afin de faire évoluer le droit et son inter-
+prétation. Pour autant, les responsables de la pratique Gespever 
+ne se perçoivent pas comme telles, et encore moins comme des 
+militantes — étiquette dont elles cherchent justement à se distancier. À cet égard, elles ont travaillé à rompre avec une 
+approche perçue comme « militante » pour développer une 
+« approche juridique exempte de subjectivité, permettant de mener 
+des débats sur le fond dénués de toute émotivité » 
+26. Cette dé-
+politisation par le droit contribue à donner davantage de légiti-
+mité à cette pratique auprès des co llègues et de la hiérarchie de 
+l’ODM . 
+Cette situation peut être génératrice de tensions. Si, en 
+développant la pratique Gespever , ces femmes sont susceptibles 
+de relayer, en partie, des reve ndications portées par différentes 
+mobilisations collectives, elles n’en demeurent pas moins les employées d’un office ayant ses logiques propres et dont le 
+ 
+26 Échange écrit avec les responsables de la pratique Gespever . 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 71
+travail de contrôle des demandes d’asile se caractérise par une 
+logique de suspicion — imprégnée de la thématisation de l’asile 
+en termes « d’abus » et de « faux réfugiés » (Maillard, 
+Tafelmacher 1999) — et de productivité, liée à une forme de « gestion du stock » des requérant·e·s d’ asile (Tafelmacher 2013). 
+C’est dire que l’élaboration d’une pratique Gespever s’accom-
+pagne aussi d’un travail visant à trouver une « bonne manière » 
+d’instruire les dossiers, d’auditionner les personnes invoquant 
+des motifs de persécution liés au genre et, partant, de juger la « pertinence » (art. 3) et la « vraisemblance » (art. 7 
+LAsi) des 
+histoires racontées par les requéra nt·e·s d’asile en audition. 
+Comme l’a montré un rapport de l’ ONG Terre des femmes, ce 
+contrôle est le principal obstacle à l’acceptation des demandes 
+d’asile de femmes, en cela qu’il amène à discréditer leur témoignage 
+27. Cette tension ressort clairement des entretiens 
+menés au sein de l’ ODM . Invoquant le cadre législatif qui les 
+oblige à apprécier les déclarati ons d’une personne également en 
+relation avec un événement traumatisant et différenciant claire-
+ment leur travail de celui des psychiatres (experts des trauma-
+tismes) ou des policiers (cherchant la vérité), les agent·e·s de 
+l’ODM sont pris·e·s dans un cadre légal qui les incite à « ne pas 
+croire tout le monde » et à « faire au mieux dans le cadre qui leur 
+a été donné pour arriver à un résultat » 28, autrement dit parvenir 
+à une décision ‘acceptable’ juridiquement et institutionnellement. 
+L’évaluation de la crédibilité de motifs d’asile amène les 
+fonctionnaires à questionner les requérant·e·s d’asile sur les 
+violences subies, notamment le(s) viol(s) subi(s) (« Racontez-moi 
+ce viol » 29), ou sur l’homosexualité elle-même, pour prendre un 
+exemple déjà étudié (Morgan 2006 ; Kobelinsky 2012). L’enjeu 
+de l’audition devient alors de ‘rendre crédibles’ les violences 
+ 
+27 Wiebke Doering (2011). « Les femmes dans la procédure d’asile. La 
+reconnaissance des motifs de fuite spécifi ques aux femmes dans la pratique de 
+l’asile en Suisse ». Terre des Femmes, décembre 2011, disponible sur le site : 
+www.terre-des-femmes.ch 
+28 Selon des entretiens réalisés au sein de l’ ODM . 
+29 Pour un exemple extrême : ODAE. « L’attitude choquante des autorités lors 
+de l’audition d’une femme violée ». In fos brèves, 15.02.2010, disponible sur 
+le site http://odae-romand.ch/spip.php?article217 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 72
+sexuelles subies et de montrer que l’on est « assez gay » 
+(Morgan 2006) pour obtenir l’asile. 
+* * 
+* 
+La question du genre s’est posée au droit d’asile par le biais 
+des ‘persécutions liées au genre’. Cette problématique a été portée par les organisations internationales, des mobilisations et 
+des interventions dans la sphè re politique nationale qui ont 
+abouti à une révision législative visant à tenir compte des ‘persécutions liées au genre’. Une analyse de la production du droit en la matière ne saurait t outefois faire l’économie du rôle 
+considérable joué par l’administrati on. Celle-ci se saisit, en effet, 
+de cette question tant en amont, en parallèle — sous l’effet de 
+situations ‘nouvelles’ invoquées da ns les demandes d’asile, et de 
+critiques externes —, qu’en conséquence des débats inter-
+nationaux et nationaux. La pratique développée par l’
+ODM 
+privilégie une ‘solution’ juridique (inspirée par le HCR) consis-
+tant à rattacher différentes situations de ‘persécutions liées au 
+genre’ à l’une des raisons donnant droit à l’asile et figurant à 
+l’article 3 LAsi, à savoir l’appartenance à un ‘groupe social 
+déterminé’. À mesure que de nouve lles problématiques se posent, 
+la pratique continue à évoluer, s ous l’effet aussi de celles qui en 
+ont la charge et qui travaillent à l’interne à la développer et à 
+trouver des solutions juridiques qui puissent aider et guider leurs 
+collègues pour l’instruction des dossiers et pour la décision. 
+On peut analyser ce travail comme une forme de relais 
+« intra-institutionnel » (Bereni, Revillard 2012) de revendica-
+tions portées par différents acteurs internationaux, politiques et 
+associatifs. Cette dimension de relais doit toutefois être relati-
+visée au regard de différentes contraintes institutionnelles qui pèsent sur le travail de ces agentes. Elles sont notamment prises dans une tension entre, d’une part, une logique d’ouverture rela-tive à l’égard d’une perspective visant à prendre en compte la dimension genrée des persécutions et, d’autre part, des logiques 
+institutionnelles de suspicion et de « gestion du stock » 
+(Tafelmacher 2013) qui imprègnent le travail de contrôle des 
+demandes d’asile. On le voit, l’administration participe à la pro-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 73
+duction du droit en se réappropriant et en réinterprétant la notion 
+de genre selon des logiques qui lui sont propres. Le passage par 
+le droit et le développement d’une approche juridique des ‘persécutions liées au genre’ contribuent ainsi à mettre à dis-tance la dimension militante des revendications portées notam-ment par les mobilisations féministes et 
+LGBT , à les dépolitiser, 
+voire à les neutraliser sous les auspices d’une catégorisation 
+juridique tendant à euphémiser le potentiel critique de la notion 
+de genre. 
+Ainsi, s’il a été progressivement possible d’accorder l’asile à 
+des personnes victimes de violences de tiers et notamment de violences sexuelles, et si les ‘persécutions liées au genre’ ont 
+été en partie intégrées dans les textes juridiques et dans la pra-
+tique de l’office, cette prise en compte est ambivalente. D’un côté, les textes juridiques et la pratique de l’
+ODM cherchent à 
+inclure la dimension genrée des persécutions et à corriger ‘à 
+reculons’ la définition des ré fugié·e·s. D’un autre côté, ce 
+développement ne se fait qu’à moitié puisque les ‘persécutions 
+liées au genre’ ne sont pas, en elles-mêmes, des motifs d’asile 
+au même titre que ceux qui figurent à l’art. 3 al. 1 LAsi. Elles 
+apparaissent donc comme ‘secondair es’ dans la mesure où ces 
+derniers priment sur elles. Par ailleurs, comme l’ont déjà souli-
+gné d’autres articles (Gafner 2003 ; Stichelbaut 2009), privilé-
+gier la notion de ‘groupe social déterminé’ contribue à écarter la 
+dimension politique du genre en tant que rapport social. 
+Références 
+Barzé Liselotte (2012). « La pratique de l’Office fédéral des migrations 
+(ODM ) en matière de persécutions liées au genre ». In Achermann 
+Alberto, Hruschka Constantin (eds). Persécutions liées au genre. 
+La pratique suisse au regard des évolutions européennes et globales . Berne, Weblaw. 
+Bereni Laure, Chauvin Sébastien, Jaunait Alexandre, Revillard Anne 
+(2012). Introduction aux études sur le genre . Bruxelles, de Boeck 
+[2
+e éd.]. 
+Bereni Laure, Debauche Alice, Latour Emmanuelle, Lempen Karine, 
+Revillard Anne (eds) (2009). « Le droit à l’épreuve du genre : les 
+lois du genre ( I) ». Nouvelles questions féministes , vol. 28, n° 2. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Jonathan Miaz 74
+Bereni Laure, Debauche Alice, Latour Emmanuelle, Revillard Anne 
+(eds) (2010). « Quand les mouvements féministes font (avec) la loi : 
+les lois du genre ( II) ». Nouvelles questions féministes , vol. 29, n° 1. 
+Bereni Laure, Revillard Anne (2012). « Un mouvement social 
+paradigmatique ? Ce que le mouvement des femmes fait à la socio-
+logie des mouvements sociaux ». Sociétés contemporaines , n° 85. 
+Bertschi Martin (2007). « Droits des étrangers et droit d’asile ». In 
+Ziegler Andreas R. et al. Droits des gays et lesbiennes en Suisse. 
+Partenariat enregistré, communauté de vie de fait, questions juri-
+diques concernant l’homosexualité . Berne, Stämpfli. 
+Bhabha Jacqueline (1996). “Embodied Rights: Gender Persecution, 
+State Sovereignty and Refugees”. Public Culture , vol. 9, n° 1. 
+Bohmer Carol, Shuman Amy (2008). Rejecting Refugees. Political 
+Asylum in the 21st Century . London & New York, Routledge. 
+Chevallier Jacques (2011). « La place de l’administration dans la pro-
+duction des normes ». Droit et société , n° 79. 
+Freedman Jane (2008). « Genre et migration forcée : les femmes 
+exilées en Europe ». Les Cahiers du CEDREF , n° 16. 
+— (2010a). « Les mobilisations féministes autour du droit d’asile en 
+France et au Royaume-Uni : des no rmes internationales au droit 
+national ». Nouvelles questions féministes , vol. 29, n° 1. 
+— (2010b). “Mainstreaming Gender in Refugee Protection”. Cambridge 
+Review of International Affairs , vol. 23, n° 4. 
+Gafner Magalie (2003). « Les femmes migrantes face à la loi sur le séjour 
+et l’établissement des étrangers ( LSEE ), à la loi sur les étrangers 
+(LEtr) et à la loi sur l’asile ( LAsi) ». Revue de droit administratif et 
+de droit fiscal , n° 16. 
+Gafner Magalie, Schmidlin Irène (2007). « Le genre et la législation 
+suisse en matière de migration ». Nouvelles questions féministes , 
+vol. 26, n° 1. 
+Hausammann Christina (1992). Les femmes victimes de persécutions et 
+la notion de réfugié. Comment inte rpréter le terme de « réfugié » 
+figurant dans la Convention relative au statut des réfugiés et dans la loi sur l’asile ? Berne, Bureau fédéral de l’égalité entre femmes 
+et hommes. 
+Jenson Jane, Lépinard Éléonore (2009). « Penser le genre en science 
+politique. Vers une typologie des usages du concept ». Revue 
+française de science politique , vol. 59, n° 2. 
+Kobelinsky Carolina (2012). « L’asile gay : jurisprudence de l’intime 
+à la cour nationale du droit d’asile ». Droit et société , n° 82. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Les ‘persécutions liées au genre’ en Suisse… 75
+Lascoumes Pierre (1990). « Normes juridiques et mise en œuvre des 
+politiques publiques ». L’Année sociologique , vol. 40. 
+Lépinard Éléonore (2006). « Faire la loi, faire le genre : conflits 
+d’interprétations juridiques sur la parité ». Droit et société , n° 62. 
+Maillard Alain, Tafelmacher Christophe (1999). « Faux réfugiés » ? 
+La politique suisse de dissuasion d’asile, 1979-1999 . Lausanne, 
+Éd. d’en bas. 
+Morgan Deborah A. (2006). “Not Gay Enough for the Government: 
+Racial and Sexual Stereotypes in Sexual Orientation Asylum Cases”. Law & Sexuality Review. Lesbian Gay Bisexual & Legal Issues , 
+n° 15. 
+Stichelbaut Françoise (2009). « L’application de la Convention de 
+l’
+ONU sur les réfugiés aux demandeus es d’asile lesbiennes : de quel 
+genre parlons-nous ? » Nouvelles questions féministes , vol. 28, n° 2. 
+Tafelmacher Christophe (2013). « Du dr oit d’asile à la gestion du stock 
+humain ou comment réduire à néant l’hospitalité et les droits ». Vivre ensemble , hors-série, n° 3. 
+Liste des sigles utilisés 
+CRA – Commission suisse de recours en matière d’asile 
+HCR – Haut commissariat des Nations unies pour les réfugiés 
+JICRA – Jurisprudence et informations de la CRA 
+LGBT – Lesbiennes, Gays, Bi, Trans 
+LAsi – Loi sur l’asile 
+MGF – Mutilations génitales féminines 
+IMES – Office fédéral de l’immigration, de l’intégration et de 
+l’émigration 
+ODM – Office fédéral des migrations 
+ODR – Office fédéral des réfugiés 
+OA – Ordonnance d’application de la loi sur l’asile 
+ONG – Organisation non gouvernementale 
+Gespever – Geschlechtsspezifische Verfolgung (Persécutions liées au 
+genre) 
+TAF – Tribunal administratif fédéral 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

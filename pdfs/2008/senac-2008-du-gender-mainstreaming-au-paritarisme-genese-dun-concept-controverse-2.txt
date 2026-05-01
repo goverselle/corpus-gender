@@ -1,0 +1,759 @@
+Du gender mainstreaming au paritarisme : genèse d'un
+concept controversé
+Réjane Sénac
+Dans Cahiers du Genre 2008/1 n° 44 , pages 27 à 47
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+ISBN 9782296054905
+DOI 10.3917/cdge.044.0027
+Date de mise en ligne : 01/11/2011
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2008-1-page-27?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+Cahiers du Genre, n° 44/2008 
+Du gender mainstreaming au paritarisme : 
+genèse d’un concept controversé 
+Réjane Sénac-Slawinski 
+Résumé 
+La transposition nationale du gender mainstreaming est tout sauf évi-
+dente. Sa traduction franç aise par ‘approche intégr ée de l’égalité’ puis par 
+‘paritarisme’ en témoigne, car elle souligne la tendance à occulter, voire à 
+nier, la spécificité de cette notion tr ansnationale. L’anal yse de sa genèse, 
+au niveau international et européen, a pour but de souligner la spécificité de 
+ce concept-méthode à la fois valeur et principe d’action. Les controverses 
+autour de cette notion questionnent ainsi les référentiels d’égalité de l’action 
+publique au regard du dilemme de la complémentarité entre actions spéci-
+fiques et culture de l’égalité des chances. 
+GENDER MAINSTREAMING — PARITARISME — INSTITUTIONS EUROPÉENNES — 
+ÉGALITÉ DES SEXES — TERMINOLOGIE 
+Conformément aux dispositions du décret du 3 juillet 1996 
+relatif à l’enrichissement de la langue française, la procédure 
+d’adoption des termes publiés au Journal officiel pour rempla-
+cer les emprunts aux langues étrangères comporte trois étapes : les commissions spécialisées de terminologie, la Commission générale de terminologie et de né ologie et l’Académie française. 
+Ainsi, suite à une suggestion de la Commission spécialisée du 
+ministère des Affaires étrangères, la Commission générale, 
+placée auprès du Premier ministre, a mis en place une procédure 
+accélérée pour donner sa position sur l’usage du terme de genre 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 28
+comme traduction de gender . Si la commission générale s’est 
+« autosaisie du problème de la traduction en français du mot 
+anglais gender » (Bozon 2006), c’est parce qu’elle considérait 
+urgent de réagir face à sa traduction jugée (trop) importante par le mot français genre. Dans une recommandation publiée au Journal officiel du 22 septembre 2005, suivant l’avis de l’Académie française, elle dénonce l’usage abusif du mot genre, 
+« la substitution de genre à sexe ne répond [ant] pas à un besoin 
+linguistique », mais à un maladroit glissement du sens gramma-
+tical pour répondre aux sirènes du puritanisme anglophone qui fait du genre un cache-sexe. Il est ainsi recommandé d’adapter la traduction au contexte « plutôt que de retenir une formulation 
+unique, souvent peu intelligible, d’apporter des solutions au cas 
+par cas, en privilégiant la clarté et la précision et en faisant appel 
+aux ressources lexicales existantes ». L’argumentation de la 
+commission révèle un glissement du linguistique au politique 
+dans la mesure où : 
+D’une question ou d’un problème de traduction, qui se pose à 
+tous les traducteurs (il est vrai que le mot gender ne peut pas 
+être traduit systématiquement par « genre »), on passe à la mise 
+en cause, en apparence purement linguistique, d’un concept déjà 
+entré dans la pratique administrative, militante et scientifique en France, depuis un certain temps (Bozon 2006, p. 144). 
+À l’instar de Thérèse Locoh et Monique Meron (2006, p. 120), 
+nous pensons que l’ordre des mots traduit l’ordre de la société et que : 
+S’en prendre aux mots n’est pas neutre, c’est discuter aussi de 
+l’opportunité et de la nouveauté des concepts qu’ils désignent et 
+contribuent à forger. 
+C’est la raison pour laquelle nous proposons de questionner 
+les enjeux, en particulier les non-dits idéologiques (Baudino 2006 ; Hofmann 2006), de la paruti on dans le Journal officiel 
+du 4 mars 2006 d’un autre avis de la Commission générale de 
+terminologie et de néologie défini ssant la notion de ‘paritarisme’ 
+comme une « action en faveur de l’égalité entre les femmes et les 
+hommes » et comme un équivalent du gender mainstreaming. 
+Là encore, la Commission générale a été saisie par la Commission spécialisée du ministère des Affaires étrangères, 
+celui-ci étant confronté à la nécessi té de traduire cette expression 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 29
+utilisée dans les traités internati onaux. Traduit par ‘paritarisme’, 
+le gender mainstreaming est réduit à une déclinaison d’un prin-
+cipe de droit social 1. Cela aboutit ainsi à nier le sens spécifique 
+de cette notion dans les débats internationaux en la renvoyant à 
+un sens familier dans le registre national. Afin de dépasser cette nationalisation déroutante du gender mainstreaming , il est 
+nécessaire de comprendre ses enjeux au regard de sa genèse 
+polémique. 
+Concept ou méthode 
+2, en quoi le gender mainstreaming trans-
+forme-t-il le rapport à l’égalité des sexes comme principe de 
+justice ? 
+Pour répondre à ce questionnement, nous aborderons la ma-
+nière dont il est présenté par les textes communautaires et les 
+organisations internationales comme une nouvelle stratégie 
+d’égalité (Squires 2005). Pour cela, nous exam inerons les contro-
+verses au cœur de la définition de ce concept en mettant l’accent sur sa genèse institutionne lle, sans oublier le rôle des 
+associations et des organisations non gouvernementales (
+ONG ), 
+en parallèle avec les référentiels d’égalité antérieurs (Sénac-
+Slawinski, Dauphin 2006). 
+Genèse internationale et européenne 
+du gender mainstreaming 
+Un détour par la genèse interna tionale et européenne de cette 
+notion (Conseil de l’Europe 1998a, p. 37-38) permet d’aborder 
+les rôles respectifs des acteurs en présence dans le rapport de force instauré dès la préparation de la 
+IVe Conférence mondiale 
+sur les femmes (Pékin, 1995) entr e les interlocuteurs institution-
+nels et politiques, et le milieu associatif. L’analyse de la spéci-
+ficité de cette notion ne peut, en effet, pas faire l’impasse sur les tensions inhérentes à sa définition. De plus, c’est parce qu’il a 
+ 
+1 Gérard Cornu (2004, p. 646 ) : « Système, organisation impliquant des méca-
+nismes paritaires, fonctionnant sous l’ entière responsabilité des ‘partenaires 
+sociaux’ (le développement du paritarisme va de pair avec celui de la négo-
+ciation collective). » 
+2 Sur les liens entre le concept, le principe et l’outil, cf. en particulier 
+Geneviève Fraisse (2001). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 30
+été adopté par des organisations internationales prestigieuses, 
+des Nations unies à l’Union européenne, qu’il a acquis une légi-
+timité symbolique et juridique auprès des décideurs politiques pour qui la prise en compte de cette notion est devenue une exi-gence concrète, un pré-requis démo cratique, dans les traités et 
+les programmes internationaux et européens (Woodward 2005, 
+p. 7) 
+3. 
+Le gender mainstreaming : 
+acquis international et communautaire 
+Le gender mainstreaming est qualifié d’acquis communau-
+taire des années 1990 (Lombardo 2005, p. 1). Il l’est dans la 
+mesure où il fait partie de « l’angle scientifique commun » 
+(« common scientific focus ») (Woodward 2005, p. 3) puisque la 
+prise en compte de la question de l’égalité entr e les sexes de 
+manière transversale est considérée à la fois comme une valeur 
+et comme un principe d’action des différentes instances euro-
+péennes. Il l’est aussi parce que les institutions européennes 
+l’ont porté collectivement (Shaw 2004). 
+Ainsi, les prises de position des différentes institutions euro-
+péennes — des institutions communautaires à proprement parler 
+au Conseil de l’Europe (1998a et b, 2007) — sur le gender 
+maintreaming sont à examiner dans leurs interactions entre elles 
+et avec les conférences mondiales des Nations unies. 
+L’organisation des Nations unies a joué un rôle déterminant 
+dans la genèse et la légitima tion de ce concept (United Nations 
+1997). Le concept d’approche in tégrée de l’égalité entre les 
+femmes et les hommes est apparu pour la première fois dans des 
+textes internationaux à la suite de la IIIe Conférence mondiale 
+des Nations unies sur les femmes (Nairobi, 1985), dans le débat sur le rôle des femmes dans le développement. Il est le fruit des 
+discussions de la Commission de la condition de la femme (
+CCF) 
+des Nations unies, concernant le rôle des femmes dans les pays en développement dans le cadre des stratégies prospectives d’action pour la promotion de la femme. Il est essentiel de souligner que 
+les 
+ONG et les associations ont joué, jusqu’à aujourd’hui, un 
+rôle essentiel dans ces débats, et ceci dès 1985. Ces derniers 
+ 
+3 Cf. aussi, dans ce numéro, l’article d’Al ison Woodward. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 31
+sont marqués par le souci de rési ster à la tentation de sonner le 
+glas des actions spécifiques. En effet, pour elles, il est néces-
+saire de s’inscrire dans une logique de complémentarité et non d’exclusion entre ces deux princi pes d’action publique que sont 
+les actions spécifiques et l’approche transversale. 
+Lors de la Conférence de Pékin, le concept d’approche 
+intégrée a été entériné par le Programme d’action adopté en fin 
+de conférence. Il invite les gouve rnements et les autres acteurs à 
+« encourager l’adoption de mesures énergiques et visibles visant 
+à assurer la prise en compte de la problématique hommes-
+femmes dans toutes les politiques et tous les programmes afin d’en analyser les conséquences sur les hommes et sur les 
+femmes, respectivement, avant toute prise de décision » 
+4. Si le 
+Programme d’action ne fournit au cune directive quant à l’élabo-
+ration ou la mise en œuvre d’une telle stratégie, de nombreux pays ont conçu un programme nationa l calqué sur le principe de 
+l’approche intégrée (Conseil de l’Union européenne 1999). Au 
+niveau communautaire, le Parlement européen a adopté une 
+résolution le 21 septembre 1995 sur la Conférence de Pékin où 
+il considère comme « essentiel de poursuivre et de coordonner 
+activement l’intégration des politiques pour l’équité et l’égalité des 
+chances, et que toute politique, tout programme et toute struc-ture, notamment sur le plan législatif, soient envisagés dans la 
+perspective de leur application au sexe féminin » 
+5. 
+De plus, le Groupe de spécia listes du Conseil de l’Europe 
+(EG-S-MS ), créé en 1995 par le Comité directeur pour l’égalité 
+entre les femmes et les hommes ( CDEG ) pour donner une suite 
+concrète au Programme d’action de Pékin, a produit, en 1998, 
+un rapport contenant une définiti on de l’approche intégrée de 
+l’égalité, une méthodologie pour sa mise en œuvre ainsi que des 
+exemples de bonnes pratiques. Ce rapport est devenu une réfé-rence pour les États membres du Con seil de l’Europe et il existe 
+en dix langues. Il souli gne la difficulté de tr aduire l’expression de 
+gender mainstreaming et, en retenant l’expression « approche 
+ 
+4 Voir les paragraphes 79, 105, 123, 141, 164,189, 202, 229, 238, 252, 273. 
+5 « Résolution sur la Quatrième Confér ence mondiale sur le s femmes à Pékin : 
+Égalité, développement et paix », Journal officiel de l’Union européenne , n° C 269 
+du 16 octobre 1995, p. 146. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 32
+intégrée de l’égalité », il souhaite mettre l’accent sur les 
+différences socioculturelles entre les deux sexes. Le gender 
+mainstreaming y est défini comme une tentative d’intégrer les 
+questions d’égalité entre les sexes dans le courant général de la 
+vie sociale ( mainstream ), celui-ci étant composé des directions, 
+des organisations et des idées qui contribuent à une prise de décision en matière, par exemple, d’éducation ou de transport. 
+L’approche intégrée consiste en effet en la (ré)organisation, 
+l’amélioration, l’évolution et l’ évaluation des processus de prise 
+de décision, aux fins d’incorpor er la perspective de l’égalité 
+entre les femmes et les hommes dans tous les domaines et à tous les niveaux, par les acteurs généralement impliqués dans la 
+mise en place des politiques (C onseil de l’Europe 1998a). 
+Ce rapport souligne qu’à partir de 1995, c’est surtout au sein 
+des différentes organisations eu ropéennes intergouvernementales 
+que le concept a été promu. Il figure dans le troisième pro-gramme communautaire à moyen terme sur l’égalité des chances entre les femmes et les hommes (1991-1995) et est devenu l’axe 
+principal du quatrième Progr amme d’action (1996-2000). Le 
+Comité des ministres du Conseil de l’Europe a adopté, en octobre 1998, une Recommandation aux États membres, rela-tive à l’approche intégrée de l’ égalité entre les femmes et les 
+hommes (Conseil de l’Europe 1998b). Ce texte recommande 
+aux gouvernements de diffu ser largement le rapport du 
+CDEG et 
+d’encourager son utilisation en tant qu’instrument de mise en œuvre de cette stratégie dans les secteurs public et privé. Le Comité des ministres a également adopté un message aux Comités directeurs du Conseil de l’Europe, les invitant à 
+s’inspirer du rapport du 
+CDEG et à mettre en œuvre cette 
+stratégie dans leurs programmes d’activité. Une Conférence sur « l’approche intégrée de l’éga lité entre les femmes et les 
+hommes : une chance pour le 21
+e siècle » (Athènes, septembre 
+1999) a examiné comment l’approche intégrée de l’égalité était 
+mise en œuvre dans des domaines particuliers. Des exemples 
+concrets de projets/programmes d’ approche intégrée aux niveaux 
+local, régional et national ont été présentés. 
+En février 1996, la Commission européenne (Braithwaite 
+2001) a adopté une communication sur le mainstreaming 
+(Commission des communautés européennes 1996), présentée 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 33
+comme une première étape vers la concrétisation de l’engagement 
+de l’Union européenne vis-à-vis de l’intégration de l’égalité 
+femmes/hommes au niveau communautaire. Le mainstreaming 
+y est défini comme le fait de « ne pas limiter les efforts de 
+promotion de l’égalité à la mise en œuvre de mesures spéci-
+fiques en faveur des femmes, ma is de mobiliser explicitement en 
+vue de l’égalité l’ensemble des actions et politiques générales 
+en introduisant dans leur conception de façon active et visible 
+l’attention à leurs effets possibl es sur les situations respectives 
+des femmes et des hommes ». La dimension ‘égalité entre les 
+sexes’ doit être prise en compte dans toutes les politiques et toutes les activités, au stade de la planification, de la mise en 
+œuvre, du suivi et de l’évaluation. Dans un « document 
+stratégique » de suivi de ce tte Communication, approuvé en 
+février 1997 par le groupe inter services de la Commission pour 
+l’égalité des chances entre les fe mmes et les hommes, l’évalua-
+tion de l’impact du genre dans les services de la Commission figure parmi les mesures prioritaires. 
+Cette même année, le traité d’ Amsterdam, signé le 2 octobre 
+1997, formalise l’engagement de la Communauté européenne en mentionnant qu’elle « cherche à éliminer les inégalités, et à 
+promouvoir l’égalité entre les hommes et les femmes », parmi 
+les tâches et les objectifs de la Communauté (articles 2 et 3 du 
+TCE). Le projet de traité étab lissant une constitution européenne 
+confirme cet engagement en affirmant que toutes les politiques de l’Union doivent contribuer à la promotion de l’égalité hommes-femmes (« clause transversale », art. 
+III-116) et à la 
+lutte contre toute discrimination fondée sur le sexe (art. III-
+118) ; la Cour de justice pouva nt annuler un acte européen 
+portant atteinte à ces objectifs. Les avancées obtenues sur la question de l’égalité entre les sexes ont été fortement mises en valeur lors de la campagne ré férendaire française par les tenants 
+du oui. Cela peut apparaître pa radoxal lorsqu’on se souvient des 
+difficultés rencontrées par les associations, coordonnées au 
+niveau français par l’Association des femmes de l’Europe 
+méridionale (
+AFEM ) et au niveau européen par Act4Europe 6, 
+ 
+6 La campagne Act4Europe, lancée en novembre 2002 par le Groupe de 
+contact de la société civile dans le cadre de la Convention européenne pour 
+l’avenir de l’Europe, regroupe les quatre plus larges réseaux d’ ONG euro-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 34
+qui se sont mobilisées en faveur de l’inclusion dans le texte de 
+dispositions spécifiques en matièr e d’égalité de genre et d’autres 
+droits fondamentaux, et tout pa rticulièrement pour que l’égalité 
+entre les femmes et les homme s soit expressément mentionnée 
+comme une valeur de l’Union eu ropéenne dans l’article I-2. 
+La prudence des textes communautaires : 
+le gender mainstreaming comme méthode complémentaire 
+aux politiques spécifiques d’égalité 
+Les textes communautaires cités précédemment soulignent 
+que la notion de gender mainstreaming est née du constat de 
+l’insuffisance des pol itiques spécifiques d’égalité pour atteindre 
+une société respectant véritablement le principe d’égalité des sexes (True, Mintrom 2001, p. 28). L’approche intégrée de 
+l’égalité est ainsi définie comme constituant l’étape suivante et 
+non le substitut aux politiques dites ‘traditionnelles’. L’appro-
+che intégrée et les politiques trad itionnelles en matière d’égalité 
+entre les femmes et les hommes ne sont pas seulement définies comme des stratégies complément aires, indispensables les unes 
+aux autres, mais comme une stratégie ‘double’ (
+DFFE 1996). 
+Le rapport du Conseil de l’Europe de 1998 affirme ainsi 
+clairement que les politiques ‘traditionnelles’ doivent être consi-dérées comme un préalable au gender mainstreaming , les pays 
+dans lesquels il n’existe aucune mesure de politiques spéci-fiques devront en adopter et inst aurer parallèlement l’approche 
+intégrée. Dans la partie 
+II consacrée à la méthodologie de 
+l’approche intégrée de l’égalité, les politiques spécifiques pour 
+l’égalité sont citées comme la seconde condition requise ou 
+favorable à l’approche intégrée de l’égalité — après la manifes-tation d’une volonté politique. Ces politiques d’égalité entre les sexes sont abordées d’un point de vue historique comme compre-
+nant notamment les sept aspects suivants : 
+ 
+péennes. Elle a duré jusqu’à la Conf érence intergouvernementale de 2004, soit 
+bien au-delà de la Convention. Cf. www.act4europe.org 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 35
+1. Lois antidiscriminatoires et politiques d’égalité des chances. 
+2. Existence de mécanismes tels que : médiation, arbitrage, 
+comités, commissions ou conseils contre la discrimination sexuelle. 
+3. Groupes spécialisés (administr ations) disposant d’instruments 
+et de ressources suffisantes (humaines et financières) pour exer-cer une influence à tous les niveaux politiques. 
+4. Politiques spécifiqu es d’égalité entre les femmes et les hommes, 
+programmes d’actions destinés à protéger les intérêts des 
+femmes — ou des hommes. 
+5. Établissement de départements consacrés aux questions 
+d’égalité, ou de cellules spéciales , au sein de chaque ministère. 
+6. Recherche et formation sur les questions d’égalité. 
+7. Aide à la prise de conscience (Conseil de l’Europe 1998a, p. 24). 
+L’utilisation de données sexuées concernant la situation pré-
+sente des femmes et des hommes, et leurs relations mutuelles, constitue la troisième condition et est posée comme absolument indispensable à la mise en œuvre de cette double stratégie arti-culant mesures spécifiques et gender mainstreaming . 
+Dans la même perspective, dans sa communication « Vers 
+une stratégie-cadre communautaire en matière d’égalité entre les femmes et les hommes (2001-2005) », la Commission des communautés européennes (2000) a ffirme la nécessité de coor-
+donner les activités communautaires existantes en matière de 
+promotion de l’égalité entre les sexes tout en leur affectant une 
+ligne budgétaire spécifique 
+7. Cette déclaration peut être lue comme 
+l’expression des retours critiques sur le concept de gender 
+mainstreaming suscités par les rapports officiels eux-mêmes du 
+fait du recul constaté dans les actions dites spécifiques entre-
+prises par les diverses directions générales, ceci au nom de la 
+transversalité du principe d’égalité entre les sexes. Dans la Feuille de route pour l’égalité entre les femmes et les hommes 
+pour la période 2006-2010, la Commission « réaffirme égale-
+ment la double approche de l’égalité qui consiste en la prise en 
+ 
+7 La Commission avait déjà annoncé son intention de proposer un nouveau 
+programme en matière d’égalité entre les femmes et les hommes, doté d’un 
+budget spécifique, dans sa communicati on sur l’article 13 (Commission des 
+communautés européennes 1999). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 36
+compte de la dimension de genre (la promotion de l’égalité entre 
+les sexes dans tous les domaines et activités politiques) et en 
+l’adoption de mesures spécifiques » (Commission des communautés 
+européennes 2006, p. 1). 
+À l’instar de certaines universita ires (Lombardo 2003 ; Squires, 
+Wickham-Jones 2004), nous saluons les vertus de cette nouvelle 
+stratégie, qualifiée d’étape logique suivante ( logical next step ) 
+(Woodward 2005, p. 8), qui contribue à résoudre le ‘dilemme 
+de Wollstonecraft’ 8 en dépassant la revendication d’un traite-
+ment différencié au nom de l’égalité ( affirmative action ) pour 
+tendre vers une transformation des re lations de genre, c’est-à-dire 
+des positions sociales respectives des femmes et des hommes. 
+Mais ceci à condition que le gender mainstreaming permette de 
+créer réellement une stratégie-cadre qui impulse une dynamique entre les politiques dites spécifiques et les actions horizontales. L’affectation d’un budget spéci fique est un des outils permet-
+tant de lutter contre le risque de dilution des politiques d’égalité 
+entre les sexes. 
+Teresa Rees (2002, p. 48) identifie troi s phases à la fois 
+chronologiques et théoriques dans l’approche de l’égalité des 
+genres par la Commission européenne — l’égalité de traitement des années 1970 laissant la place aux actions positives dans les 
+années 1980 et au gender mainstreaming dans les années 1990. 
+Ces trois approches sont qualifiées respectivement par Teresa 
+Rees (1995) de « tinkering , tailoring et transforming » 
+9. Alors 
+que l’égalité de traite ment correspond à l’égalit é de droit entre les 
+sexes, l’action positive part du constat des inégalités entre les 
+ 
+8 Cf. Mouffe (2002, p. 179-180) : « La revendication des femmes pour que leurs 
+capacités spécifiques soient intégrées co mplètement dans la sphère publique 
+de la citoyenneté est confrontée à ce que Pateman appelle le ‘dilemme de 
+Wollstonecraft’ : demander l’égalité signifie accepter la conception patriarcale 
+de la citoyenneté qui implique que les femmes deviennent semblables aux 
+hommes. Au contraire, insister sur le fait que les caractéristiques, les capacités 
+et les activités spécifiques des femmes soient exprimées et reconnues comme 
+une contribution à la citoyenneté, c’est demander l’impossible, car une telle 
+différence est justement exclue par la citoyenneté patriarcale. » 
+9 Dans son analyse chronologique, Teresa Rees met en perspective le modèle 
+de « transformation » ( transforming ) et celui qui consisterait à « faire du 
+bricolage » ( tinkering ) à partir d’éléments existants ou au contraire à créer de 
+toutes pièces un dispositif « sur mesure » ( tailoring ). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 37
+sexes pour mettre en place des mesures visant à les compenser 
+afin d’atteindre l’ég alité réelle et non seulement formelle. Le 
+mainstreaming se positionne en surplomb par rapport à cette 
+opposition entre l’égalité des chances définie a minima comme l’égalité de traitement et l’éga lité de résultat associée à l’utilisa-
+tion de mesures compensatoires. En effet, le mainstreaming 
+« doit idéalement permettre d’identifier les systèmes et les struc-
+tures à l’origine de discrimination indirecte et les repenser afin 
+d’y remédier » (Rees 2002, p. 46-48). Afin de ne pas être in-
+cantatoire, il doit réconcilier le s deux premières phases chrono-
+logiques et théoriques de l’approche de l’égalité des genres en faisant de l’égalité des chan ces non pas une exigence diffuse, 
+mais une réalité portée par des actions concrètes. 
+Remettant en cause toute définition univoque ou idéale, nous 
+trouvons la typologie de Judith Squires (2005) 
+10 sur les diffé-
+rentes stratégies de mainstreaming très éclairante. Elle exprime, 
+en effet, la portée et les limit es pratiques de ce concept-méthode 
+en en donnant trois approches possibles : une nouvelle stratégie 
+pour transformer les politiques pub liques (la transformation), un 
+instrument bureaucratique pour inté grer le genre (l’inclusion), un 
+processus de mise sur agenda (le déplacement). Nous jugeons tout aussi pertinente sa réflexion sur la nécessité d’intégrer, à partir du gender mainstreaming , les autres inégalités pour ne pas 
+penser les inégalités et discriminations entre les sexes en les 
+isolant des autres. 
+Controverses au cœur de la définition 
+de ce concept-méthode 
+Nombreuses sont les discussions relatives à la définition du 
+concept de gender mainstreaming (Squires 2005, p. 3) que cela 
+soit dans la théorie féministe (Walby 2004 ; Stratigaki 2005), dans les travaux analysant son impact (Verloo 2001 ; Rees 2002 ; Rubery 2002 ; Heinen 2003), dans la théorie du mouve-
+ment social (Pollack, Hafner-Burton 2000), dans la théorie 
+juridique (Beveridge, Nott, Stephen 2000) ou dans l’analyse de la diffusion transnationale des politiques (True, Mintrom 2001 ; 
+ 
+10 Cf. aussi, dans ce numéro, l’ article de Judith Squires. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 38
+Falquet 2003). C’est dans cette perspective que s’inscrit la 
+conférence-débat du Centre national d’information et de 
+documentation des femmes et des familles ( CNIDFF ), organisée 
+à Paris le 7 mars 1998, et intitulée « Mainstreaming : quelle tra-
+duction dans l’action ? » Elle témo igne de la difficulté de cerner 
+non seulement le sens de cette notion, mais aussi les modalités 
+de son application concrète. Le titre de ce colloque ne contient 
+pas le terme de gender , ou de genre, et cela est révélateur du fait 
+que le débat porte avant tout sur la légitimité du choix d’une 
+stratégie d’action visant à intégr er un thème politique, le genre 
+mais aussi d’autres sujets, horizontalement, plutôt que verti-calement (Woodwark 2005, p. 2). S’il n’existe pas de définition 
+consensuelle de cette notion, traduite par les différents acteurs 
+(hommes et femmes) institutionnels , associatifs ou universitaires 
+par l’expression « approche intégrée du genre » ou « perspective 
+intégrée d’égalité des sexes », l’analyse de son histoire institu-
+tionnelle nous permet de saisir la complexité de son archéologie 
+(Conseil de l’Europe 1998a, p. 37-38). 
+La méfiance des acteurs et actrices de l’égalité 
+Au-delà des enjeux terminologiques inhérents à la traduction 
+d’une expression anglaise doublement problématique comme celle de gender mainstreaming (Woodward 2005, p. 9-10), la diffi-
+cile appropriation de cette expressi on, en particulier en France, 
+est révélatrice d’une méfiance des acteurs et actrices de l’égalité. Il est à noter que l’égalité entre les sexes est une reven-
+dication sexuée, dans la mesure où elle est encore largement 
+portée par des actrices de l’égalité, qu’elles soient politiques, associatives, ou professionnelles. Comme le souligne Sandrine Dauphin (2006), quel que soit leur mode d’intégration dans 
+l’appareil d’État, les institutions chargées des politiques d’égalité 
+sont perçues comme ‘militantes’, en particulier du fait de leurs 
+liens avec les groupes de femmes et la présence de ‘fémocrates’ en leur sein. Cela a des conséquences sur la perception du mainstreaming. En effet, de la même façon qu’aux États-Unis 
+l’action positive est devenue une expression c odée renvoyant 
+aux intérêts des Noirs américains, en Europe le mainstreaming 
+désigne la revendication de droits par les femmes. Ainsi, para-
+doxalement, l’expression gender mainstreaming conserve-t-elle 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 39
+une connotation sexuée alors que l’utilisation de la notion de gender 
+est initialement sous-tendue par le projet de dénaturaliser les 
+rapports entre les sexes et d’interroger leurs dimensions sociales (Chowdhury, Nelson, 1994, p. 10) 
+11. 
+« Pourquoi changer ce qui est nécessaire et efficace ? » Cette 
+interrogation, formalisée par Pi errette Bouchard (2004), polito-
+logue à l’Université de Laval, résume la suspicion à l’encontre 
+d’une notion jugée dangereuse car justifiant l’affaiblissement, 
+voire la disparition, des actions spécifiques nécessaires pour remédier aux inégalités entre les sexes. Le rapport effectué par Van Roemburg et Spee (2004) à partir d’entretiens auprès de vingt et un experts (universitaires, politiques ou féministes) en 
+Flandre belge montre que ces expe rts partagent la peur que le 
+gender mainstreaming soit, d’une part, une stratégie pour mettre 
+un terme aux mesures spécifiques pour l’égalité entre les sexes 
+et, d’autre part, un synonyme des politiques de diversité (Van Roemburg, Spee 2004, p. 65). Dans les deux cas, le danger est que cette nouvelle stratégie soit contre-productive en minorant 
+les actions déjà en cours au nom d’une transversalité diluant 
+l’exigence d’égalité des sexes da ns la lutte contre toutes les 
+formes de discrimination. 
+C’est dans la même perspectiv e que, dans le cadre de son 
+étude sur le cas de la Suède, L ilja Mósesdóttir (2002, p. 27-55), 
+maître de conférence à l’École de commerce de l’Université de 
+Reykjavik, fait référence à des auditions menées en 1998 auprès 
+des expert(e)s de l’égalité des chances travaillant en Suède pour 
+le secteur public comme privé. Selon elle, ces auditions ex-priment dans leurs nuances les cr itiques des acteurs de l’égalité à 
+l’encontre de cette stratégie. En effet, ces acteurs reconnaissent 
+que la méthode statistique servant à mesurer le degré d’égalité 
+entre les sexes a donné une dimension plus professionnelle à l’action pour la parité et a suscité l’intérêt des hommes. Cependant : 
+ 
+11 « Le genre est défini comme la cons truction sociale des relations entre les 
+femmes et les hommes et au sein des di vers groupes de fe mmes et d’hommes. 
+Le sexe est défini comme les ressemblanc es et les différences biologiques entre 
+et parmi les femmes et les hommes. » 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 40
+Pour ces experts, la mise en œuvre de l’approche intégrée du genre 
+comporte plusieurs difficultés : 
+a. La question de l’égalité entre les sexes tend à disparaître de 
+l’agenda quand tout le monde, à tous les niveaux, est supposé 
+participer à l’approche intégrée du genre. 
+b. L’approche intégrée du genre suppose d’intégrer les femmes 
+dans des structures créées par et pour les hommes ; on n’est donc plus devant un problème d’égalité entre les sexes mais plutôt 
+d’assimilation des femmes aux hommes. 
+c. Pour que l’approche intégrée du genre apporte des changements 
+en profondeur, elle doit reposer sur un programme éducatif 
+d’envergure. L ’approche intégrée du genre exige une vaste 
+connaissance des problèmes de par ité entre les sexes à tous les 
+niveaux de l’organisation, une compétence qui fait défaut dans la plupart des organisations, surtout parmi les salariés masculins 
+(Hirdman 1998, p. 10-11 ; Mósesdóttir 2002, p. 50-51). 
+Ainsi, favorables à la diffusion transversale du principe 
+d’égalité entre les sexes, les asso ciations féminines et féministes 
+font part de leur méfiance à l’égard d’une notion dont l’inter-
+prétation peut justifier des actions publiques contraires à la construction d’une société plus ég alitaire au regard de la ques-
+tion du genre, en particulier en légitimant la disparition des interlocuteurs spécifiques sur cette question. Les féministes 
+définissent les conditions à remplir pour que cet « open 
+signifier », comme le nomme l’univers itaire espagnole Emanuela 
+Lombardo (2005), ait un impact positif sur les « gender equality 
+policies », l’égalité entre les sexes ne se réduisant pas à une 
+égalité numérique entre hommes et femmes. 
+La prudence des textes communa utaires n’a donc pas clos les 
+polémiques sur les relations de complémentarité entre les réfé-
+rentiels d’égalité antérieurs et le gender mainstreaming , ainsi 
+que sur son effectivité. 
+L’adoption du paradigme du mainstreaming , [renvoie en effet à un] 
+terme vague aux contenus multiples qu’on peut résumer par 
+l’inclusion de la « perspective de genre » dans l’ensemble des problématiques (Falquet 2003, p. 80). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 41
+Dénonciation de l’inefficacité, 
+voire de la contre-productivité, de cette méthode 
+Lors de la conférence organisée par le CNIDFF en 1998, Yvette 
+Roudy (ancienne présidente de la Commission de l’égalité des chances au Conseil de l’Europe et ministre des Droits des femmes 
+de 1981 à 1986), dénonce le chev al de Troie que constitue le 
+gender mainstreaming en affirmant : 
+C’est un recul qui nous est proposé. Lâchons les actions posi-
+tives pour l’approche intégrée du genre, et vous verrez que nous 
+allons retourner en arrière, au laisser-faire. […] C’est un prétexte 
+pour supprimer la notion d’actions positives (CNIDFF 1998, p. 32). 
+Ce danger est sans aucun doute d’au tant plus marqué dans un 
+pays comme la France se caractérisant par ses résistances histo-riques et idéologiques aux mesure s d’action positive. Les débats 
+sur la loi dite sur la parité illustrent la profondeur de ces résis-tances dans ce pays de l’unive rsalisme républicain (Calvès 2004 ; 
+Forest, Sénac-Slawinski 2004 ; Sénac-Slawinski 2007, 2008). 
+La tentation de figer les diffé rences entre les sexes constitue 
+un autre argument justifiant une certaine méfiance vis-à-vis des politiques de gender mainstreaming , la difficulté de différencier 
+le sexe du genre étant soulignée (Lombardo 2005, p. 3-4). Ces 
+deux arguments participent de la même dénonciation de l’ineffi-
+cacité, voire de la contre-productivité, de cette méthode au regard de l’exigence de faire de l’égalité des sexes une réalité 
+grâce à une réappropriation aussi bi en du principe d’égalité des 
+chances que de celui de la dénonciation des inégalités des rapports sociaux de sexe. 
+L’approche intégrée de l’égalité a été principalement promue 
+au sein des différentes organisations européennes intergouver-nementales, même si elle a au ssi été portée dans les politiques 
+nationales d’égalité (Behni ng, Serrano Pascual 2002 ; 
+EQUAPOL 
+2005) 12. Nous citerons en particulier la Direction générale 
+Emploi, affaires sociales et éga lité des chances et la Direction 
+générale Recherche de la Comm ission européenne. Cette appli-
+cation intergouvernementale du gender mainstreaming ne remet 
+ 
+12 Cf., dans ce numéro, les articles de Sandrine Dauphin ; Marie-Thérèse 
+Letablier et Gwenaëlle Perrier ; Dian e Sainsbury et Christina Bergqvist. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 42
+pas en cause l’ambiguïté de cette approche vis-à-vis des poli-
+tiques d’égalité antérieures. En effet, clairement définie par les 
+textes communautaires comme une perspective complémentaire aux actions spécifiques qualifiées de préalables nécessaires, le gender mainstreaming est porté institutionnellement comme un 
+changement de paradigme permetta nt de dépasser une approche 
+jugée inefficace. De plus, les réduc tions budgétaires qu’a entraînées 
+le gender mainstreaming en termes communautaire incarnent les 
+dangers de dilution, voire les e ffets contre-productifs, de cette 
+nouvelle stratégi e d’égalité 
+13. En effet, contrairement à l’affirma-
+tion théorique d’une complémentarité des mesures spécifiques et de la perspective de gender mainstreaming 
+14: 
+Il apparut très vite […] que les intentions des décideurs étaient moins 
+limpides qu’il n’y paraissait au premier abord […]. L’affaiblisse-
+ment de l’Unité de l’égalité des chances, privée d’une grande par-
+tie de ses moyens, alla de pair avec la diminution de la moitié 
+des crédits alloués aux précédents programmes, au motif que le financement d’actions dans ce domaine dépendrait dorénavant 
+des ministères ou secteurs concernés (Heinen 2003, p. 162). 
+Du 28 février au 11 mars 2005, s’est tenue à New York la 
+49e session de la Commission sur la condition de la femme des 
+Nations unies ; dix ans après la Conférence de Pékin. Cette session a été l’occasion d’évaluer la mise en œuvre de la plate-forme d’Action adoptée en 1995 à Pékin et de réaffirmer 
+l’attachement au principe de gender mainstreaming . Une résolu-
+tion concernant l’approche intégrée du genre a ainsi été adoptée 
+alors que la résolution concernant l’égalité entre les sexes dans la 
+vie économique, et en particulier professionnelle, a été rejetée. Monique Halpern occupait alors la présidence de la Coordination 
+française pour le lobby européen des femmes (
+CLEF ) regrou-
+pant plus de quatre-vingt associations. Présente à New York, 
+elle souligne que loin d’être a ngélique, ce consensus international 
+sur le gender mainstreaming est le signe de sa faible effectivité, 
+voire de son inefficacité. 
+* * 
+* 
+ 
+13 Cf en particulier, dans ce numéro, le texte de Maria Stratigaki. 
+14 Cf. supra « La prudence des textes communautaires… » (p. 34). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 43
+La traduction de gender mainstreaming par paritarisme dans 
+l’avis de la Commission générale de terminologie et de néologie 
+publiée au Journal officiel du 4 mars 2006 conforte l’hypothèse de l’oubli, voire de la négation, de la dimension internationale 
+et européenne de cette notion. E lle ne permet pa s non plus de la 
+penser dans son articulation avec d’autres référentiels d’égalité, 
+tels que les mesures spécifiques (Stratigaki 2005). Elle ne prend 
+donc pas en compte le défi des théories égalitaires contempo-
+raines qui est de dépasser une définition de cette notion comme outil technocratique d’égalité pour y voir une manifestation ins-titutionnelle d’une démocratie dé libérative soucieuse de prendre 
+en compte la diversité de la société, de ses discriminations et 
+l’interaction entre les hiérarchi es sociales (sexe, race, classes 
+sociales et économiques, orienta tion sexuelle, religion, handicap, 
+âge), en particulier dans ces choix d’action publique (Squires 2005 ; Woodward 2005). Ce refus de reconnaître le gender 
+mainstreaming comme concept-méthode, et non seulement comme 
+outil, est conforté par la r ecommandation du 22 septembre 2005 
+sur la traduction de gender. 
+L’analyse de la genèse de la notion de gender mainstreaming 
+nous a permis de souligner l’importance de la dimension trans-nationale de ce principe (True, Mintrom 2001), sans nier les enjeux de sa traduction dans une sp écificité nationale. En effet, 
+l’approche intégrée de l’égalité a été principalement promue au 
+sein des différentes organisations européennes intergouverne-mentales, et elle prend sens par rapport à une controverse européenne et nationale marqu ée par une ambiguïté vis-à-vis 
+des politiques d’égalité antérieures. 
+Références 
+Baudino Claudie (2006). « Du ‘genre’ dans le débat public ou 
+comment continuer la guerre des sexes par d’autres moyens ? » 
+Travail, genre et sociétés , n° 16. 
+Behning Ute, Serrano Pascual Amparo (eds) (2002). L’approche inté-
+grée du genre dans la stratégie européenne pour l’emploi . Paris, 
+L’Harmattan. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 44
+Beveridge Fiona, Nott Sue, Stephen Kylie (2000). “Mainstreaming and 
+the Engendering of Policy Making: A Means to an End?” Journal 
+of European Public Policy , vol. 7, n° 3. 
+Bozon Michel (2006). « Censure linguistique du genre : une résistance 
+politique ? » Travail, genre et sociétés , n° 16. 
+Braithwaite Mary (2001). “Gender Mainstreaming in the European 
+Commission: Explaining the Roller Coaster of Progress and 
+Regression”. (Engender/ DUP paper draft). 
+Bouchard Pierrette (2004). « L’approche intégrée de l’égalité : contexte 
+et perspectives critiques ». 6 mars. Available at: 
+http://sisyphe.org/article.php3?id_article=946 
+Calvès Gwénaële (2004). La discrimination positive . Paris, PUF « Que 
+sais-je ? », n° 3712. 
+Chowdhury Najma, Nelson Barbara J. (1994). “Redefining Politics: 
+Patterns of Women’s Political Engagement from a Global Perspective”. In Women and Politics Worldwide . New Haven & 
+London, Yale University Press. 
+Cornu Gérard (2004). Vocabulaire juridique . Paris, 
+PUF [5e éd.]. 
+Dagenais Huguette (2006). « Changer le discours ou changer la vie ? » 
+Travail, genre et sociétés , n° 16. 
+Dauphin Sandrine (2006). « L’élaboration des politiques d’égalité ou les 
+incertitudes du féminisme d’État. une comparaison France/Canada ». Cahiers du genre , n° hors série « Féminisme(s). Recompositions et 
+mutations ». 
+Falquet Jules (2003). « Femmes, féminisme et ‘développement’ : une 
+analyse critique des politiques des institutions internationales ». In Bisilliat Jeanne (ed). Regards de femmes sur la globalisation. 
+Approches critiques . Paris, Karthala. 
+Forest Maxime, Sénac-Slawinski Réjane (2004). « Universalisme versus 
+égalitarisme : contextes et arguments comparés des débats sur la participation politique des femmes en France et en République 
+tchèque ». Transition , vol. 
+XLIV , n° 1. 
+Fraisse Geneviève (2001). La controverse des sexes . Paris, PUF. 
+Heinen Jacqueline (2003). « L’Unio n européenne face aux inégalités 
+sociales de genre ». Contretemps , n° 9. 
+Hirdman Anja (ed) (1998). Man vill inte?: rapport fran en 
+jämställdhetshearing . Rapport de conférence, Radet för 
+arbeitslivsforskning, Stockholm. 
+Hofmann Elisabeth (2006). « Rejet d’un mot ou refus d’un concept ? » 
+Travail, genre et sociétés , n° 16. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 45
+Locoh Thérèse, Meron Monique (2006). « Le ‘genre’ interdit ? » 
+[Introduction « Controverse »]. Travail, genre et sociétés , n° 16. 
+Lombardo Emanuela (2003). “ EU Gender Policy: Trapped in the 
+Wollstonecraft Dilemma”. The European Journal of Women’s 
+Studies , vol. 10, n° 2. 
+— (2005). “Implementing Gender Mainstreaming in the EU: A Battle 
+of Policy Frames?” ECPR Joint Sessions of Granada, 14-19 April, 
+Workshop on “The Future of Gender Equality in the European Union”. 
+Mósesdóttir Lilja (2002). « Le cas de la Suède ». In Behning Ute, 
+Serrano Pascual Amparo (eds). 
+Mouffe Chantal (2002). « Féminisme, citoyenneté et démocratie 
+plurielle ». In Ballmer-Cao Thanh-Huyen, Mottier Véronique, 
+Sgier Léa (2000). Genre et politique. Débats et perspectives . Paris, 
+Gallimard. 
+Pollack Mark A., Hafner-Burton Em ilie (2000). “Mainstreaming Gender 
+in the European Union”. Journal of European Public Policy , vol. 2, 
+n° 1. 
+Rees Teresa L. (1995). Women and the 
+EC Training Programmes: 
+Tinkering, Tailoring and Transforming. University of Bristol, School 
+of Advanced Urban Studies, Policy Press . 
+— (2002). “The Politics of ‘Mainstreaming’ Gender Equality”. In 
+Breitenbach Esther, Brown Alice, MacKay Fiona (eds). The 
+Changing Politics of Gender Equality in Britain . Basingstoke, 
+Palgrave. 
+Rubery Jill (2002). “Gender Mainstreaming and Gender Equality in 
+the EU: The Impact of the EU Employment Strategy”. Industrial 
+Relations Journal , vol. 33, n° 5. 
+Sénac-Slawinski Réjane (2007). L’ordre sexué. La perception des 
+inégalités femmes-hommes . Paris, PUF. 
+— (2008). La parité . Paris, PUF « Que sais-je ? », n° 3795. 
+Sénac-Slawinski Réjane, Dauphin Sandrine (eds) (2006). « Genre et 
+action publique en Europe ». Politique européenne , n° 20. 
+Shaw Jo (2004). Mainstreaming Equality in European Union Law and 
+Policy Making . Dusseldorf & Brussels, European Network Against 
+Racism. 
+Squires Judith (2005). “Evaluating Gender Mainstreaming in the Context 
+of EU Diversity Strategies”. ECPR Joint Sessions of Granada, 
+14-19 April, Workshop on “The Future of Gender Equality in 
+the European Union”. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+ Réjane Sénac-Slawinski 46
+Squires Judith, Wickham-Jones M. (2004). “New Labour, Gender 
+Mainstreaming and the Women and Equality Unit”. The British 
+Journal of Politics and International Relations , vol. 6. 
+Stratigaki Maria (2005). “Gender Mainstreaming versus Positive Action: 
+An Ongoing Conflict in EU Gender Equality Policy”. European 
+Journal of Women’s Studies , vol. 12, n° 2. 
+True Jacqui, Mintrom Michael (2001). “Transnational Networks and 
+Policy Diffusion: The Case of Gender Mainstreaming”. International 
+Studies Quartely , vol. 45, n° 1. 
+Van Roemburg Bloeme, Spee Sonja (2004). Gender Mainstreaming: 
+Kristische Analyse Van Gender Mainstreaming Als Theoretisch 
+Concept En Als Beleidsinstrument . Antwerp, Steunpunt Gelijke-
+kansenbeleid Consortium Universiteit Antwerpen en Limburgs 
+Universitair Centrum. 
+Verloo Mieke (2001). “Another Velvet Revolution? Gender 
+Mainstreaming and the Politics of Implementation”. IWM Working 
+Paper, n° 5. Available at: http://www.iwm.at/p-iwmwp.htm Verloo 
+Walby Sylvia (2004). “The European Union and Gender Equality: 
+Emergent Varieties of Gender Regime”. Social Politics , vol. 11, n° 1. 
+Woodward Alison E. (2005). “Too La te for Mainstreaming? Dealing 
+with Difference in Brussels”. ECPR Joint Sessions of Granada, 14-
+19 April, Workshop on “The Future of Gender Equality in the European Union”. 
+Documents institutionnels 
+Actes de la conférence-débat du CNIDFF , organisée le 7 mars 1998, 
+« Mainstreaming : quelle traduction dans l’action ? ». 
+Commission des communautés européennes (1996). Communication 
+de la commission au Conseil, au Parlement européen, au Comité 
+économique et social européen et au Comité des régions. Intégrer 
+l’égalité des chances entre les femmes et les hommes dans l’ensemble des politiques et actions communautaires , 
+COM (96) 67 
+final du 21 février. 
+— (1999). Communication de la commission au Conseil, au Parlement 
+européen, au Comité économique et social européen et au comité 
+des régions. Concernant un certain nombre de mesures commu-
+nautaires de lutte contre les discriminations , COM (99) 564 final 
+du 25 novembre. 
+— (2000). Communication de la commission au Conseil, au Parlement 
+européen, au Comité économique et social européen et au Comité 
+des régions. Vers une stratégie-cadre communautaire en matière 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Gender mainstreaming : genèse d’un concept controversé 47
+d’égalité entre les femmes et les hommes : 2001-2005 , COM (2000) 
+335 final du 7 juin . 
+— (2006). Communication de la commission au Conseil, au Parlement 
+européen, au Comité économique et social européen et au Comité 
+des régions. Une feuille de route pour l’égalité entre les femmes et 
+les hommes 2006-2010 , COM (2006) 92 final du 1er mars. 
+Conseil de l’Europe (1998a). Rapport final d’activités du Groupe de 
+spécialistes pour une approche intégrée de l’égalité. L’approche 
+intégrée de l’égalité entre les femmes et les hommes. Cadre 
+conceptuel, méthodologie et présentation des « bonnes pratiques » . 
+Guide pour l’évaluation de l’impact du genre, EG-S-MS (98) 2. 
+— (1998b). Recommandation n° R (98) 14 du comité des ministres des 
+États membres relative à l’approche intégrée de l’égalité entre les 
+femmes et les hommes . 
+— (2007). L’approche intégrée de l’égalité entre les femmes et les 
+hommes. Cadre conceptuel, méthodologie et présentation des 
+« bonnes pratiques » . Fiche d’information sur l’approche intégrée de 
+l’égalité entre les femmes et les hommes ( gender mainstreaming ). 
+Available at : 
+www.coe.int/t/F/Droits_de_l'Homme/Egalit%C3%A9/02._Approc
+he_int%C3%A9gr%C3%A9e/001_Fiche.asp 
+Conseil de l’Union européenne (1999). « Examen de la mise en œuvre, 
+par les États membres et les institutions de l’ UE, du programme 
+d’action de Pékin ». Bruxelles. 
+DFFE (1996) One Year On: Implementing the Global Platform for Action 
+from the UN Fourth World Conference on Women. Government 
+Progress and Plans. London, Department for Education and 
+Employment. 
+EQUAPOL (2005). Gender-Sensitive and Women Friendly Public 
+Policies: A Comparative Analysis of their Progress and Impact. 5th Framework Program Research Pr oject funded by the European 
+Commission, report written by Mary Braithwaite. 
+Available at: www.equapol.gr 
+United nations (1997). “Mainstreaming the Gender Perspective into 
+all Policies and Programmes in the 
+UN S ystem”. ECOSOC , July, 
+Chapter IV. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)

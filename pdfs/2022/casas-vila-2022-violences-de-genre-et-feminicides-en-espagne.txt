@@ -1,0 +1,946 @@
+Violences de genre et féminicides en Espagne
+Des catégories et des chiffres en débat
+Glòria Casas Vila
+Dans Cahiers du Genre 2022/2 n° 73 , pages 33 à 60
+Éditions Association Féminin Masculin Recherches
+ISSN 1298-6046
+DOI 10.3917/cdge.073.0033
+Date de mise en ligne : 10/01/2023
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-cahiers-du-genre-2022-2-page-33?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Association Féminin Masculin Recherches.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+ 
+Violences de genre et féminicides en Espagne 
+Des catégories et des chiffres en débat 
+Glòria Casas Vila1 
+Résumé 
+La loi-cadre contre les violences de genre en Espagne est souvent mise en 
+avant comme l’une des législations les plus complètes et avant-gardistes en 
+matière de violences de genre en Europe. Cependant, depuis sa 
+promulgation, des associations féministes et des spécialistes ont critiqué le 
+caractère partiel et restreint de la dé finition légale des violences de genre, 
+qui restent réduites aux violences conjugales. L’un des enjeux de cette 
+définition limitée est le comptage offi ciel du nombre des féminicides, qui 
+demeure bien en dessous du nomb re des femmes tuées par des hommes 
+« parce qu’elles sont des femmes » da ns le pays. Dans cet article, nous 
+revenons sur la façon dont cette définiti on a été mobilisée dans la loi et les 
+problèmes qu’elle a ensuite suscités, en termes de production des données 
+sur les violences mais aussi d’accès aux droits pour le s victimes. Nous 
+présentons les divergences dans la production des chiffres des féminicides 
+selon le gouvernement et les associati ons féministes de la société civile, 
+divergences qui concernent plus larg ement la définition de ce qu’est la 
+violence de genre en Espagne. Nous abordons ensuite quelques 
+controverses-clés qui ont été très médi atisées et parfois discutées au sein 
+ 
+1 Je remercie les évaluateur ꞏrices anonymes qui m’ont aidée à améliorer cet 
+article, ainsi que les co rrections linguistiques de Farah Deruelle et les 
+commentaires d’Encarna Bodelón. Ce t article comporte de nombreuses 
+traductions, de l’espagnol ou du catalan vers le français, effectuées par mes 
+soins et dont je suis entièrement responsable. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 34 
+du parlement espagnol, comme celle de l’invisibilisation des femmes tuées 
+dans le cadre du système prostituti onnel. Enfin, nous voyons comment le 
+comptage des féminicides en Espagne es t en train d’être repensé à la suite 
+des exigences des conventions internati onales ratifiées par l’État, comme la 
+CEDEF ou la Convention d’Istanbul. 
+FÉMINICIDE – QUANTIFICATION – VIOLENCES DE GENRE – 
+ESPAGNE 
+Abstract 
+Gender Violence and Feminicide in Spain: Categories and Figures 
+under Debate 
+Spanish legislation on gender violence is often presented as one of the 
+most advanced and comprehensive legi slations in Europe. However, since 
+its inception, feminist organizations and specialists have criticized the partial and restricted scope of the legal definition of gender violence, 
+which is limited to domestic violence. One of the problems with this 
+limited definition is the official count of femicides, which remains well 
+below the number of women killed by me n 'because they are women' in the 
+country. This article will look at how this definition was included in the 
+legislation and the problems it has s ubsequently caused, both in terms of 
+the production of data on violence and of the victims' access to rights. It 
+presents the discrepancies in femicide figures produced by the government 
+and feminist civil society organizations, which are re lated to the definition 
+of gender violence in Spain. It then discusses some of the main 
+controversies that have attracted a lot of media attention and sometimes 
+been debated in the Spanish Parliament, such as the invisibilization of 
+women killed in the prostitution system. Finally, it shows how the counting 
+of femicides in Spain is being rethought in response to the requirements of 
+international conventions ratified by the state, such as CEDAW or the 
+Istanbul Convention. 
+FEMICIDE – QUANTIFICATION – GENDER VIOLENCE – SPAIN 
+ 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 35
+Resumen 
+Violencia de género y feminicidios en España: categorías y cifras a debate 
+La ley integral contra la violencia de género en España suele destacarse 
+como una de las leyes más completas y vanguardistas sobre la violencia de 
+género de Europa. Sin embargo, desde su creación, asociaciones y 
+especialistas feministas han criticado el carácter parcial y restringido de la 
+definición legal de violencia de gé nero, que se reduce a las violencias 
+conjugales. Uno de los probl emas de esta definición limitada es el recuento 
+oficial del número de fe minicidios, que sigue si endo muy inferior al 
+número de mujeres asesinadas por hombr es "por ser mujeres" en el país. 
+En este artículo veremos cómo se estableció esta definición en la ley y los 
+problemas que ha causado posteriorment e, tanto en lo que respecta a la 
+elaboración de datos sobre la violencia como en el acceso a los derechos de las víctimas. Presentaremos las discrepancias en la elaboración de las cifras 
+de feminicidios según el gobierno y la s asociaciones feministas de la 
+sociedad civil, diferencias que se refieren más ampliamente a la definición 
+de lo que es la violencia de género en España. A continuación, trataremos 
+algunas polémicas clave que han si do muy mediatizadas y a veces 
+discutidas en el Parlamento español, como la invisibilización de las 
+mujeres asesinadas en el sistema prostitucional. Por último, veremos cómo 
+se está replanteando el có mputo de feminicidios en España a raíz de las 
+exigencias de los convenios internacion ales ratificados por el Estado, como 
+la CEDAW o el Convenio de Estambul. 
+FEMINICIDIO – CUANTIFICACIÓN – VIOLENCIA DE GÉNERO –
+ESPAÑA 
+Le féminisme le réclamait dans la rue et le ministère de 
+l’Égalité s’y engage : à partir de 2022, l’Espagne comptabilisera tous les féminicides, y compris ceux 
+commis par d’autres hommes que le partenaire ou l'ex-
+partenaire. Nous rendrons visibles toutes les violences machistes. 
+C’est ainsi que la secrétaire d’État à l’Égalité et contre la 
+violence de genre, Ángela Rodríguez, annonçait sur son compte Twitter, en décembre 2021, un im portant changement dans la 
+manière dont les féminicides serai ent désormais quantifiés dans 
+le pays. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 36 
+Depuis des années, le comptage de l’État écartait des 
+statistiques officielles les fe mmes tuées par des hommes avec 
+qui elles n’avaient pas de lien conjugal. Cette exclusion découlait de la manière dont les violences de genre sont définies dans la loi organique « de m esures de protection intégrale 
+contre la violence de genre » du 28 décembre 2004 (LO 1/2004). Cette loi est souvent mi se en avant comme l’une des 
+plus complètes en matière de violences de genre en Europe 
+(Nations Unies 2010  ; ONU-Femmes 2011). Elle a certes 
+signifié un changement maje ur de paradigme juridique 
+(Fernández 2009), rompant avec la terminologie du droit pénal espagnol, qui s’était jusque-là centré sur la violence domestique 
+ou familiale (Bodelón 2009) et elle a ouvert un éventail de 
+droits pour les femmes victimes en créant, notamment, de nouveaux services de soutien psychologique, juridique, ainsi que des droits relatifs à l’emploi et à la sécurité sociale. Paradoxalement, la promulgation de la LO 1/2004, et diverses 
+lois régionales
+2, de même que les fortes mobilisations contre les 
+violences ont pourtant eu pour conséquence de laisser penser 
+que les violences de genre ont une prévalence plus forte en Espagne qu’ailleurs (De Miguel 20 05), alors que les taux de 
+victimation sont similaires à ceux des pays voisins (European 
+Union Agency for Fundamental Rights 2014) et que le taux de 
+féminicides conjugaux
+3 est l’un des plus bas d’Europe (Weil, 
+Corradi et Naudi 2018). Parallèlement, malgré la loi, les femmes victimes qui souhaitent accéder à la justice rencontrent 
+ 
+2 Pays très décentralisé, l’Espagne compte la LO 1/2004 à l’échelle de l’État 
+tout entier, mais aussi des lois régiona les, dites « autonomes ». Si le droit 
+pénal est unique et centra lisé, chaque région d’Es pagne dispose aujourd’hui 
+de ses lois propres et spécifiques en ma tière de violences de genre. Ce sont 
+des lois de droit administratif qui régul ent, principalement, des droits sociaux 
+(par exemple l’accès aux centres d’hébergement ainsi qu’aux services gratuits 
+d’aide juridique et psychologique) et ce qui concerne l’éducation et la santé 
+(des compétences autonomes qui parfois sont partagées avec l’État central). 
+La Catalogne a aussi la compétence pour lé giférer en matière de droit civil. 
+3 En espagnol on utilise davantage la no tion de « féminicide intime », du fait 
+probablement de la traduction anglaise intimate femicide et parce que cette 
+notion vise à inclure les féminicides co mmis aussi par les ex-partenaires. Dans 
+cet article nous avons choisi d’utilis er la formulation de « féminicide 
+conjugal ». 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 37
+toujours des problèmes de violences institutionnelles (Bodelón 
+2012). L’ensemble de ces éléments nous amènent à penser un 
+certain « paradoxe espagnol » (Casas Vila 2017). 
+Depuis la promulgation de la LO 1/2004, des associations 
+féministes et des spécialistes ont critiqué le caractère partiel de 
+la définition légale des violences de genre, qui restent réduites aux violences conjugales. En effet, la violence de genre 
+considérée par la LO 1/2004 comprend seulement celle 
+qu’exerce le conjoint ou l’ex-conjoint, partenaire ou ex-partenaire (titre préliminaire, article 1
+er - Objet de la loi). Ce 
+texte de loi conforte ainsi une dé finition restreinte qui ne prend 
+pas en compte tous les types de violences masculines que les 
+femmes peuvent subir au cours de leur vie : cela a des 
+conséquences sur la production statistique et sur les mesures préventives, procédurales, punitives et de protection des victimes. Pour ne prendre que quelques exemples, les violences sexuelles en dehors du couple, le harcèlement sexuel au travail ou dans l’espace public, la traite des femmes, ou les violences 
+exercées dans le cadre de la pr ostitution ne sont pas considérées 
+comme des violences de genre. Cela pose de nombreux problèmes en termes de compréhe nsion et de représentation des 
+violences commises par des hommes, qui ne se limitent pas à la sphère conjugale. Comme l’écrit la juriste féministe Encarna 
+Bodelón (2008), la distinction des violences subies par les 
+femmes dans la sphère familiale ou en dehors est non seulement 
+conceptuellement et empiriquement fausse, mais « elle est très dangereuse car elle laisse pen ser qu’il existe des types de 
+violences avec des causes distinct es, quand en réalité il s’agit 
+d’une seule et unique violence : la violence patriarcale, la 
+violence sexiste, une violence qui a une origine commune » (Bodelón 2008, p. 280). 
+L’une des conséquences de cette définition limitée est la 
+sous-évaluation officielle du nomb re réel de féminicides. Leur 
+recensement est source de divergences entre les associations de 
+la société civile et le gouvernement espagnol. Dans cet article, 
+nous allons voir comment la définition des violences de genre a été formulée dans la loi et les problèmes qu’elle suscite, particulièrement en termes de production des données sur les 
+violences. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 38 
+Dans un premier temps, nous a llons réfléchir à la manière 
+dont le problème des violences de genre s’est élaboré en 
+Espagne et voir en quoi la LO 1/2004 a signifié un changement de paradigme majeur, tout en c onfortant une définition partielle 
+des violences de genre. Ensuite, nous nous focaliserons sur la manière dont le concept de féminicide est mobilisé ou non par 
+les différents acteurs de ce champ militant et de l’action 
+publique. Dans un troisième te mps, nous présenterons les 
+enjeux de la quantification, tant pour les enquêtes de victimation que pour la pr oduction de chiffres sur les 
+féminicides et les divergences entre le gouvernement et les 
+associations. Nous exposerons le travail des associations 
+féministes dans le recensement alternatif des féminicides et la 
+manière dont leur activisme discute et problématise le comptage 
+officiel des meurtres des femmes parce qu’elles sont des femmes, dans un processus plus large d’élargissement de la définition des violences de genre en Espagne. Nous présenterons quelques polémiques fortes sur l’exclusion de 
+certains féminicides de la statistique officielle des victimes 
+mortelles des violences de genre, comme le cas d’une femme prostituée tuée par un militaire espagnol en 2013. Enfin, nous verrons que l’État espagnol a évolué plus récemment sur la construction statistique des violences, notamment suite aux 7
+e et 
+8e rapports du comité de suivi des Nations unies pour la mise en 
+œuvre de la « Convention pour l’élimination de toutes les formes de discrimination envers les femmes » (CEDEF) et du premier rapport du GREVIO4 concernant la mise en œuvre de la convention du Conseil de l’Europe sur la prévention et la 
+lutte contre la violence à l’égard des femmes et la violence 
+domestique, dite « Convention d’Istanbul, recommandations 
+supranationales concrétisées dans le Pacte d’État contre les violences » en 2017
+5. 
+ 
+4 Groupe d’experts sur la lutte contre la violence à l’égard des femmes et la 
+violence domestique, organe spécialisé i ndépendant qui est chargé de veiller à 
+la mise en œuvre, par les si gnataires, de la Convention. 
+5 Il s’agit d’un accord entre tous les pa rtis de l’arc parlementaire espagnol, de 
+tendances opposées, afin d'encadrer l’action de l’État. 
+Voir https://violenciagenero.igual dad.gob.es/pactoEstado/home.htm (page 
+consultée le 13 décembre 2022). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 39
+Conceptualiser c’est politiser 
+Dans l’État espagnol, la lutte contre les violences de genre a 
+été particulièrement fructrueuse depuis les années 1990, 
+produisant l’un des cadres juridi ques les plus avancés en la 
+matière en Europe. Malgré un gr and retard démocratique dû aux 
+presque quarante ans de dictature franquiste (1939-1975), l’Espagne fait ainsi figure d’avant-garde, grâce à un mouvement féministe actif ainsi qu’à un fort féminisme d’État (Montoya 
+2013, p. 31). Au début des années 2000, le changement dans la 
+conceptualisation des violences a signifié l’abandon progressif 
+de notions neutres du point de vue du genre, telles que « violences domestiques », « familiales » ou « conjugales », pour se référer aux « violences machistes » ou « de genre »
+6. La 
+grande vertu de la loi est de c onsidérer les violences contre les 
+femmes comme une catégorie différente d’autres violences, pensées en lien avec la discrimin ation, les inégalités et les 
+rapports de pouvoir entre femmes et hommes (Bustelo et Lombardo 2006, p. 14). Les violences de genre sont considérées comme une atteinte aux droits fondamentaux des femmes, à 
+savoir le droit à la vie, à la lib erté, à la sécurité, tant dans la 
+sphère publique que dans la sphè re privée. Portant atteinte aux 
+droits fondamentaux des femm es, les violences entravent 
+l’accès à la pleine citoyenneté de la moitié de la population. 
+Cette approche permet de ne p as seulement penser la protection 
+des femmes victimes, mais aussi celle de toutes les femmes, 
+dans une perspective des droits citoyens, et pas uniquement 
+dans une perspective de sécur ité et de protection pénale 
+(Bodelón 2008). Le droit à vivre en sécurité «  est directement 
+lié au droit à la vie, dans ses deux aspects  : droit à l’existence et 
+droit à la persistance. Le droit à la vie s’exécute dans une seule 
+opportunité et conditionne les autres droits  : sans le droit à la 
+vie, on ne peut jouir d’aucun autre droit  » (Fernández 2009, 
+p. 87). Ainsi que l’explique la philosophe espagnole Celia 
+ 
+6 La première référence à la violence de genre dans la législation espagnole se 
+trouve dans l’exposé de motifs de la Loi 27/2003, du 31 juillet, sur 
+l’ordonnance de protection. La loi contre la violence sexiste de la Navarre 
+(2002) ou la loi contre les violences de genre des îles Canaries (2003) ont 
+introduit la notion de violence de genre/sexiste avant la LO 1/2004. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 40 
+Amorós (2008, p. 17) « conceptu aliser c’est politiser », c’est-
+à-dire passer du cas particulier, de « l’anecdote », à la 
+catégorie, additionner les cas is olés, divers et discontinus, 
+pour constater le système qui les sous-tend. 
+Cependant, cette politisation des violences s’est, en 
+définitive, réduite à la viol ence conjugale, même si cela 
+n’était pas le cas dans les vers ions préliminaires du texte de 
+loi. Loin d’être centrale dans les premières propositions de 
+loi, la définition restreinte des violences s’est progressivement imposée. En 2001, le parti socialiste espagnol (PSOE), alors dans l’opposition, a présenté une 
+proposition de loi-cadre
+7, dans laquelle la définition des 
+violences de genre n’était pas circonscrite aux violences des 
+hommes contre les femmes dans le cadre exclusif du couple, 
+se rapprochant ainsi de la définition des violences de la Déclaration des Nations unies de Vienne sur l’élimination de 
+la violence à l’égard des femmes, en 1993. La définition proposée était celle-ci : 
+Relève de la violence de genre tout acte de violence, fondé sur 
+l’appartenance de la personne ag ressée de sexe féminin, qu’elle 
+ait ou puisse avoir comme résultat un tort ou une souffrance 
+physique, sexuelle ou psychologique pour la femme, ainsi que 
+les menaces de tels actes, la contrainte ou privation arbitraire de liberté, que celles-ci se produisent dans la vie publique 
+comme dans la vie privée. Ce ty pe de violence s’étend aussi aux 
+enfants mineurs. Son objectif ultime est la soumission de la femme (BOE, p. 8). 
+Dans le texte final, cependant, la violence envers les 
+femmes s’est limitée à celle qui est exercée dans le couple. 
+L’exclusion de toutes les autres victimes de violences de genre 
+sans lien conjugal avec l’agresseur a suscité de nombreuses critiques (par exemple Bodelón 2008  ; Bustelo, López et 
+Platero 2007). On ne dispose pas d’éléments suffisants pour comprendre les raisons qui ont amené finalement à retenir cette définition restreinte. Mais la juriste María Durán Febrer 
+reconnaît que, même si le mo uvement féministe exigeait une 
+ 
+7 Proposition de loi intégrale contre la violence de genre 122/000163, 
+présentée par le groupe parlementaire socialiste, publié dans le bulletin 
+officiel de l’État (BOE), nº 183-1, 21/12/2001. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 41
+loi contre toutes les formes de violences masculines, « la 
+visibilité de la violence de genre dans le couple » et la 
+persistance des rapports de genre « ont obligé à poser des mesures spécifiques pour les vi ctimes de violence conjugale » 
+(Durán Febrer 2006, p. 42). En effet, plus de la moitié des cas d’homicides des femmes sont des féminicides conjugaux (Weil, Corradi et Naudi 2018). 
+Cette définition, familialiste, des violences de genre a eu des 
+conséquences dans plusieurs domaines, à commencer par l’accès aux droits pour les femmes victimes. À titre d’exemple, rappelons ici le cas d’un viol coll ectif en 2016 dans les fêtes de 
+San Fermín
+8 (cas connu comme le viol « de la meute »), qui a 
+produit un débat social sur la dé finition légale du viol et sur ce 
+que la loi considère comme relevant de violences de genre. L’exclusion des violences sexuelles en dehors du couple, et notamment de ce type de viols perpétrés dans des contextes de fête, a provoqué un large débat. Dans ce cas très médiatisé, la 
+victime, qui n’avait pu bénéficier du statut de victime présumée 
+de violences fondées sur le genre, a dû se déplacer en Navarre, 
+lieu de l’agression, alors que la LO 1/2004 établit que le procès 
+judiciaire doit avoir lieu là où réside la victime (dans ce cas, Madrid). Si elle avait été considérée victime de violences de genre, elle aurait pu bénéficier d’aides sociales, notamment de 
+l’accès gratuit à des services de soutien psychologique et 
+d’assistance juridique. Le cas aurait également été traité dans un tribunal spécialisé et non un tribunal ordinaire, avec des magistratꞏes forméꞏes sur le sujet. 
+Par ailleurs, la définition restreinte au couple des violences 
+fondées sur le genre a des effets concernant la construction du 
+problème public et du comptage statistique des féminicides. La suite de ce texte traite de cette question, en présentant d’abord les enjeux juridiques de la non-inclusion du féminicide dans le droit pénal en Espagne. 
+ 
+8 Aussi connue sous le vocable Sanfermines , c’est une grande fête populaire 
+qui a lieu annuellement du 6 au 14 juil let dans la ville de Pampelune, capitale 
+de la Navarre et qui reçoit des milli ons des personnes. Elle est notamment 
+réputée pour les courses avec des taureaux, des enclos aux arènes. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 42 
+Le féminicide en Espagne : une catégorie d’analyse 
+absente du code pénal 
+Du point de vue des théories féministes, le fémicide/ 
+féminicide est considéré comme la pointe de l’iceberg de 
+l’ensemble de l’endémie mondiale des violences masculines 
+contre les femmes. Il semblerait que le concept de fémicide ait 
+été utilisé pour la première fois par Diana Russell en 1976 au 
+tribunal international des crimes contre les femmes à Bruxelles (Russell et Van de Ven 1990 [1976])
+9. C’est l’anthropologue 
+mexicaine Marcela Lagarde qui, jugeant le terme de fémicide 
+trop symétrique de homicide et voulant aussi insister sur le rôle 
+de l’inaction de l’État dans la perpétuation des meurtres des 
+femmes, a préféré celui de féminicide (Lagarde 2009). En 2018, 
+le mot féminicide entre dans le Dictionnaire de la langue 
+espagnole de l’Académie royale (RAE), qui le définit comme le 
+« meurtre d’une femme des main s d’un homme par machisme 
+ou misogynie »10. 
+Le féminicide est non seulement une catégorie d’analyse en 
+sciences sociales, mais il a aussi été introduit au niveau légal 
+dans différents pays, notamment en Amérique latine (Toledo 2009). Or cette traduction pénale d’un terme forgé par les 
+sciences sociales ne se fait pas aisément. Les nombreuses 
+difficultés qui rendent cette transposition problématique vont des résistances des juristes qui défendent une doctrine pénale 
+androcentrée à la difficulté inhérente de traduire juridiquement (pour souvent les réduire) des termes vagues et équivoques 
+décrivant des contextes très divers (Toledo 2009, 2018). La 
+discussion juridique sur le duo fémicide/féminicide est très 
+riche et parfois controversée – comme le dit Graciela Atencio, 
+directrice de l’association civile espagnole Feminicidio.net : 
+« le féminicide est un concept polysémique et sa complexité et 
+pluralité de signifiants font de lui une catégorie trans : 
+ 
+9 Comme explique Laporta (2015), même si l’on attribue à Russell ce premier 
+usage, elle-même a affirm é l’avoir entendu auparavant, en ayant connaissance 
+qu’en 1974, Carol Orlock préparait une anthologie sur le fémicide qui n’a 
+jamais été publiée. 
+10 https://dle.rae.es/feminicidio (page consultée le 13 décembre 2022). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 43
+transculturelle, transdisciplinai re, transpolitique et transcon-
+textuelle » (Atencio 2015a, p. 21). 
+En Espagne, la réflexion sur le terme féminicide est récente et 
+survient bien après sa banalisation en Amérique latine. Jusqu’à 
+aujourd’hui, l’Espagne n’a pas créé de catégorie pénale 
+spécifique, même si les activist es féministes utilisent le terme. 
+La seule institution publique qui utilise ce mot depuis 2009 est 
+le conseil général du pouvoir judiciaire (CGPJ)11, à travers son 
+Observatoire de la violence domestique et de la violence de genre et ses rapports sur les « victimes mortelles de la violence de genre », en faisant valoir que le terme féminicide est 
+« consolidé au niveau international » (Laurenzo 2012, p. 137). 
+Ainsi que l’expliquent Sordo et Laporta (2020, p. 32), à 
+l’exception de quelques ac tivistes et chercheur ꞏes qui défendent 
+l’importance de nommer ainsi le meurtre des femmes parce 
+qu’elles sont des femmes, plusieurs positions au sein du 
+mouvement et des chercheuses fé ministes sont contraires à sa 
+reconnaissance pénale en Espagne : une première position 
+considère que le féminicide est un phénomène « étranger », 
+propre aux pays du Sud (Barrio, Sa ntos et Gentile 2017) et une 
+deuxième position – par exemple s outenue dans les arguments 
+de la pénaliste féministe Patric ia Laurenzo (2012) – considère 
+qu’il est inutile de créer un type pénal spécifique car le 
+problème est déjà couvert par d’autres catégories juridiques 
+neutres comme l’homicide ou l’assassinat, avec la circonstance 
+aggravante de genre. En effet, le délit spécifique de violence de 
+genre, inscrit dans le code pénal depuis l’entrée en vigueur de la 
+LO 1/2004, a impliqué que les violences soient considérées 
+comme plus graves et plus lourdement pénalisées quand elles 
+sont commises par un homme que par une femme. 
+Comme l’explique l’avocate María Durán Febrer (2006, 
+p. 44), cette « circonstance aggravante de genre  » a trois 
+fonctions : pénale, sanctionnant plus sévèrement celui qui tire 
+profit de la situation structurelle d’inégalité des femmes  ; 
+ 
+11 Le CGPJ est l’organe constitutionne l de direction du pouvoir judiciaire 
+espagnol. Il se compose du présiden t du Tribunal suprême et de vingt 
+membres, élus à pari té par le Parlement et le Sé nat et nommés par le roi pour 
+une période de cinq ans (article 122 de la Constitution espagnole de 1978). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 44 
+pédagogique, en explicitant que toute forme de violence de 
+genre est proscrite  ; de protection des biens juridiques 
+individuels (vie, intégrité, liberté ou sécurité des victimes) et collectifs (atteinte à l’ordre cons titutionnel, car l’égalité et la 
+non-discrimination « pour raison de sexe » sont des droits fondamentaux). 
+La juriste féministe Patsilí Toledo défend une troisième 
+critique féministe de cette définition spécifique du féminicide 
+comme délit dans le code pénal. Elle interroge l’usage qui en 
+est fait par certains gouvernements d’Amérique latine menant à 
+terme à des réformes sans budget, donc inefficaces, centrées sur la responsabilité pénale individuelle , et non celle de l’État, et 
+qui servent surtout à faire un « lavage d’image » (Toledo 2018, 
+p. 42-43). Selon Toledo, cette définition n’a pas lieu d’être en 
+Espagne, qui pénalise déjà de manière aggravée les crimes pour 
+des raisons de sexe (depuis la réforme du code pénal de 2015) 
+et qui compte aussi avec la reconnaissance de ce terme dans des 
+législations non pénales, comme la loi catalane de 202012. Cette 
+dernière inclut les « meurtres et homicides des femmes pour 
+raison de genre, les incitations au suicide et les suicides qui sont 
+conséquents à la pression et de la violence exercée contre la 
+femme ». Selon cette spécialiste , l’usage de la catégorie de 
+féminicide dans la loi catalane fait davantage écho au contenu 
+politique du terme original, qui dépasse la question du délit et 
+de la responsabilité individuelle pour resserrer la focale autour 
+de la responsabilité des pouvoirs p ublics. Pour Toledo (2022) : 
+l’introduction de l’expression féminicide dans la loi catalane ne 
+peut seulement se limiter à comptabiliser des cas de femmes 
+décédées des conséquences des violences machistes. Les 
+données, qui évidemment sont nécessaires, sont seulement le 
+premier élément parmi des obligations beaucoup plus larges, 
+qui doivent avoir comme axe la responsabilité des pouvoirs 
+publics. 
+Partant de cette idée selon laquelle la question des chiffres 
+serait seulement une question pa rmi d’autres obligations de 
+ 
+12 La loi 17/2020, qui réforme la loi 5/2008 du droit des femmes à éradiquer 
+les violences de genre. Cette loi catalane, depuis 2008, dispose d’une 
+définition large des violences, qui ne restent pas circonscrites au couple. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 45
+l’État, nous allons voir à présent combien la quantification des 
+féminicides est un enjeu politique de premier ordre. 
+Recenser les féminicides : divergences entre l’État 
+et les associations 
+Les différences de définition ont façonné le comptage final 
+des meurtres des femmes. Nous reviendrons sur la façon dont 
+l’État a produit les chiffres sur les féminicides jusqu’en 2022 et sur l’information « officielle » dont on dispose aujourd’hui en Espagne pour comprendre le phénom ène. Nous verrons ensuite 
+comment les associations de la société civile présentent des comptages alternatifs. 
+La LO 1/2004 a créé deux organismes administratifs : la 
+Délégation du gouvernement à la violence de genre (DGVG) (article 29) et l’Observatoire de l’État sur la violence envers la femme (article 30). La DGVG, d’abord rattachée au ministère du Travail et des Affaires sociales et, depuis 2020, adjointe au 
+ministère de l’Égalité, a pour mission de « proposer la politique 
+du gouvernement contre les différentes formes de violence contre la femme et [d’]impulse r, coordonner et conseiller sur 
+toutes les mesures à ce sujet »
+13. Elle recense annuellement les 
+« victimes mortelles de la violence de genre » âgées de plus de 
+15 ans14. Chaque décompte annuel est désormais ajouté au 
+précédent, débouchant sur le nombre total des victimes depuis 2003 – la remise du compteur à zéro tous les ans ayant suscité des critiques du mouvement féministe. Entre 2003 et 2020, on dénombre 1 078 féminicides (conjugaux) selon le gouver-nement, alors que les associations recensent, elles, 1 378 
+femmes tuées par des hommes durant la même période. Les 
+ 
+13 https://violenciagenero.igualdad.gob.es/ca/instituciones/delegacion
+Gobierno/home.htm (page consu ltée le 13 décembre 2022). 
+14 Les données officielles des « victimes mortelles pour violence de genre » 
+depuis le 1er janvier 2003 jusqu’à aujourd’hui sont disponibles ici : 
+https://violenciagenero.igualdad.gob.es/violenciaEnCifras/victimasMo
+rtales/fichaMujeres/home.htm (page consultée le 13 décembre 2022). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 46 
+données officielles de la DGVG15 rassemblent diverses 
+informations, telles que les cas en cours d’enquête ou le nombre 
+d’enfants orphelins en raison de violences de genre. Les 
+informations sociodémographiques et judiciaires disponibles en relation avec la victime et l’agresseur présumé sont : 
+- la localisation géographique (par communauté autonome) ; 
+- l’âge ; 
+- le pays de naissance (Espagne ou « autre ») ; 
+- le type de relation (partenaire ou ex) et de cohabitation avec 
+l’agresseur (avec ou sans) ; 
+- l’existence éventuelle d’une plainte (déposée par la victime 
+ou par des tiers) et, en cas de plainte, celles qui ont donné 
+lieu à un procès
+16 ; 
+- l’existence d’une ordonnance de protection (OP) (avec les 
+pourcentages de demandes, d’obtention et de refus ; et celles qui avaient une OP, si elle était en vigueur ou pas) ; les cas où il y a eu violation des mesures d’éloignement de la part de l’agresseur et s’il y a eu suicide ou tentative de suicide de 
+celui-ci. 
+Par ailleurs, l’Observatoire de l’État de la violence de genre 
+(qui dépend de la DGVG) publie aussi un rapport annuel avec l’information de toutes les victimes mortelles de violences de genre (en incluant des informations plus détaillées que les 
+informations mentionnées ci-dessus, comme le nombre 
+d’enfants, la situation administrative et d’emploi, la présence ou pas de handicap, entre autres)
+17. Enfin, depuis 2006, le CGPJ 
+compile et analyse les données de la statistique judiciaire et publie chaque année un rapport annuel sur les victimes 
+ 
+15 La DGVG recense annuellement les « victimes mortelles de la violence de 
+genre » âgées de plus de 15 ans. 
+16 En Espagne, les femmes ne peuvent pas retirer une plainte une fois qu’elle a 
+été déposée, la procédure pénale en clenchée ne peut être interrompue. 
+Cependant, une fois devant les tribuna ux, les victimes peuvent refuser de 
+témoigner contre leur (ex-)conjoint (en vertu de l’article 416 de la Ley 
+Enjuiciamiento Criminal-LEcrim ). 
+17 https://violenciagenero.igualdad.gob. es/violenciaEnCifra s/observatorio/info
+rmesAnuales/home.htm (page co nsultée le 13 décembre 2022). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 47
+mortelles de violences de genre, présentant les caractéristiques 
+générales des victimes, des agresseurs et des données judiciaires 
+(plaintes effectuées ou p as, ordonnances de protection 
+demandées et obtenues)18. 
+Depuis longtemps, des associations féministes de la société 
+civile – historiquement l’association des femmes séparées et divorcées ( Mujeres Separadas y Divorciadas ) et la commission 
+d’enquête sur les mauvais traitements à l’égard des femmes 
+(Comisión Para la Investigación de Malos Tratos a Mujeres ) 
+(CIMTM), plus récemment le groupe Feminicidio.net – font le 
+recensement de ces meurtres en suivant chaque cas qui apparaît dans la presse. Le tableau 1 est une comparaison de l’évolution 
+des féminicides entre 2003 et 2017, telle qu’elle est mesurée par 
+la délégation du gouvernement d’ une part, et par différentes 
+associations féministes d’autre part. Les chiffres des associations féministes sont pr esque toujours plus élevés que 
+ceux de l’État. 
+Feminicidio.net
+19, établie à Madrid, est la seule association 
+qui inclut dans ses listes tous les meurtres de femmes, 
+indépendamment de la relation avec l’homme qui les a tuées. Elle classifie les féminicides ainsi  : féminicide conjugal, 
+féminicide familial, féminicide infantile
+20, féminicide par pros- 
+titution ou par traite, fémini cide transphobe, féminicide 
+lesbophobe, féminicide raciste, féminicide par mutilation 
+génitale, assassinat des femmes par vol, assassinat de femmes en crime organisé, assassinat de femmes par violence communautaire, 
+ 
+18 https://www.poderjudicial.es/cgpj/e s/Temas/Violenci a-domestica-y-de-
+genero/Actividad-del-Observatorio/In formes-de-violencia-domestica-y-de-
+genero/ (page consultée le 13 décembre 2022). 
+19 Voir https://geo.feminicidio.net/ (page consultée le 13 décembre 2022). 
+Tous les rapports de Feminicidio sont disponibles sur leur site. 
+20 Essentiellement des meurtres de pe tites filles par leur père, mais 
+l’association recense aussi dans cette catégorie d’autres cas, comme des frères 
+(mineurs) qui ont tué leur sœur (mineure). Les petits garçons tués par leur père 
+sont aussi comptés da ns une liste annexe. 
+Voir https://feminicidio.net/tag/femin icidio-infantil/ (page consultée le 13 
+décembre 2022). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 48 
+Tableau 1 
+Comparaison entre les données officielles de la DGVG 
+sur le nombre de féminicides 
+et les chiffres des associations féministes (2003-2017)21 
+
+ Nombre de féminicides 
+Année Délégation du 
+Gouvernement à 
+la Violence de 
+Genre CIMTM Feminicidio.
+net Mujeres 
+Separadas 
+y 
+Divorciadas 
+2003 71 - - - 
+2004 72 - - - 
+2005 57 57 - - 
+2006 69 68 - - 
+2007 71 71 - - 
+2008 67 76 - - 
+2009 56 56 - - 
+2010 73 73 127 - 
+2011 61 61 115 - 
+2012 52 52 113 - 
+2013 54 76 114 
+2014 54 51 102 56 
+2015 60 99 113 80 
+2016 44 66 105 79 
+2017 49 53 99 92 
+ 
+21 Ce tableau a été réalisé par mes soin s à partir des données publiques et des 
+associations citées. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 49
+communautaire, féminicide sans données suffisantes22. 
+L’association distingue donc les féminicides (meurtre de 
+femmes parce qu’elles sont des femmes) de l’assassinat des femmes dans d’autres contextes, non motivés par le genre de la victime (dans le cadre du crime organisé, du trafic de drogues, 
+d’un vol, de la violence juvénile). Elles expliquent la différence ainsi : 
+dans le meurtre, le genre féminin d’une victime n’est pas 
+pertinent pour l’auteur. Par exemple, un homme armé qui tire et qui tue par hasard une femme dans un supermarché pendant un 
+vol ne commet pas un féminicide. Dans le meurtre, il n’existe 
+pas de raisons liées au genre (Atencio et équipe du 
+Feminicidio.net 2015, p. 223). 
+Elles recensent aussi les garçons et les hommes tués dans le 
+cadre de violences de genre (très souvent, il s’agit d’enfants ou de nouveaux partenaires de la victime). Elles publient des listes 
+exhaustives comportant le nom des femmes en question
+23. 
+Ainsi, selon Feminicidio.net , en 2014, 102 féminicides ont été 
+recensés, alors que l’État n’en a comptabilisé que 54. Selon 
+Feminicidio.net , sur la période 2010-2015, on a pu 
+comptabiliser en Espagne sur un total de 681 femmes tuées, 586 
+féminicides (86 % du total) et 95 assassinats des femmes 
+(14 %). Mais si l’on considère les chiffres officiels, on compte 
+seulement 354 cas, ce qui représente 52 % du total dénombré par l’association
+24. 
+L’association CIMTM publie des chiffres sur son site web 
+d’après une « élaboration propre à partir des données de la 
+ 
+22 Dans cette catégorie, Feminicido.net recense des décès des femmes où les 
+données disponibles ne sont pas suffisa ntes pour les caractériser comme des 
+féminicides. Pour cela, l’association les considère à la fois comme des 
+féminicides/assassinats car le mobile du crime n’est pas clair ; la majorité des 
+cas sont sous enquête de la police. Il s’agit par exemple (selon le rapport de 
+2020) du cas d’un homme, bailleur, qui a tué la femme à qui il louait un 
+appartement ; un homme qui a tué la propriétaire d’un bar ou deux hommes 
+qui ont tué une femme sans domicile fixe. 
+23 Voir ici: https://informes.feminicidio.net/ (page consultée le 13 décembre 2022). 
+24 « Feminicidio en España, in forme 2015. Avance de datos » 
+https://feminicidio.net/feminicidios-av ance-del-informe-espana-2015/ (page 
+consultée le 13 décembre 2022). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 50 
+presse et d’autres organisations féministes »25. L’Association 
+des femmes séparées et divorcées inclut pour sa part toutes les 
+personnes tuées dans l’entourage de la victime  : ses enfants 
+(qu’ils soient ou non ceux de l’agresseur), ses parents, des amiꞏes, ou encore les partenaires actuels des victimes
+26. À 
+critère égal, à savoir le nombre de féminicides commis par le partenaire ou ex-partenaire, les chiffres sont proches, mais pas 
+exactement identiques (voir tableau 2). 
+Tableau 2 
+Comparaison entre les données du gouvernement et celles de 
+l’association Feminicidio.net sur les féminicides conjugaux 
+(2010-2017)
+ 27 
+ Féminicides conjugaux 
+Délégation du 
+Gouvernement à la 
+violence de genre Feminicidio.net 
+2010 73 79 
+2011 61 73 
+2012 52 62 
+2013 54 57 
+2014 54 59 
+2015 60 64 
+2016 44 56 
+2017 49 53 
+ 
+La différence s’explique, en partie, du fait que 
+Feminicidio.net inclut des cas qui se trouvent encore sous 
+enquête judiciaire, mais aussi des cas où la relation de couple sort du cadre plus conventionnel : 
+ 
+25 Voir http://malostratos.org/novedades -asociacion-malos-tratos/estadisticas-
+violencia-de-genero/ (page consultée le 13 décembre 2022). 
+26 Voir https://www.separada sydivorciadas.org/estadis ticas/ (page c onsultée le 
+13 décembre 2022). 
+27 Établi par mes soins sur la base des données du gouvernement et de 
+l’association Feminicidio.ne t. J’ai choisi de présenter les données à partir de 
+2010 car Feminicidio a débuté so n recensement à cette date. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 51
+l’État ne reconnaît pas non plus tous les cas que nous 
+comptabilisons comme des féminicides conjugaux dans notre 
+base de données. Il s’agit des cas dans lesquels la relation entre la victime et l’agresseur a été éphémère ou bien lorsqu’il y a des 
+doutes sur le lien qui les unit, car il ne correspond pas à celui du 
+concubinage ou du mariage conventionnel, même avec la preuve d’un certain type de relation affective-sexuelle dans le temps 
+(Atencio et équipe de Feminidio.net 2015, p. 218). 
+En effet, selon la LO 1/2004, le couple n’est limité ni au 
+mariage ni à l’union libre28, se référant autant aux couples 
+mariés et cohabitant qu’aux « relations analogues d’affectivité, 
+même sans cohabitation » (article 1er de la LO 1/2004). La 
+définition précise de ces « relations analogues d’affectivité » concept juridique indétermin é, reste un enjeu important 
+(Gutiérrez Mayo 2019). Son in terprétation dépend donc des 
+juges et des tribunaux, qui vont trancher en fonction de l’existence de plusieurs critères, notamment pour exclure les relations sporadiques ou amicales. Selon Gutiérrez Mayo (2019), certaines de ces conditions sont : la perception des premièrꞏes concerné ꞏes (se considérant dans une relation de 
+couple ou pas) ; la cohabitation partiale (week-ends, vacances) ; 
+l’existence de rapports sexuels
+29 ; la stabilité (durée de la 
+relation)30 ; la composante affective (intimité, confiance, 
+communication) et le projet de vie commune (désir ou non de poursuivre la relation). 
+ 
+28 Entre le mariage et l’union libre, en Espagne il existe la figure juridique des 
+« parejas de hecho » (en cohabitation more uxorio, c’est-à-dire, stable et 
+durable), similaire au PACS français. Il n’y a pas de loi étatique les 
+concernant, ce sont les Communautés Autonomes qui les régulent à travers 
+des lois propres. 
+29 Comme l’explique Gutierrez Mayo (2019) , ce critère est très important mais 
+il ne peut pas être exigé (des couples n’en ont pas pour différentes raisons 
+politiques ou religieuses). De plus, il ne définit pas à lui seul l’existence d’une 
+relation (pour exclure les relations qui ont une composante sexuelle mais qui 
+sont occasionnelles, co mme par exemple les sex friends ). 
+30 Selon le tribunal suprême espagnol, on peut considérer le statut de 
+partenaire d’une relation affective à pa rtir d’une durée d’au moins 15 jours 
+(Gutiérrez Mayo, 2019). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 52 
+Controverses : l’exclusion des femmes prostituées du 
+décompte 
+Au-delà de la quantification des féminicides conjugaux, 
+qu’en est-il des féminicides des femmes amantes du meurtrier, des fillettes tuées par leur père, des mères tuées par leurs fils, 
+des femmes victimes au sens où elles ont été poussées au 
+suicide, ou encore des femmes en situation de prostitution tuées par des (mal nommés) « clients » ? Ce sont autant d’autres cas que l’on pourrait analyser sociologiquement comme des situations marquées par les violences de genre mais déconsidérées comme telles aux yeux de la loi. Plusieurs cas 
+très médiatisés ont créé un fort débat, comme celui de Nagore 
+Laffage, qui n’a pas été comptabilisée parmi les victimes mortelles de violence de genre : cette jeune femme de 20 ans a été assassinée lors des fêtes de San Fermín, à Pamplona, en 2008, par José Diego Yllanes qui voulait la violer. Un autre cas 
+emblématique du comptage sélectif est celui de Marina 
+Okarynska, 24 ans, assassinée en 2015 à Cuenca, par son ex-
+partenaire, Sergio Morate, qui a aussi tué l’amie de Marina, Laura del Hoyo, 26 ans. Au niveau officiel, seul le meurtre d’Okarynska a été considéré comme relevant de violences de 
+genre et celui de del Hoyo est resté en dehors des statistiques au 
+motif qu’elle n’avait pas de relation affective avec l’assassin, alors qu’il les a tuées toutes les deux au même moment. Cette sélection des cas pointe clairement les limites éthiques, scientifiques et politiques d’une l ecture restreinte des violences 
+de genre, ainsi que ses conséquences en termes de 
+quantification des féminicides. 
+Les féminicides de femmes en situation de prostitution ont 
+fait l’objet d’une réflexion et d’une action spécifiques de la part de certains collectifs féministes pour les intégrer au comptage officiel. Leur dénonciation est arrivée jusqu’au parlement 
+espagnol. En Espagne, entre 27 et 39 % des hommes affirment 
+avoir déjà payé en échange de rapports sexuels : il s’agit de l’un des taux les plus élevés d’Europe (Atencio 2015b, p. 126). D’où un potentiel très élevé de féminicides prostitutionnels dans le pays, estimés à 31 femmes assassinées entre 2010 et 2015 selon 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 53
+Féminicidio.net31. Ces statistiques, comme l’affirment les 
+auteures, n’incluent pas les femmes prostituées qui se sont 
+suicidées ou qui sont décédées suite à la prise de drogues ou d’alcool (ce qui arrive souvent dans le système prostitutionnel). Le cas très médiatisé de Ionela Olguta Pantelimon, morte noyée à Estepona (Andalousie), en 2016, quand les pluies torrentielles 
+ont inondé le sous-sol du borde l où elle dormait, dont la porte 
+était fermée à clef et d’où elle n’a pas pu échapper
+32, n’est pas 
+non plus comptabilisé. Cela pose la question d’une définition large du féminicide qui intègre non seulement les assassinats pour motifs misogynes, mais aussi les morts de femmes pour des causes non naturelles, en raison de leur position de 
+discrimination structurelle ou en raison d’autres facteurs, 
+comme la pauvreté. Comme l’écrit Laurenzo (2012, p. 122), « on arrive ainsi à un concept large de féminicide qui inclut toutes les morts évitables des femmes – violentes ou pas, criminelles ou pas – dérivées de la discrimination pour raison 
+de genre ». Mais l’on est encore loin de considérer ces 
+« féminicides indirects » et toutes les morts évitables des 
+femmes de cette manière plus la rge. En 2014, le gouvernement 
+a explicitement refusé d’inclure les meurtres des femmes prostituées dans la violence de genre : deux députées socialistes ont formulé une question parlementaire à Mariano Rajoy (du 
+Parti Populaire, président du gouvernement espagnol de 2011 à 
+2018) à propos du féminicide d’ une prostituée marocaine par un 
+militaire espagnol qui n’avait pas été compté comme un cas de violence de genre, car aucun lien affectif ne les unissait
+33. 
+ 
+31 « Feminicidio en el sistema prostitucional del Estado español. Víctimas 
+2010-2015: 31 mujeres asesinadas » (01/04/2016) 
+https://feminicidio.net/feminicidio-en- el-sistema-prostitucional-del-estado-
+espanol-victimas-2010-2015-31-mujeres-ases inadas/ (page consultée le 13 
+décembre 2022). 
+32 Voir l’article d’Amelia Tiganus (survivante de la traite et de la prostitution) 
+« Ionela Olguta Pantelimon, la víctima del feminicidi o por trata que no fue » 
+(Feminicidio , 17/12/2016) 
+https://geoviolenciasexual.com/ionela-olguta-pantelimon-la-victima-del-
+feminicidio-por-trata-que-no-fue/ (p age consultée le 13 décembre 2022). 
+33 « Asesinar a una prostituta no es violencia machista » 
+http://www.eldiario.es/sociedad/Gobier no-considera-prosti tuta-violencia-
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 54 
+Pourtant, il est difficile de défendre que ce meurtre n’ait pas 
+résulté du rapport social entre hommes et femmes. Beatriz 
+Gimeno (2015) propose que l’on conceptualise les féminicides dans le cadre de la prostitution comme des « féminicides invisibles ». Elle défend aussi qu’on les considère « comme des violences de genre à l’égard desquelles on exprimerait la même considération politique que celle dont bénéficient les 
+féminicides conjugaux. Le fémini cide par prostitution est l’une 
+des démonstrations les plus raffi nées et les plus terribles des 
+violences de genre et elle doit ainsi être interprétée et traitée » (Gimeno 2015, p. 120). 
+En Espagne, au niveau de la loi de l’État, à la différence des 
+pays du «  modèle nordique  » qui incluent la prostitution et la 
+traite comme des violences masculin es, la LO 1/2004 ne prend 
+pas en compte la violence liée à la prostitution ni à la traite d’êtres humains ayant des finalités d’exploitation sexuelle, alors que la grande majorité des victimes sont des femmes ou des filles et que la grande majorité des traitants sont des hommes 
+(UNODC 2016). Cependant, certaines lois régionales contre les 
+violences de genre, comme celles de la Catalogne, de Madrid, et de Galice, l’incluent désormais. En outre, la Navarre est la première région à avoir reconnu dans sa loi la prostitution comme une violence de genre
+34. 
+L’élargissement de la défini tion des violences de genre 
+dans les statistiques 
+Malgré la restriction légale pe rsistante des violences de genre 
+au cas des relations de couple, l’Espagne a été conduite à 
+certains aménagements durant les quinze dernières années. 
+Depuis 2011, pour combler ces manques et répondre aux critiques, la 
+DGVG a vu ses compétences étendues à la lutte 
+ 
+machista_0_242176420.html (El Diario, 24/03/2014) (page consultée le 18 
+décembre 2022). 
+34 Ley foral 14/2015, del 10 de abril, para actuar contra la violencia hacia las 
+mujeres , article 3-e. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 55
+contre toutes les formes de violences de genre35. Et c’est 
+notamment grâce aux demandes du comité de suivi de la CEDEF 
+en Espagne36, et à la ratification de la Convention d’Istanbul en 
+2014, que l’on constate un changeme nt en la matière. En effet, 
+la Convention d’Istanbul dispose, dans son article 11 sur les 
+données et la recherche, que les parties s’engagent « à collecter les données statistiques désagrégées pertinentes, à intervalle 
+régulier, sur les affaires relatives à toutes les formes de violence 
+couvertes par le champ d’application de la présente Convention ». Selon le premier rapport du 
+GREVIO sur 
+l’Espagne : 
+[ce groupe] encourage vivement les autorités espagnoles à 
+veiller à ce que les efforts déployés par la délégation du 
+gouvernement sur la violence de genre en vue de collecter et de 
+diffuser des données soient étendus à toutes les formes de 
+violence à l'égard des femmes couvertes par la Convention 
+d'Istanbul, en particulier la violence sexuelle, le mariage forcé et les mutilations génitales féminines (
+GREVIO 2020, p. 24). 
+Jusqu’en 2015, les macro-enquêtes de victimation37 ne 
+recensaient pas les taux de pr évalence des violences physiques 
+et sexuelles en dehors du couple, ce qui posait des problèmes en 
+termes de connaissances scientifi ques mais aussi politiques. Cet 
+élargissement de la définition des violences dans les enquêtes de victimation s’est aussi matérialisé dans les nouvelles dispositions du Pacte d’État contre la violence de genre voté en 2017. L’axe 6 du rapport résultant du Pacte d’État porte sur 
+« l’amélioration des connaissances comme complément 
+indispensable pour contribuer efficacement à la lutte contre tous 
+ 
+35 Selon l’article 3 sur les compétences de cet organe selon le Royal-Décret 
+263/2011, du 28 février, qui définit la nouvelle structure du ministère de 
+Santé, Politique sociale et Égalité (après l’élimination de l’ancien ministère de 
+l’Égalité en 2011, qui a ét é rétabli ensuite en 2020). 
+36 Rapports périodiques, septième et huitième, sur l’Espagne ; 
+CEDAW/C/ESP/7-8, examinés lors de s séances 1309 y 1310, célébrés le 8 
+juillet de 2015. 
+37 Depuis la fin des années 1990, l’Espagne, à travers l’ Instituto de las 
+Mujeres (Institut des femmes), organisme créé en 1983, moment qui marque 
+l’institutionnalisation du féminisme d’État, a réalisé 6 macro-enquêtes de 
+victimation, représenta tives de la population féminine, publiées en 1999, 
+2002, 2006, 2011, 2015 et en 2019. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 56 
+les types de violence à l’égard des femmes compris dans le 
+domaine d’application de la Convention d’Istanbul, en 
+apportant des données plus fiabl es, complètes et détaillées sur 
+ses formes, son incidence, ses causes et ses conséquences ». Ainsi, après toutes ces années de débats, critiques et controverses, depuis janvier 2022, l’État espagnol comptabilise enfin l’ensemble des féminicides de manière officielle. Il 
+assume, finalement, son engagement d’assurer un suivi 
+statistique de tous les types de violences contre les femmes et de leur résultat fatal, les féminicides. 
+ 
+⁂ 
+ 
+Dans cet article, nous avons tenté de rendre compte des 
+enjeux liés à la définition et au recensement des violences et des meurtres de femmes parce qu’elles sont des femmes en Espagne. Le nombre des féminicides (conjugaux) dans ce pays est souvent mobilisé comme un indicateur des bons résultats de la loi organique (Centre Hubertine Auclert 2020) : car, même si 
+un féminicide de plus est toujours un échec et représente un 
+féminicide de trop, on constate que le nombre de féminicides conjugaux a diminué au fil des années. Cependant les chiffres 
+officiels espagnols excluent une bonne partie du nombre de ce qu’une conception moins restrictive du genre invite à considérer 
+aussi comme des féminicides. L’ensemble de violences de 
+genre que vivent les femmes ne se résume pas aux violences exercées par leur partenaire ou ex-partenaire. Par leur pratique des décomptes alternatifs du nombre des femmes tuées dans le pays, les associations de la société civile ont montré les limites des données officielles de l’État qui souvent minimisaient cette 
+réalité crue. Parallèlement, les obligations supranationales 
+engagées à l’égard de la CEDEF ou de la Convention d’Istanbul 
+ont permis de faire évoluer les enquêtes de victimation et la 
+quantification officielle de l’ensemble d’assassinats misogynes, qui s’appuie désormais sur un périmètre moins restrictif des 
+actes recensés. Grâce aux mobilisations féministes, de terrain et 
+dans la recherche, l’État commence à aller au-delà d’une lecture 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 57
+sélective des violences comme des meurtres de femmes, 
+permettant une meilleure comp réhension scientifique du 
+problème, une politique publique moins fragmentée et plus en accord avec les analyses féminist es des violences. Dans les 
+années à venir, nous resterons attentives à la mise en œuvre de ces changements récents, et au comptage officiel de tous les meurtres des femmes parce qu’elles sont des femmes, y compris 
+celles qui figurent parmi les personnes les plus exclues de notre 
+société, comme les femmes en situation de prostitution. 
+ 
+Références 
+Amorós Celia (2008). « Conceptuali zar es politizar ». In Laurenzo 
+Patricia, Maqueda Maria Luisa, Rubio Ana Maria (eds.), Género, 
+violencia y derecho. Valencia, Tirant Lo Blanch : 15-25. 
+Atencio Graciela (2015a). « Lo que no se nombra no existe ». In 
+Atencio Graciela (ed.), Feminicidio. De la categoría político-
+jurídica a la justicia universal. Madrid, Catarata : 17-61. 
+Atencio Graciela (2015b). « La cultura putera mata mujeres en 
+España ». In Atencio Graciela (ed.), Feminicidio. De la categoría 
+político-jurídica a la justicia universal. Madrid, Catarata : 123-
+140. 
+Atencio Graciela et l’équipe de Feminicidio.net (2015). « ¿Por qué 
+documentar el feminicido desde la sociedad civil? ». In Atencio 
+Graciela (ed.), Feminicidio. De la categoría político-jurídica a la 
+justicia universal. Madrid, Catarata : 215-238. 
+Barrio Carlos, Santos Estela, Gentile Alessandro (2017). « El 
+concepto de feminicidio y su percepción por parte del 
+asociacionismo feminista en España ». Revista Clepsydra , 16 : 
+237-257. 
+Bodelón Encarna (2008). « La violencia contra las mujeres y el 
+derecho no-androcéntrico: perdidas en la traducción jurídica del 
+feminismo ». In Laurenzo Patricia, Maqueda María Luisa et Rubio Ana (eds.), Género, violencia y derecho . Valencia, Tirant lo 
+Blanch : 275-299. 
+Bodelón Encarna (2009). « Feminismo y Derecho: mujeres que van 
+más allá de lo jurídico ». In Bodelón Encarna, Nicolás Gemma 
+(eds.), Género y dominación. Críticas feministas del derecho y del 
+poder . Barcelona, Anthropos/ OSPDH : 95-116. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 58 
+Bodelón Encarna (2012) (eds.). Violencia de género y las respuestas 
+de los sistemas penales. Buenos Airez, Didot. 
+Bustelo María, Lombardo Ema nuela (2006). « Los “marcos 
+interpretativos” de las políticas de igualdad en Europa: conciliación, violencia y desigualdad de género en la política ». 
+Revista Española de Ciencia Política , 14 : 117-140. 
+Bustelo María, López Silvia, Pl atero Raquel Lucas (2007). « La 
+representación de la violencia co ntra las mujeres como un asunto 
+de género y un problema público en España ». In Bustelo María et 
+Lombardo Emanuela (eds.), Políticas de igualdad en España y en 
+Europa . Madrid, Cátedra : 67-96. 
+Casas Vila Glòria (2017). « D’une loi d’avant-garde contre la violence 
+de genre à l’expérience pénale des femmes  : le paradoxe 
+espagnol ? ». Champ Pénal/Penal Field , 14, dossier  : Violences 
+conjugales et justice pénale. 
+Centre Hubertine Auclert (2020). Les politiques publiques de lutte 
+contre les violences conjugales en Espagne : regards croisés avec 
+la France. Préconisations pour am éliorer les dispositifs français à 
+partir de l’exemple espagnol . Rapport rédigé par Margaux Collet. 
+De Miguel Ana (2005). « La construcción de un marco feminista de 
+interpretación: la violencia de género ». Cuadernos de Trabajo 
+Social , 18 : 231-248. 
+Durán Febrer María (2006). « Dos años de Ley Integral contra la 
+violencia de género: logros y desafíos ». Aequalitas: Revista 
+Jurídica de Igualdad de Oportunidades entre Mujeres y Hombres , 
+19 : 42-49. 
+European Union Agency for Fundamental Rights (2014). Violence 
+against women:an EU-wide survey. Main results. Luxembourg : 
+Publications Office of the European Union. 
+Fernández Marisa (2009). « Dones i seguretat ». Revista Catalana de 
+Seguretat Pública , 20 : 85-98. 
+Gimeno Beatriz (2015). « Feminicidio por prostitución  : el feminicidio 
+invisible ». In Aten cio Graciela (ed.), Feminicidio. El asesinato de 
+mujeres por ser mujeres. Madrid, Catarata : 89-121. 
+GREVIO (2020). « Baseline Evaluation Report. Spain ». GREVIO/Inf 
+(2020)19 ; adopté le 13 octobre 2020, publié le 25 novembre 2020. 
+Gutiérrez Mayo Escarl ata (2019). « Las relaciones análogas de 
+afectividad en el ámbito de la violencia de género ». 
+Elderecho.com. Noticias Jurídicas y actualidad . In 
+https://elderecho.com/las-relaci ones-analogas-afectividad-ambito-
+la-violencia-genero (page consultée le 02 juin 2022). 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Violences de genre et féminicides en Espagne 59
+Lagarde Marcela (2009). « Claves femi nistas en torno al feminicidio. 
+Construcción teórica, política y jurídica ». Cuadernos solidarios , 
+3 : 211-233. 
+Laporta Elena (2015), « Evolución del concepto. Un anglicismo que 
+se desarrolló en América latina ». In Atencio Graciela (ed.), 
+Feminicidio. El asesinato de mujeres por ser mujeres. Madrid, 
+Catarata : 63-87. 
+Laurenzo Patricia (2008). « La violencia de género en el Derecho 
+Penal : un ejemplo de paternalismo punitivo ». In Laurenzo 
+Patricia, Maqueda María Luisa, Rubio Ana (eds.), Género, 
+violencia y derecho . Valencia, Tirant Lo Blanch : 329-361. 
+Laurenzo Patricia (2012). « Apuntes sobre el feminicidio ». Revista de 
+Derecho Penal y Criminología , 8 : 119-143. 
+Ministerio de Asuntos Exteriores, Unión Europea y Cooperación (s.d). 
+« Respuesta de España a la solicitud de la Relatora Especial de Naciones Unidas sobre violencia contra la mujer. Iniciativas 
+relacionadas con Observatorios sobre Feminicidios o asesinatos de 
+mujeres por razón de género ». Présentation du rapport en 76 périodes de session AGNU. 
+Montoya Celeste (2013). From global to grassroots. The European 
+Union, Transnational Advocacy, and combating violence against 
+women . Oxford, Oxford University Press. 
+Nations unies (2010). Manuel de législation sur la violence à l’égard 
+des femmes . New York, Nations unies, département des affaires 
+économiques et sociales. Division de la promotion de la femme. 
+ONU-Femmes (2011). En quête de Justice. Le progrès des Femmes 
+dans le monde (2011-2012). New York. 
+Russell Diana E. H., Van de Ven Nicole (eds.) (1990). Crimes Against 
+Women: Proceedings of the International Tribunal . Berkeley : 
+Russell Publications. 
+Sordo Tania, Laporta Elena (2020). « El feminicidio en España: entre 
+el rechazo conceptual y las resistencias político-jurídicas ». 
+Iberoamérica Social , 14 : 28-49. 
+Toledo Patsilí (2022). « Feminicidis i agressions per raons de 
+gènere ». Article en préparation. 
+Toledo Patsilí (2018). « Criminalis ing femicide in Latin American 
+countries – legal power working for women? ». In Howe Adrian, 
+Alaattinoglu Daniela (eds.), Contesting Femicide. Feminism and 
+the Power of Law Revisited . Londres, Rouledge : 39-51. 
+Toledo Patsilí (2009). « Feminicidio ». Oficina en México del Alto 
+Comisionado de las Naciones Unidas para los Derechos Humanos. 
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
+Glòria Casas Vila 60 
+UNODC (2016). Global Report on Trafficking in Persons 2016 . New 
+York, United Nations Office on Drugs and Crime. 
+Weil Shalva, Corradi Consuelo, Na udi Marceline (eds.) (2018). 
+Femicide across Europe. Theory, research and prevention . Bristol, 
+Policy Press. 
+ 
+Glòria Casas Vila est maîtresse de conférences en sociologie à 
+l’université Toulouse 2 Jean- Jaurès, chercheuse au CERTOP-
+CNRS (UMR 5044) et chercheuse associée du Centre Antigona (Université autonome de Barcel one). Docteure ès sciences 
+sociales de l’université de Lausanne, elle travaille sur les violences machistes et les répon ses sociojuridiques, notamment 
+en Espagne, en lien avec les ré formes du droit de la famille 
+(garde partagée, médiation fam iliale). Parmi ses dernières publi-
+cations : 
+— (2019). « Parental Alienation Syndrome in Spain: Opposed 
+by the Government but Accepted in the Courts ». Journal of 
+Social Welfare and Family Law , 42 (1) : 45-55 ; 
+— (2022). « Un maltratador no es un buen padre : les violences 
+machistes et la protection des enfants en Espagne ». In Lapierre Simon, Vincent Alexandra, Le meilleur intérêt de l’enfant victime 
+de violence conjugale. Enjeux et réponses sociojudiciaires. 
+Quebec , Presses de l’Université du Québec : 99-116. 
+gloria.casas-vila@univ-tlse2.fr 
+
+Association Féminin Masculin Recherches | Téléchargé le 01/05/2026 sur https://shs.cairn.info (IP: 81.64.105.178)
