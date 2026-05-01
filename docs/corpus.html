@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Corpus militant — s'identifier, genrer, mégenrer</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+:root { --bg: #f5f0e8; --card: #fff; --accent: #2a7a2a; --red: #cc3333; --blue: #3366aa; --purple: #7744aa; --dim: #666; --border: #ccc; --orange: #cc7700; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'JetBrains Mono', monospace; background: var(--bg); color: #111; padding: 1.5rem; max-width: 1100px; margin: 0 auto; font-size: 14px; }
+h1 { font-size: 1rem; text-align: center; letter-spacing: .15em; text-transform: uppercase; margin-bottom: .3rem; }
+.sub { text-align: center; font-size: .55rem; color: var(--dim); margin-bottom: 1.5rem; line-height: 1.4; }
+.section { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin-bottom: 1rem; }
+.section-title { font-size: .65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); margin-bottom: .75rem; }
+
+.chart-wrap { position: relative; height: 250px; display: flex; align-items: flex-end; gap: 3px; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd; }
+.yg { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; cursor: pointer; border-radius: 3px; transition: background .1s; }
+.yg:hover { background: rgba(42,122,42,.06); }
+.yg.sel { background: rgba(42,122,42,.12); }
+.bs { display: flex; flex-direction: column-reverse; align-items: center; width: 100%; gap: 1px; }
+.b { width: 85%; border-radius: 2px 2px 0 0; }
+.b.meg { background: var(--red); }
+.b.gen { background: var(--blue); }
+.b.sid { background: var(--purple); }
+.bv { font-size: .4rem; color: #fff; text-align: center; font-weight: 700; }
+.yl { position: absolute; bottom: -1.3rem; font-size: .45rem; color: var(--dim); transform: rotate(-45deg); }
+.legend { display: flex; gap: 1.5rem; justify-content: center; margin-top: .75rem; font-size: .55rem; }
+.ld { display: flex; align-items: center; gap: .3rem; }
+.ldot { width: .55rem; height: .55rem; border-radius: 2px; }
+
+.detail { display: none; background: #fafafa; border: 2px solid var(--accent); border-radius: 6px; padding: 1rem; margin-top: .75rem; }
+.detail.open { display: block; }
+.dh { display: flex; justify-content: space-between; align-items: center; margin-bottom: .5rem; }
+.dt { font-size: .8rem; font-weight: 700; color: var(--accent); }
+.dc { font-size: 1.2rem; background: none; border: none; cursor: pointer; color: var(--dim); }
+
+.cit { padding: .6rem; margin-bottom: .5rem; border-radius: 4px; border-left: 3px solid var(--dim); background: #fff; }
+.cit.meg { border-left-color: var(--red); }
+.cit.gen { border-left-color: var(--blue); }
+.cit.sid { border-left-color: var(--purple); }
+.cit-q { font-size: .7rem; font-style: italic; line-height: 1.5; margin-bottom: .3rem; }
+.cit-q mark { background: #fff3c4; font-style: italic; padding: 0 .15rem; border-radius: 2px; }
+.cit-src { font-size: .5rem; color: var(--dim); }
+.cit-badges { display: flex; gap: .3rem; margin-bottom: .3rem; }
+.badge { font-size: .45rem; font-weight: 700; padding: .1rem .3rem; border-radius: 3px; color: #fff; }
+.badge.meg { background: var(--red); }
+.badge.gen { background: var(--blue); }
+.badge.sid { background: var(--purple); }
+.badge.src { background: #888; }
+a { color: var(--blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.empty { color: var(--dim); font-style: italic; font-size: .6rem; padding: .5rem; }
+.note { font-size: .55rem; color: var(--dim); padding: .5rem; background: #f6f6f2; border: 1px solid #ddd; border-radius: 4px; line-height: 1.5; }
+</style>
+</head>
+<body>
+<h1>Corpus militant</h1>
+<div class="sub">s'identifier · genrer · mégenrer<br>Sources militantes francophones (blogs, glossaires, forums, réseaux sociaux) — dimension diachronique<br>Cliquer sur une année pour voir les citations en contexte</div>
+
+<div class="section">
+    <div class="section-title">Occurrences par an — sources militantes</div>
+    <div class="chart-wrap" id="chart"></div>
+    <div class="legend">
+        <div class="ld"><div class="ldot" style="background:var(--red)"></div> mégenrer</div>
+        <div class="ld"><div class="ldot" style="background:var(--blue)"></div> genrer</div>
+        <div class="ld"><div class="ldot" style="background:var(--purple)"></div> s'identifier</div>
+    </div>
+    <div class="detail" id="detail">
+        <div class="dh">
+            <div class="dt" id="dt"></div>
+            <button class="dc" onclick="close_d()">&times;</button>
+        </div>
+        <div id="dl"></div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="section-title">Toutes les citations</div>
+    <div id="all-cits"></div>
+</div>
+
+<div class="section">
+    <div class="section-title">Notes</div>
+    <div class="note">
+        <strong>Sources :</strong> WikiTrans, Observatoire des transidentités, Les fibres noires, Les Ourses à plumes, Trans District (forum-ftm.fr), Alistair Houdayer, LGBT First, Wiktionnaire, Bureau de la traduction du Canada.<br><br>
+        <strong>Méthode :</strong> Recherche web sur les sites militants francophones, extraction manuelle des phrases contenant les trois termes cibles.<br><br>
+        <strong>s'identifier :</strong> Recherché sous toutes ses formes conjuguées (s'identifie, t'identifies, m'identifie, s'identifier) dans des contextes liés au genre/trans/non-binaire. Pas limité à « s'identifier comme ».<br><br>
+        <strong>Limites :</strong> Couverture non exhaustive. Beaucoup de blogs ont disparu. Les dates correspondent aux dates de publication vérifiables (pas toujours la date de première écriture).
+    </div>
+</div>
+
+<script>
+var C = [
+// === CAIRN ===
+// 2009 - Butler
+{y:2009,w:'sid',q:"Une fille qui découvre qu'elle <mark>s'identifie</mark> comme garçon.",s:"Judith Butler, La question de l'identification transgenre, Champ lacanien, 2009/1 N°7",t:"Cairn (académique)",u:"https://shs.cairn.info/revue-champ-lacanien-2009-1-page-111?lang=fr"},
+{y:2009,w:'gen',q:"En tant que nous sommes <mark>genrés</mark>, nous sommes hors de nous-mêmes.",s:"Judith Butler, Champ lacanien, 2009",t:"Cairn (académique)",u:"https://shs.cairn.info/revue-champ-lacanien-2009-1-page-111?lang=fr"},
+// 2011 - Peretti
+{y:2011,w:'gen',q:"S'entendre dire que votre vie « <mark>genrée</mark> » vous condamne à une vie de souffrance.",s:"Marie-Laure Peretti, La transgenralité, Le Journal des psychologues, 2011/8 n°291",t:"Cairn (académique)",u:"https://shs.cairn.info/revue-le-journal-des-psychologues-2011-8-page-39?lang=fr"},
+// 2013 - Cahiers transidentité vol.3
+{y:2013,w:'gen',q:"En posant son regard au-delà des frontières géographiques et <mark>genrées</mark>.",s:"Espineira, Thomas, Alessandrin, Cahiers de la transidentité vol.3, Corps Trans Corps Queer, 2013",t:"PDF académique",u:"https://api.pageplace.de/preview/DT0400.9782336332161_A24311271/preview-9782336332161_A24311271.pdf"},
+// 2015 - Arnold
+{y:2015,w:'gen',q:"La production d'une voix <mark>genrée</mark> n'est jamais un acte neutre.",s:"Aron Arnold, Voix et transidentité, Langage et société, 2015/1 n°151",t:"Cairn (académique)",u:"https://shs.cairn.info/revue-langage-et-societe-2015-1-page-87?lang=fr"},
+// 2022 - Alessandrin
+{y:2022,w:'meg',q:"On nomme <mark>mégenrage</mark> le fait de mal <mark>genrer</mark> une personne, c'est-à-dire d'utiliser le pronom ou le prénom de naissance.",s:"Arnaud Alessandrin, La prise en compte des élèves trans à l'école, La nouvelle revue, 2022/1 N°93",t:"Cairn (académique)",u:"https://shs.cairn.info/revue-la-nouvelle-revue-education-et-societe-inclusives-2022-1-page-229?lang=fr"},
+{y:2022,w:'meg',q:"Le surlignage permet de saisir le <mark>mégenrage</mark> qui s'opère ici.",s:"Arnaud Alessandrin, 2022",t:"Cairn (académique)",u:"https://shs.cairn.info/revue-la-nouvelle-revue-education-et-societe-inclusives-2022-1-page-229?lang=fr"},
+
+// === NATAMAUVE / ESPINEIRA-THOMAS (2003-2010) ===
+// 2003 - Reucher HBIGDA
+{y:2003,w:'sid',q:"L'interlocuteur, pour comprendre, tente de <mark>s'identifier</mark> à la personne transsexuelle.",s:"Tom Reucher, HBIGDA 2003 : quand les psys sont effrayés par les transsexuels",t:"Article militant",u:"https://transidentite.com/textes/textesdivers/hbigda2003fr.htm"},
+{y:2003,w:'sid',q:"Le sexe psychologique, l'<mark>identité de genre</mark>, le genre et l'attirance amoureuse et sexuelle sont tous confondus alors qu'ils sont indépendants.",s:"Reucher, HBIGDA 2003",t:"Article militant",u:"https://transidentite.com/textes/textesdivers/hbigda2003fr.htm"},
+// 2007 - Potiron
+{y:2007,w:'sid',q:"Dans la mesure où un individu élabore le sentiment de qui il est en se référant à sa classe sexuelle, on doit parler d'<mark>identité de genre</mark>.",s:"Diane Potiron, Femme, homme, un accommodement insolite, 20 sept. 2007",t:"Article militant",u:"https://transidentite.com/textes/articles/femme_homme_un_accommodement_insolite.htm"},
+// 2007 - Espineira colloque UEEH
+{y:2007,w:'sid',q:"Les <mark>transidentitaires</mark> introduisent un tiers dans cette mixité et avec elle, la « société binaire ».",s:"Karine Espineira, Colloque UEEH Marseille, 21 juin 2007",t:"Colloque",u:"http://natamauve.free.fr/Stima-queer/colloqueUeeh.html"},
+{y:2007,w:'gen',q:"Validant le modèle binaire-<mark>cisgenre</mark> sans broncher ?",s:"Karine Espineira, Colloque UEEH, 2007",t:"Colloque",u:"http://natamauve.free.fr/Stima-queer/colloqueUeeh.html"},
+// 2007 - Reucher stigma-queer
+{y:2007,w:'sid',q:"La personne concernée ne correspond pas au genre auquel elle <mark>s'identifie</mark>.",s:"Tom Reucher, Stigma-queer / natamauve, 2007",t:"Article militant",u:"http://natamauve.free.fr/Stima-queer/Stigma-q-reucher.html"},
+// 2007 - Definitions natamauve
+{y:2007,w:'gen',q:"La transition transsexe qui ont le choix entre la forme <mark>cisgenre</mark>, transgenre, queer, voire agenre.",s:"Espineira/Thomas, Définitions, natamauve, ~2007",t:"Site militant",u:"http://natamauve.free.fr/Definitions.html"},
+// 2010 - natamauve
+{y:2010,w:'gen',q:"Plus simplement pour les <mark>cisgenres</mark> se refaisant les seins ou la bite. Nous ne sommes pas malades, juste des trans dans une société.",s:"Espineira/Thomas, UEEH 2010, natamauve",t:"Colloque",u:"http://natamauve.free.fr/ueeh2010.html"},
+{y:2010,w:'gen',q:"L'inverse du mode <mark>cisgenre</mark>. Le mode transgenre n'est pas lié à l'orientation sexuelle.",s:"Espineira/Thomas, Socialité ternaire, natamauve, ~2010",t:"Article militant",u:"http://natamauve.free.fr/socialite_ternaire.html"},
+{y:2010,w:'gen',q:"La coliaison <mark>cisgenre</mark> : ce sujet déconstruit la causalité binaire entre identité sexuelle et identité de genre.",s:"Espineira/Thomas, Transparentalité, natamauve, ~2010",t:"Article militant",u:"http://natamauve.free.fr/transparentalite.html"},
+
+// === WEB / BLOGS ===
+{y:2007,w:'meg',q:"La plupart des cissexuel·les sont inconscient·es de la nature subjective du genrement, essentiellement car elleux-mêmes ne vivent pas l'expérience d'être régulièrement <mark>mégenrées</mark>.",s:"Julia Serano, Démanteler le privilège cissexuel (trad. fr.)",t:"Livre",u:"https://fr.wiktionary.org/wiki/m%C3%A9genrer"},
+
+{y:2015,w:'meg',q:"Je passe mon temps à me demander si je dois reprendre les gens ou laisser courir quand ils me <mark>mégenrent</mark>.",s:"Mark, J'ai 30 ans, je mue et je flotte (Female2male)",t:"Blog",u:"https://fr.wiktionary.org/wiki/m%C3%A9genrer"},
+{y:2015,w:'sid',q:"La personne ne <mark>s'identifie</mark> pas avec le genre « assigné à la naissance ».",s:"Observatoire des transidentités, Les genres non-binaires sur Internet",t:"Site militant",u:"https://www.observatoire-des-transidentites.com/2015/05/08/2015-05-les-genres-non-binaires-sur-internet-et-facebook/"},
+{y:2015,w:'sid',q:"Des androgynes qui <mark>s'identifient</mark> un peu plus avec la féminité ou masculinité.",s:"Observatoire des transidentités",t:"Site militant",u:"https://www.observatoire-des-transidentites.com/2015/05/08/2015-05-les-genres-non-binaires-sur-internet-et-facebook/"},
+{y:2015,w:'meg',q:"<mark>Mégenrer</mark> / malgenrer — utiliser le mauvais pronom en parlant d'une personne, par ignorance, oubli ou méchanceté.",s:"Observatoire des transidentités, Glossaire",t:"Glossaire",u:"https://www.observatoire-des-transidentites.com/tag/genre-non-binaire/"},
+{y:2015,w:'gen',q:"<mark>Genrer</mark> / froisser les gens plus facilement.",s:"Observatoire des transidentités",t:"Site militant",u:"https://www.observatoire-des-transidentites.com/2015/05/08/2015-05-les-genres-non-binaires-sur-internet-et-facebook/"},
+
+{y:2016,w:'meg',q:"<mark>Mégenrer</mark> : utiliser le mauvais pronom, ou accords pour genrer une personne.",s:"Laurier The Fox, Les fibres noires (blog)",t:"Blog",u:"http://fibres-noires.blogspot.com/2016/02/megenrer-morinommer-co-trans-nb.html"},
+{y:2016,w:'meg',q:"Sachez que même si vous nous <mark>mégenrez</mark> involontairement, l'impact est présent.",s:"UESG, Mégenrer c'est violent",t:"Militant",u:"https://fr.wiktionary.org/wiki/m%C3%A9genrer"},
+
+{y:2017,w:'meg',q:"Se <mark>mé-genrer</mark> accidentellement.",s:"LeSautelutin, Trans District (forum-ftm.fr), 19 janv. 2017",t:"Forum",u:"https://forum-ftm.fr/viewtopic.php?t=342"},
+{y:2017,w:'meg',q:"Le <mark>mégenrage</mark> est quotidien, même parfois de la part de celleux qui sont au courant.",s:"Témoignage non-binaire, Roseaux, 29 oct. 2017",t:"Blog",u:"https://roseaux.co/2017/10/temoignage-non-binaire/"},
+{y:2017,w:'meg',q:"Parfois, c'est difficile, c'est épuisant d'être <mark>mégenré·e</mark>.",s:"Roseaux, 29 oct. 2017",t:"Blog",u:"https://roseaux.co/2017/10/temoignage-non-binaire/"},
+{y:2017,w:'gen',q:"<mark>Genrer</mark>, c'est ancré en nous.",s:"Roseaux, 29 oct. 2017",t:"Blog",u:"https://roseaux.co/2017/10/temoignage-non-binaire/"},
+
+{y:2018,w:'sid',q:"Personne qui ne <mark>s'identifie</mark> pas uniquement et pleinement comme homme ni comme femme.",s:"Les Ourses à plumes, À la rencontre de personnes non binaires, 4 déc. 2018",t:"Blog",u:"https://lesoursesaplumes.info/2018/12/04/a-la-rencontre-de-personnes-non-binaires/"},
+{y:2018,w:'meg',q:"J'estime que le <mark>mégenrage</mark> de la part d'inconnus, quand on est perçu comme de son genre assigné, n'est pas de la transphobie.",s:"Les Ourses à plumes, 4 déc. 2018",t:"Blog",u:"https://lesoursesaplumes.info/2018/12/04/a-la-rencontre-de-personnes-non-binaires/"},
+{y:2018,w:'sid',q:"Personne qui ne <mark>s'identifie</mark> pas au genre auquel elle a été assignée à la naissance.",s:"Les Ourses à plumes, 4 déc. 2018",t:"Blog",u:"https://lesoursesaplumes.info/2018/12/04/a-la-rencontre-de-personnes-non-binaires/"},
+{y:2018,w:'sid',q:"Je ne me considère pas comme trans car dans mon esprit, ce terme implique nécessairement une transition.",s:"Elliott, Les Ourses à plumes, 4 déc. 2018",t:"Témoignage",u:"https://lesoursesaplumes.info/2018/12/04/a-la-rencontre-de-personnes-non-binaires/"},
+
+{y:2019,w:'meg',q:"<mark>Mégenrer</mark> peut se traduire par l'utilisation de pronoms, d'un vocabulaire, d'accords ou de salutations qui ne correspondent pas à l'identité de genre.",s:"Bureau de la traduction, Gouvernement du Canada",t:"Institutionnel",u:"https://fr.wiktionary.org/wiki/m%C3%A9genrer"},
+{y:2019,w:'gen',q:"<mark>Genrer</mark> une personne, c'est la façon de parler d'elle en utilisant des marqueurs de genre.",s:"Wiki Trans, Comment parler d'une personne non binaire, 25 déc. 2019",t:"Wiki",u:"https://wikitrans.co/2019/12/25/comment-parler-dune-personne-non-binaire/"},
+{y:2019,w:'gen',q:"La base du respect envers les personnes trans est de les <mark>genrer</mark> correctement.",s:"Wiki Trans, 25 déc. 2019",t:"Wiki",u:"https://wikitrans.co/2019/12/25/comment-parler-dune-personne-non-binaire/"},
+{y:2019,w:'gen',q:"Comment <mark>genre</mark>-t-on une personne non binaire ?",s:"Wiki Trans, 25 déc. 2019",t:"Wiki",u:"https://wikitrans.co/2019/12/25/comment-parler-dune-personne-non-binaire/"},
+{y:2019,w:'sid',q:"Une personne qui ne <mark>s'identifie</mark> ni exclusivement comme un homme, ni exclusivement comme une femme est trans et non binaire.",s:"Wiki Trans, 19 janv. 2019",t:"Wiki",u:"https://wikitrans.co/2019/01/19/quest-ce-quune-transition/"},
+{y:2019,w:'meg',q:"Les personnes non binaires sont plus exposées au risque de se faire <mark>mégenrer</mark>, discriminer, de subir des violences.",s:"Wiki Trans, 19 janv. 2019",t:"Wiki",u:"https://wikitrans.co/2019/01/19/quest-ce-quune-transition/"},
+{y:2019,w:'gen',q:"Ces personnes utilisent sans aucun problème un pronom et des accords neutres, ou alternent entre plusieurs façons de vous <mark>genrer</mark>.",s:"Wiki Trans, 1 janv. 2019",t:"Wiki",u:"https://wikitrans.co/2019/01/01/comment-savoir-si-je-suis-trans/"},
+{y:2019,w:'meg',q:"Il se peut que votre proche vous demande de continuer à le/la <mark>mégenrer</mark> durant le temps où il/elle ne sera pas encore « out ».",s:"Wiki Trans, 14 nov. 2019",t:"Wiki",u:"https://wikitrans.co/2019/11/14/ai-je-le-droit-de-parler-de-la-transidentite-de-mon-proche/"},
+{y:2019,w:'gen',q:"Transmettez les bases : utiliser le bon prénom et <mark>genrer</mark> avec le bon pronom.",s:"Wiki Trans, 14 nov. 2019",t:"Wiki",u:"https://wikitrans.co/2019/11/14/ai-je-le-droit-de-parler-de-la-transidentite-de-mon-proche/"},
+{y:2019,w:'gen',q:"Les gens hésitent à me <mark>genrer</mark>.",s:"Malha (non binaire, 21 ans), Wiki Trans, 19 nov. 2019",t:"Témoignage",u:"https://wikitrans.co/temoignage/malha-une-personne-non-binaire-de-21-ans/"},
+{y:2019,w:'sid',q:"Chacun est libre de <mark>s'identifier</mark> comme il/elle/iel le souhaite.",s:"Pheros",t:"Site militant",u:"https://www.pheros.shop/megenrer/"},
+
+{y:2020,w:'sid',q:"Les personnes trans sont des personnes qui ne <mark>s'identifient</mark> pas à leur genre assigné.",s:"Alistair Houdayer, Les personnes non-binaires sont-elles trans ?, 14 nov. 2020",t:"Blog",u:"https://alistairh.fr/nb-trans/"},
+{y:2020,w:'meg',q:"César est jaloux de son pote qui lui est pas <mark>mégenré</mark>.",s:"Alistair Houdayer, 14 nov. 2020",t:"Blog",u:"https://alistairh.fr/nb-trans/"},
+{y:2020,w:'gen',q:"On me <mark>genre</mark> même Monsieur dans les vestiaires en string et brassière.",s:"Alistair Houdayer, 14 nov. 2020",t:"Blog",u:"https://alistairh.fr/nb-trans/"},
+{y:2020,w:'sid',q:"Il y a des personnes qui ne <mark>s'identifient</mark> pas à leur genre assigné, mais dont le vécu n'est pas trans.",s:"Alistair Houdayer, 14 nov. 2020",t:"Blog",u:"https://alistairh.fr/nb-trans/"},
+{y:2020,w:'meg',q:"Pas un seul client ne me <mark>genre</mark> correctement.",s:"Raffaello, Trans District (forum-ftm.fr), 8 nov. 2020",t:"Forum",u:"https://forum-ftm.fr/viewtopic.php?t=3032"},
+{y:2020,w:'meg',q:"Je ne suis <mark>mégenré</mark> rarement mais que par les vieux.",s:"Armand38, Trans District, 10 nov. 2020",t:"Forum",u:"https://forum-ftm.fr/viewtopic.php?t=3032"},
+
+{y:2021,w:'meg',q:"Les personnes qui te <mark>genrent</mark> correctement après une journée entière à être <mark>mégenréx</mark> c'est vraiment les bests.",s:"@Aztruc, Twitter, 2021",t:"Réseaux sociaux",u:"https://fr.wiktionary.org/wiki/m%C3%A9genrer"},
+{y:2021,w:'meg',q:"S'ils sont dans un mauvais jour, ils peuvent me <mark>mégenrer</mark>.",s:"David (étudiant trans), La langue française",t:"Témoignage",u:"https://www.lalanguefrancaise.com/dictionnaire/definition/megenrer"},
+{y:2021,w:'meg',q:"<mark>Mégenrer</mark> quelqu'un, c'est nier expressément son identité.",s:"Camille (homme trans, 28 ans), La langue française",t:"Témoignage",u:"https://www.lalanguefrancaise.com/dictionnaire/definition/megenrer"},
+{y:2021,w:'meg',q:"Le fait de <mark>mégenrer</mark> peut être perçu comme une attitude très violente.",s:"HuffPost, 2021",t:"Presse",u:"https://www.lalanguefrancaise.com/dictionnaire/definition/megenrer"},
+{y:2021,w:'meg',q:"<mark>Mégenrer</mark> une personne constitue une forme de violence.",s:"Élyse Bourbeau, 2021",t:"Académique",u:"https://www.lalanguefrancaise.com/dictionnaire/definition/megenrer"},
+{y:2021,w:'meg',q:"S'auto <mark>mégenrer</mark> fait plus mal que d'être <mark>mégenré</mark>.e par quelqu'un d'autre.",s:"sashameau, Trans District (forum-ftm.fr), 12 mai 2021",t:"Forum",u:"https://forum-ftm.fr/viewtopic.php?t=3394"},
+{y:2021,w:'meg',q:"Il m'arrive de me <mark>mégenrer</mark> et du coup, à chaque fois, je me pose des questions sur ma transition.",s:"Kef, Trans District, 13 mai 2021",t:"Forum",u:"https://forum-ftm.fr/viewtopic.php?t=3394"},
+{y:2021,w:'meg',q:"Pire que si quelqu'un m'avait <mark>mégenré</mark> parce que j'avais l'impression d'être un hypocrite.",s:"Méandre, Trans District, 12 mai 2021",t:"Forum",u:"https://forum-ftm.fr/viewtopic.php?t=3394"},
+{y:2021,w:'meg',q:"Se faire <mark>mégenrer</mark>, c'est se faire appeler « Monsieur » quand on est une femme, par exemple.",s:"Interligne (Québec), La transphobie au quotidien, 5 mai 2021",t:"Militant",u:"https://interligne.co/la-transphobie-au-quotidien/"},
+{y:2021,w:'meg',q:"L'idée que <mark>mégenrer</mark> quelqu'un est une violence se répand de plus en plus.",s:"RadCaen, 3 nov. 2021",t:"Militant",u:"https://radcaen.fr/index.php/2021/11/03/megenrer-nest-pas-une-violence/"},
+{y:2021,w:'gen',q:"Le fait de « <mark>genrer</mark> » consiste à attribuer un genre à une personne.",s:"RadCaen, 3 nov. 2021",t:"Militant",u:"https://radcaen.fr/index.php/2021/11/03/megenrer-nest-pas-une-violence/"},
+{y:2021,w:'meg',q:"Si le <mark>mégenrage</mark> est volontaire, il s'agit d'un acte transphobe.",s:"SOS Homophobie",t:"Associatif",u:"https://www.sos-homophobie.org/informer/definitions/megenrer"},
+
+{y:2022,w:'meg',q:"<mark>Mégenrer</mark> autrui c'est une action discriminatoire visant à assigner à une personne un genre qui ne correspond pas à son identité de genre.",s:"LGBT First, 18 fév. 2022",t:"Site militant",u:"https://lgbt-first.com/blogs/recherche/megenrer-c-est-quoi"},
+{y:2022,w:'gen',q:"Mal <mark>genré</mark> autrui est une action qui se réalise principalement par le verbal.",s:"LGBT First, 18 fév. 2022",t:"Site militant",u:"https://lgbt-first.com/blogs/recherche/megenrer-c-est-quoi"},
+{y:2022,w:'meg',q:"S'il vous arrive de <mark>mégenrer</mark> une personne de manière non-intentionnelle, veuillez vous excuser.",s:"LGBT First, 18 fév. 2022",t:"Site militant",u:"https://lgbt-first.com/blogs/recherche/megenrer-c-est-quoi"},
+{y:2022,w:'meg',q:"Se faire <mark>mégenrer</mark>, c'est quand on attribue à quelqu'un une identité de genre différente de celle qui lui correspond réellement.",s:"Quatre95/Urbania (Québec), 15 nov. 2022",t:"Presse",u:"https://urbania.ca/article/se-faire-megenrer-au-bureau-ou-recit-dune-double-vie"},
+{y:2022,w:'meg',q:"Même dans ta propre communauté, après avoir dit tes pronoms, si tu ne pass pas, tu peux te faire <mark>mégenrer</mark>.",s:"Quatre95/Urbania, 15 nov. 2022",t:"Presse",u:"https://urbania.ca/article/se-faire-megenrer-au-bureau-ou-recit-dune-double-vie"},
+{y:2022,w:'meg',q:"Si je le dis pas et qu'on me misgender, c'est plate. Mais si je le dis et qu'on me misgender, ça fait cent fois plus mal.",s:"Quatre95/Urbania, 15 nov. 2022",t:"Témoignage",u:"https://urbania.ca/article/se-faire-megenrer-au-bureau-ou-recit-dune-double-vie"},
+
+{y:2023,w:'gen',q:"Aucun des militants ne la « <mark>genre</mark> » correctement.",s:"Nora Bussigny, Les nouveaux inquisiteurs, Albin Michel, p. 71",t:"Livre",u:"https://fr.wiktionary.org/wiki/genrer"},
+{y:2023,w:'meg',q:"Un professeur empêché d'exercer après avoir <mark>mégenré</mark> un élève transgenre.",s:"La Libre Belgique, 24 mai 2023",t:"Presse",u:"https://www.lalibre.be/etudiant/2023/05/24/un-professeur-empeche-dexercer-apres-avoir-megenre-un-eleve-transgenre-4Z3JQZKQKZBEHDFF7O55DRT2Z4/"},
+{y:2023,w:'meg',q:"J'ai « <mark>mégenré</mark> » quelqu'un, me voilà transphobe.",s:"Ingrid Riocreux, Boulevard Voltaire, 2023",t:"Presse",u:"https://www.bvoltaire.fr/ingrid-riocreux-jai-megenre-quelquun-me-voila-transphobe/"},
+{y:2023,w:'sid',q:"<mark>Mégenrer</mark> une personne, c'est le fait de ne pas reconnaître son identité de genre comme valide.",s:"Pheros, 8 nov. 2023",t:"Site militant",u:"https://www.pheros.shop/megenrer/"},
+{y:2023,w:'sid',q:"Chacun est libre de <mark>s'identifier</mark> comme il/elle/iel le souhaite.",s:"Pheros, 2023",t:"Site militant",u:"https://www.pheros.shop/megenrer/"},
+
+// === PDFs ===
+// 2019 - Florence Ashley
+{y:2019,w:'gen',q:"Le français neutre s'utilise souvent pour parler de groupes mixtes, puisqu'il est compris comme un français dé<mark>genré</mark> et non pas comme un français de genre non-binaire.",s:"Florence Ashley, Les personnes non-binaires en français, H-France Salon, 2019",t:"PDF académique",u:"https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_les_personnes_non-binaires_en_fran%C3%A7ais.pdf"},
+{y:2019,w:'gen',q:"Aucun de mes textes en français neutre envoyés à de grands journaux québécois n'a été publié sans être préalablement altéré pour respecter le français standard <mark>genré</mark>.",s:"Florence Ashley, H-France Salon, 2019",t:"PDF académique",u:"https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_les_personnes_non-binaires_en_fran%C3%A7ais.pdf"},
+{y:2019,w:'meg',q:"Le <mark>mégenrage</mark> contribue fortement à l'anxiété et à la dépression, et le développement et l'acceptation du français neutre est crucial au bien-être des personnes non-binaires.",s:"Florence Ashley, H-France Salon, 2019",t:"PDF académique",u:"https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_les_personnes_non-binaires_en_fran%C3%A7ais.pdf"},
+{y:2019,w:'gen',q:"Collection d'astuces pour s'exprimer sans <mark>genrer</mark>.",s:"Florence Ashley, H-France Salon, 2019",t:"PDF académique",u:"https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_les_personnes_non-binaires_en_fran%C3%A7ais.pdf"},
+// 2019 - Chrysalide
+{y:2019,w:'meg',q:"Le <mark>mégenrer</mark> (utiliser des pronoms et accords autres que ceux choisis) serait l'exposer de nouveau aux préjugés de ses camarades.",s:"Chrysalide, Les Droits des élèves trans en France, sept. 2019",t:"PDF militant",u:"https://www.chrysalide-asso.fr/wp-content/uploads/2019/11/Les_Droits_des_eleves_trans_en_France.pdf"},
+
+// 2020 - Lexique trans Planning familial
+{y:2020,w:'meg',q:"<mark>Mégenrer</mark> : Utiliser un pronom ou des accords qui ne sont pas ceux utilisés par la personne.",s:"Lexique trans, Planning familial, 2020",t:"PDF militant",u:"https://www.planning-familial.org/sites/default/files/2020-10/Lexique%20trans.pdf"},
+{y:2020,w:'meg',q:"Si le <mark>mégenrage</mark> est volontaire, il s'agit d'un acte transphobe particulièrement blessant.",s:"Lexique trans, Planning familial, 2020",t:"PDF militant",u:"https://www.planning-familial.org/sites/default/files/2020-10/Lexique%20trans.pdf"},
+// 2020 - GRIS Guide pédagogique
+{y:2020,w:'meg',q:"<mark>Mégenrage</mark> volontaire par ses camarades. Utilisation du dead name. Moqueries liées à l'expression de genre.",s:"GRIS, Guide pédagogique C'est pas mon genre, 2020",t:"PDF pédagogique",u:"https://www.gris.ca/app/uploads/2020/10/GRI2001_Guide-pedagogique_02.10.20.pdf"},
+{y:2020,w:'gen',q:"En anglais on peut parfois aussi utiliser des pronoms pour <mark>genrer</mark> les individus.",s:"GRIS, Guide pédagogique, 2020",t:"PDF pédagogique",u:"https://www.gris.ca/app/uploads/2020/10/GRI2001_Guide-pedagogique_02.10.20.pdf"},
+{y:2020,w:'gen',q:"Le français est une langue très <mark>genrée</mark>, c'est-à-dire qu'on dévoile le genre d'une personne par notre grammaire lorsqu'on la désigne.",s:"GRIS, Guide pédagogique, 2020",t:"PDF pédagogique",u:"https://www.gris.ca/app/uploads/2020/10/GRI2001_Guide-pedagogique_02.10.20.pdf"},
+
+// 2024 - DILCRAH / Stop Homophobie
+{y:2024,w:'gen',q:"Se faire correctement <mark>genrer</mark>, être traité en fonction de son genre par les gens autour de soi me paraît être essentiel dans un parcours de transition.",s:"Rapport DILCRAH / Stop Homophobie, 2024",t:"PDF institutionnel",u:"https://www.dilcrah.gouv.fr/files/2024-02/Rapport%20CEC%20stop%20homophobie%20Maxime-Margaret%20LOIRY.pdf"},
+{y:2024,w:'gen',q:"Une personne <mark>genrée</mark> fille aimera le maquillage, sera douce et souriante. Une personne <mark>genrée</mark> garçon aimera le sport, sera fort et insensible.",s:"Rapport DILCRAH / Stop Homophobie, 2024",t:"PDF institutionnel",u:"https://www.dilcrah.gouv.fr/files/2024-02/Rapport%20CEC%20stop%20homophobie%20Maxime-Margaret%20LOIRY.pdf"},
+{y:2024,w:'gen',q:"La société n'est pas prête à vivre des changements aussi radicaux (langage et société <mark>genrés</mark> entre autres).",s:"Rapport DILCRAH / Stop Homophobie, 2024",t:"PDF institutionnel",u:"https://www.dilcrah.gouv.fr/files/2024-02/Rapport%20CEC%20stop%20homophobie%20Maxime-Margaret%20LOIRY.pdf"},
+// 2024 - OUTrans
+{y:2024,w:'meg',q:"<mark>Mégenrer</mark> / <mark>mégenrage</mark> : Fait d'utiliser d'autres pronoms ou un autre genre que la personne souhaite, et/ou d'utiliser le prénom de naissance et non le prénom d'usage.",s:"OUTrans, Livret Formations, 2024",t:"PDF militant",u:"https://www.sciencespo-rennes.fr/sites/default/files/media/2024-08/outrans-livret-formations-2024-esr.pdf"},
+
+// 2025 - Défenseur des droits
+{y:2025,w:'meg',q:"<mark>Mégenrer</mark> : utiliser un pronom ou des accords qui ne sont pas ceux utilisés et souhaités par la personne.",s:"Défenseur des droits, Décision-cadre n°2025-112, 16 juin 2025",t:"PDF institutionnel",u:"https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=22780"},
+{y:2025,w:'meg',q:"L'établissement d'enseignement supérieur persistait à le <mark>mégenrer</mark>.",s:"Défenseur des droits, 2025",t:"PDF institutionnel",u:"https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=22780"},
+{y:2025,w:'gen',q:"Le réclamant a été <mark>genré</mark> au féminin et appelé par son ancien prénom devant l'ensemble des autres stagiaires à plusieurs reprises.",s:"Défenseur des droits, 2025",t:"PDF institutionnel",u:"https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=22780"},
+{y:2025,w:'meg',q:"Les personnes transgenres font très régulièrement l'objet de <mark>mégenrage</mark> par les professionnels de santé : secrétariat, accueil, médecins, laboratoires.",s:"Défenseur des droits, 2025",t:"PDF institutionnel",u:"https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=22780"},
+{y:2025,w:'meg',q:"Les personnes transgenres peuvent être exposées à des <mark>mégenrages</mark> et des propos LGBTIphobes au sein des clubs sportifs.",s:"Défenseur des droits, 2025",t:"PDF institutionnel",u:"https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=22780"},
+
+// 2013 - CNFPT
+{y:2013,w:'gen',q:"La production d'identifications de genre et de corps <mark>genrés</mark> comme étant l'exercice d'un rapport social de pouvoir.",s:"CNFPT, Bibliographie transgenre, 2013",t:"PDF institutionnel",u:"https://www.cnfpt.fr/sites/default/files/biblio_transgenre018.pdf"},
+
+// 2014 - Alessandrin
+{y:2014,w:'gen',q:"L'ensemble des mots et des représentations quotidiennes dans un monde cis<mark>genré</mark>.",s:"Alessandrin & Espineira, La transphobie, 2014",t:"PDF académique",u:"https://mediatheque.lecrips.net/doc_num.php?explnum_id=49063"},
+
+// 2015 - Egale
+{y:2015,w:'gen',q:"Il faut toujours être conscient de ses préjugés et considérer des manières non <mark>genrées</mark> de communiquer.",s:"Egale, Grammaire neutre inclusive, 2015",t:"PDF militant",u:"https://egale.ca/wp-content/uploads/2020/06/French-Inclusive-Language-4.0.pdf"},
+
+// 2018 - Genres Pluriels
+{y:2018,w:'gen',q:"Pour chaque histoire, il est demandé aux enfants, soit de <mark>genrer</mark> les personnages, soit de s'y identifier.",s:"Genres Pluriels, Transphobie intériorisée (mémoire), 2018",t:"PDF académique",u:"https://www.genrespluriels.be/IMG/pdf/memoire_lea_sans_entretiens.pdf"},
+{y:2018,w:'gen',q:"Nous n'observons pas non plus de différence <mark>genrée</mark> dans l'adhésion aux rôles de genre ou dans le ressenti de transphobie intériorisée.",s:"Genres Pluriels, 2018",t:"PDF académique",u:"https://www.genrespluriels.be/IMG/pdf/memoire_lea_sans_entretiens.pdf"},
+
+// 2021 - CQLGBT
+{y:2021,w:'meg',q:"La personne qui écrit l'article décide de <mark>mégenrer</mark> Jacynthe et d'offrir sa propre interprétation du genre.",s:"CQLGBT, Enjeux trans et diversité de genre, 2021",t:"PDF institutionnel",u:"https://conseil-lgbt.ca/wp-content/uploads/2023/05/Tajeddine-et-Cremier-CQLGBT-2021-Enjeux-trans-diversite-de-genre.pdf"},
+{y:2021,w:'gen',q:"Lorsqu'on s'adresse à une personne sans savoir comment la <mark>genrer</mark> ou quels pronoms utiliser.",s:"CQLGBT, 2021",t:"PDF institutionnel",u:"https://conseil-lgbt.ca/wp-content/uploads/2023/05/Tajeddine-et-Cremier-CQLGBT-2021-Enjeux-trans-diversite-de-genre.pdf"},
+{y:2021,w:'meg',q:"<mark>Mégenrer</mark> : S'adresser à une personne ou parler de quelqu'un·e en utilisant un pronom, des accords ou des mots qui ne correspondent pas à son genre.",s:"CQLGBT, 2021",t:"PDF institutionnel",u:"https://conseil-lgbt.ca/wp-content/uploads/2023/05/Tajeddine-et-Cremier-CQLGBT-2021-Enjeux-trans-diversite-de-genre.pdf"},
+// 2021 - Transat guide
+{y:2021,w:'meg',q:"Le <mark>mégenrage</mark> (ou l'action de <mark>mégenrer</mark>) est le fait d'appeler une personne par des marqueurs de genre autre que celui auquel elle s'identifie.",s:"Transat, Comprendre les transidentités, 2021",t:"PDF militant",u:"https://www.dilcrah.gouv.fr/files/2024-01/GUIDE_COMPRENDRE-LES-TRANSIDENTITES-TRANSAT-NUMERIQUE-27-12-2021.pdf"},
+{y:2021,w:'meg',q:"Le <mark>mégenrage</mark> est une forme de violence transphobe car il revient à nier l'identité de la personne.",s:"Transat, 2021",t:"PDF militant",u:"https://www.dilcrah.gouv.fr/files/2024-01/GUIDE_COMPRENDRE-LES-TRANSIDENTITES-TRANSAT-NUMERIQUE-27-12-2021.pdf"},
+{y:2021,w:'meg',q:"Comme le <mark>mégenrage</mark>, utiliser ou même demander le deadname d'une personne trans est violent.",s:"Transat, 2021",t:"PDF militant",u:"https://www.dilcrah.gouv.fr/files/2024-01/GUIDE_COMPRENDRE-LES-TRANSIDENTITES-TRANSAT-NUMERIQUE-27-12-2021.pdf"},
+// 2021 - Chrysalide réagir
+{y:2021,w:'meg',q:"Le Défenseur des droits a exprimé que le fait de persister à <mark>mégenrer</mark> une personne trans constituait un délit de harcèlement.",s:"Chrysalide, Réagir face à la transphobie, 2021",t:"PDF militant",u:"https://www.ens-lyon.fr/sites/default/files/2022-05/Chrysalide-Guide_Reagir-Transphobie_0.pdf"},
+{y:2021,w:'meg',q:"Le fait de <mark>mégenrer</mark> délibérément à l'oral ou à l'écrit un·e employé·e trans malgré les demandes relève du harcèlement moral.",s:"Chrysalide, 2021",t:"PDF militant",u:"https://www.ens-lyon.fr/sites/default/files/2022-05/Chrysalide-Guide_Reagir-Transphobie_0.pdf"},
+
+// 2022 - CNCDH
+{y:2022,w:'gen',q:"Les préjugés <mark>genrés</mark> semblent conduire à ce que les femmes lesbiennes soient légèrement jugées plus légitimes à élever des enfants.",s:"CNCDH, Rapport droits LGBTI, 2022",t:"PDF institutionnel",u:"https://www.cncdh.fr/sites/default/files/2022-05/CNCDH%20Rapport%202022%20Droits%20LGBTI,%20pdf%20web.pdf"},
+{y:2022,w:'gen',q:"Les réactions au coming out potentiel d'un parent sont aussi <mark>genrées</mark>.",s:"CNCDH, 2022",t:"PDF institutionnel",u:"https://www.cncdh.fr/sites/default/files/2022-05/CNCDH%20Rapport%202022%20Droits%20LGBTI,%20pdf%20web.pdf"},
+
+// 2023 - UQAM guide mégenrage
+{y:2023,w:'meg',q:"Ce texte se concentre sur le <mark>mégenrage</mark> par une mauvaise utilisation du prénom ou des pronoms par le corps enseignant, une autre personne étudiante ou l'administration.",s:"UQAM, Bref guide pratique sur le mégenrage, 2023",t:"PDF institutionnel",u:"https://juris.uqam.ca/wp-content/uploads/sites/49/2023/10/Brochure-Clinix-Numerique31.pdf"},
+{y:2023,w:'meg',q:"Pour les personnes victimes de <mark>mégenrage</mark> à l'UQAM, la brochure présente certains recours possibles pour faire reconnaître ses droits.",s:"UQAM, 2023",t:"PDF institutionnel",u:"https://juris.uqam.ca/wp-content/uploads/sites/49/2023/10/Brochure-Clinix-Numerique31.pdf"},
+{y:2023,w:'meg',q:"Les personnes non-conforme dans le genre sont davantage susceptibles de vivre du <mark>mégenrage</mark>.",s:"UQAM, 2023",t:"PDF institutionnel",u:"https://juris.uqam.ca/wp-content/uploads/sites/49/2023/10/Brochure-Clinix-Numerique31.pdf"},
+
+// === THÈSES / MÉMOIRES ===
+// 2011 - Reucher
+{y:2011,w:'sid',q:"Il <mark>s'identifie</mark> à la mère et reste féminin.",s:"Reucher, La sexualité des transsexuels, Mémoire Paris 8",t:"Mémoire",u:""},
+// 2012 - Cahiers transidentité vol.1
+{y:2012,w:'sid',q:"Les personnes intersexes peuvent <mark>s'identifier</mark> à n'importe lequel des groupes mentionnés plus haut.",s:"Cahiers de la transidentité vol.1, sept. 2012",t:"PDF académique",u:"http://www.abc-transidentite.fr/sites/default/files/Documents/Cahiers-1-2012.pdf"},
+// 2015 - Mémoire Genève
+{y:2015,w:'gen',q:"Les pratiques éducatives <mark>genrées</mark> font partie intégrante des us et coutumes.",s:"Mémoire Master, Université de Genève, 2015",t:"Mémoire",u:"https://access.archive-ouverte.unige.ch/access/metadata/e8e60b1b-a754-45df-b5e7-d40f15043554/download"},
+// 2016 - UQAM interactions trans
+{y:2016,w:'sid',q:"Toute personne qui ne <mark>s'identifie</mark> pas au genre correspondant au sexe biologique qui lui a été assigné à la naissance.",s:"UQAM, Interactions sociales des personnes trans, Mémoire 2016",t:"Mémoire",u:"https://archipel.uqam.ca/9163/1/M14546.pdf"},
+{y:2016,w:'sid',q:"Le processus par lequel une personne privilégie le genre auquel elle <mark>s'identifie</mark> subjectivement par rapport au genre assigné.",s:"UQAM, 2016",t:"Mémoire",u:"https://archipel.uqam.ca/9163/1/M14546.pdf"},
+{y:2016,w:'sid',q:"Les participants qui <mark>s'identifient</mark> en tant qu'hommes vivent leur transition 9,6 ans plus tôt que ceux qui <mark>s'identifient</mark> en tant que femmes.",s:"UQAM, 2016",t:"Mémoire",u:"https://archipel.uqam.ca/9163/1/M14546.pdf"},
+{y:2016,w:'sid',q:"Les personnes qui <mark>s'identifient</mark> comme femmes craignent une détérioration de leur situation professionnelle.",s:"UQAM, 2016",t:"Mémoire",u:"https://archipel.uqam.ca/9163/1/M14546.pdf"},
+// 2017 - Paris-Saclay
+{y:2017,w:'gen',q:"Les recherches contemporaines soulignent la permanence des attributions sexuées dans les pratiques professionnelles : les ségrégations <mark>genrées</mark>.",s:"Thèse Paris-Saclay, 2017",t:"Thèse",u:"https://www.biblio.univ-evry.fr/theses/2017/2017SACLE001.pdf"},
+// 2018 - UQAM recherche vie trans
+{y:2018,w:'gen',q:"Des féministes ont élaboré un cadre d'analyse matérialiste des interactions sociales entre individus <mark>genrés</mark>.",s:"UQAM, La recherche sur la vie des personnes trans, Mémoire 2018",t:"Mémoire",u:"https://archipel.uqam.ca/12331/1/M15924.pdf"},
+{y:2018,w:'sid',q:"Les situations trans ont largement été représentées par des chercheurs, puis des personnes trans qui <mark>s'identifient</mark> comme telles.",s:"UQAM, 2018",t:"Mémoire",u:"https://archipel.uqam.ca/12331/1/M15924.pdf"},
+// 2019 - Transidentités milieu scolaire
+{y:2019,w:'meg',q:"<mark>Mégenrage</mark> : fait de ne pas reconnaître l'existence sociale de la personne en utilisant les pronoms et prénoms inadaptés à son genre.",s:"Les transidentités en milieu scolaire, 2019",t:"PDF éducatif",u:"https://www.maisonegalitefemmeshommes.fr/uploads/Ressource/0b/766_665_TRANSIDENTITES-A-L-ECOLE.pdf"},
+{y:2019,w:'meg',q:"Cela va du simple fait de ne pas reconnaître une distinction entre le sexe biologique et le genre jusqu'à la violence physique, en passant par le <mark>mégenrage</mark>.",s:"Les transidentités en milieu scolaire, 2019",t:"PDF éducatif",u:"https://www.maisonegalitefemmeshommes.fr/uploads/Ressource/0b/766_665_TRANSIDENTITES-A-L-ECOLE.pdf"},
+{y:2019,w:'gen',q:"Elle m'a regardé, a écrit quelque chose sur sa feuille puis m'a <mark>genré</mark> au féminin.",s:"Témoignage élève trans, Les transidentités en milieu scolaire, 2019",t:"PDF éducatif",u:"https://www.maisonegalitefemmeshommes.fr/uploads/Ressource/0b/766_665_TRANSIDENTITES-A-L-ECOLE.pdf"},
+// 2020 - Angers mémoire
+{y:2020,w:'gen',q:"Les pratiques éducatives <mark>genrées</mark> par les personnes transgenres sont omniprésentes dans la fiction.",s:"Marchier-Jamet, Normes de genre et représentation des corps trans, Mémoire Angers 2020",t:"Mémoire",u:"https://dune.univ-angers.fr/system/files/depots/19010383/2020HMEG12353/12353F.pdf"},
+{y:2020,w:'gen',q:"Cette focalisation littéraire ne constitue-t-elle pas elle-même une injonction au respect des normes <mark>genrées</mark> par les personnes transgenres ?",s:"Mémoire Angers, 2020",t:"Mémoire",u:"https://dune.univ-angers.fr/system/files/depots/19010383/2020HMEG12353/12353F.pdf"},
+// 2022 - SOS Homophobie
+{y:2022,w:'meg',q:"Nous dénombrons de nombreux cas de <mark>mégenrage</mark> et de pathologisation de la transidentité par des personnels juridiques.",s:"SOS Homophobie, Rapport LGBTIphobies 2022",t:"Rapport",u:"https://ressource.sos-homophobie.org/Rapports_annuels/rapport_LGBTIphobies_2022.pdf"},
+{y:2022,w:'gen',q:"La circulaire de l'Éducation nationale demandant l'accord parental pour <mark>genrer</mark> correctement leur enfant trans est dangereuse.",s:"SOS Homophobie, 2022",t:"Rapport",u:"https://ressource.sos-homophobie.org/Rapports_annuels/rapport_LGBTIphobies_2022.pdf"},
+{y:2022,w:'meg',q:"La principale adjointe impose à tous·tes ses professeur·es de le <mark>mégenrer</mark> et de l'appeler par son deadname.",s:"SOS Homophobie, 2022",t:"Rapport",u:"https://ressource.sos-homophobie.org/Rapports_annuels/rapport_LGBTIphobies_2022.pdf"},
+// 2023 - Psychomotricité
+{y:2023,w:'meg',q:"<mark>Mégenrage</mark> — de l'anglais misgender, ce terme désigne l'action, volontaire ou non, de désigner une personne par un genre qui ne correspond pas à son identité de genre.",s:"Terrier, Mémoire psychomotricité, 2023",t:"Mémoire",u:"https://dumas.ccsd.cnrs.fr/dumas-04245090v1/file/35_TERRIER_Ines_Memoire.pdf"},
+{y:2023,w:'sid',q:"Personnes agenres — personnes qui <mark>s'identifient</mark> comme n'ayant pas de genre.",s:"Terrier, 2023",t:"Mémoire",u:"https://dumas.ccsd.cnrs.fr/dumas-04245090v1/file/35_TERRIER_Ines_Memoire.pdf"},
+{y:2023,w:'sid',q:"Personnes neutres — personnes qui ne <mark>s'identifient</mark> ni au genre femme, ni homme, ni même trans.",s:"Terrier, 2023",t:"Mémoire",u:"https://dumas.ccsd.cnrs.fr/dumas-04245090v1/file/35_TERRIER_Ines_Memoire.pdf"},
+// 2023 - ARS recherche
+{y:2023,w:'gen',q:"J'ai gardé le style de métal longtemps parce que c'est masculin dans l'imaginaire collectif et j'étais <mark>genré</mark> correctement.",s:"ARS, Recherche action transidentités, 2023",t:"Rapport",u:"https://www.transparents.info/wp-content/uploads/2023/03/Rapport-ARS-publics-recherche-action-transidentites-Cath-Carpentier.pdf"},
+{y:2023,w:'gen',q:"« <mark>Genrer</mark>, ça valide notre identité, ça permet de s'affirmer. »",s:"ARS, 2023",t:"Rapport",u:"https://www.transparents.info/wp-content/uploads/2023/03/Rapport-ARS-publics-recherche-action-transidentites-Cath-Carpentier.pdf"},
+{y:2023,w:'meg',q:"Au lycée cette année, il a été <mark>mégenré</mark> par tous ses profs, par manque de communication de la part de sa CPE.",s:"ARS, 2023",t:"Rapport",u:"https://www.transparents.info/wp-content/uploads/2023/03/Rapport-ARS-publics-recherche-action-transidentites-Cath-Carpentier.pdf"},
+// 2024 - SOS Homophobie
+{y:2024,w:'meg',q:"Comme Julia, femme trans, qui n'a fait que reprendre deux hommes après qu'ils l'ont <mark>mégenrée</mark>.",s:"SOS Homophobie, Rapport LGBTIphobies 2024",t:"Rapport",u:"https://ressource.sos-homophobie.org/Rapports_annuels/Rapport_LGBTIphobies_2024.pdf"},
+{y:2024,w:'meg',q:"Du regard réprobateur des voisin·es au <mark>mégenrage</mark> et au deadnaming dans le cercle familial, à l'école ou au travail.",s:"SOS Homophobie, 2024",t:"Rapport",u:"https://ressource.sos-homophobie.org/Rapports_annuels/Rapport_LGBTIphobies_2024.pdf"},
+{y:2024,w:'gen',q:"Lors de l'entretien, il l'a <mark>genrée</mark> au masculin et lui a dit que « ce n'était pas grave ».",s:"SOS Homophobie, 2024",t:"Rapport",u:"https://ressource.sos-homophobie.org/Rapports_annuels/Rapport_LGBTIphobies_2024.pdf"},
+{y:2024,w:'sid',q:"En France, en 2023, 1 personne sur 10 <mark>s'identifie</mark> comme LGBT+.",s:"Le Refuge, Livret LGBT+, 2024",t:"PDF militant",u:"https://le-refuge.org/wp-content/uploads/2024/04/Livret-LGBT-2024_compressed.pdf"},
+{y:2024,w:'sid',q:"L'identité de genre désigne le genre auquel une personne <mark>s'identifie</mark>.",s:"Le Refuge, 2024",t:"PDF militant",u:"https://le-refuge.org/wp-content/uploads/2024/04/Livret-LGBT-2024_compressed.pdf"},
+{y:2024,w:'sid',q:"Une personne cisgenre <mark>s'identifie</mark> au genre qui lui a été assigné à la naissance.",s:"Le Refuge, 2024",t:"PDF militant",u:"https://le-refuge.org/wp-content/uploads/2024/04/Livret-LGBT-2024_compressed.pdf"},
+{y:2024,w:'meg',q:"Dans le milieu professionnel, Daniel a été volontairement <mark>mégenré</mark> en public.",s:"Michel, Mémoire ergothérapie trans, 2024",t:"Mémoire",u:"https://anfe.fr/wp-content/uploads/2024/09/MICHEL-Capucine.pdf"},
+{y:2024,w:'meg',q:"Les ergothérapeutes mentionnent des situations de <mark>mégenrage</mark> au sein des services hospitaliers.",s:"Michel, 2024",t:"Mémoire",u:"https://anfe.fr/wp-content/uploads/2024/09/MICHEL-Capucine.pdf"},
+{y:2024,w:'meg',q:"<mark>Mégenrer</mark> : employer un pronom ou des accords qui ne sont pas utilisés par la personne concernée.",s:"Plante, Jeunes adultes non-binaires, Mémoire UQAM 2024",t:"Mémoire",u:"https://savie-lgbtq.uqam.ca/wp-content/uploads/2024/09/Memoire_maxime_plante.pdf"},
+{y:2024,w:'gen',q:"Il a été relevé que ces défis étaient considérables dans une langue aussi <mark>genrée</mark> que le français.",s:"Plante, UQAM, 2024",t:"Mémoire",u:"https://savie-lgbtq.uqam.ca/wp-content/uploads/2024/09/Memoire_maxime_plante.pdf"},
+{y:2024,w:'meg',q:"Les personnes trans sont souvent <mark>mégenrées</mark>, notamment dans l'accès aux produits d'hygiène et aux vêtements.",s:"CNCDH, Évaluation PNA LGBTI, 2024",t:"Rapport",u:"https://www.cncdh.fr/sites/default/files/2024-01/Avis%20%C3%A9valuation%20PNA%20LGBTI%20-%20tableau%20annexe.pdf"}
+];
+
+// Count by year
+var years=[];for(var y=2007;y<=2025;y++)years.push(y);
+function count(yr,w){return C.filter(function(c){return c.y===yr&&c.w===w;}).length;}
+
+var selY=null;
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+// Chart
+(function(){
+    var ch=document.getElementById('chart');
+    var mx=0;
+    years.forEach(function(yr){var t=count(yr,'meg')+count(yr,'gen')+count(yr,'sid');if(t>mx)mx=t;});
+    if(!mx)mx=1;
+    years.forEach(function(yr,i){
+        var g=document.createElement('div');g.className='yg';g.dataset.yr=yr;
+        g.onclick=function(){showY(parseInt(this.dataset.yr));};
+        var s=document.createElement('div');s.className='bs';s.style.height='calc(100% - 1.5rem)';
+        [{v:count(yr,'sid'),c:'sid'},{v:count(yr,'gen'),c:'gen'},{v:count(yr,'meg'),c:'meg'}].forEach(function(x){
+            if(x.v>0){var b=document.createElement('div');b.className='b '+x.c;b.style.height=(x.v/mx*100)+'%';if(x.v>=2)b.innerHTML='<div class="bv">'+x.v+'</div>';s.appendChild(b);}
+        });
+        g.appendChild(s);
+        var l=document.createElement('div');l.className='yl';l.textContent=yr;g.appendChild(l);
+        ch.appendChild(g);
+    });
+})();
+
+function showY(yr){
+    selY=yr;
+    document.querySelectorAll('.yg').forEach(function(g){g.classList.toggle('sel',parseInt(g.dataset.yr)===yr);});
+    document.getElementById('dt').textContent=yr+' — '+count(yr,'meg')+' mégenrer · '+count(yr,'gen')+' genrer · '+count(yr,'sid')+' s\'identifier';
+    var d=document.getElementById('detail');d.classList.add('open');
+    var cits=C.filter(function(c){return c.y===yr;});
+    renderCits(cits,'dl');
+}
+function close_d(){document.getElementById('detail').classList.remove('open');document.querySelectorAll('.yg').forEach(function(g){g.classList.remove('sel');});selY=null;}
+
+function renderCits(cits,elId){
+    var el=document.getElementById(elId);
+    if(!cits.length){el.innerHTML='<div class="empty">Aucune citation trouvée pour cette année.</div>';return;}
+    var h='';
+    cits.forEach(function(c){
+        h+='<div class="cit '+c.w+'">';
+        h+='<div class="cit-badges"><span class="badge '+c.w+'">'+(c.w==='meg'?'mégenrer':c.w==='gen'?'genrer':'s\'identifier')+'</span><span class="badge src">'+esc(c.t)+'</span></div>';
+        h+='<div class="cit-q">« '+c.q+' »</div>';
+        h+='<div class="cit-src">';
+        if(c.u)h+='<a href="'+c.u+'" target="_blank">'+esc(c.s)+'</a>';
+        else h+=esc(c.s);
+        h+='</div></div>';
+    });
+    el.innerHTML=h;
+}
+
+// All citations sorted by year
+renderCits(C.slice().sort(function(a,b){return a.y-b.y;}),'all-cits');
+</script>
+</body>
+</html>
