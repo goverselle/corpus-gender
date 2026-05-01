@@ -244,7 +244,7 @@ buildChart('chart-deg', 'deg_r', 'deg_n', 'b-deg', 'deg');
 function openModal(year, group) {
     var names = {gen: 'genrer', meg: 'mégenrer', sid: "s'identifier", deg: 'dégenrer'};
     var cls = {gen: 'gen', meg: 'meg', sid: 'sid', deg: 'deg'};
-    var filtered = EX.filter(function(e) { return e.y === year && e.w === group && (curFilter === 'all' || e.t === curFilter); });
+    var filtered = EX.filter(function(e) { return e.y === year && e.w === group && (curFilter === 'all' || e.t === curFilter); }); });
     document.getElementById('modal-title').textContent = year + ' — ' + names[group] + ' (' + filtered.length + ' exemples)';
     var h = '<div class="ex-count">' + filtered.length + ' occurrences dans le corpus ' + year + '</div>';
     filtered.forEach(function(e) {
