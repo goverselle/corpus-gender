@@ -202,7 +202,7 @@ function buildChart(id, ratioKey, rawKey, barClass, groupName) {
         bRatio.dataset.year = y;
         bRatio.dataset.group = groupName;
         bRatio.addEventListener('click', function() {
-            var g = this.dataset.group === 'gen' ? 'gen' : this.dataset.group === 'meg' ? 'meg' : 'sid';
+            var g = this.dataset.group;
             openModal(parseInt(this.dataset.year), g);
         });
         col.appendChild(bRatio);
