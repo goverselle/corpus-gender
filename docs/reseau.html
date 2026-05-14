@@ -67,6 +67,7 @@ const fondateurs = [
   {id:"dire", label:"DIRE", x:W*.82, y:H*.48},
   {id:"restreindre", label:"RÉDUIRE À UN GENRE", x:W*.52, y:H*.62},
   {id:"universel", label:"UNIVERSEL", x:W*.28, y:H*.62},
+  {id:"devenir", label:"DEVENIR", x:W*.22, y:H*.32},
 ];
 
 // Each greffe names a liaison between "from" and "to"
@@ -114,10 +115,16 @@ const greffes = [
    desc:"Concordance entre assignation et auto-identification.",
    color:"#1e40af"},
 
-  {id:"transgenre", label:"TRANSGENRE", sub:"",
+  {id:"transgenre_pre", label:"TRANSGENRE", sub:"sens précoce",
+   from:"naitre", to:"devenir", conn:"PT", offsetY:100,
+   aspect:"ÊTRE NÉ Y PT DEVENIR W",
+   desc:"Sens précoce : être né d'un genre, pourtant devenir un autre.",
+   color:"#ef4444"},
+
+  {id:"transgenre", label:"TRANSGENRE", sub:"sens politique",
    from:"assigner", to:"sidentifier", conn:"PT", offsetY:110,
    aspect:"X ÊTRE ASSIGNÉ À Y PT NEG X S'IDENTIFIER COMME Y",
-   desc:"Rupture entre assignation et auto-identification.",
+   desc:"Sens politique : rupture entre assignation et auto-identification.",
    color:"#ef4444"},
 
   {id:"megenrer", label:"MÉGENRER", sub:"",

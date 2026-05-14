@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CAL Genre — Réseau animé</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Segoe UI', system-ui, sans-serif; background: #fff; overflow: hidden; }
+svg { width: 100vw; height: 100vh; }
+
+.tooltip {
+  position: absolute; background: #fff; border: 1px solid #e2e8f0;
+  border-radius: 8px; padding: 14px 18px; max-width: 400px;
+  box-shadow: 0 4px 24px rgba(0,0,0,.12); font-size: .85rem;
+  line-height: 1.6; pointer-events: none; display: none; z-index: 100;
+}
+.tooltip h3 { font-size: 1.05rem; margin-bottom: 4px; }
+.tooltip .aspect { font-family: 'SF Mono','Fira Code',monospace; font-size: .78rem; color: #1e40af; margin: 6px 0; background: #f1f5f9; padding: 6px 10px; border-radius: 4px; }
+.tooltip .desc { color: #555; font-size: .82rem; }
+.tooltip .born-from { color: #94a3b8; font-size: .75rem; margin-top: 6px; font-style: italic; }
+
+.title-bar {
+  position: fixed; top: 0; left: 0; right: 0; padding: 16px 24px;
+  background: linear-gradient(180deg, #fff 70%, transparent);
+  z-index: 50; pointer-events: none;
+}
+.title-bar h1 { font-size: 1.15rem; color: #111; }
+.title-bar p { font-size: .78rem; color: #999; margin-top: 2px; }
+
+.legend {
+  position: fixed; bottom: 20px; left: 20px; background: #fff;
+  border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px 18px;
+  font-size: .75rem; box-shadow: 0 2px 10px rgba(0,0,0,.08); z-index: 50; color: #555;
+}
+.legend h4 { margin-bottom: 6px; color: #333; font-size: .8rem; }
+.legend-row { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+
+#year-display {
+  position: fixed; top: 20px; right: 30px; z-index: 60;
+  font-size: 3rem; font-weight: 800; color: #e2e8f0;
+  font-family: 'SF Mono','Fira Code',monospace;
+  transition: color .3s;
+  pointer-events: none;
+}
+#year-display.active { color: #1e40af; }
+
+#controls {
+  position: fixed; bottom: 20px; right: 30px; z-index: 60;
+  display: flex; gap: 8px;
+}
+#controls button {
+  padding: 8px 18px; border: 1.5px solid #ddd; border-radius: 20px;
+  background: #fff; color: #555; font-size: .82rem; cursor: pointer;
+  transition: all .15s; font-weight: 600;
+}
+#controls button:hover { border-color: #1e40af; color: #1e40af; }
+#controls button.active { background: #1e40af; color: #fff; border-color: #1e40af; }
+</style>
+</head>
+<body>
+<div class="title-bar">
+  <h1>Carte Argumentative du Lexique — Déploiement diachronique</h1>
+  <p>Le réseau se construit au fil du temps. Chaque mot naît d'une liaison entre deux autres.</p>
+</div>
+<div id="year-display"></div>
+<div id="controls">
+  <button id="btn-play">▶ Jouer</button>
+  <button id="btn-reset">↺ Début</button>
+  <button id="btn-all">Tout afficher</button>
+</div>
+<div class="tooltip" id="tooltip"></div>
+<div class="legend">
+  <h4>Flèches</h4>
+  <div class="legend-row"><div style="width:30px;height:0;border-top:4px solid #3b82f6"></div> Bloc sémantique</div>
+  <h4 style="margin-top:10px">Nœuds</h4>
+  <div class="legend-row"><div style="width:14px;height:14px;border-radius:50%;background:#475569"></div> Fondateur</div>
+  <div class="legend-row"><div style="width:20px;height:14px;border-radius:4px;background:#1e40af"></div> Lexicalisation d'une facette</div>
+  <div class="legend-row"><div style="width:30px;height:0;border-top:2px solid #f59e0b"></div> Lien de lexicalisation</div>
+</div>
+
+<svg id="graph"></svg>
+
+<script>
+const W = window.innerWidth, H = window.innerHeight;
+
+const fondateurs = [
+  {id:"regarder", label:"REGARDER", x:W*.08, y:H*.06},
+  {id:"classer", label:"CLASSER", x:W*.28, y:H*.06},
+  {id:"naitre", label:"NAÎTRE", x:W*.06, y:H*.32},
+  {id:"etre", label:"ÊTRE", x:W*.56, y:H*.06},
+  {id:"revendiquer", label:"SE REVENDIQUER", x:W*.8, y:H*.06},
+  {id:"dire", label:"DIRE", x:W*.82, y:H*.48},
+  {id:"restreindre", label:"RÉDUIRE À UN GENRE", x:W*.52, y:H*.62},
+  {id:"universel", label:"UNIVERSEL", x:W*.28, y:H*.62},
+  {id:"devenir", label:"DEVENIR", x:W*.22, y:H*.32},
+];
+
+const greffes = [
+  {id:"identifier", label:"IDENTIFIER", sub:"sens B",
+   from:"regarder", to:"classer", conn:"DC", offsetY:110,
+   aspect:"X REGARDER Y DC X CLASSER Y",
+   desc:"Rattacher par le regard à une catégorie connue.",
+   color:"#1e40af", year:1750, yearLabel:"XVIIIe s."},
+
+  {id:"assigner", label:"ASSIGNER", sub:"",
+   from:"naitre", to:"identifier", conn:"QB", offsetY:-100,
+   aspect:"Z NAÎTRE DC X IDENTIFIER Z",
+   desc:"Tout être qui naît se fait identifier par autrui. Money introduit gender assignment.",
+   color:"#8b5cf6", year:1955, yearLabel:"1955"},
+
+  {id:"transgenre_pre", label:"TRANSGENRE", sub:"sens précoce",
+   from:"naitre", to:"devenir", conn:"PT", offsetY:100,
+   aspect:"ÊTRE NÉ Y PT DEVENIR W",
+   desc:"Sens précoce : être né d'un genre, pourtant devenir un autre. Importé de l'anglais.",
+   color:"#ef4444", year:1990, yearLabel:"~1990"},
+
+  {id:"transgenre", label:"TRANSGENRE", sub:"sens politique",
+   from:"assigner", to:"sidentifier", conn:"PT", offsetY:110,
+   aspect:"X ÊTRE ASSIGNÉ À Y PT NEG X S'IDENTIFIER COMME Y",
+   desc:"Sens politique : rupture entre assignation et auto-identification.",
+   color:"#ef4444", year:2007, yearLabel:"~2000s"},
+
+  {id:"sidentifier", label:"S'IDENTIFIER", sub:"comme / en tant que",
+   from:"etre", to:"revendiquer", conn:"DC", offsetY:120,
+   aspect:"X ÊTRE Y DC X SE REVENDIQUER COMME Y",
+   desc:"Être Y fonde la revendication publique de Y. Premier emploi attesté dans le sens de genre.",
+   color:"#1e40af", year:2004, yearLabel:"2004"},
+
+  {id:"cisgenre", label:"CISGENRE", sub:"",
+   from:"assigner", to:"sidentifier", conn:"DC", offsetY:-110,
+   aspect:"X ÊTRE ASSIGNÉ À Y DC X S'IDENTIFIER COMME Y",
+   desc:"Concordance entre assignation et auto-identification.",
+   color:"#1e40af", year:2007, yearLabel:"2007"},
+
+  {id:"genrer_b", label:"GENRER", sub:"imposition",
+   from:"universel", to:"restreindre", conn:"PT", offsetY:-100,
+   aspect:"Y ÊTRE UNIVERSEL PT X RÉDUIRE Y À UN GENRE",
+   desc:"Imposer une partition binaire au lieu de l'universalité. Premier sens attesté du verbe.",
+   color:"#ef4444", year:2009, yearLabel:"2009"},
+
+  {id:"megenrer", label:"MÉGENRER", sub:"",
+   from:"se_genrer", to:"dire", conn:"PT", offsetY:110,
+   aspect:"X SE GENRER COMME Y PT NEG Z DIRE Y",
+   desc:"Autrui refuse de nommer selon l'auto-identification. Calque de misgender.",
+   color:"#ef4444", year:2013, yearLabel:"2013"},
+
+  {id:"se_genrer", label:"SE GENRER", sub:"",
+   from:"sidentifier", to:"dire", conn:"DC", offsetY:130,
+   aspect:"X S'IDENTIFIER COMME Y DC X DIRE Y",
+   desc:"S'auto-identifier, donc le dire. Internalise s'identifier.",
+   color:"#1e40af", year:2015, yearLabel:"2015"},
+
+  {id:"degenrer", label:"DÉGENRER", sub:"",
+   from:"universel", to:"restreindre", conn:"NEG DC", offsetY:110,
+   aspect:"NEG X GENRER Z DC NEG X RESTREINDRE Z",
+   desc:"Lever la réduction à un genre. Réciproque de genrer (imposition).",
+   color:"#1e40af", year:2015, yearLabel:"2015"},
+
+  {id:"genrer_a", label:"GENRER", sub:"attribution",
+   from:"identifier", to:"dire", conn:"DC", offsetY:120,
+   aspect:"X IDENTIFIER Z COMME Y DC X DIRE Y",
+   desc:"Identifier socialement → nommer grammaticalement. Second sens du verbe, issu du militantisme trans/NB.",
+   color:"#1e40af", year:2016, yearLabel:"2016"},
+];
+
+// Sort by year for animation
+// Ordre narratif : respecte les dépendances du réseau
+const animOrder = [
+  "identifier",      // XVIIIe — REGARDER → CLASSER
+  "assigner",        // 1955 — NAÎTRE → IDENTIFIER
+  "transgenre_pre",  // ~1990 — NAÎTRE → DEVENIR (sens précoce)
+  "sidentifier",     // 2004 — ÊTRE → SE REVENDIQUER
+  "transgenre",      // ~2000s — ASSIGNER → S'IDENTIFIER (sens politique)
+  "cisgenre",        // 2007 — ASSIGNER → S'IDENTIFIER (DC)
+  "genrer_b",        // 2009 — UNIVERSEL → RÉDUIRE (imposition)
+  "se_genrer",       // 2015 — S'IDENTIFIER → DIRE
+  "genrer_a",        // 2016 — IDENTIFIER → DIRE (attribution)
+  "megenrer",        // 2013 — SE GENRER → DIRE (PT)
+  "degenrer",        // 2015 — UNIVERSEL → RÉDUIRE (NEG DC)
+];
+const greffesByYear = animOrder.map(id => greffes.find(g => g.id === id));
+
+const nodeMap = {};
+fondateurs.forEach(f => nodeMap[f.id] = f);
+greffes.forEach(gr => nodeMap[gr.id] = gr);
+
+const svg = d3.select("#graph").attr("width",W).attr("height",H);
+const g = svg.append("g");
+svg.call(d3.zoom().scaleExtent([.2,3]).on("zoom", e => g.attr("transform",e.transform)));
+
+const defs = svg.append("defs");
+[["dc","#3b82f6"],["pt","#ef4444"],["qb","#8b5cf6"],["neg","#10b981"]].forEach(([id,c]) => {
+  defs.append("marker").attr("id","arr-"+id)
+    .attr("viewBox","0 -6 14 12").attr("refX",14).attr("refY",0)
+    .attr("markerWidth",10).attr("markerHeight",10).attr("orient","auto")
+    .append("path").attr("d","M0,-5L14,0L0,5").attr("fill",c).attr("opacity",.8);
+});
+
+const arrowLayer = g.append("g");
+const linkLayer = g.append("g");
+const greffeLayer = g.append("g");
+const fondLayer = g.append("g");
+const yearBadgeLayer = g.append("g");
+
+// Fondateurs — always visible, draggable
+const fondGroups = fondLayer.selectAll("g").data(fondateurs).join("g")
+  .style("cursor","grab").attr("opacity",0)
+  .call(d3.drag().on("drag",(e,d)=>{d.x=e.x;d.y=e.y;redraw();}));
+fondGroups.append("circle").attr("r",14)
+  .attr("fill","#475569").attr("stroke","#334155").attr("stroke-width",2.5);
+fondGroups.append("text")
+  .attr("text-anchor","middle").attr("y",-22)
+  .attr("font-size",13).attr("font-weight",700).attr("fill","#334155")
+  .text(d=>d.label);
+
+// Greffe groups — initially hidden
+const greffeGroups = greffeLayer.selectAll("g").data(greffes).join("g")
+  .style("cursor","grab").attr("opacity",0)
+  .call(d3.drag().on("drag",(e,d)=>{
+    const p1 = getPos(d.from); const p2 = getPos(d.to);
+    const mx = (p1.x+p2.x)/2, my = (p1.y+p2.y)/2;
+    d._ox = e.x - mx; d._oy = e.y - my; redraw();
+  }));
+
+greffeGroups.append("rect")
+  .attr("rx",5).attr("ry",5)
+  .attr("fill",d=>d.color)
+  .attr("stroke",d=>d3.color(d.color).darker(.3))
+  .attr("stroke-width",2)
+  .each(function(d){
+    const len = Math.max(d.label.length,(d.sub||"").length)*7+20;
+    d._w=Math.max(len,85); d._h=d.sub?38:28;
+    d3.select(this).attr("width",d._w).attr("height",d._h).attr("x",-d._w/2).attr("y",-d._h/2);
+  });
+
+greffeGroups.append("text")
+  .attr("text-anchor","middle").attr("dominant-baseline","central")
+  .attr("fill","#fff").attr("font-weight",700)
+  .attr("font-size",d=>d.label.length>14?10:12)
+  .attr("y",d=>d.sub?-6:0)
+  .text(d=>d.label);
+
+greffeGroups.filter(d=>d.sub).append("text")
+  .attr("text-anchor","middle").attr("fill","rgba(255,255,255,.6)")
+  .attr("font-size",9).attr("y",10)
+  .text(d=>d.sub);
+
+// Tooltip
+const tooltip = document.getElementById("tooltip");
+greffeGroups.on("mouseover",(e,d)=>{
+  if(d._hidden) return;
+  const p1=nodeMap[d.from], p2=nodeMap[d.to];
+  let html = `<h3 style="color:${d.color}">${d.label}${d.sub?' <span style="font-weight:400;color:#999">'+d.sub+'</span>':''}</h3>`;
+  html += `<div class="aspect">${d.aspect}</div>`;
+  html += `<div class="desc">${d.desc}</div>`;
+  html += `<div class="born-from">${d.yearLabel} — ${p1.label} → ${p2.label}</div>`;
+  tooltip.innerHTML=html;tooltip.style.display="block";
+  tooltip.style.left=(e.pageX+15)+"px";tooltip.style.top=(e.pageY-10)+"px";
+}).on("mousemove",e=>{
+  tooltip.style.left=(e.pageX+15)+"px";tooltip.style.top=(e.pageY-10)+"px";
+}).on("mouseout",()=>tooltip.style.display="none");
+
+fondGroups.on("mouseover",(e,d)=>{
+  tooltip.innerHTML=`<h3 style="color:#334155">${d.label}</h3><div class="desc">Fondateur.</div>`;
+  tooltip.style.display="block";tooltip.style.left=(e.pageX+15)+"px";tooltip.style.top=(e.pageY-10)+"px";
+}).on("mousemove",e=>{
+  tooltip.style.left=(e.pageX+15)+"px";tooltip.style.top=(e.pageY-10)+"px";
+}).on("mouseout",()=>tooltip.style.display="none");
+
+function getPos(id) {
+  const f = fondateurs.find(x=>x.id===id);
+  if(f) return {x:f.x, y:f.y};
+  const gr = greffes.find(x=>x.id===id);
+  if(gr) return getGreffePos(gr);
+  return {x:W/2, y:H/2};
+}
+
+function getGreffePos(gr) {
+  const p1 = getPos(gr.from); const p2 = getPos(gr.to);
+  const mx = (p1.x+p2.x)/2, my = (p1.y+p2.y)/2;
+  if(gr._ox !== undefined) return {x:mx+gr._ox, y:my+gr._oy};
+  const dx = p2.x-p1.x, dy = p2.y-p1.y;
+  const len = Math.sqrt(dx*dx+dy*dy)||1;
+  const nx = -dy/len, ny = dx/len;
+  return {x: mx + nx * gr.offsetY, y: my + ny * gr.offsetY};
+}
+
+// Track visible greffes
+let visibleSet = new Set();
+const yearDisplay = document.getElementById("year-display");
+
+// Compute positions once
+function computePositions() {
+  fondGroups.attr("transform",d=>`translate(${d.x},${d.y})`);
+  greffes.forEach(gr => { const pos = getGreffePos(gr); gr.x = pos.x; gr.y = pos.y; });
+  greffeGroups.attr("transform",d=>`translate(${d.x},${d.y})`);
+}
+
+// Get arrow endpoints for a greffe
+function arrowCoords(gr) {
+  const p1 = getPos(gr.from), p2 = getPos(gr.to);
+  const fromR = nodeMap[gr.from]._w ? 0 : 16;
+  const toR = nodeMap[gr.to]._w ? 0 : 16;
+  const a = Math.atan2(p2.y-p1.y, p2.x-p1.x);
+  return {
+    x1: p1.x + Math.cos(a)*fromR, y1: p1.y + Math.sin(a)*fromR,
+    x2: p2.x - Math.cos(a)*toR, y2: p2.y - Math.sin(a)*toR,
+    mid: {x:(p1.x+p2.x)/2, y:(p1.y+p2.y)/2}
+  };
+}
+
+function lineLen(x1,y1,x2,y2) { return Math.sqrt((x2-x1)**2+(y2-y1)**2); }
+
+// Animate a single greffe appearing: arrow draws → orange link → node fades in
+// Returns a promise that resolves when done
+function animateGreffe(gr, speed) {
+  const ARROW_DUR = speed || 1200;
+  const LINK_DUR = 400;
+  const NODE_DUR = 500;
+
+  return new Promise(resolve => {
+    visibleSet.add(gr.id);
+    gr._hidden = false;
+
+    // Ensure parent greffes are visible (no animation, just show)
+    [gr.from, gr.to].forEach(pid => {
+      const pg = greffes.find(x=>x.id===pid);
+      if(pg && !visibleSet.has(pid)) {
+        visibleSet.add(pid);
+        pg._hidden = false;
+        greffeGroups.filter(d=>d.id===pid).attr("opacity",1);
+        // Draw their arrow+link instantly
+        drawStatic(pg);
+      }
+    });
+
+    const ac = arrowCoords(gr);
+    const gp = {x:gr.x, y:gr.y};
+    const len = lineLen(ac.x1, ac.y1, ac.x2, ac.y2);
+
+    // 1. Blue arrow draws itself slowly
+    const arrow = arrowLayer.append("line")
+      .attr("x1",ac.x1).attr("y1",ac.y1).attr("x2",ac.x2).attr("y2",ac.y2)
+      .attr("stroke","#3b82f6").attr("stroke-width",4).attr("stroke-opacity",.4)
+      .attr("marker-end","url(#arr-dc)")
+      .attr("stroke-dasharray", len)
+      .attr("stroke-dashoffset", len);
+
+    arrow.transition().duration(ARROW_DUR).ease(d3.easeLinear)
+      .attr("stroke-dashoffset", 0)
+      .on("end", () => {
+        // 2. Orange link draws itself
+        const linkLen = lineLen(gp.x, gp.y, ac.mid.x, ac.mid.y);
+        const link = linkLayer.append("line")
+          .attr("x1",ac.mid.x).attr("y1",ac.mid.y)
+          .attr("x2",ac.mid.x).attr("y2",ac.mid.y)
+          .attr("stroke","#f59e0b").attr("stroke-width",2).attr("stroke-opacity",.6);
+
+        link.transition().duration(LINK_DUR)
+          .attr("x2",gp.x).attr("y2",gp.y);
+
+        // Dot at midpoint
+        linkLayer.append("circle")
+          .attr("cx",ac.mid.x).attr("cy",ac.mid.y).attr("r",0)
+          .attr("fill","#3b82f6").attr("opacity",.5)
+          .transition().duration(300).attr("r",3);
+
+        setTimeout(() => {
+          // 3. Node fades in with scale
+          greffeGroups.filter(d=>d.id===gr.id)
+            .attr("transform",`translate(${gr.x},${gr.y}) scale(0.3)`)
+            .attr("opacity",0)
+            .transition().duration(NODE_DUR).ease(d3.easeBackOut)
+            .attr("transform",`translate(${gr.x},${gr.y}) scale(1)`)
+            .attr("opacity",1);
+
+          // Year badge
+          yearBadgeLayer.append("text")
+            .attr("x",gr.x + gr._w/2 + 8).attr("y",gr.y + 4)
+            .attr("font-size",9).attr("fill","#94a3b8").attr("font-weight",600)
+            .attr("opacity",0).text(gr.yearLabel)
+            .transition().duration(400).attr("opacity",1);
+
+          // Check grouping box
+          showGroupingBox();
+
+          setTimeout(resolve, NODE_DUR);
+        }, LINK_DUR);
+      });
+  });
+}
+
+// Draw a greffe's arrow+link instantly (for already-visible parents)
+function drawStatic(gr) {
+  const ac = arrowCoords(gr);
+  const gp = {x:gr.x, y:gr.y};
+
+  arrowLayer.append("line")
+    .attr("x1",ac.x1).attr("y1",ac.y1).attr("x2",ac.x2).attr("y2",ac.y2)
+    .attr("stroke","#3b82f6").attr("stroke-width",4).attr("stroke-opacity",.4)
+    .attr("marker-end","url(#arr-dc)");
+
+  linkLayer.append("line")
+    .attr("x1",gp.x).attr("y1",gp.y).attr("x2",ac.mid.x).attr("y2",ac.mid.y)
+    .attr("stroke","#f59e0b").attr("stroke-width",2).attr("stroke-opacity",.6);
+
+  linkLayer.append("circle")
+    .attr("cx",ac.mid.x).attr("cy",ac.mid.y).attr("r",3)
+    .attr("fill","#3b82f6").attr("opacity",.5);
+
+  yearBadgeLayer.append("text")
+    .attr("x",gr.x + gr._w/2 + 8).attr("y",gr.y + 4)
+    .attr("font-size",9).attr("fill","#94a3b8").attr("font-weight",600)
+    .text(gr.yearLabel);
+}
+
+function showGroupingBox() {
+  linkLayer.selectAll(".genrer-box").remove();
+  if(visibleSet.has("genrer_a") && visibleSet.has("genrer_b")) {
+    const ga = nodeMap["genrer_a"], gb = nodeMap["genrer_b"];
+    if(ga.x && gb.x) {
+      const pad = 25;
+      const minX = Math.min(ga.x-ga._w/2,gb.x-gb._w/2)-pad;
+      const minY = Math.min(ga.y-ga._h/2,gb.y-gb._h/2)-pad;
+      const maxX = Math.max(ga.x+ga._w/2,gb.x+gb._w/2)+pad;
+      const maxY = Math.max(ga.y+ga._h/2,gb.y+gb._h/2)+pad;
+      linkLayer.append("rect").attr("class","genrer-box")
+        .attr("x",minX).attr("y",minY)
+        .attr("width",maxX-minX).attr("height",maxY-minY)
+        .attr("rx",12).attr("ry",12).attr("fill","none")
+        .attr("stroke","#94a3b8").attr("stroke-width",1.5)
+        .attr("stroke-dasharray","6 4").attr("stroke-opacity",0)
+        .transition().duration(600).attr("stroke-opacity",.5);
+      linkLayer.append("text").attr("class","genrer-box")
+        .attr("x",(minX+maxX)/2).attr("y",minY-6)
+        .attr("text-anchor","middle").attr("font-size",10)
+        .attr("fill","#94a3b8").attr("font-weight",600).attr("opacity",0)
+        .text("GENRER — deux facettes")
+        .transition().duration(600).attr("opacity",1);
+    }
+  }
+}
+
+// Animation state
+let animIndex = -1;
+let playing = false;
+let animPromise = null;
+
+function showFondateurs() {
+  return new Promise(resolve => {
+    fondGroups.transition().duration(800).attr("opacity",1).on("end", resolve);
+  });
+}
+
+async function step() {
+  animIndex++;
+  if(animIndex >= greffesByYear.length) {
+    playing = false;
+    document.getElementById("btn-play").textContent = "▶ Jouer";
+    document.getElementById("btn-play").classList.remove("active");
+    return;
+  }
+
+  const gr = greffesByYear[animIndex];
+
+  // Show year
+  yearDisplay.textContent = gr.yearLabel;
+  yearDisplay.classList.add("active");
+  setTimeout(() => yearDisplay.classList.remove("active"), 1500);
+
+  await animateGreffe(gr, 1200);
+
+  // Pause between steps
+  if(playing) {
+    await new Promise(r => setTimeout(r, 800));
+    if(playing) step();
+  }
+}
+
+function resetAnim() {
+  playing = false;
+  animIndex = -1;
+  visibleSet.clear();
+  greffes.forEach(gr => gr._hidden = true);
+  greffeGroups.attr("opacity",0);
+  arrowLayer.selectAll("*").remove();
+  linkLayer.selectAll("*").remove();
+  yearBadgeLayer.selectAll("*").remove();
+  yearDisplay.textContent = "";
+  document.getElementById("btn-play").textContent = "▶ Jouer";
+  document.getElementById("btn-play").classList.remove("active");
+}
+
+function showAll() {
+  playing = false;
+  greffes.forEach(gr => { visibleSet.add(gr.id); gr._hidden = false; });
+  greffeGroups.transition().duration(600).attr("opacity",1);
+  animIndex = greffesByYear.length;
+  yearDisplay.textContent = "";
+
+  arrowLayer.selectAll("*").remove();
+  linkLayer.selectAll("*").remove();
+  yearBadgeLayer.selectAll("*").remove();
+  greffes.forEach(gr => drawStatic(gr));
+  showGroupingBox();
+
+  document.getElementById("btn-play").textContent = "▶ Jouer";
+  document.getElementById("btn-play").classList.remove("active");
+}
+
+document.getElementById("btn-play").addEventListener("click", () => {
+  if(playing) {
+    playing = false;
+    document.getElementById("btn-play").textContent = "▶ Jouer";
+    document.getElementById("btn-play").classList.remove("active");
+  } else {
+    if(animIndex >= greffesByYear.length) resetAnim();
+    playing = true;
+    document.getElementById("btn-play").textContent = "⏸ Pause";
+    document.getElementById("btn-play").classList.add("active");
+    step();
+  }
+});
+
+document.getElementById("btn-reset").addEventListener("click", resetAnim);
+document.getElementById("btn-all").addEventListener("click", showAll);
+
+// Init
+greffes.forEach(gr => gr._hidden = true);
+computePositions();
+showFondateurs();
+</script>
+</body>
+</html>
