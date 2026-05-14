@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CAL — Réseau sémantique du genre</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Segoe UI', system-ui, sans-serif; background: #fff; overflow: hidden; }
+svg { width: 100vw; height: 100vh; }
+
+.tooltip {
+  position: absolute; background: #fff; border: 1px solid #e2e8f0;
+  border-radius: 8px; padding: 14px 18px; max-width: 400px;
+  box-shadow: 0 4px 24px rgba(0,0,0,.12); font-size: .85rem;
+  line-height: 1.6; pointer-events: none; display: none; z-index: 100;
+}
+.tooltip h3 { font-size: 1.05rem; margin-bottom: 4px; }
+.tooltip .aspect { font-family: 'SF Mono','Fira Code',monospace; font-size: .78rem; color: #1e40af; margin: 6px 0; background: #f1f5f9; padding: 6px 10px; border-radius: 4px; }
+.tooltip .desc { color: #555; font-size: .82rem; }
+.tooltip .born-from { color: #94a3b8; font-size: .75rem; margin-top: 6px; font-style: italic; }
+
+.title-bar {
+  position: fixed; top: 0; left: 0; right: 0; padding: 16px 24px;
+  background: linear-gradient(180deg, #fff 70%, transparent);
+  z-index: 50; pointer-events: none;
+}
+.title-bar h1 { font-size: 1.15rem; color: #111; }
+.title-bar p { font-size: .78rem; color: #999; margin-top: 2px; }
+
+.legend {
+  position: fixed; bottom: 20px; left: 20px; background: #fff;
+  border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px 18px;
+  font-size: .75rem; box-shadow: 0 2px 10px rgba(0,0,0,.08); z-index: 50; color: #555;
+}
+.legend h4 { margin-bottom: 6px; color: #333; font-size: .8rem; }
+.legend-row { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+</style>
+</head>
+<body>
+<div class="title-bar">
+  <h1>Carte Argumentative du Lexique — Auto-détermination de genre</h1>
+  <p>Chaque mot nomme une liaison entre deux autres mots. Glisser les nœuds pour réorganiser.</p>
+</div>
+<div class="tooltip" id="tooltip"></div>
+<div class="legend">
+  <h4>Flèches</h4>
+  <div class="legend-row"><div style="width:30px;height:0;border-top:4px solid #3b82f6"></div> Bloc sémantique</div>
+  <h4 style="margin-top:10px">Nœuds</h4>
+  <div class="legend-row"><div style="width:14px;height:14px;border-radius:50%;background:#475569"></div> Fondateur</div>
+  <div class="legend-row"><div style="width:20px;height:14px;border-radius:4px;background:#1e40af"></div> Lexicalisation d'une facette</div>
+  <div class="legend-row"><div style="width:30px;height:0;border-top:2px solid #f59e0b"></div> Lien de lexicalisation</div>
+</div>
+
+<svg id="graph"></svg>
+
+<script>
+const W = window.innerWidth, H = window.innerHeight;
+
+const fondateurs = [
+  {id:"regarder", label:"REGARDER", x:W*.08, y:H*.06},
+  {id:"classer", label:"CLASSER", x:W*.28, y:H*.06},
+  {id:"naitre", label:"NAÎTRE", x:W*.06, y:H*.32},
+  {id:"etre", label:"ÊTRE", x:W*.56, y:H*.06},
+  {id:"revendiquer", label:"SE REVENDIQUER", x:W*.8, y:H*.06},
+  {id:"dire", label:"DIRE", x:W*.82, y:H*.48},
+  {id:"restreindre", label:"RÉDUIRE À UN GENRE", x:W*.52, y:H*.62},
+  {id:"universel", label:"UNIVERSEL", x:W*.28, y:H*.62},
+];
+
+// Each greffe names a liaison between "from" and "to"
+// The greffe node is OFFSET from the midpoint of that arrow
+const greffes = [
+  {id:"identifier", label:"IDENTIFIER", sub:"sens B",
+   from:"regarder", to:"classer", conn:"DC", offsetY:110,
+   aspect:"X REGARDER Y DC X CLASSER Y",
+   desc:"Rattacher par le regard à une catégorie connue.",
+   color:"#1e40af"},
+
+  {id:"sidentifier", label:"S'IDENTIFIER", sub:"comme / en tant que",
+   from:"etre", to:"revendiquer", conn:"DC", offsetY:120,
+   aspect:"X ÊTRE Y DC X SE REVENDIQUER COMME Y",
+   desc:"Être Y fonde la revendication publique de Y.",
+   color:"#1e40af"},
+
+  {id:"assigner", label:"ASSIGNER", sub:"",
+   from:"naitre", to:"identifier", conn:"QB", offsetY:-100,
+   aspect:"Z NAÎTRE DC X IDENTIFIER Z",
+   desc:"Tout être qui naît se fait identifier par autrui.",
+   color:"#8b5cf6"},
+
+  {id:"genrer_a", label:"GENRER", sub:"attribution",
+   from:"identifier", to:"dire", conn:"DC", offsetY:120,
+   aspect:"X IDENTIFIER Z COMME Y DC X DIRE Y",
+   desc:"Identifier socialement → nommer grammaticalement.",
+   color:"#1e40af"},
+
+  {id:"genrer_b", label:"GENRER", sub:"imposition",
+   from:"universel", to:"restreindre", conn:"PT", offsetY:-100,
+   aspect:"Y ÊTRE UNIVERSEL PT X RÉDUIRE Y À UN GENRE",
+   desc:"Imposer une partition binaire au lieu de l'universalité.",
+   color:"#ef4444"},
+
+  {id:"se_genrer", label:"SE GENRER", sub:"",
+   from:"sidentifier", to:"dire", conn:"DC", offsetY:130,
+   aspect:"X S'IDENTIFIER COMME Y DC X DIRE Y",
+   desc:"S'auto-identifier, donc le dire. Internalise s'identifier.",
+   color:"#1e40af"},
+
+  {id:"cisgenre", label:"CISGENRE", sub:"",
+   from:"assigner", to:"sidentifier", conn:"DC", offsetY:-110,
+   aspect:"X ÊTRE ASSIGNÉ À Y DC X S'IDENTIFIER COMME Y",
+   desc:"Concordance entre assignation et auto-identification.",
+   color:"#1e40af"},
+
+  {id:"transgenre", label:"TRANSGENRE", sub:"",
+   from:"assigner", to:"sidentifier", conn:"PT", offsetY:110,
+   aspect:"X ÊTRE ASSIGNÉ À Y PT NEG X S'IDENTIFIER COMME Y",
+   desc:"Rupture entre assignation et auto-identification.",
+   color:"#ef4444"},
+
+  {id:"megenrer", label:"MÉGENRER", sub:"",
+   from:"se_genrer", to:"dire", conn:"PT", offsetY:110,
+   aspect:"X SE GENRER COMME Y PT NEG Z DIRE Y",
+   desc:"Autrui refuse de nommer selon l'auto-identification.",
+   color:"#ef4444"},
+
+  {id:"degenrer", label:"DÉGENRER", sub:"",
+   from:"universel", to:"restreindre", conn:"NEG DC", offsetY:110,
+   aspect:"NEG X GENRER Z DC NEG X RESTREINDRE Z",
+   desc:"Lever la réduction à un genre. Réciproque de genrer (imposition).",
+   color:"#1e40af"},
+];
+
+const nodeMap = {};
+fondateurs.forEach(f => nodeMap[f.id] = f);
+greffes.forEach(gr => nodeMap[gr.id] = gr);
+
+const svg = d3.select("#graph").attr("width",W).attr("height",H);
+const g = svg.append("g");
+svg.call(d3.zoom().scaleExtent([.2,3]).on("zoom", e => g.attr("transform",e.transform)));
+
+// Arrow markers
+const defs = svg.append("defs");
+[["dc","#3b82f6"],["pt","#ef4444"],["qb","#8b5cf6"],["neg","#10b981"]].forEach(([id,c]) => {
+  defs.append("marker").attr("id","arr-"+id)
+    .attr("viewBox","0 -6 14 12").attr("refX",14).attr("refY",0)
+    .attr("markerWidth",10).attr("markerHeight",10).attr("orient","auto")
+    .append("path").attr("d","M0,-5L14,0L0,5").attr("fill",c).attr("opacity",.8);
+});
+
+function connColor(c) { return "#3b82f6"; }
+function markerId(c) { return "arr-dc"; }
+
+const arrowLayer = g.append("g");
+const linkLayer = g.append("g");
+const greffeLayer = g.append("g");
+const fondLayer = g.append("g");
+
+// Fondateurs — draggable
+const fondGroups = fondLayer.selectAll("g").data(fondateurs).join("g")
+  .style("cursor","grab")
+  .call(d3.drag().on("drag",(e,d)=>{d.x=e.x;d.y=e.y;update();}));
+fondGroups.append("circle").attr("r",14)
+  .attr("fill","#475569").attr("stroke","#334155").attr("stroke-width",2.5);
+fondGroups.append("text")
+  .attr("text-anchor","middle").attr("y",-22)
+  .attr("font-size",13).attr("font-weight",700).attr("fill","#334155")
+  .text(d=>d.label);
+
+// Greffes — also draggable (user can adjust offset)
+const greffeGroups = greffeLayer.selectAll("g").data(greffes).join("g")
+  .style("cursor","grab")
+  .call(d3.drag().on("drag",(e,d)=>{
+    // Update offset relative to midpoint of its arrow
+    const p1 = getPos(d.from);
+    const p2 = getPos(d.to);
+    const mx = (p1.x+p2.x)/2, my = (p1.y+p2.y)/2;
+    d._ox = e.x - mx;
+    d._oy = e.y - my;
+    update();
+  }));
+
+greffeGroups.append("rect")
+  .attr("rx",5).attr("ry",5)
+  .attr("fill",d=>d.color)
+  .attr("stroke",d=>d3.color(d.color).darker(.3))
+  .attr("stroke-width",2)
+  .each(function(d){
+    const len = Math.max(d.label.length,(d.sub||"").length)*7+20;
+    d._w=Math.max(len,85); d._h=d.sub?38:28;
+    d3.select(this).attr("width",d._w).attr("height",d._h).attr("x",-d._w/2).attr("y",-d._h/2);
+  });
+
+greffeGroups.append("text")
+  .attr("text-anchor","middle").attr("dominant-baseline","central")
+  .attr("fill","#fff").attr("font-weight",700)
+  .attr("font-size",d=>d.label.length>14?10:12)
+  .attr("y",d=>d.sub?-6:0)
+  .text(d=>d.label);
+
+greffeGroups.filter(d=>d.sub).append("text")
+  .attr("text-anchor","middle").attr("fill","rgba(255,255,255,.6)")
+  .attr("font-size",9).attr("y",10)
+  .text(d=>d.sub);
+
+// Tooltip
+const tooltip = document.getElementById("tooltip");
+greffeGroups.on("mouseover",(e,d)=>{
+  const p1=nodeMap[d.from], p2=nodeMap[d.to];
+  let html = `<h3 style="color:${d.color}">${d.label}${d.sub?' <span style="font-weight:400;color:#999">'+d.sub+'</span>':''}</h3>`;
+  html += `<div class="aspect">${d.aspect}</div>`;
+  html += `<div class="desc">${d.desc}</div>`;
+  html += `<div class="born-from">${p1.label} ${d.conn} ${p2.label}</div>`;
+  tooltip.innerHTML=html;tooltip.style.display="block";
+  tooltip.style.left=(e.pageX+15)+"px";tooltip.style.top=(e.pageY-10)+"px";
+}).on("mousemove",e=>{
+  tooltip.style.left=(e.pageX+15)+"px";tooltip.style.top=(e.pageY-10)+"px";
+}).on("mouseout",()=>tooltip.style.display="none");
+
+fondGroups.on("mouseover",(e,d)=>{
+  tooltip.innerHTML=`<h3 style="color:#334155">${d.label}</h3><div class="desc">Fondateur. Glisser pour réorganiser.</div>`;
+  tooltip.style.display="block";tooltip.style.left=(e.pageX+15)+"px";tooltip.style.top=(e.pageY-10)+"px";
+}).on("mousemove",e=>{
+  tooltip.style.left=(e.pageX+15)+"px";tooltip.style.top=(e.pageY-10)+"px";
+}).on("mouseout",()=>tooltip.style.display="none");
+
+// Positioning helper
+function getPos(id) {
+  const f = fondateurs.find(x=>x.id===id);
+  if(f) return {x:f.x, y:f.y};
+  const gr = greffes.find(x=>x.id===id);
+  if(gr) return getGreffePos(gr);
+  return {x:W/2, y:H/2};
+}
+
+function getGreffePos(gr) {
+  const p1 = getPos(gr.from);
+  const p2 = getPos(gr.to);
+  const mx = (p1.x+p2.x)/2;
+  const my = (p1.y+p2.y)/2;
+  if(gr._ox !== undefined) return {x: mx+gr._ox, y: my+gr._oy};
+  // Default offset perpendicular to arrow
+  const dx = p2.x-p1.x, dy = p2.y-p1.y;
+  const len = Math.sqrt(dx*dx+dy*dy)||1;
+  const nx = -dy/len, ny = dx/len;
+  return {x: mx + nx * gr.offsetY, y: my + ny * gr.offsetY};
+}
+
+function update() {
+  fondGroups.attr("transform",d=>`translate(${d.x},${d.y})`);
+
+  greffes.forEach(gr => {
+    const pos = getGreffePos(gr);
+    gr.x = pos.x; gr.y = pos.y;
+  });
+  greffeGroups.attr("transform",d=>`translate(${d.x},${d.y})`);
+
+  // Redraw
+  arrowLayer.selectAll("*").remove();
+  linkLayer.selectAll("*").remove();
+
+  greffes.forEach(gr => {
+    const p1 = getPos(gr.from);
+    const p2 = getPos(gr.to);
+    const gp = {x:gr.x, y:gr.y};
+    const c = connColor(gr.conn);
+    const mid = {x:(p1.x+p2.x)/2, y:(p1.y+p2.y)/2};
+
+    // 1. THE BIG ARROW: from → to (continuous, behind everything)
+    const fromR = nodeMap[gr.from]._w ? 0 : 16;
+    const toR = nodeMap[gr.to]._w ? 0 : 16;
+    const a = Math.atan2(p2.y-p1.y, p2.x-p1.x);
+    const x1 = p1.x + Math.cos(a)*fromR;
+    const y1 = p1.y + Math.sin(a)*fromR;
+    const x2 = p2.x - Math.cos(a)*toR;
+    const y2 = p2.y - Math.sin(a)*toR;
+
+    arrowLayer.append("line")
+      .attr("x1",x1).attr("y1",y1).attr("x2",x2).attr("y2",y2)
+      .attr("stroke",c).attr("stroke-width",4).attr("stroke-opacity",.4)
+      .attr("marker-end","url(#"+markerId(gr.conn)+")");
+
+    // (no connector label on arrow — it's a bloc sémantique)
+
+    // 2. THIN LINE: greffe → midpoint of arrow
+    linkLayer.append("line")
+      .attr("x1",gp.x).attr("y1",gp.y)
+      .attr("x2",mid.x).attr("y2",mid.y)
+      .attr("stroke","#f59e0b").attr("stroke-width",2)
+      .attr("stroke-opacity",.6);
+
+    // Small dot at midpoint
+    linkLayer.append("circle")
+      .attr("cx",mid.x).attr("cy",mid.y).attr("r",3)
+      .attr("fill",c).attr("opacity",.5);
+  });
+
+  // Grouping box around the two GENRER nodes
+  const ga = nodeMap["genrer_a"], gb = nodeMap["genrer_b"];
+  if(ga && gb && ga.x && gb.x) {
+    const pad = 25;
+    const minX = Math.min(ga.x - ga._w/2, gb.x - gb._w/2) - pad;
+    const minY = Math.min(ga.y - ga._h/2, gb.y - gb._h/2) - pad;
+    const maxX = Math.max(ga.x + ga._w/2, gb.x + gb._w/2) + pad;
+    const maxY = Math.max(ga.y + ga._h/2, gb.y + gb._h/2) + pad;
+    linkLayer.append("rect")
+      .attr("x",minX).attr("y",minY)
+      .attr("width",maxX-minX).attr("height",maxY-minY)
+      .attr("rx",12).attr("ry",12)
+      .attr("fill","none").attr("stroke","#94a3b8")
+      .attr("stroke-width",1.5).attr("stroke-dasharray","6 4")
+      .attr("stroke-opacity",.5);
+    linkLayer.append("text")
+      .attr("x",(minX+maxX)/2).attr("y",minY-6)
+      .attr("text-anchor","middle").attr("font-size",10)
+      .attr("fill","#94a3b8").attr("font-weight",600)
+      .text("GENRER — deux facettes");
+  }
+}
+
+update();
+</script>
+</body>
+</html>
