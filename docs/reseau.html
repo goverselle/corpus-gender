@@ -65,8 +65,8 @@ const fondateurs = [
   {id:"etre", label:"ÊTRE", x:W*.56, y:H*.06},
   {id:"revendiquer", label:"SE REVENDIQUER", x:W*.8, y:H*.06},
   {id:"dire", label:"DIRE", x:W*.82, y:H*.48},
-  {id:"restreindre", label:"RÉDUIRE À UN GENRE", x:W*.52, y:H*.62},
-  {id:"universel", label:"UNIVERSEL", x:W*.28, y:H*.62},
+  {id:"restreindre", label:"RÉDUIRE À UN GENRE", x:W*.52, y:H*.55},
+  {id:"universel", label:"UNIVERSEL", x:W*.28, y:H*.55},
   {id:"devenir", label:"DEVENIR", x:W*.22, y:H*.32},
 ];
 
@@ -89,7 +89,7 @@ const greffes = [
    from:"naitre", to:"identifier", conn:"QB", offsetY:-100,
    aspect:"Z NAÎTRE DC X IDENTIFIER Z",
    desc:"Tout être qui naît se fait identifier par autrui.",
-   color:"#8b5cf6"},
+   color:"#1e40af"},
 
   {id:"genrer_a", label:"GENRER", sub:"attribution",
    from:"identifier", to:"dire", conn:"DC", offsetY:120,
@@ -97,7 +97,7 @@ const greffes = [
    desc:"Identifier socialement → nommer grammaticalement.",
    color:"#1e40af"},
 
-  {id:"genrer_b", label:"GENRER", sub:"imposition",
+  {id:"genrer_b", label:"GENRER", sub:"restriction",
    from:"universel", to:"restreindre", conn:"PT", offsetY:-100,
    aspect:"Y ÊTRE UNIVERSEL PT X RÉDUIRE Y À UN GENRE",
    desc:"Imposer une partition binaire au lieu de l'universalité.",
@@ -133,11 +133,6 @@ const greffes = [
    desc:"Autrui refuse de nommer selon l'auto-identification.",
    color:"#ef4444"},
 
-  {id:"degenrer", label:"DÉGENRER", sub:"",
-   from:"universel", to:"restreindre", conn:"NEG DC", offsetY:110,
-   aspect:"NEG X GENRER Z DC NEG X RESTREINDRE Z",
-   desc:"Lever la réduction à un genre. Réciproque de genrer (imposition).",
-   color:"#1e40af"},
 ];
 
 const nodeMap = {};
@@ -324,6 +319,28 @@ function update() {
       .attr("text-anchor","middle").attr("font-size",10)
       .attr("fill","#94a3b8").attr("font-weight",600)
       .text("GENRER — deux facettes");
+  }
+
+  // Grouping box around the two TRANSGENRE nodes
+  const ta = nodeMap["transgenre_pre"], tb = nodeMap["transgenre"];
+  if(ta && tb && ta.x && tb.x) {
+    const pad = 25;
+    const minX = Math.min(ta.x - ta._w/2, tb.x - tb._w/2) - pad;
+    const minY = Math.min(ta.y - ta._h/2, tb.y - tb._h/2) - pad;
+    const maxX = Math.max(ta.x + ta._w/2, tb.x + tb._w/2) + pad;
+    const maxY = Math.max(ta.y + ta._h/2, tb.y + tb._h/2) + pad;
+    linkLayer.append("rect")
+      .attr("x",minX).attr("y",minY)
+      .attr("width",maxX-minX).attr("height",maxY-minY)
+      .attr("rx",12).attr("ry",12)
+      .attr("fill","none").attr("stroke","#94a3b8")
+      .attr("stroke-width",1.5).attr("stroke-dasharray","6 4")
+      .attr("stroke-opacity",.5);
+    linkLayer.append("text")
+      .attr("x",(minX+maxX)/2).attr("y",minY-6)
+      .attr("text-anchor","middle").attr("font-size",10)
+      .attr("fill","#94a3b8").attr("font-weight",600)
+      .text("TRANSGENRE — deux facettes");
   }
 }
 

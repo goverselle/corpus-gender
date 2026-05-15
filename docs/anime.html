@@ -108,7 +108,7 @@ const greffes = [
    from:"naitre", to:"identifier", conn:"QB", offsetY:-100,
    aspect:"Z NAÎTRE DC X IDENTIFIER Z",
    desc:"Tout être qui naît se fait identifier par autrui. Money introduit gender assignment.",
-   color:"#8b5cf6", year:1955, yearLabel:"1955"},
+   color:"#1e40af", year:1955, yearLabel:"1955"},
 
   {id:"transgenre_pre", label:"TRANSGENRE", sub:"sens précoce",
    from:"naitre", to:"devenir", conn:"PT", offsetY:100,
@@ -134,7 +134,7 @@ const greffes = [
    desc:"Concordance entre assignation et auto-identification.",
    color:"#1e40af", year:2007, yearLabel:"2007"},
 
-  {id:"genrer_b", label:"GENRER", sub:"imposition",
+  {id:"genrer_b", label:"GENRER", sub:"restriction",
    from:"universel", to:"restreindre", conn:"PT", offsetY:-100,
    aspect:"Y ÊTRE UNIVERSEL PT X RÉDUIRE Y À UN GENRE",
    desc:"Imposer une partition binaire au lieu de l'universalité. Premier sens attesté du verbe.",
@@ -150,12 +150,6 @@ const greffes = [
    from:"sidentifier", to:"dire", conn:"DC", offsetY:130,
    aspect:"X S'IDENTIFIER COMME Y DC X DIRE Y",
    desc:"S'auto-identifier, donc le dire. Internalise s'identifier.",
-   color:"#1e40af", year:2015, yearLabel:"2015"},
-
-  {id:"degenrer", label:"DÉGENRER", sub:"",
-   from:"universel", to:"restreindre", conn:"NEG DC", offsetY:110,
-   aspect:"NEG X GENRER Z DC NEG X RESTREINDRE Z",
-   desc:"Lever la réduction à un genre. Réciproque de genrer (imposition).",
    color:"#1e40af", year:2015, yearLabel:"2015"},
 
   {id:"genrer_a", label:"GENRER", sub:"attribution",
@@ -174,11 +168,10 @@ const animOrder = [
   "sidentifier",     // 2004 — ÊTRE → SE REVENDIQUER
   "transgenre",      // ~2000s — ASSIGNER → S'IDENTIFIER (sens politique)
   "cisgenre",        // 2007 — ASSIGNER → S'IDENTIFIER (DC)
-  "genrer_b",        // 2009 — UNIVERSEL → RÉDUIRE (imposition)
+  "genrer_b",        // 2009 — UNIVERSEL → RÉDUIRE (restriction)
   "se_genrer",       // 2015 — S'IDENTIFIER → DIRE
   "genrer_a",        // 2016 — IDENTIFIER → DIRE (attribution)
   "megenrer",        // 2013 — SE GENRER → DIRE (PT)
-  "degenrer",        // 2015 — UNIVERSEL → RÉDUIRE (NEG DC)
 ];
 const greffesByYear = animOrder.map(id => greffes.find(g => g.id === id));
 
@@ -418,6 +411,32 @@ function drawStatic(gr) {
 
 function showGroupingBox() {
   linkLayer.selectAll(".genrer-box").remove();
+  // Grouping box TRANSGENRE
+  if(visibleSet.has("transgenre_pre") && visibleSet.has("transgenre")) {
+    const ta = nodeMap["transgenre_pre"], tb = nodeMap["transgenre"];
+    if(ta.x && tb.x) {
+      const pad = 25;
+      const minX = Math.min(ta.x-ta._w/2,tb.x-tb._w/2)-pad;
+      const minY = Math.min(ta.y-ta._h/2,tb.y-tb._h/2)-pad;
+      const maxX = Math.max(ta.x+ta._w/2,tb.x+tb._w/2)+pad;
+      const maxY = Math.max(ta.y+ta._h/2,tb.y+tb._h/2)+pad;
+      linkLayer.append("rect").attr("class","trans-box")
+        .attr("x",minX).attr("y",minY)
+        .attr("width",maxX-minX).attr("height",maxY-minY)
+        .attr("rx",12).attr("ry",12).attr("fill","none")
+        .attr("stroke","#94a3b8").attr("stroke-width",1.5)
+        .attr("stroke-dasharray","6 4").attr("stroke-opacity",0)
+        .transition().duration(600).attr("stroke-opacity",.5);
+      linkLayer.append("text").attr("class","trans-box")
+        .attr("x",(minX+maxX)/2).attr("y",minY-6)
+        .attr("text-anchor","middle").attr("font-size",10)
+        .attr("fill","#94a3b8").attr("font-weight",600).attr("opacity",0)
+        .text("TRANSGENRE — deux facettes")
+        .transition().duration(600).attr("opacity",1);
+    }
+  }
+
+  // Grouping box GENRER
   if(visibleSet.has("genrer_a") && visibleSet.has("genrer_b")) {
     const ga = nodeMap["genrer_a"], gb = nodeMap["genrer_b"];
     if(ga.x && gb.x) {
