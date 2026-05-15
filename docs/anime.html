@@ -181,7 +181,7 @@ greffes.forEach(gr => nodeMap[gr.id] = gr);
 
 const svg = d3.select("#graph").attr("width",W).attr("height",H);
 const g = svg.append("g");
-svg.call(d3.zoom().scaleExtent([.2,3]).on("zoom", e => g.attr("transform",e.transform)));
+// zoom configuré dans l'init
 
 const defs = svg.append("defs");
 [["dc","#3b82f6"],["pt","#ef4444"],["qb","#8b5cf6"],["neg","#10b981"]].forEach(([id,c]) => {
@@ -546,10 +546,25 @@ document.getElementById("btn-play").addEventListener("click", () => {
 document.getElementById("btn-reset").addEventListener("click", resetAnim);
 document.getElementById("btn-all").addEventListener("click", showAll);
 
-// Init
+// Init — dézoomer et lancer automatiquement
 greffes.forEach(gr => gr._hidden = true);
 computePositions();
-showFondateurs();
+
+// Dézoomer un peu au départ
+const initScale = 0.85;
+const initTransform = d3.zoomIdentity.translate(W*(1-initScale)/2, H*(1-initScale)/2).scale(initScale);
+svg.call(d3.zoom().scaleExtent([.2,3]).on("zoom", e => g.attr("transform",e.transform)).transform, initTransform);
+g.attr("transform", initTransform);
+
+// Lancer l'animation automatiquement
+showFondateurs().then(() => {
+  setTimeout(() => {
+    playing = true;
+    document.getElementById("btn-play").textContent = "⏸ Pause";
+    document.getElementById("btn-play").classList.add("active");
+    step();
+  }, 600);
+});
 </script>
 </body>
 </html>
